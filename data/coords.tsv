@@ -1,0 +1,420 @@
+id	name_zh	modern_name	lat	lon	precision	basis	note
+01.01a	殑伽河	Ganges river (label point on the middle Ganges near Kanpur)	26.45	80.35	district	approx	river; label point only
+01.01b	信度河	Indus river (label point near Dera Ghazi Khan)	30.05	70.65	district	approx	river; label point only
+01.01c	縛芻河	Amu Darya (Oxus) (label point near Termez)	37.25	67.30	district	approx	river; label point only
+01.01d	徙多河	Yarkand river (label point near Yarkand)	38.40	77.20	district	approx	river; label point only
+01.01e	香山	Mount Kailash, Tibet	31.067	81.312	site	known	
+01.01f	積石山	Amne Machin range, Qinghai	34.79	99.46	district	known	range; point at the main peak
+01.04a	黑嶺	Range across central Afghanistan (Koh-i-Baba / Hindu Kush junction)	34.70	68.00	district	approx	range; label point only, between Bamiyan and Kapisa
+01.04b	高昌	Kara-khoja (Gaochang ruins), Turfan, Xinjiang	42.85	89.53	site	known	
+01.05	阿耆尼國	Karashahr region, Xinjiang	42.06	86.57	district	known	point at Karashahr
+01.05a	阿耆尼國大都城	Bagdad-shahr ruins, south of Karashahr	42.02	86.58	site	approx	Stein's site; placed just S of Karashahr
+01.06	屈支國	Kucha region, Xinjiang	41.72	82.96	district	known	point at Kucha
+01.06.01	國東境城 (大龍池)	Ruined town slightly E of Kucha	41.72	83.10	town	approx	only 'slightly east of modern Kucha'
+01.06.02	昭怙釐伽藍	Subashi temple ruins, NNE of Kucha	41.86	83.04	site	known	
+01.06.04	阿奢理貳伽藍	Duldur-Aqur ruin, opposite Kumtura	41.69	82.70	site	approx	
+01.07	跋祿迦國	Aksu region (old Gumo), Xinjiang	41.17	80.26	district	known	capital undecided; point at Aksu
+01.07.01	凌山	Tianshan main range N of Aksu (Pik Pobeda / Khan-Tengri)	42.03	80.13	district	approx	range; point at Pik Pobeda; pass used is disputed
+01.07.02	大清池	Issyk-kul lake, Kyrgyzstan	42.43	77.25	district	known	lake centre; beyond Baluka: on the route NW across the Tianshan, listed under 01.07 in the table
+01.07.03	素葉水城	Suyab, near Tokmak, Kyrgyzstan	42.84	75.29	town	known	point at Tokmak (Ak-Beshim ruins lie c. 8 km SW); beyond Baluka: on the route NW across the Tianshan, listed under 01.07 in the table
+01.07.04	窣利	Sogdiana	39.70	66.50	country	approx	broad region centroid
+01.07.05	千泉	Merke, Kazakhstan	42.87	73.18	town	known	beyond Baluka: on the route W, listed under 01.07 in the table
+01.07.06	呾邏私城	Talas ruins near Taraz (Dzhambul), Kazakhstan	42.90	71.37	town	known	beyond Baluka: on the route W, listed under 01.07 in the table
+01.07.06a	小孤城 (中國人)						no location given
+01.07.07	白水城	Sayram, E of Shymkent, Kazakhstan	42.30	69.77	town	known	majority view followed by Mizutani; beyond Baluka: on the route W, listed under 01.07 in the table
+01.07.08	恭御城						not identifiable
+01.08	笯赤建國	Nujkath = Chirchik (Kosh-kurgan), NE of Tashkent	41.47	69.58	town	approx	'probably'; placed at modern Chirchik
+01.09	赭時國	Tashkent	41.30	69.24	town	known	
+01.09a	葉河	Syr Darya (label point near Chinaz)	40.95	68.70	district	approx	river; label point only
+01.10	㤄捍國	Ferghana valley	40.75	71.80	country	approx	valley centroid
+01.11	窣堵利瑟那國	Shahristan (Bunjikath), SW of Istaravshan (Ura-tyube), Tajikistan	39.77	68.82	town	approx	capital either Shahristan or Ura-tyube (39.91, 69.00); Shahristan placed
+01.11a	大沙磧	Kizil Kum desert	42.00	64.50	district	approx	desert centroid; Mizutani's probable route ran along its S edge via Dzhizak; c. 440 km from the Usrushana point; a desert centroid, not a point on the route
+01.12	颯秣建國	Samarkand	39.65	66.96	town	known	
+01.12a	颯秣建國大都城	Afrasiab ruins, Samarkand	39.67	66.99	site	known	
+01.13	弭秣賀國	Maymurgh, near Samarkand	39.55	67.05	town	approx	site not fixed; placed a little SE of Samarkand as Mizutani says
+01.14	劫布呾那國	Kabudhanjakath, N of Samarkand (Bulungur)	39.78	67.05	town	approx	northern satellite town of Samarkand; position estimated
+01.15	屈霜你迦國	Kushaniya, c. 40 km NW of Samarkand	39.90	66.63	town	approx	from Mizutani's distance and direction
+01.16	喝捍國	Kharghankath (Kalkanata), c. 8-9 km N of Kermine (Navoiy)	40.18	65.38	town	approx	from Mizutani's distance and direction
+01.17	捕喝國	Bukhara	39.77	64.42	town	known	
+01.18	伐地國	Near Chardzhou (Türkmenabat) on the Amu Darya	39.08	63.58	town	approx	name and site unknown; 'probably near Chardzhou'; point at Türkmenabat
+01.19	貨利習彌伽國	Khwarizm, lower Amu Darya	41.55	60.63	country	approx	region; point at Urgench
+01.20	羯霜那國	Shahrisabz (Kesh), Uzbekistan	39.06	66.83	town	known	
+01.20.01	鐵門	Iron Gate defile (Buzgala), W of Derbent, Surkhandarya	38.27	66.88	site	approx	
+01.20.02	覩貨邏國	Tukhara (northern Afghanistan)	36.80	68.50	country	approx	broad region centroid; extent not agreed
+01.21	呾蜜國	Termez	37.28	67.20	town	known	old Termez
+01.22	赤鄂衍那國	Denau, Surkhandarya	38.27	67.90	town	known	
+01.23	忽露摩國	Between Denau and Dushanbe	38.43	68.34	district	approx	midpoint of Denau and Dushanbe
+01.24	愉漫國	Dushanbe	38.56	68.77	town	known	
+01.25	鞠和衍那國	Kabadian (Qabodiyon), Tajikistan	37.41	68.18	town	known	
+01.26	鑊沙國	Wakhsh valley, Kurgan-tyube (Bokhtar) plain	37.84	68.78	district	known	point at Bokhtar
+01.27	珂咄羅國	Khuttal; capital Hulbuk (Kurbanshaid), Tajikistan	37.80	69.60	town	approx	point at Hulbuk ruins
+01.28	拘謎陀國	Darwaz; capital Kala-i-khum (Qalai Khumb)	38.46	70.79	town	known	
+01.28a	活國	Kunduz	36.73	68.86	town	known	Kunduz, named in the Kumidha section; c. 260 km from Darwaz
+01.29	縛伽浪國	Baghlan, Afghanistan	36.13	68.70	town	known	
+01.30	紇露悉泯健國	Haibak (Samangan), Khulm valley	36.27	68.02	town	known	Mizutani's tentative capital
+01.31	忽懍國	Khulm ruins N of Tashkurgan (Kholm)	36.73	67.69	site	approx	
+01.32	縛喝國	Balkh	36.76	66.90	town	known	
+01.32.01	納縛僧伽藍	Top-i-Rustam, Balkh	36.75	66.89	site	approx	
+01.32.02	提謂城・波利城						not located
+01.33	鋭秣陀國	Sar-i-pul, Afghanistan	36.22	65.93	town	known	
+01.34	胡寔健國	Guzgan/Jowzjan district	36.60	65.80	country	approx	capital unknown; district centroid
+01.35	呾剌健國	Talaqan of Khurasan, near Maimana	35.93	64.60	district	approx	exact site unknown; placed near Maimana
+01.36	揭職國	Darrah Gaz, up the Dara-i-Suf, S of Balkh	35.95	67.20	district	approx	
+01.37	梵衍那國	Bamiyan valley	34.82	67.83	district	known	
+01.37.01	立佛石像	Western (53 m) Buddha, Bamiyan	34.833	67.819	site	known	
+01.37.01a	鍮石釋迦佛立像	Eastern (35 m) Buddha, Bamiyan	34.831	67.828	site	known	
+01.37.02	佛入涅槃臥像伽藍						not identified by Mizutani (Foucher's emendation reported only)
+01.37.03	臥像伽藍東南僧伽藍						location unknown
+01.37.03a	黑嶺 (梵衍那-迦畢試間)	Shibar pass	34.91	68.23	site	known	pass on the Bamiyan-Ghorband route
+01.38	迦畢試國	Kapisa basin (Begram/Charikar), Afghanistan	35.00	69.25	district	known	
+01.38.01	質子伽藍	Koh-i-Pahlvan / Shotorak, E of Begram	34.99	69.33	site	approx	which ruin is uncertain
+01.38.02	曷邏怙羅僧伽藍	Kafir Qaleh, SE of Begram	34.96	69.33	site	approx	
+01.38.03	霫蔽多伐剌祠城	Tatarānzar, c. 12 km S of Begram	34.90	69.28	site	approx	from Mizutani's distance and direction
+01.38.03a	阿路猱山						no location given
+01.38.04	大雪山 (龍池・迦膩色迦王伽藍)	Top-Darrah stupa near Charikar	35.03	69.13	site	approx	
+01.38.05	舊王伽藍	Burj-i-Abdallah, N end of Begram	35.02	69.27	site	approx	
+01.38.07	比羅娑洛山 (象堅窣堵波)						'three isolated hills S of the Koh-Daman stream': no position fixable
+01.38a	迦畢試國大都城	Begram	35.00	69.28	site	known	
+02.01.02	五印度	India (Five Indias)	22.00	79.00	country	approx	subcontinent centroid
+02.02	濫波國	Laghman region, E Afghanistan	34.67	70.21	district	known	point at Mihtarlam
+02.02a	濫波國大都城	Begram on the Logar, c. 10 km SE of Kabul	34.48	69.25	site	approx	capital unknown; Mizutani reports Mizuno's possibility only
+02.03	那揭羅曷國	Jalalabad basin	34.43	70.45	district	known	
+02.03.01a	那揭羅曷國大都城	Dasht-i-Begram near Chahar-bagh, SW of Jalalabad	34.40	70.38	site	approx	
+02.03.02	燃燈佛受記窣堵波	Ahin-Posh stupa, E of Jalalabad	34.42	70.50	site	approx	'possibly'
+02.03.03	瞿波羅龍窟（佛影窟）	Syah-sang rocks S of Chahar-bagh	34.37	70.38	site	approx	exact cave unknown
+02.03.05	醯羅城	Hadda	34.36	70.47	site	known	
+02.04	健馱邏國	Gandhara (Peshawar valley)	34.10	72.00	district	known	region centroid
+02.04.01a	布路沙布邏	Peshawar	34.01	71.58	town	known	
+02.04.02	卑鉢羅樹						no location given (S of it is Shah-ji-ki-Dheri)
+02.04.03	迦膩色迦大窣堵波	Shah-ji-ki-Dheri, SE of Peshawar	33.997	71.59	site	known	
+02.04.06	迦膩色迦伽藍	Gor Khattri, Peshawar	34.009	71.58	site	known	'possibly'
+02.04.09	布色羯邏伐底城	Charsadda (Bala Hisar)	34.17	71.73	site	known	
+02.04.12	化鬼子母窣堵波						no location given
+02.04.13	商莫迦菩薩窣堵波						no location given
+02.04.14	跋虜沙城	Shahbaz Garhi	34.24	72.16	site	known	
+02.04.14a	跋虜沙城北窣堵波						Foucher's Chanaka Dheri reported, but shown not to be a stupa; Mizutani gives no identification
+02.04.14b	跋虜沙城東門外窣堵波	But Shahri, E of Shahbaz Garhi	34.24	72.19	site	approx	
+02.04.15	彈多落迦山	Mekha-Sanda, NE of Shahbaz Garhi	34.27	72.19	site	approx	
+02.04.16	獨角仙人窣堵波						no location given
+02.04.17	毘摩天女像（崇山）	Karamar hill, ENE of Shahbaz Garhi	34.21	72.26	site	approx	
+02.04.18	烏鐸迦漢荼城	Hund (Ohind), on the Indus	34.01	72.43	site	known	
+02.04.19	娑羅覩邏邑	Lahor near Hund	34.03	72.36	town	approx	
+03.01	烏仗那國	Swat valley	34.90	72.40	district	known	valley centroid
+03.01.01a	瞢揭釐城	Mingora	34.78	72.36	town	known	
+03.01.01b	蘇婆伐窣堵河	Swat river (label point near Mingora)	34.75	72.33	district	approx	river; label point only
+03.01.02	忍辱仙人窣堵波						no location given
+03.01.03	阿波邏羅龍泉						no site identification (real Swat source at Kalam)
+03.01.04	如來足迹石	Tirat village, upper Swat	35.05	72.47	site	approx	
+03.01.04a	如來濯衣石	Rock on the road towards Tirat	35.00	72.45	site	approx	position along the road estimated
+03.01.05	醯羅山	Mount Ilam, S of Mingora	34.64	72.48	site	approx	
+03.01.06	摩訶伐那伽藍	Shinasi stupa at Kukrai, on the way to Ilam	34.70	72.43	site	approx	position estimated between Mingora and Ilam
+03.01.07	摩愉伽藍	Gogdara stupa, near Udegram	34.75	72.31	site	approx	
+03.01.08	尸毘迦王本生窣堵波						no identification
+03.01.09	薩裒殺地僧伽藍（珊尼羅闍川）	Adinzai valley above Chakdara	34.70	72.00	district	approx	
+03.01.09a	蘇摩大窣堵波	Suma stupa, Adinzai valley	34.70	72.00	site	approx	shares the valley point
+03.01.10	上軍王窣堵波	Shankardar stupa, near Barikot	34.68	72.24	site	known	
+03.01.10a	白象化石	Rock near Ghalagai, above Shankardar	34.69	72.24	site	approx	
+03.01.11	盧醯呾迦窣堵波						village 'Hazara' (Deane) not locatable
+03.01.12	遏部多石窣堵波						no place name given
+03.01.13	觀自在菩薩精舍						no location given
+03.01.14	藍勃盧山	Head of the Aushiri (Usheri) valley near Darora, Dir	35.25	72.00	district	approx	
+03.01.16	達麗羅川	Darel valley	35.62	73.45	district	known	Mizutani also cites Stein's Gurez for the old capital; Darel placed
+03.02	鉢露羅國	Baltistan	35.30	75.60	country	known	point at Skardu
+03.03	呾叉始羅國	Taxila	33.75	72.82	district	known	
+03.03.01a	呾叉始羅國大都城	Sirsukh, Taxila	33.76	72.84	site	known	
+03.03.02	醫羅鉢呾羅龍王池	Panja Sahib spring, Hasan Abdal	33.82	72.69	site	known	
+03.03.03	四大寶藏窣堵波	Ridge above Baoti Pind, Taxila	33.73	72.80	site	approx	
+03.03.04	捨頭窣堵波	Bhallar stupa, Sarda hill, Taxila	33.80	72.87	site	approx	
+03.03.06	拘浪拏太子窣堵波	Kunala stupa, Hathial ridge, Taxila	33.744	72.82	site	approx	Marshall's identification as reported
+03.04	僧訶補羅國	Ketas (Katas Raj), Salt Range	32.717	72.983	site	mizutani	Mizutani gives 32°43'N 72°59'E
+03.04.01a	僧訶補羅國大都城	Kotera fort above Ketas	32.72	72.98	site	approx	shares Ketas point
+03.04.02	僧訶補羅城南窣堵波	Foot of Kotera hill, Ketas	32.72	72.98	site	approx	shares Ketas point
+03.04.03	僧訶補羅城東南石窣堵波	Ketas sacred pools	32.717	72.983	site	mizutani	Mizutani's Ketas coordinates
+03.04.05	摩訶薩埵捨身處（大石門）	Banj mountain, Mahaban spur, Buner	34.333	72.667	site	mizutani	Mizutani gives c. 72°40'E 34°20'N; c. 180 km N of Ketas: the text's route goes from Siṃhapura back to the Indus
+03.04.06	捨身北石窣堵波						existence unknown
+03.04.07	孤山伽藍						no identification
+03.05	烏剌尸國	Hazara district; capital Haripur	33.99	72.93	town	known	
+03.06	迦濕彌羅國	Kashmir valley	34.00	74.80	district	known	
+03.06.01a	迦濕彌羅國大都城	Srinagar	34.08	74.80	town	known	
+03.06.06	佛牙伽藍	S slope of Takht-i-Sulaiman, Srinagar	34.07	74.84	site	approx	'perhaps'
+03.06.06a	迦濕彌羅故城	Pandrethan, SE of Srinagar	34.05	74.86	site	known	
+03.06.07	觀自在菩薩小伽藍	Near Pandrethan	34.05	74.86	site	approx	no specific site; shares the Pandrethan point
+03.06.08	衆賢論師故伽藍	Avantipur	33.92	75.01	town	known	'around Avantipur'
+03.06.09	索建地羅論師小伽藍	Valley NE of the hill S of the Palace Hotel, Srinagar	34.08	74.86	site	approx	
+03.06.10	商林伽藍						location unknown
+03.06.11	大衆部伽藍	Baramula-Rampur stretch of the Jhelum	34.17	74.25	district	approx	
+03.07	半笯嗟國	Punch (Poonch)	33.77	74.09	town	known	
+03.08	曷邏闍補羅國	Rajauri	33.38	74.31	town	known	
+04.01	磔迦國	Punjab plain between Beas and Chenab	31.60	74.30	country	approx	region centroid; capital perhaps 'new Sakala'
+04.01.02	奢羯羅故城	Sialkot	32.49	74.53	town	known	
+04.02	至那僕底國	Chiniyari, between Amritsar and Sialkot	32.06	74.70	district	approx	village not found; placed midway Amritsar-Sialkot
+04.02.03	答秣蘇伐那僧伽藍	Sultanpur (Lodhi), SE of Amritsar	31.21	75.20	town	known	
+04.03	闍爛達羅國	Jalandhar	31.33	75.58	town	known	
+04.04	屈露多國	Kulu; old capital Nagar	32.13	77.17	town	known	
+04.04a	洛護羅國	Lahul	32.57	76.97	district	known	point at Keylong
+04.04b	秣邏娑國	Ladakh	34.16	77.58	country	approx	point at Leh; c. 230 km from Kulu: neighbouring country named in the Kulu section
+04.05	設多圖盧國	Sarhind	30.64	76.39	town	known	
+04.06	波理夜呾羅國	Bairat (Viratnagar), Rajasthan	27.45	76.18	town	known	
+04.07	秣菟羅國	Mathura	27.49	77.67	town	known	
+04.07.03	鄔波毱多伽藍						cannot now be located
+04.08	薩他泥濕伐羅國	Thanesar	29.97	76.83	town	known	
+04.08.02	福地	Kurukshetra, near Thanesar	29.97	76.85	district	known	
+04.08.04	倶昏荼僧伽藍						no location given
+04.09	窣祿勤那國	Sugh village, c. 5 km E of Jagadhri (Yamunanagar district, Haryana)	30.170	77.350	site	approx	Mizutani prints 30°32'N 77°53'E (Kalsi's coordinates) and 'Dehra Dun district'; Cunningham's Sugh is near Jagadhri (Ambala 1883; Saharanpur 1981)
+04.09.03	殑伽河源	Haridwar	29.95	78.16	town	known	
+04.10	秣底補羅國	E bank of the Ganges opposite Srughna (Bijnor area)	29.60	78.20	district	approx	region only; Mizutani cites Mandawar (29°29'N 78°08'E) as others' view
+04.10.05	摩裕羅城	Haridwar (Mayapur)	29.94	78.15	site	known	
+04.11	婆羅吸摩補羅國	Srinagar (Garhwal)	30.233	78.617	town	mizutani	Mizutani gives 30°14'N 78°37'E
+04.11.02	蘇伐剌拏瞿呾羅國	Western Tibet (Eastern Women's Kingdom)	32.00	80.00	country	approx	broad Himalayan region, placed in western Tibet; c. 240 km from Garhwal: neighbouring country named in the section
+04.12	瞿毘霜那國	1 mile E of Kashipur, Uttarakhand	29.217	78.967	site	mizutani	Mizutani's coordinates for Kashipur have N/E swapped (printed 29°13'E 78°57'N); corrected, and moved 1 mile E
+04.13	堊醯掣呾羅國	Ramnagar (Ahichchhatra), Bareilly district	28.37	79.13	site	known	
+04.14	毘羅刪拏國	Bilsar (Bilsad), Etah district	27.53	79.13	town	approx	
+04.15	劫比他國	Sankisa	27.33	79.27	site	known	
+04.15.02	三寶階	Sankisa	27.33	79.27	site	known	shares the Sankisa point
+05.01	羯若鞠闍國	Kannauj	27.05	79.92	town	known	
+05.01.09	納縛提婆矩羅城						two candidates (Nohbatgang; Newal near Bangarmau), Mizutani does not choose
+05.02	阿踰陀國	Aphui, 29 miles SE of Fatehpur	25.63	81.15	town	approx	Mizutani's preferred view (Führer); from distance and direction
+05.03	阿耶穆佉國	Rae Bareli-Pratapgarh area	26.10	81.50	district	approx	exact location unknown
+05.04	鉢邏耶伽國	Allahabad (Prayagraj)	25.44	81.85	town	known	
+05.04.03	天祠大樹	Allahabad fort (Akshayavat)	25.43	81.88	site	known	
+05.04.04	大施場	Triveni Sangam, Allahabad	25.42	81.885	site	known	
+05.05	憍賞彌國	Kosam (Kausambi)	25.34	81.39	site	known	
+05.05.03	具史羅長者故宅	Ghositarama, Kosam	25.345	81.40	site	known	
+05.05.06	迦奢布羅城	Sultanpur on the Gomati	26.26	82.07	town	known	
+05.06	鞞索迦國						Mizutani gives no identification (reports Sāketa, Biseipur, Nimkhar)
+06.01	室羅伐悉底國	Sahet-Mahet (Sravasti ruins), Uttar Pradesh	27.51	82.04	site	known	
+06.01.04	逝多林給孤獨園						no modern site named by Mizutani
+06.01.13	得眼林						no identification given
+06.01.14	迦葉波佛本生城						Mizutani gives no view of his own (Tadwa reported)
+06.02	劫比羅伐窣堵國	Tilaurakot, Nepal Tarai	27.57	83.05	site	known	
+06.02.05	迦羅迦村馱佛本生城						no modern identification
+06.02.05a	迦諾迦牟尼佛本生城	Nigali Sagar Asoka pillar, Nepal	27.60	83.15	site	known	
+06.02.06	贍部樹蔭						no identification given
+06.02.08	尼拘律樹林 (尼拘盧陀僧伽藍)						no identification
+06.02.10	箭泉						no identification given
+06.02.11	臘伐尼林	Lumbini (Rummindei), Nepal	27.469	83.276	site	known	
+06.02.12	臘伐尼林無憂王石柱・油河	Rummindei pillar, Lumbini	27.469	83.276	site	known	
+06.03	藍摩國	Dharmauri, Nepal-Gorakhpur border	27.433	83.867	town	mizutani	first of two candidates Mizutani lists without choosing (other: Rampur Deoriya, Basti district); he gives 27°26'N 83°52'E
+06.03.03	太子迴駕・剃髮窣堵波						Anoma river bank: not located
+06.03.04	尼拘盧陀林灰炭窣堵波						no modern identification
+06.04	拘尸那揭羅國	Kasia (Kushinagar)	26.74	83.89	town	known	
+06.04.03	娑羅林 (如來寂滅之所)	Mahaparinirvana temple, Kasia	26.741	83.888	site	known	
+06.04.03a	阿恃多伐底河						river identification only (Little Rapti / Gandak); no point
+06.04.11	如來焚身窣堵波	Ramabhar stupa (present cremation site), Kasia	26.735	83.905	site	known	Mizutani says c. 10 miles E of the nirvana site, but Ramabhar lies c. 1.5 km E
+06.04.14	大邑聚 (羅怙羅)						no identification
+07.01	婆羅痆斯國	Varanasi	25.32	83.01	town	known	
+07.01.02	婆羅痆河西無憂王窣堵波・石柱	Lat Bhairo, Varanasi	25.33	83.015	site	approx	
+07.01.02a	鹿野伽藍	Sarnath (Mulagandhakuti)	25.380	83.024	site	known	
+07.01.03	初轉法輪石窣堵波	Dharmarajika stupa, Sarnath	25.380	83.024	site	known	
+07.01.04	慈氏菩薩受記窣堵波	Dhamekh stupa, Sarnath	25.381	83.027	site	known	
+07.01.06	三清池	Ponds at Sarnath	25.381	83.024	site	approx	shares the Sarnath point
+07.01.10	五人迎佛窣堵波	Chaukhandi stupa, Sarnath	25.373	83.023	site	known	
+07.01.11	救命池 (烈士池)						no identification
+07.02	戰主國	Ghazipur	25.58	83.58	town	known	
+07.02.02	阿避陀羯剌拏僧伽藍	Bikapur, 1 mile E of Ballia	25.76	84.17	town	approx	
+07.02.03	摩訶娑羅邑	Masar, W of Arrah	25.56	84.57	town	known	
+07.02.03a	那羅延天祠	Revelganj	25.79	84.64	town	known	'probably'
+07.02.03b	伏鬼窣堵波	Near Chapra	25.78	84.73	town	approx	'perhaps'
+07.02.04	瓶窣堵波						cannot be identified
+07.03	吠舍釐國	Basarh (Vaisali)	25.967	85.183	site	mizutani	Mizutani gives 25°58'N 85°11'E (the Raja-Bisal-ka-garh ruin lies c. 5 km WNW, at 25.99, 85.13)
+07.03.02	宮城西北伽藍 (說毘摩羅詰經處)						no identification given
+07.03.03	吠舍釐王所建舍利窣堵波	Relic stupa, Vaisali	25.99	85.13	site	known	
+07.03.04	無憂王窣堵波・石柱	Kolhua Asoka pillar, Vaisali	26.006	85.11	site	known	
+07.03.06	毘摩羅詰故宅						no modern identification
+07.03.07	菴沒羅女園						no identification given
+07.03.12	栗呫婆子別如來處						no identification
+07.03.13	吠舍釐城西北故城 (摩訶提婆本生)	Kesariya stupa	26.334	84.855	site	known	
+07.03.14	七百賢聖結集窣堵波						no modern site named
+07.03.14a	韓若國	Sankisa (Saṅkassa)	27.33	79.27	town	known	Mizutani leans to Saṅkassa but leaves it open; Revata's residence, far from Vaisali
+07.03.15	濕吠多補羅僧伽藍						no modern site named
+07.03.16	阿難陀分身窣堵波						Mizutani only quotes Faxian
+07.04	弗栗恃國	Northern Darbhanga district	26.40	86.10	district	approx	
+07.04.01a	占戍拏 (國大都城)	Baligarh ruins, N of Madhubani	26.58	86.10	site	approx	from Mizutani's 16 miles N of Madhubani
+07.04.01b	大河	Kamla river (label point)	26.30	86.20	district	approx	'perhaps'; river label point only
+07.04.03	度漁人東北故城						no identification given
+07.05	尼波羅國	Kathmandu valley, Nepal	27.70	85.33	district	approx	capital not identified; point at the Kathmandu valley
+08.00	摩掲陀國	Magadha (S Bihar)	25.15	85.20	country	approx	region centroid
+08.02.01	波吒釐子城	Pataliputra (Kumrahar), Patna	25.60	85.18	site	known	
+08.02.03	八萬四千塔 (無憂王堵波)						no modern identification
+08.02.05	阿育王石柱	Kumrahar, Patna	25.597	85.18	site	known	
+08.03.01	屈屈吒阿濫摩僧伽藍						no modern identification
+08.03.05	故伽藍 (華氏城西南)						no identification given
+08.04.01	鞮羅擇迦伽藍	Telhara (Tillara), Nalanda district	25.18	85.18	town	known	
+08.04.02	大山 (佛入定山)	Barabar hill	25.006	85.063	site	known	
+08.04.03	德慧伽藍						no identification given
+08.04.04	戒賢伽藍 (孤山)						no identification given
+08.05.01	伽耶城	Gaya (Brahma-Gaya)	24.79	85.00	town	known	
+08.05.01a	伽耶山	Brahmayoni hill, Gaya	24.77	84.99	site	known	
+08.05.03	鉢羅笈菩提山	Mora hill (Dungeshwari), NE of Bodh Gaya	24.73	85.03	site	approx	
+08.06.01	菩提樹 (垣內)	Mahabodhi precinct, Bodh Gaya	24.696	84.991	site	known	
+08.06.04	精舍 (菩提樹東)	Mahabodhi temple, Bodh Gaya	24.696	84.991	site	known	
+08.06.18	目支鄰陀龍王池	Mucalinda tank, S of the Mahabodhi temple	24.694	84.991	site	approx	
+08.06.21	尼連禪那河浴處堵波	Tika Bigha, S of Bodh Gaya	24.69	84.995	site	approx	
+08.06.28	盲龍室						no identification given
+08.06.30	摩訶菩提僧伽藍	Monastery mound N of the Mahabodhi temple	24.697	84.991	site	approx	
+09.01.01	香象池・窣堵波	Bakraur stupa, across the river from Bodh Gaya	24.693	85.003	site	known	
+09.01.02	石柱 (欝頭藍子)						no identification
+09.01.02a	莫訶河	Mohana river (label point S of Bodh Gaya)	24.62	85.00	district	approx	river; label point only
+09.01.03	屈屈吒播陀山 (窶盧播陀山)	Hill N of Kurkihar, ENE of Gaya	24.835	85.23	site	approx	
+09.02.01	佛陀伐那山						no accepted identification
+09.02.02	洩瑟知林	Jethian	24.92	85.30	town	known	
+09.02.03	二溫泉 (杖林西南)	Tapoban hot springs	24.91	85.35	site	approx	
+09.02.03a	大山 (杖林東南)	Handia hill	24.93	85.35	site	approx	
+09.02.03b	孤山 (廣博仙人)	Pansabda recess, SW of Handia hill	24.92	85.34	site	approx	
+09.02.03c	小孤山 (石室・阿素洛宮)						unidentified
+09.02.04	矩奢掲羅補羅城 (上茅宮城)	Old Rajagrha (Rajgir valley)	25.00	85.42	site	known	
+09.02.08	時縛迦說法堂 (菴婆羅園)	Jivakamravana, Rajgir	25.01	85.42	site	known	
+09.02.09	姞栗陀羅矩吒山	Gridhrakuta (Vulture Peak), Rajgir	25.001	85.444	site	known	
+09.02.10	鷲峰精舍・阿難石室	Gridhrakuta, Rajgir	25.001	85.444	site	known	shares the Gridhrakuta point
+09.02.11	毘布羅山	Vipula hill, Rajgir	25.025	85.425	site	approx	
+09.02.11a	卑鉢羅石室 (阿素洛宮)	N face of Vaibhara hill, Rajgir	25.02	85.41	site	approx	
+09.02.12	大石室 (提婆達多入定)	Cave near the N gate of old Rajagrha	25.02	85.42	site	approx	
+09.02.13	迦蘭陀竹園	Venuvana, Rajgir	25.025	85.418	site	known	
+09.02.14	阿闍多設咄路王舍利塔	Mound E of the road, Rajgir	25.03	85.42	site	approx	'probably'
+09.02.16	大石室 (第一結集)	Saptaparni cave, Vaibhara hill	25.016	85.408	site	known	
+09.02.16a	大衆部結集處堵波						no identification given
+09.02.17	迦蘭陀池	Manavasar pond near Venuvana	25.025	85.419	site	approx	
+09.02.17a	無憂王堵波・石柱 (迦蘭陀池西北)	Near Baitarni Godan, SW of New Rajagrha	25.025	85.41	site	approx	'probably'
+09.02.18	曷羅闍姞利呬城 (王舍城)	New Rajagrha ruins, Rajgir	25.03	85.42	site	known	
+09.03.01	那爛陀僧伽藍	Nalanda ruins	25.136	85.443	site	known	
+09.03.06	精舍 (如來三月說法處, 那爛陀伽藍西)	Nalanda (caitya row)	25.136	85.443	site	approx	shares the Nalanda point
+09.03.08	拘理迦邑						no modern identification
+09.03.10	迦羅臂拏迦邑						no modern site given
+09.03.11	因陀羅勢羅窶訶山	Giriyek hill	25.025	85.52	site	known	
+09.03.13	迦布徳迦伽藍	Bihar Sharif	25.20	85.52	town	known	after Mizutani's emendation of the distance
+09.03.14	孤山 (觀自在菩薩像)	Bihar Sharif	25.20	85.52	town	approx	'at Bihar'; shares the Bihar Sharif point
+09.03.15	一伽藍 (孤山東南四十餘里)						no settled identification
+09.03.15a	大聚落 (殑伽河南)	Sheikhpura	25.14	85.85	town	approx	Mizutani's 'Shekhpur' taken as Sheikhpura; after his emendation of the distance
+09.03.15b	落般膩羅聚落						unsettled
+10.01	伊爛拏鉢伐多國	Monghyr (Munger)	25.38	86.47	town	known	
+10.01.02	伊爛拏山	Pirpahar hill, E of Monghyr	25.37	86.52	site	approx	'perhaps'
+10.01.04	小孤山	Uren, SW of Monghyr	25.18	86.25	site	approx	
+10.02	瞻波國	Champanagar near Bhagalpur	25.25	86.95	town	known	
+10.02.02a	孤嶼						pond only conjecturally named; not located
+10.03	羯朱嗢祇羅國	Rajmahal	25.05	87.84	town	known	
+10.03.01a	大臺						no identification given
+10.04	奔那伐彈那國	Mahasthangarh, Bogra	24.96	89.34	site	known	
+10.04.02	跋始婆僧伽藍	Vasu-Bihar, NW of Mahasthan	24.99	89.29	site	approx	
+10.05	迦摩縷波國	Guwahati	26.18	91.75	town	known	common view followed
+10.06	三摩呾吒國	Bad-Kamta (Barkamta), W of Comilla	23.43	91.00	town	approx	
+10.06.02a	室利差呾羅國	Sri Ksetra (Thare Khettara), near Pyay, Burma	18.81	95.29	site	known	named in the Samatata section, not part of it
+10.06.02b	迦摩浪迦國	Pegu and the Irrawaddy delta	17.33	96.48	district	approx	point at Bago; named in the Samatata section
+10.06.02c	墮羅鉢底國	Ayutthaya, Thailand	14.35	100.57	town	known	named in the Samatata section
+10.06.02d	伊賞那補羅國	Sambor Prei Kuk, Cambodia	12.87	105.04	site	known	'perhaps' the capital; named in the Samatata section; outside the lat/lon check box (Cambodia)
+10.06.02e	摩訶瞻波國	Champa (Simhapura / Tra Kieu), central Vietnam	15.82	108.24	country	approx	country; point at the Champa capital of the period; named in the Samatata section; outside the lat/lon check box (Vietnam)
+10.06.02f	閻摩那洲國	Java	-7.30	110.00	country	approx	'perhaps Java'; island centroid; named in the Samatata section; outside the lat/lon check box (S hemisphere)
+10.07	耽摩栗底國	Tamluk	22.30	87.92	town	known	
+10.08	羯羅拏蘇伐剌那國	Rangamati (Karnasuvarna), Murshidabad	24.03	88.24	site	known	
+10.08.02	絡多末知僧伽藍	Rangamati, Murshidabad	24.03	88.24	site	known	shares the Rangamati point
+10.09	烏荼國	Northern Orissa	21.30	86.00	country	approx	capital undecided; region centroid
+10.09.02	補澁波祇釐僧伽藍	Khandagiri, Bhubaneswar	20.26	85.78	site	known	
+10.09.02a	西北山伽藍	Udayagiri, Bhubaneswar	20.263	85.786	site	known	
+10.09.03	折利呾羅城	Puri	19.81	85.83	town	known	Mizutani: Puri or Nendra; Puri placed; c. 170 km from the arbitrary N-Orissa centroid; within the region
+10.10	恭御陀國	Jaugada, Ganjam	19.52	84.83	site	known	
+10.11	羯𩜁伽國	Kalinga (coast S of Ganjam)	18.50	84.00	country	approx	capital undecided; region centroid
+10.11.02a	大山嶺上石窣堵波	Mahendragiri	18.97	84.37	site	known	'uncertain'
+10.12	憍薩羅國	Sirpur, Chhattisgarh	21.34	82.18	town	known	Mizutani reports the recent view
+10.12.05	跋邏末羅耆釐山	Nagarjunakonda	16.52	79.24	site	known	'proposed'; c. 620 km from Sirpur: the text places it at the country's SW
+10.13	案達羅國	Pedavegi near Eluru	16.81	81.11	town	known	
+10.13.03	孤山						no identification given
+10.14	駄那羯磔迦國	Dharanikota	16.57	80.35	town	known	
+10.14.02a	弗婆勢羅僧伽藍	Amaravati great stupa	16.575	80.358	site	known	
+10.14.02b	阿伐羅勢羅僧伽藍	Dharanikota	16.573	80.34	site	known	
+10.14.03	大山 (阿素洛宮)						no identification given
+10.15	珠利耶國	Nellore	14.44	79.99	town	known	
+10.16	達羅毘荼國	Kanchipuram	12.83	79.70	town	known	
+10.17	秣羅矩吒國	Madurai	9.93	78.12	town	known	
+10.17.03	秣剌耶山	Cardamom hills	9.75	77.15	district	known	
+10.17.04	布呾洛迦山	Papanasam hills, Tirunelveli	8.71	77.37	site	approx	'possibly legendary; or Papanasam'; c. 160 km from Madurai, at the S tip as the text says
+10.17.04a	海畔城						unnamed port (Nagapattinam only cited as the usual crossing port)
+11.01	僧伽羅國	Anuradhapura, Sri Lanka	8.34	80.40	town	known	
+11.01.04a	摩訶毘訶羅	Mahavihara, Anuradhapura	8.345	80.396	site	known	
+11.01.04b	阿跋耶祇釐	Abhayagiri, Anuradhapura	8.37	80.395	site	known	
+11.01.08a	那羅稽羅洲						no identification
+11.01.08b	孤島						no identification
+11.01.08c	大寶洲						no identification
+11.01.09	䮚迦山	Southern Ceylon highlands	7.00	80.70	district	approx	no peak named; highland centroid; c. 150 km from Anuradhapura; S Ceylon by definition
+11.02	恭建那補羅國	Anegundi on the Tungabhadra	15.35	76.49	town	known	
+11.03	摩訶剌侘國	Nashik area	20.00	73.79	district	approx	capital disputed; Mizutani inclines to the Nasik area
+11.03.03	阿折羅伽藍 (東境大山)	Ajanta caves	20.55	75.70	site	known	c. 200 km from the Nasik point: the text puts it on the country's eastern border
+11.04	跋祿羯呫婆國	Bharuch	21.70	72.98	town	known	
+11.05	摩臘婆國	Malwa	23.20	76.00	country	approx	Mizutani reports two views (central Gujarat / Malwa), the latter supported by inscriptions; capital undecided; Malwa centroid
+11.05.03	婆羅門邑						no identification
+11.06	阿吒釐國	N coast of the Kathiawar peninsula	22.60	70.30	district	approx	'perhaps'; from the route
+11.07	契吒國						undecided (Kaira or Cutch; Mizutani doubts Cutch)
+11.08	伐臘毘國	Vala (Valabhi), near Bhavnagar	21.87	71.88	town	known	
+11.09	阿難陀補羅國	Vadnagar	23.78	72.64	town	known	
+11.10	蘇剌侘國	Junagadh	21.52	70.46	town	known	
+11.10.02	郁鄯多山	Mount Girnar	21.495	70.53	site	known	
+11.11	瞿折羅國	Bhinmal	25.00	72.27	town	known	majority view
+11.12	鄔闍衍那國	Ujjain	23.18	75.78	town	known	
+11.13	擲枳陀國						undecided between Bundelkhand (Khajuraho) and Chitor
+11.14	摩醯濕伐羅補羅國	Gwalior	26.22	78.18	town	known	majority view
+11.15	信度國	Aror (Alor), near Sukkur	27.60	68.97	town	known	
+11.16	茂羅三部盧國	Multan	30.20	71.47	town	known	
+11.17	鉢伐多國	Harappa	30.63	72.86	site	known	
+11.18	阿點婆翅羅國	Karachi	24.86	67.01	town	known	capital as identified by Mizutani
+11.19	狼揭羅國	Lakorian (Lakura), between Khuzdar and Kalat	28.40	66.50	town	approx	
+11.20	波剌斯國	Istakhr / Persepolis, Iran	29.98	52.91	town	known	lon below 55 (Persia); outside the lat/lon check box (Persia, lon < 55)
+11.20.01a	鶴秣城	Old Hormuz near Minab	27.15	57.08	town	approx	'uncertain'; c. 515 km from Istakhr
+11.20.02a	拂懍國	Eastern Roman empire (Syria)	34.50	37.00	country	approx	country; point in Syria as Mizutani glosses it; outside the lat/lon check box (Syria)
+11.20.02b	西女國						identification judged futile
+11.21	臂多勢羅國	Hyderabad (Sind)	25.39	68.37	town	known	
+11.22	阿軬荼國	Brahmanabad, Sind	25.88	68.80	town	approx	Mizutani: Brahmanabad or Khairpur area; Brahmanabad placed
+11.23	伐剌拏國	Bannu	32.99	70.60	town	known	'probably'
+11.23.02	稽疆那國	Waziristan	32.60	69.90	district	known	
+12.01	漕矩吒國	Zabulistan (SE Afghanistan)	33.00	67.50	country	approx	broad region centroid
+12.01a	鶴悉那	Ghazni	33.55	68.42	town	known	
+12.01b	鶴薩羅城	Guzar, Helmand basin	33.20	66.50	district	approx	town not located; placed in the upper Helmand basin
+12.01c	羅摩印度川	Helmand river (label point)	31.60	64.40	district	approx	river; label point only; river label point c. 330 km from the Zabulistan centroid
+12.02	弗栗恃薩儻那國	Kabul river basin	34.50	69.20	country	approx	exact location open; basin point near Kabul
+12.02a	護苾那	Opian (Hupian), N of Charikar	35.04	69.17	town	approx	
+12.02b	婆羅犀那大嶺	Khawak pass, Hindu Kush	35.667	69.833	site	mizutani	Mizutani gives 35°40'N 69°50'E
+12.03	安呾羅縛國	Andarab valley	35.63	69.27	district	known	
+12.04	闊悉多國	Khost (Khost-o-Fereng) valley, Baghlan	35.85	69.10	district	approx	
+12.05	活國	Kunduz	36.73	68.86	town	known	
+12.05a	葱嶺	Pamir mountains	38.00	73.50	district	approx	range; label point only; range label point c. 430 km from Kunduz
+12.06	瞢健國	Near Khanabad	36.68	69.11	town	approx	no matching place name; 'probably near Khanabad'
+12.07	阿利尼國	Arhang ferry near Imam Sahib, on the Amu Darya	37.17	68.90	site	approx	
+12.08	曷邏胡國	Ragh plateau, N Badakhshan	37.65	70.65	district	approx	
+12.09	訖栗瑟摩國	Kishm, Badakhshan	36.80	70.10	town	known	
+12.10	鉢利曷國						no identification
+12.11	呬摩呾羅國	Darayim, Badakhshan	36.90	70.45	district	approx	
+12.12	鉢鐸創那國	Badakhshan	37.00	71.00	country	approx	region centroid
+12.12a	鉢鐸創那國大都城	Faizabad, Badakhshan	37.12	70.58	town	known	'uncertain'
+12.13	淫薄健國	Yamgan district above Jurm, upper Kokcha	36.60	70.80	district	approx	
+12.14	屈浪拏國	Kuran valley, upper Kokcha	36.00	70.75	district	approx	
+12.15	達摩悉鐵帝國	Wakhan	36.95	72.30	district	known	
+12.15.02	昏馱多城	Khandud, Wakhan	36.95	72.32	town	known	
+12.16	尸棄尼國	Shighnan	37.49	71.55	district	known	point at Khorog
+12.16a	尸棄尼國大都城	Ishkashim	36.71	71.61	town	approx	'perhaps'
+12.17	商彌國	Chitral-Mastuj	35.85	71.79	district	known	point at Chitral
+12.17.02	波謎羅川	Pamir river valley	37.25	73.20	district	approx	c. 200 km from Chitral: the text passes from Shami into the Pamir valley
+12.17.02a	大龍池	Lake Zorkul (Victoria)	37.45	73.70	site	known	c. 250 km from Chitral, as above
+12.18	朅盤陀國	Tashkurgan, Sarikol	37.75	75.167	town	mizutani	Mizutani gives 75°10'E 37°45'N
+12.18.02	孤峰	Qiz-qurghan, Taghdumbash Pamir	37.50	75.45	site	approx	
+12.18.04	大石崖						no modern place given
+12.18.05	奔穰舍羅						'perhaps Kandar Punin mountain': not locatable
+12.19	烏鎩國	Yarkand	38.40	77.267	town	mizutani	Mizutani (following Shiratori) gives 77°16'E 38°24'N
+12.19.02	大山	Khan Kul, W of Yarkand	38.40	76.70	site	approx	from 'c. 50 km W of Yarkand'
+12.20	佉沙國	Kashgar	39.47	75.99	town	known	
+12.21	斫句迦國	Karghalik (Yecheng)	37.883	77.433	town	mizutani	Mizutani gives 77°26'E 37°53'N
+12.21.02	斫句迦國南境大山						no identification
+12.22	瞿薩旦那國	Khotan oasis	37.11	79.93	district	known	point at Khotan
+12.22.03	毗盧折那伽藍	Chalma-kazan ruins, SSE of Yotkan	36.89	79.92	site	approx	from Mizutani's distance and direction
+12.22.04	瞿室[m44209]伽山	Kohmari hill, SSW of Yotkan	36.92	79.75	site	approx	
+12.22.05	地迦婆縛那伽藍	Bowa-Kambar ruins, SW of Yotkan	37.02	79.78	site	approx	
+12.22.06	勃伽夷城	Near Pialma, W of Khotan	37.20	79.15	town	approx	
+12.22.07	鼠壤墳	Kaptar-Mazar, E of Pialma	37.20	79.467	site	mizutani	Mizutani gives 79°28'E 37°12'N
+12.22.08	娑摩若僧伽藍	Somiya, W of Yotkan	37.06	79.81	site	approx	
+12.22.09	麻射僧伽藍	Kum-i-Shahidan, SE of Yotkan	37.05	79.84	site	approx	
+12.22.10	龍鼓池側伽藍	Aiding-kul / Naghara-khana, SE of Yotkan	37.04	79.86	site	approx	
+12.22.10a	大河（城東南百餘里）	Yurungkash river (label point E of Khotan)	37.05	79.98	district	approx	river; label point only
+12.22.11	敗軍之地						only a rough position 30 li W of Phema (Stein); no point
+12.22.12	媲摩城	Ulugh-Ziarat (Uzun-Tati area), N of Chira	37.25	80.833	site	mizutani	Mizutani gives 80°50'E 37°15'N for the area
+12.22.12a	曷勞落迦城	Loulan (Krorayina)	40.52	89.91	site	known	named in the Khotan section; far beyond it
+12.22.13	尼攘城	Niya site	37.98	82.72	site	known	on the route E of Khotan, c. 260 km away
+12.22.15	覩貨邏故國	Endere ruins	37.833	83.883	site	mizutani	Mizutani gives 83°53'E 37°50'N; on the route E of Khotan
+12.22.16	折摩馱那故國	Charchan (Qiemo)	38.133	85.533	town	mizutani	Mizutani gives 85°32'E 38°08'N; on the route E of Khotan
+12.22.17	納縛波故國	Lop region (Miran / Charkhlik)	39.20	88.60	district	approx	region between Miran and Charkhlik; on the route E of Khotan
+12.22a	瞿薩旦那國王城	Yotkan, W of Khotan	37.06	79.82	site	known	

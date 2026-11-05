@@ -1,0 +1,419 @@
+01.01a|Ganges river (label point on the middle Ganges near Kanpur)|26.45|80.35|district|approx|river; label point only
+01.01b|Indus river (label point near Dera Ghazi Khan)|30.05|70.65|district|approx|river; label point only
+01.01c|Amu Darya (Oxus) (label point near Termez)|37.25|67.30|district|approx|river; label point only
+01.01d|Yarkand river (label point near Yarkand)|38.40|77.20|district|approx|river; label point only
+01.01e|Mount Kailash, Tibet|31.067|81.312|site|known|
+01.01f|Amne Machin range, Qinghai|34.79|99.46|district|known|range; point at the main peak
+01.04a|Range across central Afghanistan (Koh-i-Baba / Hindu Kush junction)|34.70|68.00|district|approx|range; label point only, between Bamiyan and Kapisa
+01.04b|Kara-khoja (Gaochang ruins), Turfan, Xinjiang|42.85|89.53|site|known|
+01.05|Karashahr region, Xinjiang|42.06|86.57|district|known|point at Karashahr
+01.05a|Bagdad-shahr ruins, south of Karashahr|42.02|86.58|site|approx|Stein's site; placed just S of Karashahr
+01.06|Kucha region, Xinjiang|41.72|82.96|district|known|point at Kucha
+01.06.01|Ruined town slightly E of Kucha|41.72|83.10|town|approx|only 'slightly east of modern Kucha'
+01.06.02|Subashi temple ruins, NNE of Kucha|41.86|83.04|site|known|
+01.06.04|Duldur-Aqur ruin, opposite Kumtura|41.69|82.70|site|approx|
+01.07|Aksu region (old Gumo), Xinjiang|41.17|80.26|district|known|capital undecided; point at Aksu
+01.07.01|Tianshan main range N of Aksu (Pik Pobeda / Khan-Tengri)|42.03|80.13|district|approx|range; point at Pik Pobeda; pass used is disputed
+01.07.02|Issyk-kul lake, Kyrgyzstan|42.43|77.25|district|known|lake centre; beyond Baluka: on the route NW across the Tianshan, listed under 01.07 in the table
+01.07.03|Suyab, near Tokmak, Kyrgyzstan|42.84|75.29|town|known|point at Tokmak (Ak-Beshim ruins lie c. 8 km SW); beyond Baluka: on the route NW across the Tianshan, listed under 01.07 in the table
+01.07.04|Sogdiana|39.70|66.50|country|approx|broad region centroid
+01.07.05|Merke, Kazakhstan|42.87|73.18|town|known|beyond Baluka: on the route W, listed under 01.07 in the table
+01.07.06|Talas ruins near Taraz (Dzhambul), Kazakhstan|42.90|71.37|town|known|beyond Baluka: on the route W, listed under 01.07 in the table
+01.07.06a||||||no location given
+01.07.07|Sayram, E of Shymkent, Kazakhstan|42.30|69.77|town|known|majority view followed by Mizutani; beyond Baluka: on the route W, listed under 01.07 in the table
+01.07.08||||||not identifiable
+01.08|Nujkath = Chirchik (Kosh-kurgan), NE of Tashkent|41.47|69.58|town|approx|'probably'; placed at modern Chirchik
+01.09|Tashkent|41.30|69.24|town|known|
+01.09a|Syr Darya (label point near Chinaz)|40.95|68.70|district|approx|river; label point only
+01.10|Ferghana valley|40.75|71.80|country|approx|valley centroid
+01.11|Shahristan (Bunjikath), SW of Istaravshan (Ura-tyube), Tajikistan|39.77|68.82|town|approx|capital either Shahristan or Ura-tyube (39.91, 69.00); Shahristan placed
+01.11a|Kizil Kum desert|42.00|64.50|district|approx|desert centroid; Mizutani's probable route ran along its S edge via Dzhizak; c. 440 km from the Usrushana point; a desert centroid, not a point on the route
+01.12|Samarkand|39.65|66.96|town|known|
+01.12a|Afrasiab ruins, Samarkand|39.67|66.99|site|known|
+01.13|Maymurgh, near Samarkand|39.55|67.05|town|approx|site not fixed; placed a little SE of Samarkand as Mizutani says
+01.14|Kabudhanjakath, N of Samarkand (Bulungur)|39.78|67.05|town|approx|northern satellite town of Samarkand; position estimated
+01.15|Kushaniya, c. 40 km NW of Samarkand|39.90|66.63|town|approx|from Mizutani's distance and direction
+01.16|Kharghankath (Kalkanata), c. 8-9 km N of Kermine (Navoiy)|40.18|65.38|town|approx|from Mizutani's distance and direction
+01.17|Bukhara|39.77|64.42|town|known|
+01.18|Near Chardzhou (Türkmenabat) on the Amu Darya|39.08|63.58|town|approx|name and site unknown; 'probably near Chardzhou'; point at Türkmenabat
+01.19|Khwarizm, lower Amu Darya|41.55|60.63|country|approx|region; point at Urgench
+01.20|Shahrisabz (Kesh), Uzbekistan|39.06|66.83|town|known|
+01.20.01|Iron Gate defile (Buzgala), W of Derbent, Surkhandarya|38.27|66.88|site|approx|
+01.20.02|Tukhara (northern Afghanistan)|36.80|68.50|country|approx|broad region centroid; extent not agreed
+01.21|Termez|37.28|67.20|town|known|old Termez
+01.22|Denau, Surkhandarya|38.27|67.90|town|known|
+01.23|Between Denau and Dushanbe|38.43|68.34|district|approx|midpoint of Denau and Dushanbe
+01.24|Dushanbe|38.56|68.77|town|known|
+01.25|Kabadian (Qabodiyon), Tajikistan|37.41|68.18|town|known|
+01.26|Wakhsh valley, Kurgan-tyube (Bokhtar) plain|37.84|68.78|district|known|point at Bokhtar
+01.27|Khuttal; capital Hulbuk (Kurbanshaid), Tajikistan|37.80|69.60|town|approx|point at Hulbuk ruins
+01.28|Darwaz; capital Kala-i-khum (Qalai Khumb)|38.46|70.79|town|known|
+01.28a|Kunduz|36.73|68.86|town|known|Kunduz, named in the Kumidha section; c. 260 km from Darwaz
+01.29|Baghlan, Afghanistan|36.13|68.70|town|known|
+01.30|Haibak (Samangan), Khulm valley|36.27|68.02|town|known|Mizutani's tentative capital
+01.31|Khulm ruins N of Tashkurgan (Kholm)|36.73|67.69|site|approx|
+01.32|Balkh|36.76|66.90|town|known|
+01.32.01|Top-i-Rustam, Balkh|36.75|66.89|site|approx|
+01.32.02||||||not located
+01.33|Sar-i-pul, Afghanistan|36.22|65.93|town|known|
+01.34|Guzgan/Jowzjan district|36.60|65.80|country|approx|capital unknown; district centroid
+01.35|Talaqan of Khurasan, near Maimana|35.93|64.60|district|approx|exact site unknown; placed near Maimana
+01.36|Darrah Gaz, up the Dara-i-Suf, S of Balkh|35.95|67.20|district|approx|
+01.37|Bamiyan valley|34.82|67.83|district|known|
+01.37.01|Western (53 m) Buddha, Bamiyan|34.833|67.819|site|known|
+01.37.01a|Eastern (35 m) Buddha, Bamiyan|34.831|67.828|site|known|
+01.37.02||||||not identified by Mizutani (Foucher's emendation reported only)
+01.37.03||||||location unknown
+01.37.03a|Shibar pass|34.91|68.23|site|known|pass on the Bamiyan-Ghorband route
+01.38|Kapisa basin (Begram/Charikar), Afghanistan|35.00|69.25|district|known|
+01.38.01|Koh-i-Pahlvan / Shotorak, E of Begram|34.99|69.33|site|approx|which ruin is uncertain
+01.38.02|Kafir Qaleh, SE of Begram|34.96|69.33|site|approx|
+01.38.03|Tatarānzar, c. 12 km S of Begram|34.90|69.28|site|approx|from Mizutani's distance and direction
+01.38.03a||||||no location given
+01.38.04|Top-Darrah stupa near Charikar|35.03|69.13|site|approx|
+01.38.05|Burj-i-Abdallah, N end of Begram|35.02|69.27|site|approx|
+01.38.07||||||'three isolated hills S of the Koh-Daman stream': no position fixable
+01.38a|Begram|35.00|69.28|site|known|
+02.01.02|India (Five Indias)|22.00|79.00|country|approx|subcontinent centroid
+02.02|Laghman region, E Afghanistan|34.67|70.21|district|known|point at Mihtarlam
+02.02a|Begram on the Logar, c. 10 km SE of Kabul|34.48|69.25|site|approx|capital unknown; Mizutani reports Mizuno's possibility only
+02.03|Jalalabad basin|34.43|70.45|district|known|
+02.03.01a|Dasht-i-Begram near Chahar-bagh, SW of Jalalabad|34.40|70.38|site|approx|
+02.03.02|Ahin-Posh stupa, E of Jalalabad|34.42|70.50|site|approx|'possibly'
+02.03.03|Syah-sang rocks S of Chahar-bagh|34.37|70.38|site|approx|exact cave unknown
+02.03.05|Hadda|34.36|70.47|site|known|
+02.04|Gandhara (Peshawar valley)|34.10|72.00|district|known|region centroid
+02.04.01a|Peshawar|34.01|71.58|town|known|
+02.04.02||||||no location given (S of it is Shah-ji-ki-Dheri)
+02.04.03|Shah-ji-ki-Dheri, SE of Peshawar|33.997|71.59|site|known|
+02.04.06|Gor Khattri, Peshawar|34.009|71.58|site|known|'possibly'
+02.04.09|Charsadda (Bala Hisar)|34.17|71.73|site|known|
+02.04.12||||||no location given
+02.04.13||||||no location given
+02.04.14|Shahbaz Garhi|34.24|72.16|site|known|
+02.04.14a||||||Foucher's Chanaka Dheri reported, but shown not to be a stupa; Mizutani gives no identification
+02.04.14b|But Shahri, E of Shahbaz Garhi|34.24|72.19|site|approx|
+02.04.15|Mekha-Sanda, NE of Shahbaz Garhi|34.27|72.19|site|approx|
+02.04.17|Karamar hill, ENE of Shahbaz Garhi|34.21|72.26|site|approx|
+02.04.16||||||no location given
+02.04.18|Hund (Ohind), on the Indus|34.01|72.43|site|known|
+02.04.19|Lahor near Hund|34.03|72.36|town|approx|
+03.01|Swat valley|34.90|72.40|district|known|valley centroid
+03.01.01a|Mingora|34.78|72.36|town|known|
+03.01.01b|Swat river (label point near Mingora)|34.75|72.33|district|approx|river; label point only
+03.01.02||||||no location given
+03.01.03||||||no site identification (real Swat source at Kalam)
+03.01.04|Tirat village, upper Swat|35.05|72.47|site|approx|
+03.01.04a|Rock on the road towards Tirat|35.00|72.45|site|approx|position along the road estimated
+03.01.05|Mount Ilam, S of Mingora|34.64|72.48|site|approx|
+03.01.06|Shinasi stupa at Kukrai, on the way to Ilam|34.70|72.43|site|approx|position estimated between Mingora and Ilam
+03.01.07|Gogdara stupa, near Udegram|34.75|72.31|site|approx|
+03.01.08||||||no identification
+03.01.09|Adinzai valley above Chakdara|34.70|72.00|district|approx|
+03.01.09a|Suma stupa, Adinzai valley|34.70|72.00|site|approx|shares the valley point
+03.01.10|Shankardar stupa, near Barikot|34.68|72.24|site|known|
+03.01.10a|Rock near Ghalagai, above Shankardar|34.69|72.24|site|approx|
+03.01.11||||||village 'Hazara' (Deane) not locatable
+03.01.12||||||no place name given
+03.01.13||||||no location given
+03.01.14|Head of the Aushiri (Usheri) valley near Darora, Dir|35.25|72.00|district|approx|
+03.01.16|Darel valley|35.62|73.45|district|known|Mizutani also cites Stein's Gurez for the old capital; Darel placed
+03.02|Baltistan|35.30|75.60|country|known|point at Skardu
+03.03|Taxila|33.75|72.82|district|known|
+03.03.01a|Sirsukh, Taxila|33.76|72.84|site|known|
+03.03.02|Panja Sahib spring, Hasan Abdal|33.82|72.69|site|known|
+03.03.03|Ridge above Baoti Pind, Taxila|33.73|72.80|site|approx|
+03.03.04|Bhallar stupa, Sarda hill, Taxila|33.80|72.87|site|approx|
+03.03.06|Kunala stupa, Hathial ridge, Taxila|33.744|72.82|site|approx|Marshall's identification as reported
+03.04|Ketas (Katas Raj), Salt Range|32.717|72.983|site|mizutani|Mizutani gives 32°43'N 72°59'E
+03.04.01a|Kotera fort above Ketas|32.72|72.98|site|approx|shares Ketas point
+03.04.02|Foot of Kotera hill, Ketas|32.72|72.98|site|approx|shares Ketas point
+03.04.03|Ketas sacred pools|32.717|72.983|site|mizutani|Mizutani's Ketas coordinates
+03.04.05|Banj mountain, Mahaban spur, Buner|34.333|72.667|site|mizutani|Mizutani gives c. 72°40'E 34°20'N; c. 180 km N of Ketas: the text's route goes from Siṃhapura back to the Indus
+03.04.06||||||existence unknown
+03.04.07||||||no identification
+03.05|Hazara district; capital Haripur|33.99|72.93|town|known|
+03.06|Kashmir valley|34.00|74.80|district|known|
+03.06.01a|Srinagar|34.08|74.80|town|known|
+03.06.06|S slope of Takht-i-Sulaiman, Srinagar|34.07|74.84|site|approx|'perhaps'
+03.06.06a|Pandrethan, SE of Srinagar|34.05|74.86|site|known|
+03.06.07|Near Pandrethan|34.05|74.86|site|approx|no specific site; shares the Pandrethan point
+03.06.08|Avantipur|33.92|75.01|town|known|'around Avantipur'
+03.06.09|Valley NE of the hill S of the Palace Hotel, Srinagar|34.08|74.86|site|approx|
+03.06.10||||||location unknown
+03.06.11|Baramula-Rampur stretch of the Jhelum|34.17|74.25|district|approx|
+03.07|Punch (Poonch)|33.77|74.09|town|known|
+03.08|Rajauri|33.38|74.31|town|known|
+04.01|Punjab plain between Beas and Chenab|31.60|74.30|country|approx|region centroid; capital perhaps 'new Sakala'
+04.01.02|Sialkot|32.49|74.53|town|known|
+04.02|Chiniyari, between Amritsar and Sialkot|32.06|74.70|district|approx|village not found; placed midway Amritsar-Sialkot
+04.02.03|Sultanpur (Lodhi), SE of Amritsar|31.21|75.20|town|known|
+04.03|Jalandhar|31.33|75.58|town|known|
+04.04|Kulu; old capital Nagar|32.13|77.17|town|known|
+04.04a|Lahul|32.57|76.97|district|known|point at Keylong
+04.04b|Ladakh|34.16|77.58|country|approx|point at Leh; c. 230 km from Kulu: neighbouring country named in the Kulu section
+04.05|Sarhind|30.64|76.39|town|known|
+04.06|Bairat (Viratnagar), Rajasthan|27.45|76.18|town|known|
+04.07|Mathura|27.49|77.67|town|known|
+04.07.03||||||cannot now be located
+04.08|Thanesar|29.97|76.83|town|known|
+04.08.02|Kurukshetra, near Thanesar|29.97|76.85|district|known|
+04.08.04||||||no location given
+04.09|Sugh village, c. 5 km E of Jagadhri (Yamunanagar district, Haryana)|30.170|77.350|site|approx|Mizutani prints 30°32'N 77°53'E (Kalsi's coordinates) and 'Dehra Dun district'; Cunningham's Sugh is near Jagadhri (Ambala 1883; Saharanpur 1981)
+04.09.03|Haridwar|29.95|78.16|town|known|
+04.10|E bank of the Ganges opposite Srughna (Bijnor area)|29.60|78.20|district|approx|region only; Mizutani cites Mandawar (29°29'N 78°08'E) as others' view
+04.10.05|Haridwar (Mayapur)|29.94|78.15|site|known|
+04.11|Srinagar (Garhwal)|30.233|78.617|town|mizutani|Mizutani gives 30°14'N 78°37'E
+04.11.02|Western Tibet (Eastern Women's Kingdom)|32.00|80.00|country|approx|broad Himalayan region, placed in western Tibet; c. 240 km from Garhwal: neighbouring country named in the section
+04.12|1 mile E of Kashipur, Uttarakhand|29.217|78.967|site|mizutani|Mizutani's coordinates for Kashipur have N/E swapped (printed 29°13'E 78°57'N); corrected, and moved 1 mile E
+04.13|Ramnagar (Ahichchhatra), Bareilly district|28.37|79.13|site|known|
+04.14|Bilsar (Bilsad), Etah district|27.53|79.13|town|approx|
+04.15|Sankisa|27.33|79.27|site|known|
+04.15.02|Sankisa|27.33|79.27|site|known|shares the Sankisa point
+05.01|Kannauj|27.05|79.92|town|known|
+05.01.09||||||two candidates (Nohbatgang; Newal near Bangarmau), Mizutani does not choose
+05.02|Aphui, 29 miles SE of Fatehpur|25.63|81.15|town|approx|Mizutani's preferred view (Führer); from distance and direction
+05.03|Rae Bareli-Pratapgarh area|26.10|81.50|district|approx|exact location unknown
+05.04|Allahabad (Prayagraj)|25.44|81.85|town|known|
+05.04.03|Allahabad fort (Akshayavat)|25.43|81.88|site|known|
+05.04.04|Triveni Sangam, Allahabad|25.42|81.885|site|known|
+05.05|Kosam (Kausambi)|25.34|81.39|site|known|
+05.05.03|Ghositarama, Kosam|25.345|81.40|site|known|
+05.05.06|Sultanpur on the Gomati|26.26|82.07|town|known|
+05.06||||||Mizutani gives no identification (reports Sāketa, Biseipur, Nimkhar)
+06.01|Sahet-Mahet (Sravasti ruins), Uttar Pradesh|27.51|82.04|site|known|
+06.01.04||||||no modern site named by Mizutani
+06.01.13||||||no identification given
+06.01.14||||||Mizutani gives no view of his own (Tadwa reported)
+06.02|Tilaurakot, Nepal Tarai|27.57|83.05|site|known|
+06.02.05||||||no modern identification
+06.02.05a|Nigali Sagar Asoka pillar, Nepal|27.60|83.15|site|known|
+06.02.06||||||no identification given
+06.02.08||||||no identification
+06.02.10||||||no identification given
+06.02.11|Lumbini (Rummindei), Nepal|27.469|83.276|site|known|
+06.02.12|Rummindei pillar, Lumbini|27.469|83.276|site|known|
+06.03|Dharmauri, Nepal-Gorakhpur border|27.433|83.867|town|mizutani|first of two candidates Mizutani lists without choosing (other: Rampur Deoriya, Basti district); he gives 27°26'N 83°52'E
+06.03.03||||||Anoma river bank: not located
+06.03.04||||||no modern identification
+06.04|Kasia (Kushinagar)|26.74|83.89|town|known|
+06.04.03|Mahaparinirvana temple, Kasia|26.741|83.888|site|known|
+06.04.03a||||||river identification only (Little Rapti / Gandak); no point
+06.04.11|Ramabhar stupa (present cremation site), Kasia|26.735|83.905|site|known|Mizutani says c. 10 miles E of the nirvana site, but Ramabhar lies c. 1.5 km E
+06.04.14||||||no identification
+07.01|Varanasi|25.32|83.01|town|known|
+07.01.02|Lat Bhairo, Varanasi|25.33|83.015|site|approx|
+07.01.02a|Sarnath (Mulagandhakuti)|25.380|83.024|site|known|
+07.01.03|Dharmarajika stupa, Sarnath|25.380|83.024|site|known|
+07.01.04|Dhamekh stupa, Sarnath|25.381|83.027|site|known|
+07.01.06|Ponds at Sarnath|25.381|83.024|site|approx|shares the Sarnath point
+07.01.10|Chaukhandi stupa, Sarnath|25.373|83.023|site|known|
+07.01.11||||||no identification
+07.02|Ghazipur|25.58|83.58|town|known|
+07.02.02|Bikapur, 1 mile E of Ballia|25.76|84.17|town|approx|
+07.02.03|Masar, W of Arrah|25.56|84.57|town|known|
+07.02.03a|Revelganj|25.79|84.64|town|known|'probably'
+07.02.03b|Near Chapra|25.78|84.73|town|approx|'perhaps'
+07.02.04||||||cannot be identified
+07.03|Basarh (Vaisali)|25.967|85.183|site|mizutani|Mizutani gives 25°58'N 85°11'E (the Raja-Bisal-ka-garh ruin lies c. 5 km WNW, at 25.99, 85.13)
+07.03.02||||||no identification given
+07.03.03|Relic stupa, Vaisali|25.99|85.13|site|known|
+07.03.04|Kolhua Asoka pillar, Vaisali|26.006|85.11|site|known|
+07.03.06||||||no modern identification
+07.03.07||||||no identification given
+07.03.12||||||no identification
+07.03.13|Kesariya stupa|26.334|84.855|site|known|
+07.03.14||||||no modern site named
+07.03.14a|Sankisa (Saṅkassa)|27.33|79.27|town|known|Mizutani leans to Saṅkassa but leaves it open; Revata's residence, far from Vaisali
+07.03.15||||||no modern site named
+07.03.16||||||Mizutani only quotes Faxian
+07.04|Northern Darbhanga district|26.40|86.10|district|approx|
+07.04.01a|Baligarh ruins, N of Madhubani|26.58|86.10|site|approx|from Mizutani's 16 miles N of Madhubani
+07.04.01b|Kamla river (label point)|26.30|86.20|district|approx|'perhaps'; river label point only
+07.04.03||||||no identification given
+07.05|Kathmandu valley, Nepal|27.70|85.33|district|approx|capital not identified; point at the Kathmandu valley
+08.00|Magadha (S Bihar)|25.15|85.20|country|approx|region centroid
+08.02.01|Pataliputra (Kumrahar), Patna|25.60|85.18|site|known|
+08.02.03||||||no modern identification
+08.02.05|Kumrahar, Patna|25.597|85.18|site|known|
+08.03.01||||||no modern identification
+08.03.05||||||no identification given
+08.04.01|Telhara (Tillara), Nalanda district|25.18|85.18|town|known|
+08.04.02|Barabar hill|25.006|85.063|site|known|
+08.04.03||||||no identification given
+08.04.04||||||no identification given
+08.05.01|Gaya (Brahma-Gaya)|24.79|85.00|town|known|
+08.05.01a|Brahmayoni hill, Gaya|24.77|84.99|site|known|
+08.05.03|Mora hill (Dungeshwari), NE of Bodh Gaya|24.73|85.03|site|approx|
+08.06.01|Mahabodhi precinct, Bodh Gaya|24.696|84.991|site|known|
+08.06.04|Mahabodhi temple, Bodh Gaya|24.696|84.991|site|known|
+08.06.18|Mucalinda tank, S of the Mahabodhi temple|24.694|84.991|site|approx|
+08.06.21|Tika Bigha, S of Bodh Gaya|24.69|84.995|site|approx|
+08.06.28||||||no identification given
+08.06.30|Monastery mound N of the Mahabodhi temple|24.697|84.991|site|approx|
+09.01.01|Bakraur stupa, across the river from Bodh Gaya|24.693|85.003|site|known|
+09.01.02||||||no identification
+09.01.02a|Mohana river (label point S of Bodh Gaya)|24.62|85.00|district|approx|river; label point only
+09.01.03|Hill N of Kurkihar, ENE of Gaya|24.835|85.23|site|approx|
+09.02.01||||||no accepted identification
+09.02.02|Jethian|24.92|85.30|town|known|
+09.02.03|Tapoban hot springs|24.91|85.35|site|approx|
+09.02.03a|Handia hill|24.93|85.35|site|approx|
+09.02.03b|Pansabda recess, SW of Handia hill|24.92|85.34|site|approx|
+09.02.03c||||||unidentified
+09.02.04|Old Rajagrha (Rajgir valley)|25.00|85.42|site|known|
+09.02.08|Jivakamravana, Rajgir|25.01|85.42|site|known|
+09.02.09|Gridhrakuta (Vulture Peak), Rajgir|25.001|85.444|site|known|
+09.02.10|Gridhrakuta, Rajgir|25.001|85.444|site|known|shares the Gridhrakuta point
+09.02.11|Vipula hill, Rajgir|25.025|85.425|site|approx|
+09.02.11a|N face of Vaibhara hill, Rajgir|25.02|85.41|site|approx|
+09.02.12|Cave near the N gate of old Rajagrha|25.02|85.42|site|approx|
+09.02.13|Venuvana, Rajgir|25.025|85.418|site|known|
+09.02.14|Mound E of the road, Rajgir|25.03|85.42|site|approx|'probably'
+09.02.16|Saptaparni cave, Vaibhara hill|25.016|85.408|site|known|
+09.02.16a||||||no identification given
+09.02.17|Manavasar pond near Venuvana|25.025|85.419|site|approx|
+09.02.17a|Near Baitarni Godan, SW of New Rajagrha|25.025|85.41|site|approx|'probably'
+09.02.18|New Rajagrha ruins, Rajgir|25.03|85.42|site|known|
+09.03.01|Nalanda ruins|25.136|85.443|site|known|
+09.03.06|Nalanda (caitya row)|25.136|85.443|site|approx|shares the Nalanda point
+09.03.08||||||no modern identification
+09.03.10||||||no modern site given
+09.03.11|Giriyek hill|25.025|85.52|site|known|
+09.03.13|Bihar Sharif|25.20|85.52|town|known|after Mizutani's emendation of the distance
+09.03.14|Bihar Sharif|25.20|85.52|town|approx|'at Bihar'; shares the Bihar Sharif point
+09.03.15||||||no settled identification
+09.03.15a|Sheikhpura|25.14|85.85|town|approx|Mizutani's 'Shekhpur' taken as Sheikhpura; after his emendation of the distance
+09.03.15b||||||unsettled
+10.01|Monghyr (Munger)|25.38|86.47|town|known|
+10.01.02|Pirpahar hill, E of Monghyr|25.37|86.52|site|approx|'perhaps'
+10.01.04|Uren, SW of Monghyr|25.18|86.25|site|approx|
+10.02|Champanagar near Bhagalpur|25.25|86.95|town|known|
+10.02.02a||||||pond only conjecturally named; not located
+10.03|Rajmahal|25.05|87.84|town|known|
+10.03.01a||||||no identification given
+10.04|Mahasthangarh, Bogra|24.96|89.34|site|known|
+10.04.02|Vasu-Bihar, NW of Mahasthan|24.99|89.29|site|approx|
+10.05|Guwahati|26.18|91.75|town|known|common view followed
+10.06|Bad-Kamta (Barkamta), W of Comilla|23.43|91.00|town|approx|
+10.06.02a|Sri Ksetra (Thare Khettara), near Pyay, Burma|18.81|95.29|site|known|named in the Samatata section, not part of it
+10.06.02b|Pegu and the Irrawaddy delta|17.33|96.48|district|approx|point at Bago; named in the Samatata section
+10.06.02c|Ayutthaya, Thailand|14.35|100.57|town|known|named in the Samatata section
+10.06.02d|Sambor Prei Kuk, Cambodia|12.87|105.04|site|known|'perhaps' the capital; named in the Samatata section; outside the lat/lon check box (Cambodia)
+10.06.02e|Champa (Simhapura / Tra Kieu), central Vietnam|15.82|108.24|country|approx|country; point at the Champa capital of the period; named in the Samatata section; outside the lat/lon check box (Vietnam)
+10.06.02f|Java|-7.30|110.00|country|approx|'perhaps Java'; island centroid; named in the Samatata section; outside the lat/lon check box (S hemisphere)
+10.07|Tamluk|22.30|87.92|town|known|
+10.08|Rangamati (Karnasuvarna), Murshidabad|24.03|88.24|site|known|
+10.08.02|Rangamati, Murshidabad|24.03|88.24|site|known|shares the Rangamati point
+10.09|Northern Orissa|21.30|86.00|country|approx|capital undecided; region centroid
+10.09.02|Khandagiri, Bhubaneswar|20.26|85.78|site|known|
+10.09.02a|Udayagiri, Bhubaneswar|20.263|85.786|site|known|
+10.09.03|Puri|19.81|85.83|town|known|Mizutani: Puri or Nendra; Puri placed; c. 170 km from the arbitrary N-Orissa centroid; within the region
+10.10|Jaugada, Ganjam|19.52|84.83|site|known|
+10.11|Kalinga (coast S of Ganjam)|18.50|84.00|country|approx|capital undecided; region centroid
+10.11.02a|Mahendragiri|18.97|84.37|site|known|'uncertain'
+10.12|Sirpur, Chhattisgarh|21.34|82.18|town|known|Mizutani reports the recent view
+10.12.05|Nagarjunakonda|16.52|79.24|site|known|'proposed'; c. 620 km from Sirpur: the text places it at the country's SW
+10.13|Pedavegi near Eluru|16.81|81.11|town|known|
+10.13.03||||||no identification given
+10.14|Dharanikota|16.57|80.35|town|known|
+10.14.02a|Amaravati great stupa|16.575|80.358|site|known|
+10.14.02b|Dharanikota|16.573|80.34|site|known|
+10.14.03||||||no identification given
+10.15|Nellore|14.44|79.99|town|known|
+10.16|Kanchipuram|12.83|79.70|town|known|
+10.17|Madurai|9.93|78.12|town|known|
+10.17.03|Cardamom hills|9.75|77.15|district|known|
+10.17.04|Papanasam hills, Tirunelveli|8.71|77.37|site|approx|'possibly legendary; or Papanasam'; c. 160 km from Madurai, at the S tip as the text says
+10.17.04a||||||unnamed port (Nagapattinam only cited as the usual crossing port)
+11.01|Anuradhapura, Sri Lanka|8.34|80.40|town|known|
+11.01.04a|Mahavihara, Anuradhapura|8.345|80.396|site|known|
+11.01.04b|Abhayagiri, Anuradhapura|8.37|80.395|site|known|
+11.01.08a||||||no identification
+11.01.08b||||||no identification
+11.01.08c||||||no identification
+11.01.09|Southern Ceylon highlands|7.00|80.70|district|approx|no peak named; highland centroid; c. 150 km from Anuradhapura; S Ceylon by definition
+11.02|Anegundi on the Tungabhadra|15.35|76.49|town|known|
+11.03|Nashik area|20.00|73.79|district|approx|capital disputed; Mizutani inclines to the Nasik area
+11.03.03|Ajanta caves|20.55|75.70|site|known|c. 200 km from the Nasik point: the text puts it on the country's eastern border
+11.04|Bharuch|21.70|72.98|town|known|
+11.05|Malwa|23.20|76.00|country|approx|Mizutani reports two views (central Gujarat / Malwa), the latter supported by inscriptions; capital undecided; Malwa centroid
+11.05.03||||||no identification
+11.06|N coast of the Kathiawar peninsula|22.60|70.30|district|approx|'perhaps'; from the route
+11.07||||||undecided (Kaira or Cutch; Mizutani doubts Cutch)
+11.08|Vala (Valabhi), near Bhavnagar|21.87|71.88|town|known|
+11.09|Vadnagar|23.78|72.64|town|known|
+11.10|Junagadh|21.52|70.46|town|known|
+11.10.02|Mount Girnar|21.495|70.53|site|known|
+11.11|Bhinmal|25.00|72.27|town|known|majority view
+11.12|Ujjain|23.18|75.78|town|known|
+11.13||||||undecided between Bundelkhand (Khajuraho) and Chitor
+11.14|Gwalior|26.22|78.18|town|known|majority view
+11.15|Aror (Alor), near Sukkur|27.60|68.97|town|known|
+11.16|Multan|30.20|71.47|town|known|
+11.17|Harappa|30.63|72.86|site|known|
+11.18|Karachi|24.86|67.01|town|known|capital as identified by Mizutani
+11.19|Lakorian (Lakura), between Khuzdar and Kalat|28.40|66.50|town|approx|
+11.20|Istakhr / Persepolis, Iran|29.98|52.91|town|known|lon below 55 (Persia); outside the lat/lon check box (Persia, lon < 55)
+11.20.01a|Old Hormuz near Minab|27.15|57.08|town|approx|'uncertain'; c. 515 km from Istakhr
+11.20.02a|Eastern Roman empire (Syria)|34.50|37.00|country|approx|country; point in Syria as Mizutani glosses it; outside the lat/lon check box (Syria)
+11.20.02b||||||identification judged futile
+11.21|Hyderabad (Sind)|25.39|68.37|town|known|
+11.22|Brahmanabad, Sind|25.88|68.80|town|approx|Mizutani: Brahmanabad or Khairpur area; Brahmanabad placed
+11.23|Bannu|32.99|70.60|town|known|'probably'
+11.23.02|Waziristan|32.60|69.90|district|known|
+12.01|Zabulistan (SE Afghanistan)|33.00|67.50|country|approx|broad region centroid
+12.01a|Ghazni|33.55|68.42|town|known|
+12.01b|Guzar, Helmand basin|33.20|66.50|district|approx|town not located; placed in the upper Helmand basin
+12.01c|Helmand river (label point)|31.60|64.40|district|approx|river; label point only; river label point c. 330 km from the Zabulistan centroid
+12.02|Kabul river basin|34.50|69.20|country|approx|exact location open; basin point near Kabul
+12.02a|Opian (Hupian), N of Charikar|35.04|69.17|town|approx|
+12.02b|Khawak pass, Hindu Kush|35.667|69.833|site|mizutani|Mizutani gives 35°40'N 69°50'E
+12.03|Andarab valley|35.63|69.27|district|known|
+12.04|Khost (Khost-o-Fereng) valley, Baghlan|35.85|69.10|district|approx|
+12.05|Kunduz|36.73|68.86|town|known|
+12.05a|Pamir mountains|38.00|73.50|district|approx|range; label point only; range label point c. 430 km from Kunduz
+12.06|Near Khanabad|36.68|69.11|town|approx|no matching place name; 'probably near Khanabad'
+12.07|Arhang ferry near Imam Sahib, on the Amu Darya|37.17|68.90|site|approx|
+12.08|Ragh plateau, N Badakhshan|37.65|70.65|district|approx|
+12.09|Kishm, Badakhshan|36.80|70.10|town|known|
+12.10||||||no identification
+12.11|Darayim, Badakhshan|36.90|70.45|district|approx|
+12.12|Badakhshan|37.00|71.00|country|approx|region centroid
+12.12a|Faizabad, Badakhshan|37.12|70.58|town|known|'uncertain'
+12.13|Yamgan district above Jurm, upper Kokcha|36.60|70.80|district|approx|
+12.14|Kuran valley, upper Kokcha|36.00|70.75|district|approx|
+12.15|Wakhan|36.95|72.30|district|known|
+12.15.02|Khandud, Wakhan|36.95|72.32|town|known|
+12.16|Shighnan|37.49|71.55|district|known|point at Khorog
+12.16a|Ishkashim|36.71|71.61|town|approx|'perhaps'
+12.17|Chitral-Mastuj|35.85|71.79|district|known|point at Chitral
+12.17.02|Pamir river valley|37.25|73.20|district|approx|c. 200 km from Chitral: the text passes from Shami into the Pamir valley
+12.17.02a|Lake Zorkul (Victoria)|37.45|73.70|site|known|c. 250 km from Chitral, as above
+12.18|Tashkurgan, Sarikol|37.75|75.167|town|mizutani|Mizutani gives 75°10'E 37°45'N
+12.18.02|Qiz-qurghan, Taghdumbash Pamir|37.50|75.45|site|approx|
+12.18.04||||||no modern place given
+12.18.05||||||'perhaps Kandar Punin mountain': not locatable
+12.19|Yarkand|38.40|77.267|town|mizutani|Mizutani (following Shiratori) gives 77°16'E 38°24'N
+12.19.02|Khan Kul, W of Yarkand|38.40|76.70|site|approx|from 'c. 50 km W of Yarkand'
+12.20|Kashgar|39.47|75.99|town|known|
+12.21|Karghalik (Yecheng)|37.883|77.433|town|mizutani|Mizutani gives 77°26'E 37°53'N
+12.21.02||||||no identification
+12.22|Khotan oasis|37.11|79.93|district|known|point at Khotan
+12.22.03|Chalma-kazan ruins, SSE of Yotkan|36.89|79.92|site|approx|from Mizutani's distance and direction
+12.22.04|Kohmari hill, SSW of Yotkan|36.92|79.75|site|approx|
+12.22.05|Bowa-Kambar ruins, SW of Yotkan|37.02|79.78|site|approx|
+12.22.06|Near Pialma, W of Khotan|37.20|79.15|town|approx|
+12.22.07|Kaptar-Mazar, E of Pialma|37.20|79.467|site|mizutani|Mizutani gives 79°28'E 37°12'N
+12.22.08|Somiya, W of Yotkan|37.06|79.81|site|approx|
+12.22.09|Kum-i-Shahidan, SE of Yotkan|37.05|79.84|site|approx|
+12.22.10|Aiding-kul / Naghara-khana, SE of Yotkan|37.04|79.86|site|approx|
+12.22.10a|Yurungkash river (label point E of Khotan)|37.05|79.98|district|approx|river; label point only
+12.22.11||||||only a rough position 30 li W of Phema (Stein); no point
+12.22.12|Ulugh-Ziarat (Uzun-Tati area), N of Chira|37.25|80.833|site|mizutani|Mizutani gives 80°50'E 37°15'N for the area
+12.22.12a|Loulan (Krorayina)|40.52|89.91|site|known|named in the Khotan section; far beyond it
+12.22.13|Niya site|37.98|82.72|site|known|on the route E of Khotan, c. 260 km away
+12.22.15|Endere ruins|37.833|83.883|site|mizutani|Mizutani gives 83°53'E 37°50'N; on the route E of Khotan
+12.22.16|Charchan (Qiemo)|38.133|85.533|town|mizutani|Mizutani gives 85°32'E 38°08'N; on the route E of Khotan
+12.22.17|Lop region (Miran / Charkhlik)|39.20|88.60|district|approx|region between Miran and Charkhlik; on the route E of Khotan
+12.22a|Yotkan, W of Khotan|37.06|79.82|site|known|
