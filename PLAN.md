@@ -1,4 +1,4 @@
-# Xuanzang's places: plan (not yet started)
+# Xuanzang's places: plan (started 2026-11-05)
 
 The question: where are the countries and sites of the *Da Tang Xiyu ji* (大唐西域記)? Collect the identifications that
 scholars have proposed, mark which are agreed and which disputed, and test the disputed ones against the British
@@ -13,10 +13,15 @@ Indian gazetteers. Update the identifications where the gazetteers add something
 - Huili's *Life* (慈恩伝): `/mnt2/kengo/E-texts/6_other_languages/大唐大慈恩寺三藏法師傳.txt`. Use it for the route and
   for which places he actually visited.
 
-**Main reference: Mizutani Shinjō's translation, "大唐西域記. 水谷真成訳.pdf"** (Heibonsha, 中国古典文学大系 22, 1971;
-reissued in 東洋文庫). It was not found on `/`, `/mnt` or `/mnt2` on 2026-11-05 (full file index). Ask the user for
-the path; it may be on iCloud or the NAS (`/qnap`). The user cancelled a full `find /qnap`, so don't repeat that
-search without asking. Check whether the PDF has a text layer; if it does not, it needs Japanese OCR.
+**Main reference: Mizutani Shinjō's translation** (Heibonsha, 中国古典文学大系 22, 1971), 488-page scan at
+`/qnap/kengo/dox/Books_and_Articles_on_iCloud/大唐西域記. 水谷真成訳.pdf` (no text layer). OCR'd on 2026-11-05 with Google
+Vision (`/mnt2/kengo/ocr-ratnakarasanti/vision_ocr.sh`, hints `ja,en`; key in `~/.config/gcp_vision_key`); quality is
+good for both Japanese and romanized names. Tesseract `jpn_vert` was tried and is unusable. Output (gitignored, in
+copyright): `data/mizutani/pages/pNNN.png`, `data/mizutani/vision/pNNN.{json,txt}`, joined text with page markers
+`data/mizutani/mizutani_ocr.txt` and `running_heads.tsv` (`scripts/mizutani_join.py`). Body = pdf pp. 25–412, printed
+page = pdf − 18; TOC pdf pp. 3–17; 補注 (maps, length of the 里, etc.), 解説 and bibliography follow the body.
+Sections are numbered 巻・N・M (country N, site M), and the index cites them as `IX-2-6 注2`. Mizutani marks hearsay
+countries in the notes ("…伝聞国である") and quotes the 讃's rule: 行 = 親践 (110 countries), 至 = 伝聞 (28).
 
 **Other translations and identifications already on the machine**
 - Beal, *Si-yu-ki*, vols 1–2: `/mnt/staging/data/secondary-literature/Xuanzang Buddhist Records of the Western World
