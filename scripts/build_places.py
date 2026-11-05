@@ -27,8 +27,19 @@ for f in glob.glob("data/coded/gaz_batch*.tsv"):
             x = x.strip()
             if x in ids: gaz[x].append(r)
             elif x: unknown_ids[x] += 1
+asr = collections.defaultdict(list)
+for f in glob.glob("data/coded/asr_batch*.tsv"):
+    for r in rd(f):
+        if r.get("relevant") != "yes": continue
+        for x in (r.get("xz_id") or "").replace(",", ";").split(";"):
+            x = x.strip()
+            if x in ids: asr[x].append(r)
+            elif x: unknown_ids["asr:" + x] += 1
+def asr_tag(r):
+    v = r.get("file", "").replace(".txt", "").replace("asr", "ASR ").replace("mukherji1901_tarai", "Mukherji 1901")
+    return f'{r.get("author","")}, {v}' + (f' p. {r["page"]}' if r.get("page") else "")
 cols = ["id", "juan", "level", "parent", "name_zh", "name_ja", "original_name", "visit", "mz_identification",
-        "mz_other_views", "mz_status"] + AUTH + ["gaz_n", "gaz_argues", "gaz_volumes", "gaz_local_evidence"]
+        "mz_other_views", "mz_status"] + AUTH + ["gaz_n", "gaz_argues", "gaz_volumes", "gaz_local_evidence", "asr", "asr_n", "asr_evidence"]
 out = []
 for m in master:
     row = {k: m.get(k, "") for k in cols}
@@ -42,9 +53,14 @@ for m in master:
         if v not in vols: vols.append(v)
     row["gaz_volumes"] = "; ".join(vols)
     row["gaz_local_evidence"] = " || ".join(f'[{hits.get(r["hit"],{}).get("place","")} {hits.get(r["hit"],{}).get("year","")}] {r["local_evidence"]}' for r in g if r.get("local_evidence", "").strip())
+    a = asr[m["id"]]
+    row["asr"] = " | ".join(dict.fromkeys(f'{r["asr_identification"]} [{r["stance"]}; {asr_tag(r)}]' for r in a if r.get("asr_identification")))
+    row["asr_n"] = len(a)
+    row["asr_evidence"] = " || ".join(f'[{asr_tag(r)}] {r["evidence"]}' for r in a if r.get("evidence", "").strip())
     out.append(row)
 w = csv.DictWriter(open("data/places.tsv", "w", encoding="utf-8", newline=""), cols, delimiter="\t", lineterminator="\n")
 w.writeheader(); w.writerows(out)
 print(len(out), "rows; authority coverage:", {a: sum(1 for r in out if r[a]) for a in AUTH})
+print("rows with ASR passages:", sum(1 for r in out if r["asr_n"]))
 print("rows with gazetteer passages:", sum(1 for r in out if r["gaz_n"]), "; with argued/doubting/alternative:", sum(1 for r in out if r["gaz_argues"]))
 if unknown_ids: print("xz_id not in master:", dict(unknown_ids.most_common(20)))
