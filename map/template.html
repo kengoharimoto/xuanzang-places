@@ -1,0 +1,211 @@
+<title>Xuanzang's Places</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&family=Source+Sans+3:wght@400;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: an atlas sheet. Map left, the place's dossier right; filters as a legend strip above; list below. */
+:root {
+  --paper: #f4f5f1; --panel: #fbfbf8; --ink: #1c2220; --muted: #5d6662; --rule: #d6dad3;
+  --indigo: #2f4d7a;            /* accent: route line, links, focus */
+  --agreed: #3f7f6e; --uncertain: #b88a1c; --disputed: #b8452f; --unknown: #8b918c;
+  --land: #e6e8e1; --land-stroke: #c7cbc2; --sea: #eef1f0;
+  --display: "Spectral", "Noto Serif CJK JP", "Songti SC", serif;
+  --body: "Source Sans 3", "Hiragino Sans", "Noto Sans CJK JP", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --paper: #161a19; --panel: #1d2221; --ink: #e5e8e3; --muted: #9aa39e; --rule: #333a37;
+  --indigo: #8fa9d6; --agreed: #6fb39f; --uncertain: #d9ac45; --disputed: #e07a62; --unknown: #8d948f;
+  --land: #252b29; --land-stroke: #39413e; --sea: #1a1f1e; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --paper: #161a19; --panel: #1d2221; --ink: #e5e8e3; --muted: #9aa39e; --rule: #333a37;
+  --indigo: #8fa9d6; --agreed: #6fb39f; --uncertain: #d9ac45; --disputed: #e07a62; --unknown: #8d948f;
+  --land: #252b29; --land-stroke: #39413e; --sea: #1a1f1e; color-scheme: dark }
+body { background: var(--paper); color: var(--ink); font: 15px/1.5 var(--body); }
+.wrap { max-width: 1320px; margin: 0 auto; padding-block: 20px 40px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+header h1 { font: 600 2rem/1.15 var(--display); margin: 0; text-wrap: balance; }
+header p { margin: 6px 0 0; color: var(--muted); max-width: 72ch; }
+.controls { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; margin: 16px 0 10px; font-size: 13px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--rule); border-radius: 999px;
+  padding: 3px 10px; background: var(--panel); cursor: pointer; user-select: none; color: var(--ink); font: inherit; }
+.chip[aria-pressed="false"] { opacity: .45; }
+.chip:focus-visible, select:focus-visible, input:focus-visible, .row:focus-visible { outline: 2px solid var(--indigo); outline-offset: 2px; }
+.dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+.ring { width: 10px; height: 10px; border-radius: 50%; display: inline-block; border: 2px solid var(--ink); box-sizing: border-box; }
+select, input[type=search] { font: inherit; color: var(--ink); background: var(--panel); border: 1px solid var(--rule); border-radius: 6px; padding: 4px 8px; }
+input[type=search] { min-width: 0; width: 14em; }
+.grid { display: grid; grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr); gap: 16px; align-items: start; }
+@media (max-width: 860px) { .grid { grid-template-columns: 1fr; } }
+.mapbox { background: var(--sea); border: 1px solid var(--rule); border-radius: 4px; position: relative; overflow: hidden; }
+#map { display: block; width: 100%; height: auto; aspect-ratio: 1.25; max-width: 100%; touch-action: none; }
+.land { fill: var(--land); stroke: var(--land-stroke); stroke-width: .6; vector-effect: non-scaling-stroke; }
+.route { fill: none; stroke: var(--indigo); stroke-width: 1.1; stroke-opacity: .45; stroke-dasharray: 3 3; vector-effect: non-scaling-stroke; }
+.pt { stroke: var(--paper); stroke-width: .8; vector-effect: non-scaling-stroke; cursor: pointer; }
+.pt.sel { stroke: var(--ink); stroke-width: 2.4; }
+.halo { fill: none; stroke: var(--ink); vector-effect: non-scaling-stroke; pointer-events: none; }
+.lbl { font: 11px var(--body); fill: var(--ink); paint-order: stroke; stroke: var(--sea); stroke-width: 3px; pointer-events: none; }
+.mapnote { position: absolute; left: 8px; bottom: 6px; font-size: 11px; color: var(--muted); }
+.zoom { position: absolute; right: 8px; top: 8px; display: flex; flex-direction: column; gap: 4px; }
+.zoom button { width: 28px; height: 28px; font: 600 16px var(--body); color: var(--ink); background: var(--panel); border: 1px solid var(--rule); border-radius: 4px; cursor: pointer; }
+aside { background: var(--panel); border: 1px solid var(--rule); border-radius: 4px; padding: 16px 18px; min-width: 0; }
+aside h2 { font: 600 1.35rem/1.25 var(--display); margin: 0; text-wrap: balance; }
+.sub { color: var(--muted); font-size: 13px; margin-top: 2px; }
+.badges { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0; }
+.badge { font: 500 11px var(--mono); letter-spacing: .03em; text-transform: uppercase; border-radius: 3px; padding: 2px 6px; border: 1px solid currentColor; }
+dl { display: grid; grid-template-columns: 7.5em minmax(0, 1fr); gap: 6px 10px; margin: 12px 0; font-size: 14px; }
+dt { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .04em; padding-top: 2px; }
+dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+.note { border-top: 1px solid var(--rule); margin-top: 12px; padding-top: 10px; font-size: 14px; }
+.note p { margin: 0 0 8px; max-width: 70ch; }
+.note code, dd code { font: 12px var(--mono); }
+.empty { color: var(--muted); }
+.list { margin-top: 18px; }
+.list h3 { font: 600 1.1rem var(--display); margin: 0 0 6px; }
+.tbl { overflow-x: auto; border: 1px solid var(--rule); border-radius: 4px; max-height: 460px; overflow-y: auto; background: var(--panel); }
+table { border-collapse: collapse; width: 100%; font-size: 13px; }
+th, td { text-align: left; padding: 5px 8px; border-bottom: 1px solid var(--rule); vertical-align: top; }
+th { position: sticky; top: 0; background: var(--panel); font-weight: 600; color: var(--muted); font-size: 12px; }
+td.id { font: 12px var(--mono); white-space: nowrap; font-variant-numeric: tabular-nums; }
+tr.row { cursor: pointer; }
+tr.row:hover, tr.row.sel { background: color-mix(in srgb, var(--indigo) 10%, transparent); }
+.zh { font-family: var(--display); }
+footer { margin-top: 18px; color: var(--muted); font-size: 12px; max-width: 90ch; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+<header>
+  <h1>Xuanzang's Places</h1>
+  <p>Every country and site of the <i>Da Tang Xiyu ji</i> (大唐西域記), with Mizutani Shinjō's identification (1971), the views of Julien, Vivien de Saint-Martin, Cunningham, Majumdar, Beal, Watters and Dey, and what the British Indian district gazetteers add. Colour shows how settled Mizutani says a place is; a dark ring marks a place where the gazetteer evidence changes his picture.</p>
+</header>
+
+<div class="controls" role="group" aria-label="Filters">
+  <button class="chip" id="f-agreed" data-status="agreed" aria-pressed="true"><span class="dot" style="background:var(--agreed)"></span>Agreed</button>
+  <button class="chip" id="f-uncertain" data-status="uncertain" aria-pressed="true"><span class="dot" style="background:var(--uncertain)"></span>Uncertain</button>
+  <button class="chip" id="f-disputed" data-status="disputed" aria-pressed="true"><span class="dot" style="background:var(--disputed)"></span>Disputed</button>
+  <button class="chip" id="f-unknown" data-status="unknown" aria-pressed="true"><span class="dot" style="background:var(--unknown)"></span>Unknown</button>
+  <button class="chip" id="f-change" aria-pressed="false"><span class="ring"></span>Only where the gazetteers change the picture</button>
+  <label>Juan <select id="f-juan"><option value="0">all</option></select></label>
+  <label>Level <select id="f-level"><option value="">all</option><option value="country">countries</option><option value="site">sites</option></select></label>
+  <input type="search" id="f-q" placeholder="Search name or site" aria-label="Search places">
+</div>
+
+<div class="grid">
+  <div>
+    <div class="mapbox">
+      <svg id="map" viewBox="0 0 1000 800" role="img" aria-label="Map of Xuanzang's places"></svg>
+      <div class="zoom"><button id="zin" aria-label="Zoom in">+</button><button id="zout" aria-label="Zoom out">−</button><button id="zreset" aria-label="Reset view">⟲</button></div>
+      <div class="mapnote">Dashed line: countries visited, in the order of the narrative. Points are approximate.</div>
+    </div>
+    <div class="list">
+      <h3 id="count">Places</h3>
+      <div class="tbl"><table><thead><tr><th>Id</th><th>Name</th><th>Mizutani</th><th>Gazetteers</th></tr></thead><tbody id="rows"></tbody></table></div>
+    </div>
+  </div>
+  <aside id="panel" aria-live="polite"></aside>
+</div>
+
+<footer>Identifications: Mizutani's notes (平凡社 中国古典文学大系 22, 1971); the authorities' and the gazetteers' words are coded from OCR with verbatim quotes checked by script (repository folder <code>xuanzang-places/</code>). Coordinates mark Mizutani's identification for orientation only; places he leaves unidentified are listed but not mapped. Gazetteer counts include duplicate scans of the same volume.</footer>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script>
+const P = /*PLACES*/[];
+const GEO = /*GEO*/{};
+const AUTHN = {julien:"Julien", vivien:"Vivien de Saint-Martin", cunningham:"Cunningham (1871)", majumdar:"Majumdar (1924)", beal:"Beal (1884)", watters:"Watters (1904–05)", dey:"Dey (1927)"};
+const CHANGE = {strengthened:"Gazetteers support Mizutani", weakened:"Gazetteers weaken Mizutani", alternative:"Better-supported alternative", "new-candidate":"New candidate from the gazetteers", none:"Mizutani stands"};
+const BIG = new Set(["alternative","new-candidate","weakened"]);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const col = s => `var(--${["agreed","uncertain","disputed","unknown"].includes(s) ? s : "unknown"})`;
+
+const juans = [...new Set(P.map(p => p.juan))].sort((a,b)=>a-b);
+const jsel = document.getElementById("f-juan");
+juans.forEach(j => jsel.insertAdjacentHTML("beforeend", `<option value="${j}">${j}</option>`));
+
+const svg = d3.select("#map"), W = 1000, H = 800;
+const g = svg.append("g");
+const proj = d3.geoConicEqualArea().parallels([15, 38]).rotate([-80, 0]);
+const core = {type:"MultiPoint", coordinates: P.filter(p => p.lat != null && p.lon > 60 && p.lon < 98 && p.lat > 6).map(p => [p.lon, p.lat])};
+proj.fitExtent([[30, 30], [W-30, H-30]], core);
+const path = d3.geoPath(proj);
+const feats = GEO.countries.map(c => ({type:"Feature", properties:{name:c.name}, geometry:{type:"MultiPolygon", coordinates: c.rings.map(r => [r])}}));
+g.append("g").selectAll("path").data(feats).join("path").attr("class","land").attr("d", path);
+const route = P.filter(p => p.level === "country" && p.visit === "visited" && p.lat != null).map(p => proj([p.lon, p.lat]));
+g.append("path").attr("class","route").attr("d", d3.line()(route));
+const halos = g.append("g"), pts = g.append("g"), lbls = g.append("g");
+let k = 1;
+const zoom = d3.zoom().scaleExtent([0.6, 24]).on("zoom", e => { k = e.transform.k; g.attr("transform", e.transform); draw(); });
+svg.call(zoom);
+document.getElementById("zin").onclick = () => svg.transition().duration(250).call(zoom.scaleBy, 1.6);
+document.getElementById("zout").onclick = () => svg.transition().duration(250).call(zoom.scaleBy, 1/1.6);
+document.getElementById("zreset").onclick = () => svg.transition().duration(250).call(zoom.transform, d3.zoomIdentity);
+
+const state = {status: new Set(["agreed","uncertain","disputed","unknown"]), change:false, juan:0, level:"", q:"", sel:null};
+const visible = p => state.status.has(p.status) && (!state.change || BIG.has(p.change) || p.change === "strengthened")
+  && (!state.juan || p.juan === state.juan) && (!state.level || p.level === state.level || (state.level === "country" && p.level === "region"))
+  && (!state.q || [p.zh,p.ja,p.orig,p.mz,p.modern,p.proposed,p.id].join(" ").toLowerCase().includes(state.q));
+
+function draw() {
+  const vis = P.filter(p => visible(p) && p.lat != null);
+  const r = p => (p.level === "site" ? 3.2 : 5) / Math.sqrt(k);
+  pts.selectAll("circle").data(vis, p => p.id).join("circle")
+    .attr("class", p => "pt" + (p.id === state.sel ? " sel" : ""))
+    .attr("cx", p => proj([p.lon,p.lat])[0]).attr("cy", p => proj([p.lon,p.lat])[1])
+    .attr("r", r).attr("fill", p => col(p.status))
+    .on("click", (e,p) => select(p.id)).selectAll("title").data(p => [p]).join("title").text(p => `${p.zh} ${p.orig ? "· "+p.orig : ""}`);
+  halos.selectAll("circle").data(vis.filter(p => BIG.has(p.change) || p.change === "strengthened"), p => p.id).join("circle")
+    .attr("class","halo").attr("cx", p => proj([p.lon,p.lat])[0]).attr("cy", p => proj([p.lon,p.lat])[1])
+    .attr("r", p => r(p) + (BIG.has(p.change) ? 3.2 : 2.2) / Math.sqrt(k)).attr("stroke-width", p => BIG.has(p.change) ? 1.8 : 0.8);
+  const lab = vis.filter(p => p.level !== "site" || k > 5);
+  lbls.selectAll("text").data(k > 1.8 ? lab : [], p => p.id).join("text").attr("class","lbl")
+    .attr("x", p => proj([p.lon,p.lat])[0] + 6/Math.sqrt(k)).attr("y", p => proj([p.lon,p.lat])[1] + 3/Math.sqrt(k))
+    .attr("font-size", 11/k).attr("stroke-width", 3/k).text(p => p.zh.replace(/國$/,""));
+}
+
+function list() {
+  const vis = P.filter(visible);
+  document.getElementById("count").textContent = `${vis.length} places` + (vis.length !== P.length ? ` of ${P.length}` : "");
+  document.getElementById("rows").innerHTML = vis.map(p => `<tr class="row${p.id===state.sel?" sel":""}" data-id="${p.id}" tabindex="0">
+    <td class="id">${p.id}</td><td><span class="zh">${esc(p.zh)}</span>${p.orig ? `<br><span class="sub">${esc(p.orig)}</span>` : ""}</td>
+    <td><span class="dot" style="background:${col(p.status)}"></span> ${esc(p.mz || "—")}</td>
+    <td>${p.change && p.change !== "none" ? esc(CHANGE[p.change] || p.change) : (p.gazN ? p.gazN + " passages" : "")}</td></tr>`).join("");
+}
+document.getElementById("rows").addEventListener("click", e => { const tr = e.target.closest("tr.row"); if (tr) select(tr.dataset.id, true); });
+document.getElementById("rows").addEventListener("keydown", e => { const tr = e.target.closest("tr.row"); if (tr && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); select(tr.dataset.id, true); } });
+
+function select(id, pan) {
+  state.sel = id; const p = P.find(x => x.id === id); panel(p); draw(); list();
+  if (pan && p && p.lat != null) { const [x,y] = proj([p.lon,p.lat]); const kk = Math.max(k, 3);
+    svg.transition().duration(400).call(zoom.transform, d3.zoomIdentity.translate(W/2 - kk*x, H/2 - kk*y).scale(kk)); }
+}
+function panel(p) {
+  const el = document.getElementById("panel");
+  if (!p) { el.innerHTML = `<h2>Choose a place</h2><p class="empty">Click a point on the map or a row in the list. The dossier shows Mizutani's identification, each authority's view, what the gazetteers add, and the note on the place where there is one.</p>`; return; }
+  const par = p.parent ? P.find(x => x.id === p.parent) : null;
+  const auth = Object.entries(p.auth).map(([a,v]) => `<dt>${esc(AUTHN[a]||a)}</dt><dd>${esc(v)}</dd>`).join("");
+  el.innerHTML = `<h2><span class="zh">${esc(p.zh)}</span>${p.orig ? " · " + esc(p.orig) : ""}</h2>
+    <div class="sub">${p.id} · juan ${p.juan} · ${esc(p.level)}${par ? ` in <span class="zh">${esc(par.zh)}</span>` : ""}${p.ja && p.ja !== p.zh ? ` · Mizutani: ${esc(p.ja)}` : ""}</div>
+    <div class="badges"><span class="badge" style="color:${col(p.status)}">${esc(p.status)}</span>
+      ${p.visit ? `<span class="badge" style="color:var(--muted)">${esc(p.visit)}</span>` : ""}
+      ${p.change && p.change !== "none" ? `<span class="badge" style="color:var(--ink)">${esc(CHANGE[p.change]||p.change)}${p.conf ? " · " + esc(p.conf) : ""}</span>` : ""}</div>
+    <dl><dt>Mizutani</dt><dd>${esc(p.mz || "no identification")}${p.mzOther ? `<br><span class="sub">Others he reports: ${esc(p.mzOther)}</span>` : ""}</dd>
+    ${p.proposed && p.change && p.change !== "none" ? `<dt>Proposed</dt><dd>${esc(p.proposed)}${p.basis ? `<br><span class="sub">${esc(p.basis)}</span>` : ""}</dd>` : ""}
+    ${auth}
+    <dt>Gazetteers</dt><dd>${p.gazN ? `${p.gazN} passages${p.gazArg ? `, ${p.gazArg} argue, doubt or propose another site` : ""}<br><span class="sub">${esc(p.gazVols)}</span>` : "none"}</dd>
+    <dt>On the map</dt><dd>${p.lat != null ? `${esc(p.modern)} <span class="sub">(${esc(p.prec)}${p.cnote ? "; " + esc(p.cnote) : ""})</span>` : "not mapped"}</dd></dl>
+    ${p.note ? `<div class="note"><b>${esc(p.note.head)}</b>${p.note.body}</div>` : ""}`;
+}
+
+document.querySelectorAll("[data-status]").forEach(b => b.onclick = () => {
+  const s = b.dataset.status, on = b.getAttribute("aria-pressed") === "true";
+  b.setAttribute("aria-pressed", String(!on)); on ? state.status.delete(s) : state.status.add(s); draw(); list(); });
+document.getElementById("f-change").onclick = e => { const b = e.currentTarget; state.change = b.getAttribute("aria-pressed") !== "true"; b.setAttribute("aria-pressed", String(state.change)); draw(); list(); };
+jsel.onchange = () => { state.juan = +jsel.value; draw(); list(); };
+document.getElementById("f-level").onchange = e => { state.level = e.target.value; draw(); list(); };
+document.getElementById("f-q").oninput = e => { state.q = e.target.value.trim().toLowerCase(); draw(); list(); };
+const first = location.hash.slice(1).replace(/-/g, ".");
+draw(); list(); panel(null);
+if (first && P.some(p => p.id === first)) select(first, true);
+</script>

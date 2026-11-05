@@ -1,4 +1,4 @@
-# Xuanzang's places: plan (started 2026-11-05)
+# Xuanzang's places: plan (steps 1–4 done 2026-11-05; see README.md for the current account)
 
 The question: where are the countries and sites of the *Da Tang Xiyu ji* (大唐西域記)? Collect the identifications that
 scholars have proposed, mark which are agreed and which disputed, and test the disputed ones against the British
