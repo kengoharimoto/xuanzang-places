@@ -73,7 +73,11 @@ PASS = {}
 for f in sorted(glob.glob("data/text/passages_*.tsv")): PASS.update(_load(f))
 TRAN = _load("data/text/translation_dm.tsv")
 REV, REL = {}, {}
-for f in sorted(glob.glob("data/text/review_*.tsv")): REV.update(_load(f))
+for f in sorted(glob.glob("data/text/review_[0-9]*.tsv")): REV.update(_load(f))
+try: STALE = set(open("data/text/review_stale_ids.txt").read().split())   # passages re-cut with notes; old reviews no longer apply
+except FileNotFoundError: STALE = set()
+for i in STALE: REV.pop(i, None)
+for f in sorted(glob.glob("data/text/review2_*.tsv")): REV.update(_load(f))   # re-reviews of the re-cut passages
 for f in sorted(glob.glob("data/religion/religion_*.tsv")): REL.update(_load(f))
 out = []
 for m in master:

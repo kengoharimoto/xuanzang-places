@@ -20,11 +20,24 @@ for m in re.finditer(r"\[T51:(\d+[abc])\]|.", raw, re.S):
     txt.append(m.group(0)); pages.append(cur)
 T = "".join(txt)
 rows = [r for f in sorted(sys.argv[1:]) for r in csv.DictReader(open(f, encoding="utf-8"), delimiter="\t")]
+# note-insensitive search: anchors may or may not include the interlinear notes （…）
+S_chars, S_map, depth = [], [], 0
+for k, ch in enumerate(T):
+    if ch == "（": depth += 1; continue
+    if ch == "）": depth = max(0, depth - 1); continue
+    if depth == 0: S_chars.append(ch); S_map.append(k)
+S = "".join(S_chars)
+import bisect
 def find(a, start=0):
-    a = re.sub(r"\s+", "", a or "")
+    a = re.sub(r"（[^（）]*）", "", re.sub(r"\s+", "", a or ""))
     if len(a) < 4: return -1   # empty or too-short anchors are errors
-    i = T.find(a, start)
-    return i
+    i = S.find(a, bisect.bisect_left(S_map, start))
+    return S_map[i] if i >= 0 else -1
+def span_end(a, i):
+    """T position just after anchor `a` found at T position i (skipping notes inside it)."""
+    a = re.sub(r"（[^（）]*）", "", re.sub(r"\s+", "", a or ""))
+    si = bisect.bisect_left(S_map, i) + len(a) - 1
+    return S_map[si] + 1 if si < len(S_map) else len(T)
 segs, out, errs = [], {}, []
 pos = 0
 for r in rows:   # anchors files are in master-table order; segments must appear in text order
@@ -38,14 +51,14 @@ for n, (i, r) in enumerate(segs):
     j = segs[n+1][0] if n + 1 < len(segs) else len(T)
     if r.get("end_anchor"):
         e = find(r["end_anchor"], i)
-        if 0 <= e < len(T): j = min(j, e + len(re.sub(r"\s+", "", r["end_anchor"])))
+        if 0 <= e < len(T): j = min(j, span_end(r["end_anchor"], e))
     out[r["id"]] = ("segment", T[i:j], pages[i])
 for r in rows:
     if r["mode"] != "excerpt": continue
     i = find(r["anchor"])
     if i < 0: errs.append(f'{r["id"]}: excerpt anchor not found: {r["anchor"][:20]}'); continue
     e = find(r["end_anchor"], i) if r.get("end_anchor") else -1
-    j = e + len(re.sub(r"\s+", "", r["end_anchor"])) if e >= 0 else T.find("。", i) + 1
+    j = span_end(r["end_anchor"], e) if e >= 0 else T.find("。", i) + 1
     out[r["id"]] = ("excerpt", T[i:j], pages[i])
 import os
 outp = "data/text/passages.tsv" if len(sys.argv) > 2 else "data/text/" + os.path.basename(sys.argv[1]).replace("anchors_", "passages_")

@@ -41,7 +41,7 @@ One row per id with a passage. From the passage itself (and the country descript
   `Buddhist-image`, `Buddhist-relic`, `Buddhist-legend`, `deva-temple`, `Jain-site`, `natural` (mountain, river, lake
   with no shrine), `city`, `other:<…>`; several allowed.
 - `buddhism`: state of Buddhism the text reports for the place: `flourishing`, `mixed` (Buddhists and others),
-  `declining` (ruined monasteries, few monks), `absent` (不信佛法 / 少信佛法), or empty.
+  `declining` (ruined monasteries, few monks), `absent` (不信佛法 and no monasteries), `minority` (少信佛法 etc. but monasteries exist), or empty.
 - `quote`: the decisive Chinese phrase(s) verbatim from the passage (e.g. `伽藍十餘所，僧徒三千餘人，並學小乘說一切有部。天祠數十，異道雜居。`), ≤ 120 characters, fragments joined with `…`.
 - `note`: e.g. Mizutani's identification of a sect name, or "露形 = Digambara Jains (Mizutani)".
 

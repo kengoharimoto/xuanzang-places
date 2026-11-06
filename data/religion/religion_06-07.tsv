@@ -1,0 +1,52 @@
+id	sangharamas	monks	schools	deva_temples	other	site_affiliation	buddhism	quote	note
+06.01	several hundred (mostly ruined)	few	Sammatiya	100	heretics-many	city;Buddhist-stupa;Buddhist-legend	declining	伽藍數百，圮壞良多，僧徒寡少，學正量部。天祠百所，外道甚多。	外道甚多 coded heretics-many
+06.01.04	1 (ruined)			1		Buddhist-monastery;Buddhist-stupa;Buddhist-image;Buddhist-relic;Buddhist-legend;deva-temple;other:Asoka-pillar	declining	昔為伽藍，今已荒廢…次東有天祠，量等精舍	Jetavana in ruins, one brick shrine with image; a deva temple beside the vihāra; legends of 外道 slanders and debates
+06.01.13						Buddhist-stupa;Buddhist-legend		並樹封記，建窣堵波	
+06.01.14						city;Buddhist-stupa;Buddhist-relic;Buddhist-legend		有迦葉波佛全身舍利。並無憂王所建也	birthplace of Kāśyapa Buddha
+06.02	1000+ ruined foundations; 1 active	3000+	Hinayana;Sammatiya	2	heretics-many	city;Buddhist-image;Buddhist-stupa;Buddhist-legend	declining	伽藍故基千有餘所，而宮城之側有一伽藍，僧徒三千餘人，習學小乘正量部教。天祠兩所，異道雜居。	CBETA 三千 (Mizutani 三千余人); Beal reads 30
+06.02.05						city;Buddhist-stupa;Buddhist-relic;Buddhist-legend;other:Asoka-pillar		有彼如來遺身舍利。前建石柱	birthplace of Krakucchanda
+06.02.05a						city;Buddhist-stupa;Buddhist-relic;Buddhist-legend;other:Asoka-pillar		有彼如來遺身舍利，前建石柱	birthplace of Kanakamuni
+06.02.06						Buddhist-stupa;Buddhist-legend		有數百千窣堵波，釋種誅死處也	
+06.02.08	1			1	Saiva	Buddhist-stupa;Buddhist-monastery;Buddhist-legend;deva-temple		止尼拘盧陀僧伽藍…門外有自在天祠，祠中石天像	自在天 = Īśvara (Śiva); Mizutani: 自在天祠, 石造りの自在天の像
+06.02.10						Buddhist-stupa;Buddhist-legend;natural		有小窣堵波，其側有泉	Arrow Spring, healing mud
+06.02.11						Buddhist-stupa;Buddhist-legend;natural		菩薩誕靈之處…無憂王所建	Lumbinī
+06.02.12						natural;Buddhist-legend;other:Asoka-pillar		有大石柱，上作馬像，無憂王之所建也	
+06.03	1	few				Buddhist-stupa;Buddhist-relic;Buddhist-monastery;Buddhist-legend	declining	城邑丘墟，居人稀曠…有一伽藍，僧眾尠矣…而以沙彌總任眾務	monastery run by a śrāmaṇera; relic stūpa of the Rāma king
+06.03.03						Buddhist-stupa;Buddhist-legend		大窣堵波，無憂王之所建也	
+06.03.04	1 (old)					Buddhist-stupa;Buddhist-relic;Buddhist-monastery;Buddhist-legend	declining	持至本國，建此靈基，而修供養…故伽藍左右，數百窣堵波	Ash (charcoal) stūpa, built by brahmins
+06.04						city;Buddhist-stupa		無憂王所建，准陀之故宅也	city in ruins
+06.04.03						Buddhist-image;Buddhist-stupa;Buddhist-legend;other:Asoka-pillar		其大甎精舍中作如來涅槃之像，北首而臥	說一切有部 cited only for the nirvāṇa date, not as local affiliation
+06.04.03a						natural		渡阿恃多伐底河	
+06.04.11						Buddhist-stupa;Buddhist-relic;Buddhist-legend;other:Asoka-pillar		是如來焚身之處…是八王分舍利處。前建石柱	
+06.04.14	1					Buddhist-monastery;Buddhist-image;Buddhist-legend	declining	敬崇三寶。接其居側，建立僧坊…設賞迦王毀壞佛法，眾僧絕侶	brahmin patron revering the Three Jewels; persecution by Śaśāṅka
+07.01	30+	3000+	Hinayana;Sammatiya	100+ (20 in the capital)	Saiva;Pasupata	city;deva-temple	mixed	多信外道，少敬佛法…伽藍三十餘所，僧徒三千餘人，並學小乘正量部法。天祠百餘所，外道萬餘人，並多宗事大自在天…露形無服，塗身以灰	露形 here = naked Śaiva ascetics (Maheśvara worshippers), not Jains; ash-smearing = Pāśupata; brass deva image nearly 100 ft (Mizutani: 大自在天像)
+07.01.02						Buddhist-stupa;other:Asoka-pillar		有窣堵波，無憂王之所建也	
+07.01.02a	1	1500	Hinayana;Sammatiya			Buddhist-monastery;Buddhist-image	flourishing	僧徒一千五百人，並學小乘正量部法	Deer Park
+07.01.03						Buddhist-stupa;Buddhist-legend;other:Asoka-pillar		是如來成正覺已初轉法輪處也	
+07.01.04	several hundred (精舍 and stūpas)					Buddhist-stupa;Buddhist-image;Buddhist-legend	flourishing	諸精舍、窣堵波數百餘所	
+07.01.06						natural;Buddhist-stupa;Buddhist-legend		凡此三池，並有龍止…諸淨信者每來供養	
+07.01.10						Buddhist-stupa;Buddhist-legend		是阿若憍陳如等五人棄制迎佛處也	
+07.01.11						natural;Buddhist-stupa;Buddhist-legend		傍有涸池…一名救命，又謂烈士…有三獸窣堵波	legend of a hermit (隱士) seeking immortality (仙術) by a rite with altar and spell
+07.02	10+	<1000	Hinayana	20	heretics-many	city;Buddhist-monastery;Buddhist-stupa;Buddhist-relic;Buddhist-image	mixed	邪正兼信。伽藍十餘所，僧徒減千人。並皆遵習小乘教法。天祠二十，異道雜居。	Maitreya image
+07.02.02	1					Buddhist-monastery;Buddhist-legend	flourishing	僧徒肅穆，眾儀庠序	monastery for Tukhāra monks; pierced-eared monks excluded
+07.02.03					Brahmanical	city	absent	並婆羅門種，不遵佛法	all brahmins
+07.02.03a				1	other:Vaishnava (Narayana)	deva-temple		有那羅延天祠…諸天之像，鑴石而成	那羅延天 = Nārāyaṇa (Viṣṇu/Kṛṣṇa, Mizutani)
+07.02.03b	several	some	Mahayana			Buddhist-stupa;Buddhist-monastery;Buddhist-legend;other:Asoka-pillar	declining	有數伽藍，雖多傾毀，尚有僧徒，並皆遵習大乘教法	Āṭavaka legend
+07.02.04						Buddhist-stupa;Buddhist-relic		遂建窣堵波，并瓶置內	Droṇa stūpa (vessel)
+07.03	several hundred (3–5 extant)	few		dozens	Jain-Digambara;heretics-many	city	declining	邪正雜信。伽藍數百，多已圮壞，存者三五，僧徒稀少。天祠數十，異道雜居，露形之徒，寔繁其黨。	露形 = Digambara Jains (Mizutani: 露形[外道]); Mizutani notes the Kolhua pillar near Mahāvīra's birthplace
+07.03.02	1	few	Hinayana;Sammatiya			Buddhist-monastery;Buddhist-stupa;Buddhist-legend	declining	僧徒寡少，習學小乘正量部法	
+07.03.03						Buddhist-stupa;Buddhist-relic		此中舊有如來舍利一斛	
+07.03.04						Buddhist-stupa;Buddhist-legend;other:Asoka-pillar		傍有石柱，高五六十尺，上作師子之像	
+07.03.06						Buddhist-stupa;Buddhist-legend;other:shrine (神舍)		有一神舍，其狀壘甎	Vimalakīrti's house
+07.03.07						Buddhist-stupa;Buddhist-monastery;Buddhist-relic;Buddhist-legend	declining	中有阿難半身舍利…林既摧殘，池亦枯涸	Āmrapālī grove; lecture hall ruins
+07.03.12						Buddhist-stupa;Buddhist-legend		至大窣堵波，栗呫婆子別如來處	
+07.03.13						city;Buddhist-stupa;Buddhist-legend		有故城，荒蕪歲久，居人曠少	
+07.03.14						Buddhist-stupa;Buddhist-legend		是七百賢聖重結集處	Second Council
+07.03.14a								長老釐波多住韓若國	excerpt naming 韓若國 only; no religious data for the country
+07.03.15	1		Mahayana			Buddhist-monastery;Buddhist-stupa;Buddhist-legend	flourishing	僧眾清肅，並學大乘	Śvetapura
+07.03.16						Buddhist-stupa;Buddhist-relic;Buddhist-legend		殑伽河南北岸各有一窣堵波	
+07.04	10+	<1000	both	dozens	heretics-many	city;Buddhist-monastery;Buddhist-stupa;Buddhist-legend	mixed	多敬外道，少信佛法。伽藍十餘所，僧徒減千人，大小二乘，兼功通學。天祠數十，外道寔眾。	
+07.04.01a						city		國大都城號占戍挐，多已頹毀	
+07.04.01b	1	few				Buddhist-monastery;Buddhist-stupa;Buddhist-legend		大河東北有伽藍，僧徒寡少，學業清高	
+07.04.03						city;Buddhist-stupa;Buddhist-relic;Buddhist-legend	flourishing	有如來髮、爪窣堵波…燈炬不絕	hair-and-nail stūpa still worshipped
+07.05	many (伽藍、天祠接堵連隅)	2000+	both	many	Brahmanical	city;natural	mixed	邪正兼信。伽藍、天祠接堵連隅。僧徒二千餘人，大小二乘，兼功綜習。外道異學，其數不詳。…純信佛法	Licchavi king devoted to Buddhism; Aṃśuvarman; fire-pool

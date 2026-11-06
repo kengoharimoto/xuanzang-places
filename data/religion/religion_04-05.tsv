@@ -1,0 +1,38 @@
+id	sangharamas	monks	schools	deva_temples	other	site_affiliation	buddhism	quote	note
+04.01	10			several hundred		city	minority	少信佛法，多事天神。伽藍十所，天祠數百。	少信佛法 coded absent per scheme although 10 monasteries exist; Mizutani: 少しく仏法を信じてはいるが; recoded absent→minority: the text says little faith (少信/不信) but monasteries exist
+04.01.02	1	100+	Hinayana			Buddhist-monastery;Buddhist-stupa;Buddhist-relic;Buddhist-legend;city		奢羯羅故城中有一伽藍，僧徒百餘人，並學小乘法。	Vasubandhu composed 勝義諦論 here; Aśokan stupas; legend of Mihirakula's persecution (1600 stupas and monasteries destroyed in Gandhāra)
+04.02	10			8			mixed	學綜真俗，信兼邪正。伽藍十所，天祠八所。	
+04.02.03	1	300+	Sarvastivada			Buddhist-monastery;Buddhist-stupa;Buddhist-relic	flourishing	僧徒三百餘人，學說一切有部，眾儀肅穆，德行清高，小乘之學特為博究	Tamasavana (闍林); Kātyāyana composed the Jñānaprasthāna here; hundreds of relic stupas
+04.03	50+	2000+	both	3	Pasupata		mixed	伽藍五十餘所，僧徒二千餘人，大小二乘，專門習學。天祠三所，外道五百餘人，並塗灰之侶也。	500+ ash-smearing (Pāśupata) ascetics; former king converted and was made supervisor of the Saṅgha of the five Indias
+04.04	20+	1000+	Mahayana	15	heretics-many	Buddhist-stupa;Buddhist-legend	mixed	伽藍二十餘所，僧徒千餘人，多學大乘，少習諸部。天祠十五，異道雜居。	mostly Mahāyāna, a few study other schools (諸部); rock cells of arhats and ṛṣis
+04.04a									route note only; no religious information
+04.04b									route note only; no religious information
+04.05	10	few				Buddhist-stupa	declining	敦信佛法，誠心質敬。王城內外，伽藍十所，庭宇荒涼，僧徒尠少。	people devoted to Buddhism, but monasteries desolate and monks few
+04.06	8	few	Hinayana	10+	heretics-many		declining	信奉外道…伽藍八所，傾毀已甚，僧徒寡少，習學小乘。天祠十餘所，異道千餘人。	1000+ non-Buddhists; Vaiśya king
+04.07	20+	2000+	both	5	heretics-many	Buddhist-stupa;Buddhist-relic	mixed	伽藍二十餘所，僧徒二千餘人，大小二乘，兼功習學。天祠五所，異道雜居。	stupas of Śāriputra, Maudgalyāyana, Pūrṇa, Upāli, Ānanda, Rāhula, Mañjuśrī, each venerated by a different group of monks
+04.07.03	1					Buddhist-monastery;Buddhist-stupa;Buddhist-relic;Buddhist-legend		尊者鄔波毱多之所建也。其中則有如來指爪窣堵波。	Upagupta's rock monastery; tally cave; monkey-honey legend
+04.08	3	700+	Hinayana	100+	heretics-many		mixed	伽藍三所，僧徒七百餘人，並皆習學小乘法教。天祠百餘所，異道甚多。	
+04.08.02						Buddhist-stupa;Buddhist-relic;other:battlefield (福地)		甎皆黃赤色，甚光淨，中有如來舍利一斗	福地 legend: a king had a brahmin (梵志) forge a scripture promising heaven to those killed in battle
+04.08.04	1					Buddhist-monastery		重閣連甍，層臺間峙。僧徒清肅，威儀閑雅。	
+04.09	5	1000+	Hinayana	100	heretics-many	Buddhist-stupa;Buddhist-relic;Buddhist-monastery	mixed	宗信外道…伽藍五所，僧徒千餘人，多學小乘，少習餘部…天祠百所，異道甚多。	the five monasteries mark where foreign masters defeated tīrthikas and brahmins
+04.09.03					Brahmanical	natural		彼俗書記，謂之福水，罪咎雖積，沐浴便除	Ganges source; bathing and suicide cult; Deva (提婆) converts the 外道
+04.10	10+	800+	Sarvastivada	50+	heretics-many	Buddhist-monastery;Buddhist-stupa	mixed	信邪正者，其徒相半。王，戍達羅種也，不信佛法，敬事天神。伽藍十餘所，僧徒八百餘人，多學小乘教說一切有部。天祠五十餘所	Śūdra king, not Buddhist; Guṇaprabha's monastery (50+ monks), Saṃghabhadra's (200+, Hīnayāna); stupas of Saṃghabhadra and Vimalamitra
+04.10.05				1		deva-temple;natural;city		有大天祠，甚多靈異…五印度人謂之殑伽河門，生福滅罪之所	Gaṅgādvāra bathing tank in a great deva temple; charitable hostels (福舍)
+04.11	5	few		10+	heretics-many		mixed	邪正雜信。伽藍五所，僧徒寡少。天祠十餘所，異道雜居。	
+04.11.02									Suvarṇagotra / Eastern Women's Kingdom; no religious information
+04.12	2	100+	Hinayana	30+	heretics-many	Buddhist-stupa;Buddhist-relic	mixed	多信外道，求現在樂。伽藍二所，僧眾百餘人，並皆習學小乘法教。天祠三十餘所，異道雜居。	
+04.13	10+	1000+	Sammatiya	9	Saiva;Pasupata	Buddhist-stupa;Buddhist-legend	mixed	伽藍十餘所，僧徒千餘人，習學小乘正量部法。天祠九所，異道三百餘人，事自在天，塗灰之侶也。	300+ ash-smearers serving Īśvara (自在天)
+04.14	2	300	Mahayana	5	heretics-many	Buddhist-stupa	minority	崇信外道，少敬佛法。伽藍二所，僧徒三百人，並皆習學大乘法教。天祠五所，異道雜居。	少敬佛法 coded absent per scheme although 300 Mahāyāna monks are reported; recoded absent→minority: the text says little faith (少信/不信) but monasteries exist
+04.15	4	1000+	Sammatiya	10	Saiva;heretics-many		mixed	伽藍四所，僧徒千餘人，並學小乘正量部法。天祠十所，異道雜居，同共遵事大自在天。	all the non-Buddhists worship Maheśvara
+04.15.02	1	several hundred	Sammatiya			Buddhist-monastery;Buddhist-image;Buddhist-legend;Buddhist-stupa;other:Aśoka pillar	flourishing	僧徒數百人，學正量部法。數萬淨人，宅居其側。	Saṃkāśya: stairway of the descent from Trāyastriṃśa
+05.01	100+	10000+	both	200+	Surya;Saiva;Brahmanical	Buddhist-monastery;Buddhist-stupa;Buddhist-relic;Buddhist-image;deva-temple;city	mixed	邪正二道，信者相半。伽藍百餘所，僧徒萬餘人，大小二乘，兼功習學。天祠二百餘所，異道數千餘人。…有日天祠。祠南不遠，有大自在天祠	Sūrya and Maheśvara temples of blue stone beside the Buddha vihāra; Buddha-tooth relic; 500 brahmins (婆羅門) plotted against Harṣa and were banished
+05.01.09	3	500+	Sarvastivada	1		deva-temple;Buddhist-monastery;Buddhist-stupa;Buddhist-relic		有一天祠…城東五里有三伽藍，同垣異門，僧徒五百餘人，並學小乘說一切有部。	
+05.02	100+	3000+	both	10		Buddhist-monastery;Buddhist-stupa;Buddhist-relic;Buddhist-legend	flourishing	伽藍百有餘所，僧徒三千餘人，大乘、小乘，兼功習學。天祠十所，異道寡少。	personal affiliations only: Asaṅga ordained Mahīśāsaka, Vasubandhu Sarvāstivāda, Śrīlāta Sautrāntika
+05.03	5	1000+	Sammatiya	10+	heretics-many	Buddhist-stupa;Buddhist-relic;Buddhist-monastery	mixed	伽藍五所，僧徒千餘人，習學小乘正量部法。天祠十餘所，異道雜居。	a further monastery of 200+ monks where Buddhadāsa composed a Sarvāstivāda Vibhāṣā
+05.04	2	few	Hinayana	several hundred	heretics-many	Buddhist-stupa;Buddhist-monastery;Buddhist-legend	declining	信外道。伽藍兩所，僧徒寡少，並皆習學小乘法教。天祠數百，異道寔多。	Deva composed the 廣百論 here
+05.04.03				1	Brahmanical	deva-temple;other:sacred tree (ritual suicide)		城中有天祠…若人至此祠中，無不輕捨身命	temple scriptures promise heaven to those who die there; man-eating spirit in the tree
+05.04.04					other:pillar-standing ascetics (外道修苦行者)	natural;other:dāna ground (大施場)		彼俗以為欲求生天，當於此處絕粒自沈…故諸外道修苦行者，於河中立高柱	ritual suicide at the confluence; Harṣa's quinquennial giving begins with a Buddha image
+05.05	10+	300+	Hinayana	50+	heretics-many	Buddhist-image;Buddhist-legend	declining	伽藍十餘所，傾頓荒蕪，僧徒三百餘人，學小乘教。天祠五十餘所，外道寔多。	Udayana's sandalwood image
+05.05.03						Buddhist-monastery;Buddhist-stupa;Buddhist-relic;Buddhist-legend		釋迦法盡，此國最後	Ghoṣila's park; Vasubandhu and Asaṅga worked here
+05.05.06	1				Brahmanical	Buddhist-monastery;Buddhist-stupa;Buddhist-legend;city		城傍有故伽藍，唯餘基址，是昔護法菩薩伏外道處	monastery in ruins; a former king favoured the 外道 until Dharmapāla's victory
+05.06	20+	3000+	Sammatiya	50+	heretics-many	Buddhist-monastery;Buddhist-stupa;Buddhist-legend	mixed	伽藍二十餘所，僧眾三千餘人，並學小乘正量部法。天祠五十餘所，外道甚多。	Devaśarman and Gopa debated here; Dharmapāla defeated 100 Hīnayāna masters
