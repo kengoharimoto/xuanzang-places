@@ -1,0 +1,55 @@
+juan	scheme	n_legs	fitted_km_per_li	sd_log_after_fit	mean_bearing_off
+01	Mizutani	20	0.297	0.68	30
+01	Cunningham	20	0.297	0.56	29
+01	Vivien	21	0.275	0.72	41
+01	Beal	20	0.321	0.59	38
+01	Watters	20	0.269	0.59	27
+01	Dey	20	0.297	0.67	37
+02	Mizutani	3	0.287	0.33	21
+02	Cunningham	3	0.287	0.26	25
+02	Dey	3	0.287	0.19	24
+03	Mizutani	10	0.151	0.66	23
+03	Study (proposed sites)	10	0.144	0.65	23
+03	Cunningham	11	0.165	0.58	33
+03	Vivien	10	0.151	0.66	20
+03	Watters	11	0.165	0.67	19
+03	Majumdar	11	0.165	0.67	19
+03	Dey	10	0.165	0.59	17
+04	Mizutani	15	0.25	0.71	27
+04	Study (proposed sites)	15	0.259	0.73	29
+04	Cunningham	17	0.262	0.57	31
+04	Vivien	15	0.294	0.87	23
+04	Beal	15	0.259	0.69	29
+04	Majumdar	15	0.259	0.73	43
+05	Mizutani	4	0.163	0.52	32
+05	Study (proposed sites)	6	0.248	0.51	26
+05	Cunningham	7	0.215	0.7	14
+05	Vivien	7	0.344	0.68	39
+05	Watters	6	0.326	0.39	41
+05	Majumdar	7	0.286	0.64	24
+05	Dey	7	0.33	0.66	46
+06	Cunningham	3	0.193	0.64	30
+06	Majumdar	3	0.337	0.23	18
+07	Mizutani	3	0.207	0.29	20
+10	Mizutani	16	0.227	0.52	28
+10	Study (proposed sites)	17	0.231	0.59	23
+10	Cunningham	17	0.245	0.44	34
+10	Vivien	16	0.241	0.5	39
+10	Beal	17	0.252	0.69	28
+10	Watters	16	0.235	0.56	30
+10	Majumdar	16	0.212	0.71	29
+10	Dey	16	0.235	0.56	28
+11	Mizutani	18	0.227	0.44	40
+11	Study (proposed sites)	18	0.218	0.56	36
+11	Cunningham	21	0.232	0.48	45
+11	Vivien	21	0.241	0.46	44
+11	Beal	19	0.234	0.48	38
+11	Watters	21	0.232	0.46	46
+11	Majumdar	18	0.229	0.43	38
+11	Dey	21	0.232	0.59	46
+11	Mirchandani	18	0.223	0.31	30
+11	Lambrick	18	0.241	0.37	36
+12	Mizutani	19	0.286	0.51	24
+12	Cunningham	19	0.286	0.54	29
+12	Vivien	19	0.334	0.64	32
+12	Beal	19	0.291	0.75	29

@@ -14,6 +14,8 @@ Two checks on the identifications, using only the texts:
 | `candidates.tsv` | Coordinates for 231 rival sites and Mizutani's own, for 155 places. The coordinates are approximate: obscure villages are placed from the proposer's own distances, and `note` says so. |
 | `candidates.py` → `candidate_scores.tsv` | Scores each candidate against its incoming and outgoing legs. |
 | `chains.py` → `chain_scores.tsv` | Scores whole alternative routes, each leg measured between one scheme's own sites (§5). |
+| `li_regions.py` → `li_regions.tsv`, `li_schemes.tsv` | The li by juan, visit and leg length; each scheme's best-fitting scale and the scatter left over (§8). |
+| `../data/coords_study.tsv` | Coordinates for the study's own proposed sites, scored as the scheme "Study (proposed sites)" in §6–8. |
 | `life_segments.py` → `life_segments.tsv` | The Life's legs (from `variants_*.tsv`), in the same form as `segments.tsv` (§7). |
 | `chains_all.py` → `chain_scores_all.tsv`, `chain_best.tsv` | The same for every juan: each authority's set of sites, and the best-fitting combination of candidates (§6). |
 | `variants_*.tsv` | Each leg in T2087, T2088 and T2053, plus Mizutani's variant notes. Quotes are verbatim and checked by `check_variants.py`. Instructions are in `VARIANTS_INSTRUCTIONS.md`. |
@@ -237,4 +239,47 @@ Results:
   text.
 - **Juan 11.** On the Life's legs the best fit takes Lambrick's Las Bela for Laṅgala and Cunningham's Kotesar for
   Atyanabakela, as in §5.
+
+## 8. Does the li vary by region? And do the study's own proposals fit?
+
+`li_regions.py` summarises the straight-line km per li on all legs of 100 li or more between located places
+(`li_regions.tsv`):
+
+| Group | km per li (median) | n |
+|---|---|---|
+| Central Asia and Afghanistan (juans 1, 2, 12) | 0.29–0.30 | 42 |
+| North India (juans 4, 7, 10, 11) | 0.21–0.25 | 52 |
+| Gandhāra–Kashmir and the Doab (juans 3, 5) | 0.15–0.16 | 14 |
+| Hearsay destinations | 0.12 | 8 |
+| Legs of 1000 li or more | 0.20 | 27 |
+| Legs of 500–999 li | 0.29 | 45 |
+
+The li is longer on the ground in Central Asia and shorter in the Punjab hills and the Doab. Hearsay distances and
+very long legs are inflated.
+
+`li_schemes.tsv` fits a separate scale to each scheme in each juan. If a scheme's sites were right and only the
+figures were scaled, the scheme would show an unusual scale with little scatter. That is not what happens:
+- **The Deccan (juan 10).** The scale that best fits Mizutani's sites, 0.227 km per li, is the ordinary one. The
+  scatter around it stays large.
+- **Where the scatter comes from.** It sits in the legs south of the Mahānadī, where the stated li run two to four
+  times too long:
+  - Uḍra → Koṅgoda;
+  - Koṅgoda → Kaliṅga, 1400 li for 188 km;
+  - Andhra → Dhānakaṭaka, 1000 li for 85 km between Peddavegi and Dharanikota, both fixed by inscriptions;
+  - Coḷa → Drāviḍa, 1500 li for 206 km;
+  - Drāviḍa → Malakūṭa, 3000 li for 366 km.
+
+  The Bengal legs north of the Mahānadī fit well.
+- **Conclusion.** The Deccan figures are inflated, unevenly, perhaps because they count roundabout forest routes
+  (the text's 山林) or derive from days' marches. A uniform regional li does not correct them. Cunningham's sites fit
+  the figures better because they were chosen to fit them. The inscription-fixed sites should not be moved on route
+  grounds.
+
+**The study's own proposals** (`data/coords_study.tsv`), scored as a scheme (§6 tables, `chain_scores_all*.tsv`):
+- **Better than Mizutani** in juan 6 (Piprahwa for Kapilavastu; mean |z| 0.53 against 0.73) and juan 5 (Newal).
+- **Worse** in juan 10 (Koṅgoda at the Chilka, Arang and Cuddapah lengthen the misfits, though bearings improve) and
+  juan 11. There, Mālava in central Gujarat lies only 121 km from Bharukaccha for a stated 2000 li.
+- **What this means.** The revisions rest on inscriptions, and the figures do not support them. In the Deccan this is
+  expected, given the inflation above. For Mālava it is a real point against central Gujarat, and the 11.05 note
+  should weigh it.
 

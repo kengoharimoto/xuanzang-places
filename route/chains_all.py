@@ -7,6 +7,7 @@ Usage (from xuanzang-places/): python3 -I route/chains_all.py [route/life_segmen
   -> route/chain_scores_all.tsv  one row per (juan, scheme): legs, mean |z|, mean bearing error, legs |z| > 1.5
   -> route/chain_best.tsv        places where the best-fitting combination picks a candidate other than Mizutani's
 
+"Study (proposed sites)" takes the study's own proposals (data/coords_study.tsv) and Mizutani's points elsewhere.
 A scheme takes the authority's candidate (route/candidates.tsv, matched on the proposer field) wherever there is one,
 and Mizutani's point (data/coords.tsv) elsewhere. Every leg (route/segments.tsv) whose destination lies in the juan is
 measured between the scheme's own points. An authority is scored only where it differs from Mizutani at two or more
@@ -55,6 +56,8 @@ rows, best = [], []
 for j, L in sorted(byjuan.items()):
     ids = sorted({s["id"] for s in L} | {s["from_id"] for s in L if s["from_id"][:2] == j})
     schemes = {"Mizutani": {}}
+    S = {i: (float(r["lat"]), float(r["lon"])) for r in rd("data/coords_study.tsv") for i in [r["id"]] if i in ids}
+    if S: schemes["Study (proposed sites)"] = S
     for a in AUTH:
         P = {}
         for i in ids:

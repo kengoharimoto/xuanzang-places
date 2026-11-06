@@ -1,0 +1,16 @@
+group	value	n	median_km_per_li	sd_log
+juan	01	20	0.297	0.68
+juan	02	3	0.287	0.33
+juan	03	10	0.151	0.65
+juan	04	15	0.25	0.71
+juan	05	4	0.163	0.52
+juan	07	3	0.207	0.29
+juan	10	16	0.228	0.52
+juan	11	18	0.227	0.44
+juan	12	19	0.286	0.51
+visit	hearsay	8	0.117	0.77
+visit	unclear	5	0.214	0.56
+visit	visited	99	0.24	0.57
+leg length	100-499 li	40	0.236	0.66
+leg length	1000+ li	27	0.195	0.5
+leg length	500-999 li	45	0.287	0.53

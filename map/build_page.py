@@ -30,6 +30,7 @@ for c in rd("route/candidates.tsv"):
     sc = SC.get((c["id"], c["candidate"]), {})
     ALT.setdefault(c["id"], []).append({"name": c["candidate"], "by": c["proposer"], "lat": float(c["lat"]), "lon": float(c["lon"]),
         "z": sc.get("mean_abs_z", ""), "b": sc.get("mean_bearing_off", ""), "note": c["note"]})
+SP = {r["id"]: r for r in rd("data/coords_study.tsv")}   # the study's proposed sites
 MZS = {r["id"]: r for r in rd("route/candidate_scores.tsv") if r["proposer"] == "Mizutani"}
 BEST = {r["id"]: r["best_fit"] for r in rd("route/chain_best.tsv")}
 notes = {}
@@ -63,6 +64,7 @@ for r in rd("data/places.tsv"):
         "note": notes.get(r["id"]),
         "kh": OBS.get(r["id"], []),
         "lref": r.get("life_ref", ""), "lzh": r.get("life_text", ""), "len": r.get("life_translation", ""), "lchk": r.get("life_translation_check", ""), "lnote": r.get("life_note", ""),
+        "sp": ({"lat": float(SP[r["id"]]["lat"]), "lon": float(SP[r["id"]]["lon"]), "label": SP[r["id"]]["label"], "prec": SP[r["id"]]["precision"], "note": SP[r["id"]]["note"]} if r["id"] in SP else None),
         "alt": ALT.get(r["id"], []), "mzz": MZS.get(r["id"], {}).get("mean_abs_z", ""), "mzb": MZS.get(r["id"], {}).get("mean_bearing_off", ""),
         "best": BEST.get(r["id"], ""),
     })

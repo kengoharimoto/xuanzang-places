@@ -610,6 +610,10 @@ phases with reused pre-Kushan bricks, seemed part of a Maurya–Gupta monastery,
 Stupa mound", disturbed by Cunningham's digging, showed "some important construction in the close vicinity".
 Nothing of the staircases or of Xuanzang's period was reported.
 
+**Text.** The monastery with the stairs is 城西二十餘里 in the Taishō, which follows the Korean edition. The Song, Yuan and
+Ming editions and two Japanese manuscripts read 東 (Taishō apparatus, n. 0893013), and so does the Life (城東二十餘里). East
+has the stronger support, which matters for placing the monastery relative to the Sankisa mound.
+
 **Assessment.** A pillar standing beside a monastery mound in the position the text gives fixes the spot better
 than Cunningham's 1871 central mound, and the new digs confirm a monastery by the pillar. The animal on the capital
 remains unexplained, so Smith's point is not answered, but it no longer outweighs the site evidence. Mizutani is

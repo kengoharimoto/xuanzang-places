@@ -933,10 +933,15 @@ was situated on the south-eastern side of the Mo-ko" (Mahī). Sircar (EI 34) not
 (Malava) near the valley of the river Mahi", that "some scholars" identify it with the Mālavaka-āhāra of Dhruvasena
 II's grants within Maitraka territory, and that Ujjayinī (11.12) was distinct from Mālava.
 
+**Route test (the figures).** From Bharukaccha the text goes 西北 2000+ li to Mālava. Central Gujarat (Kheda) lies 121
+km away on a bearing of 345°: close to the stated direction but far short of the distance (about 480 km predicted).
+Mizutani's Malwa (Ujjain region) lies 352 km away on a bearing of 61°: near the distance but opposite in direction.
+Neither fits both. A Mālava further north-west in Gujarat would (route/README.md §8).
+
 **Assessment.** Xuanzang describes Ujjayana separately, and the Mahī bearing and the Maitraka Mālavaka-āhāra put his
 Mālava in central Gujarat, as Smith, Majumdar and now Bhandarkar and Sircar hold. Mizutani's reading of the Valabhī
-evidence runs the other way. Central Gujarat is the better-supported view, though no record fixes a capital:
-alternative, medium confidence.
+evidence runs the other way. Central Gujarat is the better-supported view, though no record fixes a capital. The
+bearing favours Gujarat, but the stated distance points further north-west than Kheda: alternative, medium confidence.
 
 ### 11.05.03 婆羅門邑 — unidentified
 
