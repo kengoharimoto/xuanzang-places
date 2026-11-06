@@ -457,10 +457,17 @@ which ruin it is remains open.
 
 **Gazetteers.** No gazetteer passage.
 
-**Assessment.** The only proposal fits the text's bearing and distance, but only if Begram is the capital.
-Mizutani stands as a probable identification.
+**K. Harimoto's notes.** Asks whether the monastery is at Mes Aynak (sketch, with 30 li ≈ 15 km). At the route model's
+scale 30 li is c. 7–10 km; Mes Aynak is c. 82 km from Begram, and Xuanzang names nothing in the Logar.
 
-### 01.38.03 霫蔽多伐剌祠城 — Tatarānzar S of Begram; Cunningham put it at Begram itself
+**Kuwayama.** Kuwayama (2000, p. 26) identifies the Rāhula monastery with "a still standing stupa called Borj‑e
+Kafir", "the one and only site" of the Buddhist group south of the capital. He places Kabul and its southern valleys
+in 弗栗恃薩儻那, not Kapiśa (p. 57).
+
+**Assessment.** Mizutani's Kafir Qaleh and Kuwayama's Borj-e Kafir are probably the same standing stūpa SE of Begram;
+the identification is strengthened, and Mes Aynak is excluded by distance. Medium confidence.
+
+### 01.38.03 霫蔽多伐剌祠城 — Tatarānzar S of Begram, or Kuwayama's Tapa Skandar (Śvetāśvatara?)
 
 **Identifications.** Mizutani: Tatarānzar, c. 12 km S of Begram, after Foucher (agreed as to site; the Sanskrit name
 is disputed). Cunningham: Begram, and the name may survive in Tatarangzar at the SW corner of the Begram ruins
@@ -469,11 +476,20 @@ is disputed). Cunningham: Begram, and the name may survive in Tatarangzar at the
 **Gazetteers.** Atkinson (1884) identifies Cartana/Tetragonis with Begram, 27 miles N of Kabul (hit coded
 02.04.18). This is classical geography after Cunningham and is not tied to Xuanzang's town.
 
-**Assessment.** Cunningham had already linked the town with Tatarangzar. The difference lies in the capital:
-Cunningham's capital was at Opian, so for him this town was Begram. Once Begram is the capital (01.38a), Tatarānzar
-40 li away is consistent. Mizutani stands.
+**K. Harimoto's notes.** Proposes that 霫蔽多伐剌 is Śvetāśvatara.
 
-### 01.38.03a 阿路猱山 (aruṇa) — the Chehel Dukhtaran peak S of Begram (Cunningham, Beal)
+**Kuwayama.** Kuwayama reads the name as "Svetavara, probably a corrupt form of Svetasvatara", and makes the town the
+base of the Śaiva ash-smearers of Kapiśa (2000, p. 27; 1972, p. 46). He identifies it with Tapa Skandar (Bala Hisar)
+near Sarai Khwaja, "about thirty kilometers to the north of Kabul and some fifty kilometers south of Begram" (2000, p.
+27; 1972, p. 54), where the Kyoto mission found in 1970 the marble Umā-Maheśvara seated on Nandin with Skanda (2000,
+p. 26).
+
+**Assessment.** Two candidates. Tatarānzar fits 40 li from Begram but has nothing Śaiva; Tapa Skandar has the Śaiva
+sculpture the name and Kuwayama's reading call for, but lies c. 50 km away, long for 40 li unless the capital or the
+figure is reckoned differently. The study keeps Tatarānzar with Tapa Skandar as an alternative, low confidence for
+either.
+
+### 01.38.03a 阿路猱山 (aruṇa) — Khair Khana N of Kabul (Kuwayama), against the Chehel Dukhtaran peak (Cunningham, Beal)
 
 **Identifications.** Mizutani: no location (unknown); he discusses the name and the legend only. Cunningham: the
 north end of the Siah-koh, called Chehel Dukhtaran, 3–6 miles S of Begram (p. 30, tentative). Beal: perhaps the
@@ -481,9 +497,14 @@ Chehel Dukhtarin peak (p. 61, tentative). Vivien: no site.
 
 **Gazetteers.** No gazetteer passage.
 
-**Assessment.** Mizutani leaves this blank, but Cunningham and Beal agree on Chehel Dukhtaran, which is 30 li S of
-the 01.38.03 town and consistent with Tatarānzar. On these sources Chehel Dukhtaran is the only candidate, though a
-tentative one.
+**Kuwayama.** Kuwayama (2000, pp. 27, 29, 36) takes 阿路猱 as Mount Aruṇa, a Sūrya cult place, and identifies it with the
+'Trois Sanctuaires' of Khair Khana, the Sūrya temple excavated N of Kabul. On his reading of the 漕矩吒 story, the 䅳那 god
+first held the mountain and left for Zābulistān before Xuanzang's visit (12.01). K. Harimoto's sketch notes only the
+30 li from 霫蔽多伐剌祠城.
+
+**Assessment.** Khair Khana is the first candidate with a matching cult (sun worship for 'Aruṇa') and excavated
+temples; it depends on Kuwayama's Tapa Skandar for 01.38.03, from which it lies south as the text requires but at c. 20
+km, long for 30 li (the same stretch as 01.38.03). Alternative, medium-low confidence; Chehel Dukhtaran rests on the bearing alone.
 
 ### 01.38.04 大雪山 (龍池・迦膩色迦王伽藍) — Kanishka's monastery: Top-Darrah near Charikar
 
@@ -521,6 +542,11 @@ tentative); vol. II p. 283 adds Cunningham's Arachosia. Watters gives no site of
 Majumdar: no site (p. 673).
 
 **Gazetteers.** No gazetteer passage.
+
+**K. Harimoto's notes.** "Nobody appears to know who 䅳那天 is."
+
+**Kuwayama.** Kuwayama (2000, pp. 29–33) equates 䅳那天 with the Zhun 順 whose statue the *Suishu* places on 葱嶺 in 漕國, and
+argues that the Zhun cult left Mount Aruṇa (01.38.03a) for Zābulistān between 606 and 629.
 
 **Assessment.** With the capital at Ghazni (12.01a), the country must be the Ghazni–Helmand area. Vivien,
 Cunningham and Mizutani differ only in the label (Ghazna, Arachosia, Zābulistān). Beal's Sewistan, which lies in Sind,

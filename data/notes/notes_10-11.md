@@ -35,6 +35,9 @@ with a chain of hot springs (the "smoking" mountain).
 to the former existence in this region of an active volcano", shown by the hot springs of the Kharagpur hills
 (Sitakund, Bhimbandh, Rishikund) (G#54/1558). They name no single peak.
 
+**K. Harimoto's notes.** Explains the 含吐煙霞 of the hill by the hot spring Sita Kund (or, doubtfully, volcanism), which
+agrees with the hot-spring reading of Vivien and the gazetteers.
+
 **Assessment.** Everyone puts the mountain in the Monghyr hills. Vivien and the gazetteers favour the hot-spring
 range over any single hill. Pirpahar (Mizutani's own suggestion) has no support in these sources, but it does not
 contradict them. Mizutani's general location stands. The specific hill remains open.
@@ -525,6 +528,10 @@ vihāra on Siripavata (Śrīparvata), which he takes for Nāgārjuna's; a 3rd-ce
 "Bhaṃgara-pavata" (Skt. Bhṛṅgāra-parvata), and that "Arang lies south-west of Sirpur as required by the Chinese
 pilgrim's description".
 
+**K. Harimoto's notes.** Faxian's 達嚫 cave monastery 波羅越 ("pigeon") is described almost exactly as Xuanzang's 跋邏末羅耆釐; 鴿
+may come from parvata taken as pārāvata; and 黑蜂 might be a corruption of 黑峰. Against the last point, 跋邏末羅 transcribes
+bhramara independently of the gloss, 黑蜂 is its standard gloss, and Arang's Bhaṃgara-pavata is also 'bee'.
+
 **Assessment.** Xuanzang puts Bhramaragiri 300 li SW of the Kosala capital. With Sirpur now secure (10.12), Arang has
 the bearing and a hill-name close to Bhramara (both bhramara and bhṛṅga mean "bee", glossed 黑蜂 in the text; this
 point is not made in these sources). Śrīparvata at Nāgārjunakoṇḍa has the Nāgārjuna association and the name of
@@ -718,6 +725,9 @@ sea-side". Beal (p. 233): no site.
 
 **Gazetteers.** None.
 
+**K. Harimoto's notes.** Suggests that the port NE of the mountain on the route to Siṃhala could be at Pondicherry
+(Arikamedu). Arikamedu is a Roman-period port not shown to be active in the 7th century; recorded as a lead only.
+
 **Assessment.** Hultzsch's Podiyamalai and 高桑's Pāpanāsam probably name the same range above Pāpanāsam in
 Tinnevelly (a geographical point not stated in these sources). If so, two independent sources point to one hill,
 against Watters' scepticism. Mizutani stands. The
@@ -829,6 +839,11 @@ Akola 1977 take Ajanta as fixed and use it to place the capital (G#1554).
 Waghora opposite Caves 4 and 17: a votive stūpa on a brick platform and a U-shaped brick vihāra of cells opening to
 the river, dated 4th–5th c. by pottery and mouldings, with a gold coin of Theodosius in its disuse phase. The reports
 do not mention Xuanzang.
+
+**K. Harimoto's notes.** If Faxian's monastery (some take it as Ajanta) is Xuanzang's Kosala Bhramaragiri (10.12.05),
+the Ajanta identification needs rethinking. It does not depend on Faxian: Xuanzang's own description, the bearing from
+Nasik and the Cave 26 inscription naming the sthavira Acala (known from Burgess and Indraji 1881, not coded here)
+carry it.
 
 **Assessment.** The gazetteers dispose of Kanheri, and Ajanta, east of Nasik, fits the bearing. The structural
 monastery shows the site's monastic establishment beyond the caves, though its disuse may precede Xuanzang. Mizutani
@@ -1013,6 +1028,9 @@ Travels' north.
 **Gazetteers.** Hamirpur 1909 takes Gwalior as Maheśvarapura in its reckoning for Eran (G#554). It argues only from
 bearings.
 
+**K. Harimoto's notes.** Suggests Shivpuri or Mandla. From the Eran capital of 11.13, Gwalior lies due north at c. 235
+km (≈ 900 li); Shivpuri lies NNW at c. 155 km, short of the distance.
+
 **Assessment.** Seronj fits the Life's distance from Ujjain, but not the Travels' 900 li north of a Bundelkhand
 Jejākabhukti. Maheswar fits neither text's direction. Gwalior agrees with the text's "north" without emendation and
 with the Eran reconstruction of 11.13. Mizutani stands.
@@ -1068,7 +1086,7 @@ where Xuanzang places Parvata.
 The Bandhogarh Pavata does not bear on the site. Mizutani stands, with Jammu too far from Multan (later work, not in
 these sources, assigns the seal to the Indus civilization).
 
-### 11.18 阿點婆翅羅國 (Atyanabakela) — lower Sindh/Cutch; capital Karachi or Kotesar
+### 11.18 阿點婆翅羅國 (Atyanabakela) — lower Sindh/Cutch; capital Karachi, Banbhore (Debal) or Kotesar
 
 **Identifications.** Mizutani: lower Sind, capital Karachi (agreed). Vivien (p. 411) and Lassen: Karachi. Cunningham
 (pp. 346–8) and Dey: Cutch, capital Koṭeśvara on the Kori mouth. Majumdar (p. 696): Lower Sindh, not Cutch, since the
@@ -1076,8 +1094,41 @@ capital lay on the Indus.
 
 **Gazetteers.** None.
 
-**Assessment.** These sources split between Karachi and Koṭeśvara. Majumdar's reading of the text, with the capital
-on the river near the sea, favours the Sindh side. Mizutani stands, with low to medium confidence.
+**K. Harimoto's notes.** Argues the capital is Koṭīśvara (Koteshwar, Kutch); takes 翅羅 as -kila (cf. 倶翅羅 = kokila);
+notes Lambrick's Debal and Bhambore.
+
+**Other sources.** Watters calls the Koṭīśvara restoration "quite impossible" (II p. 257); Lambrick (Sind, 1964, p.
+148) prefers the delta, with Debal as the capital. Al-Bīrūnī puts the eastern Indus mouth "in the province of Kacch at
+a place called Sindhu-sāgara" (Sachau I p. 260). The Skandapurāṇa puts the liṅga Sthūleśvara at Śaṅkukarṇa, "at the
+confluence of the Sindhu and the ocean" (SP 73.57; SP IV p. 57), which Bakker locates at Banbhore, perhaps Debal (SP
+IV p. 55 n. 133). Mirchandani (JIH 47, 1969, pp. 237–51) discusses this capital's name.
+
+**Assessment.** These sources split between Karachi or the delta (Debal/Banbhore) and Koṭeśvara in Kutch. 朅 (*khjat)
+suits Kacch- better than Koṭi-. A great Śiva shrine at the Indus mouth served by ash-smearers fits this country's
+大自在天祠, and the Skandapurāṇa's Śaṅkukarṇa–Sthūleśvara lies there. Mizutani's lower Sindh stands, low to medium
+confidence; Banbhore joins Karachi and Koṭeśvara as a candidate for the capital.
+
+### 11.19 狼揭羅國 (Laṅgala) — Mekran; capital 窣菟黎濕伐羅 = Sthūleśvara by name, unlocated
+
+**Identifications.** Mizutani: E Mekran or SE Baluchistan, the capital the great ruined city of "Lākorian" (agreed).
+Cunningham reaches "Lakūra" only by changing the bearing from W to NW (AGI p. 356). Watters suggests the capital's
+name begins "sthul or sthur" (II p. 257).
+
+**K. Harimoto's notes.** Asks whether Laṅgala could be Lākula, and proposes the capital 窣菟黎濕伐羅 = Sthūleśvara, known
+from the Skandapurāṇa and the Śivadharmaśāstra's lists, perhaps al-Bīrūnī's Tawalleshar; otherwise simply a port on
+the coast, as the text's 臨大海濱 suggests.
+
+**Other sources.** 窣菟黎濕伐羅 transcribes sthūleśvara closely (窣 as in 窣堵波 stūpa), and Mirchandani (JIH 47, 1969) already
+proposed it (SP IV p. 57 n. 136). The Skandapurāṇa places the liṅga Sthūleśvara at Śaṅkukarṇa, at the confluence of
+the Sindhu and the ocean (SP 73.57; SP IV pp. 10, 57); among the Śaiva tīrtha lists, only the Śivadharmaśāstra's adds
+Sthūleśvara (Kafle, Niśvāsamukha pp. 99, 276). Al-Bīrūnī's coast list has Tawalleshar, 50 farsakh from Daibal towards
+Kacch (Sachau I p. 208; cf. Taneshar = Sthāneśvara, I p. 199); his Loharānī is the port at the western Indus mouth (I
+pp. 205, 260). Lākula is unsupported: lakula is Lakulīśa's club (Cecil 2020, p. 14).
+
+**Assessment.** The name Sthūleśvara is well supported. Its known locations, at the Indus mouth (Skandapurāṇa) and
+east of Daibal (al-Bīrūnī), lie in or beyond 11.18's country, not 2000 li west of it. Either another Sthūleśvara stood
+on the Makran coast, or the name belongs to the delta and Xuanzang's hearsay sequence for Laṅgala is confused.
+Mizutani's region stands for the country; the capital's name is now Sthūleśvara, its site open.
 
 ### 11.20 波剌斯國 (Pārsa) — Persia; capital Persepolis/Istakhr
 
@@ -1127,8 +1178,13 @@ not the Avanti of the canon.
 
 **Gazetteers.** None.
 
-**Assessment.** The authorities agree on Middle Sindh. Beal's Avanti concerns the name only. Mizutani stands, with
-medium confidence for the region and low for the capital.
+**K. Harimoto's notes.** Asks whether Avaṇḍa is al-Mansūra. Al-Bīrūnī says al-Mansūra is Bahmanwa renamed (Sachau I p.
+21); it was founded c. 744–74, a century after Xuanzang (Cunningham pp. 310–11), on the site Cunningham already gave
+Avaṇḍa. Lambrick puts Avaṇḍa at Badah, S of Larkana (Sind, pp. 149–50).
+
+**Assessment.** The authorities agree on Middle Sindh; Lambrick's Badah is a further candidate for the capital.
+Al-Mansūra adds a later name for Cunningham's site, not a new identification. Mizutani stands, with medium confidence
+for the region and low for the capital.
 
 ### 11.23 伐剌拏國 (Varaṇa) — Bannu
 

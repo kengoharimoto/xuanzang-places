@@ -293,6 +293,11 @@ the north-east of the village alone remain to mark the retreat of the exiled pri
 Sakri ridge of Pajja, 8 miles NW of Bazar, with "the ruins of a small city" below; it "has not been thoroughly
 explored yet".
 
+**K. Harimoto's notes.** Songyun's 善特山 (= 檀特山 of the *Weishu* 102, Xuanzang's 彈多落迦山) has a 護塔神 濕婆仙 who drives the
+monastery's donkeys, and a shrine (廟) to the 濕婆仙, painted and gilded by the king, where he swept ash in place of a
+novice. 濕婆 is the usual transcription of Śiva: a Śaiva shrine inside the Buddhist complex c. 520. Beal (1869, p. 196;
+1884, I p. xcix) renders 濕婆仙 as "the Rishi Uh-po (Oupa? conf. Oupagupta)" and 除灰 as "sifting ashes", missing Śiva.
+
 **Assessment.** Cunningham's Kashmir Smast was fixed from Palodheri, which he gave up, and lies far from Shahbaz
 Garhi. Majumdar's cave and Mizutani's Mekha-Sanda both sit in the hills NE of Shahbaz Garhi, fitting the text's "20
 li NE", and the Survey in 1922–23 took the same hill and saw foundations on it. Mizutani is strengthened.
@@ -335,6 +340,10 @@ height, which is exactly 8 miles to the south-east of Palo-dheri". He read the b
 not NE, and identified no shrine on it.
 
 **Gazetteers.** None.
+
+**K. Harimoto's notes.** Suggests that the Bhīmā hill's 大自在天祠 served by 塗灰外道 is the same Śaiva milieu as Songyun's 濕婆仙
+shrine on the neighbouring Daṇḍaloka (02.04.15). Kuwayama (1972, p. 46) also reads it as a Śaiva ash-smearer cult
+site.
 
 **Assessment.** The text's bearing is 50 li NE of Varuṣa (Shahbaz Garhi), which suits Karamar. Mizutani's hill is
 thus Cunningham's, now reached from the right starting point without altering the bearing. Beal's and Dey's sites

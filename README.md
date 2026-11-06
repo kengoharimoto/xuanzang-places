@@ -76,6 +76,15 @@ check.
 - ***Epigraphia Indica*** vols. 1–36 and **CII** vols. 1, 2.1, 2.2, 3 (in Bhandarkar's revised edition), 5 and 6.
   These are the user's own copies, from their text extracts.
 - **Gazetteers.** The 557 volumes of the gazetteer-vedanta and yoga-gazetteers studies.
+- **K. Harimoto's notes** (`data/Archive/`, kept local). Earlier working notes:
+  - a country-by-country extraction of what the text says about non-Buddhists, with letter codes;
+  - notes on Songyun's 善特山, on Faxian's 波羅越 against Bhramaragiri, on Mahārāṣṭra and on Pāṇini;
+  - two sketches of the route through Kapiśa.
+
+  They are entered as a register (`data/user_obs/observations.tsv`, one row per observation, with an assessment) and
+  as a paragraph in the relevant notes. Their proposals were tested against Kuwayama 2000 and 1972, Beal 1869/1884,
+  Sachau's al-Bīrūnī, Lambrick's *Sind*, the Skandapurāṇa vol. IV, Kafle's Niśvāsamukha and Cecil 2020
+  (`data/user_obs/obs_*.tsv`, quotes checked with `scripts/check_quotes_obs.py`).
 
 ## Method
 
@@ -122,7 +131,7 @@ check.
    and a confidence.
 9. **Joined table** (`data/places.tsv`, `scripts/build_places.py`) and **map**
    (`map/xuanzang_places.html`, https://claude.ai/artifact/WUH4GFEULK5rZ8oaXw8PpH).
-   - **Map filters:** Mizutani's status, the visit status, religious affiliation, juan and level.
+   - **Map filters:** Mizutani's status, the visit status, religious affiliation, K. Harimoto's notes, juan and level.
    - **Place panel:** every source, the notes, and the Chinese text with its translation.
 
 ## Main proposed revisions to Mizutani
@@ -153,6 +162,17 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 | 10.15 | Coḷa | Nellore | Telugu Coḷa country, Cuddapah–Kurnool | Venkayya; Cuddapah 1915 |
 | 11.05 | Mālava | Malwa or Gujarat | central Gujarat, SE of the Mahī | Bhandarkar (CII 3), Sircar (EI 34) |
 
+**From K. Harimoto's notes and the sources they led to:**
+- **Kapiśa** (01.38.02–03a). Kuwayama 2000 confirms the Rāhula monastery as the Borj-e Kafir stūpa SE of Begram;
+  Mes Aynak is too far for 30 li. He reads 霫蔽多伐剌祠 as Śvetāśvatara, as the notes do, and places it at Tapa
+  Skandar (Umā-Maheśvara). Aruṇa is the Sūrya temple of Khair Khana. Both are alternatives, long for the text's li.
+- **Laṅgala's capital** (11.19). 窣菟黎濕伐羅 = Sthūleśvara by name (also Mirchandani 1969). The Skandapurāṇa
+  puts that liṅga at the Indus mouth, so the site is open.
+- **Atyanabakela's capital** (11.18). Banbhore (Debal) is added to Karachi and Koṭeśvara.
+- **Songyun's 濕婆仙** (02.04.15). A Śiva shrine inside the Daṇḍaloka monastery c. 520, which Beal missed.
+- **Religion coding.** Compared with the notes' letter codes: Vipula hill (09.02.11) is now tagged Jain.
+  Mayūrapura's 大天祠 also carries the "Mahādeva temple" reading.
+
 **Still open:**
 - **Siṃhapura's capital** (03.04.01a): Kotera, Stein's plain north of Ketas, or Malot.
 - **Bhramaragiri** (10.12.05): Arang's Bhaṅgara-pavata, or Nāgārjunakoṇḍa's Siripavata.
@@ -171,7 +191,9 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 - **Places tied to several ids.** A passage coded to several places shows its one identification under each in
   `places.tsv`. The notes are the reliable reading.
 - **Translations.** They are checked and corrected but not a published translation; quote them with that caveat.
-- **Affiliation.** It records what the passage says, plus Mizutani's identification of sect names. Legend-only
+- **Affiliation.** It records what the passage says, plus Mizutani's identification of sect names. The code
+  `Pasupata` stands for the text's 塗灰/塗炭 ("ash-smearing") 外道; the map shows it as "ash-smearers", since
+  Xuanzang never names the Pāśupatas. Legend-only
   mentions are in the notes, not coded as present practice.
 - **Coordinates** (`data/coords.tsv`) are for orientation only.
 - **Corrections and open questions** are in `data/FOLLOWUPS.md`.
@@ -184,7 +206,8 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
   `gaz_batch*`).
 - `data/notes/`: notes and proposed updates.
 - `data/text/`: passages, anchors, translations, translation reviews.
-- `data/religion/`: affiliation coding.
+- `data/religion/`: affiliation coding (`religion_zz_user.tsv`: corrections from the comparison with K. Harimoto's codes).
+- `data/user_obs/`: K. Harimoto's observations (`observations.tsv`), the letter codes of the 外道 note (`religion_codes.tsv`), and the source checks (`obs_*.tsv`).
 - `data/*_hits.tsv`: indexes.
 - `data/coords.tsv`: coordinates.
 - `route/`: route tests.

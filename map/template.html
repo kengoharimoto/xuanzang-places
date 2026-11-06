@@ -109,6 +109,7 @@ footer { margin-top: 18px; color: var(--muted); font-size: 12px; max-width: 90ch
   <span class="lab">Affiliation</span>
   <span id="affchips"></span>
   <button class="chip" id="aff-clear" aria-pressed="false" title="Show all affiliations">clear</button>
+  <button class="chip" id="kh-only" aria-pressed="false" title="Only places with K. Harimoto's observations">K. Harimoto's notes</button>
 </div>
 
 <div class="grid">
@@ -158,13 +159,14 @@ let k = 1;
 const unitPx = () => (svg.node().getBoundingClientRect().width || W) / W;   // screen px per map unit
 const zoom = d3.zoom().scaleExtent([0.6, 24]).on("zoom", e => { k = e.transform.k; g.attr("transform", e.transform); draw(); });
 svg.call(zoom);
+document.getElementById("kh-only").onclick = e => { state.kh = !state.kh; e.currentTarget.setAttribute("aria-pressed", state.kh); draw(); list(); };
 document.getElementById("zin").onclick = () => svg.transition().duration(250).call(zoom.scaleBy, 1.6);
 document.getElementById("zout").onclick = () => svg.transition().duration(250).call(zoom.scaleBy, 1/1.6);
 document.getElementById("zreset").onclick = () => svg.transition().duration(250).call(zoom.transform, d3.zoomIdentity);
 
-const AFF = [["mahayana","Mahāyāna"],["sarvastivada","Sarvāstivāda"],["sammatiya","Sammatīya"],["sthavira","Sthavira"],["mahasanghika","Mahāsāṃghika / Lokottaravāda"],["hinayana","Hīnayāna, other or unspecified"],["jain","Jain"],["saiva","Śaiva / Pāśupata"],["kapalika","Kāpālika"],["surya","Sūrya"],["deva","deva temples"]];
+const AFF = [["mahayana","Mahāyāna"],["sarvastivada","Sarvāstivāda"],["sammatiya","Sammatīya"],["sthavira","Sthavira"],["mahasanghika","Mahāsāṃghika / Lokottaravāda"],["hinayana","Hīnayāna, other or unspecified"],["jain","Jain"],["saiva","Śaiva (大自在天 etc.)"],["ash","ash-smearers (塗灰)"],["kapalika","Kāpālika"],["surya","Sūrya"],["deva","deva temples"]];
 const SMAP = {Mahayana:["mahayana"], "Mahayana-Sthavira":["mahayana","sthavira"], Sarvastivada:["sarvastivada"], Sammatiya:["sammatiya"], Sthavira:["sthavira"], Mahasanghika:["mahasanghika"], Lokottaravada:["mahasanghika"], Hinayana:["hinayana"], Dharmaguptaka:["hinayana"], Mahisasaka:["hinayana"], Kasyapiya:["hinayana"], both:["mahayana","hinayana"]};
-const OMAP = {"Jain-Digambara":"jain","Jain-Svetambara":"jain","Jain":"jain","Saiva":"saiva","Pasupata":"saiva","Devi":"saiva","Kapalika":"kapalika","Surya":"surya"};
+const OMAP = {"Jain-Digambara":"jain","Jain-Svetambara":"jain","Jain":"jain","Saiva":"saiva","Pasupata":"ash","Devi":"saiva","Kapalika":"kapalika","Surya":"surya"};
 const byId = Object.fromEntries(P.map(p => [p.id, p]));
 P.forEach(p => {
   const t = new Set(), r = p.rel || {};
@@ -180,8 +182,8 @@ P.forEach(p => {
 const affEl = document.getElementById("affchips");
 AFF.forEach(([k, lab]) => { const n = P.filter(p => p.tags.has(k)).length;
   affEl.insertAdjacentHTML("beforeend", `<button class="chip aff" data-aff="${k}" aria-pressed="false">${lab} <span class="sub">${n}</span></button>`); });
-const state = {status: new Set(["agreed","uncertain","disputed","unknown"]), visit: new Set(["visited","hearsay","unclear"]), aff: new Set(), change:false, juan:0, level:"", q:"", sel:null};
-const visible = p => state.status.has(p.status) && state.visit.has(p.visitEff) && (!state.aff.size || [...state.aff].some(a => p.tags.has(a))) && (!state.change || BIG.has(p.change) || p.change === "strengthened")
+const state = {status: new Set(["agreed","uncertain","disputed","unknown"]), visit: new Set(["visited","hearsay","unclear"]), aff: new Set(), kh:false, change:false, juan:0, level:"", q:"", sel:null};
+const visible = p => (!state.kh || (p.kh && p.kh.length)) && state.status.has(p.status) && state.visit.has(p.visitEff) && (!state.aff.size || [...state.aff].some(a => p.tags.has(a))) && (!state.change || BIG.has(p.change) || p.change === "strengthened")
   && (!state.juan || p.juan === state.juan) && (!state.level || p.level === state.level || (state.level === "country" && p.level === "region"))
   && (!state.q || [p.zh,p.ja,p.orig,p.mz,p.modern,p.proposed,p.id].join(" ").toLowerCase().includes(state.q));
 
@@ -240,13 +242,14 @@ function panel(p) {
     ${(p.rel && (p.rel.schools || p.rel.other || p.rel.sangharamas || p.rel.deva_temples || p.rel.site_affiliation)) ? `<dt>Religion</dt><dd>${[
         p.rel.sangharamas ? `monasteries ${esc(p.rel.sangharamas)}` : "", p.rel.monks ? `monks ${esc(p.rel.monks)}` : "",
         p.rel.schools ? `schools: ${esc(p.rel.schools.replace(/;/g, ", "))}` : "", p.rel.deva_temples ? `deva temples ${esc(p.rel.deva_temples)}` : "",
-        p.rel.other ? `others: ${esc(p.rel.other.replace(/;/g, ", "))}` : "", p.rel.site_affiliation ? `site: ${esc(p.rel.site_affiliation.replace(/;/g, ", "))}` : "",
+        p.rel.other ? `others: ${esc(p.rel.other.replace(/Pasupata/g, "ash-smearers (塗灰; often read as Pāśupata)").replace(/;/g, ", "))}` : "", p.rel.site_affiliation ? `site: ${esc(p.rel.site_affiliation.replace(/;/g, ", "))}` : "",
         p.rel.buddhism ? `Buddhism ${esc(p.rel.buddhism)}` : ""].filter(Boolean).join("; ")}</dd>` : ""}
     <dt>On the map</dt><dd>${p.lat != null ? `${esc(p.modern)} <span class="sub">(${esc(p.prec)}${p.cnote ? "; " + esc(p.cnote) : ""})</span>` : "not mapped"}</dd></dl>
     ${p.zht ? `<details class="text"><summary>Text and translation</summary>
       <p class="zhp">${esc(p.zht)}</p><p class="src">Taishō 51, no. 2087, ${esc(p.tref.replace("T51:", "p. "))} (CBETA)</p>
       ${p.en ? `<p class="enp">${esc(p.en).replace(/\*([^*]+)\*/g, "<i>$1</i>")}</p><p class="src">${p.tsrc && /corrected/.test(p.tsrc) ? "Machine translation (DharmaMitra), corrected against Mizutani and Beal." : p.tchk === "ok" ? "Machine translation (DharmaMitra), checked against Mizutani and Beal." : "Machine translation: DharmaMitra."}</p>` : `<p class="src">Translation pending.</p>`}
     </details>` : ""}
+    ${p.kh && p.kh.length ? `<div class="note kh"><b>K. Harimoto's notes</b>${p.kh.map(o => `<p>${esc(o.obs)} <span class="sub">(${esc(o.src)})</span>${o.as ? `<br><span class="sub">Assessment: ${esc(o.as)}</span>` : ""}</p>`).join("")}</div>` : ""}
     ${p.note ? `<div class="note"><b>${esc(p.note.head)}</b>${p.note.body}</div>` : ""}`;
 }
 

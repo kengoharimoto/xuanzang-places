@@ -20,6 +20,9 @@ def md(s):
     paras = [p.strip() for p in re.split(r"\n\s*\n", s) if p.strip()]
     return "".join(f"<p>{p}</p>" for p in paras)
 
+OBS = {}   # K. Harimoto's own notes (data/user_obs/observations.tsv)
+for o in rd("data/user_obs/observations.tsv"):
+    OBS.setdefault(o["id"], []).append({"kind": o["kind"], "obs": o["observation"], "src": o["source_note"], "as": o["assessment"]})
 notes = {}
 for f in sorted(glob.glob("data/notes/notes_*.md")):
     t = open(f, encoding="utf-8").read()
@@ -49,6 +52,7 @@ for r in rd("data/places.tsv"):
         "lat": lat, "lon": lon, "prec": c.get("precision", ""), "modern": c.get("modern_name", ""), "cnote": c.get("note", ""),
         "change": u.get("change", ""), "proposed": u.get("proposed", ""), "basis": u.get("basis", ""), "conf": u.get("confidence", ""),
         "note": notes.get(r["id"]),
+        "kh": OBS.get(r["id"], []),
     })
 t = open("map/template.html", encoding="utf-8").read()
 t = t.replace("/*PLACES*/[]", json.dumps(out, ensure_ascii=False, separators=(",", ":")))
