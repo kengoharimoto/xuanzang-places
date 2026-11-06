@@ -44,6 +44,12 @@ figures are one kind of evidence; see the assessment.
 **Route test (the Life).** On the Life's figures, the best-fitting combination for juan 4 takes Asarur (Tse-kia)
 (Cunningham 1871; Cunningham ASR II) here, not Mizutani's Punjab plain between Beas and Chenab (route/README.md §7).
 
+**Ji Xianlin et al. (1985).** Ji takes the country as the whole Punjab plain from the Beas to the Indus and from the
+Himalayan foothills to below the Panjnad near Multan, reading the text's 信度河 as the Indus rather than Mizutani's
+Chenāb (p. 353). For the capital he gives Cunningham's Asarur, 2 miles S of the Lahore–Pindi Bhattian road, whose
+large bricks and Kushan coins show an old town (pp. 353–354). He does not say how Asarur stands to Śākala, which he
+leaves open (04.01.02), so his Asarur keeps the dependence on Sanglawala Tibba noted below.
+
 **Assessment.** The survey shows that a large early town lay at Asarur and that Takka was a real district name, but
 its placing of the capital still depends on Cunningham's Sangala (Sanglawala Tibba) and on an emended distance. If
 Śākala is Sialkot, as Mizutani holds, Asarur loses its anchor and Majumdar's site near Sialkot follows. Mizutani's
@@ -69,6 +75,10 @@ the identification.
 
 **Inscriptions.** Two editors take Sialkot for Śākala in passing: Vogel (EI 16, p. 15: "Sial … probably derived
 from Sagala") and Bhandarkar (CII 3, p. 24). Neither publishes an inscription that names the place.
+
+**Ji Xianlin et al. (1985).** Ji leaves the site open between Cunningham's Sānglawala Tiba (31°43′N 73°27′E) W of the
+Ravi and Sialkot, for which he cites Fleet's note in the Proceedings of the Fourteenth Oriental Congress (p. 355); in
+his note on Mihirakula he gives Sialkot as "one view" (p. 360). Fleet's argument is not reproduced.
 
 **Assessment.** The survey measured the hill but found nothing that names it; the case is still name and
 itinerary, and the ruins (1.5 miles round) are small for a great city. Neither survey nor gazetteers weaken
@@ -98,6 +108,12 @@ is a village called Patti, to this day". It does not know the survey's revision.
 **Route test (the Life).** On the Life's figures, the best-fitting combination for juan 4 takes Patti (Cunningham
 1871; Beal 1884; Lahore 1883) here, not Mizutani's Chiniyari, between Amritsar and Sialkot (route/README.md §7).
 
+**Ji Xianlin et al. (1985).** Ji leaves the site open (p. 366). He rejects Cunningham's Patti as contrary to the Life
+(50 li SE to Tāmasavana, then 140–150 li NE to Jālaṃdhara) and finds no strong evidence for Shastri's Chiniyari or
+Smith's site near Ferozpore. The objection to Patti does not hold if Tāmasavana is Sultanpur, as Ji himself accepts
+(04.02.03): Patti lies c. 33 km W of Sultanpur, Chine c. 73 km NW, so Patti is the nearer of the two to the 50 li. He
+does not know Cunningham's withdrawal of Patti or the mound at Chine.
+
 **Assessment.** The only argument for Patti was the name, and its author withdrew it after seeing a large ancient
 mound at Chine that keeps the name and lies on the right road. Mizutani's Chiniyari is strengthened, though nothing
 found there is specifically Buddhist.
@@ -111,6 +127,8 @@ included the hills as far as Kangra.
 eleven hill principalities did not yet exist separately. Hoshiarpur 1884 and 1905 and Jalandhar 1884 and 1908
 convert the text's dimensions to miles. Jalandhar 1884 adds that the old city was a little over 2 miles round and
 that only two tanks (Gufa, Brahmkund) remain.
+
+**Ji Xianlin et al. (1985).** Ji agrees: Jullundur, SE of Amritsar (p. 371).
 
 **Assessment.** The site is not in question. The gazetteers support Mizutani and Cunningham and add the
 Kangra-hills extent.
@@ -133,6 +151,10 @@ the equation as settled: "Kuḷḷū is undoubtedly one of the most ancient prin
 Makarsa (Cunningham 1871) here, not Mizutani's Kulu; old capital Nagar (route/README.md §6). The figures are one kind
 of evidence; see the assessment.
 
+**Ji Xianlin et al. (1985).** Ji agrees: Kulu on the upper Beas, after Cunningham, with the old capital still called
+Nagar and the present one at Sultānpur (p. 373). His name for the old capital, Nagarkot, is the usual name of Kangra
+and should not be read as that town.
+
 **Assessment.** The country is certain: the surviving name Kulanta and the Chamba plates' Kulūta secure the name
 equation. Jagatsukh is
 a candidate for the capital that none of the authorities records. It rests on dynastic tradition only, against
@@ -147,6 +169,9 @@ Watters (p. 299), Majumdar (p. 684) and Vivien (p. 334): Lahul (Lho-yul).
 "Lo-hou-lo, the modern Lahul" in passing while discussing the Amazonian kingdom. The three "argues" in
 `places.tsv` come from that passage, which argues about the Amazonian kingdom, not about Lahul.
 
+**Ji Xianlin et al. (1985).** Ji agrees: Lāhul, the Tibetans' Lho-yul ("southern land"), noting Jäschke's objection
+and that the country was known by report (p. 374).
+
 **Assessment.** The gazetteers repeat Cunningham and add nothing on the linguistic objection Mizutani reports
 (Jäschke: Lāhul is the Indian, not the Tibetan, name).
 
@@ -157,6 +182,10 @@ Watters (p. 299) and Majumdar (p. 684, after Francke): Ladakh. Vivien (p. 334): 
 
 **Gazetteers.** Atkinson (1884) puts Mo-lo-so or Malasa, also called San-po-ho, "some 2,000 li … to the north of
 Lo-hou-lo", while looking for the Amazonian kingdom. This is consistent with Ladakh but names no site.
+
+**Ji Xianlin et al. (1985).** Ji agrees: Ladakh. He reports Cunningham's Mar-po ("red land", emending 娑 to 婆) and
+Shastri's Mar-sa = Mar-yul ("lowland"), and leaves the gloss 三波訶 unexplained (p. 374). He does not mention Vivien's
+Chamba.
 
 **Assessment.** No gazetteer evidence bears on the Ladakh equation. Vivien's Chamba remains the only real
 alternative among the authorities.
@@ -176,6 +205,9 @@ Kharoṣṭhī-inscribed bowl. The excavators claim that "this discovery corrobo
 Hiuen-Tsang … at She-tu-to-lu (now Sanghol)". Their "10 stupas and monasteries" misreads the text, which has ten
 saṅghārāmas, and no inscription names the place; the Hūṇa coins carry occupation into the 6th century, but nothing
 of Xuanzang's own time is reported.
+
+**Ji Xianlin et al. (1985).** Ji agrees that the country is named after the Sutlej and reports Cunningham's Sarhind
+for the capital, but says no satisfactory identification exists (pp. 375–376). He has nothing on Sanghol.
 
 **Assessment.** Sarhind rests on Cunningham's emended distance alone and has no Buddhist remains. Sanghol lies in
 the same tract and has a large excavated Buddhist establishment, so it is the better candidate for a capital with
@@ -203,6 +235,10 @@ objects of a later date than the 2nd century A.D." He concludes: "My own excavat
 corroborate this identification. The discovery of only one monastery in place of the eight … seems to militate
 strongly against" it. He allows that the town mound, two miles off, may hold Buddhist strata, but doubts that
 Xuanzang would have failed to say the monasteries were inside the town.
+
+**Ji Xianlin et al. (1985).** Ji agrees: Bairāt, 105 miles SW of Delhi and 41 miles N of Jaipur, after Reinaud,
+Cunningham and Watters; he lists the Aśokan edicts and Mauryan finds there without citing a report (p. 377). He does
+not mention Sahni's verdict against the identification.
 
 **Assessment.** The excavation removes the survey's monastic evidence: Cunningham's two monasteries are one,
 deserted some five centuries before Xuanzang. Bairāt stays the only proposed site, on name, Matsya tradition and
@@ -234,6 +270,9 @@ Katra "represents a large part of the ancient urban settlement", inside
 "built as a mud-fortification around the ancient city of Mathura": crescentic, with the Jumna on the east,
 enclosing over 3 sq km, tentatively Śaka–Kushan.
 
+**Ji Xianlin et al. (1985).** Ji agrees: Muttra on the W bank of the Jumna, the old city lying further S and the newer
+town built to the N as the river encroached (p. 379).
+
 **Assessment.** The identification is secure. On the layout the excavations go against Vogel's verdict: the Katra
 lies inside the walled ancient city, as Cunningham held, though Vogel's point that it carried a monastery (the
 Yaśa-vihāra) stands. Whether his elevation SW of the town falls within the Dhulkot the reports do not say.
@@ -257,6 +296,9 @@ all the proposals, in Vogel's words (below), and notes that Kankali Tila is a Ja
 **Excavations.** Vogel (AR 1906–07, p. 140): the identifications, "based on a wrong location of the city, are
 inadmissible, and both the Upagupta monastery and the monkey tank are still to be discovered". He adds that Cunningham "had to alter the wording of the Chinese
 pilgrim's account", reading "west" for "east" and "built of stone" for "cut in the rock".
+
+**Ji Xianlin et al. (1985).** Ji gives no site; he notes that some take the text's 山伽藍 for Upagupta's Naṭabhaṭa
+monastery (p. 381).
 
 **Assessment.** Each proposal follows from a view of where the city lay, and the survey's own shift shows how
 loose they are. The Katra is named epigraphically for another monastery and Kankali is Jain. Vogel's ground for
@@ -287,6 +329,10 @@ distinguished by a massive brick building" (a wall of 99+ courses), a renovated 
 inscription fragment in 7th-century characters and a head "vaguely recalling the figure … on the coins of
 Harsha". No Buddhist monument of the period was found.
 
+**Ji Xianlin et al. (1985).** Ji accepts Cunningham's Thānesar only provisionally, because its direction and distance
+from Mathurā do not fit the text; he reports V. Smith in agreement, Watters against, and Majumdar Sastri's Thūṇa of
+the Mahāvagga (pp. 388–389). His doubt is Watters', and he does not know Sahni's or Pande's excavations.
+
 **Assessment.** The measured circuit, twice confirmed, and a fortified town with a palatial building of Harṣa's
 dynasty answer Watters' objection, which rests on distances alone. Nothing names the place on the site, but the
 dynasty's seat is attested by its own grant. The Asoka stupa is still undug. Mizutani's identification is
@@ -313,6 +359,9 @@ excavated (Theh Polar) and yielded 3rd–4th-century AD finds, which it says mak
 Dṛṣadvatī, with some 360 tīrthas, and lists Amin, Theh Polar, Pehoa and the Thanesar mounds, of which "none …
 have yet been explored". He does not discuss Asthipur or the 200 li, and seems unaware of Cunningham's digging.
 
+**Ji Xianlin et al. (1985).** Ji agrees: Kurukṣetra, S of Thānesar between the Sarasvatī and the Dṛṣadvatī, with a
+place called Asthipur still in Thānesar's W suburb (pp. 390–391).
+
 **Assessment.** The region is not in doubt. On the extent, both Cunningham's later reading and Ibbetson's abandon
 the plain circumference. At Asthipur the survey's own excavation found a large building, not a battlefield, and the
 later finds weaken it as the ancient spot.
@@ -328,6 +377,8 @@ position". No remains are described.
 **Gazetteers.** Karnal 1884 (two scans) follows Cunningham's Gunana and suggests "it is not improbable that the
 Gominda monastery" survives as the Sita Mai monastery, 4 miles from Gunana. Meerut division 1875 mentions the
 monastery only in passing in its Srughna passage (see the data remarks).
+
+**Ji Xianlin et al. (1985).** Ji leaves the name (Gominda, Gokaṇṭha, Govinda) and the site undecided (p. 392).
 
 **Assessment.** Gunana or Sita Mai is a tentative candidate, resting on Cunningham's reading of the route and a
 surviving monastic site. It is better than nothing but far from secure.
@@ -353,10 +404,19 @@ AD 500) gave "inscribed clay sealings, one bearing the legend Vyagharaja and the
 century A.D. characters". Haryana's digs of 1995–99 (Malik and Acharya, IAR 1995–96, p. 25; 1998–99, pp. 23–24)
 take Srughna as given but found nothing of Xuanzang's pillar or monastery.
 
-**Assessment.** The "Sugha" sealing names the place on the site, in the Kushan–Gupta period rather than in
-Xuanzang's time, and with the measured circuit and the coins it settles Sugh. Mizutani's coordinates and "Dehra Dun
-district" are Kalsi's, some 40 miles away, and reflect Cunningham's first, abandoned view; they should be
-corrected to Sugh, Ambala district. Beal's Kalsi is not supported.
+**Ji Xianlin et al. (1985).** Ji reports Cunningham's Sugh, placing it near Kalsi with the coordinates 30°32′N
+77°53′E, as Mizutani does, and doubts it: apart from the name, neither the distance nor the size fits, since Sugh is
+only 40 miles from Thānesar and the tract is far too small for a country of 6,000 li round, even on the wider bounds
+some propose (p. 393). The coordinates are Kalsi's, so Ji repeats the confusion noted above. His distance point is
+weaker than it looks: the text's 400 li NE run from the Gokaṇṭha monastery, itself 100 li S of the city, so the net
+distance from Thānesar is c. 300 li, against c. 55 km to Sugh near Jagadhri.
+
+**Assessment.** The "Sugha" sealing names the place on the site, in the Kushan–Gupta period rather than in Xuanzang's
+time, and with the measured circuit and the coins it settles Sugh. Ji's doubt rests on the distance and the country's
+size; measured from the Gokaṇṭha monastery, as the text has it, the distance is short but not badly so, and a
+country's circuit cannot outweigh a sealing that names the site. Mizutani's coordinates and "Dehra Dun district" are
+Kalsi's, some 40 miles away, and reflect Cunningham's first, abandoned view; they should be corrected to Sugh, Ambala
+district. Beal's Kalsi is not supported.
 
 ### 04.09.03 殑伽河源 (the Ganges "source") — where the Ganges leaves the hills near Hardwar; no gazetteer evidence
 
@@ -385,6 +445,9 @@ Srughna. Nothing was excavated.
 identifications are necessarily conjectural". It notes a Buddhist stupa excavated at Mordhaj fort (Najibabad)
 elsewhere in the district.
 
+**Ji Xianlin et al. (1985).** Ji agrees with Watters and V. Smith that Matipura should be sought across the Ganges
+from Srughna rather than at Madawar (St. Martin, Cunningham) (p. 397).
+
 **Assessment.** Survey and gazetteers agree on the Bijnor tract east of the Ganges, which is Mizutani's region.
 Mandawar as capital rests on surface mounds and an emended distance. Mizutani's region is mildly strengthened, and
 the capital stays open.
@@ -407,6 +470,10 @@ the Ganga.
 **Inscriptions.** R. C. Majumdar (EI 18), editing a Jodhpur inscription of V.S. 894 that names Gaṅgādvāra and a
 king Mayūra defeated by Bauka, suggests that this Mayūra "may refer to the king of the locality" of Xuanzang's
 Mo-yu-lo. A conjecture only; it confirms Gaṅgādvāra = Hardwar.
+
+**Ji Xianlin et al. (1985).** Ji agrees with Cunningham: the ruins of Māyāpura at the head of the Ganges canal near
+Hardwar (Gaṅgādvāra), the river having shifted, against Watters' objection about the bank; he notes that Xuanzang knew
+the town by report (p. 406).
 
 **Assessment.** The remains at Mayapur strengthen Hardwar as the city. Watters' objection about the bank is
 answered only by Cunningham's guess that the river has shifted, which neither survey nor gazetteer tests.
@@ -438,6 +505,13 @@ Barahat (Uttarkashi) (Atkinson (Himalayan districts II 1884)) here, not Mizutani
 **Route test (the Life).** On the Life's figures, the best-fitting combination for juan 4 takes Barahat (Uttarkashi)
 (Atkinson (Himalayan districts II 1884)) here, not Mizutani's Srinagar (Garhwal) (route/README.md §7).
 
+**Ji Xianlin et al. (1985).** Ji agrees with Mizutani: Garhwal and Kumaon, with the capital at Srinagar (Garhwal), 70
+km NE of Hardwar (pp. 407–408). Against Cunningham's emendation of 北 to 東北 he follows Watters: the 從此 of the text
+means Matipura, not Mayūra, since the Life does not mention Mayūra and Xuanzang did not start from it. The next stage,
+however, is introduced explicitly as 從末底補羅 (to Govisana), which suggests that the text names Matipura when it returns
+to it; the reading of 此 is not secure. Ji does not answer the objection that Srinagar is late, and does not know the
+Talesvara plates.
+
 **Assessment.** A king ruling from a city called Brahmapura in Kumaon, near Xuanzang's time, is now documented
 on plates found there. That does not fix the spot, but it puts the capital in the Ramganga country Cunningham
 chose, not at Srinagar, which is late and which Cunningham rejects, nor at Barahat, which keeps the text's bearing
@@ -462,6 +536,12 @@ the Eastern Women's burial of ministers with the sovereign. From the borders in 
 Sanpoho = Ladakh, Brahmapura, Tibet) he concludes that "the Empire apparently comprised the Tibetan provinces of
 Guge and Ruthog, and possibly Eastern Ladakh". He dates the graves to AD 1–500 and admits that the skulls are not
 Tibetan.
+
+**Ji Xianlin et al. (1985).** Ji places the Eastern Women's Kingdom in NW Tibet, N of the Himalaya, S of Khotan and E
+of Ladakh, a small matrilineal country known to Xuanzang by report, and judges the New Tang's placing too far east; he
+cites Huichao's 蘇跋那具怛羅, a Kashmiri record of a Strīrājya to the north, Pelliot (Notes on Marco Polo II, pp. 696–718)
+and Yamaguchi Zuihō (Tōyō gakuhō 54.4, 1971) (p. 409). This agrees with Francke's Guge and Rudok and adds Japanese and
+French scholarship against Watters' "mythical".
 
 **Assessment.** Atkinson anticipates Mizutani's position that the kingdom was real, from the same Chinese annals.
 Francke independently narrows the location to Guge and Rudok, which lie within Atkinson's Nari-khorsum and fit
@@ -492,6 +572,9 @@ pp. 41–44): the plinth of a brick temple 29.5 m long and 6 m high with chaitya
 … between sixth to eighth centuries", later a pañcāyatana complex; pottery like Ahichchhatra III (AD 350–750);
 and a fill running from PGW to early medieval. The excavators accept the identification without arguing it, and found no inscription.
 
+**Ji Xianlin et al. (1985).** Ji agrees: the old fort near Ujain, 1 mile E of Kashipur, after Cunningham, with the
+country taking in Kashipur, Rampur and Pilibhit (pp. 410–411). He prints Kashipur's latitude and longitude transposed.
+
 **Assessment.** Kashipur keeps the stronger measured fit, and the excavation now shows a town occupied from PGW
 times through Xuanzang's century, with a large temple of about his date (he notes deva temples here). Its Buddhist
 monuments are still unfound, and Dhikuli, with Buddhist sculpture and a local tradition, is unexcavated. Mizutani
@@ -520,6 +603,9 @@ Führer (EI 2, pp. 240–44) equates Adhichhatra with Ramnagar. They attest the 
 **Later excavations.** N. R. Banerjee's team (IAR 1964–65, p. 39) found Ochre-coloured Ware below the PGW and
 revised the sequence to OCW, PGW, NBP and Kushan–Gupta, on a second, higher mound too. Nothing bears on Xuanzang's
 period or his monasteries.
+
+**Ji Xianlin et al. (1985).** Ji agrees: Ahicchattra in E Rohilkhand, with the capital at Rāmnagar near Aonla,
+Bareilly district, after Cunningham and Hodgson's report of the ruins (p. 413).
 
 **Assessment.** Name, measured circuit and excavation agree, and nothing counts against them. Mizutani is
 strengthened.
@@ -559,6 +645,10 @@ kind of evidence; see the assessment.
 the scan, reads 南行…渡殑伽河，西南至, and so does the Life. Bilsar lies due south of Ahicchatra, so the Song and Life reading
 fits; the route model uses it (route/README.md §9). The passage shown follows CBETA's 東.
 
+**Ji Xianlin et al. (1985).** Ji leaves the site open: Cunningham first proposed Atranjikhera and later Bilsar
+(Bilasand), Etah district, and Ji finds the evidence insufficient (p. 415). He does not cite the Kumāragupta pillars
+or Sahni's sealing with the Buddhist creed, which decide the question here.
+
 **Assessment.** The survey abandoned Atranji-Khera on its own evidence. Bilsar has name, size, distance, Gupta
 temple sites for the five deva temples, and now an excavated Buddhist sealing, though no inscription names the
 town and the stupa and monasteries are unlocated. Mizutani's Bilsar is secure.
@@ -584,6 +674,9 @@ is Saṅkāśya = Sankisa. This attests Xuanzang's name for the place in his own
 over a periphery of c. 6 km within an earthen rampart, a PGW-to-Gupta sequence, and W of the elephant-capital
 site a room in three phases "part of a monastery which seems to have existed from Maurya to Gupta period". No
 inscription naming Saṅkāśya was found.
+
+**Ji Xianlin et al. (1985).** Ji agrees: Sankisa village, Farrukhabad district, after Cunningham; he reports V.
+Smith's site near Patiali in NE Etah as given without argument (p. 417).
 
 **Assessment.** Name, measured circuit and the living Nāga cult were already independent of the disputed pillar.
 Seals of the three staircases from a monastery next door show that the descent was venerated here, and the
@@ -648,6 +741,8 @@ Kanyakubja": a 40-ft deposit from PGW to late medieval, PGW under NBP.
 **Text (Sixi edition).** The Song (Sixi) print and the Life read 西北行減二百里 from Kapitha; the Korean edition (Taishō)
 reads 東南. Kanauj lies east-south-east of Sankisa, so the Korean reading is the right one here (route/README.md §9).
 
+**Ji Xianlin et al. (1985).** Ji agrees: Kanauj, at the confluence of the Ganges and the Kālī (p. 424).
+
 **Assessment.** The old Ganges channel below the city supports Mizutani's reading of the river, and the city
 mound has a continuous sequence through Xuanzang's time. The city is secure; its monuments are not identified.
 
@@ -667,6 +762,10 @@ and the 100-ft stupa to the old fort of Bangarmau and the 200-ft stupa to the si
 **Gazetteers.** Unao 1903 ("It is agreed by most writers that the old site called Nawal … is the Navadevakula")
 echoes ASR XI. Oudh A–G 1877, checking bearings on the map, says it "will probably be Bangarmau". Shahjahanpur,
 Moradabad 1883 repeats the superseded Naubatganj.
+
+**Ji Xianlin et al. (1985).** Ji agrees with the note: Newal, N of Bangarmau, 35 km SE of Kanauj, and the same place
+as Faxian's village of 呵梨; he rejects Adachi's reading of the name as Jīvaka-deva-kula, a Hārītī village, and reports
+St. Martin's Nobhatgang (p. 447).
 
 **Assessment.** Name, distance, the old river bed and Buddhist sculpture point to Newal–Bangarmau, and the only
 rival was given up by its own author. This should replace Mizutani's undecided entry.
@@ -699,6 +798,10 @@ Kutia-Gunir NW of Fatehpur (Cunningham ASR XI) here, not Mizutani's Aphui, 29 mi
 **Route test (the Life).** On the Life's figures, the best-fitting combination for juan 5 takes Kutia-Gunir NW of
 Fatehpur (Cunningham ASR XI) here, not Mizutani's Aphui, 29 miles SE of Fatehpur (route/README.md §7).
 
+**Ji Xianlin et al. (1985).** Ji leaves the site open: he reports St. Martin's and Watters' Oudh, Cunningham's Kakupur
+(reading 60 li for 600) and Führer's Aphui, 29 miles SE of Fatehpur, followed by Smith and Hori, and asks for further
+research (pp. 449–450).
+
 **Assessment.** The text's crossing of the Ganges to the south, and Ajodhya's lack of Buddhist remains, count
 against Oudh; Cunningham's field reasoning converges on the Fatehpur stretch where Mizutani puts Aphui. But none
 of the sites examined there has Buddhist remains, so the city is unlocated, and the Ajudhe coin keeps Ajodhya in
@@ -727,6 +830,9 @@ Ayomukha"; Mirashi (EI 27) dates the event c. 700 and glosses it "modern Partabg
 The country's name is thus attested within a lifetime of Xuanzang, as Ayomukha (Cunningham's form); the location
 is the editor's, not the plates'.
 
+**Ji Xianlin et al. (1985).** Ji agrees: roughly the Rae Bareli–Pratapgarh area NW of Allahabad, the exact site
+unknown; Cunningham's Daundia-khera is "mere conjecture" (pp. 457–458). He does not mention Tusaran Bihar.
+
 **Assessment.** Daundia Khera is eliminated by its own proposer. Survey and gazetteers put the kingdom on the
 Ganges in Partabgarh, inside Mizutani's area, and Bihar has a Buddhist name and railing-type bricks. The Kahla
 plates confirm that Ayomukha was a real country within raiding reach of Kālañjara about 700. Mizutani's region is
@@ -742,6 +848,8 @@ Akshay Bat, inside the fort.
 **Gazetteers.** Muttra, Allahabad, Fatehpur 1884 identifies the "celebrated temple" with Patalpuri because of the
 tree in its court. Allahabad 1911 argues: "if the latter was the Patalpuri temple … the confluence of the rivers
 was some distance further east than at present".
+
+**Ji Xianlin et al. (1985).** Ji agrees: Allahabad, at the confluence of the Ganges and the Yamunā (pp. 459–460).
 
 **Assessment.** The site is secure. The gazetteers add the shifting-confluence argument, which matters for
 05.04.03–04.
@@ -794,6 +902,11 @@ evidence; see the assessment.
 **Route test (the Life).** On the Life's figures, the best-fitting combination for juan 5 takes Rewah (Vost (via
 Majumdar 1924)) here, not Mizutani's Kosam (Kausambi) (route/README.md §7).
 
+**Ji Xianlin et al. (1985).** Ji agrees: Kosam, on the N bank of the Yamunā, confirmed by G. R. Sharma's Excavations
+at Kauśāmbī 1957–59 (a rampart going back to the 7th century BC, the Aśokan pillar), with two seals of Toramāṇa from
+the Ghoṣitārāma, whose destruction he puts in the early 6th century (pp. 467–468, citing U. Thakur, The Hūṇas in
+India, 1967). He reports and rejects V. Smith's site near Satna and Watters' near Śrāvastī.
+
 **Assessment.** Inscriptions on the site and in its district name Kauśāmbī from the 11th to the 16th century, the
 ramparts fit the 30 li, and the excavated city is of the right size and age. Kosam is settled. Sharma's palace is a
 candidate for Xuanzang's "old palace" with Udayana's image, though nothing later than the 1st–2nd century AD is
@@ -819,6 +932,8 @@ destruction by the Hūṇas under Toramāṇa. The Main Stupa, begun c. 5th cent
 the 3rd century BC, and the excavator recalls "that Hiuen Tsang credits Asoka with the construction of a stupa at
 Ghoshitarama" (IAR 1955–56, p. 19). The coded reports do not quote the record that gave the name.
 
+**Ji Xianlin et al. (1985).** Ji agrees: the site found N of the E gate of Kosam, after Mizutani (p. 470).
+
 **Assessment.** An extensive monastery at Kosam with an Aśokan-stage great stupa, flourishing from the Kushans to
 the Guptas and wrecked c. 500, fits Xuanzang's old monastery with Aśoka's 200-ft stupa, seen among Kauśāmbī's
 dilapidated monasteries, though its place by the east gate matches the text's "not far to the southeast" only
@@ -843,6 +958,9 @@ really 54–55. Partabgarh 1904 proposes Bihar in tahsil Kunda, "the same word a
 Allahabad 1911 and 1968 report Jhusi (Kesi). Lucknow 1904 reports Mohanlalganj. Oudh 1877 suggests Kikori, Bari or
 Misrikh.
 
+**Ji Xianlin et al. (1985).** Ji agrees with Cunningham's Sultānpur on the Gomatī (old Kuśabhavanapura) only roughly:
+Xuanzang did not go there, and the exact site needs research (p. 474).
+
 **Assessment.** Partabgarh's Bihar is evidently the town Cunningham described in ASR XI as Tusaran Bihar and
 proposed for Hayamukha (05.03), so the same remains are claimed for two places. It lies c. 30 miles NW of
 Allahabad, far short of 700 li from Kauśāmbī. Sultanpur keeps the distance but has no remains and a weak name.
@@ -866,6 +984,9 @@ to this day Sugriva, and Kabir tila", so his mounds have no Buddhist tradition, 
 "wrongly … identified with Ajodhya". It offers Satrikh or Hargam but concludes that "it is really impossible to
 identify … Visakha". Fyzabad 1905: "the whole question is still uncertain". Faizabad 1960: Pi-sho-ka = Sha-chi = the
 Buddhist Sāketa, "but [it] was not identical with our Ayodhya". Unao 1903 reports Sujankot; Lucknow 1904 Mahona.
+
+**Ji Xianlin et al. (1985).** Ji reports Cunningham's Sāketa in Oudh, Watters' objection, St. Martin's Biseipur and V.
+Smith's Nimkhar on the Gomatī, 20 miles S of Sitapur, and accepts none (p. 476).
 
 **Assessment.** The survey gives Ajodhya its best case (coins and legend), but the distance rests on Sultanpur
 (05.05.06), and the mounds are disputed and unexcavated. If Ayodhyā (05.02) lay on the Ganges, Ajodhya is free for

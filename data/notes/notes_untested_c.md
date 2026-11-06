@@ -14,6 +14,7 @@ the city and the confluence, since carried away by the rivers. Beal (p. 233) giv
 **Evidence.** Cunningham (ASR I, pp. 295–98) notes the sandy plain has been eroded. The Allahabad gazetteer (Muttra,
 Allahabad, Fatehpur 1884) repeats that the city lay W of a large sandy plain at the confluence; Allahabad 1911 argues
 that the confluence has moved (05.04). The Life (T50:0234b) gives the same place, 14–15 li round.
+**Ji Xianlin et al. (1985).** Ji agrees: the Gaṅgā–Yamunā confluence (p. 465).
 **Assessment.** The general position at the confluence is not in doubt; the ground itself has gone, so nothing more
 exact can be tested. Probable, at the level of the area.
 
@@ -74,13 +75,22 @@ the way" and did not form the city's boundary.
 **Evidence.** Ghosh's summary of the Rajghat excavation (IAR 1957–58) dates the ancient city on the river from NBP to
 medieval times. Cunningham (ASR I, p. 115) and the sealings that identify Sarnath (Dikshit, AR 1927–28) fix the Deer
 Park beside it. The Life (T50:0235b) has the same 500 li and the city on the Ganges.
+**Ji Xianlin et al. (1985).** Ji agrees on Benares (p. 559) but raises a bank problem: the city is on the Ganges' left
+bank, while Xuanzang's 都城西臨殑伽河 should put it on the right, so either the river moved or the old city lay across it.
+The difficulty is not real: Xuanzang uses the same words for Kanyākubja (國大都城西臨殑伽河), a city on the W bank with the
+river on its E, so the phrase means "on the west, by the Ganges", and Rajghat, the excavated ancient city, is on the W
+bank.
 **Assessment.** Secure.
 
 ### 07.01.02 婆羅痆河西無憂王窣堵波・石柱 (Aśoka stūpa and pillar W of the Varaṇā) — Lat Bhairon; nothing in these sources beyond Mizutani
 
 **Identifications.** Mizutani: the broken Aśoka pillar at Lat Bhairon, NE of Benares city, confirmed by V. A. Smith and
-destroyed in the riot of 1908; 婆羅痆河 = the Barnā. Watters (p. 48) gives no site.
+destroyed in the riot of 1908 (as summarised; the Lat Bhairon riot was in 1809); 婆羅痆河 = the Barnā. Watters (p. 48) gives no site.
 **Evidence.** None coded in the survey, reports or gazetteers.
+**Ji Xianlin et al. (1985).** Ji takes the river as the Varaṇā (Barnā) and the pillar as Aśoka's, of which fragments
+were found and are now kept inside a mosque (Mookerji, *Asoka*, p. 85; Ji p. 561); he names no site. Mookerji's
+fragments are those of the Lat Bhairon pillar, so Ji's "surviving fragments" qualifies the note's "destroyed" without
+moving the place.
 **Assessment.** Probable on Mizutani's authority and the position NE of the city by the Barnā; untested here.
 
 ### 07.03.03 吠舍釐王所建舍利窣堵波 (the Licchavis' relic stūpa) — Altekar's mud stūpa NW of Basarh, with a casket a quarter full
@@ -91,6 +101,11 @@ a mud stūpa of NBP date, 25 ft across, enlarged four times (first in Mauryan ti
 with a soapstone casket "only a quarter full" in a breach of the core. Ghosh's summary (same year) calls it possibly
 one of the eight relic stūpas. That fits the *Record of India*: Aśoka opened the stūpa and took nine-tenths of the
 relics. No inscription.
+**Ji Xianlin et al. (1985).** Ji gives no site; he cites only the Vinaya (根本說一切有部毘奈耶雜事 39) for the Licchavis' seventh
+share of the relics (p. 590). He attaches Altekar's stūpa and its "re-buried" casket to the Aśoka stūpa instead
+(07.03.04, p. 591), which the text does not allow: Xuanzang's Aśoka stūpa stands beside the lion pillar NW of this
+one, whereas Altekar's stūpa lies by Basarh, SE of the Kolhua pillar, and it is this stūpa whose relics Aśoka is said
+to have taken nine-tenths of.
 **Assessment.** An excavated pre-Mauryan stūpa, opened in antiquity and found where Xuanzang puts it, matches the account
 closely. Secure, without an inscription.
 
@@ -102,6 +117,9 @@ tank E of Bakhra.
 62–64; XVI, pp. 13–15). Bloch found the pillar, the stūpa N of it and the Rām-kund tank S of it "tally exactly" with the
 account (AR 1903–04, pp. 81–86; EC 1903–04, pp. 14–15); Muzaffarpur 1907 repeats. Clearance exposed a brick stūpa 24.5 m
 across in front of the pillar (IAR 1973–74, pp. 67–68), and Sita Ram Roy two mud stūpas by it (1959–60, pp. 14–16).
+**Ji Xianlin et al. (1985).** Ji agrees on the pillar: the lion-capital pillar near Bakhra, lower half buried
+(p. 591). He takes the stūpa beside it as Altekar's, with Aśoka's re-buried casket (after 世界考古學大系 8, p. 97, figs
+157–58); that confuses Altekar's stūpa by Basarh (07.03.03) with the brick stūpa at the pillar.
 **Assessment.** A standing pillar with a lion, of the height given, and an excavated stūpa beside it. Secure.
 
 ### 07.03.x1 獼猴池 (the monkeys' tank) — the Rām-kund S of the Kolhua pillar, exposed by excavation
@@ -111,6 +129,8 @@ pillar, now Ram-kund, which "evidently is the monkey tank".
 **Evidence.** Bloch (AR 1903–04, p. 84) measured it at 200 × 100 ft: "As to their location no possible doubt exists."
 The Survey exposed a Kushan brick-lined tank in seven tiers with two ghats, S of the pillar (IAR 1991–92, pp. 4–5; L. C.
 Singh, 1992–93, pp. 5–6).
+**Ji Xianlin et al. (1985).** Ji gives no site (Ram-kund is not mentioned); he cites the 玄應音義 (the tank beside
+Āmrapālī's garden), the Vinaya and the relief of the monkey's gift on the N gate at Sanchi (p. 591).
 **Assessment.** An excavated tank in the position Xuanzang gives, beside a secure pillar (07.03.04). Secure.
 
 ### 07.05 尼波羅國 (Nepāla) — Nepal, the Kathmandu valley; capital not identified
@@ -119,6 +139,9 @@ Singh, 1992–93, pp. 5–6).
 (1871, p. 516), Beal (p. 81) and Watters (p. 83): Nepal.
 **Evidence.** Hearsay. Route test: 1,400–1,500 li NW from Vṛji gives 163 km to the Kathmandu valley against about 347 km
 predicted, bearing 17° off (`segment_tests.tsv`, flagged on distance); a mountain road would lengthen the figure.
+**Ji Xianlin et al. (1985).** Ji narrows the country to the Kathmandu valley and holds that Xuanzang did not go there
+(p. 613); he cites Fan Xiangyong (《大唐西域記闕文考辨》, 文史 13) for the passages on Nepal lost from the received text and kept
+by Daoxuan and Daoshi, and Wang Xuance's account of the fire pond (pp. 617–18).
 **Assessment.** The country is not in doubt; the capital is untested.
 
 ### 08.00 摩掲陀國 (Magadha) — South Bihar; its centres are fixed by excavation and inscriptions
@@ -128,6 +151,7 @@ Watters (p. 85), Majumdar (p. 719) and Dey agree; the gazetteers (Gaya, Shahabad
 Cunningham's bounds.
 **Evidence.** The places inside it are secure on site evidence: Pāṭaliputra (08.02.01), the Mahābodhi temple (08.06.04),
 Nālandā by its own sealings (09.03.01). The Life (T50:0236a) crosses the Ganges S into it.
+**Ji Xianlin et al. (1985).** Ji agrees: roughly the Patna and Gayā districts (p. 620).
 **Assessment.** Secure.
 
 ### 08.02.x1 無憂王地獄 (Aśoka's "hell") — the Agam Kuan well, Patna, on a Jain legend; doubted by Page
@@ -146,6 +170,8 @@ Dey agree.
 **Evidence.** Beglar (ASR VIII, p. 40): from his Śīlabhadra monastery (Kauwa-dol) Gayā is 12 miles SW, as Xuanzang's
 40–50 li SW. Cunningham (ASR I, p. 53) can match the holy spring 30 li N only by reading 130 li (Patal Ganga). The
 Brahmin pilgrimage town fits Xuanzang's thousand Brahmin families.
+**Ji Xianlin et al. (1985).** Ji agrees: Brahma-Gayā, the old town covering modern Sahebganj (N) and old Gayā (S)
+(p. 663).
 **Assessment.** Probable to secure; the distance fits, though the spring needs an emendation.
 
 ### 08.05.01a 伽耶山 (Gayāśīrṣa) — Brahmayoni hill, SW of Gayā
@@ -155,6 +181,7 @@ a mile SW of Gayā, a small temple on the stūpa's site. Dey agrees; Vivien (p. 
 Brahmayoni as Gayāśīrṣa.
 **Evidence.** Route test: 5–6 li SW of the town gives 2.4 km at 204°, within the expected range (`segment_tests.tsv`).
 No remains of the stūpa reported.
+**Ji Xianlin et al. (1985).** Ji agrees: Brahmayoni hill, S of Gayā, about 400 ft high (p. 664).
 **Assessment.** The authorities agree and the bearing and distance fit. Probable.
 
 ### 08.06.21 尼連禪那河浴處窣堵波 (stūpa where the Bodhisattva bathed in the Nairañjanā) — Tika Bigha on Cunningham's map only
@@ -188,6 +215,7 @@ position. Probable.
 **Evidence.** Gaya 1906 and 1957, after Stein: a small plateau ¾ mile E of Jethian with traces of old buildings, still
 called Jeshtiban, "an almost perfect preservation of the ancient name". Cunningham (ASR III, pp. 139–40) found bamboos
 but no Aśokan stūpa. Tapoban lies 2 miles SW, as the hot springs 10 li SW (09.02.03). The Life calls it 杖林山.
+**Ji Xianlin et al. (1985).** Ji agrees: Jeshtiban, the Life's 杖林 (p. 711).
 **Assessment.** The name, old remains and the bearing to Tapoban support Mizutani. Probable; no excavation.
 
 ### 09.02.03a 大山 (the great mountain SE of Yaṣṭivana) — the Handia range, with Stein's stūpa platform at Sahudrasthan and Bimbisāra's walled road
@@ -223,6 +251,9 @@ ancient brick stupas in the middle of the road half way up". The hill is secure 
 of the great stūpa of Site No. 3.
 **Evidence.** The image was found in situ; the stūpa S of it fits Xuanzang's next item (09.03.x3). Spooner read Site 3 as
 the shrine of the three months' stay (09.03.06), and Cunningham put the image at his mound C (ASR I, pp. 29–30).
+**Ji Xianlin et al. (1985).** Ji offers another image: a 5th-century standing Avalokiteśvara found near Site 12 (after
+Takata Osamu, 印度南海の仏教美術, p. 104), and leaves open whether it is Xuanzang's (p. 760). A second candidate, no better
+placed than Sastri's.
 **Assessment.** A real image in a plausible place, under one of two incompatible readings of Site 3. Open.
 
 ### 09.03.x3 如來剃剪髮爪窣堵波 (stūpa of hair and nails) — the great stūpa of Site 3 on Sastri's reading
@@ -258,7 +289,12 @@ Bhasu Bihar, 4 miles W.
 30-ft brick stūpa mound, and a ruined temple N of it as the Avalokiteśvara vihāra. Bogra 1910 and CII 3 (p. 286) accept
 it; Dikshit visited (EC 1920–21, p. 23). The city is settled by the Mahasthan inscription (10.04). The Life writes
 跋姞婆.
-**Assessment.** Name, distance and a monastery–stūpa–temple group as described. Probable; no excavation in these sources.
+**Ji Xianlin et al. (1985).** Ji agrees with Mizutani (ruins between Bihar and Vasu-Bihar, 4 miles NW of Mahāsthān)
+and adds that the site has been excavated, with many Gupta-period finds, and that the Aśoka stūpa and the
+Avalokiteśvara vihāra both have traces, citing N. Ahmed's preliminary report on the Mahasthangarh excavations (p. 62;
+Ji pp. 792–93). L. Joshi reads the name as *bhasuā*.
+**Assessment.** Name, distance and a monastery–stūpa–temple group as described, and an excavation with Gupta-period
+finds (reported by Ji from Ahmed). Secure, without an inscription; the excavation report itself is not seen here.
 
 ### 10.09.02a 西北山伽藍 (monastery on the hill NW of Puṣpagiri) — Udayagiri, paired with Khandagiri
 
@@ -266,6 +302,7 @@ it; Dikshit visited (EC 1920–21, p. 23). The city is settled by the Mahasthan 
 Beal (p. 205): tentative.
 **Evidence.** None. It stands or falls with Puṣpagiri (10.09.02, Khandagiri/Udayagiri, medium), and the Oḍra boundary
 N of the Mahānadī may exclude Bhubaneswar (10.09).
+**Ji Xianlin et al. (1985).** Ji agrees: Udayagiri (p. 815).
 **Assessment.** A pairing by analogy. Open.
 
 ### 11.01 僧伽羅國 (Siṃhala) — Sri Lanka, capital Anurādhapura
@@ -274,17 +311,20 @@ N of the Mahānadī may exclude Bhubaneswar (10.09).
 Watters (p. 232) and Dey agree.
 **Evidence.** Hearsay (the Life says so). Route test: 3,000 li SE by sea from Malakūṭa gives 306 km against about 717 km
 predicted, bearing 10° off (flagged on distance), as expected of a sea passage.
+**Ji Xianlin et al. (1985).** Ji agrees: Sri Lanka, capital Anurādhapura; hearsay (pp. 866–68).
 **Assessment.** Secure as a country; the capital rests on agreement.
 
 ### 11.01.04a 摩訶毘訶羅 (Mahāvihāra) — the Mahāvihāra, S of Anurādhapura
 
 Mizutani: the Mahāvihāra S of old Anurādhapura, its remains extant; Beal (p. 247): 7 li S of the capital. Watters (p. 235)
 gives no site. The Life names neither fraternity. Agreement only; nothing in these sources.
+**Ji Xianlin et al. (1985).** Ji agrees: S of old Anurādhapura, with remains near the Ruvanveli stūpa (p. 879).
 
 ### 11.01.04b 阿跋耶祇釐 (Abhayagiri) — the Abhayagiri vihāra, N of Anurādhapura
 
 Mizutani: Abhayagiri, N of Anurādhapura, founded by Vaṭṭagāmaṇi Abhaya. Beal (p. 247) cites the Dīpavaṃsa and Faxian.
 Agreement only; nothing in these sources.
+**Ji Xianlin et al. (1985).** Ji agrees: N of the royal city, built by Vaṭṭagāmaṇi Abhaya (pp. 879–80).
 
 ### 11.04 跋祿羯呫婆國 (Bharukacchapa) — Broach (Bharuch) on the Narmadā; the Life's NW fits
 
@@ -292,6 +332,7 @@ Agreement only; nothing in these sources.
 Watters (p. 241), Majumdar (pp. 699–700) and Dey agree.
 **Evidence.** Bombay 1909 repeats it with the local Bhṛgu legend. Route test: from Nasik (11.03) Broach lies at 336°,
 66° off the Xiyu ji's "west" (flagged); the Life (T50:0243a) says NW, which fits. Distance fits.
+**Ji Xianlin et al. (1985).** Ji agrees: Broach, and he too prefers the Life's NW (pp. 898–99).
 **Assessment.** Probable to secure; the Life's bearing removes the only difficulty.
 
 ### 11.08 伐臘毘國 (Valabhī) — Vala near Bhavnagar
@@ -300,7 +341,10 @@ Watters (p. 241), Majumdar (pp. 699–700) and Dey agree.
 ruins at Vala. Vivien (p. 404): E Kathiawar. Watters (p. 246) rejects only Bhaonagar.
 **Evidence.** Bombay 1909: "the buried city at Vala". Route test: mean |z| 0.5, bearing 29° off over three segments
 (`candidate_scores.tsv`). The Life (T50:0243b) has the same 1,000 li N.
-**Assessment.** Agreement and a good route fit; no site evidence here. Probable.
+**Ji Xianlin et al. (1985).** Ji agrees on Vala (18 miles NW of Bhavnagar, 21°52′N 71°57′E) and adds that
+inscriptions, sealings and sculpture from the site, now in the Prince of Wales Museum, Bombay, prove an old city whose
+description in the inscriptions matches Xuanzang's (p. 913).
+**Assessment.** Agreement, a good route fit, and inscriptions and sealings from the site (reported by Ji). Secure.
 
 ### 11.12 鄔闍衍那國 (Ujjayanī) — Ujjain
 
@@ -309,9 +353,12 @@ Majumdar (p. 726) and Dey agree; Watters (p. 250): "generally supposed".
 **Evidence.** Rajputana 1908 and Jhalawar 1964 repeat it; Sircar (EI 34) keeps Ujjayinī distinct from Mālava. Route
 test: 2,800 li SE from Bhinmal gives 410 km at 16° off, unflagged. The Life gives the same distance and the Aśoka "hell"
 stūpa.
+**Ji Xianlin et al. (1985).** Ji agrees: Ujjain, capital of N Avanti (p. 923).
 **Assessment.** Probable; no site evidence in these sources.
 
 ### 11.20.02a 拂懍國 (Hrom, Rome) — the Eastern Roman empire
 
 Mizutani: the Eastern Roman empire (Syria, Palestine); Beal (p. 278): the Byzantine Empire. The Life names it NW of
 Persia, with the Western Women as its dependency. Hearsay; agreement only.
+**Ji Xianlin et al. (1985).** Ji agrees: the Eastern Roman empire, Middle Persian and Sogdian *From*, *Hrum*, after
+Hirth and Shiratori (p. 942).

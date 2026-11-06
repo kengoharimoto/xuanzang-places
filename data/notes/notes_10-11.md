@@ -22,6 +22,8 @@ Julien's Hiraṇya ("Hill of Gold"). The site does not move.
 Mudgalāśrama and Mudgalagiri, and from the Pāla inscriptions' Mudgagiri (G#269). They add that the sage's hermitage
 at Kashtaharini ghat "is still a Hindu pilgrimage place" (G#270/1584). Bengal 1902 repeats the identification.
 
+**Ji Xianlin et al. (1985).** Ji agrees: Monghyr (p. 779).
+
 **Assessment.** Nobody contests the site. The survey's Harana etymology and the gazetteers' local names bear only
 on the name, and Mizutani stands.
 
@@ -37,6 +39,10 @@ to the former existence in this region of an active volcano", shown by the hot s
 
 **K. Harimoto's notes.** Explains the 含吐煙霞 of the hill by the hot spring Sita Kund (or, doubtfully, volcanism), which
 agrees with the hot-spring reading of Vivien and the gazetteers.
+
+**Ji Xianlin et al. (1985).** Ji agrees with Mizutani's Pirpahar hill, 3 miles E of Monghyr, and reads the smoke as a
+sign of volcanic activity, citing the hot springs and the earthquake of January 1934 (p. 780). He gives no ground for
+Pirpahar in particular.
 
 **Assessment.** Everyone puts the mountain in the Monghyr hills. Vivien and the gazetteers favour the hot-spring
 range over any single hill. Pirpahar (Mizutani's own suggestion) has no support in these sources, but it does not
@@ -69,6 +75,8 @@ Waddell's identification "with one of the Buddha's hermitages on the western fro
 I-lan-na-po-fa-to". The records are Pāla-period (11th–12th c.): they show a Buddhist site, not one of Xuanzang's day,
 and name no hermitage.
 
+**Ji Xianlin et al. (1985).** Ji agrees: Uren hill, after Waddell, against Cunningham's Mahadeva (p. 785).
+
 **Assessment.** Mahadeva rests on the two peaks and the springs; Cunningham's own visit found nothing of the cave,
 stupa or footprints. Uren has the footprints, a stupa mound and now a body of Buddhist inscriptions. Mizutani is
 strengthened.
@@ -86,6 +94,8 @@ admitting "there are no rocks at the mouth of the Mayaganj cave at the present d
 boundaries of Aṅga (Lakhisarai to Rajmahal). Bhagalpur 1962 puts forward Bateshwar-Sthan (near Colgong) as the
 ancient site (G#1432–3). Its reason is that Faxian's 13 yojanas from Pāṭaliputra (about 144 miles) could fit if the
 Ganges has changed course. The gazetteer itself says "later researches and excavations may be awaited".
+
+**Ji Xianlin et al. (1985).** Ji agrees: between the villages Campānagara and Campāpuri near Bhagalpur (p. 786).
 
 **Assessment.** The Bateshwar suggestion concerns Faxian's Campā and the Vakula hill. It brings no evidence against
 Champanagar. Mizutani stands.
@@ -125,6 +135,8 @@ hills", has "at least as good a claim as Rajmahal to represent the capital". He 
 
 **Gazetteers.** Santal Parganas 1910 repeats Cunningham, noting that Kankjol is "still extant 18 miles S of
 Rajmahal" (G#1). Hooghly 1972 and Howrah 1972 repeat Majumdar's "territory around Rajmahal".
+
+**Ji Xianlin et al. (1985).** Ji agrees: Rajmahal, formerly Kankjol (pp. 789–90).
 
 **Assessment.** Dey's Kajra lies in the wrong direction from Campā. The Kajeri of Vivien and Beal rests only on a
 name on a map. The survey leaves the choice between Rajmahal and Kankjol open within the same district, and Mizutani
@@ -172,6 +184,11 @@ records summarised in CII 3 (p. 101) show the Puṇḍravardhana-bhukti as the G
 **Gazetteers.** Bogra 1910 adds the Karatoyā Māhātmya, the Skanda temple site and a Buddhist temple found in 1907,
 with no Buddhist remains at Pabna or Pandua (G#122/127/133). Malda 1918's Pandua concedes the distance problem.
 
+**Ji Xianlin et al. (1985).** Ji agrees: Rajshahi–Bogra, capital Mahāsthān 7 miles N of Bogra (pp. 791–2). He adds the
+Tang itinerary in Xin Tangshu 43下: from Kāmarūpa NW across the 迦羅都河 600 li to 奔那伐檀那, then SW 400 li to 羯朱嗢羅. This puts
+the country W of the Karatoyā, as Mahasthan is. He also cites N. Ahmed's preliminary report on the Mahasthangarh
+excavations (undated in Ji).
+
 **Assessment.** Distance, Bhasu Bihar and the circuit made Mahasthan probable; the Mauryan inscription naming the
 city, found in its ruins, settles it. The plaque is some nine centuries older than Xuanzang, but the Gupta bhukti
 records carry the name to his time. Mizutani is strengthened, with high confidence.
@@ -192,10 +209,18 @@ camp at Karnasuvarna" (Padmanatha Bhattacharya, EI 12, pp. 65–66; EI 19): they
 Bengal, not his capital. Sircar (EI 32, Howraghat plates) states that Xuanzang "entered the Kamarupa country from the
 west after having crossed the Ka-lo-tu or Karatoya", and CII 3 (p. 22) takes Kāmarūpa as W Assam with N Bengal.
 
+**Ji Xianlin et al. (1985).** Ji agrees on the country and on the capital at Gauhati (Prāgjyotiṣa/Kāmākhyā; pp. 794–6,
+after B. C. Law). He takes the great river crossed from Puṇḍravardhana as the Brahmaputra or its lower course, the
+Jamuna, and reports the Karatoyā (迦羅都河) of the Xin Tangshu as another view (pp. 793–4). That Tang itinerary, which he
+quotes under 10.04 (Xin Tangshu 43下, p. 792), names the 迦羅都河 as the river crossed between Kāmarūpa and Puṇḍravardhana:
+a Chinese source for the Karatoyā that the note did not have.
+
 **Assessment.** None of these sources touches the capital: Gauhati stands, and Majumdar removes Cunningham's reason
 for Kamatipura, since Pubna is not Puṇḍravardhana. The gazetteers and Sircar identify the river crossed at the start
-of the 900-li march as the Karatoyā near Mahasthan, not the Brahmaputra or the Tista, which fits Mahasthan for
-10.04. Mizutani stands for the capital; the river is corrected.
+of the 900-li march as the Karatoyā near Mahasthan, not the Brahmaputra or the Tista, which fits Mahasthan for 10.04.
+The Tang itinerary in the Xin Tangshu that Ji quotes names the 迦羅都河 on this very stretch, so the correction rests on a
+Chinese source as well as on the gazetteers; Ji's own Brahmaputra is not argued. Mizutani stands for the capital; the
+river is corrected.
 
 ### 10.06 三摩呾吒國 (Samataṭa) — east of the old Brahmaputra, capital near Comilla; fixed by inscriptions
 
@@ -225,6 +250,9 @@ Vaṅga.
 **Route test (the Life).** On the Life's figures, the best-fitting combination for juan 10 takes Faridpur district
 (Watters 1904) here, not Mizutani's Bad-Kamta (Barkamta), W of Comilla (route/README.md §7).
 
+**Ji Xianlin et al. (1985).** Ji agrees: the Ganges–Meghna delta (Tippera, Noakhali, Sylhet), capital Karmānta =
+Bad-Kamta, 12 miles W of Comilla (pp. 802–3).
+
 **Assessment.** The gazetteers had already moved the capital east of Jessore. The inscriptions now fix the country
 east of the old Brahmaputra, in Tippera, Noakhali, Sylhet and E Dacca, with a Buddhist royal house there in
 Xuanzang's century — against Jessore, Faridpur and Khulna. The Baghaura record is c. 10th-century, and no inscription
@@ -249,12 +277,16 @@ Chittagong, "anciently called Sri-Chattala". Both rest on a name; neither cites 
 
 **Gazetteers.** None.
 
+**Ji Xianlin et al. (1985).** Ji agrees: Thare Khettara near Prome, with 東北 an error for 東南 (p. 804). He reports P.
+Bhattacharya's local identifications of all six countries (JRAS 1920: Sylhet, Comilla, Tipperah, Manipur, Bhamo, and
+Tambudeepa S of Ava) and sides with Finot's rebuttal in the same volume (pp. 804–5).
+
 **Assessment.** Prome has the matching name but not the direction; Sylhet has the direction, Chittagong the emended
 direction, and both only a looser name. Bhattasali's emendation to SE is the same correction Mizutani's Prome needs.
 The excavations give Hmawza a large walled Buddhist city of Xuanzang's time, which no Bengal candidate shows. Mizutani
 is strengthened, with medium confidence.
 
-### 10.06.02b 迦摩浪迦國 (Kāmalaṅkā) — Pegu and the Irrawaddy delta
+### 10.06.02b 迦摩浪迦國 (Kāmalaṅkā) — Pegu and the Irrawaddy delta, or Langkasuka on the Malay Peninsula
 
 **Identifications.** Mizutani: Pegu and the Irrawaddy delta (uncertain). Beal (p. 200): the same, as Rāmañña.
 Watters (p. 189) reports the same. Cunningham (pp. 576–7, tentative): the Comilla district in Tipera.
@@ -265,8 +297,15 @@ Watters (p. 189) reports the same. Cunningham (pp. 576–7, tentative): the Comi
 **Inscriptions.** Padmanatha Bhattacharya (EI 12, p. 67) gives Comilla too, attributing it to Watters and Smith; the
 coded Watters only reports Pegu. No inscription is adduced.
 
+**Ji Xianlin et al. (1985).** Ji differs from Mizutani. Kāmalaṅkā is the 狼牙修 of the Liang shu (j. 54) and Yijing's 郎迦戍
+(Laṅkāsu), that is, Langkasuka on the Malay Peninsula, placed variously at Patani, at Kedah, or at the Liang shu's 頓遜
+(Tenasserim) (p. 804). Mizutani gives the same Chinese equation (after Takakusu, hedged) but puts the country at Pegu.
+
 **Assessment.** The gazetteer's and Bhattacharya's "generally" overstates Cunningham's tentative suggestion. The
-equation with Yijing's 郎迦戍 supports Pegu. Mizutani stands.
+equation with 狼牙修/郎迦戍, which Mizutani himself cites, does not support Pegu: in the Liang shu and in Yijing these name
+Langkasuka on the Malay Peninsula, as Ji says. The name match is partial (only laṅka is shared). If it is accepted, it
+points across the Bay to the peninsula, which suits the text's "SE, at a corner of the great sea" as well as Pegu
+does; Pegu rests on Beal's Rāmañña, with no name behind it. Pegu and Langkasuka are alternatives, low confidence.
 
 ### 10.06.02c 墮羅鉢底國 (Dvāravatī) — Dvāravatī (Siam)
 
@@ -276,6 +315,10 @@ perhaps Talaingvati, that is, Pegu.
 
 **Gazetteers.** Tippera 1910 says that "perhaps To-lo-po-ti may stand for Tippera" (G#138). This is a guess from the
 sound of the name.
+
+**Ji Xianlin et al. (1985).** Ji agrees: Dvāravatī, Yijing's 社和鉢底 and the 墮和羅/獨和羅 of the two Tang histories, which he
+takes for the Sanskrit name of Ayutthaya (p. 804). Ayutthaya was founded only in 1351, so the equation, his as
+Mizutani's, can be one of name only.
 
 **Assessment.** The reading Dvāravatī, the Mon kingdom of Siam, is the best supported. The Tippera guess adds
 nothing. Mizutani's equation with Ayutthaya specifically is a precision issue, not a rival site. Mizutani stands.
@@ -287,9 +330,13 @@ Cambodia. Cunningham (p. 577): the Shan country or Laos.
 
 **Gazetteers.** None.
 
-**Assessment.** Īśānapura is Īśānavarman's capital of Zhenla, so Cunningham's Laos is superseded. Mizutani stands.
-Confidence medium: a hearsay country identified by the authorities; the documentary evidence for Īśānapura as Zhenla's
-capital (Sui shu, Īśānavarman's inscriptions) is not coded here and would justify high once it is.
+**Ji Xianlin et al. (1985).** Ji agrees: Cambodia. He quotes the Jiu Tangshu (j. 197) on Zhenla:
+"其王姓刹利氏，有大城三十餘所，王都伊奢那城" (pp. 804–5). This is the documentary link between Īśānapura and Zhenla that the note lacked.
+
+**Assessment.** Īśānapura is Īśānavarman's capital of Zhenla, so Cunningham's Laos is superseded. The Jiu Tangshu,
+quoted by Ji, names 伊奢那城 as the royal city of Zhenla, which supplies the documentary evidence for Īśānapura as
+Zhenla's capital that this note had been waiting for. Mizutani is strengthened, with high confidence for the country;
+the capital point (Sambor Prei Kuk) rests on evidence not coded here.
 
 ### 10.06.02e 摩訶瞻波國 (Mahācampā) — Champa (Linyi)
 
@@ -305,6 +352,10 @@ Tsang".
 
 **Gazetteers.** None.
 
+**Ji Xianlin et al. (1985).** Ji agrees: Champa (林邑, 環王國) on the SE coast of Indochina (p. 805). The P. Bhattacharya
+he reports (JRAS 1920), who put Mahācampā at Bhamo, is evidently the Padmanatha Bhattacharya (Vidyavinod) whose
+Sampanago near Bhamo Duroiselle examined and rejected.
+
 **Assessment.** Dey's Siam is a dictionary cross-reference, not an argued identification, and the only Burmese
 rival, Sampanago, fails on its remains. Mizutani stands.
 
@@ -315,6 +366,8 @@ Java. Watters (p. 189): "it cannot possibly have been the island of Java". Beal 
 Purāṇa, probably fabulous.
 
 **Gazetteers.** None.
+
+**Ji Xianlin et al. (1985).** Ji agrees: Java, Faxian's 耶婆提, with Sumatra as another view (p. 805).
 
 **Assessment.** These sources settle nothing. Java rests on emending the name, so Mizutani's "perhaps" is the right
 level of confidence.
@@ -328,6 +381,9 @@ p. 200, Watters p. 189, Majumdar p. 732, Dey. Fergusson's Satgaon is rejected by
 Workers "come upon sea shells at a depth of from ten to twenty feet" in wells and tanks, and the place had the old
 name Ratnākar (G#337/359). Midnapore 1911, Howrah 1909, Howrah 1972 (with recent ASI excavations at Tamluk) and the
 other Bengal volumes repeat the identification.
+
+**Ji Xianlin et al. (1985).** Ji agrees: Tamluk. He credits Lal Gupta (JBTS v) with settling it against Fergusson's
+Satgaon (p. 806).
 
 **Assessment.** The gazetteers explain why an inland town could be Xuanzang's seaport, and so strengthen Mizutani.
 
@@ -358,10 +414,18 @@ hitherto uncertain, is to be located in the neighbourhood of Rajbadidanga" (IAR 
 Bazar (Barabhum) (Cunningham 1871) here, not Mizutani's Rangamati (Karnasuvarna), Murshidabad (route/README.md §6).
 The figures are one kind of evidence; see the assessment.
 
+**Ji Xianlin et al. (1985).** Ji names the excavated site: Rajbadidanga in Murshidabad district, where a sealing of
+the "Śrī Raktamṛttikā Mahāvihāra" was found, citing B. P. Sinha, *Archaeology and Art of India* (Delhi 1979), p. 6 (p.
+808). This is the find already known here from the IAR reports. He also argues that the country lies NE, not NW, of
+Tāmralipti. In the Life Xuanzang goes from Puṇḍravardhana to Karṇasuvarṇa, then Samataṭa and Tāmralipti; Bianji,
+arranging the countries by region, put Karṇasuvarṇa after Tāmralipti and wrote the bearing wrongly (pp. 808–9).
+
 **Assessment.** The sealings name the monastery, not the city. But Xuanzang puts Raktamṛttikā "beside the great city"
-(大城側), and the sealings span his date, so the capital must lie at Rangamati–Jadupur, where Dikshit saw a city of
-his time; the city itself has not been dug in these sources. The 1914 name objection and Beglar's Sapharan lapse.
-Mizutani is strengthened, now with high confidence.
+(大城側), and the sealings span his date, so the capital must lie at Rangamati–Jadupur, where Dikshit saw a city of his
+time; the city itself has not been dug in these sources. The 1914 name objection and Beglar's Sapharan lapse. Ji's
+account of the bearing meets the route test's objection only in part: Rangamati lies almost due north of Tamluk at
+about the 700 li, so a NE (or N) bearing fits, but the Life's "SE 900 li" from Puṇḍravardhana does not, since
+Rangamati lies SW of Mahasthan. Mizutani is strengthened, now with high confidence.
 
 ### 10.08.02 絡多末知僧伽藍 (Raktamṛttikā) — Rajbadidanga at Rangamati; named on its own sealings
 
@@ -383,6 +447,9 @@ Raktamrittika legends" (IAR 1972–73, pp. 37–38). The seal-bearing levels run
 p. 43), covering Xuanzang's visit. Das: "the site has been identified with the illustrious Raktamrittikasangharama
 described by the Chinese pilgrim" (IAR 1966–67, p. 47).
 
+**Ji Xianlin et al. (1985).** Ji agrees: the monastery named for the red soil, tied to the Rajbadidanga sealing of
+10.08 (pp. 808, 810).
+
 **Assessment.** A monastery named on its own sealings, in levels of Xuanzang's century, on the site Mizutani gives:
 the identification is settled, and the 1914 objection to the place-name no longer matters. Mizutani is strengthened,
 with high confidence.
@@ -400,9 +467,15 @@ tentative): Jajpur on the Baitaraṇī. Watters (p. 194) and Dey: Orissa only.
 Khurda, Ganjam), concludes that Koṅgoda "extended from the southern bank of the Mahanadi" — which leaves Oḍra north of
 the river.
 
+**Ji Xianlin et al. (1985).** Ji takes 高桑駒吉's capital at Dhauli, the ancient Tosali, 7 miles S of Bhubaneswar, on the
+strength of the Aśokan rock edict there and the text's "stūpas built by Aśoka" (p. 813). He rejects Cunningham's
+Cuttack (too late a city), Fergusson's Midnapur (misled by the juan's order) and Watters' Yajapur (not well argued).
+
 **Assessment.** The country is not in doubt; the capital remains open, with Jajpur, north of the Mahānadī, the most
 widely held candidate. If Chakravarti's boundary held in Xuanzang's time, Dhauli/Tosalī and Bhubaneswar on the south
-bank fall into Koṅgoda, which tells against 高桑's Dhauli (and raises the same question for Khandagiri, 10.09.02).
+bank fall into Koṅgoda, which tells against 高桑's Dhauli (and raises the same question for Khandagiri, 10.09.02). Ji's
+grounds for Dhauli are weak: Aśoka stūpas are Xuanzang's formula in almost every country, and Ji himself takes
+Puṣpagiri, "in the great mountains of the SW border", for Khandagiri, which lies only some 10 km NW of Dhauli.
 Mizutani stands.
 
 ### 10.09.02 補澁波祇釐僧伽藍 (Puṣpagiri) — Khandagiri/Udayagiri
@@ -418,6 +491,9 @@ Puṣpagiri. It is miscoded here.
 N of the Mahānadī, three relic caskets, two holding gold caskets with bone relics, and suggested that "it might be
 the same stupa noticed by Hiuen-Tsang", without naming which; later Lalitgiri seasons (IAR 1986–87, 1989–90) do not
 repeat it.
+
+**Ji Xianlin et al. (1985).** Ji agrees: Khandagiri, about 4 miles W of Bhubaneswar, after Cunningham; he takes the
+caves to have been Buddhist originally (p. 815).
 
 **Assessment.** The difference between Udayagiri and Khandagiri is one of precision. Beal's Aska is a passing
 alternative. Lalitgiri is a passing suggestion, though it lies N of the Mahānadī, inside Oḍra on Chakravarti's
@@ -444,6 +520,8 @@ Nendra (Chitratola), 15 mi below Cuttack (Waddell (via Watters 1904, Majumdar 19
 **Route test (the Life).** On the Life's figures, the best-fitting combination for juan 10 takes Nendra (Chitratola),
 15 mi below Cuttack (Waddell (via Watters 1904, Majumdar 1924)) here, not Mizutani's Puri (route/README.md §7).
 
+**Ji Xianlin et al. (1985).** Ji agrees: Puri (Cunningham) or Nendra (Waddell), undecided (p. 816).
+
 **Assessment.** The gazetteers weaken Puri. They add the Prāchī-mouth port near Konarak, a candidate no authority
 records, though it rests on tradition only. Nendra (Waddell) remains the better-argued alternative to Puri.
 
@@ -465,11 +543,17 @@ since plates naming Koṅgoda-maṇḍala come from Cuttack, Khurda and Ganjam, 
 bank of the Mahanadi and included within it the northern portion of Ganjam", its capital perhaps on the Salia near the
 Chilka. Hultzsch (CII 1) gives Jaugada's Aśokan name as Samāpa.
 
+**Ji Xianlin et al. (1985).** Ji follows 高桑駒吉's Jaugada, 18 miles NW of Ganjam town, for the capital (p. 818). An
+Aśokan rock edict, coins of Kushan type, pottery and wall foundations show an old town near the sea, which fits better
+than the other old site in Ganjam, Keśarapalle in Goomsur, further inland. Ji puts Jaugada on the S shore of the
+Chilka; it lies on the Rushikulya, some 30 km SW of the lake.
+
 **Assessment.** The plates fix the country: a coastal province from the Mahānadī across the Chilka into N Ganjam,
 ruled by Śaśāṅka's Śailodbhava feudatories at Xuanzang's date. Mizutani's region is confirmed but too narrow. His
-capital, Jaugada, has no 7th-century claim in these sources; the inscriptions point to the Śailodbhava town of
-Koṅgoda on the Sālimā, perhaps the Salia near the SW Chilka (unexcavated, and the river equation is Chakravarti's
-guess). Alternative, medium confidence for the region, low for the capital.
+capital, Jaugada, has no 7th-century claim in these sources; the inscriptions point to the Śailodbhava town of Koṅgoda
+on the Sālimā, perhaps the Salia near the SW Chilka (unexcavated, and the river equation is Chakravarti's guess). Ji's
+evidence for Jaugada shows an Aśokan and early town, not a 7th-century capital, and does not meet the plates.
+Alternative, medium confidence for the region, low for the capital.
 
 ### 10.11 羯𩜁伽國 (Kaliṅga) — region clear; capital Kalingapatnam (Salihundam) or Mukhalingam
 
@@ -492,6 +576,9 @@ figures are one kind of evidence; see the assessment.
 **Route test (the Life).** On the Life's figures, the best-fitting combination for juan 10 takes Rajahmundry
 (Cunningham 1871; Beal 1884) here, not Mizutani's Kalinga (coast S of Ganjam) (route/README.md §7).
 
+**Ji Xianlin et al. (1985).** Ji agrees that the capital is undecided (pp. 819–21). Besides the candidates here he
+reports 高桑駒吉's Srikakulam (ancient Sarapalli, from local inscriptions), some 25 km from Kalingapatnam.
+
 **Assessment.** Salihundam gives Kalingapatnam a large Buddhist establishment, but one named in the 2nd century, not
 the capital; and the stone stupa Ramachandran matches stands on a ridge "in the north of the country" (10.11.02a),
 which a coastal hill near Kalingapatnam does not obviously suit. Mukhalingam keeps the attested name Kaliṅganagara.
@@ -504,8 +591,12 @@ Mahendra Male range at the head of the Rishikulya, Ganjam.
 
 **Gazetteers.** None.
 
+**Ji Xianlin et al. (1985).** Ji agrees: Mahendragiri (p. 822). He says the stone stūpa over 100 feet high "still
+survives", with inscriptions of Rājendra Chola, but cites no report, and the Rājendra Chola records are 11th-century.
+
 **Assessment.** The two identifications agree in substance on the Mahendragiri massif on the northern border of
-Kaliṅga. No ruin is named. Mizutani stands, with low confidence for the stupa itself.
+Kaliṅga. No source here names a ruin; Ji's surviving stūpa is unsourced. Mizutani stands, with low confidence for the
+stupa itself.
 
 ### 10.12 憍薩羅國 (Dakṣiṇa Kosala) — capital Sirpur (Śrīpura), confirmed by the Somavaṃśī plates and excavation
 
@@ -537,6 +628,11 @@ evidence; see the assessment.
 
 **Route test (the Life).** On the Life's figures, the best-fitting combination for juan 10 takes Chanda (Cunningham
 1871) here, not Mizutani's Sirpur, Chhattisgarh (route/README.md §7).
+
+**Ji Xianlin et al. (1985).** Ji leaves the capital open (pp. 823–4). He reports Cunningham's Chanda, 高桑駒吉's Bhāndak
+near Chandrapur, Fergusson's Wairagarh, 足立喜六's Kanker and, "recently", Sirpur, 37 miles SE of Raipur, adding that B.
+C. Law wrote NE for SE. Sirpur in fact lies ENE of Raipur, so Law's bearing is the nearer. Ji has none of the
+Somavaṃśī or excavation evidence.
 
 **Assessment.** Bhandak and Chanda rest on assertions; Sirpur has the royal plates of Xuanzang's date naming Śrīpura
 as capital, a city with major 7th-century building, and Buddhist foundations from the 5th century on. Mizutani is
@@ -573,6 +669,11 @@ are one kind of evidence; see the assessment.
 **Route test (the Life).** On the Life's figures, the best-fitting combination for juan 10 takes Pantlu-kuri, 45 mi W
 of Chanda (Cunningham 1871) here, not Mizutani's Nagarjunakonda (route/README.md §7).
 
+**Ji Xianlin et al. (1985).** Ji leaves the mountain open (p. 832). Beal's Dewala and Winjhasani hills lack grounds;
+Burgess's Śrīśailam fits the Tibetan name Śrīparvata and the old monastery but is too far; Nāgārjunakoṇḍa is a recent
+proposal. He compares Faxian's and Huichao's accounts and, like K. Harimoto's note, explains Faxian's 鴿 (pāravata) as
+a mishearing of parvata.
+
 **Assessment.** Xuanzang puts Bhramaragiri 300 li SW of the Kosala capital. With Sirpur now secure (10.12), Arang has
 the bearing and a hill-name close to Bhramara (both bhramara and bhṛṅga mean "bee", glossed 黑蜂 in the text; this
 point is not made in these sources). Śrīparvata at Nāgārjunakoṇḍa has the Nāgārjuna association and the name of
@@ -605,6 +706,8 @@ evidence; see the assessment.
 
 **Route test (the Life).** On the Life's figures, the best-fitting combination for juan 10 takes Elgandal (Cunningham
 1871) here, not Mizutani's Pedavegi near Eluru (route/README.md §7).
+
+**Ji Xianlin et al. (1985).** Ji agrees: Veṅgī, near Pedda and Cinna Vegi 6 miles NW of Ellore, after 高桑駒吉 (p. 835).
 
 **Assessment.** Elgandel and Warangal are Telingana guesses from distance. Veṅgī matches the name, Burnell's Telugu
 locative explains the last syllable, and the excavation shows a fortified city with stūpas, occupied under the first
@@ -643,10 +746,17 @@ Dharanikota on the right bank of the Krishna: an embankment-cum-wharf on a navig
 later a defence wall, a reservoir (Hamsala-Gundam), NBP and Rouletted wares, and a habitation sequence from megalithic
 Black-and-red Ware to a grey-ware period. No 7th-century level is reported, and the reports do not mention Xuanzang.
 
+**Ji Xianlin et al. (1985).** Ji agrees: the capital near Amarāvatī and Dharanikota on the S bank of the Krishna (pp.
+840–2). Besides the inscriptions he gives a textual point after 高桑駒吉: Dharmakṣema's 大方等無想經 (j. 6) has a city 熟穀
+(Dhānyakaṭaka) on the S bank of the river 黑闇 (Kṛṣṇā) in a country 無明 (Andhra?), so the city stood on the south bank,
+against Bezwada on the north. He also reports that a survey of 1881 found Bezwada's remains Brahmanical and its
+"caves" to be quarries.
+
 **Assessment.** Bezwada rested on its setting (10.14.03); Dharanikota now has the city's name in inscriptions on the
-spot and a fortified river town, which Bezwada lacks in these sources. Nāgārjunikoṇḍa was a 3rd-century Ikṣvāku
-capital and has no claim on the name. Mizutani is strengthened, with medium confidence, since the town is not shown
-to have stood in the 7th century.
+spot and a fortified river town, which Bezwada lacks in these sources. The Wuxiang jing passage Ji cites adds an early
+5th-century text for a Dhānyakaṭaka on the south bank. Nāgārjunikoṇḍa was a 3rd-century Ikṣvāku capital and has no
+claim on the name. Mizutani is strengthened, with medium confidence, since the town is not shown to have stood in the
+7th century.
 
 ### 10.14.02a 弗婆勢羅僧伽藍 (Pūrvaśaila) — the Amaravati stupa site, most likely
 
@@ -665,6 +775,10 @@ sects, which Vogel (EI 20) and Sircar (EI 34) derive from Xuanzang's two convent
 **Later excavations.** The base of the Amaravati stupa was traced and relic caskets found (IAR 1958–59); inscriptions
 of the 2nd–3rd c. BC suggest a Mauryan foundation (IAR 1959–60, p. 53); a clearance on the W side found two
 Sātavāhana phases and one early medieval (IAR 1971–72, p. 1). None names Pūrvaśaila.
+
+**Ji Xianlin et al. (1985).** Ji agrees: the site of the Amarāvatī great stūpa, rejecting Sewell's caves E of Bezwada
+and Burgess's Bezwada stūpa (p. 843). He links the Life's "大夏之規式" to the Hellenistic look of the Amarāvatī sculpture
+(p. 842).
 
 **Assessment.** With the capital at Dharanikota (10.14), the great stupa a mile to the east answers to the eastern
 convent, and Pūrvaśaila monks are attested at Dharanikota. The Nāgārjunikoṇḍa Puvasela shows the name was not
@@ -685,13 +799,17 @@ locates it.
 **Later excavations.** The IAR excavations of 1962–65 show Dharanikota as a fortified town with wharf and reservoir
 (see 10.14), not a monastery.
 
+**Ji Xianlin et al. (1985).** Ji agrees: Dharanikota, 1 mile W of Amarāvatī (p. 843). He takes its halls, backed by
+the city and commanding the river, to fit the description of both convents (p. 842), but the text puts Avaraśaila on a
+mountain W of the city.
+
 **Assessment.** The text puts Avaraśaila "west of the city, resting on a mountain". If the fortified town at
 Dharanikota is the city, as the inscriptions and excavations now suggest, Avaraśaila lay on high ground west of it,
 not at Dharanikota itself; Mizutani's own arrangement, with the capital between the two convents, implies the same.
 Fergusson's Amaravati tope is ruled out by the bearing. Mizutani is weakened in detail; site unlocated, low
 confidence.
 
-### 10.14.03 大山 (阿素洛宮) — the isolated rock S of Bezwada
+### 10.14.03 大山 (阿素洛宮) — a hill S of the capital: Takakuwa's SE of Amarāvatī, or the Bezwada rock
 
 **Identifications.** Mizutani: none (unknown). Watters (p. 221): "the isolated steep mountain to the south of
 Bezwada". Beal (p. 223): the isolated rock with caves immediately S of Bejwada, from Boswell's report via Fergusson.
@@ -699,8 +817,14 @@ Sewell (in Watters): the rock-cut temple at Undavalli.
 
 **Gazetteers.** None.
 
-**Assessment.** The only candidate in these sources is the Bezwada hill, which presupposes a capital at Bezwada.
-Recorded as an alternative to Mizutani's blank, with low confidence.
+**Ji Xianlin et al. (1985).** Ji, after 高桑駒吉 (pp. 156–70 of his study), takes the rock of the Asura palace to be a
+large hill 2 miles SE of Amarāvatī where many antiquities have been found, matching the Xiyu ji's and the Life's
+"great rock not far S of the city" (pp. 841–2). He rejects Sewell's Undavalli caves with the Bezwada theory. He does
+not name the hill or the finds.
+
+**Assessment.** The Bezwada hill presupposes a capital at Bezwada, which the study rejects (10.14). Takakuwa's hill SE
+of Amarāvatī, reported by Ji, is the only candidate consistent with the Dharanikota capital, but it is unnamed and its
+finds are not described. New candidate, low confidence; no map point can be given.
 
 ### 10.15 珠利耶國 (Coḷa) — the Telugu Coḷa country (Renāṇḍu) of Cuddapah
 
@@ -729,9 +853,16 @@ evidence; see the assessment.
 **Route test (the Life).** On the Life's figures, the best-fitting combination for juan 10 takes Kurnool (Jorampur)
 (Cunningham 1871) here, not Mizutani's Nellore (route/README.md §7).
 
+**Ji Xianlin et al. (1985).** Ji agrees with Fergusson's Nellore (pp. 847–9): a small Telugu-Coḷa holding on the lower
+Penner, on the coastal road between Dhānyakaṭaka and Kāñcī, which suits the bearings and distances. He finds Smith's
+Cuddapah weaker. He adds the Mahākūṭa pillar inscription (IA 19, p. 7), whose list of Kīrtivarman's conquests (c. 590)
+includes a Colya, as the name behind 珠利耶.
+
 **Assessment.** Bearing and inscriptions agree on a Telugu Coḷa country in Cuddapah and S Kurnool, with Smith,
 Majumdar and in part Cunningham. The plates postdate Xuanzang by over a century, and none names Chuliye or a capital.
-This is a better-supported alternative to Nellore for the core of the country, though not a capital.
+Ji's Nellore rests on the road and the distances: it lies due S of Dharanikota, which suits the Life's "S" better than
+the Xiyu ji's "SW", and the Mahākūṭa Colya does not locate the country. This is a better-supported alternative to
+Nellore for the core of the country, though not a capital.
 
 ### 10.16 達羅毘荼國 (Drāviḍa) — Kāñcīpura; secure
 
@@ -743,6 +874,9 @@ Beal): Nagapattinam.
 Toṇḍai-maṇḍalam, with Kāñcī as capital; a statement, not an argument.
 
 **Gazetteers.** Malabar 1887 repeats "the Pallava kingdom" with Kāñcī (G#447).
+
+**Ji Xianlin et al. (1985).** Ji agrees: Kāñcīpura (Conjeeveram), rejecting Fergusson's Nagapattinam as one-sided (pp.
+854–5).
 
 **Assessment.** Kien-chi-pu-lo is phonetically Kāñcīpura, the Pallava capital. Fergusson's Nagapattinam rests only
 on his reconstruction of the route. Mizutani stands.
@@ -764,6 +898,9 @@ evidence; see the assessment.
 **Route test (the Life).** On the Life's figures, the best-fitting combination for juan 10 takes Quilon (Cunningham
 1871 (alternative)) here, not Mizutani's Madurai (route/README.md §7).
 
+**Ji Xianlin et al. (1985).** Ji agrees: the Pāṇḍya country, capital Madurai on the Vaigai. He stresses that Xuanzang
+knew it only by report, turning NW from Drāviḍa to Koṅkaṇapura (pp. 857–8).
+
 **Assessment.** Chi-mo-lo (枳秣羅) is Xuanzang's other name for Malakūṭa at the southern tip, so Chaul on the Konkan
 coast is a confusion of sounds, not a rival. Hultzsch's Mīlalaikkūṟṟam supports Madurai over the Kāveri delta.
 Mizutani stands.
@@ -776,6 +913,9 @@ Majumdar (p. 741): the sandal-producing Malaya in Tinnevelly.
 
 **Gazetteers.** Malabar 1887 (G#448) only repeats Xuanzang's sandalwood mountains of "Wo-la-ye". Its "alternative" is
 Minicoy, which concerns the women's island (11.20.02b).
+
+**Ji Xianlin et al. (1985).** Ji agrees: the Cardamom range, the southern Western Ghats from the Nilgiris to Cape
+Comorin (p. 860).
 
 **Assessment.** All the sources agree on the southern Ghats. Mizutani stands, once "Western" is read for "Eastern".
 
@@ -794,6 +934,9 @@ sea-side". Beal (p. 233): no site.
 after Eltschinger, cites the Kāraṇḍavyūha, where Avalokiteśvara tells Maheśvara that he will be the creator in the
 Kali age.
 
+**Ji Xianlin et al. (1985).** Ji gives Pāpanāsam hill in Tinnevelly (8°43′N, 77°22′E), E of the Malaya, without
+Mizutani's legendary alternative and without a source (p. 862).
+
 **Assessment.** Hultzsch's Podiyamalai and 高桑's Pāpanāsam probably name the same range above Pāpanāsam in
 Tinnevelly (a geographical point not stated in these sources). If so, two independent sources point to one hill,
 against Watters' scepticism. Mizutani stands. The
@@ -811,6 +954,9 @@ was Madurai, Ramnad if it was Quilon. Watters (p. 232): "the old Seng-ka-lo" of 
 the S bank of the Kāverī, equates Uragapura with Negapatam and finds it "very probable that Negapatam is intended" by
 Xuanzang's hearsay port, with Yijing's Nāgapaṭṭana.
 
+**Ji Xianlin et al. (1985).** Ji agrees: Nāgapaṭṭinam at the Kāveri mouth, judging 高桑駒吉's Rāmnād weak (pp. 862–3). His
+supporting evidence, Wang Dayuan's 八丹 and its "China pagoda" of 1267, is far later than Xuanzang.
+
 **Assessment.** With Madurai as capital (10.17), Nāgapaṭṭinam is the most consistent choice; Beal, Cunningham and
 Hultzsch converge on it, though Hultzsch's Uragapura (uraga = nāga) is a translation of the name, not a find at the
 port. Mizutani is strengthened, with medium confidence.
@@ -822,7 +968,13 @@ port. Mizutani is strengthened, with medium confidence.
 
 **Gazetteers.** None.
 
-**Assessment.** Beal's Maldives is the only proposal and rests on coconuts alone. The island stays unidentified.
+**Ji Xianlin et al. (1985).** Ji takes the island as hearsay, "by direction and distance" probably the Maldives,
+citing 謝方, 中國史籍中之馬爾代夫考, 南亞研究 1982/2, pp. 1–6 (p. 885). He also mentions a "Coconut Island" midway on the
+Colombo–Albany sea route.
+
+**Assessment.** Beal's Maldives rests on the coconuts. Ji, after 謝方 (known here only from Ji's citation), adds
+direction and distance, but the Maldives lie WSW of Ceylon, not S as the text has, and Ji's mid-ocean "Coconut Island"
+is not named further. The island stays unidentified, with the Maldives possible.
 
 ### 11.01.08b 孤島 — unidentified
 
@@ -848,6 +1000,8 @@ mountain by the sea.
 
 **Gazetteers.** None.
 
+**Ji Xianlin et al. (1985).** Ji agrees: unidentified, probably the high mountains of S Sri Lanka (p. 884).
+
 **Assessment.** The mountain is the scriptural Laṅkā, and neither source ties it to a peak. Mizutani stands, with low
 confidence.
 
@@ -872,6 +1026,10 @@ Xuanzang "had visited Banavasi (ancient Vaijayanti)".
 Golkonda (Beal 1884) here, not Mizutani's Anegundi on the Tungabhadra (route/README.md §6). The figures are one kind
 of evidence; see the assessment.
 
+**Ji Xianlin et al. (1985).** Ji agrees, tentatively: Cunningham's Annagundi on the N bank of the Tungabhadrā (pp.
+887–9). He reviews St. Martin's Banavāsi, Fergusson's Mysore, Yazdani's Kuntalapura (Kubattūr), Burgess's Kopal or
+Kokanūr, Fleet's Karnūl and Watters' doubts, and rejects 足立喜六's Khanapur.
+
 **Assessment.** Banavasi now has a fortified early city with Buddhist remains, on the Varadā that Mizutani includes
 in the country, and it was the Kadamba capital. But the IAR reports assert the Xuanzang link from tradition, without
 argument from the route, and the Buddhist finds are Sātavāhana, not 7th-century; nothing names Koṅkaṇapura.
@@ -894,8 +1052,15 @@ Paithan or Devagiri. Fergusson: Toka or Paithan. Beal (p. 255): near the Tapti o
 city answers to the description of Pulakesin's capital", adducing the grant of Jayasiṃha Dharāśraya (653) from Nasik
 district.
 
+**Ji Xianlin et al. (1985).** Ji differs on the capital (pp. 892–4). He takes Bādāmi (Vātāpipura), with "most present
+scholars" (after B. C. Law, p. 171), on the ground that the move to Nasik came after Xuanzang's visit; he cites
+nothing for the date of such a move. He grants that Fleet's and Burgess's Nasik fits Xuanzang's account except for the
+river on the west. He adds the Aihole inscription and Pulakeśin II's embassy to Khusrau II in 625–6 (Ṭabarī).
+
 **Assessment.** The bearing to Ajanta and the Chalukya grants from Nasik district support Nasik. Bādāmi was the
-dynastic capital, but nobody argues for it from Xuanzang's data. Mizutani's preference is strengthened.
+dynastic capital, and Ji argues for it, but from the dynasty's history alone: it lies some 500 km due S of Ajanta,
+which Xuanzang puts on the country's eastern border, and Ji gives no source for a later move to Nasik. Mizutani's
+preference is strengthened.
 
 ### 11.03.03 阿折羅伽藍 — Ajanta, not Kanheri
 
@@ -914,6 +1079,9 @@ do not mention Xuanzang.
 the Ajanta identification needs rethinking. It does not depend on Faxian: Xuanzang's own description, the bearing from
 Nasik and the Cave 26 inscription naming the sthavira Acala (known from Burgess and Indraji 1881, not coded here)
 carry it.
+
+**Ji Xianlin et al. (1985).** Ji agrees: the Ajanta caves, about 60 miles NW of Aurangabad in a bend of the Waghora
+(p. 896).
 
 **Assessment.** The gazetteers dispose of Kanheri, and Ajanta, east of Nasik, fits the bearing. The structural
 monastery shows the site's monastic establishment beyond the caves, though its disuse may precede Xuanzang. Mizutani
@@ -940,10 +1108,19 @@ km away on a bearing of 345°: close to the stated direction but far short of th
 Mizutani's Malwa (Ujjain region) lies 352 km away on a bearing of 61°: near the distance but opposite in direction.
 Neither fits both. A Mālava further north-west in Gujarat would (route/README.md §8).
 
+**Ji Xianlin et al. (1985).** Ji takes Malwa (Ujjain–Bhilsā, part of Avanti) with St. Martin, Cunningham, Beal and
+Fleet, capital probably Dhār near the upper Mahī, and calls Mālava the eastern branch of the Maitraka kingdom (pp.
+900–2). He grants that Malwa needs 西北 read as 東北 and 南羅羅 as 北羅羅, since Lāṭa lay between the Mahī and the Kim. Against
+Smith's Kaira–Ahmadabad he cites Grierson (JRAS) and Lévi: north Gujarat would need "over 2000 li" cut to "over 200",
+and a country 6000 li round cannot be one corner of it. He calls the 7th-century Valabhī inscriptions favourable to
+Malwa without saying how.
+
 **Assessment.** Xuanzang describes Ujjayana separately, and the Mahī bearing and the Maitraka Mālavaka-āhāra put his
 Mālava in central Gujarat, as Smith, Majumdar and now Bhandarkar and Sircar hold. Mizutani's reading of the Valabhī
-evidence runs the other way. Central Gujarat is the better-supported view, though no record fixes a capital. The
-bearing favours Gujarat, but the stated distance points further north-west than Kheda: alternative, medium confidence.
+evidence runs the other way. Central Gujarat has the better documentary support, though no record fixes a capital. Ji,
+with Grierson and Lévi, keeps Malwa on the distance and the circuit, and the figures bear him out on the distance:
+central Gujarat needs the 2000 li cut, Malwa needs the bearing and the 南羅羅 gloss reversed. The authorities are divided
+and each view needs an emendation: alternative, low confidence.
 
 ### 11.05.03 婆羅門邑 — unidentified
 
@@ -952,6 +1129,9 @@ Arrian's Brahman town as too far north. Beal (p. 262) and Vivien (p. 403) give n
 Dhār and suggests the name may not be a proper name.
 
 **Gazetteers.** None.
+
+**Ji Xianlin et al. (1985).** Ji agrees: undeterminable while the capital is open; Beal's Brahman town at the Indus
+mouth is too far from Dhār or Ahmadabad (p. 906).
 
 **Assessment.** The site depends on 11.05. Unknown.
 
@@ -970,8 +1150,14 @@ Dhār and suggests the name may not be a proper name.
 - Sirohi 1967 doubts that Varmalāta's kingdom at Vasantgarh was O-cha-li (G#1947).
 - Rajputana 1908 repeats Cunningham's Vadari division.
 
+**Ji Xianlin et al. (1985).** Ji leaves the country unlocated and doubts that Xuanzang went there (p. 908). The Xiyu
+ji and the Life give 2400–2500 li NW from Mālava, but the text then reaches Kiṭa "three days NW from Mālava", which
+suggests that Aṭali was known by report.
+
 **Assessment.** Vadali gives Cunningham's Eder/Vadari an actual town with the matching name, so it is an alternative
-of the same weight as Mizutani's guess. Neither rests on remains, and confidence is low.
+of the same weight as Mizutani's guess. Neither rests on remains, and confidence is low. Ji's point that Kiṭa is
+reached "three days NW from Mālava" makes Aṭali a country known by report, which lowers the weight of any placement
+from its bearing.
 
 ### 11.07 契吒國 (Kiṭa) — Cutch (majority) or Kaira
 
@@ -981,6 +1167,9 @@ Cambay.
 
 **Gazetteers.** Bombay 1909 (IGB2) repeats Cutch, as part of Sindh (G#1958). Sirohi 1967 gives "Kutch or Kaira"
 (G#1946).
+
+**Ji Xianlin et al. (1985).** Ji agrees: undecided (pp. 909–10). He rejects Cunningham's Kaira, which needs 1300 li,
+and doubts the majority's Cutch, marshy and without historical finds.
 
 **Assessment.** The gazetteers only repeat. Cutch is the majority view, but Cunningham's Kaira requires an emended
 distance, and Mizutani's doubts are reasonable. Undecided.
@@ -1002,6 +1191,9 @@ Gwalior inscription of Alla (EI 1, p. 154, "Anandapura in Latamandala") take it 
 **Route test (the Life).** On the Life's figures, the best-fitting combination for juan 11 takes near Ahmadabad (St.
 Martin; Cunningham; Watters (older view, via Mizutani)) here, not Mizutani's Vadnagar (route/README.md §7).
 
+**Ji Xianlin et al. (1985).** Ji agrees: Vadnagar, 17 miles SE of Sidhpur (p. 916). He notes that the Xiyu ji's
+wording suggests hearsay, while the Life takes Xuanzang there.
+
 **Assessment.** An inscription on the site names it Ānandapura, and Maitraka grants show a town of that name in
 Valabhī's sphere, as Xuanzang's dependency requires. The praśasti is 12th-century, but the name continuity is clear.
 Mizutani is strengthened, with high confidence.
@@ -1019,6 +1211,9 @@ names Surāṣṭra, Mount Ūrjayat and the town: "That it was rightly called Gi
 told that it was situated about the foot of Mount Urjayat". The record is of the 5th century, under Gupta governors
 of Surāṣṭra.
 
+**Ji Xianlin et al. (1985).** Ji agrees: S Kathiawar, capital Junāgaḍh (Girinagara), citing the Junāgaḍh rock
+inscriptions (pp. 917–18).
+
 **Assessment.** The province, the hill and the town are named together on the rock beside the town two centuries
 before Xuanzang, which closes the tentativeness of Vivien and Watters. Mizutani is strengthened, with high confidence.
 
@@ -1031,6 +1226,9 @@ Beal (p. 269), Majumdar (p. 698) and Watters (p. 249, after Cunningham): Girnar.
 
 **Inscriptions.** The Junagadh rock inscription of Skandagupta names Mount Ūrjayat and places Girinagara at its foot
 (CII 3; see 11.10). Ūrjayat is the Sanskrit form behind Xuanzang's 郁鄯多 (*Ujjanta).
+
+**Ji Xianlin et al. (1985).** Ji agrees: Mount Girnār, 10 miles E of Junāgaḍh, with the Aśokan edicts and Gupta
+inscriptions (p. 919).
 
 **Assessment.** The name is attested on the spot for the hill above Junagadh. Mizutani is strengthened, with high
 confidence.
@@ -1060,9 +1258,15 @@ V.S. 1328 found there records a king "ruling from Srimala" (IAR 1968–69, p. 49
 Barmer (Balmer) (Vivien 1858; Cunningham 1871; Beal 1884) here, not Mizutani's Bhinmal (route/README.md §6). The
 figures are one kind of evidence; see the assessment.
 
+**Ji Xianlin et al. (1985).** Ji puts the capital at Bārmer (Balmer), 25°48′N 71°16′E, with St. Martin and against
+Smith's and Majumdar's Bhinmal (p. 922). His ground is distance: the country lies 1800 li N of Valabhī, the capital
+must lie further north still, and Cunningham measured Bārmer at that distance. Yet his history of the dynasty (pp.
+921–2) follows R. C. Majumdar's Gurjaras of Mandor and makes the young king Tāta, son of Nāgabhaṭa.
+
 **Assessment.** Majumdar's Mandor is argued from a distance and a dynastic list, without a name answering to
-Pi-lo-mo-lo. Bhinmal has the transcribed name in its old forms, ruins, and an inscription on the site naming it
-Śrīmāla, though late. Mizutani is strengthened, with high confidence.
+Pi-lo-mo-lo. Ji's Bārmer rests on the distance alone, which the route test also prefers, with no name or remains at
+Bārmer. Bhinmal has the transcribed name in its old forms, ruins, and an inscription on the site naming it Śrīmāla,
+though late. Mizutani is strengthened, with high confidence.
 
 ### 11.13 擲枳陀國 (Jejākabhukti) — Bundelkhand, named in inscriptions; capital Khajuraho or Eran
 
@@ -1084,6 +1288,11 @@ repeat Khajuraho.
 **Inscriptions.** Kielhorn (EI 1, pp. 33–34) reads "the prince of Jejabhuktika (or Bundelkhand)" in the Ratnapur
 inscription of Jājalladeva. The editor of a Chandella plate of Devavarman (V.S. 1108, from Kālañjara; EI 20) accepts
 Chih-chi-to = Jajhauti and objects only to deriving the name from a king Jejaka.
+
+**Ji Xianlin et al. (1985).** Ji agrees: undecided between Bundelkhand (capital Khajurāho), the majority view, and
+Chitor (pp. 925–6). Bundelkhand lies about twice the stated distance from Ujjain, which is why some prefer Chitor, 220
+km N of Ujjain, though it does not look an old city. He notes that the Fangzhi has "E 1000 li" for the Xiyu ji's and
+the Life's "NE".
 
 **Assessment.** The inscriptions and caste names fix the country in Bundelkhand, against Chitor and Chedi; the
 epigraphic names are 11th–12th-century. The capital stays open: Khajuraho has the circuit and a Buddhist pedestal but
@@ -1113,9 +1322,14 @@ bearings.
 **K. Harimoto's notes.** Suggests Shivpuri or Mandla. From the Eran capital of 11.13, Gwalior lies due north at c. 235
 km (≈ 900 li); Shivpuri lies NNW at c. 155 km, short of the distance.
 
+**Ji Xianlin et al. (1985).** Ji leaves the country open between Cunningham's Mandla (Māhiṣmatīpura, which needs 北
+read as 南) and Smith's Gwalior (p. 927). Against Gwalior he says that its inscriptions date its temple only to
+Mihirakula's time (early 6th c.), so the city is "not very old".
+
 **Assessment.** Seronj fits the Life's distance from Ujjain, but not the Travels' 900 li north of a Bundelkhand
 Jejākabhukti. Maheswar fits neither text's direction. Gwalior agrees with the text's "north" without emendation and
-with the Eran reconstruction of 11.13. Mizutani stands.
+with the Eran reconstruction of 11.13. Ji's objection to Gwalior cuts the other way: records of Mihirakula's time show
+the city in being a century before Xuanzang. Mizutani stands.
 
 ### 11.15 信度國 (Sindhu) — capital Alor
 
@@ -1147,6 +1361,8 @@ Range. He doubts Alor as the capital: the Indus probably did not then flow east 
 be "A-lo-lo". He puts the capital on the right bank between Pano Akil and Kandhkot, since eroded by the river (pp.
 147–48, 166). His li is elastic, about 5 to the mile, 50 li to a day's march of 10 miles.
 
+**Ji Xianlin et al. (1985).** Ji agrees: Upper Sind round Sukkur, capital Alor, after Cunningham (pp. 929–30).
+
 **Assessment.** Branfill's Vijnot gives a closer sound for Pi-chen-po-pu-lo, but these sources offer no evidence
 beyond the name. Alor, the historical capital of Upper Sindh, stands.
 
@@ -1165,6 +1381,8 @@ the walls closely, having dismantled them in 1854; they are Mughal work on older
 
 **Gazetteers.** Mooltan 1884, Mooltan 1902, Punjab 1919 and Puri 1977 repeat Multan. The 1884 volume's golden Sun
 image and 30-li circuit (G#1170/1173) echo the survey.
+
+**Ji Xianlin et al. (1985).** Ji agrees: Multan (p. 932).
 
 **Assessment.** The sun temple is diagnostic, and the circuit fits, though it was measured on later walls. The
 objection from bearing is real but weaker. Mizutani stands.
@@ -1198,6 +1416,10 @@ terracotta heads of the 4th–5th and 8th centuries at Ambaran) and 1962–63 (K
 Buddhist monastery with a Kushan relic stūpa, "believed to be the only early Buddhist site in Jammu region", running
 from pre-Kushan to post-Gupta (6th–7th c.). It was flood-prone and "abandoned sometimes around the seventh century
 AD". He declines to blame a burnt layer on the Hūṇas. None of the reports mentions Xuanzang or Parvata.
+
+**Ji Xianlin et al. (1985).** Ji agrees: Harappa, rejecting Jammu as c. 250 miles from Multan against 700 li ("about
+117 miles") (p. 933). He wrongly gives Jammu to Cunningham as well as Smith; Cunningham proposed Shorkot and then
+Harappa.
 
 **Assessment.** Shorkot fails on the measured circuit and needs an emended name; Harappa rests on size and position.
 The Bandhogarh Pavata does not bear on the site. Bakker's Parvatikā at Akhnūr revives Smith's Jammu with a real
@@ -1251,6 +1473,9 @@ Cutch/Koṭeśvara on the transcription (p. 148).
 
 **Route test (the Life).** On the Life's figures, the best-fitting combination for juan 11 takes Kotesar (Koteshwar)
 (Cunningham 1871; Dey 1927) here, not Mizutani's Karachi (route/README.md §7).
+
+**Ji Xianlin et al. (1985).** Ji agrees: lower Sind at the Indus mouth, the Audumbara country, capital 朅䳢濕伐羅 =
+Kaccheśvara = Karachi, following Lassen's restoration (pp. 935–6).
 
 **Assessment.** These sources split between Karachi or the delta (Debal/Banbhore) and Koṭeśvara in Kutch. 朅 (*khjat)
 suits Kacch- better than Koṭi-. A great Śiva shrine at the Indus mouth served by ash-smearers fits this country's
@@ -1308,6 +1533,10 @@ while Las Bela or eastern Makran would fit (route/README.md §5).
 parts of Jhalawan and E Makran (Lambrick 1964) here, not Mizutani's Lakorian (Lakura), between Khuzdar and Kalat
 (route/README.md §7).
 
+**Ji Xianlin et al. (1985).** Ji agrees with Mizutani's Lakoriān and repeats Cunningham's account of a great ruined
+city there, whose old name Lakura he finds close to 狼揭羅 (pp. 937–8); Stein found no such city (above). He records the
+capital's restorations Sunuriśvara, Sambhuriśvara and Strīśvara, not Sthūleśvara.
+
 **Assessment.** The capital's name is Sthūleśvara; the Skandapurāṇa locates that liṅga at the Indus mouth. Mizutani's
 Lākoriān now fails on three counts: the bearing (north, not west), the site (irrigation dams and no ruined city, per
 the Jhalawan gazetteer and Stein), and the political note (Makran east of the Persian border was Sind's c. 635, while
@@ -1324,6 +1553,8 @@ probably in the west; Lākoriān weakened; low to medium confidence.
 
 **Gazetteers.** None.
 
+**Ji Xianlin et al. (1985).** Ji agrees: Sasanian Persia, capital Persepolis (Istakhr) (pp. 939–41).
+
 **Assessment.** Dey's Shahrud is an isolated etymology. Mizutani's Persepolis/Istakhr stands. Confidence medium for
 the capital point: Persia itself is secure, but the capital's transcription has rivals (Dey's Shahrud; later work, not
 in these sources, reads Sūristān/Ctesiphon), and no evidence fixes Persepolis.
@@ -1334,6 +1565,8 @@ in these sources, reads Sūristān/Ctesiphon), and no evidence fixes Persepolis.
 
 **Gazetteers.** None.
 
+**Ji Xianlin et al. (1985).** Ji agrees: Beal's Ormus (Hormuz) is the only proposal (p. 942).
+
 **Assessment.** The only proposal, Hormuz, fits the "eastern border" and the name. Mizutani stands.
 
 ### 11.20.02b 西女國 — legendary island of women; Minicoy suggested
@@ -1343,6 +1576,10 @@ Strīrājya of the Bṛhatsaṃhitā. Beal (p. 279): refers to Marco Polo and Yu
 
 **Gazetteers.** Malabar 1887 (G#448), quoting Julien's text: "Reference is probably here made to the Island of
 Minicoy". It refers to Marco Polo's male and female islands.
+
+**Ji Xianlin et al. (1985).** Ji agrees that the island is a legend, first set in the western Indian Ocean and moved
+further west (p. 943). He reports 足立喜六's Siraf on the Persian Gulf as forced, and the search for the island by Ibn
+Baṭṭūṭa and by Portuguese sailors, after Kennedy (JRAS 1904, p. 163).
 
 **Assessment.** Minicoy lies SW of India, not SW of Persia, and the 拂懍 overlordship in the text points west. The
 suggestion is a new candidate in these sources but carries little weight. Mizutani's scepticism stands.
@@ -1383,6 +1620,9 @@ Islamic (MASI 43, pp. 13, 171–78; S015–S017).
 mentions no Indus crossing, so the country lay west of the river. He rejects Hyderabad (Cunningham) and Nagar
 Parkar/Umarkot (Haig) (p. 149).
 
+**Ji Xianlin et al. (1985).** Ji agrees: Hyderabad (Sind) or Nirankot = Patalpur, after Cunningham; Haig's Nagar
+Parkar and 堀謙德's Shikarpur are less well grounded (pp. 944–5).
+
 **Assessment.** The three placements differ materially, and none cites remains. Mizutani follows Cunningham, and
 confidence is low.
 
@@ -1416,6 +1656,9 @@ its onward leg to Duki z −0.1.
 
 **Lambrick (Sind, 1964).** Lambrick places Avaṇḍa south of Larkana, with its capital at Badah, and takes its Aśoka
 stūpa to be the stūpa at Mohenjo-daro (p. 150).
+
+**Ji Xianlin et al. (1985).** Ji agrees: undecided between Cunningham's Brāhmanābād, Haig's Khairpur and 堀謙德's capital
+near Rajanpur, none with firm evidence (pp. 946–7).
 
 **Assessment.** Middle Sindh (Brahmanabad/Khairpur) fits the 300 li from Hyderabad but breaks the route onward to
 Varṇa. Kachhi has the Arab-period capital Kandabil = Gandāva, tributary to Sind c. 635, pre-Islamic mounds and
@@ -1464,6 +1707,9 @@ Safed Koh and up the Kurram, but with its 4,000 li circuit "beaucoup plus vaste 
 Gomal, Zhob and Kandar valleys. Since the next stage runs 2,000 li NW to Jāguḍa, he thinks the royal caravan went S at
 least to the latitude of Dera Ghazi Khan (II, p. 231).
 
+**Ji Xianlin et al. (1985).** Ji agrees: Bannu on the Kurram, Faxian's 跋那, after Cunningham, though he finds the
+Life's itinerary hard to square with the map (p. 949).
+
 **Assessment.** Bannu breaks the route from Avaṇḍa unless Avaṇḍa lay far to the north. Duki fits the distance from
 Gandāva but has no 7th-century record. Foucher's larger Varṇa, from Bannu to the Zhob and the latitude of Dera Ghazi
 Khan, joins the two: it keeps Pāṇini's name for the core and lets the stages from the south and on to Jāguḍa meet in
@@ -1504,6 +1750,9 @@ Nal as not fitting the itinerary (pp. 150–51).
 **Foucher (1942–47).** Foucher makes Ki-kiang-na "le Kaikânân, Kaikân et Kikân des chroniqueurs arabes. C'est le vieux
 pays brâhûî", round Mastung and Kelat S of the Bolan pass. His grounds are the position, an independent wedge between
 Gedrosia, Arachosia, A-p'o-kien, Fa-la-na and Sind, and the horse- and sheep-breeding (II, pp. 236–7).
+
+**Ji Xianlin et al. (1985).** Ji leaves the country open, as one known by report (p. 950): Reinaud's and Elliot's
+Kykānān of the Arab historians (Kykan, at Chal) and Stein's Waziristan are "only possibilities".
 
 **Assessment.** Cunningham's Pishin rested on the Arab Kīkān. Stein places that Qīqān in Waziristan, and his field tour
 fits the description, as Bannu (11.23) does. Most others who use the Arab name put it in or near the Brāhūī highland of

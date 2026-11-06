@@ -6,7 +6,7 @@ Inputs: data/places_mizutani.tsv, data/coded/auth_*.tsv, data/coded/gaz_batch*.t
 """
 import csv, glob, collections, re
 RELCOLS = ["sangharamas", "monks", "schools", "deva_temples", "other", "site_affiliation", "buddhism"]
-AUTH = ["julien", "vivien", "cunningham", "beal", "watters", "majumdar", "dey"]
+AUTH = ["julien", "vivien", "cunningham", "beal", "watters", "majumdar", "dey", "ji"]
 rd = lambda f: list(csv.DictReader((l for l in open(f, encoding="utf-8") if not l.startswith("#")), delimiter="\t"))
 master = rd("data/places_mizutani.tsv")
 try:   # places missing from Mizutani's numbering, added from the sources (data/places_added.tsv; ids end in .xN)

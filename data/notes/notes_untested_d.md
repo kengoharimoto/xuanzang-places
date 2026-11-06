@@ -11,6 +11,9 @@ both the Xiyu ji's and the Life's figures, takes Ghazni for the country 12.01 (r
 certain", since his Jāguḍa is the upper Arghandāb; one should first look for a Ghaza or Ghazna in that valley (II, p.
 235). Pelliot's note to him finds the equation phonetically unresolved and "pas très conciliable avec Ghazna ou
 Ghaznī"; the *Tang shu* copies Hao-si-na but calls the second capital A-so-ni (II, p. 240 n. 35).
+**Ji Xianlin et al. (1985).** Ji agrees: Ghazni, noting that the *Xin Tang shu* has the king of 謝䫻 live at 鶴悉那 (p.
+956). That is the Tang form of the capital's name, not evidence for Ghazni, and leaves Pelliot's phonetic doubt
+standing.
 **Assessment.** Possible but now doubtful. The name match was the main ground, and Pelliot finds it unresolved;
 Foucher adds that his Jāguḍa need not have included Ghazni. The route fit still supports the Ghazni area, and no other
 site has been proposed. Ghazni stays on the map, low confidence.
@@ -27,6 +30,7 @@ monasteries and an Aśoka stūpa. Route test: the onward leg to Khost (12.04, 40
 governor's house near Banu: its cliffs show substructures of river pebbles, old coins have been found there, and its
 size matches Xuanzang's 14–15 li. The Kishnabād spur 3–4 km downstream has only a qaleh, and the valley below is too
 narrow for a town (I, pp. 22, 136). He also takes the pass for the Khāvak (II, p. 234).
+**Ji Xianlin et al. (1985).** Ji agrees: Andarāb, the Doshi valley W of the Khawak pass (p. 961).
 **Assessment.** Probable on the name and agreement, and Foucher's plateau at Banu gives a plausible, unexcavated
 capital site. The short Andarāb–Khost leg is a problem of the figures, not of the identification.
 
@@ -35,6 +39,7 @@ capital site. The short Andarāb–Khost leg is a problem of the figures, not of
 **Identifications.** Mizutani: the Pamir system (agreed). Beal: the Pamir (I p. 41). Watters: Bolor Tagh and the
 Karakoram (p. 271).
 **Evidence.** None beyond the text's cosmographic description (T51:0940a); the Life mentions it only in passing.
+**Ji Xianlin et al. (1985).** Ji agrees: the Pamir plateau (p. 7).
 **Assessment.** A region-scale range, agreed in substance; Watters' wording differs only in extent. Probable; there
 is nothing to test.
 
@@ -44,6 +49,9 @@ is nothing to test.
 Cunningham's chronology (p. 649) agree.
 **Evidence.** No site evidence. The Life adds a month's halt for snow. Route test (country centroid): in from 12.11
 50 km for 200 li (z +0.1); out to 12.13 48 km (z 0.0) but bearing off 67°, an effect of the centroid.
+**Ji Xianlin et al. (1985).** Ji agrees: the upper Panj and Kokcha basins. He reports Chavannes' town of Badakhshān E
+of Faizabad (= 跋底延 of the *Wei shu*) and Uchida Gimpū's reading of 拔底延 as Padiyan, "capital" (吐火羅國史, 1972, pp. 96–97)
+(pp. 971–972).
 **Assessment.** The name match is direct and the distances fit. Probable by the study's rule (no site evidence),
 secure in substance.
 
@@ -53,6 +61,8 @@ secure in substance.
 Lajward (I p. 42). Watters: Kuran, after Yule (p. 279). Vivien: perhaps Garana, the lapis-lazuli district (p. 424,
 tentative), the same area.
 **Evidence.** No site evidence. Route test: from Yamgān 67 km for 300 li (z −0.07), bearing off 49°.
+**Ji Xianlin et al. (1985).** Ji agrees: Kurān, the lapis-lazuli district of the upper Kokcha, after Wood (pp.
+973–974).
 **Assessment.** Probable: name and Tang form agree, Vivien's Garana is the same mining district, and the distance
 fits.
 
@@ -63,6 +73,8 @@ fits.
 Wakhan chief (p. 425).
 **Evidence.** No excavation or inscription in these sources; Mizutani cites the Ḥudūd al-ʿĀlam for a monastery
 there in the 10th century. The Life tells of the floating canopy over the stone Buddha.
+**Ji Xianlin et al. (1985).** Ji agrees: Khandūd on the alluvial fan S of the Āb-i Panja, after Stein, with the *Ḥudūd
+al-ʿālam*'s idol temple at Khamdādh (pp. 977–978).
 **Assessment.** Probable: the name survives and Vivien and Mizutani agree; no site evidence for the monastery.
 
 ### 12.16 尸棄尼國 (*šikini) — Shighnan
@@ -70,6 +82,7 @@ there in the 10th century. The Life tells of the floating canopy over the stone 
 **Identifications.** Mizutani: Shighnān N of Wakhan (agreed; 新唐書 識匿). Julien (p. 27), Vivien (p. 292), Beal
 (I p. 41; after Cunningham and Yule) and Watters (p. 281) agree.
 **Evidence.** None; a hearsay country, named only in the Life.
+**Ji Xianlin et al. (1985).** Ji agrees: Shighnān (p. 979).
 **Assessment.** Probable on the name and unanimous agreement. Its capital (12.16a) remains open.
 
 ### 12.17 商彌國 (*śami) — Chitral–Mastuj
@@ -79,6 +92,7 @@ there in the 10th century. The Life tells of the floating canopy over the stone 
 accepted, although it does not seem to meet all the requirements of the texts" (p. 283).
 **Evidence.** None; a hearsay country. Route test: the onward 700 li NE to the Pamir valley measures 200 km (z +0.2,
 bearing off 6°).
+**Ji Xianlin et al. (1985).** Ji agrees: between Mastuj and Chitral (p. 980).
 **Assessment.** Probable. The authorities agree, but only Mizutani is firm and Watters records unease; no site
 evidence.
 
@@ -88,6 +102,8 @@ evidence.
 (p. 426) and Beal (II p. 297): the Pamir. Watters doubts Curzon's Great Pamir without naming another (p. 283).
 **Evidence.** No site evidence. The Life repeats the 700 li and the lake. Route test: in from Chitral 200 km (z
 +0.4); out to Tashkurghan 182 km for 500 li (z +0.9) with bearing off 63°.
+**Ji Xianlin et al. (1985).** Ji gives only the Pamir in general (the 葱嶺 of the Han, the 播蜜川 of the *Xin Tang shu*),
+not a particular valley (p. 981).
 **Assessment.** Probable. The name is certain; the exact valley is agreed by all but Watters, who offers no rival.
 
 ### 12.17.02a 大龍池 — Lake Victoria (Zorkul)
@@ -108,6 +124,7 @@ Stein (*On Ancient Central-Asian Tracks* p. 47) (agreed). Beal: the legend may e
 **Evidence.** A standing ruin on a steep rock, still locally called "princess's tower", matches the legend of the
 Han bride placed on an isolated peak and the palace built on it (T51:0941c). The Life gives only the king's
 Cīnadevagotra claim.
+**Ji Xianlin et al. (1985).** Ji agrees: Stein's Qiz-qurghan in a gorge of the Taghdumbash (pp. 986–987).
 **Assessment.** The most likely site of the legend: a standing ruin whose local name carries the legend. It rests on
 Stein's report as cited by Mizutani. Confidence medium: the match is the legend and a local name reported by Stein
 (via Mizutani); the text gives no position or measurement to test the ruin against.
@@ -119,6 +136,7 @@ Stein's report as cited by Mizutani. Confidence medium: the match is the legend 
 **Evidence.** The text itself glosses the old name 疏勒 as that of the capital. No survey or excavation in these
 sources. Route test: from 烏鎩 (disputed) 162 km N for 500 li, bearing off 42°; the onward leg to Karghalik is a
 calibration leg.
+**Ji Xianlin et al. (1985).** Ji agrees: Kashgar; Uighur Käš (Tugusheva 1980, p. 12) (pp. 996–997).
 **Assessment.** Secure in substance on the text's gloss and the name; medium by the study's rule, since these
 sources give no site evidence.
 
@@ -129,6 +147,8 @@ chronology and Dey (old capital Yotkan) agree.
 **Evidence.** The text glosses the old name 于闐 and the local name 渙那 (Khot. hvaṃna, Kharoṣṭhī khotaṃna). Stein's
 work at Yotkan (12.22a) supplies site evidence for the capital. Route test: from Karghalik 237 km for 800 li (z
 +0.2, bearing off 21°).
+**Ji Xianlin et al. (1985).** Ji agrees: Khotan; Uighur udun (Tugusheva 1980), and Clauson (1971) on qortan in the
+Tonyuquq inscription (pp. 1002–1003).
 **Assessment.** Secure: names, the excavated capital and the distance agree.
 
 ### 12.22.03 毗盧折那伽藍 (virocana) — Chalma-kazān: name fits, distance does not
@@ -137,6 +157,9 @@ work at Yotkan (12.22a) supplies site evidence for the capital. Route test: from
 the *Wei shu*), after Thomas and Stein (*Ancient Khotan* pp. 231–35) ("であろう"). No other authority gives a site.
 **Evidence.** Name chain only. The text has "more than ten li" S of the royal city, c. 3 km at the juan's scale
 (0.29 km/li); Chalma-kazān lies c. 21 km from Yotkan. Mizutani does not comment on the gap.
+**Ji Xianlin et al. (1985).** Ji leaves it undecided between Stein's Chalma-kazān, 13 miles SE of Yotkan, and Huang
+Wenbi's ruined temple S of the Shisbir old town, which Huang takes for Faxian's 瞿摩帝 and the *Wei shu*'s 贊摩寺 (pp.
+1010–1011). Huang's site depends on his Shisbir capital (12.22a), which the study does not adopt.
 **Assessment.** Open. The Tibetan name supports Chalma-kazān, but the distance is about seven times too long.
 
 ### 12.22.04 瞿室[m44209]伽山 (go-śṛṅga) — Kohmāri hill
@@ -146,6 +169,8 @@ the *Wei shu*), after Thomas and Stein (*Ancient Khotan* pp. 231–35) ("であ�
 capital only (p. 301).
 **Evidence.** Tib. ri Glan-ru ("ox-horn hill") gives the name. The text's 20 li SW (c. 6 km) is short of the c.
 17 km to Kohmāri, though the bearing (SSW) fits.
+**Ji Xianlin et al. (1985).** Ji agrees with Stein's Kohmāri, preferring it to Huang Wenbi's hill c. 20 li S of
+Shisbir (p. 1013).
 **Assessment.** Probable: the Tibetan name, Stein and Dey agree, with the distance only a rough fit.
 
 ### 12.22.05 地迦婆縛那伽藍 — Bowa-Kambar ruins
@@ -154,6 +179,7 @@ capital only (p. 301).
 p. 225) (agreed); only the Sanskrit name is unsure. Watters: no site (p. 301).
 **Evidence.** Distance and bearing fit: c. 6 km SW for "more than ten li" SW. No name link or find tying the ruin
 to the lacquer image from Kuci.
+**Ji Xianlin et al. (1985).** Ji agrees: perhaps Böwa-kambar, c. 4 miles SW of Yotkan (p. 1015).
 **Assessment.** Probable: a ruin in the right place, without name evidence.
 
 ### 12.22.07 鼠壤墳 — Kum-rabāt-Pādshāhim Mazār (Kaptar-Mazār)
@@ -162,6 +188,7 @@ to the lacquer image from Kuci.
 pp. 119ff, pl. LXIII) (agreed). No other authority gives a site.
 **Evidence.** On the desert road W of Khotan, c. 35 km WNW of Yotkan for 150–160 li (0.22 km/li), consistent with
 勃伽夷 (12.22.06) 300 li W near Piālma. Mizutani reproduces the Dandan-Uiliq rat-god panel. The visit is inferred.
+**Ji Xianlin et al. (1985).** Ji agrees (p. 1019).
 **Assessment.** Probable: the only proposal, on the right road at a consistent distance.
 
 ### 12.22.08 娑摩若僧伽藍 (so-ma-ña) — Somiya
@@ -171,6 +198,7 @@ Thomas and Stein (*Ancient Khotan* pp. 223–25) (agreed). Dey: Stein identified
 with the monastery.
 **Evidence.** The name survives in the village; Stein located a stūpa there; the text's 5–6 li W matches c. 1 km
 W of Yotkan.
+**Ji Xianlin et al. (1985).** Ji agrees: Somiya, c. 1 mile W of Yotkan (p. 1021).
 **Assessment.** Secure: name, stūpa site and distance agree.
 
 ### 12.22.09 麻射僧伽藍 (ma-ża) — Kum-i-Shahidān shrine
@@ -179,6 +207,7 @@ W of Yotkan.
 Stein (*Ancient Khotan* p. 230) (agreed). No other authority gives a site.
 **Evidence.** Distance and bearing fit (c. 2 km ESE for 5–6 li SE). Mizutani reproduces the Dandan-Uiliq silk
 panel, which illustrates the legend but not the site.
+**Ji Xianlin et al. (1985).** Ji agrees (p. 1023).
 **Assessment.** Probable: a local shrine in the right place, without name or find evidence.
 
 ### 12.22.10 龍鼓池側伽藍 — Naghara-khāna mound by the Aiding-kul
@@ -187,6 +216,7 @@ panel, which illustrates the legend but not the site.
 bank, after Stein (*Ancient Khotan* pp. 226–27), Adachi, Hori (agreed). No other authority gives a site.
 **Evidence.** The text has the drum hung SE of the city and a ruined monastery beside the pond; Aiding-kul lies c.
 4 km SE. The mound's name ("drum-house") echoes the legend.
+**Ji Xianlin et al. (1985).** Ji agrees (p. 1025).
 **Assessment.** Probable on position and the local name; nothing else.
 
 ### 12.22.12a 曷勞落迦城 (*rauraka) — Krorayina (Loulan)
@@ -195,6 +225,8 @@ bank, after Stein (*Ancient Khotan* pp. 226–27), Adachi, Hori (agreed). No oth
 (agreed). Beal: restorations only (II p. 322).
 **Evidence.** A name equation; the city appears only in the legend of the image (hearsay; the Life names it). The
 text's "north of this country" places it loosely; Loulan lies c. 900 km NE.
+**Ji Xianlin et al. (1985).** Ji agrees: Kroraina (Loulan) "according to some scholars"; Uighur araurak (Tugusheva
+1980, p. 29) (p. 1029).
 **Assessment.** Probable on the name equation; the city is a legend site.
 
 ### 12.22.13 尼攘城 (Kharoṣṭhī nina) — the Niya site
@@ -205,6 +237,7 @@ Hedin (p. 302). Vivien: between Khotan and Pi-mo, no site (p. 428).
 **Evidence.** The Kharoṣṭhī documents excavated at the site name *nina*. Route: 185 km from 媲摩's assigned point
 for 200 li (c. 60 km expected); the onward 400 li to Endere fits (103 km). Mizutani notes Xuanzang's 3–4-li town is
 smaller than the ruin field.
+**Ji Xianlin et al. (1985).** Ji agrees: the Niya site 65 miles N of Minfeng, the Han 精絕 (p. 1030).
 **Assessment.** Secure on the documents. The short 200 li is a problem for 媲摩 (12.22.12) or the figure, not for
 Niya.
 
@@ -214,6 +247,8 @@ Niya.
 Watters reports Smith/Stein's Endere (p. 304). Vivien, Beal: no site.
 **Evidence.** Stein excavated ruins at Endere. Route: 103 km E of Niya for 400 li (bearing off 9°), but this is a
 calibration leg and not an independent test. Nothing ties the site to the name Tukhāra.
+**Ji Xianlin et al. (1985).** Ji agrees: Endere, with Stein's Chinese document of Kaiyuan 7 (719) from the site (p.
+1032).
 **Assessment.** Probable: an excavated ruin field in the right place for a "long-deserted" country.
 
 ### 12.22.17 納縛波故國 (*navapa) — the Loulan/Lop region
@@ -223,6 +258,8 @@ after Stein (*Serindia* I pp. 318ff), Thomas, Huang Wenbi (agreed). Vivien (p. 4
 (p. 305, tentative) give Loulan/Shanshan. The name's etymology is disputed (Beal, Matsuda, Mizutani).
 **Evidence.** The text itself says 即樓蘭地也. Stein and Huang Wenbi surveyed the Lop sites. Route: from Charchan
 292 km NE for 1000 li (z +0.2, bearing off 20°).
+**Ji Xianlin et al. (1985).** Ji agrees on the Lop region (Charqliq = Nob-chen, Mirān = Nob-chung), but reads the name
+as Navāp (nava + āp, "new water") rather than nava-pura (pp. 1033–1035).
 **Assessment.** Secure as a region: text, authorities, sites and distance agree. Only the name is unexplained.
 
 ### 12.22a 瞿薩旦那國王城 — Yōtkan
@@ -231,4 +268,9 @@ after Stein (*Serindia* I pp. 318ff), Thomas, Huang Wenbi (agreed). Vivien (p. 4
 pp. 190ff) (agreed). Dey: old capital Yotkan (Stein).
 **Evidence.** Stein's work at the Yōtkan ruin field. The Khotan monasteries measured from the 王城 (Somiya 5–6 li W,
 Kum-i-Shahidān 5–6 li SE, Bowa-Kambar 10 li SW) fit Yōtkan as the centre. The Life adds the king's reception.
-**Assessment.** Secure: excavated site, agreement, and consistent distances to the surrounding sites.
+**Ji Xianlin et al. (1985).** Ji leaves the capital undecided between Yotkan, 20-odd li SW of Khotan (Stein,
+Chavannes, Pelliot, Feng Chengjun), and Huang Wenbi's Shisbir old town, c. 24 km SE of Khotan; the *Xin Tang shu* says
+only that the king lived in the "western mountain city" (王居西山城) (p. 1010).
+**Assessment.** Secure: excavated site, agreement, and consistent distances to the surrounding sites. Huang Wenbi's
+Shisbir (via Ji) is the one rival; it does not fit those distances, and the surviving name Somiya 5–6 li W of Yotkan
+(12.22.08) ties the monasteries, and so the royal city, to Yotkan.

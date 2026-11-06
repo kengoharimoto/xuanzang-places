@@ -17,13 +17,13 @@ Five kinds of evidence were set against him:
 
 **What they show.** 442 of the 480 places have a note (Mizutani's 419 and 61 added ones). The 38 without a note are
 minor sites that have no point either. Against Mizutani's identifications, the evidence:
-- supports his identification for 88 places, 49 of them with high confidence, many with an inscription or seal
+- supports his identification for 95 places, 55 of them with high confidence, many with an inscription or seal
   naming the place;
 - weakens it for 10;
-- supports a different site for 49;
-- offers a candidate no standard authority records for 11.
+- supports a different site for 56;
+- offers a candidate no standard authority records for 12.
 
-On the map the study's confidence comes out as 99 places secure, 177 probable and 97 open. These are the ratings
+On the map the study's confidence comes out as 105 places secure, 166 probable and 102 open. These are the ratings
 after a quality check of 30 notes and an audit of every "high" rating without site evidence (both in `data/notes/`).
 Another 56 minor sites are placed approximately from Xuanzang's own bearing and distance, without an identification
 (`scripts/place_from_text.py`). 51 have no point.
@@ -76,7 +76,13 @@ check.
 - **Mizutani**, 『大唐西域記』 (平凡社 中国古典文学大系 22, 1971). A 488-page scan, OCR'd with Google Vision and
   kept locally because the book is in copyright. His notes are the backbone of the table.
 - **Authorities.** Julien and Vivien de Saint-Martin (1857–58); Cunningham, *Ancient Geography* (1871), in Majumdar
-  Sastri's edition of 1924 (`majumdar`); Beal (1884); Watters (1904–05); Dey (1927).
+  Sastri's edition of 1924 (`majumdar`); Beal (1884); Watters (1904–05); Dey (1927); and 季羨林 et al., *Da Tang Xiyu ji jiaozhu* 大唐西域記校注 (Beijing:
+  Zhonghua, 1985; `ji`). Ji is OCR'd from the user's PDF (Google Vision, `data/ref/ji1985.txt`, blocks `=== pdf NNNN`;
+  printed page = pdf − 172 in the juans), coded for 356 places in `data/coded/auth_ji_*.tsv`
+  (`data/JI_INSTRUCTIONS.md`) and folded into the notes as a "Ji Xianlin et al. (1985)" paragraph
+  (`data/JI_FOLD_INSTRUCTIONS.md`). It brings post-1971 work the other sources lack: Soviet excavations in Central Asia
+  (Belenitskii et al. 1973, Stavisky 1977), Huang Wenbi in Xinjiang, Chinese and Japanese studies (Xiang Da, Zhang
+  Guangda, Uchida 1972, 謝方 1982), Tugusheva's Uighur *Life* (1980) and Srivastava on the Piprahwa sealings (1979).
 - **Archaeological Survey of India, *Reports*,** vols. I–XXIII (1871–87). The volumes are by Cunningham, Beglar,
   Carlleyle and Garrick. Mukherji's Tarai report (1901) is coded the same way.
 - **ASI *Annual Reports*** (1903–37) and the Bengal/Eastern Circle reports. Eight volumes whose Internet Archive text
@@ -251,8 +257,9 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 
 ## Limits
 
-- **Later scholarship.** Mizutani is the 1971 state of the question. Later scholarship, such as 季羨林's 1985
-  commentary, is not in these sources. *Indian Archaeology* is in them up to 2000–01.
+- **Later scholarship.** Mizutani is the 1971 state of the question; Ji (1985) brings it to about 1980. Work since then
+  is not in these sources, and post-1971 work that Ji cites (e.g. Ahmed on Mahasthan, Belenitskii) is known only
+  through him. *Indian Archaeology* is in them up to 2000–01.
 - **OCR.** Quotes match the OCR verbatim, errors included.
 - **Index coverage.** The indexes miss arguments that use neither the pilgrim's name, a listed site, nor a listed
   Sanskrit name. The known gaps are in `data/FOLLOWUPS.md`.

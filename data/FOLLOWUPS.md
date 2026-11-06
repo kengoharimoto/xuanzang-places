@@ -103,6 +103,21 @@
     places they don't concern. 11.12's EI passage (Sircar, EI 34) is counted but its evidence is empty.
   - Small slips: 04.01.x4's note should say three days (經三日), not two; Cunningham's "4 miles NE of Ohind" for
     02.04.19 conflicts with the text's NW; Mizutani's quotes carry OCR errors (e.g. 12.16).
+- **From Ji Xianlin et al. (1985), to obtain or read** (cited by Ji, not in these sources): Srivastava,
+  "Kapilavastu and its precise location", *East and West* 29 (1979) 61–74; N. Ahmed's Mahasthan report (Bhasu Vihar,
+  10.04.02, raised to high on Ji's report alone); B. P. Sinha, *Archaeology and Art of India* (1979); Belenitskii et al.,
+  *Srednevekovyi gorod Srednei Azii* (1973), for Khanabad (01.08), which could not be placed; Stavisky, *Kushanskaya
+  Baktriya* (1977); 内田吟風 1972; 謝方, 南亞研究 1982/2; Tugusheva 1980 (Uighur *Life*); Huang Wenbi on Zanguya
+  (12.22.06) and Shisbir (12.22a).
+- **Ji's slips noted by the folding agents** (recorded in the notes where they matter): Benares on the left bank (07.01);
+  Altekar's relic stūpa on the wrong monument (07.03.03/04); Nigali Sagar taken for Lumbinī's pillar (06.02); 黑嶺 =
+  Hindu Kush against his own p. 137 (01.04a); Bunjikath = Panjikent (01.11); the eastern Ṭālaqān (01.35); Kalsi's
+  coordinates for Sugh (04.09); Kashipur's lat/lon transposed (04.12); "B. C. Law wrote NE for SE" (10.12; Sirpur is
+  ENE of Raipur); Jaugada on the Chilka (10.10); Cunningham credited with Jammu (11.17); Vaibhāra/Vipula
+  self-contradiction (09.02.11, pp. 719/730). Coding fixes applied: 01.07.03 Klyashtornyi (not Kyzlasov); 01.38.01
+  Ji names the hill, not Shotorak, as the site; 01.25 Stavisky's title.
+- **07.01.02**: the note's summary of Mizutani dates the riot that destroyed the Lat Bhairon pillar to 1908; the riot was
+  in 1809. Check Mizutani's own wording.
 - **Resolved 2026-11-07**:
   - Foucher's Rāhula passage (01.38.02), lost in the Toyo Bunko OCR, was recovered by a Vision re-OCR of V-1 pdf 0151.
     It confirms Kâfir-Qaleh, though Foucher writes "Sud-Ouest" where the text has 東南.

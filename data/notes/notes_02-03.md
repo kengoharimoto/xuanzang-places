@@ -72,6 +72,9 @@ referring to Watters. That concerns the name only, not the site.
 
 **Foucher (1942–47).** Agrees; for the city see 02.03.01a (I, p. 152).
 
+**Ji Xianlin et al. (1985).** Ji agrees: the Jalalabad region on the S bank of the Kabul river, from the Jagdalak pass
+to the Khyber (p. 221).
+
 **Assessment.** Every authority agrees. Mizutani's "uncertain" reflects his hedged phrasing rather than any
 competing site.
 
@@ -90,6 +93,9 @@ of Jalalabad without choosing.
 (Hi-lo) and the shadow cave at the Syāh-sang gap: together they put it "dans la banlieue Sud-Ouest de la ville
 actuelle, là même où la tradition locale conserve le souvenir d'un ancien « Bégrâm »", not at Simpson's confluence
 site (I, p. 152). He gives the result as provisional.
+
+**Ji Xianlin et al. (1985).** Ji reports Cunningham's Dasht-i-Begram, c. 2 miles SW of Jalalabad, and Simpson's
+tableland a little W of it at the Kabul–Surkhab confluence, and chooses neither (p. 221).
 
 **Assessment.** The authorities split between Begram (Cunningham, Vivien, Mizutani) and Simpson's junction site (Beal,
 Watters). Foucher's argument from Hadda and the shadow cave, both secure, favours Begram, though nothing has been dug
@@ -123,6 +129,9 @@ perhaps Gunda Chismeh.
 **Foucher (1942–47).** Faxian, Songyun and Xuanzang lead "de façon sûre" to the Syāh-sang gap S of Chahār-bāgh. The
 cave itself is lost in the collapsing conglomerate, but half a dozen monasteries and twice as many stūpas lie within
 500 m (I, p. 152).
+
+**Ji Xianlin et al. (1985).** Ji agrees: among the black rock hills S of Chahār-bāgh, in the cliffs S of Jalalabad,
+after Higuchi (p. 227).
 
 **Assessment.** Watters, Higuchi and Foucher put the cave in the same range of hills south-west of the city, and
 Foucher's count of monasteries and stūpas round the Syāh-sang gap marks the holy place. None can point to the cave
@@ -231,6 +240,9 @@ distance from Peshawar and Ptolemy's Peukelaotis.
 
 **Foucher (1942–47).** Agrees with Cunningham: Prang, Chārsadda and Rājar at the old Swat confluence (I, p. 42).
 
+**Ji Xianlin et al. (1985).** Ji agrees: Charsadda, 17 miles NE of Peshawar, on the E bank of the Swat a little above
+its junction with the Kabul river (p. 251).
+
 **Assessment.** Garrick's survey adds field evidence to Cunningham's reckoning, and the Palatu Dheri excavation
 (behind Majumdar's "certain after excavation") shows Buddhist remains among the villages. Vivien's Nisatta, made
 before the survey, no longer competes. Mizutani is strengthened.
@@ -287,6 +299,8 @@ in the town.
 road from Puṣkarāvatī by Hoti-Mardān, which kept to the irrigated plain; this explains the arc
 Puruṣapura–Puṣkarāvatī–Po-lu-sha–Udabhāṇḍa (I, p. 42).
 
+**Ji Xianlin et al. (1985).** Ji agrees: Shahbaz Garhi, 65 km ENE of Peshawar, after Foucher and Dani (p. 257).
+
 **Assessment.** Palodheri was Cunningham's view of 1863–64, carried into the *Ancient Geography*; he had moved to
 Shahbaz Garhi by 1872–73. The Annual Reports repeat Shahbaz Garhi without new evidence. Mizutani stands.
 
@@ -329,6 +343,9 @@ novice. 濕婆 is the usual transcription of Śiva: a Śaiva shrine inside the B
 **Nagasawa.** Nagasawa (東洋文庫 法顕伝・宋雲行紀) already translates Songyun's 濕婆仙 as Śiva (p. 192) and suggests that 除灰 is an
 error for 塗灰, the ash-smearing worshippers of Śiva (p. 201). He also notes that the jātaka's king of 葉波國 is called 湿波
 (p. 200), which leaves a small doubt whether the stūpa-guarding 濕婆仙 is the god.
+
+**Ji Xianlin et al. (1985).** Ji agrees: the Mekha-Sanda hill NE of Shahbaz Garhi (p. 259). He does not mention the
+Kyoto excavations.
 
 **Assessment.** Cunningham's Kashmir Smast was fixed from Palodheri, which he gave up, and lies far from Shahbaz
 Garhi. Majumdar's cave and Mizutani's Mekha-Sanda both sit in the hills NE of Shahbaz Garhi, fitting the text's "20
@@ -411,6 +428,8 @@ Utakhanda of the Chinese Buddhist pilgrims") and add nothing.
 **Foucher (1942–47).** Und, the traditional Indus crossing above Attock (Udakabhāṇḍa, al-Bīrūnī's Wayhand, Ohind),
 where Xuanzang crossed both ways and the king of Kapiśa wintered (I, p. 40; II, p. 230).
 
+**Ji Xianlin et al. (1985).** Ji agrees: Ohind, NE of the Kabul–Indus confluence, 16 miles above Attock (p. 261).
+
 **Assessment.** The name runs unbroken from Udabhāṇḍa to Hund, and the remains and coins show a large town in use
 from the Indo-Greeks to the Shahis whose extent fits the 20 li circuit. Nothing found names it, but Watters' doubt
 has no evidence behind it. Mizutani is strengthened.
@@ -427,6 +446,10 @@ capital".
 
 **Route test (the Life).** On the Life's figures, the best-fitting combination for juan 3 takes Manglaor (Manglawar)
 (Cunningham 1871; Stein; Watters 1904; Majumdar 1924; Dey 1927) here, not Mizutani's Mingora (route/README.md §7).
+
+**Ji Xianlin et al. (1985).** Ji takes Mingora, c. 5 miles SW of Manglaor, after the Italian mission, whose
+excavations exposed the remains of a city and of monasteries; he reports Cunningham, Hori and Stein for Manglaor (p.
+273). He cites no report or date, so this adds nothing to Mizutani's own source.
 
 **Assessment.** Mizutani rests on the Italian excavations around Mingora and Butkara. The older authorities rest on
 the name Manglaor and on Stein. Both places lie in the same stretch of the Swat valley, 5 miles apart, and nothing
@@ -459,6 +482,10 @@ south-west of the spring.
 
 **Gazetteers.** None.
 
+**Ji Xianlin et al. (1985).** Ji gives Deane's Kalam in Swat Kohistan, at the confluence of the Utrot and Ushu
+streams, taken from Watters (I, p. 229) and reached from Xuanzang's distance and bearing (p. 276). This is the view
+the note already records.
+
 **Assessment.** The inscribed stone fixes the reference point. Apalāla's spring should lie some 30 li upstream
 (north-east) of Tirath, in the direction of Kalam, where Deane and those who follow him put it. These files do not
 give the Tirath–Kalam distance, so whether the spring is at Kalam itself or short of it is open. Mizutani doubts
@@ -479,6 +506,11 @@ about Aornos; he did not visit the hill.
 Mahaban mountain (Buner) (Cunningham 1871; Cunningham ASR II) here, not Mizutani's Shinasi stupa at Kukrai, on the way
 to Ilam (route/README.md §6). The figures are one kind of evidence; see the assessment.
 
+**Ji Xianlin et al. (1985).** Ji gives no site of his own. He reports Deane, who put the monastery at the W or NW foot
+of Mahaban, where remains survive on the lower slopes and the upper part of the hill, and Stein, who judged Mahaban
+too far from Xuanzang's figures and proposed Pinjkotai in Sunigram (pp. 280–281). He does not mention Mizuno's
+Shināsi. Deane's remains give Mahaban more than its name, but Stein's objection from the distance stands against it.
+
 **Assessment.** There are three candidates and no decisive evidence among them. Cunningham's Mahaban rests on the
 name alone, and Stein's Pinjkotai is a field identification reported only at second hand (Dey). Mizutani's
 tentative view stands, with low confidence.
@@ -494,6 +526,9 @@ described.
 
 **Gazetteers.** None.
 
+**Ji Xianlin et al. (1985).** Ji discusses only the name: Watters and Hori take mayū for mayūkha 'light', Julien reads
+masūra 'lentil' to fit the gloss 唐言豆 (pp. 281–282). He gives no site.
+
 **Assessment.** Each candidate depends on where its proponent puts Mahāvana (03.01.06): Cunningham measures from
 Mahaban, Mizuno from Shināsi. The question cannot be settled from these sources.
 
@@ -503,6 +538,9 @@ Mahaban, Mizuno from Shināsi. The question cannot be settled from these sources
 valley, which he takes to be Faxian's Su-ho-to. Beal gives no site.
 
 **Gazetteers.** None.
+
+**Ji Xianlin et al. (1985).** Ji gives no site; he restores Śivika/Sibika and cites Faxian's Suhetuo (宿呵多) country for
+the dove jātaka (p. 283).
 
 **Assessment.** Cunningham's placement follows from his Mahaban chain (03.01.06–07), not from a found monument. The
 stūpa remains unlocated.
@@ -514,6 +552,9 @@ JRAS 1896 (uncertain). Beal and Watters give no site.
 
 **Gazetteers.** None.
 
+**Ji Xianlin et al. (1985).** Ji agrees: the large stūpa still called Suma in the Adinzai valley, after Deane (p.
+285).
+
 **Assessment.** Deane's survival of the name is the only evidence, and nothing here contradicts it. Mizutani
 stands, with low-to-medium confidence.
 
@@ -524,6 +565,8 @@ stands, with low-to-medium confidence.
 
 **Gazetteers.** None.
 
+**Ji Xianlin et al. (1985).** Ji agrees: the stūpa said still to stand at the village of Hazara (p. 287).
+
 **Assessment.** The only evidence is Deane's report, and nothing here contradicts it. Mizutani stands, with low
 confidence.
 
@@ -533,6 +576,8 @@ confidence.
 calls that doubtful. Beal gives no site.
 
 **Gazetteers.** None.
+
+**Ji Xianlin et al. (1985).** Ji gives the name (adbhuta, 'marvellous') and no site (p. 288).
 
 **Assessment.** The stūpa is unlocated. The dispute is over whether Deane's monument is the right one, and these
 sources cannot decide it.
@@ -553,6 +598,9 @@ is a large lake (after Deane, in Watters) (uncertain). Vivien (p. 315): the moun
 between the Chitral river and the Tal valley, 450 li NE of Manglavor. Beal and Watters give no site of their own.
 
 **Gazetteers.** None.
+
+**Ji Xianlin et al. (1985).** Ji agrees: the head of the Aushiri valley near Darora, draining to the Panjkora, with a
+lake a mile long, after Deane, who doubted how Xuanzang measured the distance (p. 290).
 
 **Assessment.** Deane's lake matches the dragon-lake story. Vivien's Laspur is a map reckoning. The gazetteers do
 not touch the question, so Mizutani stands, with low confidence.
@@ -583,6 +631,9 @@ Aśoka's Takkhasilā for Shahdheri, after Cunningham.
 pilgrims' measurements and the copper plate. Punjab 1919 adds nothing.
 
 **Foucher (1942–47).** Three successive Taxilas, after Marshall (I, pp. 42–3); see 03.03.01a.
+
+**Ji Xianlin et al. (1985).** Ji agrees: the excavated ruins between the Indus and the Jhelum, c. 20 miles NW of
+Rawalpindi; he reports Cunningham's Shahdheri, Hügel's Rawalpindi and V. Smith's Hasan Abdal (pp. 301–302).
 
 **Assessment.** Four inscriptions found on the site, of the 1st century BC to 1st century AD, name Takṣaśilā: the
 Patika plate, the Sihila vase, the Mahal ladles and the Dharmarājikā scroll. They put Cunningham's and Mizutani's
@@ -644,6 +695,8 @@ the ruined stupas is the right one".
 **Foucher (1942–47).** Calls the stūpa "non encore identifiée"; he meant to look for it in December 1918 but was
 prevented (I, p. 156). He does not take up Cunningham's Baoti Pind.
 
+**Ji Xianlin et al. (1985).** Ji agrees: the ruined stūpa on the Baoti Pind ridge (p. 303).
+
 **Assessment.** The survey supplies a specific monument with a stūpa, monastery and relic deposit on Mizutani's
 ridge, which strengthens the identification. It still requires reading E for the text's SE, a point Mizutani passes
 over, and nothing found names the place.
@@ -672,6 +725,8 @@ calls the extant stūpa early medieval.
 fortified Sur-garh hill at Taxila, for the head-gift, reading "head" for "body" in Songyun. The basis is the
 place-name.
 
+**Ji Xianlin et al. (1985).** Ji agrees: the Bhallar stūpa at the W end of Sarda hill, 8 miles N of Taxila (p. 304).
+
 **Assessment.** Cunningham's 12–13 li N is measured from the Bir mound; from Sirsukh, which lies at the NE corner of
 Babar-khana on his own plan, the Jhandiala stūpa is not to the north. Marshall's dating objection decides nothing,
 since by his own account Bhalar is no older and the "Aśoka" is legend either way. With Sirsukh as the city
@@ -698,6 +753,10 @@ stūpa of Aśoka, who built the Kunāla stūpa; Konow allows relics of the Buddh
 scroll does not mention Kunāla.
 
 **Gazetteers.** Rawalpindi 1883 and 1895 quote ASR II on Karmal; the topes had been "opened by the villagers".
+
+**Ji Xianlin et al. (1985).** Ji reports Marshall's Kunāla stūpa on the Hathiāl ridge running NE from Sirkap, beside
+the Kunāla monastery (Guide, pp. 150–151), but notes that its bearing differs from Faxian's and Xuanzang's and leaves
+the identification undecided (p. 307). This is the note's own doubt, reached without Yamamoto's argument from Sirsukh.
 
 **Assessment.** The survey's two sites, measured from the Bir mound, yielded nothing (Karmal) or need the bearing
 altered (Meri). Marshall's site has a large stūpa with an older core, but from Sirsukh, Mizutani's own capital, the
@@ -731,10 +790,18 @@ its place, and was found far to the east.
 **Route test (the Life).** On the Life's figures, the best-fitting combination for juan 3 takes Sangohi, 10 mi SW of
 Jhelum (Vivien 1858) here, not Mizutani's Ketas (Katas Raj), Salt Range (route/README.md §7).
 
+**Ji Xianlin et al. (1985).** Ji accepts Cunningham's Ketās (32°43′N 72°59′E) and rejects St. Martin's Sangohi, a town
+in the plain that does not fit 依山據嶺 (pp. 313–314). He argues that Xuanzang did not go there: the Life writes 東南七百餘里聞
+("heard of"), the next stage of the Xiyu ji starts again from the northern border of Taxila, which would be a strange
+detour after 700 li to the SE, and the Jaina passage reads as hearsay (03.04.x1). He puts the distance mismatch down
+to this. The Life does read 聞 (T50:0231a), but 復還 by itself would fit a return from a detour just as well.
+
 **Assessment.** The country is the Salt Range round Ketas and Malot, 9 miles apart, on every view; the praśasti
 confirms the dynasty but not its location. Watters' "abandoned" refers to ASR V's Malot. Stein's later fieldwork
 answers both Watters and Malot, so Mizutani's Ketas is strengthened, though Mizutani cites neither Stein nor
-Cunningham's reports.
+Cunningham's reports. The Life's 聞 (Ji) marks the country as known by report, so its 700 li and bearing are
+second-hand figures; that weakens arguments from the distance, Cunningham's march to Malot in ASR V among them, more
+than it weakens Stein's remains at Ketas.
 
 ### 03.04.01a 僧訶補羅國大都城 — the plain N of Ketas (Stein), Malot (Cunningham, ASR), or the Kotera fort (Ancient Geography)
 
@@ -754,10 +821,15 @@ further north, to be the site of the ancient town", 40–50 li NW of the Jaina t
 is 4½ miles, so "the discrepancy is not great". The forts on the surrounding hills are cited as proof of more than
 a pilgrimage site.
 
-**Assessment.** Kotera is the weakest of the three: Cunningham himself abandoned it, and it needs an emendation.
-Stein's plain and Cunningham's Malot both keep the text's 40–50 li, each measured to a different stone stūpa
-(03.04.03). Malot fits the "high mountain"; Stein's city fits his excavated Murti. Stein's is the later,
-field-based view, but the choice is open.
+**Ji Xianlin et al. (1985).** Ji accepts Cunningham's Kotera provisionally, as "at least one view" until a better site
+is found, while noting that its ruins are only 3,500 ft (¾ mile) round against the text's 14–15 li (p. 314). He gives
+its distance from the Ketās pool as c. 12 miles, which cannot be right for a fort that, as he says himself, overlooks
+the pool.
+
+**Assessment.** Kotera is the weakest of the three: Cunningham himself abandoned it, it needs an emendation, and its
+ruins, 3,500 ft round by Ji's figure, are far short of the 14–15 li. Stein's plain and Cunningham's Malot both keep
+the text's 40–50 li, each measured to a different stone stūpa (03.04.03). Malot fits the "high mountain"; Stein's city
+fits his excavated Murti. Stein's is the later, field-based view, but the choice is open.
 
 ### 03.04.02 僧訶補羅城南窣堵波 — the Aśoka stūpa S of the city: the basement before the Sat-Ghara temples, read as a stūpa or as Cunningham's Jaina temple
 
@@ -849,6 +921,10 @@ located monument.
 
 **Gazetteers.** Rawalpindi 1883 and 1895 treat Manikiala as a whole without singling out this stūpa.
 
+**Ji Xianlin et al. (1985).** Ji reports only Cunningham's Manikyāla stūpa, which he calls an Aśokan Gandhāran
+building of the 3rd century BC (p. 318), without Cunningham's own earlier objection or the reversed bearing. This adds
+nothing.
+
 **Assessment.** The survey's two proposals contradict each other, and the later one needs the bearing reversed. The
 stūpa stands or falls with 03.04.05. If the site is Banj, Konow's reading makes it possible that the Vajra-stūpa was
 this one, but no remains north of the sanctuary are described in these sources, so the stūpa is unlocated.
@@ -887,6 +963,13 @@ teachers". The script is pre-Kaniṣka; Stein reports Bedadi as an old site with
 **Gazetteers.** Punjab 1919 names "the Urash plain" only as a Kashmir feudatory. No Hazara gazetteer appears among
 the hits, although Hargreaves quotes one for Mangali.
 
+**Ji Xianlin et al. (1985).** Ji prefers Swynnerton's Hazara with its capital at Haripur (IA XX, p. 336) to
+Cunningham's Rash in Dhantawar NW of Muzaffarabad, because Cunningham's site lies NE, not SE, of Taxila; he rejects
+St. Martin's emendation to 東北, since the Life and the Fangzhi also read 東南 (p. 320). The text, however, measures the
+500 li SE from the isolated hill E of the body-offering site (03.04.07), not from Taxila. From the Mahaban–Banj area
+(03.04.05) Haripur and Mangali both lie roughly SE and Rash lies E to NE, so Ji's conclusion against Rash holds on the
+corrected reading. He does not know Hargreaves' Mangali or the Bedadi ladle, and adds no evidence for Haripur.
+
 **Assessment.** The country, agreed by all, is now attested by an inscription naming the Uraśa kingdom, found (by
 report) in the Siran valley of Hazara; a portable ladle cannot fix the capital. Cunningham's Mangali has a site of
 the right size and two Kushan Buddhist foundations near the right place, though the bearing is off and the remains
@@ -919,6 +1002,10 @@ gazetteers add nothing.
 
 **Gazetteers.** None.
 
+**Ji Xianlin et al. (1985).** Ji says that excavation in 1914 put the site at Avantipur, citing Fergusson's History of
+Indian and Eastern Architecture (I, pp. 264 ff.) (p. 343). He names no Buddhist remains from it and no excavation
+report, so the claim adds no site evidence to Mizutani's reckoning by distance.
+
 **Assessment.** This is a reckoning only, and nothing here confirms or contradicts it.
 
 ### 03.06.09 索建地羅論師小伽藍 — Skandhila's monastery: reckoned SE of Srinagar, no remains
@@ -936,6 +1023,9 @@ distance with "no archaeological report" (uncertain). Beal gives no site.
 200 li NW of the capital. Beal (doubtfully restoring Vikrītavana) and Watters give no site.
 
 **Gazetteers.** None.
+
+**Ji Xianlin et al. (1985).** Ji reports Julien's reading 買林 (Vikrītavana), followed by Beal, and Watters' "merchants'
+wood", and leaves both name and site undecided (p. 346).
 
 **Assessment.** The monastery is unlocated.
 

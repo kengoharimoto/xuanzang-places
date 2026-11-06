@@ -3,27 +3,27 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 01.01b	secure	Mizutani	30.05	70.65	district	Indus river (label point near Dera Ghazi Khan)	high	none		Indus river
 01.01c	secure	Mizutani	37.25	67.3	district	Amu Darya (Oxus) (label point near Termez)	high	none		Amu Darya (Oxus)
 01.01d	probable	Mizutani	38.4	77.2	district	Yarkand river (label point near Yarkand)	medium	none		Yarkand river
-01.01e	open	Mizutani	31.067	81.312	site	Mount Kailash, Tibet	low	none		Mount Kailāsa (cosmological equation)
+01.01e	open	Mizutani	31.067	81.312	site	Mount Kailash, Tibet	low	alternative	yes	cosmological: Mount Kailāsa (Mizutani) or the Pamirs (Ji 1985)
 01.01f	open	Mizutani	34.79	99.46	district	Amne Machin range, Qinghai	low	none		Amne Machin range (upper Yellow River)
 01.04a	probable	Mizutani	34.7	68.0	district	Range across central Afghanistan (Koh-i-Baba / Hindu Kush junction)	medium	none		Non-snowy ranges between Bamiyan and Kapiśa (Siah-koh)
 01.04b	secure	Mizutani	42.85	89.53	site	Kara-khoja (Gaochang ruins), Turfan, Xinjiang	high	none		Kara-khoja (Turfan oasis)
 01.05	probable	Mizutani	42.06	86.57	district	Karashahr region, Xinjiang	medium	none		Karashahr oasis
-01.05a	open	Mizutani	42.02	86.58	site	Bagdad-shahr ruins, south of Karashahr	low	none		Bagdad-shahr S of Karashahr (Stein)
+01.05a	open	Mizutani	42.02	86.58	site	Bagdad-shahr ruins, south of Karashahr	low	alternative	yes	Bagdad-shahr S of Karashahr (Stein), or 4 li E of 四十里城子 (Huang Wenbi, via Ji)
 01.06	probable	Mizutani	41.72	82.96	district	Kucha region, Xinjiang	medium	none		Kucha
 01.06.01	open	Mizutani	41.72	83.1	town	Ruined town slightly E of Kucha	low	none		Slightly E of Kucha (= 荒城)
 01.06.02	secure	Mizutani	41.86	83.04	site	Subashi temple ruins, NNE of Kucha	high	none		Subashi twin ruins on both banks of the river
 01.06.04	probable	Mizutani	41.69	82.7	site	Duldur-Aqur ruin, opposite Kumtura	medium	none		Duldur-Aqur
 01.07	probable	Mizutani	41.17	80.26	district	Aksu region (old Gumo), Xinjiang	medium	none		Aksu region; capital site undecided
-01.07.01	probable	Mizutani	42.03	80.13	district	Tianshan main range N of Aksu (Pik Pobeda / Khan-Tengri)	medium	none		Tianshan N of Aksu; Muzart pass likelier
+01.07.01	open	Mizutani	42.03	80.13	district	Tianshan main range N of Aksu (Pik Pobeda / Khan-Tengri)	medium	alternative	yes	Tianshan N of Aksu; Muzart or Bedel pass (open)
 01.07.02	secure	Mizutani	42.43	77.25	district	Issyk-kul lake, Kyrgyzstan	high	none		Issyk-kul
-01.07.03	probable	Mizutani	42.84	75.29	town	Suyab, near Tokmak, Kyrgyzstan	medium	none		Near Tokmak on the Chu
+01.07.03	secure	study	42.8	75.2	site	Suyab = Ak-Beshim ruins, SW of Tokmak	high	strengthened		Ak-Beshim, 8 km SW of Tokmak (Chu valley)
 01.07.04	probable	Mizutani	39.7	66.5	country	Sogdiana	medium	none		Sogdiana as defined by Xuanzang (Suyab to Kesh)
 01.07.05	probable	Mizutani	42.87	73.18	town	Merke, Kazakhstan	medium	none		Merke
-01.07.06	probable	Mizutani	42.9	71.37	town	Talas ruins near Taraz (Dzhambul), Kazakhstan	medium	none		Near Dzhambul (Aulie-ata) on the Talas
+01.07.06	secure	Mizutani	42.9	71.37	town	Talas ruins near Taraz (Dzhambul), Kazakhstan	high	strengthened		Near Dzhambul (Aulie-ata) on the Talas
 01.07.06a	text	text	42.8785	71.37	from the text	placed from the text: 南 10+ from 01.07.06	low	none		unlocated (10 li S of Talas)
 01.07.07	probable	Mizutani	42.3	69.77	town	Sayram, E of Shymkent, Kazakhstan	medium	none		Sayram
 01.07.08	text	text	41.9953	69.361	from the text	placed from the text: 西南 200+ from 01.07.07	low	none		unidentified
-01.08	probable	Mizutani	41.47	69.58	town	Nujkath = Chirchik (Kosh-kurgan), NE of Tashkent	medium	none		Nujkath = Chichik on the upper Chirchik
+01.08	open	Mizutani	41.47	69.58	town	Nujkath = Chirchik (Kosh-kurgan), NE of Tashkent	low	alternative	yes	Nujkath NE of Tashkent: Chichik (Mizutani) or Khanabad (Belenitskii et al. 1973, via Ji)
 01.09	probable	Mizutani	41.3	69.24	town	Tashkent	medium	none		Tashkent
 01.09a	secure	Mizutani	40.95	68.7	district	Syr Darya (label point near Chinaz)	high	none		Syr Darya
 01.10	probable	Mizutani	40.75	71.8	country	Ferghana valley	medium	none		Ferghana valley
@@ -36,18 +36,18 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 01.15	probable	Mizutani	39.9	66.63	town	Kushaniya, c. 40 km NW of Samarkand	medium	none		Kushāniya (distance from Samarkand uncertain)
 01.16	probable	Mizutani	40.18	65.38	town	Kharghankath (Kalkanata), c. 8-9 km N of Kermine (Navoiy)	medium	none		Kharghānkath, Kalkanata near Kermine
 01.17	probable	Mizutani	39.77	64.42	town	Bukhara	medium	none		Bukhara
-01.18	open	Mizutani	39.08	63.58	town	Near Chardzhou (Türkmenabat) on the Amu Darya	low	none		name unknown; Oxus crossing near Chardzhou (Betik)
+01.18	probable	Mizutani	39.08	63.58	town	Near Chardzhou (Türkmenabat) on the Amu Darya	medium	strengthened		Betik (Bitik) on the Amu Darya opposite Chardzhou
 01.19	probable	Mizutani	41.55	60.63	country	Khwarizm, lower Amu Darya	medium	none		Khwarizm (lower Oxus)
 01.20	probable	Mizutani	39.06	66.83	town	Shahrisabz (Kesh), Uzbekistan	medium	none		Shahr-i-sabz (Kesh)
 01.20.01	secure	Mizutani	38.27	66.88	site	Iron Gate defile (Buzgala), W of Derbent, Surkhandarya	high	none		Buzgala defile W of Derbent
 01.20.02	probable	Mizutani	36.8	68.5	country	Tukhara (northern Afghanistan)	medium	none		Tokharistan (extent varies)
-01.21	probable	Mizutani	37.28	67.2	town	Termez	medium	none		Termez
+01.21	secure	Mizutani	37.28	67.2	town	Termez	high	strengthened		Termez
 01.22	probable	Mizutani	38.27	67.9	town	Denau, Surkhandarya	medium	none		Denau (upper Surkhan)
 01.23	probable	Mizutani	38.43	68.34	district	Between Denau and Dushanbe	medium	none		Between Denau and Dushanbe
 01.24	probable	Mizutani	38.56	68.77	town	Dushanbe	medium	none		Shuman (Dushanbe)
-01.25	probable	Mizutani	37.41	68.18	town	Kabadian (Qabodiyon), Tajikistan	medium	none		Kabadian
+01.25	probable	Mizutani	37.41	68.18	town	Kabadian (Qabodiyon), Tajikistan	medium	strengthened		Kabadian
 01.26	probable	Mizutani	37.84	68.78	district	Wakhsh valley, Kurgan-tyube (Bokhtar) plain	medium	none		Wakhsh valley (Kurgan-tyube)
-01.27	probable	Mizutani	37.8	69.6	town	Khuttal; capital Hulbuk (Kurbanshaid), Tajikistan	medium	none		Khuttal; capital Hulbuk (Mizutani only)
+01.27	open	Mizutani	37.8	69.6	town	Khuttal; capital Hulbuk (Kurbanshaid), Tajikistan	medium	alternative	yes	Khuttal; capital Hulbuk (Mizutani) or Kulab (Ji)
 01.28	probable	Mizutani	38.46	70.79	town	Darwaz; capital Kala-i-khum (Qalai Khumb)	medium	none		Darwaz (or Rasht valley)
 01.28a	probable	Mizutani	36.73	68.86	town	Kunduz	medium	none		Kunduz
 01.29	probable	Mizutani	36.13	68.7	town	Baghlan, Afghanistan	medium	none		Baghlan
@@ -354,14 +354,14 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 10.03	probable	Mizutani	25.05	87.84	town	Rajmahal	medium	none		Rajmahal district (Kankjol)
 10.03.01a	unlocated						low	alternative		Teliagarhi (Cunningham, ASR)
 10.04	secure	Mizutani	24.96	89.34	site	Mahasthangarh, Bogra	high	strengthened		capital Mahasthan
-10.04.02	probable	Mizutani	24.99	89.29	site	Vasu-Bihar, NW of Mahasthan	medium	strengthened		Bhasu (Vasu) Bihar, 4 miles W of Mahasthan
+10.04.02	secure	Mizutani	24.99	89.29	site	Vasu-Bihar, NW of Mahasthan	high	strengthened		Bhasu (Vasu) Bihar, 4 miles W of Mahasthan
 10.05	probable	Mizutani	26.18	91.75	town	Guwahati	medium	none		W Assam, capital Gauhati; great river crossed = Karatoya
 10.05.x1	text	text	26.1639	93.9054	from the text	placed from the text: 東行九百餘里 (from 10.05)				Gait: the old Karatoyā at Mahasthan (W boundary of Kāmarūpa); common view (see Mizutani 10.05): the Brahmaputra
 10.06	probable	Mizutani	23.43	91.0	town	Bad-Kamta (Barkamta), W of Comilla	medium	strengthened		country E of the old Brahmaputra (Tippera, Noakhali, Sylhet, E Dacca); capital Bad-Kamta near Comilla (Bhattasali)
 10.06.02a	probable	Mizutani	18.81	95.29	site	Sri Ksetra (Thare Khettara), near Pyay, Burma	medium	strengthened		Sriksetra at Hmawza near Prome
-10.06.02b	probable	Mizutani	17.33	96.48	district	Pegu and the Irrawaddy delta	medium	none		Pegu and Irrawaddy delta
+10.06.02b	open	Mizutani	17.33	96.48	district	Pegu and the Irrawaddy delta	low	alternative	yes	Pegu and Irrawaddy delta, or Langkasuka (Malay Peninsula) if = 狼牙修/郎迦戍
 10.06.02c	probable	Mizutani	14.35	100.57	town	Ayutthaya, Thailand	medium	none		Dvaravati (Siam)
-10.06.02d	probable	Mizutani	12.87	105.04	site	Sambor Prei Kuk, Cambodia	medium	none		Cambodia
+10.06.02d	secure	Mizutani	12.87	105.04	site	Sambor Prei Kuk, Cambodia	high	strengthened		Cambodia
 10.06.02e	secure	Mizutani	15.82	108.24	country	Champa (Simhapura / Tra Kieu), central Vietnam	high	none		Champa
 10.06.02f	open	Mizutani	-7.3	110.0	country	Java	low	none		unidentified (Java possible)
 10.07	secure	Mizutani	22.3	87.92	town	Tamluk	high	strengthened		Tamluk
@@ -381,7 +381,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 10.14	probable	Mizutani	16.57	80.35	town	Dharanikota	medium	strengthened		capital Dharanikota
 10.14.02a	probable	Mizutani	16.575	80.358	site	Amaravati great stupa	medium	strengthened		Amaravati stupa site
 10.14.02b	open	Mizutani	16.573	80.34	site	Dharanikota	low	weakened		on a hill W of the Dharanikota town (unlocated)
-10.14.03	unlocated						low	alternative		isolated rock S of Bezwada (if capital Bezwada)
+10.14.03	unlocated						low	new-candidate		unnamed hill c. 2 mi SE of Amaravati (Takakuwa via Ji), consistent with the Dharanikota capital; isolated rock S of Bezwada only if the capital were Bezwada
 10.15	probable	study	14.47	78.82	district	Telugu Coḷa country, Cuddapah	medium	alternative		Telugu Cola country (Renandu) in Cuddapah, with parts of Kurnool/Anantapur; capital open
 10.16	secure	Mizutani	12.83	79.7	town	Kanchipuram	high	none		Kancipura
 10.17	probable	Mizutani	9.93	78.12	town	Madurai	medium	none		capital near Madurai
@@ -399,11 +399,11 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 11.03	probable	Mizutani	20.0	73.79	district	Nashik area	medium	strengthened		capital Nasik
 11.03.03	secure	Mizutani	20.55	75.7	site	Ajanta caves	high	strengthened		Ajanta caves
 11.04	probable	Mizutani	21.7	72.98	town	Bharuch	medium	none		Broach (Bharuch)
-11.05	probable	study	22.75	72.68	district	central Gujarat SE of the Mahī	medium	alternative		central Gujarat SE of the Mahi (Malavaka-ahara of the Maitrakas); capital undecided
+11.05	open	study	22.75	72.68	district	central Gujarat SE of the Mahī	low	alternative		central Gujarat SE of the Mahi (Malavaka-ahara of the Maitrakas); capital undecided
 11.05.03	text	text	22.7804	72.647	from the text	placed from the text: 大城西北二十餘里 (from 11.05)	low	none		unidentified
 11.06	open	Mizutani	22.6	70.3	district	N coast of the Kathiawar peninsula	low	alternative	yes	open: Vadali (Idar), Cunningham's Vadari/Eder, or Kathiawar
 11.07	unlocated						low	none		undecided (Cutch majority, Kaira)
-11.08	probable	Mizutani	21.87	71.88	town	Vala (Valabhi), near Bhavnagar	medium	none		Vala (Valabhī), near Bhavnagar
+11.08	secure	Mizutani	21.87	71.88	town	Vala (Valabhi), near Bhavnagar	high	strengthened		Vala (Valabhī), near Bhavnagar
 11.09	secure	Mizutani	23.78	72.64	town	Vadnagar	high	strengthened		Vadnagar
 11.10	secure	Mizutani	21.52	70.46	town	Junagadh	high	strengthened		S Kathiawar, capital Junagadh (Girinagara)
 11.10.02	secure	Mizutani	21.495	70.53	site	Mount Girnar	high	strengthened		Mount Girnar
@@ -439,7 +439,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 12.07	probable	Mizutani	37.17	68.9	site	Arhang ferry near Imam Sahib, on the Amu Darya	medium	none		Arhang ferry near Hazrat Imam
 12.08	probable	Mizutani	37.65	70.65	district	Ragh plateau, N Badakhshan	medium	none		Rāgh N of Faizabad
 12.09	probable	Mizutani	36.8	70.1	town	Kishm, Badakhshan	medium	none		Kishm on the Kokcha
-12.10	unlocated						low	none		unidentified (Farkhar weak front-runner)
+12.10	unlocated						low	alternative	yes	unidentified: Parghar N of the Oxus (Markwart, Ji) or Farkhar (Beal), both weak
 12.11	probable	Mizutani	36.9	70.45	district	Darayim, Badakhshan	medium	none		Darāim near the Khwaja Muhammad massif
 12.12	probable	Mizutani	37.0	71.0	country	Badakhshan	medium	none		Badakhshan
 12.12a	probable	Mizutani	37.12	70.58	town	Faizabad, Badakhshan	medium	none		Faizabad (Kokcha valley)
@@ -465,7 +465,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 12.22.03	open	Mizutani	36.89	79.92	site	Chalma-kazan ruins, SSE of Yotkan	low	weakened		Chalma-kazān (on the name only); site open
 12.22.04	probable	Mizutani	36.92	79.75	site	Kohmari hill, SSW of Yotkan	medium	none		Kohmāri Hill
 12.22.05	probable	Mizutani	37.02	79.78	site	Bowa-Kambar ruins, SW of Yotkan	medium	none		Bowa-Kambar ruins
-12.22.06	probable	Mizutani	37.2	79.15	town	Near Pialma, W of Khotan	medium	none		near Piälma W of Khotan
+12.22.06	open	Mizutani	37.2	79.15	town	Near Pialma, W of Khotan	low	alternative	yes	near Piālma (Stein), or Zanguya SE of Pishan (Huang Wenbi, via Ji)
 12.22.07	probable	Mizutani	37.2	79.467	site	Kaptar-Mazar, E of Pialma	medium	none		Kaptar-Mazār
 12.22.08	secure	Mizutani	37.06	79.81	site	Somiya, W of Yotkan	high	none		Somiya
 12.22.09	probable	Mizutani	37.05	79.84	site	Kum-i-Shahidan, SE of Yotkan	medium	none		Kum-i-Shahidān

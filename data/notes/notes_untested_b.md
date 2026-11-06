@@ -5,6 +5,8 @@
 **Identifications.** Mizutani: India as a whole, with the traditional fivefold division (agreed). Cunningham (pp. 11,
 13), Watters (p. 139) and Dey agree.
 **Foucher (1942–47).** Notes that Xuanzang crosses "la frontière de l'Inde du Nord" on entering Lampāka (I, p. 36).
+**Ji Xianlin et al. (1985).** Ji agrees: India in the traditional fivefold (Purāṇic) division, citing Cunningham for
+its half-moon shape (pp. 164–165).
 **Assessment.** A general description, not a site; the authorities agree and nothing here bears on it. Mizutani
 stands (medium).
 
@@ -19,6 +21,8 @@ passing. Route test: Kapiśa to Laghman 95 km for "600+ li E" (predicted 143 km)
 **Foucher (1942–47).** Laghmān. He rode the old direct road from Kāpiśī SE by Nijrao, Tagao and the Bādpash pass (c.
 1,600 m) in October 1925, with stūpas along it and a marble liṅga at Tagao; this road, not one through Kabul, is
 Xuanzang's (I, pp. 34, 36).
+**Ji Xianlin et al. (1985).** Ji agrees: Laghman, on the N bank of the Kabul river between the Alingar and the Kunar
+(p. 219).
 **Assessment.** Name, position between Kapiśa and Nagarahāra, and route agree; there is no site evidence. Mizutani
 stands with medium confidence.
 
@@ -31,6 +35,8 @@ Masson's jar with an ink Kharoṣṭhī inscription from one of the Hidda stūpa
 (predicted 7 km). The Life (T50:0229b) calls it the city of the Buddha's skull bone, 10+ li SE over a sand ridge.
 **Foucher (1942–47).** Hi-lo is Hadda "sans contestation possible", 7–8 km S of Jalalabad; his trial excavation of
 1923 in a quadrangle by the Teppeh-Kalān found small stūpas and stucco sculpture (I, pp. 152–3).
+**Ji Xianlin et al. (1985).** Ji agrees: Hadda, c. 5 miles S of Jalalabad, from haḍḍa "bone", after Cunningham, with
+the French excavations in support (p. 230).
 **Assessment.** The name (Haḍḍa/Hidda), the distance and a large excavated Buddhist site agree, and no one proposes
 another place. Secure.
 
@@ -43,6 +49,9 @@ boundaries.
 the Khaibar hills to Laghman and Kohat–Bannu. Stein (AR 1911–12, p. 99) finds no Xuanzang site at Sahri-Bahlol, which
 concerns sites, not the country. The capital's great stūpa is fixed by Kaniṣka's inscribed casket at
 Shāh-ji-ki-Dheri (see 02.04.03). Route test: Hadda to Gandhāra 144 km for "500+ li SE" (predicted 120 km).
+**Ji Xianlin et al. (1985).** Ji agrees on the Kabul-river basin between the Kunar and the Indus, but adds the
+Rawalpindi district (p. 234). For Xuanzang's time that is too wide: the text treats Takṣaśilā, in the Rawalpindi
+district, as a separate country subject to Kashmir (03.03).
 **Assessment.** Agreement, the inscribed casket at the capital and the route make it secure.
 
 ### 02.04.01a 布路沙布邏 (puruṣapura) — Peshawar; name and the Kaniṣka stūpa settle it
@@ -54,6 +63,7 @@ Beal (p. 97), Watters (p. 200), Majumdar (p. 678: "now certain; excavated") and 
 outside the Ganj Gate (02.04.03), anchors the city. Pargiter (EI 12, p. 302) takes Peshawar as the capital in passing.
 **Foucher (1942–47).** Agrees: the old city lies under Peshawar City, which "ne nous a pas semblé avoir changé de
 place", reached from the Khyber by Takkal (I, p. 44).
+**Ji Xianlin et al. (1985).** Ji agrees: the NW part of Peshawar city, on the S side of the Kabul river (p. 235).
 **Assessment.** Continuous name and an inscription at the city's chief monument. Secure.
 
 ### 02.04.14b 跋虜沙城東門外窣堵波 — But Shahri E of Shahbaz Garhi (Foucher); a single proposal
@@ -71,6 +81,7 @@ miles NE of Ohind; Beal (p. 114) and Dey: NW of Ohind; Vivien (p. 312): c. 20 li
 Śalātura. The text says NW; Cunningham's "NE" is not discussed (the ASR coder flags it). Route test on the coordinates
 used here: 6.8 km at 289° from Hund for "20+ li NW" (predicted 4.8 km, 26° off), so the site lies W–NW, as the
 text and Beal have it.
+**Ji Xianlin et al. (1985).** Ji agrees: Lahor (Lavor) near Ohind, after Cunningham (p. 263).
 **Assessment.** Name, coins and distance agree; there is no inscription or monument. Mizutani stands (medium).
 
 ### 03.01 烏仗那國 (uḍḍiyāna) — the Swat valley; its sites are confirmed on the ground
@@ -80,6 +91,7 @@ text and Beal have it.
 **Evidence.** The Life (T50:0230b) puts the country along the Suvāstu (Swat). Himalayan Districts II (1884) repeats
 Beal. Sites within it are confirmed on the ground: the inscribed footprint stone at Tirat (03.01.04) and Mount Ilam
 (03.01.05). Route test: Hund to Swat 99 km for "600+ li N" (predicted 143 km), 2° off.
+**Ji Xianlin et al. (1985).** Ji agrees: the Swat country, taking in Panjkora, Bajaur, Swat and Buner (p. 271).
 **Assessment.** Agreement, the river name and inscribed site evidence inside the country. Secure.
 
 ### 03.01.01b 蘇婆伐窣堵河 (subhavastu) — the Swat river; name continuity
@@ -88,6 +100,7 @@ Beal. Sites within it are confirmed on the ground: the inscribed footprint stone
 (p. 120), Watters (p. 223) and Dey agree.
 **Evidence.** The name runs from Suvāstu/Soastos to Swat. The Life writes 蘇婆薩堵 (Suvāstu) and calls Apalāla's
 spring its source (03.01.03).
+**Ji Xianlin et al. (1985).** Ji agrees: the Swat river, the Greeks' Soastos (p. 272).
 **Assessment.** Name and agreement; no one dissents. Mizutani stands (medium).
 
 ### 03.01.04 如來足迹石 — the footprint stone at Tirat; an inscription says the footprints are the Buddha's
@@ -97,6 +110,8 @@ spring its source (03.01.03).
 **Evidence.** Stein (AR 1925–26, p. 161) found the stone with "a short Kharoṣṭhī inscription" saying the footprints
 are the Buddha's. Konow (CII 2.1, p. 8) edits the 11-letter inscription (c. mid-1st c. BC) on Deane's boulder and
 checks Xuanzang's 30 li SW of Apalāla's spring at Kalam. The Life (T50:0230b) gives the same position.
+**Ji Xianlin et al. (1985).** Ji agrees: Tirat village on the W bank of the upper Swat; the stone is 1 m high and 0.87
+m wide, with the Kharoṣṭhī label read by Konow (p. 277).
 **Assessment.** An inscribed monument matching the description, in the right place. Secure.
 
 ### 03.01.04a 如來濯衣石 — the robe-washing rock downstream of Tirat (Stein)
@@ -116,6 +131,11 @@ none.
 **Evidence.** Stein climbed it in 1926 (AR 1925–26, p. 163): still a place of Hindu and Muslim worship, with flat
 rocks below the summit; first conjectured by Foucher. Route test: 19 km from Mingora for "400+ li S" (predicted
 96 km), z −3.3, 35° off; Manglaor, the rival capital (03.01.01a), is no better.
+**Ji Xianlin et al. (1985).** Ji doubts Ilām, which fits Xuanzang's distance badly (p. 279). He mentions the view that
+the name means "bone" (haḍḍa) and points to Songyun's mountain with the 收骨寺, eight days SE of the royal city (Luoyang
+qielan ji 5), whose distance and setting roughly match, but finds the evidence insufficient. Songyun's mountain is the
+place of the body-offering to the tigress, which Xuanzang puts beyond the Indus (03.04.05), not the half-verse jātaka
+told here, so the parallel is weak.
 **Assessment.** Stein's fieldwork matches the description and the cult, and no rival exists, but the 400 li is far
 too long for any capital in the Swat valley. Mizutani stands, medium.
 
@@ -125,6 +145,7 @@ too long for any capital in the Swat valley. Mizutani stands, medium.
 Dey: the Adinzai valley near Chakdarra (Stein). Beal and Watters: none.
 **Evidence.** None in these files beyond Deane's and Stein's statements; the Suma stūpa in the same valley rests on
 Deane's report of a surviving name (03.01.09a).
+**Ji Xianlin et al. (1985).** Ji agrees: Deane's Adinzai valley, joining the Swat at Chakdara (p. 285).
 **Assessment.** Two field men agree on the valley, but the monastery and its 80-ft stūpa are not identified on the
 ground. Low confidence; nothing contradicts Mizutani.
 
@@ -135,6 +156,8 @@ Beal (p. 126): E bank of the Swat; Watters: none.
 **Evidence.** Natesa Aiyar (EI 18) reports Deane's view that the monument stands between Ghaligai and Shankardar;
 the Kurram casket naming Ucharsana (= Uttarasena?) comes from Kurram, not Swat. Route test: 15.6 km SW of Mingora
 for "60–70 li SW" (predicted 15.5 km), bearing exact.
+**Ji Xianlin et al. (1985).** Ji agrees: Stein's Shankardar stūpa on a hillock on the E bank of the Swat c. 20 km S of
+Mingora (p. 286).
 **Assessment.** A standing stūpa on the E bank, as the text has it, at the right distance and bearing, with Deane, Stein
 and Mizutani agreeing; nothing names it. Probable (medium).
 
@@ -155,6 +178,8 @@ valley, more probably Darel.
 **Evidence.** Himalayan Districts II (1884) and the 1874 volume repeat Beal ("Tha-li-lo … the modern Darel"). Konow
 (CII 2.1) reports Stein's Darel opposite Chilas. Route test: 136 km NE of Mingora for "1000+ li" (predicted 239 km),
 1° off. The Life gives it as hearsay.
+**Ji Xianlin et al. (1985).** Ji agrees: Darel, the valley on the W bank of the Indus; with Stein (on Rājataraṅgiṇī
+ii.435) he puts the Dards' old capital Daratpurī at Gurez, and cites Faxian's 陀歷 (p. 297).
 **Assessment.** Name and agreement, with the route bearing exact; no site evidence. Mizutani stands (medium).
 
 ### 03.02 鉢露羅國 (balūra) — Baltistan; Chitral was once proposed
@@ -164,6 +189,7 @@ valley, more probably Darel.
 **Evidence.** Himalayan Districts II (1884) reports "two places that can answer to the name Bolor": Chitral
 (Klaproth) or Baltistan (Cunningham). The text puts Bolor 500 li E of Darel, which rules out Chitral to the W.
 Route test: 198 km for "500+ li E" (predicted 120 km), 10° off. Hearsay; the Life names it only on the return.
+**Ji Xianlin et al. (1985).** Ji agrees, following Mizutani: Baltistan, probably known by report only (pp. 299–300).
 **Assessment.** Agreement and bearing; no site evidence. Mizutani stands (medium).
 
 ### 03.03.02 醫羅鉢呾羅龍王池 (elāpattra) — the Baba Wali (Panja Sahib) spring at Hasan Abdal
@@ -176,6 +202,8 @@ monastery 200 ft square and a stūpa near the cypress garden. Rawalpindi 1883, 1
 Route test: 14 km NW of Taxila for "70+ li" (predicted 17 km), 12° off.
 **Foucher (1942–47).** The spring of Hasan Abdāl, two stages from the Indus across the Chach plain, still venerated
 (I, p. 42).
+**Ji Xianlin et al. (1985).** Ji gives the name (Elāpattra; Pāli Erāpatha) and the Bharhut relief of the nāga but no
+site, and does not mention Hasan Abdal (pp. 302–303).
 **Assessment.** Distance, bearing, a living spring cult and Buddhist ruins beside it. Secure.
 
 ### 03.04.x1 白衣外道本師悟所求理初說法處 — the Jain founder's place: temple C at Ketas (Cunningham) or Murti (Stein)
@@ -186,6 +214,9 @@ older than the Kashmiri-style temples above it.
 study prefers Stein's Murti in the Gandhala valley, 4½ miles from Ketas: an excavated stūpa, over 30 camel-loads of
 Jaina-style sculpture, and a temple locally called Jaina (Jhelam 1907). Cunningham's temple C is a reading of a
 basement; 03.04.02 reads the same structure as a stūpa.
+**Ji Xianlin et al. (1985).** Ji gives no site. Since Mahāvīra taught only in Middle India, he takes the claim that
+the founder first preached near the Siṃhapura capital for a hearsay accretion (p. 316), part of his case that Xuanzang
+knew the country by report (03.04). That bears on the legend, not on where Xuanzang's informants pointed.
 **Assessment.** Murti offers Jaina remains beside a stūpa; Ketas offers only an undated basement. Open, with Murti
 the better-supported alternative.
 
@@ -195,12 +226,16 @@ the better-supported alternative.
 (pp. 103–5), Beal (p. 148), Watters (p. 261) and Dey agree; Cunningham extends the kingdom to the Salt Range.
 **Evidence.** Route test: 172 km from Uraśā for "1000+ li SE" (predicted 239 km), 46° off; the Life gives the same
 route through the stone gate.
+**Ji Xianlin et al. (1985).** Ji agrees: Kashmir, the oval Jhelum valley c. 85 × 25 miles, the 7,000-li circuit
+perhaps including dependencies; he reports Chavannes' equation of the Han 罽賓 with Kaspeiria (pp. 321–322).
 **Assessment.** Name and agreement; no site evidence in these files. Mizutani stands (medium).
 
 ### 03.06.01a 迦濕彌羅國大都城 — Srinagar (Pravarapura)
 
 **Identifications.** Mizutani: Srinagar, Pravarasena's city (agreed). Vivien (p. 322), Cunningham (p. 107), Beal (p.
 158) and Majumdar (p. 680: Pravarapura) agree. Watters (p. 261) names no site.
+**Ji Xianlin et al. (1985).** Ji agrees: Srinagar, Pravarasena's new capital Pravarapura (the New Tang's 拔邏勿布城) on the
+Jhelum (p. 323).
 **Assessment.** The authorities agree and the river on the W fits; nothing in these files adds site evidence.
 Mizutani stands (medium).
 
@@ -209,6 +244,8 @@ Mizutani stands (medium).
 **Identifications.** Mizutani: Pandrethan, 2 miles SE of Takht-i-Sulaiman (agreed). Vivien (p. 322), Cunningham (pp.
 107–8), Beal (p. 158) and Majumdar (p. 680) agree.
 **Evidence.** The name Pāndrēthān < purāṇādhiṣṭhāna, "old chief city", fits the text's 故城.
+**Ji Xianlin et al. (1985).** Ji agrees: Pāndrethān (Purāṇādhiṣṭhāna), from the foot of Takht-i-Sulaiman along both
+banks (p. 323).
 **Assessment.** Name and agreement; no excavation is reported here. Mizutani stands (medium).
 
 ### 03.07 半笯嗟國 (parṇotsa) — Punch; name survives, distance short
@@ -218,6 +255,8 @@ Cunningham (p. 147), Beal (p. 163), Watters (p. 281), Majumdar (p. 680) and Dey 
 **Evidence.** Kashmiri Prünts < Parṇotsa (Stein). IAR 1985–86 (p. 35) explored the Mughal route through
 Rajouri–Poonch (Kushan ware, Kashmiri coins, temple ruins at Panjnara), without naming Xuanzang's town. Route test:
 70 km from the Kashmir point for "700+ li SW" (predicted 167 km), flagged short; the road via Baramula is longer.
+**Ji Xianlin et al. (1985).** Ji agrees: Punch, between the Jhelum and the Pir Panjal, noting that its area falls far
+short of the 2,000-li circuit (pp. 348–349).
 **Assessment.** Name and agreement. Mizutani stands (medium).
 
 ### 03.08 曷邏闍補羅國 (rājapura) — Rajauri
@@ -227,6 +266,8 @@ Rajouri–Poonch (Kushan ware, Kashmiri coins, temple ruins at Panjnara), withou
 **Evidence.** Cunningham (ASR XIV, pp. 72, 106) traces Rājapura of the *Rājataraṅgiṇī* to Rajaori. IAR 1985–86 (p.
 35) reports Kushan red ware 1.5 km above Rajouri. Route test: 48 km SE of Punch for "400+ li" (predicted 96 km),
 20° off.
+**Ji Xianlin et al. (1985).** Ji agrees: Rajaori, after Cunningham, whose circuit (c. 300 miles) is about half
+Xuanzang's 4,000 li (p. 350).
 **Assessment.** Name continuity and agreement; no site evidence for the 7th-century town. Mizutani stands (medium).
 
 ### 04.01.x4 闍耶補羅城 (Jayapura) — Hafizabad (Cunningham); the Life only
@@ -257,6 +298,9 @@ Xiyu ji's 500 (agreed). Beal (p. 174, tentative): Sultanpur. Vivien (p. 333): th
 serai, whose walls he suspects stand on monastery foundations, large bricks, a female figure and a Gaṇeśa mould; no
 Buddhist find. Route test: from Chiniyari 73 km for "50+ li SE" (predicted 12 km, z +3.7); onward to Jalandhar 39 km
 for "140–150 li NE" (predicted 35 km). The best-fitting chain takes Vivien's confluence, which fits no better.
+**Ji Xianlin et al. (1985).** Ji agrees: Cunningham's Sultānpur (Raghunathpura), reading the Life's 50 li with Hori
+against Adachi's 150 li (pp. 369–370). He places it "50 li and more SE of Amritsar", which Sultanpur, c. 55 km away,
+is not.
 **Assessment.** Sultanpur fits the leg to Jalandhar, but neither the 50 li nor the 500 li from Chiniyari. Low;
 Mizutani stands for want of better.
 

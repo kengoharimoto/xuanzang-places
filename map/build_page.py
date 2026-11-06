@@ -6,7 +6,7 @@ Inputs: data/places.tsv, data/coords.tsv, data/notes/updates_*.tsv, data/notes/n
 """
 import csv, glob, html, json, re
 rd = lambda f: list(csv.DictReader(open(f, encoding="utf-8"), delimiter="\t"))
-AUTH = ["julien", "vivien", "cunningham", "majumdar", "beal", "watters", "dey"]
+AUTH = ["julien", "vivien", "cunningham", "majumdar", "beal", "watters", "dey", "ji"]
 coords = {r["id"]: r for r in rd("data/coords.tsv")}
 try:   # coordinates of the places added from the sources
     for r in rd("data/coords_added.tsv"): coords[r["id"]] = {"lat": r["lat"], "lon": r["lon"], "precision": r["precision"], "modern_name": r["label"], "note": r["note"]}
