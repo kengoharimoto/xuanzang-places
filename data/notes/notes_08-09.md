@@ -221,8 +221,10 @@ Gayā. The volumes explain away Xuanzang's "south-west slope" and distinguish th
 call "a natural fissure". RV24's history chapter adds "no archaeological data found". HU12 (1877) has only "a mountain
 SE of Gaya". The survey reports coded here do not discuss the hill.
 
-**Assessment.** The gazetteers strengthen Mizutani. They locate the shadow cave and the stūpas on a particular hill
-of his Mora range and give physical remains that match Xuanzang.
+**Assessment.** The gazetteers strengthen Mizutani. They locate the shadow cave and the stūpas on a particular hill of
+his Mora range and give physical remains that match Xuanzang. Confidence medium: the remains (cave, image, terrace,
+stūpa traces) are surface observations, not excavation or an inscription naming the place; the volumes must explain
+away the text's south-west slope, and RV24 reports no archaeological data.
 
 ### 08.06.01 菩提樹 (垣內) — the Bodh Gayā precinct; the stone railing is Śuṅga, and the wall was brick (Bloch)
 
@@ -380,7 +382,8 @@ the Phalgu; Dey gives the Mahi (Mohana), a tributary of the Phalgu.
 
 **Gazetteers.** They add nothing beyond placing Bakraur "between the Nilajan and Mohana" (BG27, Gaya 1906).
 
-**Assessment.** Mizutani's hedge is unnecessary on this evidence, because all the authorities agree. No change.
+**Assessment.** All the authorities agree. No change. Confidence medium: a minor river identified by name similarity
+and the authorities' agreement; Mizutani's hedge stands to that extent.
 
 ### 09.01.03 屈屈吒播陀山 (Kukkuṭapāda; Gurupāda) — Gurpa (the name Gurupāda is attested in a Pāla inscription) rather than Hasra or Kurkihar
 

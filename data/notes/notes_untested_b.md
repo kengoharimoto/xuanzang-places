@@ -135,8 +135,8 @@ Beal (p. 126): E bank of the Swat; Watters: none.
 **Evidence.** Natesa Aiyar (EI 18) reports Deane's view that the monument stands between Ghaligai and Shankardar;
 the Kurram casket naming Ucharsana (= Uttarasena?) comes from Kurram, not Swat. Route test: 15.6 km SW of Mingora
 for "60–70 li SW" (predicted 15.5 km), bearing exact.
-**Assessment.** A standing stūpa on the right bank at the right distance and bearing, with Deane, Stein and Mizutani
-agreeing; nothing names it. Probable (medium).
+**Assessment.** A standing stūpa on the E bank, as the text has it, at the right distance and bearing, with Deane, Stein
+and Mizutani agreeing; nothing names it. Probable (medium).
 
 ### 03.01.10a 白象化石 — the elephant rock near Ghalagai, beside the Shankardar stūpa
 

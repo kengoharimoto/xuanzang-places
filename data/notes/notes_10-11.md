@@ -288,6 +288,8 @@ Cambodia. Cunningham (p. 577): the Shan country or Laos.
 **Gazetteers.** None.
 
 **Assessment.** Īśānapura is Īśānavarman's capital of Zhenla, so Cunningham's Laos is superseded. Mizutani stands.
+Confidence medium: a hearsay country identified by the authorities; the documentary evidence for Īśānapura as Zhenla's
+capital (Sui shu, Īśānavarman's inscriptions) is not coded here and would justify high once it is.
 
 ### 10.06.02e 摩訶瞻波國 (Mahācampā) — Champa (Linyi)
 
@@ -1322,7 +1324,9 @@ probably in the west; Lākoriān weakened; low to medium confidence.
 
 **Gazetteers.** None.
 
-**Assessment.** Dey's Shahrud is an isolated etymology. Mizutani's Persepolis/Istakhr stands.
+**Assessment.** Dey's Shahrud is an isolated etymology. Mizutani's Persepolis/Istakhr stands. Confidence medium for
+the capital point: Persia itself is secure, but the capital's transcription has rivals (Dey's Shahrud; later work, not
+in these sources, reads Sūristān/Ctesiphon), and no evidence fixes Persepolis.
 
 ### 11.20.01a 鶴秣城 — Hormuz
 
@@ -1501,12 +1505,13 @@ Nal as not fitting the itinerary (pp. 150–51).
 pays brâhûî", round Mastung and Kelat S of the Bolan pass. His grounds are the position, an independent wedge between
 Gedrosia, Arachosia, A-p'o-kien, Fa-la-na and Sind, and the horse- and sheep-breeding (II, pp. 236–7).
 
-**Assessment.** Cunningham's Pishin rested on the Arab Kīkān. Stein places that Qīqān in Waziristan, and his field
-tour fits the description, as Bannu (11.23) does. Everyone else who uses the Arab name puts it in the Brāhūī highland
-of Kalat: Vivien near Shal, Mirchandani at Quetta–Pishin, Foucher round Kalat and Mastung, the Baluchistan gazetteers
-at Nal in Jhalawan. These span some 300 km, but agree on the Kalat country rather than Waziristan. It lies well SW of
-Bannu, nearer W of the southern Varṇa that Foucher and Mirchandani posit (11.23). Waziristan and the Kalat highland
-are alternatives, low confidence; the choice follows 11.22–11.23.
+**Assessment.** Cunningham's Pishin rested on the Arab Kīkān. Stein places that Qīqān in Waziristan, and his field tour
+fits the description, as Bannu (11.23) does. Most others who use the Arab name put it in or near the Brāhūī highland of
+Kalat: Vivien near Shal, Mirchandani at Quetta–Pishin, Foucher round Kalat and Mastung, the Baluchistan gazetteers at
+Nal in Jhalawan. Lambrick prefers Loralai or Zhob, and the Mooltan gazetteer leaves Kaikanan unidentified. These span
+some 300 km, but point S or SW of Waziristan rather than to it. It lies well SW of Bannu, nearer W of the southern Varṇa
+that Foucher and Mirchandani posit (11.23). Waziristan and the Kalat highland are alternatives, low confidence; the
+choice follows 11.22–11.23.
 
 ## Gazetteer passages coded `new` in this range
 

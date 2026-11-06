@@ -612,7 +612,7 @@ a counter-site. Mizutani's small stupa stood "beside" it, so Mizutani is strengt
 
 **Gazetteers.** None.
 
-**Assessment.** It remains unidentified in these sources.
+**Assessment.** It remains unidentified in these sources. Confidence low: no location is proposed (unlocated).
 
 ### 07.02 戰主國 (Garjapatipura / Yuddhapati) — the country is Ghazipur; Sayyidpur is a serious rival for the capital
 
@@ -782,7 +782,7 @@ located area rather than a site.
 
 **Gazetteers.** None.
 
-**Assessment.** It remains unidentified.
+**Assessment.** It remains unidentified. Confidence low: no location is proposed (unlocated).
 
 ### 07.03.07 菴沒羅女園 (Āmrapālī's garden) — unidentified
 
@@ -915,7 +915,7 @@ Monster Fish", but that refers to the fishermen story itself (Beal II p. 78), no
 
 **Gazetteers.** None.
 
-**Assessment.** It remains unidentified.
+**Assessment.** It remains unidentified. Confidence low: no location is proposed (unlocated).
 
 ---
 

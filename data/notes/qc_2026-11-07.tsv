@@ -1,0 +1,31 @@
+id	verdict	issues	action
+11.01	ok	Pages, route figures (306 vs 717 km, 10° off, DIST) and Life hearsay check out; medium right (no site evidence in the sources).	
+12.17.02a	ok	Vivien p. 426, Beal II p. 297, Watters p. 283 and Mizutani's outflow remark verified; medium fits agreement without site evidence.	
+01.07.02	ok	Authorities, pages and Life T50:0227a (1,400–1,500 li) verified. High rests on the extant lake matching the description plus the name gloss (natural feature in place of a monument); defensible but at the generous edge of the rule.	
+02.04.01a	ok	Peshawar 1899 name chain, ASR II pp. 87–92, Pargiter EI 12 p. 302, Majumdar p. 678 and Foucher I p. 44 quote (OCR pdf 0054) verified; Kaniṣka casket evidence is under 02.04.03 (Spooner AR 1908-09, Konow CII 2.1). High justified.	
+07.05	ok	Pages and route test (163 vs 347 km, 17° off, DIST) verified; medium right.	
+04.10.x1	ok	Cunningham's Lalpur passage is on ASR I p. 250 (note says pp. 249–50, acceptable); Rohilkhand 1879 and Bijnor 1908 ('necessarily conjectural', 'never been scientifically explored') verified; low right.	
+03.06.06a	ok	Pages and etymology verified; medium right.	
+01.20	minor	Route test given as 'within range' without the 35° bearing deviation (segment_tests: 66.6 vs 71.7 km, 35° off).	Note and basis now give predicted 72 km and bearing 35° off.
+01.17	minor	Route test given as 'within range'/'fits' without the 29° bearing deviation (93.6 vs 95.6 km, 29° off).	Note and basis now give predicted 96 km and bearing 29° off.
+03.06.01a	ok	Pages and Watters 'none given' verified; medium right.	
+11.12	ok	Pages, Rajputana 1908/Jhalawar 1964 hits, Sircar EI 34, route (410 vs 669 km, 16° off, unflagged) and Life verified; medium right.	
+01.20.01	minor	'The name survives in Turkic, Arabic and Persian' overstates: these are historical names (Mizutani's original_name); the local name is Buzgala. High (extant defile + historical name + agreement) is at the generous edge but defensible.	Reworded to 'is attested' with the local name; assessment says 'historical name'; basis adjusted.
+06.02.x6	ok	Mukherji 1901 pp. 51–52 (asr_batch5 489) and Srivastava IAR 1975-76 p. 49 quote verified; alternative/low right.	
+03.01.10	minor	Assessment puts the stūpa on the 'right bank'; the text and Mizutani have the E bank, which on the south-flowing Swat is the left bank. Otherwise Natesa Aiyar EI 18 (Deane), Kurram casket remark and route (15.6 vs 15.5 km, 0°) verified; medium defensible (standing stūpa but nothing names it).	Changed to 'on the E bank, as the text has it'.
+08.06.21	ok	ASR XI p. 147 (asr_batch3 passage 317, sites F–N) and Mizutani map label verified; low right.	
+03.01.01b	ok	Pages and Life 蘇婆薩堵 note verified; medium right.	
+04.02.03	ok	ASR XIV pp. 55–59 details, route figures (73 vs 12 km z +3.7; 39 vs 35 km) and chain_best (Vivien's confluence; its candidate score is worse) verified; low right.	
+06.02.x10	ok	Mukherji 1901 pp. 8–17, 29–30 ('stood out of the way', 'did not form the eastern or any boundary'), 54–56 verified; low right.	
+03.01.04a	ok	Stein AR 1925-26 p. 161 ('trace two sacred sites') and Konow CII 2.1 p. 9 estampage verified; medium defensible.	
+12.15.02	ok	Mizutani refs (Ḥudūd al-ʿĀlam §26.15, Serindia I pp. 60–71), Vivien p. 425 and Life canopy verified; medium right.	
+01.32.02	ok	Foucher I p. 115 quote (OCR pdf 0125) and Beal/Mizutani remarks verified; low right.	
+01.37.02	ok	Foucher I p. 133 (OCR pdf 0143) quotes, 1 km E of the monastery between the Buddhas, pebble-and-clay image, withdrawal of the Ajdahā rock all verified; new-candidate/low right.	
+03.03.03	ok	ASR II pp. 139–140 (stūpa 65 ft, monastery 70×58 ft, chamber at 8 ft, vessel under slab at 14 ft), gazetteer quote 'impossible to ascertain which of the ruined stupas is the right one' and Foucher p. 156 (Dec. 1918 in fn. 29 on p. 159) verified; strengthened/medium defensible.	
+12.01	ok	Foucher II pp. 231, 235–6 (Jaghuri, Toba-Kakar, Kelat-é-Ghilzai, doubt about Ghazni) verified in OCR; Beal II p. 283 verified; route-test statements match chain_best/chain_best_life; alternative/medium right.	
+01.38	minor	Eukratides 'Kaviçi' coin is in vol. II p. 212 (OCR V-2 pdf 0046), not vol. I. Rest (AR 1934-35 quotes, gazetteer quotes, Foucher I p. 140) verified. High rests on the capital (01.38a); defensible.	Changed '(I, p. 212' to '(II, p. 212'.
+02.03.03	ok	Foucher I p. 152 (OCR pdf 0162: six monasteries, twice as many stūpas within 500 m, cave lost) and Watters p. 193 verified; strengthened/medium right.	
+11.23.02	minor	Assessment says 'everyone else' who uses the Arab name puts it in the Kalat highland and that they 'agree on the Kalat country', but the note itself reports Lambrick (Loralai or Zhob) and Mooltan 1884 (unidentified, perhaps Dera Ghazi Khan). Foucher II pp. 236–7 quote verified (OCR V-2 pdf 0070–71); alternative/low right.	Reworded to 'Most others ... in or near the Brāhūī highland', added Lambrick and Mooltan, 'point S or SW of Waziristan'.
+12.02b	major	Confidence high on agreement alone (Vivien; Beal and Watters tentative; Mizutani uncertain; no site evidence): the rule makes that medium. Assessment's 'agree unanimously' and its explanation of Mizutani's 'uncertain' are not supported by the sources. Foucher II p. 234 verified.	Confidence high → medium; basis lists tentative authorities and Foucher; assessment rewritten (agreement only, medium).
+01.38a	minor	Assessment says 'none of the authorities here chose Begram' although Foucher (in the same note) did; 'the Kanishka finds' are not in the study's sources. Foucher I p. 140 details verified (OCR pdf 0150). High justified by Foucher's survey, excavations and dependent sites.	Reworded to 'older authorities (Vivien, Cunningham, Beal, Dey)', 'Foucher chose it'; 'Kanishka finds' replaced by Foucher's 1923 survey and the French excavations Mizutani notes.
+12.01c	minor	'The authorities agree unanimously' overstates: Vivien and Watters tentative, Mizutani uncertain, Beal gives no site. Foucher II pp. 235, 258 verified; medium right.	Assessment reworded to list who gives the Helmand and how tentatively.

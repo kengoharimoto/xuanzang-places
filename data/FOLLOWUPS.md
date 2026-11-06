@@ -95,10 +95,16 @@
     Still open: 01.19 Khwarizm's leg from Vadi (the text's figure, not the site); 媲摩 → Niya (12.22.13), 200 li for
     185 km and no leg because of the variant 嫓; Kohmāri (12.22.04) long for 20 li; Mount Ilam (03.01.05) 19 km for
     400+ li; Sultanpur (04.02.03) fits neither 50 nor 500 li.
-  - Text: 12.22.15's passage reads 至都邏故國, missing 覩貨. 01.09a's excerpt is 01.11's 東臨葉河 sentence. 12.18.02's Life
+  - Text: 12.22.15's passage reads 至都邏故國. SAT's Taishō transcription has 至覩貨邏故國, so the missing 覩貨 is a slip in
+    CBETA's text, not a variant (no apparatus note); the checked translation already reads Tukhāra. Resolved. 01.09a's excerpt is 01.11's 東臨葉河 sentence. 12.18.02's Life
     passage is the Cīnadevagotra story, not the peak legend.
   - places.tsv: multi-place coded passages are now split into per-place entries (`data/coded/split/`); the 16 coding
     slips found (e.g. six Rajbadidanga IAR seasons under 10.08 that concern only 10.08.02) are dropped from the
     places they don't concern. 11.12's EI passage (Sircar, EI 34) is counted but its evidence is empty.
   - Small slips: 04.01.x4's note should say three days (經三日), not two; Cunningham's "4 miles NE of Ohind" for
     02.04.19 conflicts with the text's NW; Mizutani's quotes carry OCR errors (e.g. 12.16).
+- **Resolved 2026-11-07**:
+  - Foucher's Rāhula passage (01.38.02), lost in the Toyo Bunko OCR, was recovered by a Vision re-OCR of V-1 pdf 0151.
+    It confirms Kâfir-Qaleh, though Foucher writes "Sud-Ouest" where the text has 東南.
+  - Quality check of 30 agent-written notes (`data/notes/qc_2026-11-07.tsv`): 21 ok, 8 minor, 1 major, all fixed.
+    The high ratings that name no excavation or inscription were then audited (`data/notes/high_audit_2026-11-07.tsv`).

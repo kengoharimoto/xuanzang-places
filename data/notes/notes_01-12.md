@@ -27,7 +27,9 @@ Zarafshan (p. 12, tentative). Watters: none. Dey: the Jaxartes (Syr Darya) follo
 
 **Assessment.** The Sītā here is one of the four rivers flowing out of the cosmological Anavatapta lake. Xuanzang
 names it again in juan 12, where it can only be the Yarkand river. Dey's Jaxartes comes from Csoma's Tibetan
-cosmology, and Beal's "Zarafshan" gloss is a slip. Neither is a competing site. Mizutani stands.
+cosmology, and Beal's "Zarafshan" gloss is a slip. Neither is a competing site. Mizutani stands. Confidence medium:
+Sītā is a cosmological name, not one continuously attested for the Yarkand river, and the identification rests on juan
+12 and the authorities' agreement.
 
 ### 01.01e 香山 (Skt. gandhamādana-giri) — cosmological mountain; Kailāsa is a conventional equation
 
@@ -126,9 +128,11 @@ Issyk-kul, S of Tokmak, near the Son-kul and the Susamir river (p. 69).
 
 **Gazetteers.** No gazetteer passage.
 
-**Assessment.** Vivien and Beal put Suyab on the Chu, as Mizutani does. Watters moves it south over the Kirgiz
-range, which is a materially different area. The Chu-valley position is better supported by these sources, and
-later work (not in these sources) located Suyab at Ak-Beshim near Tokmak. Mizutani stands.
+**Assessment.** Vivien and Beal put Suyab on the Chu, as Mizutani does. Watters moves it south over the Kirgiz range,
+which is a materially different area. The Chu-valley position is better supported by these sources, and later work
+(not in these sources) located Suyab at Ak-Beshim near Tokmak. Mizutani stands. Confidence medium: within these
+sources the Chu-valley site rests on the authorities' agreement, with Watters' Susamir as a rival. Ak-Beshim
+(excavated, with Chinese inscriptions) would justify high once coded.
 
 ### 01.07.05 千泉 (bing gyul / ming bulaq) — Merke vs a Ming-bulak near Talas
 
@@ -161,7 +165,9 @@ town now called Turkestan near Otrar, not on the Talas (p. 273).
 **Gazetteers.** No gazetteer passage.
 
 **Assessment.** Vivien confused the Talas of the Talas river with the Taraz/Turkestan of the Syr Darya. Beal and
-Watters correct this, and Mizutani follows them. The Talas-river site is firmly supported. Mizutani stands.
+Watters correct this, and Mizutani follows them. The Talas-river site is the better supported. Mizutani stands.
+Confidence medium: a town on a continuously named river, but the site near Dzhambul rests on the authorities'
+agreement. No excavation, inscription or document naming the place is cited.
 
 ### 01.07.06a 小孤城 (中國人) — small Chinese settlement 10 li S of Talas; unlocated
 
@@ -334,7 +340,8 @@ inside Mizutani's Denau–Dushanbe zone. Mizutani follows Chavannes and Barthold
 **Gazetteers.** No gazetteer passage.
 
 **Assessment.** Beal and Mizutani give the exact name match Kawādiyān/Kubādhiyān. Vivien's Karategin is a guess from
-direction. Mizutani stands.
+direction. Mizutani stands. Confidence medium: a small state, identified by the name match and the authorities'
+agreement. No excavation, inscription or document naming the place is cited.
 
 ### 01.26 鑊沙國 (Wakhsh) — the Wakhsh valley vs Julien's/Vivien's Osh
 
@@ -344,8 +351,10 @@ Ferghana (p. 291).
 
 **Gazetteers.** No gazetteer passage.
 
-**Assessment.** Osh lies far to the NE, beyond the Alai, and would break the sequence of small states on the
-northern Oxus tributaries. Wakhsh fits both the name and the route. Mizutani stands.
+**Assessment.** Osh lies far to the NE, beyond the Alai, and would break the sequence of small states on the northern
+Oxus tributaries. Wakhsh fits both the name and the route. Mizutani stands. Confidence medium: a small state,
+identified by name and route sequence with the authorities' agreement. No excavation, inscription or document naming
+the place is cited.
 
 ### 01.28a 活國 — Kunduz; Vivien's Ghori and Cunningham's Khulm are slips
 
@@ -355,9 +364,11 @@ of one month, in his route chronology (p. 645).
 
 **Gazetteers.** No gazetteer passage.
 
-**Assessment.** Kunduz is supported by Beal, Watters and Mizutani, and by the Tang name 遏換/阿緩. Vivien's Ghori lies
-in the same river system, south of Kunduz. Cunningham's "Khulm" is a single word in a chronology table and conflicts
-with 01.31 忽懍, which is Khulm. Mizutani stands.
+**Assessment.** Kunduz is supported by Beal, Watters and Mizutani, and by the Tang name 遏換/阿緩. Vivien's Ghori lies in
+the same river system, south of Kunduz. Cunningham's "Khulm" is a single word in a chronology table and conflicts with
+01.31 忽懍, which is Khulm. Mizutani stands. Confidence medium: the name 活 is not continuous with Kunduz, and the
+identification rests on the Tang name and the authorities' agreement. No excavation, inscription or document naming
+the place is cited.
 
 ### 01.30 紇露悉泯健國 — Rūb + Simingān (Haibak) in the Khulm valley
 
@@ -508,9 +519,9 @@ Kāpiśī". It does not name the place.
 Kapisa in the Kabul valley there was a Kshatriya king (630 A.D.)". The Peshawar gazetteers (1883, 1899) say Gandhāra
 "was a dependency of Kapisa or Kabul". Neither offers local evidence.
 
-**Foucher (1942–47).** Begram "représente la capitale du Kapiça qu'a vue Hiuan-tsang" (I, p. 140). A coin of
-Eukratides read "Kaviçi" shows the city goddess between a hill and an elephant protome, the two sacred sites Xuanzang
-names near the city (I, p. 212; see 01.38.07).
+**Foucher (1942–47).** Begram "représente la capitale du Kapiça qu'a vue Hiuan-tsang" (I, p. 140). A coin of Eukratides
+read "Kaviçi" shows the city goddess between a hill and an elephant protome, the two sacred sites Xuanzang names near
+the city (II, p. 212; see 01.38.07).
 
 **Assessment.** The authorities differ on the extent of Kapiśa (whether Kafiristan belongs to it), but all centre it
 on the Panjshir–Ghorband plain. The gazetteers add nothing. The Annual Report takes Foucher's Begram as established
@@ -547,9 +558,11 @@ scale 30 li is c. 7–10 km; Mes Aynak is c. 82 km from Begram, and Xuanzang nam
 Kafir", "the one and only site" of the Buddhist group south of the capital. He places Kabul and its southern valleys
 in 弗栗恃薩儻那, not Kapiśa (p. 57).
 
-**Foucher (1942–47).** Records ruins on the N bank of the Bari-āb on the way "jusqu'au site déserté du stûpa de
-Rahula", S/SE of Begram (I, pp. 141, 144). His description of the site falls in a gap of the OCR, so it cannot be
-matched with Kafir Qaleh here.
+**Foucher (1942–47), p. 141 (recovered).** Foucher found at Kâfir-Qaleh, about 10 km from the "Bêgrâm" of Kapiça, a
+fortified quadrangle of 170 × 280 m and, 200 m north of it, a monastery with a stūpa mound 30 m across and a cell
+court 25 m square, and took it for the Rāhula stūpa, "just in the direction and at the distance" Xuanzang gives. He
+writes "au Sud-Ouest", but the Chinese has 大城東南 (south-east); the site is the study's, the stated bearing is not the
+text's.
 
 **Assessment.** Mizutani's Kafir Qaleh and Kuwayama's Borj-e Kafir are probably the same standing stūpa SE of Begram;
 the identification is strengthened, and Mes Aynak is excluded by distance. Medium confidence.
@@ -637,10 +650,10 @@ and Begram with Cartana/Tetragonis (coded 02.04.18), following Cunningham's clas
 (Burj-é-'Abdullah and a second "royal city"), coins from the Indo-Greeks to the Muslim period, a stūpa parasol and a
 door jamb; above all, the hostage monastery 3 li E fixes the site (I, p. 140).
 
-**Assessment.** None of the authorities here chose Begram; they offer four different sites. Mizutani's Begram rests
-on the excavations, the Kanishka finds, and the consistency of the dependent sites (01.38.01–03a). The gazetteer
-passages only echo Cunningham's classical identifications. Mizutani stands, with the excavated site carrying more
-weight than the older guesses.
+**Assessment.** None of the older authorities (Vivien, Cunningham, Beal, Dey) chose Begram; they offer four different
+sites. Foucher chose it. Mizutani's Begram rests on Foucher's 1923 survey, the French excavations Mizutani notes, and
+the consistency of the dependent sites (01.38.01–03a). The gazetteer passages only echo Cunningham's classical
+identifications. Mizutani stands, with the excavated site carrying more weight than the older guesses.
 
 ### 12.01 漕矩吒國 (*jaukuta) — Zābulistān (Ghazni region) vs Arachosia vs Sewistan
 
@@ -703,8 +716,8 @@ prefix (p. 45). Watters: the Helmand as identified (p. 265, tentative). Beal: no
 prétexte" (II, p. 235), yet he places the Śuna temple of Jāguḍa "vers l'endroit où le fleuve Hélmand sort des
 montagnes" (II, p. 258).
 
-**Assessment.** The authorities agree unanimously on the Helmand on geographical grounds, though the name remains
-unexplained. Mizutani stands.
+**Assessment.** Vivien, Cunningham, Watters and Mizutani give the Helmand on geographical grounds (Vivien and Watters
+tentatively, Mizutani uncertain); Beal gives no site, and the name remains unexplained. Mizutani stands.
 
 ### 12.02 弗栗恃薩儻那國 — a Kabul-basin country: Kabul (Ortospana) vs the Opian/Charikar area
 
@@ -765,8 +778,9 @@ tentative).
 of the Paghman range past Istālif, Opiān, Tutam-Darrah, Parvān and Gul-behār, with the Life's 屈露薩邦, where the king
 left Xuanzang, near Paghman (II, p. 234).
 
-**Assessment.** The authorities agree unanimously. Mizutani's "uncertain" reflects the route's inference from
-Andarāb (12.03) beyond the pass, not any rival candidate. Mizutani stands.
+**Assessment.** The authorities agree, Beal and Watters tentatively, and Foucher adds the NW descent into Andarāb
+(12.03). No rival pass is proposed, but nothing on the ground fixes the crossing: agreement only. Mizutani stands
+(medium).
 
 ### 12.04 闊悉多國 (*khasta) — Khost (Baber's Khost), NE Afghanistan
 
@@ -780,7 +794,9 @@ Khost of Baber (p. 269).
 240 n. 32).
 
 **Assessment.** The authorities agree unanimously, and the name match is good. Mizutani's hesitation concerns the
-exact valley only. Mizutani stands.
+exact valley only. Mizutani stands. Confidence medium: a small district identified by name and the authorities'
+agreement, and Mizutani himself is uncertain of the valley. No excavation, inscription or document naming the place is
+cited.
 
 ### 12.05 活國 (*γwar) — Kunduz; Julien's Ghūr and Vivien's Ghori rejected
 
@@ -793,8 +809,9 @@ not the town of Ghour (p. 419, tentative).
 **Foucher (1942–47).** Kunduz, seat of the Turkish viceroy, the Khagan's son, on both of Xuanzang's visits (II, p.
 230).
 
-**Assessment.** As for 01.28a: Kunduz is supported by Beal, Watters, Mizutani and the Tang 遏換/阿緩. Vivien's Ghori
-is a neighbouring district on the Kunduz river. Mizutani stands.
+**Assessment.** As for 01.28a: Kunduz is supported by Beal, Watters, Mizutani and the Tang 遏換/阿緩. Vivien's Ghori is a
+neighbouring district on the Kunduz river. Mizutani stands. Confidence medium, as for 01.28a: the name is not
+continuous with Kunduz and no site evidence is cited.
 
 ### 12.06 瞢健國 (*mungan) — near Khanabad/Taliqan vs Beal's Munjan
 
@@ -819,8 +836,9 @@ Moungan on both banks of the Oxus, perhaps Walwalij, though this seems too far W
 
 **Gazetteers.** No gazetteer passage.
 
-**Assessment.** Arhang/Ahreng is both a sound match and a known crossing. Vivien doubts his own alternative.
-Mizutani stands.
+**Assessment.** Arhang/Ahreng is both a sound match and a known crossing. Vivien doubts his own alternative. Mizutani
+stands. Confidence medium: a small district identified by name and the authorities' agreement. No excavation,
+inscription or document naming the place is cited.
 
 ### 12.08 曷邏胡國 (rāgh) — Rāgh N of Faizabad vs Vivien's Roshan
 
@@ -831,7 +849,8 @@ Vivien: perhaps the Roshan valley (p. 421, tentative).
 **Gazetteers.** No gazetteer passage.
 
 **Assessment.** Since Yule, the authorities have accepted Rāgh as an exact name match. Vivien's Roshan predates Yule
-and lies well to the NE across the Oxus. Mizutani stands.
+and lies well to the NE across the Oxus. Mizutani stands. Confidence medium: a small district identified by name and
+the authorities' agreement. No excavation, inscription or document naming the place is cited.
 
 ### 12.09 訖栗瑟摩國 (*kṛṣma) — Kishm on the Kokcha vs Vivien's Ishkashim
 
@@ -845,7 +864,8 @@ Ishkashim (Vivien 1858) here, not Mizutani's Kishm, Badakhshan (route/README.md 
 evidence; see the assessment.
 
 **Assessment.** Kishm fits both the name and the place in the sequence. Ishkashim belongs to the Wakhan/Shighnan
-border (cf. 12.16a). Mizutani stands.
+border (cf. 12.16a). Mizutani stands. Confidence medium: a small district identified by name and the authorities'
+agreement, and the route test prefers Ishkashim. No excavation, inscription or document naming the place is cited.
 
 ### 12.10 鉢利曷國 (*parighar) — unidentified; Bolor, Parika, Farkhar and Parkhar all fail
 
@@ -891,7 +911,8 @@ NE for SE (p. 424).
 **Gazetteers.** No gazetteer passage.
 
 **Assessment.** Yamgān is an exact name match on the correct bearing from Badakhshan, while Vivien has to emend the
-direction. Mizutani stands.
+direction. Mizutani stands. Confidence medium: a small district identified by name and bearing with the authorities'
+agreement. No excavation, inscription or document naming the place is cited.
 
 ### 12.15 達摩悉鐵帝國 (dharmasthiti; 鑊侃 = Wakhan) — Wakhan; Vivien's Matotch rests on the name only
 
@@ -928,8 +949,9 @@ route). It is all reported from Vivien; there is no local evidence.
 
 **Assessment.** The country is Sarikol on everyone's account; Vivien's Kartchu is the name of the district's river
 valley. Only Watters doubts that Tashkurghan was the capital. The gazetteer simply transmits Vivien's 1858 view and
-weakens nothing. Mizutani stands, and later work (not in these sources), from Stein onward, confirmed the
-Tashkurghan fort.
+weakens nothing. Mizutani stands, and later work (not in these sources), from Stein onward, confirmed the Tashkurghan
+fort. Confidence medium for the capital point: the country is certain, but 朅盤陀 is not a continuous name, Watters
+doubts Tashkurghan as capital, and the Stein-era confirmation of the fort is not coded here.
 
 ### 12.18.04 大石崖 — the great cliff of Kabhanda: the capital itself or a cliff 300 li SE
 
@@ -1014,7 +1036,8 @@ Khotan-daria (II p. 320, tentative).
 **Gazetteers.** No gazetteer passage.
 
 **Assessment.** The Karakash flows W of Khotan, the Yurung-kash E, so the text's "southeast" points to the
-Yurung-kash. Beal's Karakash does not fit the bearing. Mizutani stands.
+Yurung-kash. Beal's Karakash does not fit the bearing. Mizutani stands. Confidence medium: the river is unnamed in the
+text (大河), so only the bearing decides; that is a good fit, not an attested name.
 
 ### 12.22.11 敗軍之地 — battlefield c. 30 li W of 媲摩; unlocated
 

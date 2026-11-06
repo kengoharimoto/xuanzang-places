@@ -133,7 +133,8 @@ Mongol destruction of 1220, so it was the city in 630.
 
 **Identifications.** Mizutani, Vivien (p. 282), Beal (p. 34, tentative), Watters (p. 98), Dey: Bukhara. Watters puts
 the capital N of the present city; Mizutani's note places the old town NW (Riyāmithan).
-**Evidence.** Name continuous. Route test: from Kharghānkath W 400 li to 94 km, within range. The Life names it only.
+**Evidence.** Name continuous. Route test: from Kharghānkath W 400 li to 94 km (predicted 96 km), within range on
+distance, bearing 29° off. The Life names it only.
 **Assessment.** Secure on the name; the capital ruin is not fixed. Mizutani stands.
 
 ### 01.19 貨利習彌伽國 (Khwārizm) — Khwarizm on the lower Oxus; the route figures do not fit
@@ -150,8 +151,8 @@ hearsay). Mizutani stands.
 
 **Identifications.** Mizutani: Kesh = Shahr-i-sabz, 65 km SSW of Samarkand on the Kashka darya. Vivien (p. 283),
 Beal (p. 26), Watters (p. 100): Kesh/Shahr-i-sabz.
-**Evidence.** Name continuous (Kish/Kesh). Route test: from Samarkand SW 300 li to 67 km, within range (a
-calibration segment). The Life chains it from Khwarizm.
+**Evidence.** Name continuous (Kish/Kesh). Route test: from Samarkand SW 300 li to 67 km (predicted 72 km), within range
+on distance (a calibration segment), but bearing 35° off. The Life chains it from Khwarizm.
 **Assessment.** Secure on the name. Mizutani stands.
 
 ### 01.20.01 鐵門 (Tämir qapïɣ) — the Buzgala defile W of Derbent
@@ -159,10 +160,10 @@ calibration segment). The Life chains it from Khwarizm.
 **Identifications.** Mizutani: defile 10-odd km W of Derbent, 3 km long, via Guzar. Vivien (p. 284): Derbend/Kohlugha
 gorge. Beal (p. 36): Kohlugha pass, 8 miles W of Derbent. Watters (p. 101): Buzghala Khana defile, 12 versts W of
 Derbent.
-**Evidence.** The name survives in Turkic, Arabic and Persian (Bāb al-Ḥadīd, Dar-i Āhanīn); the narrow iron-coloured
-defile matches. Route test: Kesh to the gate 500 li to 88 km, within range. The Life calls it the Türk frontier
-pass.
-**Assessment.** Secure: an extant defile matching the description, the name, and all authorities.
+**Evidence.** The name is attested in Turkic, Arabic and Persian (Tämir qapïɣ, Bāb al-Ḥadīd, Dar-i Āhanīn; the local
+name is Buzgala); the narrow iron-coloured defile matches. Route test: Kesh to the gate 500 li to 88 km, within range.
+The Life calls it the Türk frontier pass.
+**Assessment.** Secure: an extant defile matching the description, the historical name, and all authorities.
 
 ### 01.20.02 覩貨邏國 (Tukhāra) — Tokharistan; extent disputed, region not
 

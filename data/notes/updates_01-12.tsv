@@ -1,5 +1,5 @@
 id	name_zh	mizutani	proposed	change	basis	confidence
-01.01d	徙多河	Yarkand river	Yarkand river	none	Vivien, Beal, Mizutani; Dey's Jaxartes is cosmological (Csoma); no gazetteer passage	high
+01.01d	徙多河	Yarkand river	Yarkand river	none	Vivien, Beal, Mizutani; Dey's Jaxartes is cosmological (Csoma); no gazetteer passage; cosmological name, not continuous; agreement only	medium
 01.01e	香山	Mount Kailāsa on the north shore of Lake Mānasa (Himalaya); 大雪山 here = the Himalaya	Mount Kailāsa (cosmological equation)	none	cosmological preface; no rival; no gazetteer passage	low
 01.01f	積石山	Amne Machin range, Qinghai	Amne Machin range (upper Yellow River)	none	Beal and Watters place it in the same Qinghai/Gansu area; no gazetteer passage	low
 01.04a	黑嶺	Range crossing central Afghanistan E-W, joining the Hindu Kush to the ENE; crossed between 梵衍那 and 迦畢試; boundary between Hu lands and India	Non-snowy ranges between Bamiyan and Kapiśa (Siah-koh)	none	Watters, Beal, Mizutani describe the same belt; no gazetteer passage	medium
@@ -7,9 +7,9 @@ id	name_zh	mizutani	proposed	change	basis	confidence
 01.06.01	國東境城 (大龍池)	the 'city on the eastern border' = the 荒城 of the next section; slightly east of modern Kucha	Slightly E of Kucha (= 荒城)	none	textual inference only; no rival; no gazetteer passage	low
 01.07	跋祿迦國	Old Gumo (姑墨) in the Aksu region; site of the capital undecided	Aksu region; capital site undecided	none	all authorities agree on Aksu; capital ruin open; no gazetteer passage	medium
 01.07.01	凌山	Main range of the Tianshan N of Aksu (Khan-Tengri, Pobeda); pass used is disputed	Tianshan N of Aksu; Muzart pass likelier	none	Julien, Vivien, Beal, Watters: Muzart; Bedel only in Japanese scholars; no gazetteer passage	medium
-01.07.03	素葉水城	Near Tokmak, c. 40 km E of Frunze	Near Tokmak on the Chu	none	Vivien, Beal on the Chu; Watters' Susamir an outlier; no gazetteer passage	high
+01.07.03	素葉水城	Near Tokmak, c. 40 km E of Frunze	Near Tokmak on the Chu	none	Vivien, Beal on the Chu; Watters' Susamir an outlier; no gazetteer passage; agreement only in these sources; Ak-Beshim not coded	medium
 01.07.05	千泉	Merke, N foot of the Kirgiz range, c. 120 km W of Frunze (Islamic Mirki/Barki)	Merke	none	Watters/Beal in the same Kirgiz-range corridor; Vivien depends on his wrong Taras; no gazetteer passage	medium
-01.07.06	呾邏私城	Ruins near Dzhambul (formerly Aulie-ata) at the bend of the Talas river	Near Dzhambul (Aulie-ata) on the Talas	none	Beal, Watters; Vivien's Turkestan town a confusion; no gazetteer passage	high
+01.07.06	呾邏私城	Ruins near Dzhambul (formerly Aulie-ata) at the bend of the Talas river	Near Dzhambul (Aulie-ata) on the Talas	none	Beal, Watters; Vivien's Turkestan town a confusion; no gazetteer passage; agreement only, no site evidence	medium
 01.07.06a	小孤城 (中國人)	no location given	unlocated (10 li S of Talas)	none	Vivien gives distance only; no gazetteer passage	low
 01.07.07	白水城	Sayram, c. 15 km E of Chimkent (majority view)	Sayram	none	Islamic geographers (via Minorsky, Le Strange); Watters' Mankent rests on the name Ak-su; no gazetteer passage	medium
 01.07.08	恭御城	not identifiable	unidentified	none	Xuanzang's distances corrupt; Vivien's guess only; no gazetteer passage	low
@@ -22,9 +22,9 @@ id	name_zh	mizutani	proposed	change	basis	confidence
 01.18	伐地國	Name and location unknown; probably near Chardzhou on the Amu Darya, on the only road SW from Bukhara	name unknown; Oxus crossing near Chardzhou (Betik)	none	Vivien, Beal: Betik opposite Chardjui; Watters Darganata; no gazetteer passage	low
 01.22	赤鄂衍那國	Denau on the upper Surkhan darya	Denau (upper Surkhan)	none	Beal's Hissar superseded (Barthold); no gazetteer passage	medium
 01.23	忽露摩國	Between Denau and Stalinabad (Dushanbe)	Between Denau and Dushanbe	none	Beal's Garm, Vivien's Hissar; Mizutani follows Chavannes/Barthold; no gazetteer passage	medium
-01.25	鞠和衍那國	Kabadian (now Mikoyanabad), between the Kafirnihan and Wakhsh rivers, N of the Amu Darya, 92 km NNE of Tashkurgan	Kabadian	none	Beal agrees (name match); Vivien's Karategin a guess; no gazetteer passage	high
-01.26	鑊沙國	Wakhsh country on the Kurgan-tyube plain of the Wakhsh river; = Halāward	Wakhsh valley (Kurgan-tyube)	none	Beal agrees; Julien/Vivien Osh off-route; no gazetteer passage	high
-01.28a	活國	Kunduz	Kunduz	none	"Beal, Watters, Tang name; Vivien's Ghori adjacent; Cunningham's ""Khulm"" a chronology slip; no gazetteer passage"	high
+01.25	鞠和衍那國	Kabadian (now Mikoyanabad), between the Kafirnihan and Wakhsh rivers, N of the Amu Darya, 92 km NNE of Tashkurgan	Kabadian	none	Beal agrees (name match); Vivien's Karategin a guess; no gazetteer passage; name match and agreement only	medium
+01.26	鑊沙國	Wakhsh country on the Kurgan-tyube plain of the Wakhsh river; = Halāward	Wakhsh valley (Kurgan-tyube)	none	Beal agrees; Julien/Vivien Osh off-route; no gazetteer passage; name match and agreement only	medium
+01.28a	活國	Kunduz	Kunduz	none	"Beal, Watters, Tang name; Vivien's Ghori adjacent; Cunningham's ""Khulm"" a chronology slip; no gazetteer passage; name not continuous; agreement only"	medium
 01.30	紇露悉泯健國	Possibly two places run together: 紇露 = Rūb (now Rui) and 悉泯健 = Simingān (now Haibak) in the Khulm valley; capital Haibak	Rūb + Simingān; capital Haibak	none	Beal already joins Rui and Haibak/Samangan; Vivien Samangan; no gazetteer passage; Foucher I pp. 49, 124: rock-cut stupa and caves 3 km NW of Haibak; Xuanzang went by the Balkh-ab, not Haibak	medium
 01.32.02	提謂城・波利城	not located	unlocated	none	Beal's Burmese tradition does not locate the towns; no gazetteer passage	low
 01.34	胡寔健國	Gūzgān/Jūzjān district (Balkh to Merv); its capital (Anbār?) unknown	Jūzjān district; capital unknown	none	Julien, Vivien, Beal agree on the district; no gazetteer passage	medium
@@ -45,20 +45,20 @@ id	name_zh	mizutani	proposed	change	basis	confidence
 12.01c	羅摩印度川	Helmand river, S Afghanistan	Helmand river	none	Vivien, Cunningham, Watters agree; no gazetteer passage	medium
 12.02	弗栗恃薩儻那國	a country in the Kabul river basin (exact location open)	SW of Kabul: Wardak/upper Logar (Foucher; cf. Vivien's Vardak), or the Koh-daman round Opian	alternative	Vivien, Beal (capital Hupian) vs Cunningham (Kabul); Atkinson 1884 repeats Cunningham's Kipin = Hu-phi-na; Foucher II pp. 231-2: S slope of the Koh-e Baba (Hazarajat), name in Ujaristan; route N from the Arghandab sources by the Bokan pass to the upper Logar/Khavat (Wardak), then NE and E to the borders of Kapisa	low
 12.02a	護苾那	Hupiān / Opian, a little N of Charikar, N of Kabul	Hupian/Opian N of Charikar	weakened	Vivien, Beal; Majumdar's phonetic objection to Cunningham's Kophene; Atkinson 1884 repeats Cunningham, no local evidence; Foucher II p. 235: Opian is in N Kapisa, 30 leagues N of his Vrjisthana; no alternative site	medium
-12.02b	婆羅犀那大嶺	Khawak pass (35°40′N, 69°50′E), Hindu Kush, c. 3500 m	Khawak pass	none	Vivien, Beal, Watters agree; no gazetteer passage	high
-12.04	闊悉多國	Khost, the Khost river valley (an upper Oxus tributary), NE Afghanistan	Khost (Baber's Khost)	none	Vivien, Beal, Watters agree; no gazetteer passage	high
-12.05	活國	Kunduz (Kuhan-diz), near the Oxus (Amu Darya), N Afghanistan	Kunduz	none	Beal, Watters, Tang name; Vivien's Ghori adjacent; no gazetteer passage	high
+12.02b	婆羅犀那大嶺	Khawak pass (35°40′N, 69°50′E), Hindu Kush, c. 3500 m	Khawak pass	none	Vivien, Beal (tentative), Watters (tentative) agree; Foucher II p. 234: NW descent into the Andarab; no gazetteer passage; agreement only	medium
+12.04	闊悉多國	Khost, the Khost river valley (an upper Oxus tributary), NE Afghanistan	Khost (Baber's Khost)	none	Vivien, Beal, Watters agree; no gazetteer passage; agreement only; Mizutani uncertain	medium
+12.05	活國	Kunduz (Kuhan-diz), near the Oxus (Amu Darya), N Afghanistan	Kunduz	none	Beal, Watters, Tang name; Vivien's Ghori adjacent; no gazetteer passage; name not continuous; agreement only	medium
 12.06	瞢健國	between Kunduz and Taliqan, probably near Khanabad; no matching place name	Taliqan–Khanabad area	none	Beal (text), Watters; Vivien's Munjan sound match but off-route; no gazetteer passage	medium
-12.07	阿利尼國	the old Arhang ferry on the Oxus, 26 miles N of Kunduz, near Hazrat Imam (Hadrat-Imām-Sāhib)	Arhang ferry near Hazrat Imam	none	Beal (Yule); Vivien's Walwalij self-doubted; no gazetteer passage	high
-12.08	曷邏胡國	Rāgh plateau N of Faizabad (Badakhshan), at the great bend of the Oxus	Rāgh N of Faizabad	none	Beal, Watters (Yule); Vivien's Roshan pre-Yule; no gazetteer passage	high
-12.09	訖栗瑟摩國	Kishm (Kashm), village on the Kokcha between Taliqan and Faizabad	Kishm on the Kokcha	none	Beal; Vivien's Ishkashim out of sequence; no gazetteer passage	high
+12.07	阿利尼國	the old Arhang ferry on the Oxus, 26 miles N of Kunduz, near Hazrat Imam (Hadrat-Imām-Sāhib)	Arhang ferry near Hazrat Imam	none	Beal (Yule); Vivien's Walwalij self-doubted; no gazetteer passage; name match and agreement only	medium
+12.08	曷邏胡國	Rāgh plateau N of Faizabad (Badakhshan), at the great bend of the Oxus	Rāgh N of Faizabad	none	Beal, Watters (Yule); Vivien's Roshan pre-Yule; no gazetteer passage; name match and agreement only	medium
+12.09	訖栗瑟摩國	Kishm (Kashm), village on the Kokcha between Taliqan and Faizabad	Kishm on the Kokcha	none	Beal; Vivien's Ishkashim out of sequence; no gazetteer passage; agreement only; route test prefers Ishkashim	medium
 12.10	鉢利曷國	(no identification)	unidentified (Farkhar weak front-runner)	none	Beal's Farkhar/Parika rejected by Mizutani; Vivien's Bolor too far E; no gazetteer passage	low
 12.11	呬摩呾羅國	near the N end of the Khwaja Muhammad massif; village Darāim (Darah-i-im) recalls the name	Darāim near the Khwaja Muhammad massif	none	Beal (Yule) agrees; no gazetteer passage	medium
 12.12a	鉢鐸創那國大都城	Faizabad, seat of Badakhshan administration	Faizabad (Kokcha valley)	none	Watters (Yule); Vivien: older town in the same valley; no gazetteer passage	medium
-12.13	淫薄健國	Yamgān (Hamakān) district on the upper Kokcha above Jurm, Badakhshan	Yamgān on the upper Kokcha	none	Beal, Watters (Yule); Vivien's Wakhan needs emending the bearing; no gazetteer passage	high
+12.13	淫薄健國	Yamgān (Hamakān) district on the upper Kokcha above Jurm, Badakhshan	Yamgān on the upper Kokcha	none	Beal, Watters (Yule); Vivien's Wakhan needs emending the bearing; no gazetteer passage; name match and agreement only	medium
 12.15	達摩悉鐵帝國	Wakhan (Ab-i-Panj valley between the Wakhan range and the E Hindu Kush)	Wakhan	none	alias 鑊侃; Beal, Watters; Vivien's Matotch a name guess; no gazetteer passage	high
 12.16a	尸棄尼國大都城	location unknown; perhaps Ishkashim (= 塞迦審城, 苦汗城 of the Tang shu)	perhaps Ishkashim (open)	none	Tang name only; no gazetteer passage	low
-12.18	朅盤陀國	Tashkurghan (75°10′E, 37°45′N), Sarikol; = 蒲犂國 of the Han shu	Sarikol; capital Tashkurghan	none	Beal, Dey (Yule); Watters doubts the capital; Atkinson 1884 reports St. Martin's Kartchu, no local evidence	high
+12.18	朅盤陀國	Tashkurghan (75°10′E, 37°45′N), Sarikol; = 蒲犂國 of the Han shu	Sarikol; capital Tashkurghan	none	Beal, Dey (Yule); Watters doubts the capital; Atkinson 1884 reports St. Martin's Kartchu, no local evidence; capital rests on agreement; Stein not coded	medium
 12.18.04	大石崖	(no identification)	no site (separate cliff 300 li SE, per Shiratori)	none	textual problem; no gazetteer passage	low
 12.18.05	奔穰舍羅	SE of Tashkurghan, perhaps Kandar Punin mountain (following 白鳥)	open: Kandar Punin (Shiratori) or Chichiklik (Stein)	none	text vs route; no gazetteer passage	low
 12.19	烏鎩國	Yarkand (77°16′E, 38°24′N) or somewhere upstream of it (following 白鳥)	open: Yarkand/upstream vs Yangi Hissar	none	Vivien, Cunningham: Yangi Hissar; Mizutani/Shiratori: Yarkand; no gazetteer passage	low
@@ -66,7 +66,7 @@ id	name_zh	mizutani	proposed	change	basis	confidence
 12.21	斫句迦國	Karghalik (葉城; 77°26′E, 37°53′N)	Karghalik	none	Stein's name chain (cugupa) and two rivers vs tentative Yarkand of Vivien, Cunningham, Beal, Watters; no gazetteer passage	medium
 12.21.02	斫句迦國南境大山	(no identification)	unidentified	none	Stein, Huang Wenbi attempted none; no gazetteer passage	low
 12.22.06	勃伽夷城	near Piälma on the main road W of Khotan	near Piälma W of Khotan	none	only proposal; distance fits; no gazetteer passage	medium
-12.22.10a	大河（城東南百餘里）	Yurung-kāsh (White Jade river, 白玉河)	Yurung-kash	none	bearing SE excludes Beal's Karakash; no gazetteer passage	high
+12.22.10a	大河（城東南百餘里）	Yurung-kāsh (White Jade river, 白玉河)	Yurung-kash	none	bearing SE excludes Beal's Karakash; no gazetteer passage; bearing only; river unnamed	medium
 12.22.11	敗軍之地	(no identification)	unlocated (30 li W of 媲摩)	none	Stein rough position only; no gazetteer passage	low
 12.22.12	媲摩城	Uzun-Tati / Ulugh-Ziārat area N of Chira Bazar (80°50′E, 37°15′N); Mizutani: 媲摩 = Ulugh-Ziārat	Uzun-Tati/Ulugh-Ziārat area N of Chira; ruin allocation open	none	Stein, Beal agree on area; Vivien's Pialma wrong direction; no gazetteer passage	medium
 12.22.16	折摩馱那故國	Charchan Bazar (Cherchen, 且末; 85°32′E, 38°08′N)	Charchan (Cherchen)	none	name chain calmadana = 且末; Beal's Sorghak a map guess; no gazetteer passage	high

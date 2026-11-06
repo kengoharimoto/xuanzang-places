@@ -23,8 +23,10 @@ minor sites that have no point either. Against Mizutani's identifications, the e
 - supports a different site for 44;
 - offers a candidate no standard authority records for 10.
 
-On the map the study's confidence comes out as 119 places secure, 158 probable and 95 open. Another 108, mostly
-minor sites, have no point.
+On the map the study's confidence comes out as 99 places secure, 177 probable and 97 open. These are the ratings
+after a quality check of 30 notes and an audit of every "high" rating without site evidence (both in `data/notes/`).
+Another 56 minor sites are placed approximately from Xuanzang's own bearing and distance, without an identification
+(`scripts/place_from_text.py`). 51 have no point.
 
 **Settled by inscriptions or seals found on the site:**
 - Kuśinagara at Kasia: the Haribala plate in the Nirvāṇa stūpa.
@@ -165,6 +167,8 @@ check.
      - **secure:** high confidence;
      - **probable:** medium;
      - **open:** low confidence, weakened, or left open between named candidates;
+     - **placed from the text:** no site identified, so the point comes from Xuanzang's own bearing and distance from
+       a located place (`data/coords_text.tsv`);
      - **untested:** places without a note, where Mizutani's identification (or, for added places, the sources') has
        not been assessed.
 
@@ -286,5 +290,5 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 Rebuild:
 
 ```
-python3 -I scripts/merge_mizutani.py && python3 -I scripts/build_places.py && python3 -I scripts/build_study_view.py && python3 -I map/build_geo.py && python3 -I map/build_page.py
+python3 -I scripts/merge_mizutani.py && python3 -I scripts/build_places.py && python3 -I scripts/build_study_view.py && python3 -I scripts/place_from_text.py && python3 -I scripts/build_study_view.py && python3 -I map/build_geo.py && python3 -I map/build_page.py
 ```

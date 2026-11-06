@@ -108,8 +108,9 @@ Stein (*On Ancient Central-Asian Tracks* p. 47) (agreed). Beal: the legend may e
 **Evidence.** A standing ruin on a steep rock, still locally called "princess's tower", matches the legend of the
 Han bride placed on an isolated peak and the palace built on it (T51:0941c). The Life gives only the king's
 Cīnadevagotra claim.
-**Assessment.** Secure as the legend's site: a standing monument whose local name carries the legend. It rests on
-Stein's report as cited by Mizutani.
+**Assessment.** The most likely site of the legend: a standing ruin whose local name carries the legend. It rests on
+Stein's report as cited by Mizutani. Confidence medium: the match is the legend and a local name reported by Stein
+(via Mizutani); the text gives no position or measurement to test the ruin against.
 
 ### 12.20 佉沙國 (khāsa) — Kashgar
 

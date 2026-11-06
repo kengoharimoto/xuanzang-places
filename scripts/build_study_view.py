@@ -4,13 +4,15 @@
 Usage (from xuanzang-places/): python3 -I scripts/build_study_view.py  -> data/study_view.tsv
 Inputs: data/places.tsv (all places, Mizutani's and the added ones), data/notes/updates_*.tsv (the notes' proposed
 identification, kind of change and confidence), data/coords.tsv (Mizutani's points), data/coords_study.tsv (the study's
-own proposed sites), data/coords_added.tsv (points for the added places).
+own proposed sites), data/coords_added.tsv (points for the added places), data/coords_text.tsv (points placed from
+Xuanzang's own bearing and distance, the last fallback).
 
 Point: the study's proposed site where it settles on one (coords_study), else the added place's point, else
 Mizutani's point (accepted, or untested). Class (the study's confidence, from the notes' assessments):
   secure      confidence high, Mizutani kept or strengthened, or a single proposed site with high confidence
   probable    confidence medium
   open        confidence low; or weakened; or an alternative left open between candidates
+  text        placed from Xuanzang's own bearing and distance (no site identified)
   untested    no note: Mizutani's identification (or, for added places, the sources'), not assessed by the study
   unlocated   no point
 """
@@ -20,6 +22,8 @@ P = rd("data/places.tsv")
 U = {r["id"]: r for f in glob.glob("data/notes/updates_*.tsv") for r in rd(f)}
 MZ = {r["id"]: r for r in rd("data/coords.tsv")}
 ST = {r["id"]: r for r in rd("data/coords_study.tsv")}
+try: CT = {r["id"]: r for r in rd("data/coords_text.tsv")}   # placed from the text (scripts/place_from_text.py)
+except FileNotFoundError: CT = {}
 try: AD = {r["id"]: r for r in rd("data/coords_added.tsv")}
 except FileNotFoundError: AD = {}
 def pt(r, lab_key):
@@ -31,9 +35,11 @@ for p in P:
     if i in ST: src, q = "study", pt(ST[i], "label")
     elif i in AD: src, q = "added", pt(AD[i], "label")
     else: src, q = "Mizutani", pt(MZ.get(i, {}), "modern_name")
+    if not q and i in CT: src, q = "text", pt(CT[i], "label")
     conf, ch, prop = u.get("confidence", ""), u.get("change", ""), u.get("proposed", "")
     open_alt = ch == "alternative" and i not in ST and bool(re.search(r"\bor\b|\bopen\b|equal weight|; .*?rival", prop))
     if not q: cls = "unlocated"
+    elif src == "text": cls = "text"     # a point from Xuanzang's own figures: a description located, not a site identified
     elif not u: cls = "untested"
     elif ch == "weakened" or conf == "low" or open_alt: cls = "open"
     elif conf == "high": cls = "secure"

@@ -8,7 +8,7 @@
 :root {
   --paper: #f4f5f1; --panel: #fbfbf8; --ink: #1c2220; --muted: #5d6662; --rule: #d6dad3;
   --indigo: #2f4d7a;            /* accent: route line, links, focus */
-  --agreed: #3f7f6e; --added: #7a5aa6; --secure: #2f7a5f; --probable: #4f7fb0; --open: #c0662d; --untested: #9a8fb0; --uncertain: #b88a1c; --disputed: #b8452f; --unknown: #8b918c;
+  --agreed: #3f7f6e; --added: #7a5aa6; --secure: #2f7a5f; --probable: #4f7fb0; --open: #c0662d; --untested: #9a8fb0; --text: #b9b3a6; --uncertain: #b88a1c; --disputed: #b8452f; --unknown: #8b918c;
   --land: #e6e8e1; --land-stroke: #c7cbc2; --sea: #eef1f0;
   --display: "Spectral", "Noto Serif CJK JP", "Songti SC", serif;
   --body: "Source Sans 3", "Hiragino Sans", "Noto Sans CJK JP", system-ui, sans-serif;
@@ -16,11 +16,11 @@
 }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
   --paper: #161a19; --panel: #1d2221; --ink: #e5e8e3; --muted: #9aa39e; --rule: #333a37;
-  --indigo: #8fa9d6; --agreed: #6fb39f; --added: #a98bd3; --secure: #6fbf9a; --probable: #86aee0; --open: #e3925a; --untested: #b4abc8; --uncertain: #d9ac45; --disputed: #e07a62; --unknown: #8d948f;
+  --indigo: #8fa9d6; --agreed: #6fb39f; --added: #a98bd3; --secure: #6fbf9a; --probable: #86aee0; --open: #e3925a; --untested: #b4abc8; --text: #6f6a60; --uncertain: #d9ac45; --disputed: #e07a62; --unknown: #8d948f;
   --land: #252b29; --land-stroke: #39413e; --sea: #1a1f1e; color-scheme: dark } }
 :root[data-theme="dark"] {
   --paper: #161a19; --panel: #1d2221; --ink: #e5e8e3; --muted: #9aa39e; --rule: #333a37;
-  --indigo: #8fa9d6; --agreed: #6fb39f; --added: #a98bd3; --secure: #6fbf9a; --probable: #86aee0; --open: #e3925a; --untested: #b4abc8; --uncertain: #d9ac45; --disputed: #e07a62; --unknown: #8d948f;
+  --indigo: #8fa9d6; --agreed: #6fb39f; --added: #a98bd3; --secure: #6fbf9a; --probable: #86aee0; --open: #e3925a; --untested: #b4abc8; --text: #6f6a60; --uncertain: #d9ac45; --disputed: #e07a62; --unknown: #8d948f;
   --land: #252b29; --land-stroke: #39413e; --sea: #1a1f1e; color-scheme: dark }
 body { background: var(--paper); color: var(--ink); font: 15px/1.5 var(--body); }
 .wrap { max-width: 1320px; margin: 0 auto; padding-block: 20px 40px;
@@ -100,6 +100,7 @@ footer { margin-top: 18px; color: var(--muted); font-size: 12px; max-width: 90ch
   <button class="chip" data-status="secure" aria-pressed="true"><span class="dot" style="background:var(--secure)"></span>Secure</button>
   <button class="chip" data-status="probable" aria-pressed="true"><span class="dot" style="background:var(--probable)"></span>Probable</button>
   <button class="chip" data-status="open" aria-pressed="true"><span class="dot" style="background:var(--open)"></span>Open</button>
+  <button class="chip" data-status="text" aria-pressed="true" title="No site identified: placed approximately from Xuanzang's own bearing and distance"><span class="dot" style="background:var(--text)"></span>Placed from the text</button>
   <button class="chip" data-status="untested" aria-pressed="true" title="Not assessed by the study: Mizutani's identification, or the sources' for added places"><span class="dot" style="background:var(--untested)"></span>Untested</button>
   <button class="chip" id="f-change" aria-pressed="false"><span class="ring"></span>Only where the notes change Mizutani's picture</button>
   <label>Juan <select id="f-juan"><option value="0">all</option></select></label>
@@ -146,7 +147,7 @@ const AUTHN = {julien:"Julien", vivien:"Vivien de Saint-Martin", cunningham:"Cun
 const CHANGE = {strengthened:"Gazetteers support Mizutani", weakened:"Gazetteers weaken Mizutani", alternative:"Better-supported alternative", "new-candidate":"New candidate from the gazetteers", none:"Mizutani stands"};
 const BIG = new Set(["alternative","new-candidate","weakened"]);
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const col = s => `var(--${["secure","probable","open","untested","agreed","uncertain","disputed","unknown","added"].includes(s) ? s : "unknown"})`;
+const col = s => `var(--${["secure","probable","open","text","untested","agreed","uncertain","disputed","unknown","added"].includes(s) ? s : "unknown"})`;
 
 const juans = [...new Set(P.map(p => p.juan))].sort((a,b)=>a-b);
 const jsel = document.getElementById("f-juan");
@@ -192,7 +193,7 @@ P.forEach(p => {
 const affEl = document.getElementById("affchips");
 AFF.forEach(([k, lab]) => { const n = P.filter(p => p.tags.has(k)).length;
   affEl.insertAdjacentHTML("beforeend", `<button class="chip aff" data-aff="${k}" aria-pressed="false">${lab} <span class="sub">${n}</span></button>`); });
-const state = {status: new Set(["secure","probable","open","untested","unlocated"]), visit: new Set(["visited","hearsay","unclear"]), aff: new Set(), kh:false, alt:false, sp:false, change:false, juan:0, level:"", q:"", sel:null};
+const state = {status: new Set(["secure","probable","open","text","untested","unlocated"]), visit: new Set(["visited","hearsay","unclear"]), aff: new Set(), kh:false, alt:false, sp:false, change:false, juan:0, level:"", q:"", sel:null};
 const visible = p => (!state.kh || (p.kh && p.kh.length)) && state.status.has(p.status) && state.visit.has(p.visitEff) && (!state.aff.size || [...state.aff].some(a => p.tags.has(a))) && (!state.change || BIG.has(p.change) || p.change === "strengthened")
   && (!state.juan || p.juan === state.juan) && (!state.level || p.level === state.level || (state.level === "country" && p.level === "region"))
   && (!state.q || [p.zh,p.ja,p.orig,p.mz,p.modern,p.proposed,p.id].join(" ").toLowerCase().includes(state.q));
@@ -258,7 +259,7 @@ function panel(p) {
     <div class="badges"><span class="badge" style="color:${col(p.status)}">${esc(p.status)}${p.status === "untested" ? (p.mzstatus === "added" ? " (sources)" : " (Mizutani)") : ""}</span>${p.mzstatus && p.mzstatus !== "added" ? `<span class="badge" style="color:var(--muted)">Mizutani: ${esc(p.mzstatus)}</span>` : p.mzstatus === "added" ? `<span class="badge" style="color:var(--muted)">added place</span>` : ""}
       ${p.visit ? `<span class="badge" style="color:var(--muted)">${esc(p.visit)}</span>` : ""}
       ${p.change && p.change !== "none" ? `<span class="badge" style="color:var(--ink)">${esc(CHANGE[p.change]||p.change)}${p.conf ? " · " + esc(p.conf) : ""}</span>` : ""}</div>
-    <dl><dt>The study</dt><dd>${esc(p.sid || p.mz || "no identification")}${p.sopen ? ` <span class="sub">(left open between the candidates named)</span>` : ""}<br><span class="sub">${p.lat != null ? `On the map: ${esc(p.slabel || p.modern || "")}${p.sprec ? " (" + esc(p.sprec) + ")" : ""}; point from ${p.sfrom === "study" ? "the study's proposal" : p.sfrom === "added" ? "the sources (added place)" : "Mizutani"}` : "Not located"}</span></dd>
+    <dl><dt>The study</dt><dd>${esc(p.sid || p.mz || "no identification")}${p.sopen ? ` <span class="sub">(left open between the candidates named)</span>` : ""}<br><span class="sub">${p.lat != null ? `On the map: ${esc(p.slabel || p.modern || "")}${p.sprec ? " (" + esc(p.sprec) + ")" : ""}; point from ${p.sfrom === "study" ? "the study's proposal" : p.sfrom === "added" ? "the sources (added place)" : p.sfrom === "text" ? "Xuanzang's own bearing and distance (approximate; no site identified)" : "Mizutani"}` : "Not located"}</span></dd>
     <dt>Mizutani</dt><dd>${esc(p.mz || "no identification")}${p.mzOther ? `<br><span class="sub">Others he reports: ${esc(p.mzOther)}</span>` : ""}</dd>
     ${p.proposed && p.change && p.change !== "none" ? `<dt>Proposed</dt><dd>${esc(p.proposed)}${p.basis ? `<br><span class="sub">${esc(p.basis)}</span>` : ""}</dd>` : ""}
     ${auth}
