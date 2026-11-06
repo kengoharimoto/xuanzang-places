@@ -1051,6 +1051,10 @@ Minagar. Haig (in Watters p. 253): Xuanzang's Sindh is "not the Sindh of any per
 
 **Gazetteers.** None.
 
+**Mirchandani.** Mirchandani (ABORI 57, 1976, pp. 87–90) argues that Xuanzang's 信度 lay west of the Indus opposite
+Multan, ruled by a Śūdra king, and puts its capital on the Indus near Mithankot (Dera Ghazi Khan district), not at
+Alor, from the bearings from Multan and Gurjara and the *Life*'s 700 li from Avaṇḍa (= Kachhi, capital Gandāva).
+
 **Assessment.** Branfill's Vijnot gives a closer sound for Pi-chen-po-pu-lo, but these sources offer no evidence
 beyond the name. Alor, the historical capital of Upper Sindh, stands.
 
@@ -1111,10 +1115,14 @@ a place called Sindhu-sāgara" (Sachau I p. 260). The Skandapurāṇa puts the l
 confluence of the Sindhu and the ocean" (SP 73.57; SP IV p. 57), which Bakker locates at Banbhore, perhaps Debal (SP
 IV p. 55 n. 133). Mirchandani (JIH 47, 1969, pp. 237–51) discusses this capital's name.
 
+**Mirchandani.** Mirchandani (JIH 47, 1969, p. 250, after his JIH 1967 article) puts Atyanabakela in Las Bela,
+Baluchistan, and reads the capital as Kiteśvara < Kitaveśvara, = the Arab writers' Armābel near Bela.
+
 **Assessment.** These sources split between Karachi or the delta (Debal/Banbhore) and Koṭeśvara in Kutch. 朅 (*khjat)
 suits Kacch- better than Koṭi-. A great Śiva shrine at the Indus mouth served by ash-smearers fits this country's
 大自在天祠, and the Skandapurāṇa's Śaṅkukarṇa–Sthūleśvara lies there. Mizutani's lower Sindh stands, low to medium
-confidence; Banbhore joins Karachi and Koṭeśvara as a candidate for the capital.
+confidence; Banbhore joins Karachi and Koṭeśvara as a candidate for the capital, and Mirchandani's Las Bela as an
+alternative for the country.
 
 ### 11.19 狼揭羅國 (Laṅgala) — Mekran; capital 窣菟黎濕伐羅 = Sthūleśvara by name, unlocated
 
@@ -1133,10 +1141,16 @@ Sthūleśvara (Kafle, Niśvāsamukha pp. 99, 276). Al-Bīrūnī's coast list has
 Kacch (Sachau I p. 208; cf. Taneshar = Sthāneśvara, I p. 199); his Loharānī is the port at the western Indus mouth (I
 pp. 205, 260). Lākula is unsupported: lakula is Lakulīśa's club (Cecil 2020, p. 14).
 
+**Mirchandani.** Mirchandani's Sthūleśvara (JIH 47, 1969, p. 247) rests only on the Devī Bhāgavata's pīṭha
+Sthūlakeśvara, which he thought possibly fictitious; he put the city at Kasarkand in Persian Makran (p. 244) and took
+Laṅgala as lāṅgala 'palm', for Makran's dates (p. 246). The Skandapurāṇa and Śivadharmaśāstra attestations are new,
+from K. Harimoto's note.
+
 **Assessment.** The name Sthūleśvara is well supported. Its known locations, at the Indus mouth (Skandapurāṇa) and
 east of Daibal (al-Bīrūnī), lie in or beyond 11.18's country, not 2000 li west of it. Either another Sthūleśvara stood
 on the Makran coast, or the name belongs to the delta and Xuanzang's hearsay sequence for Laṅgala is confused.
-Mizutani's region stands for the country; the capital's name is now Sthūleśvara, its site open.
+Mizutani's region stands for the country; the capital's name is now Sthūleśvara, its site open
+(Mirchandani's Kasarkand rests on the route alone).
 
 ### 11.20 波剌斯國 (Pārsa) — Persia; capital Persepolis/Istakhr
 
@@ -1189,6 +1203,9 @@ not the Avanti of the canon.
 **K. Harimoto's notes.** Asks whether Avaṇḍa is al-Mansūra. Al-Bīrūnī says al-Mansūra is Bahmanwa renamed (Sachau I p.
 21); it was founded c. 744–74, a century after Xuanzang (Cunningham pp. 310–11), on the site Cunningham already gave
 Avaṇḍa. Lambrick puts Avaṇḍa at Badah, S of Larkana (Sind, pp. 149–50).
+
+**Mirchandani.** Mirchandani (ABORI 57, 1976, p. 86 n. 17, p. 90; JIH 45, 1967, pp. 343–49) puts Avaṇḍa in Kachhi
+(Kachh Gandāva), NW of Sindh, with its capital at Gandāva.
 
 **Assessment.** The authorities agree on Middle Sindh; Lambrick's Badah is a further candidate for the capital.
 Al-Mansūra adds a later name for Cunningham's site, not a new identification. Mizutani stands, with medium confidence

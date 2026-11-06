@@ -83,7 +83,8 @@ check.
 
   They are entered as a register (`data/user_obs/observations.tsv`, one row per observation, with an assessment) and
   as a paragraph in the relevant notes. Their proposals were tested against Kuwayama 2000 and 1972, Beal 1869/1884,
-  Sachau's al-Bīrūnī, Lambrick's *Sind*, the Skandapurāṇa vol. IV, Kafle's Niśvāsamukha, Cecil 2020, Nagasawa's 法顕伝・宋雲行紀 (OCR'd here with Google Vision) and Bakker's 2016 Gonda Lecture
+  Sachau's al-Bīrūnī, Lambrick's *Sind*, the Skandapurāṇa vol. IV, Kafle's Niśvāsamukha, Cecil 2020, Nagasawa's 法顕伝・宋雲行紀 (OCR'd here with Google Vision), Bakker's 2016 Gonda Lecture, Mirchandani's
+  articles of 1969 (JIH) and 1976 (ABORI), and Marquis's 2020 slides on Afghanistan
   (`data/user_obs/obs_*.tsv`, quotes checked with `scripts/check_quotes_obs.py`).
 
 ## Method
@@ -166,8 +167,10 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 - **Kapiśa** (01.38.02–03a). Kuwayama 2000 confirms the Rāhula monastery as the Borj-e Kafir stūpa SE of Begram;
   Mes Aynak is too far for 30 li. He reads 霫蔽多伐剌祠 as Śvetāśvatara, as the notes do, and places it at Tapa
   Skandar (Umā-Maheśvara). Aruṇa is the Sūrya temple of Khair Khana. Both are alternatives, long for the text's li.
-- **Laṅgala's capital** (11.19). 窣菟黎濕伐羅 = Sthūleśvara by name (also Mirchandani 1969). The Skandapurāṇa
-  puts that liṅga at the Indus mouth, so the site is open.
+- **Laṅgala's capital** (11.19). 窣菟黎濕伐羅 = Sthūleśvara by name. Mirchandani (1969) proposed it from the Devī
+  Bhāgavata alone and placed it at Kasarkand; the Skandapurāṇa puts that liṅga at the Indus mouth, so the site is open.
+- **Sindh and Baluchistan** (11.15–11.22). Mirchandani's Baluchistan reading is recorded: Las Bela, Kachhi/Gandāva,
+  and a Sindhu capital near Mithankot.
 - **Atyanabakela's capital** (11.18). Banbhore (Debal) is added to Karachi and Koṭeśvara.
 - **Songyun's 濕婆仙** (02.04.15). A Śiva shrine inside the Daṇḍaloka monastery c. 520. Beal missed it; Nagasawa
   had already read it as Śiva, with ash-smearers.
