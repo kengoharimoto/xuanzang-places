@@ -1055,6 +1055,12 @@ Minagar. Haig (in Watters p. 253): Xuanzang's Sindh is "not the Sindh of any per
 Multan, ruled by a Śūdra king, and puts its capital on the Indus near Mithankot (Dera Ghazi Khan district), not at
 Alor, from the bearings from Multan and Gurjara and the *Life*'s 700 li from Avaṇḍa (= Kachhi, capital Gandāva).
 
+**Mirchandani 1967.** In "On Hiuen Tsiang's travels in Baluchistan" (JIH 45, 1967, pp. 309–c. 356) Mirchandani takes
+the li as c. 329 m (about 5 to the mile) and reads all distances capital to capital (p. 311). He puts 信度 west of the
+Indus in the Derajat, its capital near Mithankot, site untraced (pp. 314–21): 1900 li north of Bhinmal, Multan across
+the river, the rock salt of the Salt Range, and the riverine strip of Dera Ghazi Khan still called "Sindh". He argues
+against Alor (Cunningham, Haig, Smith, Lambrick).
+
 **Assessment.** Branfill's Vijnot gives a closer sound for Pi-chen-po-pu-lo, but these sources offer no evidence
 beyond the name. Alor, the historical capital of Upper Sindh, stands.
 
@@ -1094,6 +1100,12 @@ Punjab 1919 puts Po-fa-to NE of Multan.
 a merchant's family, is "possibly identical with Po-fa-to". It is a name match, and Rewa lies far from the Panjab
 where Xuanzang places Parvata.
 
+**Bakker.** Bakker (in Balogh ed., *Hunnic Peoples in Central and South Asia*, 2020, pp. 277–78) takes the
+Kuvalayamālā's Pavvaïyā (Parvatikā), Toramāṇa's residence on the Chenab, to be at Akhnūr–Ambaran (Jammu; ASI
+excavations in IAR 1961–63, 1973–74, 1999–2001), the capital of a country Parvata, and links it with Xuanzang's 鉢伐多,
+subject to Ṭakka, "roughly the region around Sialkot". Xuanzang's 700 li NE of Multan (c. 170–220 km at the route
+model's scale) falls well short of Sialkot or Akhnūr (c. 350–400 km).
+
 **Assessment.** Shorkot fails on the measured circuit and needs an emended name; Harappa rests on size and position.
 The Bandhogarh Pavata does not bear on the site. Mizutani stands, with Jammu too far from Multan (later work, not in
 these sources, assigns the seal to the Indus civilization).
@@ -1118,11 +1130,18 @@ IV p. 55 n. 133). Mirchandani (JIH 47, 1969, pp. 237–51) discusses this capita
 **Mirchandani.** Mirchandani (JIH 47, 1969, p. 250, after his JIH 1967 article) puts Atyanabakela in Las Bela,
 Baluchistan, and reads the capital as Kiteśvara < Kitaveśvara, = the Arab writers' Armābel near Bela.
 
+**Mirchandani 1967.** Mirchandani puts the country in Las Bela (the Arabs' Armābel) and the capital at Gondakahar, 11
+miles NW of Bela (pp. 322–30), reached 1500–1600 li SW from his Sin-tu via Kachhi. He argues against Cutch/Koṭeśvara
+(Cutch lies south, not south-west, of Sin-tu and borders neither Makran nor the Indus), against the delta and Debal
+(Smith, Lambrick), and against Karachi (Vivien). The Chachnāma's Armābel, with a Buddhist chief subject to Sind in
+631, is his main support; he admits the name does not match the transcription. In 1969 (p. 250) he read the capital's
+name as Kiteśvara.
+
 **Assessment.** These sources split between Karachi or the delta (Debal/Banbhore) and Koṭeśvara in Kutch. 朅 (*khjat)
 suits Kacch- better than Koṭi-. A great Śiva shrine at the Indus mouth served by ash-smearers fits this country's
 大自在天祠, and the Skandapurāṇa's Śaṅkukarṇa–Sthūleśvara lies there. Mizutani's lower Sindh stands, low to medium
-confidence; Banbhore joins Karachi and Koṭeśvara as a candidate for the capital, and Mirchandani's Las Bela as an
-alternative for the country.
+confidence; Banbhore joins Karachi and Koṭeśvara as a candidate for the capital, and Mirchandani's Las Bela (capital
+Gondakahar) as an alternative for the country, resting on the Chachnāma's Armābel rather than on the name.
 
 ### 11.19 狼揭羅國 (Laṅgala) — Mekran; capital 窣菟黎濕伐羅 = Sthūleśvara by name, unlocated
 
@@ -1145,6 +1164,9 @@ pp. 205, 260). Lākula is unsupported: lakula is Lakulīśa's club (Cecil 2020, 
 Sthūlakeśvara, which he thought possibly fictitious; he put the city at Kasarkand in Persian Makran (p. 244) and took
 Laṅgala as lāṅgala 'palm', for Makran's dates (p. 246). The Skandapurāṇa and Śivadharmaśāstra attestations are new,
 from K. Harimoto's note.
+
+**Mirchandani 1967.** Mirchandani makes Laṅgala "Greater Makran" with its capital at Kasarkand in Persian Makran,
+reached along the Kech valley, "less than 2000 li" west of Bela (pp. 330–37), against Cunningham's Lākoriān.
 
 **Assessment.** The name Sthūleśvara is well supported. Its known locations, at the Indus mouth (Skandapurāṇa) and
 east of Daibal (al-Bīrūnī), lie in or beyond 11.18's country, not 2000 li west of it. Either another Sthūleśvara stood
@@ -1189,6 +1211,11 @@ Vivien (p. 412): no comparison possible.
 
 **Gazetteers.** None.
 
+**Mirchandani 1967.** Mirchandani identifies 臂多勢羅 with Turān (Jhalawan), capital Kusdar (Khuzdar), reading the name as
+Paṭṭa-śilā; 700 li (c. 143 miles) north from Bela matches Bela–Kusdar, 139 miles (pp. 337–43). He argues against
+Hyderabad (Cunningham), Haig, and Lambrick's Sehwan. The Chachnāma's march from Armābel through Turān to Kandabil
+supports the sequence.
+
 **Assessment.** The three placements differ materially, and none cites remains. Mizutani follows Cunningham, and
 confidence is low.
 
@@ -1207,6 +1234,9 @@ Avaṇḍa. Lambrick puts Avaṇḍa at Badah, S of Larkana (Sind, pp. 149–50)
 **Mirchandani.** Mirchandani (ABORI 57, 1976, p. 86 n. 17, p. 90; JIH 45, 1967, pp. 343–49) puts Avaṇḍa in Kachhi
 (Kachh Gandāva), NW of Sindh, with its capital at Gandāva.
 
+**Mirchandani 1967.** Mirchandani identifies Avaṇḍa with Budha/Budhiya = Kachhi, capital Kandabil = Gandāva (pp.
+343–47), but must emend Xuanzang's 300 li to 500.
+
 **Assessment.** The authorities agree on Middle Sindh; Lambrick's Badah is a further candidate for the capital.
 Al-Mansūra adds a later name for Cunningham's site, not a new identification. Mizutani stands, with medium confidence
 for the region and low for the capital.
@@ -1218,6 +1248,9 @@ endorsement) and Dey: Bannu. Vivien (p. 414) and Smith (in Watters p. 262): Vane
 Cunningham's view is open to "serious exceptions".
 
 **Gazetteers.** None.
+
+**Mirchandani 1967.** Mirchandani puts 伐剌拏 in the Bolan–Loralai region, capital at or near Duki (pp. 350–53), against
+Bannu (Cunningham, Stein) and Vaneh (Vivien, Smith, Lambrick); the argument depends on his Gandāva for 11.22.
 
 **Assessment.** Pāṇini's Varṇu and Stein's endorsement favour Bannu. Mizutani stands, with medium confidence.
 
@@ -1234,6 +1267,8 @@ ruler, sheep and fine horses. The sites he surveyed are prehistoric or late, so 
 and terrain, not on a find.
 
 **Gazetteers.** None.
+
+**Mirchandani 1967.** Mirchandani makes 稽疆那 the Kīkānān of the Arab writers, the Quetta–Pishin region (p. 354).
 
 **Assessment.** Cunningham's Pishin rested on the Arab Kīkān. Stein places that Qīqān in Waziristan too, which takes
 away Cunningham's ground, and his field tour fits the description, as Bannu (11.23) and the route already did.

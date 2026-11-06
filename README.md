@@ -84,7 +84,8 @@ check.
   They are entered as a register (`data/user_obs/observations.tsv`, one row per observation, with an assessment) and
   as a paragraph in the relevant notes. Their proposals were tested against Kuwayama 2000 and 1972, Beal 1869/1884,
   Sachau's al-Bīrūnī, Lambrick's *Sind*, the Skandapurāṇa vol. IV, Kafle's Niśvāsamukha, Cecil 2020, Nagasawa's 法顕伝・宋雲行紀 (OCR'd here with Google Vision), Bakker's 2016 Gonda Lecture, Mirchandani's
-  articles of 1969 (JIH) and 1976 (ABORI), and Marquis's 2020 slides on Afghanistan
+  articles of 1967 and 1969 (JIH) and 1976 (ABORI), the open-access Hunnic Peoples sourcebook (Balogh ed. 2020),
+  and Marquis's 2020 slides on Afghanistan
   (`data/user_obs/obs_*.tsv`, quotes checked with `scripts/check_quotes_obs.py`).
 
 ## Method
@@ -169,8 +170,11 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
   Skandar (Umā-Maheśvara). Aruṇa is the Sūrya temple of Khair Khana. Both are alternatives, long for the text's li.
 - **Laṅgala's capital** (11.19). 窣菟黎濕伐羅 = Sthūleśvara by name. Mirchandani (1969) proposed it from the Devī
   Bhāgavata alone and placed it at Kasarkand; the Skandapurāṇa puts that liṅga at the Indus mouth, so the site is open.
-- **Sindh and Baluchistan** (11.15–11.22). Mirchandani's Baluchistan reading is recorded: Las Bela, Kachhi/Gandāva,
-  and a Sindhu capital near Mithankot.
+- **Sindh and Baluchistan** (11.15–11.23). Mirchandani's Baluchistan reading (1967) is recorded as a coherent
+  alternative route: Sindhu in the Derajat, Atyanabakela = Las Bela, Pītaśilā = Khuzdar, Avaṇḍa = Kachhi/Gandāva,
+  Varṇa near Duki. It rests on the Chachnāma and needs one emended distance.
+- **Parvata** (11.17). Bakker (2020) links it with Toramāṇa's Parvatikā near Akhnūr/Sialkot; the distance from Multan
+  is too short for that.
 - **Atyanabakela's capital** (11.18). Banbhore (Debal) is added to Karachi and Koṭeśvara.
 - **Songyun's 濕婆仙** (02.04.15). A Śiva shrine inside the Daṇḍaloka monastery c. 520. Beal missed it; Nagasawa
   had already read it as Śiva, with ash-smearers.
