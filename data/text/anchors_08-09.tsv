@@ -1,0 +1,54 @@
+id	mode	anchor	end_anchor	note
+08.00	segment	摩揭陀國，周五千餘里。		country description up to the old city of Pāṭaliputra
+08.02.01	segment	殑伽河南有故城，周七十餘里		includes the name legend and Aśoka's hell (地獄) story
+08.02.03	segment	地獄南不遠有窣堵波，基址傾陷		includes the Buddha-footprint vihāra (佛足石精舍), which has no id
+08.02.05	segment	佛迹精舍側不遠，有大石柱		runs on through sites without ids: Mahendra's stone chamber, stone trough, small stone hill, five stūpas
+08.03.01	segment	故城東南有屈吒阿濫摩僧伽藍		includes Āmalaka stūpa, ghaṇṭā stūpa (Deva legend) and the ghost-debater Brahmin's site
+08.03.05	segment	城西南隅二百餘里，有伽藍餘跡		
+08.04.01	segment	故伽藍西南行百餘里，至鞮羅釋迦伽藍		text has 鞮羅釋迦 (master: 鞮羅擇迦)
+08.04.02	segment	鞮羅釋迦伽藍西南九十餘里，至大山		
+08.04.03	segment	山西北三十餘里，山阿有伽藍		includes the Guṇamati–Mādhava debate legend
+08.04.04	segment	德慧伽藍西南二十餘里，至孤山		includes the Śīlabhadra debate legend
+08.05.01	segment	戒賢伽藍西南行四五十里，渡尼連禪河		
+08.05.01a	segment	城西南五六里至伽耶山。		includes Kāśyapa's birthplace and the fire-worship stūpas of Gayā- and Nadī-Kāśyapa
+08.05.03	segment	伽耶迦葉波事火東，渡大河		
+08.06.01	segment	前正覺山西南行十四五里，至菩提樹。		enclosure, vajrāsana and the Bodhi tree
+08.06.04	segment	菩提樹東有精舍，高百六七十尺		runs on through many sites without ids inside and around the enclosure (cankrama, Kāśyapa Buddha vihāra, saffron stūpa, ponds) up to Mucilinda's pool
+08.06.18	segment	帝釋化池東，林中有目支隣陀龍王池		includes the ascetic-practice site and the five companions' dwelling
+08.06.21	segment	憍陳如等住處東南有窣堵波，菩薩入尼連禪那		runs on through the merchants' offering, four bowls, Kāśyapa conversion and rescue-from-flood stūpas
+08.06.28	segment	菩提樹垣東門外二三里，有盲龍室。		includes Māra's attack stūpa at the east gate
+08.06.30	segment	菩提樹北門外摩訶菩提僧伽藍	七月十五日解安居也。	last segment of juan 8; includes the closing note on the rains retreat
+09.01.01	segment	菩提樹東渡尼連禪那河，大林中有窣堵波。		first sentence of juan 9 (after the juan heading)
+09.01.02	segment	四佛坐東渡莫訶河，至大林中，有石柱		includes the Udraka Rāmaputra legend
+09.01.02a	excerpt	四佛坐東渡莫訶河	是外道入定發惡願處。	no separate section; river named in the route sentence to the stone pillar (also 莫訶河東入大林野 at the start of 09.01.03)
+09.01.03	segment	莫訶河東入大林野，行百餘里		
+09.02.01	segment	鷄足山東北行百餘里，至佛陀伐那山。		
+09.02.02	segment	佛陀伐那山空谷中東行三十餘里		includes Jayasena
+09.02.03	segment	杖林西南十餘里，大山陽，有二溫泉		
+09.02.03a	segment	杖林東南行六七里，至大山		
+09.02.03b	segment	大山北三四里，有孤山		
+09.02.03c	segment	孤山東北四五里，有小孤山		includes the asura palace and Bimbisāra's causeway
+09.02.04	segment	從此大山中東行六十餘里，至矩奢揭羅補羅城		runs on through the drunk-elephant, Śāriputra-conversion and Śrīgupta fire-pit stūpas
+09.02.08	segment	勝密火坑東北，山城之曲，有窣堵波		
+09.02.09	segment	宮城東北行十四五里，至姞栗陀羅矩吒山。		approach and Bimbisāra's stairway, up to the summit vihāra
+09.02.10	segment	臨崖西埵有甎精舍		summit sites, to the stūpa on the north peak
+09.02.11	segment	山城北門西有毘布羅山		hot springs
+09.02.11a	segment	溫泉西有卑鉢羅石室		includes the stūpa on top of Vipula (毘布羅山上有窣堵波), which follows the cave legend
+09.02.12	segment	山城北門左，南崖陰，東行二三里		includes the two self-sacrifice stūpas
+09.02.13	segment	山城北門行一里餘，至迦蘭陀竹園。		
+09.02.14	segment	迦蘭陀竹園東有窣堵波，阿闍多設咄路王		includes Ānanda's half-body relics and the rains-retreat stūpa
+09.02.16	segment	竹林園西南行五六里，南山之陰		includes the Ānanda-attainment stūpa
+09.02.16a	segment	阿難證果西行二十餘里		
+09.02.17	segment	竹林精舍北行二百餘步，至迦蘭陀池		
+09.02.17a	segment	迦蘭陀池西北行二三里，有窣堵波		
+09.02.18	segment	石柱東北不遠，至曷羅闍姞利呬城。		
+09.03.01	segment	從此北行三十餘里，至那爛陀僧伽藍。		history and community of Nālandā
+09.03.06	segment	伽藍西不遠有精舍，在昔如來三月止此		runs on through all the Nālandā sites (Avalokiteśvara images, Bālāditya vihāra, Pūrṇavarman's copper Buddha, Tārā, well)
+09.03.08	segment	伽藍西南行八九里，至拘理迦邑		includes the Bimbisāra-welcome stūpa
+09.03.10	segment	頻毘娑羅王迎佛東南行二十餘里		includes the stūpa of Śāriputra's disciples
+09.03.11	segment	舍利子門人窣堵波東行三十餘里		includes the haṃsa stūpa
+09.03.13	segment	因陀羅勢羅窶訶山東北行百五六十里		
+09.03.14	segment	迦布德迦伽藍南二三里，至孤山。		
+09.03.15	segment	孤山觀自在菩薩像東南行四十餘里		
+09.03.15a	segment	伽藍東北行七十餘里，殑伽河南		
+09.03.15b	segment	從此東入山林中，行百餘里，至落般膩羅聚落	至伊爛拏鉢伐多國。	last segment of juan 9; includes the route sentence to 伊爛拏鉢伐多國

@@ -64,7 +64,13 @@ def asr_tag(r):
     v = r.get("file", "").replace(".txt", "").replace("asr", "ASR ").replace("mukherji1901_tarai", "Mukherji 1901")
     return f'{r.get("author","")}, {v}' + (f' p. {r["page"]}' if r.get("page") else "")
 cols = ["id", "juan", "level", "parent", "name_zh", "name_ja", "original_name", "visit", "mz_identification",
-        "mz_other_views", "mz_status"] + AUTH + ["gaz_n", "gaz_argues", "gaz_volumes", "gaz_local_evidence", "asr", "asr_n", "asr_evidence", "ar", "ar_n", "ar_evidence", "epig", "epig_n", "epig_evidence", "iar", "iar_n", "iar_evidence"]
+        "mz_other_views", "mz_status"] + AUTH + ["gaz_n", "gaz_argues", "gaz_volumes", "gaz_local_evidence", "asr", "asr_n", "asr_evidence", "ar", "ar_n", "ar_evidence", "epig", "epig_n", "epig_evidence", "iar", "iar_n", "iar_evidence", "t2087_ref", "t2087_text", "translation", "translation_source"]
+def _load(path, key="id"):
+    try: return {r[key]: r for r in rd(path)}
+    except FileNotFoundError: return {}
+PASS = {}
+for f in sorted(glob.glob("data/text/passages_*.tsv")): PASS.update(_load(f))
+TRAN = _load("data/text/translation_dm.tsv")
 out = []
 for m in master:
     row = {k: m.get(k, "") for k in cols}
@@ -86,6 +92,9 @@ for m in master:
     row["ar"] = " | ".join(dict.fromkeys(f'{r["asr_identification"]} [{r["stance"]}; {asr_tag(r)}]' for r in a if r.get("asr_identification")))
     row["ar_n"] = len(a)
     row["ar_evidence"] = " || ".join(f'[{asr_tag(r)}] {r["evidence"]}' for r in a if r.get("evidence", "").strip())
+    pz, tr = PASS.get(m["id"], {}), TRAN.get(m["id"], {})
+    row["t2087_ref"] = pz.get("t_ref", ""); row["t2087_text"] = pz.get("zh", "")
+    row["translation"] = tr.get("en", ""); row["translation_source"] = (tr.get("model", "") + " " + tr.get("date", "")).strip()
     for col, store in (("epig", epg), ("iar", iar)):
         a = store[m["id"]]
         row[col] = " | ".join(dict.fromkeys(f'{r["asr_identification"]} [{r["stance"]}; {src_tag(r)}]' for r in a if r.get("asr_identification")))
@@ -95,6 +104,7 @@ for m in master:
 w = csv.DictWriter(open("data/places.tsv", "w", encoding="utf-8", newline=""), cols, delimiter="\t", lineterminator="\n")
 w.writeheader(); w.writerows(out)
 print(len(out), "rows; authority coverage:", {a: sum(1 for r in out if r[a]) for a in AUTH})
+print("rows with text:", sum(1 for r in out if r["t2087_text"]), "; with translation:", sum(1 for r in out if r["translation"]))
 print("rows with Annual Report passages:", sum(1 for r in out if r["ar_n"]))
 print("rows with ASR passages:", sum(1 for r in out if r["asr_n"]))
 print("rows with gazetteer passages:", sum(1 for r in out if r["gaz_n"]), "; with argued/doubting/alternative:", sum(1 for r in out if r["gaz_argues"]))

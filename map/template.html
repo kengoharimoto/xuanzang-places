@@ -72,6 +72,11 @@ tr.row { cursor: pointer; }
 tr.row:hover, tr.row.sel { background: color-mix(in srgb, var(--indigo) 10%, transparent); }
 .zh { font-family: var(--display); }
 footer { margin-top: 18px; color: var(--muted); font-size: 12px; max-width: 90ch; }
+.text { border-top: 1px solid var(--rule); margin-top: 12px; padding-top: 8px; }
+.text summary { cursor: pointer; font-weight: 600; font-family: var(--display); }
+.text .zhp { font-family: "Noto Serif CJK TC", "Songti TC", "Noto Serif CJK JP", var(--display); font-size: 15px; line-height: 1.9; margin: 8px 0; }
+.text .enp { font-size: 14px; max-width: 70ch; }
+.text .src { color: var(--muted); font-size: 12px; }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 </style>
 
@@ -201,6 +206,10 @@ function panel(p) {
     ${p.iaN ? `<dt>Excavations after 1953 (IAR)</dt><dd>${esc(p.ia)}${p.iaEv ? `<br><span class="sub">${esc(p.iaEv)}</span>` : ""}</dd>` : ""}
     <dt>Gazetteers</dt><dd>${p.gazN ? `${p.gazN} passages${p.gazArg ? `, ${p.gazArg} argue, doubt or propose another site` : ""}<br><span class="sub">${esc(p.gazVols)}</span>` : "none"}</dd>
     <dt>On the map</dt><dd>${p.lat != null ? `${esc(p.modern)} <span class="sub">(${esc(p.prec)}${p.cnote ? "; " + esc(p.cnote) : ""})</span>` : "not mapped"}</dd></dl>
+    ${p.zht ? `<details class="text"><summary>Text and translation</summary>
+      <p class="zhp">${esc(p.zht)}</p><p class="src">Taishō 51, no. 2087, ${esc(p.tref.replace("T51:", "p. "))} (CBETA)</p>
+      ${p.en ? `<p class="enp">${esc(p.en).replace(/\*([^*]+)\*/g, "<i>$1</i>")}</p><p class="src">Machine translation: DharmaMitra.</p>` : `<p class="src">Translation pending.</p>`}
+    </details>` : ""}
     ${p.note ? `<div class="note"><b>${esc(p.note.head)}</b>${p.note.body}</div>` : ""}`;
 }
 

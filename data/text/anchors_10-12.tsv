@@ -1,0 +1,133 @@
+id	mode	anchor	end_anchor	note
+10.01	segment	伊爛拏鉢伐多國，周三千餘里		passage from the juan-10 header (route sentence is at the end of juan 9)
+10.01.02	excerpt	大城側，臨殑伽河，有伊爛拏山	廣說妙法。	two sentences; the stupas and Śroṇa legend that follow concern the city and stay in the country passage
+10.01.04	segment	國西界殑伽河南，至小孤山		
+10.02	segment	從此順殑伽河南岸東行三百餘里		begins with the route sentence
+10.02.02a	segment	城東百四五十里，殑伽河南，水環孤嶼		
+10.03	segment	自此東行四百餘里，至羯朱嗢祇羅國		
+10.03.01a	segment	北境去殑伽河不遠，有大高臺		
+10.04	segment	自此東渡殑伽河，行六百餘里		
+10.04.02	segment	城西二十餘里有跋始婆僧伽藍		
+10.05	segment	自此東行九百餘里，渡大河		
+10.06	segment	從此南行千二三百里，至三摩呾吒國		
+10.06.02a	excerpt	從此東北大海濱山谷中	有室利差呾羅國。	hearsay; one sentence (the six countries are summed up in the next sentences: 凡此六國…)
+10.06.02b	excerpt	次東南大海隅有迦摩浪迦國	迦摩浪迦國。	hearsay; one sentence
+10.06.02c	excerpt	次東有墮羅鉢底國	墮羅鉢底國。	hearsay; one sentence
+10.06.02d	excerpt	次東有伊賞那補羅國	伊賞那補羅國。	hearsay; one sentence
+10.06.02e	excerpt	次東有摩訶瞻波國	林邑是也。	hearsay; one sentence
+10.06.02f	excerpt	次西南有閻摩那洲國	界聲聞可知。	hearsay; includes the closing sentence on all six countries (凡此六國…)
+10.07	segment	自三摩呾吒國西行九百餘里		
+10.08	segment	自此西北行七百餘里，至羯羅拏		
+10.08.02	segment	大城側有絡多未知僧伽藍		CBETA reads 絡多未知 (master 末知)
+10.09	segment	從此西南行七百餘里，至烏荼國		
+10.09.02	segment	國西南境大山中，有補澁波祇釐		
+10.09.02a	segment	此西北山伽藍中有窣堵波		
+10.09.03	segment	國東南境臨大海濱，有折利呾羅城		
+10.10	segment	自此西南大林中行千二百餘里		
+10.11	segment	從此西南入大荒野，深林巨木		
+10.11.02a	segment	國境北垂，大山嶺上有石窣堵波		
+10.12	segment	自此西北山林中行千八百餘里		
+10.12.05	segment	國西南三百餘里至跋邏末羅耆釐山		
+10.13	segment	從此大林中南行九百餘里		
+10.13.03	segment	所行羅漢伽藍西南行二十餘里，至孤山		
+10.14	segment	從此林野中南行千餘里		
+10.14.02a	segment	城東據山有弗婆勢羅僧伽藍		covers both monasteries (one sentence names both) and their joint description
+10.14.02b	excerpt	城西據山有阿伐羅勢羅僧伽藍	閴無僧眾。	shares its sentence and description with 10.14.02a (overlap)
+10.14.03	segment	城南不遠有大山巖，婆毘吠伽		
+10.15	segment	自此西南行千餘里，至珠利耶國		
+10.16	segment	從此南入林野中，行千五六百里		
+10.17	segment	自此南行三千餘里，至秣羅矩吒國		
+10.17.03	segment	國南濱海有秣剌耶山		
+10.17.04	segment	秣剌耶山東有布呾洛迦山		
+10.17.04a	segment	從此山東北海畔有城，是往南海	東南可三千餘里，至僧伽羅國。	last of juan 10; includes the hearsay route to Siṃhala
+11.01	segment	僧伽羅國，周七千餘里		passage from the juan-11 header
+11.01.04a	excerpt	佛教至後二百餘年，各擅專門	斥大乘，習小教。	only the school 摩訶毘訶羅住部 is named
+11.01.04b	excerpt	二曰阿跋耶祇釐住部	弘演三藏。	only the school 阿跋耶祇釐住部 is named
+11.01.08a	segment	國南浮海數千里，至那羅稽羅洲		
+11.01.08b	segment	那羅稽羅洲西浮海數千里，孤島		
+11.01.08c	segment	國西浮海數千里，至大寶洲		
+11.01.09	segment	國東南隅有䮚迦山		text order: comes before 11.01.08a-c
+11.02	segment	自達羅毘荼國北入林野中，歷孤城		CBETA reads 荼建那補羅國
+11.03	segment	從此西北入大林野，猛獸暴害		
+11.03.03	segment	國東境有大山，疊嶺連障		
+11.04	segment	自此西行千餘里，渡耐秣陀河		
+11.05	segment	從此西北行二千餘里，至摩臘婆國		
+11.05.03	segment	大城西北二十餘里，至婆羅門邑		
+11.06	segment	自此西南入海交，西北行二千四五百里		
+11.07	segment	從摩臘婆國西北行三日，至契吒國		
+11.08	segment	從此北行千餘里，至伐臘毘國		
+11.09	segment	自此西北行七百餘里，至阿難陀補羅國		
+11.10	segment	從伐臘毘國西行五百餘里，至蘇剌侘國		
+11.10.02	segment	去城不遠，有郁鄯多山		
+11.11	segment	從伐臘毘國北行千八百餘里		
+11.12	segment	從此東南行二千八百餘里，至鄔闍衍那國		
+11.13	segment	從此東北行千餘里，至擲枳陀國		
+11.14	segment	從此北行九百餘里，至摩醯濕伐羅補羅國		
+11.15	segment	從此還至瞿折羅國，復北行荒野險磧		
+11.16	segment	從此東行九百餘里，渡信度河東岸		
+11.17	segment	從此東北行七百餘里，至鉢伐多國		
+11.18	segment	從信度國西南行千五六百里		
+11.19	segment	從此西行，減二千里，至狼揭羅國		
+11.20	segment	自此西北，至波剌斯國。		
+11.20.01a	segment	國東境有鶴秣城		
+11.20.02a	segment	西北接拂懍國，境壤風俗		
+11.20.02b	segment	拂懍國西南海島有西女國		
+11.21	segment	自阿點婆翅羅國北行七百餘里		CBETA reads 臂多縶羅國
+11.22	segment	從此東北行三百餘里，至阿軬荼國		
+11.23	segment	從此東北行九百餘里，至伐剌拏國	出印度境，至漕矩吒國。	last of juan 11; ends with the route to 漕矩吒國 (the Ming appendix on Siṃhala/Zheng He after the juan is excluded)
+11.23.02	excerpt	聞諸土俗曰：從此國西接稽畺那國	隣境所寶。	hearsay inside the Varṇu passage; CBETA reads 稽畺那
+12.01	segment	漕矩吒國，周七千餘里		passage from the juan-12 header; the route sentence (from Varṇu NW 2000 li) is at the end of juan 11, in 11.23
+12.01a	excerpt	國大都城號鶴悉那	並堅峻險固也。	capital sentence
+12.01b	excerpt	或都鶴薩羅城	以溉田也。	runs from the capital sentence to 鶴薩羅城中踊泉流派… (two intervening sentences included)
+12.01c	excerpt	穀稼時播，宿麥滋豐，草木扶疎	草生羅摩印度川。	one sentence (興瞿草 grows in the river valley)
+12.02	segment	從此北行五百餘里，至弗栗恃薩儻那國		
+12.02a	excerpt	國大都城號護苾那	周二十餘里。	capital sentence
+12.02b	segment	從此國東北，踰山涉川，越迦畢試國		
+12.03	segment	又三日行，方得下嶺，至安呾羅縛國		
+12.04	segment	從此西北，入谷踰嶺，度諸小城		
+12.05	segment	從此西北，踰山越谷，度諸城邑		
+12.05a	segment	從此東入葱嶺。葱嶺者		
+12.06	segment	東行百餘里，至瞢健國		
+12.07	segment	北至阿利尼國。阿利尼國		
+12.08	segment	東至曷邏胡國。曷邏胡國		
+12.09	segment	從瞢健國東踰峻嶺，越洞谷		
+12.10	segment	北至鉢利曷國。鉢利曷國		
+12.11	segment	從訖栗瑟摩國東，踰山越川		
+12.12	segment	東谷行二百餘里，至鉢鐸創那國		
+12.12a	excerpt	國大都城據山崖上，周六七里	周六七里。	capital sentence
+12.13	segment	從此東南，山谷中行二百餘里		
+12.14	segment	從此東南，踰嶺越谷，峽路危險		
+12.15	segment	從此東北，登山入谷，途路艱險		
+12.15.02	segment	昏馱多城，國之都也		
+12.16	segment	踰此國大山，北至尸棄尼國		
+12.16a	excerpt	尸棄尼國，周二千餘里。國大都城周五六里	國大都城周五六里。	capital sentence (with the country's size sentence before it)
+12.17	segment	越達摩悉鐵帝國大山之南		
+12.17.02	segment	國境東北，踰山越谷，經危履險		
+12.17.02a	segment	波謎羅川中有大龍池		includes the closing sentence on 鉢露羅國 south of the Pamir valley
+12.18	segment	自此川中東南，登山履險		
+12.18.02	excerpt	昔波利剌斯國王娶婦漢土	立女為主，建官垂憲。	from the dynasty legend: the princess placed on the solitary peak (孤峯) and the palace built on it
+12.18.04	segment	城東南行三百餘里，至大石崖		
+12.18.05	segment	大崖東北，踰嶺履險，行二百餘里		
+12.19	segment	從此東下葱嶺東岡，登危嶺		
+12.19.02	segment	城西二百餘里，至大山。		
+12.20	segment	從此北行，山磧曠野五百餘里		
+12.21	segment	從此東南行五百餘里，濟徙多河		
+12.21.02	segment	國南境有大山，崖嶺嵯峨		
+12.22	segment	從此而東，踰嶺越谷，行八百餘里，至瞿薩旦那國		
+12.22.03	segment	王城南十餘里有大伽藍		
+12.22.04	segment	王城西南二十餘里，有瞿室		
+12.22.05	segment	王城西南十餘里，有地迦婆縛那伽藍		
+12.22.06	segment	王城西行三百餘里，至勃伽夷城		
+12.22.07	segment	王城西百五六十里，大沙磧正路中		
+12.22.08	segment	王城西五六里，有娑摩若僧伽藍		
+12.22.09	segment	王城東南五六里，有麻射僧伽藍		
+12.22.10	segment	池側伽藍，荒圮無僧。		one sentence; the dragon-drum legend before it is in 12.22.10a
+12.22.10a	segment	城東南百餘里有大河，西北流		text order: comes before 12.22.10
+12.22.11	segment	王城東三百餘里大荒澤中		
+12.22.12	segment	戰地東行三十餘里，至嫓摩城		CBETA reads 嫓摩
+12.22.12a	excerpt	佛去世後，自彼凌空至此國北曷勞落迦城中	煙雲四合，道路迷失。	the Hulaoluojia legend inside the Pimo passage
+12.22.13	segment	嫓摩川東入沙磧，行二百餘里		
+12.22.15	segment	從此東行入大流沙		begins with the crossing of the great desert; CBETA reads 都邏故國 (master 覩貨邏)
+12.22.16	segment	從此東行六百餘里，至折摩馱那故國		
+12.22.17	segment	復此東北行千餘里，至納縛波故國	豈徒單車出使，通驛萬里者哉。	last of juan 12; includes the narrative's closing sentences (推表山川…); the 記讚 afterword after it is excluded
+12.22a	excerpt	東主乘勝，撫集亡國	未能有勝。	founding legend of the capital (遷都中地…今王所都於此城也)

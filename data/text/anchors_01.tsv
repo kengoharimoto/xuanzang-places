@@ -1,0 +1,77 @@
+id	mode	anchor	end_anchor	note
+01.01a	excerpt	是以池東面銀牛口流出殑伽河	入東南海；	cosmology section (Anavatapta lake); clause naming the river
+01.01b	excerpt	池南面金象口流出信度河	入西南海；	cosmology section; clause naming the river
+01.01c	excerpt	池西面瑠璃馬口流出縛芻河	入西北海；	cosmology section; clause naming the river
+01.01d	excerpt	池北面頗胝師子口流出徙多河	為中國之河源云。	cosmology section; clause naming the river, incl. its underground course to 積石山
+01.01e	excerpt	則贍部洲之中地者	周八百里矣。	cosmology section: Anavatapta lake lies south of 香山 and north of 大雪山
+01.01f	excerpt	或曰潛流地下	為中國之河源云。	cosmology section: the Sītā flows underground and re-emerges at 積石山
+01.04a	excerpt	黑嶺已來。	語在後記。	no separate section; general account of Hu customs from 黑嶺 onward
+01.04b	excerpt	出高昌故地	曰阿耆尼國。	only named as the starting point of the itinerary
+01.05	segment	阿耆尼國，東西六百餘里		
+01.05a	excerpt	國大都城周六七里。四面據山	道險易守。	no separate section; excerpt from the country description
+01.06	segment	從此西南行二百餘里，踰一小山，越二大河，		anchor moved to the arrival sentence
+01.06.01	segment	國東境城北天祠前，有大龍池		
+01.06.02	segment	荒城北四十餘里，接山阿		passage also covers the two standing Buddhas outside the west gate of the capital and the quinquennial assembly (no master id of its own)
+01.06.04	segment	會場西北渡河，至阿奢理貳伽藍		
+01.07	segment	從此西行六百餘里，經小沙磧，至跋祿迦國。		anchor moved to the arrival sentence
+01.07.01	segment	國西北行三百餘里，度石磧，至凌山		
+01.07.02	segment	山行四百餘里，至大清池		
+01.07.03	segment	清池西北行五百餘里，至素葉水城		
+01.07.04	segment	自素葉水城，至羯霜那國，地名窣利		general account of Sogdiana (窣利), placed between 素葉水城 and 千泉
+01.07.05	segment	素葉城西行四百餘里，至千泉		
+01.07.06	segment	千泉西行百四五十里，至呾邏私城		
+01.07.06a	segment	南行十餘里，有小孤城		
+01.07.07	segment	從此西南行二百餘里，至白水城		
+01.07.08	segment	西南行二百餘里，至恭御城		
+01.08	segment	從此南行四五十里，至笯赤建國。		anchor moved to the arrival sentence
+01.09	segment	從此西行二百餘里，至赭時國。		anchor moved to the arrival sentence
+01.09a	excerpt	東臨葉河。葉河出葱嶺北原	浩汗渾濁汩淴漂急。	excerpt from 窣堵利瑟那國 (01.11), where the river is described; first named in passing under 赭時國 (西臨葉河。)
+01.10	segment	從此東南千餘里，至㤄捍國。		anchor moved to the arrival sentence
+01.11	segment	從此西行千餘里，至窣堵利瑟那國。		anchor moved to the arrival sentence
+01.11a	segment	從此西北入大沙磧		
+01.12	segment	行五百餘里，至颯秣建國。		anchor moved to the arrival sentence
+01.12a	excerpt	國大都城周二十餘里，極險固	多居人。	no separate section; excerpt from the country description
+01.13	segment	從此東南至弭秣賀國。		anchor moved to the arrival sentence
+01.14	segment	從此北至劫布呾那國。		anchor moved to the arrival sentence
+01.15	segment	從此國西三百餘里，至屈霜爾迦國。		T2087 (CBETA) reads 屈霜爾迦國 (master: 屈霜你迦國); anchor moved to the arrival sentence
+01.16	segment	從此國西二百餘里，至喝捍國。		anchor moved to the arrival sentence
+01.17	segment	從此國西四百餘里，至捕喝國。		anchor moved to the arrival sentence
+01.18	segment	從此國西四百餘里，至伐地國。		anchor moved to the arrival sentence
+01.19	segment	從此西南五百餘里，至貨利習彌伽國。		anchor moved to the arrival sentence
+01.20	segment	從颯秣建國西南行三百餘里，至羯霜那國。		anchor moved to the arrival sentence
+01.20.01	segment	東南山行三百餘里，入鐵門		
+01.20.02	segment	出鐵門，至覩貨邏國		general account of 覩貨邏 (no country-name sentence follows, so the anchor is the entry sentence)
+01.21	segment	順縛芻河北下流至呾蜜國。		anchor moved to the arrival sentence
+01.22	segment	東至赤鄂衍那國。		anchor moved to the arrival sentence
+01.23	segment	東至忽露摩國。		anchor moved to the arrival sentence
+01.24	segment	東至愉漫國。		anchor moved to the arrival sentence
+01.25	segment	西南臨縛芻河，至鞠和衍那國。		anchor moved to the arrival sentence
+01.26	segment	東至鑊沙國。		anchor moved to the arrival sentence
+01.27	segment	東至珂咄羅國。		anchor moved to the arrival sentence
+01.28	segment	東接葱嶺，至拘謎陀國。		passage includes the list of countries south of the Oxus (described in juan 12) and the 活國 sentences; anchor moved to the arrival sentence
+01.28a	excerpt	自活國東南至闊悉多國	活國西南至縛伽浪國。	no separate section here (described in juan 12); only a route node
+01.29	segment	活國西南至縛伽浪國。		anchor moved to the arrival sentence
+01.30	segment	南至紇露悉泯健國。		anchor moved to the arrival sentence
+01.31	segment	西北至忽懍國。		anchor moved to the arrival sentence
+01.32	segment	西至縛喝國。		anchor moved to the arrival sentence
+01.32.01	segment	城外西南有納縛僧伽藍		
+01.32.02	segment	大城西北五十餘里至提謂城		passage also includes the Kāśyapa stupa 70 li west of the city
+01.33	segment	銳秣陀國，東西五六十里		T2087 (CBETA) reads 銳 (master: 鋭)
+01.34	segment	西南至胡寔健國。		anchor moved to the arrival sentence
+01.35	segment	西北至呾剌健國。		anchor moved to the arrival sentence
+01.36	segment	從縛喝國南行百餘里，至揭職國。		anchor moved to the arrival sentence
+01.37	segment	行六百餘里，出都貨邏國境，至梵衍那國。		anchor moved to the arrival sentence
+01.37.01	segment	王城東北山阿有立佛石像		
+01.37.01a	segment	伽藍東有鍮石釋迦佛立像		
+01.37.02	segment	城東二三里伽藍中有佛入涅槃臥像		
+01.37.03	segment	臥像伽藍東南行二百餘里		
+01.37.03a	excerpt	從此東行入雪山，踰越黑嶺	至迦畢試國。	route sentence only; it closes the 01.37.03 passage
+01.38	segment	從此東行入雪山，踰越黑嶺，至迦畢試國。		anchor moved to the arrival sentence
+01.38.01	segment	大城東三四里北山下有大伽藍		passage includes the meditation caves on the northern ridge and the Avalokiteśvara image
+01.38.02	segment	大城東南三十餘里至曷邏怙羅僧伽藍		
+01.38.03	segment	城南四十餘里至霫蔽多伐剌祠城		
+01.38.03a	segment	霫蔽多伐剌祠城南三十餘里		
+01.38.04	segment	王城西北二百餘里至大雪山		
+01.38.05	segment	王城西北大河南岸舊王伽藍		passage also covers the second 舊王 monastery (頂骨伽藍) and the 舊王妃伽藍
+01.38.07	segment	城西南有比羅娑洛山	越黑嶺，入北印度境，至濫波國。	last segment of juan 1; includes 鞞鐸佉伽藍 and the route to 濫波國
+01.38a	excerpt	迦畢試國，周四千餘里	國大都城周十餘里。	no separate section; excerpt from the country description

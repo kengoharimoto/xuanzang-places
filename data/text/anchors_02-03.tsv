@@ -1,0 +1,71 @@
+id	mode	anchor	end_anchor	note
+02.01.02	segment	若其封疆之域，可得而言。	斯大概也，可略言焉。	the extent of the Five Indias in the general account (印度總述); the rest of the essay is not a place passage
+02.02	segment	濫波國，周千餘里，北背雪山		arrival sentence (自此東行六百餘里…至濫波國) is at the end of juan 1
+02.02a	excerpt	國大都城周十餘里。自數百年	國大都城周十餘里。	capital, one sentence of the country description (anchor extended only to make it unique)
+02.03	segment	從此東南行百餘里，踰大嶺，濟大河		
+02.03.01a	excerpt	國大都城周二十餘里。無大君長，主令	國大都城周二十餘里。	capital, one sentence of the country description (anchor extended only to make it unique)
+02.03.02	segment	城東二里有窣堵波，高三百餘尺		includes the other stūpas in and SW of the city up to the 小石嶺 monastery
+02.03.03	segment	城西南二十餘里至小石嶺		starts with the 小石嶺 monastery above the cave
+02.03.05	segment	城東南三十餘里至醯羅城		
+02.04	segment	從此東南山谷中行五百餘里，至健馱邏國		
+02.04.01a	excerpt	國大都城號布路沙布邏，周四十餘里。	國大都城號布路沙布邏，周四十餘里。	capital, one sentence of the country description
+02.04.02	segment	王城內東北有一故基，昔佛鉢之寶臺也		starts with the Buddha's-bowl platform (Mizutani's section 仏鉢および卑鉢羅樹)
+02.04.03	segment	卑鉢羅樹南有窣堵波，迦膩色迦王之所建也		
+02.04.06	segment	大窣堵波西有故伽藍，迦膩色迦王之所建也		includes Pārśva, Vasubandhu and Manoratha legends
+02.04.09	segment	迦膩色迦王伽藍東北行五十餘里		includes the stūpas N and E of the city (捨眼, 梵釋窣堵波)
+02.04.12	segment	梵、釋窣堵波西北行五十餘里		
+02.04.13	segment	化鬼子母北行五十餘里		
+02.04.14	segment	商莫迦菩薩被害東南行二百餘里		the city has only its arrival sentence; its sites follow as 02.04.14a/b
+02.04.14a	segment	城北有窣堵波，是蘇達拏太子		
+02.04.14b	segment	跋虜沙城東門外有一伽藍		
+02.04.15	segment	跋虜沙城東北二十餘里，至彈多落迦山		
+02.04.16	segment	仙廬西北行百餘里，越一小山		
+02.04.17	segment	跋虜沙城東北五十餘里，至崇山		
+02.04.18	segment	毘摩天祠東南行百五十里		
+02.04.19	segment	烏鐸迦漢荼城西北行二十餘里，至婆羅覩邏邑	行六百餘里，至烏仗那國。	last of juan 2; ends with the route sentence to 烏仗那國 (juan 2's last line); text has 婆羅覩邏邑 for 娑羅覩邏邑
+03.01	segment	烏仗那國，周五千餘里，山谷相屬		
+03.01.01a	excerpt	堅城四五，其王多治瞢揭釐城。	城周十六七里，居人殷盛。	royal city, two sentences of the country description
+03.01.01b	excerpt	夾蘇婆伐窣堵河，舊有一千四百伽藍	多已荒蕪。	river, one sentence of the country description (also named as the outflow of the Apalāla spring in 03.01.03)
+03.01.02	segment	瞢揭釐城東四五里有窣堵波		
+03.01.03	segment	瞢揭釐城東北行二百五六十里		
+03.01.04	segment	阿波邏羅龍泉西南三十餘里		
+03.01.04a	segment	順流而下三十餘里，至如來濯衣石		one sentence
+03.01.05	segment	瞢揭釐城南四百餘里，至醯羅山		
+03.01.06	segment	瞢揭釐城南二百餘里，大山側		
+03.01.07	segment	摩訶伐那伽藍西北，下山三四十里		
+03.01.08	segment	摩愉伽藍西六七十里，至窣堵波		
+03.01.09	segment	代鴿西北二百餘里，入珊尼羅闍川		includes the Soma stūpa (03.01.09a) and the peacock-king stūpa on the 珊尼羅闍川
+03.01.09a	excerpt	其側不遠，有蘇摩大窣堵波。	莫不康豫。	two sentences inside 03.01.09; not a segment so the following peacock-king stūpa of the 珊尼羅闍川 stays with 03.01.09
+03.01.10	segment	瞢揭釐城西南行六七十里，大河東有窣堵波		
+03.01.10a	segment	窣堵波側大河濱，有大石，狀如象		
+03.01.11	segment	瞢揭釐城西五十餘里，渡大河		
+03.01.12	segment	瞢揭釐城東北三十餘里，至遏部多石		
+03.01.13	segment	石窣堵波西渡大河三四十里		
+03.01.14	segment	觀自在菩薩像西北百五十里，至藍勃盧山		includes the Śākya/nāga-girl legend of the Uḍḍiyāna dynasty and Uttarasena
+03.01.16	segment	瞢揭釐城東北踰山越谷，逆上信度河		includes the wooden Maitreya image
+03.02	segment	從此東行，踰嶺越谷，逆上信度河，飛梁棧道		
+03.03	segment	從此復還烏鐸迦漢荼城，南渡信度河		
+03.03.01a	excerpt	國大都城周十餘里。酋豪力競	國大都城周十餘里。	capital, one sentence of the country description (anchor extended only to make it unique)
+03.03.02	segment	大城西北七十餘里有醫羅鉢呾羅龍王池		
+03.03.03	segment	龍池東南行三十餘里，入兩山間		
+03.03.04	segment	城北十二三里有窣堵波，無憂王之建也		
+03.03.06	segment	城外東南，南山之陰有窣堵波		
+03.04	segment	從此東南越諸山谷，行七百餘里，至僧訶補羅		
+03.04.01a	excerpt	國大都城周十四五里，依山據嶺	堅峻險固。	capital, one sentence of the country description
+03.04.02	segment	城南不遠有窣堵波，無憂王之所建也		
+03.04.03	segment	城東南四五十里至石窣堵波		includes the Jaina (白衣外道) site
+03.04.05	segment	從此復還呾叉始羅國北界，渡信度河		
+03.04.06	segment	捨身北有石窣堵波，高二百餘尺		
+03.04.07	segment	從此東行五十餘里，至孤山		
+03.05	segment	從此東南行五百餘里，至烏剌尸國		
+03.06	segment	從此東南，登山履險，度鐵橋		includes the nāga-lake, Aśoka, Kaniṣka council and Himatala histories
+03.06.01a	excerpt	國大都城西臨大河，南北十二三里	東西四五里。	capital, one sentence of the country description
+03.06.06	segment	新城東南十餘里，故城北，大山陽		
+03.06.06a	excerpt	新城東南十餘里，故城北，大山陽	僧徒三百餘人。	old city, named only as a location in the first sentence of 03.06.06
+03.06.07	segment	伽藍南十四五里，有小伽藍		
+03.06.08	segment	小伽藍東南三十餘里，至大山		
+03.06.09	segment	佛牙伽藍東十餘里，北山崖間		
+03.06.10	segment	王城西北行二百餘里，至商林伽藍		
+03.06.11	segment	城西行百四五十里，大河北		
+03.07	segment	從此西南，踰山涉險，行七百餘里，至半笯嗟		
+03.08	segment	從此東南行四百餘里，至曷邏闍補羅國	行七百餘里，至磔迦國。	last of juan 3; includes the summary 自濫波國至於此土… and the route sentence to 磔迦國

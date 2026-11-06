@@ -1,0 +1,38 @@
+id	mode	anchor	end_anchor	note
+04.01	segment	磔迦國，周萬餘里，東據毘播奢河		
+04.01.02	segment	大城西南十四五里，至奢羯羅故城		includes the Mihirakula legend, the Śākala monastery and the stone stūpa NE of the new capital
+04.02	segment	從此東行五百餘里，至那僕底國		
+04.02.03	segment	大城東南行五百餘里，至答秣蘇伐那僧伽藍		
+04.03	segment	從此東北行百四五十里，至闍爛達羅國		
+04.04	segment	從此東北，踰峻嶺越，洞谷，經危途		
+04.04a	segment	從此北路千八九百里，道路危險		hearsay; one sentence
+04.04b	segment	此北二千餘里，經途艱阻，寒風飛雪		hearsay; one sentence
+04.05	segment	自屈露多國南行七百餘里，越大山		
+04.06	segment	復從此西南行八百餘里，至波理夜呾羅國		
+04.07	segment	從此東行五百餘里，至秣菟羅國		
+04.07.03	segment	城東行五六里，至一山伽藍		includes the dried pond and the sites N of it
+04.08	segment	從此東北行五百餘里，至薩他泥濕伐羅國		
+04.08.02	segment	大城四周二百里內，彼土之人謂為福地		includes the Aśoka stūpa NW of the capital
+04.08.04	segment	城南行百餘里，至俱昏荼僧伽藍		CBETA 俱昏荼 (master 倶)
+04.09	segment	從此東北行四百餘里，至窣祿勤那國		
+04.09.03	segment	閻牟那河東行八百餘里，至殑伽河河源		includes the Deva legend
+04.10	segment	渡河東岸至秣底補羅國		
+04.10.05	segment	國西北境殑伽河東岸有摩裕羅城		
+04.11	segment	從此北行三百餘里，至婆羅吸摩補羅國		
+04.11.02	segment	此國境北大雪山中，有蘇伐剌拏瞿呾羅國		hearsay
+04.12	segment	從末底補羅東南行四百餘里，至瞿毘霜那國		CBETA 末底補羅 here
+04.13	segment	自此東南行四百餘里，至堊醯掣呾邏國		
+04.14	segment	自此東行二百六七十里，渡殑伽河		CBETA 東行 and 毘羅那拏 (master: 南行, 毘羅刪拏)
+04.15	segment	從此東南行二百餘里，至劫比他國		
+04.15.02	segment	城西二十餘里有大伽藍	減二百里，至羯若鞠闍國。	last of juan 4; CBETA 城西 (master t_route 城東); ends with the route to 羯若鞠闍國
+05.01	segment	羯若鞠闍國，周四千餘里		
+05.01.09	segment	大城東南行百餘里，至納縛提婆矩羅城		
+05.02	segment	自此東南行六百餘里，渡殑伽河，南至阿踰陀國		
+05.03	segment	從此東行三百餘里，渡殑伽河，北至阿耶穆佉國		
+05.04	segment	從此東南行七百餘里，渡殑伽河南		
+05.04.03	segment	城中有天祠，瑩飾輪煥		
+05.04.04	segment	大城東，兩河交，廣十餘里		includes the confluence suicides
+05.05	segment	從此西南入大林中，惡獸、野象		
+05.05.03	segment	城內東南隅，有故宅餘趾		includes the Ghoṣila garden and the poison-dragon cave SW of the city
+05.05.06	segment	龍窟東北大林中，行七百餘里		
+05.06	segment	自此北行百七八十里，至鞞索迦國	從此東北行五百餘里，至室羅伐悉底國。	last of juan 5; ends with the route to 室羅伐悉底國

@@ -215,6 +215,10 @@ where the evidence supports him, is in `data/notes/updates_*.tsv`.
 - `data/notes/`: notes and proposed updates.
 - `data/*_hits.tsv`: passage and hit indexes.
 - `data/coords.tsv`: coordinates.
+- `data/text/`: the T2087 passage for each place (CBETA text, cut by `anchors_*.tsv` with `scripts/extract_passages.py`;
+  `passages.tsv`) and its English machine translation by DharmaMitra's public cat-translate API
+  (`translation_dm.tsv`, `scripts/translate_passages.py`). Both are in `places.tsv` and the map's place panel. The
+  translation is unrevised: check it against Mizutani or Beal before quoting.
 - `route/`: route model, li calibration, candidate scores, text variants (`route/README.md`).
 - `map/xuanzang_places.html`: map and place dossier (published privately at
   https://claude.ai/artifact/WUH4GFEULK5rZ8oaXw8PpH), built by `map/build_page.py` from `map/template.html`.

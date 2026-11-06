@@ -1,0 +1,52 @@
+id	mode	anchor	end_anchor	note
+06.01	segment	室羅伐悉底國，周六千餘里。		country description starts after the juan heading; the route sentence (from 鞞索迦國) closes juan 5
+06.01.04	segment	城南五六里，有逝多林，是給孤獨園。		includes the Jetavana sub-sites (洗病苾芻, 舉帶, 三坑, 影覆精舍, 毘盧釋迦 stupas)
+06.01.13	segment	伽藍西北三四里，至得眼林。		
+06.01.14	segment	大城西北六十餘里，有故城		ends with the route sentence to 劫比羅伐窣堵國
+06.02	segment	從此東南行五百餘里，至劫比羅伐窣堵國。		includes palace-city sites (阿私多, 擲象, 踰城 etc.); anchor moved to the arrival sentence
+06.02.05	segment	城南行五十餘里，至故城，有窣堵波		
+06.02.05a	segment	迦羅迦村馱佛城東北行三十餘里		
+06.02.06	segment	城東北四十餘里，有窣堵波，是太子坐樹陰		also covers the 釋種誅死 and 四釋種拒軍 stupas NW/SW of the city
+06.02.08	segment	城南三四里尼拘律樹林，有窣堵波		also covers the east-gate and south-gate stupas and the 自在天祠
+06.02.10	segment	從此東南三十餘里，有小窣堵波，其側有泉		
+06.02.11	segment	箭泉東北行八九十里，至臘伐尼林		
+06.02.12	segment	四天王捧太子窣堵波側不遠，有大石柱		sub-site of Lumbinī: pillar and 油河; ends with the route sentence to 藍摩國
+06.03	segment	從此東行曠野荒林中二百餘里，至藍摩國。		includes the 藍摩 stupa, nāga pond and 沙彌伽藍; anchor moved to the arrival sentence
+06.03.03	segment	沙彌伽藍東，大林中行百餘里，至大窣堵波		includes 贍部樹, 易衣 and 剃髮 stupas
+06.03.04	segment	太子剃髮窣堵波東南，曠野中行百八九十里		ends with the forest route to 拘尸那揭羅國
+06.04	segment	出此林已，至拘尸那揭羅國。		anchor moved to the arrival sentence
+06.04.03	segment	城西北三四里，渡阿恃多伐底河。		includes the stupas around the śāla grove (救火, 鹿, 善賢, 執金剛, 七日供養, 摩耶哭佛)
+06.04.03a	excerpt	城西北三四里，渡阿恃多伐底河。	城西北三四里，渡阿恃多伐底河。	river named only in passing; also 北渡金河 in 06.04.11
+06.04.11	segment	城北渡河三百餘步，有窣堵波，是如來焚身之處。		includes 現雙足 and 八王分舍利 stupas
+06.04.14	segment	分舍利窣堵波西南行二百餘里，至大邑聚。	行五百餘里，至婆羅痆斯國。	last of juan 6; ends with the route sentence to 婆羅痆斯國
+07.01	segment	婆羅痆斯國，周四千餘里。		country description starts after the juan heading
+07.01.02	segment	大城東北婆羅痆河西有窣堵波		
+07.01.02a	segment	婆羅痆河東北行十餘里，至鹿野伽藍		
+07.01.03	segment	精舍西南有石窣堵波，無憂王建也		includes 憍陳如習定, 五百獨覺, 三佛 stupas
+07.01.04	segment	三佛經行側有窣堵波，是梅呾麗耶菩薩受成佛記處。		includes 釋迦菩薩受記 stupa and 四佛經行
+07.01.06	segment	伽藍垣西有一清池，周二百餘步		includes 袈裟石, 六牙象, 鳥猴象 and 施鹿林 (鹿王) stupas
+07.01.10	segment	伽藍西南二三里，有窣堵波，高三百餘尺		
+07.01.11	segment	施鹿林東行二三里，至窣堵波，傍有涸池		includes 三獸窣堵波; ends with the route sentence to 戰主國
+07.02	segment	從此順殑伽河流，東行三百餘里，至戰主國。		anchor moved to the arrival sentence
+07.02.02	segment	大城東行二百餘里，至阿避陀羯剌拏僧伽藍。		
+07.02.03	segment	阿避陀羯剌拏伽藍東南行百餘里		
+07.02.03a	segment	殑伽河北，有那羅延天祠。		
+07.02.03b	segment	那羅延天祠東行三十餘里，有窣堵波		
+07.02.04	segment	從此東南行百餘里，至一窣堵波		ends with the route sentence to 吠舍釐國
+07.03	segment	從此東北度殑伽河，行百四五十里，至吠舍釐		anchor moved to the arrival sentence
+07.03.02	segment	宮城西北五六里，至一伽藍		includes 舍利子證無學 stupa
+07.03.03	segment	舍利子證果東南有窣堵波，是吠舍釐王之所建也。		
+07.03.04	segment	其西北有窣堵波，無憂王之所建也。		includes 獼猴池 stupas
+07.03.06	segment	伽藍東北三里有窣堵波，是毘摩羅詰故宅基趾		includes 寶積宅 and 菴沒羅女故宅
+07.03.07	segment	伽藍北三四里有窣堵波，是如來將往拘尸那國		includes 最後觀城, 告涅槃, 千子見父母, 重閣講堂, 阿難半身舍利 stupas
+07.03.12	segment	大城西北行五六十里，至大窣堵波		
+07.03.13	segment	吠舍釐城西北減二百里，有故城		
+07.03.14	segment	城東南行十四五里，至大窣堵波，是七百賢聖重結集處。		
+07.03.14a	excerpt	時長老耶舍陀住憍薩羅國	住娑羅梨弗國。	named only in the list of elders' residences
+07.03.15	segment	七百賢聖結集南行八九十里		
+07.03.16	segment	濕吠多補羅伽藍東南行三十餘里		ends with the route sentence to 弗栗恃國
+07.04	segment	從此東北行五百餘里，至弗栗恃國。		covers the capital 占戍挐, the river and the 度漁人 stupa (no separate segments for 07.04.01a/b); anchor moved to the arrival sentence
+07.04.01a	excerpt	國大都城號占戍挐，多已頹毀。	若村若邑也。	no separate section; excerpt from the country description
+07.04.01b	excerpt	大河東北有伽藍，僧徒寡少	大悲世尊度漁人處也。	no separate section; the river by which the monastery and the 度漁人 stupa stand
+07.04.03	segment	度漁人東北行百餘里，故城西有窣堵波		ends with the route sentence to 尼波羅國
+07.05	segment	從此西北千四五百里，踰山入谷，至尼波羅國	南渡殑伽河，至摩揭陀國。	last of juan 7; ends with the return route to 摩揭陀國; anchor moved to the arrival sentence
