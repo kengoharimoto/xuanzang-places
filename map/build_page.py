@@ -34,6 +34,7 @@ for c in rd("route/candidates.tsv"):
     sc = SC.get((c["id"], c["candidate"]), {})
     ALT.setdefault(c["id"], []).append({"name": c["candidate"], "by": c["proposer"], "lat": float(c["lat"]), "lon": float(c["lon"]),
         "z": sc.get("mean_abs_z", ""), "b": sc.get("mean_bearing_off", ""), "note": c["note"]})
+SV = {r["id"]: r for r in rd("data/study_view.tsv")}   # the study's view: point and confidence class (scripts/build_study_view.py)
 SP = {r["id"]: r for r in rd("data/coords_study.tsv")}   # the study's proposed sites
 MZS = {r["id"]: r for r in rd("route/candidate_scores.tsv") if r["proposer"] == "Mizutani"}
 BEST = {r["id"]: r["best_fit"] for r in rd("route/chain_best.tsv")}
@@ -49,10 +50,17 @@ for r in rd("data/places.tsv"):
     try: lat, lon = float(c.get("lat") or "x"), float(c.get("lon") or "x")
     except ValueError: lat = lon = None
     u = upd.get(r["id"], {})
+    sv = SV.get(r["id"], {})
+    mzlat, mzlon = lat, lon
+    try: lat, lon = float(sv["lat"]), float(sv["lon"])
+    except (KeyError, ValueError): lat = lon = None
     out.append({
         "id": r["id"], "juan": int(r["juan"]) if r["juan"].isdigit() else 0, "level": r["level"], "parent": r["parent"],
         "zh": r["name_zh"], "ja": r["name_ja"], "orig": r["original_name"], "visit": r["visit"],
-        "mz": r["mz_identification"], "mzOther": r["mz_other_views"], "status": r["mz_status"],
+        "mz": r["mz_identification"], "mzOther": r["mz_other_views"], "mzstatus": r["mz_status"],
+        "status": sv.get("cls", "unlocated"), "sid": sv.get("identification", ""), "sfrom": sv.get("point_from", ""),
+        "slabel": sv.get("label", ""), "sprec": sv.get("precision", ""), "sopen": sv.get("open_alternative", ""),
+        "mzlat": mzlat, "mzlon": mzlon,
         "auth": {a: r[a] for a in AUTH if r.get(a)},
         "gazN": int(r["gaz_n"] or 0), "gazArg": int(r["gaz_argues"] or 0), "gazVols": r["gaz_volumes"],
         "gazEv": r["gaz_local_evidence"][:1500],
@@ -63,7 +71,7 @@ for r in rd("data/places.tsv"):
         "tsrc": r.get("translation_source", ""), "tchk": r.get("translation_check", ""),
         "rel": {k: r.get(k, "") for k in ("sangharamas", "monks", "schools", "deva_temples", "other", "site_affiliation", "buddhism")},
         "tref": r.get("t2087_ref", ""), "zht": r.get("t2087_text", ""), "en": r.get("translation", ""),
-        "lat": lat, "lon": lon, "prec": c.get("precision", ""), "modern": c.get("modern_name", ""), "cnote": c.get("note", ""),
+        "lat": lat, "lon": lon, "prec": sv.get("precision", "") or c.get("precision", ""), "modern": sv.get("label", "") or c.get("modern_name", ""), "cnote": c.get("note", ""),
         "change": u.get("change", ""), "proposed": u.get("proposed", ""), "basis": u.get("basis", ""), "conf": u.get("confidence", ""),
         "note": notes.get(r["id"]),
         "kh": OBS.get(r["id"], []),

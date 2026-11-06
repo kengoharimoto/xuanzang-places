@@ -8,7 +8,7 @@
 :root {
   --paper: #f4f5f1; --panel: #fbfbf8; --ink: #1c2220; --muted: #5d6662; --rule: #d6dad3;
   --indigo: #2f4d7a;            /* accent: route line, links, focus */
-  --agreed: #3f7f6e; --added: #7a5aa6; --uncertain: #b88a1c; --disputed: #b8452f; --unknown: #8b918c;
+  --agreed: #3f7f6e; --added: #7a5aa6; --secure: #2f7a5f; --probable: #4f7fb0; --open: #c0662d; --untested: #9a8fb0; --uncertain: #b88a1c; --disputed: #b8452f; --unknown: #8b918c;
   --land: #e6e8e1; --land-stroke: #c7cbc2; --sea: #eef1f0;
   --display: "Spectral", "Noto Serif CJK JP", "Songti SC", serif;
   --body: "Source Sans 3", "Hiragino Sans", "Noto Sans CJK JP", system-ui, sans-serif;
@@ -16,11 +16,11 @@
 }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
   --paper: #161a19; --panel: #1d2221; --ink: #e5e8e3; --muted: #9aa39e; --rule: #333a37;
-  --indigo: #8fa9d6; --agreed: #6fb39f; --added: #a98bd3; --uncertain: #d9ac45; --disputed: #e07a62; --unknown: #8d948f;
+  --indigo: #8fa9d6; --agreed: #6fb39f; --added: #a98bd3; --secure: #6fbf9a; --probable: #86aee0; --open: #e3925a; --untested: #b4abc8; --uncertain: #d9ac45; --disputed: #e07a62; --unknown: #8d948f;
   --land: #252b29; --land-stroke: #39413e; --sea: #1a1f1e; color-scheme: dark } }
 :root[data-theme="dark"] {
   --paper: #161a19; --panel: #1d2221; --ink: #e5e8e3; --muted: #9aa39e; --rule: #333a37;
-  --indigo: #8fa9d6; --agreed: #6fb39f; --added: #a98bd3; --uncertain: #d9ac45; --disputed: #e07a62; --unknown: #8d948f;
+  --indigo: #8fa9d6; --agreed: #6fb39f; --added: #a98bd3; --secure: #6fbf9a; --probable: #86aee0; --open: #e3925a; --untested: #b4abc8; --uncertain: #d9ac45; --disputed: #e07a62; --unknown: #8d948f;
   --land: #252b29; --land-stroke: #39413e; --sea: #1a1f1e; color-scheme: dark }
 body { background: var(--paper); color: var(--ink); font: 15px/1.5 var(--body); }
 .wrap { max-width: 1320px; margin: 0 auto; padding-block: 20px 40px;
@@ -48,7 +48,7 @@ input[type=search] { min-width: 0; width: 14em; }
 .route { fill: none; stroke: var(--indigo); stroke-width: 1.1; stroke-opacity: .45; stroke-dasharray: 3 3; vector-effect: non-scaling-stroke; }
 .pt { stroke: var(--paper); stroke-width: .8; vector-effect: non-scaling-stroke; cursor: pointer; }
 .pt.sel { stroke: var(--ink); stroke-width: 2.4; }
-.spt { fill: var(--ink); stroke: var(--paper); stroke-width: 1; vector-effect: non-scaling-stroke; cursor: pointer; }
+.spt { fill: var(--paper); stroke: var(--paper); stroke-width: 1; vector-effect: non-scaling-stroke; cursor: pointer; }
 .spl { stroke: var(--ink); stroke-width: 1.4; vector-effect: non-scaling-stroke; pointer-events: none; marker-end: none; }
 .alt { fill: var(--paper); stroke: var(--ink); stroke-width: 1.2; vector-effect: non-scaling-stroke; cursor: pointer; opacity: .85; }
 .altl { stroke: var(--ink); stroke-width: .8; stroke-dasharray: 2 2; vector-effect: non-scaling-stroke; opacity: .6; pointer-events: none; }
@@ -93,16 +93,15 @@ footer { margin-top: 18px; color: var(--muted); font-size: 12px; max-width: 90ch
 <div class="wrap">
 <header>
   <h1>Xuanzang's Places</h1>
-  <p>Every country and site of the <i>Da Tang Xiyu ji</i> (大唐西域記), with Mizutani Shinjō's identification (1971), the views of Julien, Vivien de Saint-Martin, Cunningham, Majumdar, Beal, Watters and Dey, the field reports of the Archaeological Survey (1862–87), Mukherji's Tarai survey (1901) and the Survey's Annual Reports (1903–37), and what the British Indian district gazetteers add. Colour shows how settled Mizutani says a place is; a dark ring marks a place where the gazetteer evidence changes his picture.</p>
+  <p>Every country and site of the <i>Da Tang Xiyu ji</i> (大唐西域記), placed where this study now puts it. The study starts from Mizutani Shinjō's identifications (1971) and tests them against Julien, Vivien de Saint-Martin, Cunningham, Majumdar, Beal, Watters and Dey; the Archaeological Survey's reports, Annual Reports and <i>Indian Archaeology – A Review</i>; <i>Epigraphia Indica</i> and the CII; the British Indian gazetteers; the <i>Life</i>; and route tests on Xuanzang's distances and bearings. Colour shows the study's confidence, taken from the notes' assessments: <b>secure</b>, <b>probable</b>, <b>open</b>, or <b>untested</b> where the study has not assessed Mizutani's view. A dark ring marks a place where the study revises or strengthens Mizutani; the "Mizutani's points" layer shows his sites where they differ.</p>
 </header>
 
 <div class="controls" role="group" aria-label="Filters">
-  <button class="chip" id="f-agreed" data-status="agreed" aria-pressed="true"><span class="dot" style="background:var(--agreed)"></span>Agreed</button>
-  <button class="chip" id="f-uncertain" data-status="uncertain" aria-pressed="true"><span class="dot" style="background:var(--uncertain)"></span>Uncertain</button>
-  <button class="chip" id="f-disputed" data-status="disputed" aria-pressed="true"><span class="dot" style="background:var(--disputed)"></span>Disputed</button>
-  <button class="chip" id="f-added" data-status="added" aria-pressed="true" title="Places missing from Mizutani's numbering, added from the sources"><span class="dot" style="background:var(--added)"></span>Added</button>
-  <button class="chip" id="f-unknown" data-status="unknown" aria-pressed="true"><span class="dot" style="background:var(--unknown)"></span>Unknown</button>
-  <button class="chip" id="f-change" aria-pressed="false"><span class="ring"></span>Only where the gazetteers change the picture</button>
+  <button class="chip" data-status="secure" aria-pressed="true"><span class="dot" style="background:var(--secure)"></span>Secure</button>
+  <button class="chip" data-status="probable" aria-pressed="true"><span class="dot" style="background:var(--probable)"></span>Probable</button>
+  <button class="chip" data-status="open" aria-pressed="true"><span class="dot" style="background:var(--open)"></span>Open</button>
+  <button class="chip" data-status="untested" aria-pressed="true" title="Not assessed by the study: Mizutani's identification, or the sources' for added places"><span class="dot" style="background:var(--untested)"></span>Untested</button>
+  <button class="chip" id="f-change" aria-pressed="false"><span class="ring"></span>Only where the notes change Mizutani's picture</button>
   <label>Juan <select id="f-juan"><option value="0">all</option></select></label>
   <label>Level <select id="f-level"><option value="">all</option><option value="country">countries</option><option value="site">sites</option></select></label>
   <input type="search" id="f-q" placeholder="Search name or site" aria-label="Search places">
@@ -117,7 +116,7 @@ footer { margin-top: 18px; color: var(--muted); font-size: 12px; max-width: 90ch
   <span id="affchips"></span>
   <button class="chip" id="aff-clear" aria-pressed="false" title="Show all affiliations">clear</button>
   <button class="chip" id="kh-only" aria-pressed="false" title="Only places with K. Harimoto's observations">K. Harimoto's notes</button>
-  <button class="chip" id="sp-on" aria-pressed="false" title="Show the study's own proposed sites, linked to Mizutani's point">study's proposals</button>
+  <button class="chip" id="sp-on" aria-pressed="false" title="Show Mizutani's points where the study places a site differently">Mizutani's points</button>
   <button class="chip" id="alt-on" aria-pressed="false" title="Show the rival sites proposed by other authorities, linked to the place">rival sites</button>
 </div>
 
@@ -126,11 +125,11 @@ footer { margin-top: 18px; color: var(--muted); font-size: 12px; max-width: 90ch
     <div class="mapbox">
       <svg id="map" viewBox="0 0 1000 800" role="img" aria-label="Map of Xuanzang's places"></svg>
       <div class="zoom"><button id="zin" aria-label="Zoom in">+</button><button id="zout" aria-label="Zoom out">−</button><button id="zreset" aria-label="Reset view">⟲</button></div>
-      <div class="mapnote">Dashed line: countries visited, in the order of the narrative. Points are approximate.</div>
+      <div class="mapnote">Dashed line: countries visited, in the order of the narrative, through the study's points. Points are approximate.</div>
     </div>
     <div class="list">
       <h3 id="count">Places</h3>
-      <div class="tbl"><table><thead><tr><th>Id</th><th>Name</th><th>Mizutani</th><th>Gazetteers</th></tr></thead><tbody id="rows"></tbody></table></div>
+      <div class="tbl"><table><thead><tr><th>Id</th><th>Name</th><th>The study's identification</th><th>Change from Mizutani</th></tr></thead><tbody id="rows"></tbody></table></div>
     </div>
   </div>
   <aside id="panel" aria-live="polite"></aside>
@@ -147,7 +146,7 @@ const AUTHN = {julien:"Julien", vivien:"Vivien de Saint-Martin", cunningham:"Cun
 const CHANGE = {strengthened:"Gazetteers support Mizutani", weakened:"Gazetteers weaken Mizutani", alternative:"Better-supported alternative", "new-candidate":"New candidate from the gazetteers", none:"Mizutani stands"};
 const BIG = new Set(["alternative","new-candidate","weakened"]);
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const col = s => `var(--${["agreed","uncertain","disputed","unknown","added"].includes(s) ? s : "unknown"})`;
+const col = s => `var(--${["secure","probable","open","untested","agreed","uncertain","disputed","unknown","added"].includes(s) ? s : "unknown"})`;
 
 const juans = [...new Set(P.map(p => p.juan))].sort((a,b)=>a-b);
 const jsel = document.getElementById("f-juan");
@@ -193,7 +192,7 @@ P.forEach(p => {
 const affEl = document.getElementById("affchips");
 AFF.forEach(([k, lab]) => { const n = P.filter(p => p.tags.has(k)).length;
   affEl.insertAdjacentHTML("beforeend", `<button class="chip aff" data-aff="${k}" aria-pressed="false">${lab} <span class="sub">${n}</span></button>`); });
-const state = {status: new Set(["agreed","uncertain","disputed","unknown","added"]), visit: new Set(["visited","hearsay","unclear"]), aff: new Set(), kh:false, alt:false, sp:false, change:false, juan:0, level:"", q:"", sel:null};
+const state = {status: new Set(["secure","probable","open","untested","unlocated"]), visit: new Set(["visited","hearsay","unclear"]), aff: new Set(), kh:false, alt:false, sp:false, change:false, juan:0, level:"", q:"", sel:null};
 const visible = p => (!state.kh || (p.kh && p.kh.length)) && state.status.has(p.status) && state.visit.has(p.visitEff) && (!state.aff.size || [...state.aff].some(a => p.tags.has(a))) && (!state.change || BIG.has(p.change) || p.change === "strengthened")
   && (!state.juan || p.juan === state.juan) && (!state.level || p.level === state.level || (state.level === "country" && p.level === "region"))
   && (!state.q || [p.zh,p.ja,p.orig,p.mz,p.modern,p.proposed,p.id].join(" ").toLowerCase().includes(state.q));
@@ -201,14 +200,14 @@ const visible = p => (!state.kh || (p.kh && p.kh.length)) && state.status.has(p.
 function draw() {
   const vis = P.filter(p => visible(p) && p.lat != null);
   const r = p => (p.level === "site" ? 3.2 : 5) / Math.sqrt(k);
-  const sps = state.sp ? P.filter(p => visible(p) && p.sp) : [];
+  const sps = state.sp ? P.filter(p => visible(p) && p.mzlat != null && (p.lat == null || Math.abs(p.mzlat - p.lat) + Math.abs(p.mzlon - p.lon) > 0.01)) : [];
   spg.selectAll("line").data(sps.filter(p => p.lat != null), p => p.id).join("line").attr("class", "spl")
     .attr("x1", p => proj([p.lon, p.lat])[0]).attr("y1", p => proj([p.lon, p.lat])[1])
-    .attr("x2", p => proj([p.sp.lon, p.sp.lat])[0]).attr("y2", p => proj([p.sp.lon, p.sp.lat])[1]);
+    .attr("x2", p => proj([p.mzlon, p.mzlat])[0]).attr("y2", p => proj([p.mzlon, p.mzlat])[1]);
   spg.selectAll("path").data(sps, p => p.id).join("path").attr("class", "spt")
-    .attr("d", p => { const [x, y] = proj([p.sp.lon, p.sp.lat]), q = 4.5 / Math.sqrt(k); return `M${x},${y-q}L${x+q},${y}L${x},${y+q}L${x-q},${y}Z`; })
+    .attr("d", p => { const [x, y] = proj([p.mzlon, p.mzlat]), q = 4.5 / Math.sqrt(k); return `M${x},${y-q}L${x+q},${y}L${x},${y+q}L${x-q},${y}Z`; })
     .on("click", (e, p) => select(p.id))
-    .selectAll("title").data(p => [p]).join("title").text(p => `${p.zh}: the study's proposal — ${p.sp.label}`);
+    .selectAll("title").data(p => [p]).join("title").text(p => `${p.zh}: Mizutani's point — ${p.mz}`);
   const alts = state.alt ? vis.filter(p => p.alt && p.alt.length && (p.level !== "site" || k > 3 || p.id === state.sel)).flatMap(p => p.alt.map((a, i) => ({p, a, key: p.id + "|" + i}))) : [];
   altg.selectAll("line").data(alts, d => d.key).join("line").attr("class", "altl")
     .attr("x1", d => proj([d.p.lon, d.p.lat])[0]).attr("y1", d => proj([d.p.lon, d.p.lat])[1])
@@ -238,7 +237,7 @@ function list() {
   document.getElementById("count").textContent = `${vis.length} places` + (vis.length !== P.length ? ` of ${P.length}` : "");
   document.getElementById("rows").innerHTML = vis.map(p => `<tr class="row${p.id===state.sel?" sel":""}" data-id="${p.id}" tabindex="0">
     <td class="id">${p.id}</td><td><span class="zh">${esc(p.zh)}</span>${p.orig ? `<br><span class="sub">${esc(p.orig)}</span>` : ""}</td>
-    <td><span class="dot" style="background:${col(p.status)}"></span> ${esc(p.mz || "—")}</td>
+    <td><span class="dot" style="background:${col(p.status)}"></span> ${esc(p.sid || p.mz || "—")}</td>
     <td>${p.change && p.change !== "none" ? esc(CHANGE[p.change] || p.change) : (p.gazN ? p.gazN + " passages" : "")}</td></tr>`).join("");
 }
 document.getElementById("rows").addEventListener("click", e => { const tr = e.target.closest("tr.row"); if (tr) select(tr.dataset.id, true); });
@@ -251,15 +250,16 @@ function select(id, pan) {
 }
 function panel(p) {
   const el = document.getElementById("panel");
-  if (!p) { el.innerHTML = `<h2>Choose a place</h2><p class="empty">Click a point on the map or a row in the list. The dossier shows Mizutani's identification, each authority's view, what the gazetteers add, and the note on the place where there is one.</p>`; return; }
+  if (!p) { el.innerHTML = `<h2>Choose a place</h2><p class="empty">Click a point on the map or a row in the list. The dossier shows the study's identification and confidence, then Mizutani's, each authority's view, the survey, excavation, inscription and gazetteer evidence, the texts and translations, and the note on the place where there is one.</p>`; return; }
   const par = p.parent ? P.find(x => x.id === p.parent) : null;
   const auth = Object.entries(p.auth).map(([a,v]) => `<dt>${esc(AUTHN[a]||a)}</dt><dd>${esc(v)}</dd>`).join("");
   el.innerHTML = `<h2><span class="zh">${esc(p.zh)}</span>${p.orig ? " · " + esc(p.orig) : ""}</h2>
     <div class="sub">${p.id} · juan ${p.juan} · ${esc(p.level)}${par ? ` in <span class="zh">${esc(par.zh)}</span>` : ""}${p.ja && p.ja !== p.zh ? ` · Mizutani: ${esc(p.ja)}` : ""}</div>
-    <div class="badges"><span class="badge" style="color:${col(p.status)}">${esc(p.status)}</span>
+    <div class="badges"><span class="badge" style="color:${col(p.status)}">${esc(p.status)}${p.status === "untested" ? (p.mzstatus === "added" ? " (sources)" : " (Mizutani)") : ""}</span>${p.mzstatus && p.mzstatus !== "added" ? `<span class="badge" style="color:var(--muted)">Mizutani: ${esc(p.mzstatus)}</span>` : p.mzstatus === "added" ? `<span class="badge" style="color:var(--muted)">added place</span>` : ""}
       ${p.visit ? `<span class="badge" style="color:var(--muted)">${esc(p.visit)}</span>` : ""}
       ${p.change && p.change !== "none" ? `<span class="badge" style="color:var(--ink)">${esc(CHANGE[p.change]||p.change)}${p.conf ? " · " + esc(p.conf) : ""}</span>` : ""}</div>
-    <dl><dt>Mizutani</dt><dd>${esc(p.mz || "no identification")}${p.mzOther ? `<br><span class="sub">Others he reports: ${esc(p.mzOther)}</span>` : ""}</dd>
+    <dl><dt>The study</dt><dd>${esc(p.sid || p.mz || "no identification")}${p.sopen ? ` <span class="sub">(left open between the candidates named)</span>` : ""}<br><span class="sub">${p.lat != null ? `On the map: ${esc(p.slabel || p.modern || "")}${p.sprec ? " (" + esc(p.sprec) + ")" : ""}; point from ${p.sfrom === "study" ? "the study's proposal" : p.sfrom === "added" ? "the sources (added place)" : "Mizutani"}` : "Not located"}</span></dd>
+    <dt>Mizutani</dt><dd>${esc(p.mz || "no identification")}${p.mzOther ? `<br><span class="sub">Others he reports: ${esc(p.mzOther)}</span>` : ""}</dd>
     ${p.proposed && p.change && p.change !== "none" ? `<dt>Proposed</dt><dd>${esc(p.proposed)}${p.basis ? `<br><span class="sub">${esc(p.basis)}</span>` : ""}</dd>` : ""}
     ${auth}
     <dt>Survey (ASR)</dt><dd>${p.asrN ? `${esc(p.asr)}${p.asrEv ? `<br><span class="sub">${esc(p.asrEv)}</span>` : ""}` : "no passage"}</dd>
@@ -273,7 +273,6 @@ function panel(p) {
         p.rel.other ? `others: ${esc(p.rel.other.replace(/Pasupata/g, "ash-smearers (塗灰; often read as Pāśupata)").replace(/;/g, ", "))}` : "", p.rel.site_affiliation ? `site: ${esc(p.rel.site_affiliation.replace(/;/g, ", "))}` : "",
         p.rel.buddhism ? `Buddhism ${esc(p.rel.buddhism)}` : ""].filter(Boolean).join("; ")}</dd>` : ""}
     ${p.alt && p.alt.length ? `<dt>Rival sites</dt><dd><table class="alts"><tr><th>Site</th><th>Proposed by</th><th>Route fit</th></tr><tr><td>${esc(p.modern || p.mz)}</td><td>Mizutani</td><td>${p.mzz ? `|z| ${p.mzz}, ${p.mzb}°` : "—"}</td></tr>${p.alt.map(a => `<tr><td>${esc(a.name)}${p.best === a.name ? " ◆" : ""}</td><td>${esc(a.by)}</td><td>${a.z ? `|z| ${a.z}, ${a.b}°` : "—"}</td></tr>`).join("")}</table><span class="sub">Route fit: mean |z| of the distance and mean bearing error over the legs touching the place (lower is better; route/candidate_scores.tsv). ◆ = chosen by the best-fitting combination for the juan (route/README.md §6).</span></dd>` : ""}
-    ${p.sp ? `<dt>Study's proposal on the map</dt><dd>${esc(p.sp.label)} <span class="sub">(${esc(p.sp.prec)}${p.sp.note ? "; " + esc(p.sp.note) : ""}; shown with "study's proposals")</span></dd>` : ""}
     <dt>On the map</dt><dd>${p.lat != null ? `${esc(p.modern)} <span class="sub">(${esc(p.prec)}${p.cnote ? "; " + esc(p.cnote) : ""})</span>` : "not mapped"}</dd></dl>
     ${p.zht ? `<details class="text"><summary>Text and translation</summary>
       <p class="zhp">${esc(p.zht)}</p><p class="src">Taishō 51, no. 2087, ${esc(p.tref.replace("T51:", "p. "))} (CBETA)</p>

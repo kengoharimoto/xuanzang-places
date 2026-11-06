@@ -149,11 +149,22 @@ check.
    and a confidence.
 9. **Joined table** (`data/places.tsv`, `scripts/build_places.py`) and **map**
    (`map/xuanzang_places.html`, https://claude.ai/artifact/WUH4GFEULK5rZ8oaXw8PpH).
-   - **Map filters:** Mizutani's status, the visit status, religious affiliation, K. Harimoto's notes, juan and level.
-   - **Rival sites:** a toggle draws every scored rival site, linked to its place. The place panel lists each rival
-     with its route fit, and marks the one chosen by the best-fitting combination for the juan.
-   - **Place panel:** every source, the notes, and the Chinese text with its translation.
+   - **The map shows the study's view** (`data/study_view.tsv`, `scripts/build_study_view.py`). Each place sits at the
+     study's current site: its own proposed site where it settles on one (`data/coords_study.tsv`), the sources'
+     point for added places, and Mizutani's point elsewhere. Colour is the study's confidence, taken from the notes'
+     assessments (`updates_*.tsv`):
+     - **secure:** high confidence;
+     - **probable:** medium;
+     - **open:** low confidence, weakened, or left open between named candidates;
+     - **untested:** places without a note, where Mizutani's identification (or, for added places, the sources') has
+       not been assessed.
 
+     These classes are the study's judgements, not Mizutani's. His status is shown in each place panel, and a
+     "Mizutani's points" layer draws his sites where they differ.
+   - **Map filters and layers:** confidence, visit status, religious affiliation, K. Harimoto's notes, rival sites
+     with their route fit, Mizutani's points, juan and level.
+   - **Place panel:** the study's identification first, then Mizutani, the authorities, every source, the Xiyu ji
+     and Life passages with translations, and the note.
 ## Main proposed revisions to Mizutani
 
 These are medium- or high-confidence proposals that move away from Mizutani. The full list is in
@@ -264,5 +275,5 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 Rebuild:
 
 ```
-python3 -I scripts/merge_mizutani.py && python3 -I scripts/build_places.py && python3 -I map/build_geo.py && python3 -I map/build_page.py
+python3 -I scripts/merge_mizutani.py && python3 -I scripts/build_places.py && python3 -I scripts/build_study_view.py && python3 -I map/build_geo.py && python3 -I map/build_page.py
 ```
