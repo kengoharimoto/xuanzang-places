@@ -54,3 +54,7 @@
   and Muchilinda's is Teskar Tal; gazetteer hit 1762's "coincidence in position" sentence is Beglar's (ASR VIII p. 108),
   not Cunningham's. Uncoded ASR passages: vol. VIII preface p. viii (Tilaḍaka "beyond all doubt"; Son Bhandar defended),
   Beglar's Note pp. ix–x (withdrawing Bhika Pahari).
+- **Annual Reports**: the IA item labelled 1928–29 (`archaeologicalsurveyofindiaannualreports192829platesmissing2749_499_b`) is
+  in fact the 1929–30 report; its passages (752–778) are kept but set `relevant=no`. The 1928–29 report and 1918–20
+  are still missing. Eight volumes (1903–04, 1920–22, 1925–27, 1929–30, 1935–36) were re-OCR'd with Google Vision
+  because the IA text was Hindi-language OCR of English.
