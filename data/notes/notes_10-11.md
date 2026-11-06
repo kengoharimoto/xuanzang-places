@@ -1226,6 +1226,11 @@ Paṭṭa-śilā; 700 li (c. 143 miles) north from Bela matches Bela–Kusdar, 1
 Hyderabad (Cunningham), Haig, and Lambrick's Sehwan. The Chachnāma's march from Armābel through Turān to Kandabil
 supports the sequence.
 
+**Excavations (Annual Reports).** Hargreaves (AR 1925–26, p. 82) visited Mini Butt at Khuzdar, Mirchandani's capital:
+stone foundations, a tiled room, glazed ware and a reported silver hoard, "an extensive settlement", undated but
+probably Islamic. N. G. Majumdar (AR 1930–34) found only a Muhammadan-period fort in the mound at Sehwan, Lambrick's
+candidate. Neither report mentions Xuanzang.
+
 **Assessment.** The three placements differ materially, and none cites remains. Mizutani follows Cunningham, and
 confidence is low.
 
@@ -1261,6 +1266,11 @@ Cunningham's view is open to "serious exceptions".
 
 **Mirchandani 1967.** Mirchandani puts 伐剌拏 in the Bolan–Loralai region, capital at or near Duki (pp. 350–53), against
 Bannu (Cunningham, Stein) and Vaneh (Vivien, Smith, Lambrick); the argument depends on his Gandāva for 11.22.
+
+**Excavations (Annual Reports).** Stein (AR 1926–27, p. 250) cleared a Kushan stūpa near Ṭabar-kōt at the entrance of
+the Thal plain, with an undisturbed relic deposit, Graeco-Buddhist carvings and Kharoṣṭhī and Brāhmī sherds, "the
+first Buddhist ruin discovered in Baluchistan", and surveyed the Duki–Sanjawi mounds of Loralai. This shows Buddhism
+in Mirchandani's region, though for the Kushan period, not Xuanzang's.
 
 **Assessment.** Pāṇini's Varṇu and Stein's endorsement favour Bannu. Mizutani stands, with medium confidence.
 
