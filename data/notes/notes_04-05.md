@@ -555,6 +555,10 @@ kind of evidence; see the assessment.
 (Cunningham 1871; Beal 1884; Cunningham ASR I) here, not Mizutani's Bilsar (Bilsad), Etah district (route/README.md
 §7).
 
+**Text (Sixi edition).** The Korean edition (Taishō) reads 東行二百六七十里，渡殑伽河，南至毘羅刪拏國. The Song (Sixi) print, checked on
+the scan, reads 南行…渡殑伽河，西南至, and so does the Life. Bilsar lies due south of Ahicchatra, so the Song and Life reading
+fits; the route model uses it (route/README.md §9). The passage shown follows CBETA's 東.
+
 **Assessment.** The survey abandoned Atranji-Khera on its own evidence. Bilsar has name, size, distance, Gupta
 temple sites for the five deva temples, and now an excavated Buddhist sealing, though no inscription names the
 town and the stupa and monasteries are unlocated. Mizutani's Bilsar is secure.
@@ -640,6 +644,9 @@ old name of Kanauj.
 
 **Later excavations.** K. K. Sinha (IAR 1955–56, pp. 19–22) cut "the mound representing the ancient city of
 Kanyakubja": a 40-ft deposit from PGW to late medieval, PGW under NBP.
+
+**Text (Sixi edition).** The Song (Sixi) print and the Life read 西北行減二百里 from Kapitha; the Korean edition (Taishō)
+reads 東南. Kanauj lies east-south-east of Sankisa, so the Korean reading is the right one here (route/README.md §9).
 
 **Assessment.** The old Ganges channel below the city supports Mizutani's reading of the river, and the city
 mound has a continuous sequence through Xuanzang's time. The city is secure; its monuments are not identified.

@@ -16,6 +16,8 @@ Two checks on the identifications, using only the texts:
 | `chains.py` → `chain_scores.tsv` | Scores whole alternative routes, each leg measured between one scheme's own sites (§5). |
 | `li_regions.py` → `li_regions.tsv`, `li_schemes.tsv` | The li by juan, visit and leg length; each scheme's best-fitting scale and the scatter left over (§8). |
 | `../data/coords_study.tsv` | Coordinates for the study's own proposed sites, scored as the scheme "Study (proposed sites)" in §6–8. |
+| `apparatus_variants.py` → `apparatus_variants.tsv` | The Taishō apparatus notes of T2087, flagged where a reading touches a direction or numeral (§9). |
+| `sixi_check.py` → `sixi_apparatus.tsv`, `sixi_route.tsv` | Those Song readings and the route sentences checked against the Sixi edition's scan (§9). |
 | `life_segments.py` → `life_segments.tsv` | The Life's legs (from `variants_*.tsv`), in the same form as `segments.tsv` (§7). |
 | `chains_all.py` → `chain_scores_all.tsv`, `chain_best.tsv` | The same for every juan: each authority's set of sites, and the best-fitting combination of candidates (§6). |
 | `variants_*.tsv` | Each leg in T2087, T2088 and T2053, plus Mizutani's variant notes. Quotes are verbatim and checked by `check_variants.py`. Instructions are in `VARIANTS_INSTRUCTIONS.md`. |
@@ -282,4 +284,29 @@ figures were scaled, the scheme would show an unusual scale with little scatter.
 - **What this means.** The revisions rest on inscriptions, and the figures do not support them. In the Deccan this is
   expected, given the inflation above. For Mālava it is a real point against central Gujarat, and the 11.05 note
   should weigh it.
+
+## 9. The Sixi edition (1132) against the Taishō apparatus
+
+**The scan.** The Southern Song Sixi (思溪) edition is the Taishō apparatus's 【宋】. A scan of the National Diet
+Library copy is in the Internet Archive item `datangxiyuji`. It has 391 pages and only juans 1–8 survive. The pages
+were OCR'd with Google Vision (`data/ref/sixi/`, gitignored).
+
+**The method.**
+- `apparatus_variants.py` lists the 2,948 apparatus notes of T2087. 145 of them touch a direction or a numeral, and 49
+  of those give a Song reading.
+- `sixi_check.py` locates each such note in the scan by fuzzy-matching eight characters either side of it. It does the
+  same for every route sentence with a distance.
+
+**The results.**
+- **The apparatus is reliable for the Song text.** Every recorded Song reading the scan reaches agrees with it: 27 by
+  matching and 2 by hand (西行三百餘里 at 01.15; 西北行減二百里 at 05.01). The others fall in the lost juans 9–12 or
+  where the OCR failed.
+- **No unrecorded variants.** The 86 route sentences matched in juans 1–8 show no direction or numeral that differs
+  from CBETA except where the apparatus already records it.
+- **Vīrasana (04.14).** The Korean text (Taishō) has 東行二百六七十里，渡殑伽河，南至. The Song print has
+  南行…渡殑伽河，西南至, and so does the Life. Bilsar lies due south of Ahicchatra (180°), so the Song and Life
+  reading fits. The route model already uses it, because its route text follows the Song wording.
+- **Kanyākubja (05.01).** The Song print and the Life read 西北 (north-west), the Korean 東南 (south-east). Kanauj lies
+  east-south-east of Sankisa (116°), so here the Korean reading is right. The Song and the Life share an error.
+- **Sāṃkāśya (04.15.02).** The Song print has the stairs' monastery 城東, as the apparatus says.
 
