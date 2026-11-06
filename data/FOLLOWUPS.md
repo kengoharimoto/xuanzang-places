@@ -79,8 +79,7 @@
 - **From K. Harimoto's notes, to obtain or read**:
   - Mirchandani, "Hiuen Tsiang's place names Khie-tsi-shi-fa-lo, Long-kie-lo and Su-nu-chi-shi-fa-lo", *JIH* 47 (1969), pp. 237–51 (11.18, 11.19).
   - Bakker 2014 on Śaṅkukarṇa at Banbhore, as cited in SP IV p. 55 n. 133.
-  - "Hans' article" on Avalokiteśvara appearing as Īśvara or an ash-smearer (10.17.04): not identified.
-  - The Nagasawa pages (長沢, 法顕伝・宋雲行紀) attached to the Faxian note: missing from `data/Archive/Attachments/`.
+  - Bakker, *The Alkhan* (2020): only a 10-page excerpt is on disk; the full book may say more on Avalokiteśvara and Śiva.
   - Afghanistan.pptx: a Dropbox link only.
   - The basis for "Bālakumārapura" (04.11): not stated in the note.
   - The Ajanta Cave 26 Acala inscription (Burgess and Indraji 1881): cited from general knowledge, not coded (11.03.03).

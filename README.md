@@ -76,14 +76,14 @@ check.
 - ***Epigraphia Indica*** vols. 1–36 and **CII** vols. 1, 2.1, 2.2, 3 (in Bhandarkar's revised edition), 5 and 6.
   These are the user's own copies, from their text extracts.
 - **Gazetteers.** The 557 volumes of the gazetteer-vedanta and yoga-gazetteers studies.
-- **K. Harimoto's notes** (`data/Archive/`, kept local). Earlier working notes:
+- **K. Harimoto's notes** (`data/Archive/`). Earlier working notes:
   - a country-by-country extraction of what the text says about non-Buddhists, with letter codes;
   - notes on Songyun's 善特山, on Faxian's 波羅越 against Bhramaragiri, on Mahārāṣṭra and on Pāṇini;
   - two sketches of the route through Kapiśa.
 
   They are entered as a register (`data/user_obs/observations.tsv`, one row per observation, with an assessment) and
   as a paragraph in the relevant notes. Their proposals were tested against Kuwayama 2000 and 1972, Beal 1869/1884,
-  Sachau's al-Bīrūnī, Lambrick's *Sind*, the Skandapurāṇa vol. IV, Kafle's Niśvāsamukha and Cecil 2020
+  Sachau's al-Bīrūnī, Lambrick's *Sind*, the Skandapurāṇa vol. IV, Kafle's Niśvāsamukha, Cecil 2020, Nagasawa's 法顕伝・宋雲行紀 (OCR'd here with Google Vision) and Bakker's 2016 Gonda Lecture
   (`data/user_obs/obs_*.tsv`, quotes checked with `scripts/check_quotes_obs.py`).
 
 ## Method
@@ -169,7 +169,8 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 - **Laṅgala's capital** (11.19). 窣菟黎濕伐羅 = Sthūleśvara by name (also Mirchandani 1969). The Skandapurāṇa
   puts that liṅga at the Indus mouth, so the site is open.
 - **Atyanabakela's capital** (11.18). Banbhore (Debal) is added to Karachi and Koṭeśvara.
-- **Songyun's 濕婆仙** (02.04.15). A Śiva shrine inside the Daṇḍaloka monastery c. 520, which Beal missed.
+- **Songyun's 濕婆仙** (02.04.15). A Śiva shrine inside the Daṇḍaloka monastery c. 520. Beal missed it; Nagasawa
+  had already read it as Śiva, with ash-smearers.
 - **Religion coding.** Compared with the notes' letter codes: Vipula hill (09.02.11) is now tagged Jain.
   Mayūrapura's 大天祠 also carries the "Mahādeva temple" reading.
 

@@ -532,6 +532,10 @@ pilgrim's description".
 may come from parvata taken as pārāvata; and 黑蜂 might be a corruption of 黑峰. Against the last point, 跋邏末羅 transcribes
 bhramara independently of the gloss, 黑蜂 is its standard gloss, and Arang's Bhaṃgara-pavata is also 'bee'.
 
+**Nagasawa.** Nagasawa takes Faxian's 達嚫 as Dakṣiṇa, location unknown, 200 yojanas S of Kauśāmbī (p. 127), and
+compares Xuanzang's Bhramaragiri, which he glosses 黒峰山 'black peak' (p. 128). Taishō and CBETA read 黑蜂 with no variant
+noted, so 黒峰 is his rendering, not a reading of the text.
+
 **Assessment.** Xuanzang puts Bhramaragiri 300 li SW of the Kosala capital. With Sirpur now secure (10.12), Arang has
 the bearing and a hill-name close to Bhramara (both bhramara and bhṛṅga mean "bee", glossed 黑蜂 in the text; this
 point is not made in these sources). Śrīparvata at Nāgārjunakoṇḍa has the Nāgārjuna association and the name of
@@ -727,6 +731,10 @@ sea-side". Beal (p. 233): no site.
 
 **K. Harimoto's notes.** Suggests that the port NE of the mountain on the route to Siṃhala could be at Pondicherry
 (Arikamedu). Arikamedu is a Roman-period port not shown to be active in the 7th century; recorded as a lead only.
+
+**Bakker.** On Avalokiteśvara appearing as 自在天 or an ash-smearer: Bakker (Gonda Lecture 2016, publ. 2017, p. 15),
+after Eltschinger, cites the Kāraṇḍavyūha, where Avalokiteśvara tells Maheśvara that he will be the creator in the
+Kali age.
 
 **Assessment.** Hultzsch's Podiyamalai and 高桑's Pāpanāsam probably name the same range above Pāpanāsam in
 Tinnevelly (a geographical point not stated in these sources). If so, two independent sources point to one hill,

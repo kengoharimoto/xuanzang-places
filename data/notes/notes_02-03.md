@@ -298,6 +298,10 @@ monastery's donkeys, and a shrine (廟) to the 濕婆仙, painted and gilded by 
 novice. 濕婆 is the usual transcription of Śiva: a Śaiva shrine inside the Buddhist complex c. 520. Beal (1869, p. 196;
 1884, I p. xcix) renders 濕婆仙 as "the Rishi Uh-po (Oupa? conf. Oupagupta)" and 除灰 as "sifting ashes", missing Śiva.
 
+**Nagasawa.** Nagasawa (東洋文庫 法顕伝・宋雲行紀) already translates Songyun's 濕婆仙 as Śiva (p. 192) and suggests that 除灰 is an
+error for 塗灰, the ash-smearing worshippers of Śiva (p. 201). He also notes that the jātaka's king of 葉波國 is called 湿波
+(p. 200), which leaves a small doubt whether the stūpa-guarding 濕婆仙 is the god.
+
 **Assessment.** Cunningham's Kashmir Smast was fixed from Palodheri, which he gave up, and lies far from Shahbaz
 Garhi. Majumdar's cave and Mizutani's Mekha-Sanda both sit in the hills NE of Shahbaz Garhi, fitting the text's "20
 li NE", and the Survey in 1922–23 took the same hill and saw foundations on it. Mizutani is strengthened.
