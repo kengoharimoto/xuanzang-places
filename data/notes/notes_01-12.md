@@ -863,6 +863,10 @@ of Farkhar, 32 miles E of Talikan (I p. 42). Vivien: Ishkashim at the entrance t
 Ishkashim (Vivien 1858) here, not Mizutani's Kishm, Badakhshan (route/README.md §6). The figures are one kind of
 evidence; see the assessment.
 
+**Text.** The Korean edition (Taishō) gives the country 東西十餘里. The Song, Yuan and Ming editions and the Japanese
+manuscript 【甲】 read 千餘里, and so does the Jōō print of 1653, checked on the scan. A thousand li east to west suits a
+country; ten does not (route/README.md §9).
+
 **Assessment.** Kishm fits both the name and the place in the sequence. Ishkashim belongs to the Wakhan/Shighnan
 border (cf. 12.16a). Mizutani stands. Confidence medium: a small district identified by name and the authorities'
 agreement, and the route test prefers Ishkashim. No excavation, inscription or document naming the place is cited.
@@ -875,6 +879,9 @@ perhaps Farkhar = Parika (I p. 42, tentative). Vivien: Bolor (Po-lo-eulh of d'Ar
 (p. 422, tentative). Watters: none.
 
 **Gazetteers.** No gazetteer passage.
+
+**Text.** The Korean edition reads 北至鉢利曷國. The Song, Yuan and Ming editions and the 宮 manuscript read 東北, and so does
+the Jōō print of 1653 (route/README.md §9). The text gives no distance, so the route test cannot choose between them.
 
 **Assessment.** Farkhar is the only candidate with both a sound match and a plausible position; Mizutani rejects it
 without giving reasons in the extract here. Vivien's Bolor is too far east. The place stays unidentified, with

@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Check the Taishō apparatus's Song readings, and the route figures, against a scan of the Sixi (思溪) edition (1132).
 
-Usage (from xuanzang-places/): python3 -I route/sixi_check.py
+Usage (from xuanzang-places/): python3 -I route/sixi_check.py [ocr-glob tag]
+  e.g. python3 -I route/sixi_check.py "data/ref/joo/ocr*/p-*.txt" joo   (the Jōō 2 = 1653 print, juans 7–12)
 Inputs: data/ref/sixi/ocr/pNNNN.txt (Google Vision OCR of the National Diet Library copy, 8 of 12 juan surviving,
 scan in the Internet Archive item `datangxiyuji`), the CBETA TEI XML of T2087, route/segments.tsv.
 Outputs:
@@ -13,10 +14,12 @@ Outputs:
 Matching: OCR text normalised (variant forms → standard), contexts of 8 characters on each side located by
 best-scoring fuzzy match (difflib) over the whole scan; a match below 0.6 is reported as not found (lost juan or OCR).
 """
-import re, glob, csv, difflib, collections
+import re, glob, csv, difflib, collections, sys
+OCR = sys.argv[1] if len(sys.argv) > 1 else "data/ref/sixi/ocr/p*.txt"     # another scan: a glob of its OCR pages
+TAG = sys.argv[2] if len(sys.argv) > 2 else "sixi"                        # output names: route/<TAG>_apparatus.tsv, <TAG>_route.tsv
 NORM = str.maketrans("乗敎号竒舎爲旣㝷畧徳羣冣徃顯緣遶麤叅亊卽吿", "乘教號奇舍為既尋略德群最往顯緣繞麁參事即告")
 def norm(s): return re.sub(r"[^㐀-鿿\U00020000-\U0002ffff]", "", s.translate(NORM))
-S = "".join(norm(open(f, encoding="utf-8").read()) for f in sorted(glob.glob("data/ref/sixi/ocr/p*.txt")))
+S = "".join(norm(open(f, encoding="utf-8").read()) for f in sorted(glob.glob(OCR)))
 X = open("/mnt2/kengo/E-texts/10_sources_raw/CBETA/xml-p5/T/T51/T51n2087.xml", encoding="utf-8").read()
 notes = {m.group(1): re.sub(r"<[^>]+>", "", m.group(2)) for m in re.finditer(r'<note n="(\d+)"[^>]*type="mod"[^>]*>(.*?)</note>', X)}
 body = X[X.find("<body>"):]
@@ -67,13 +70,15 @@ for n, a, b in marks:
     note = notes[n]; lem = C[a:b]
     readings = re.findall(r"([^，【】]+)((?:【[^】]+】)+)", note)
     chars = lem + "".join(r[0] for r in readings)
-    if not set(chars) & (DIR | NUM) or "宋" not in note: continue
+    if not set(chars) & (DIR | NUM): continue
+    if TAG == "sixi" and "宋" not in note: continue
     song = next((r[0] for r in readings if "宋" in r[1]), "")
     got, q = scan_reading(a, b)
-    verdict = "not found" if got is None else ("Song" if norm(song) == got else ("Korean" if got == lem else "other"))
+    wits = [r[1] for r in readings if norm(r[0].replace("〔－〕", "")) == got] if got is not None else []
+    verdict = "not found" if got is None else (("Korean" if got == lem else "") + (" ".join(wits) if wits else ("" if got == lem else "other"))).strip()
     rows.append(dict(note=n, lemma=lem, song=song, apparatus=note, scan=got or "", match=round(q, 2), agrees_with=verdict,
                      context=C[max(0, a - 12):b + 12]))
-w = csv.DictWriter(open("route/sixi_apparatus.tsv", "w", encoding="utf-8", newline=""), list(rows[0]), delimiter="\t", lineterminator="\n")
+w = csv.DictWriter(open(f"route/{TAG}_apparatus.tsv", "w", encoding="utf-8", newline=""), list(rows[0]), delimiter="\t", lineterminator="\n")
 w.writeheader(); w.writerows(rows)
 import collections
 print("apparatus notes with Song readings at directions/numerals:", len(rows), collections.Counter(r["agrees_with"] for r in rows))
@@ -93,6 +98,6 @@ for s in seg:
     key = lambda z: "".join(ch for ch in z if ch in DIR | NUM)
     out.append(dict(id=s["id"], cbeta=sent, scan=sent[:6] + got + sent[-6:], match=round(q, 2),
                     differs="yes" if key(mid) != key(got) else ""))
-w = csv.DictWriter(open("route/sixi_route.tsv", "w", encoding="utf-8", newline=""), list(out[0]), delimiter="\t", lineterminator="\n")
+w = csv.DictWriter(open(f"route/{TAG}_route.tsv", "w", encoding="utf-8", newline=""), list(out[0]), delimiter="\t", lineterminator="\n")
 w.writeheader(); w.writerows(out)
 print("route sentences:", len(out), collections.Counter(r["differs"] for r in out))

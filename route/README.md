@@ -310,3 +310,13 @@ were OCR'd with Google Vision (`data/ref/sixi/`, gitignored).
   east-south-east of Sankisa (116°), so here the Korean reading is right. The Song and the Life share an error.
 - **Sāṃkāśya (04.15.02).** The Song print has the stairs' monastery 城東, as the apparatus says.
 
+**The Jōō print (1653), juans 7–12.** The same Internet Archive item has the Jōō 2 (承應二年) woodblock print. Its
+three volumes for juans 7–12 were OCR'd (`data/ref/joo/`) and checked the same way: `sixi_check.py "data/ref/joo/ocr0*/p-*.txt" joo`
+writes `joo_apparatus.tsv` and `joo_route.tsv`.
+- **Not a Taishō witness.** It agrees with 【甲】 at only 6 of the 29 notes where 【甲】 has its own reading, so it is
+  none of the apparatus's Japanese witnesses. Mostly it shares the Korean reading, or the Song–Yuan–Ming group's
+  where those differ.
+- **Support for Song-group readings in the lost juans 9–12.** Where the Song print is lost, the Jōō print supports
+  several Song-group readings. At 12.09 Kishm (訖栗瑟摩) it reads 東西千餘里, against the Korean 十餘里, which is
+  implausible for a country. At 12.10 Parghar it reads 東北至, against the Korean 北至.
+
