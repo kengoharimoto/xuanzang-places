@@ -1061,6 +1061,10 @@ Indus in the Derajat, its capital near Mithankot, site untraced (pp. 314–21): 
 the river, the rock salt of the Salt Range, and the riverine strip of Dera Ghazi Khan still called "Sindh". He argues
 against Alor (Cunningham, Haig, Smith, Lambrick).
 
+**Gazetteers (site search).** The Sukkur gazetteer (1919) describes the Aror ruins over the old river bed, with very
+large "Hindu" bricks and coins (G#1971); the Bombay Imperial Gazetteer (1909) notes carved slabs and brick foundations
+at the old Hindu city of Vijnot (G#1969), Banfill's candidate for the capital.
+
 **Assessment.** Branfill's Vijnot gives a closer sound for Pi-chen-po-pu-lo, but these sources offer no evidence
 beyond the name. Alor, the historical capital of Upper Sindh, stands.
 
@@ -1147,6 +1151,9 @@ miles NW of Bela (pp. 322–30), reached 1500–1600 li SW from his Sin-tu via K
 631, is his main support; he admits the name does not match the transcription. In 1969 (p. 250) he read the capital's
 name as Kiteśvara.
 
+**Gazetteers (site search).** Aitken's Sind gazetteer (1907) has Chach, who came to the throne in 631, subdue Las Bela
+(G#1967): Las Bela, like the delta, was then subject to Sind, as Xuanzang says of this country.
+
 **Assessment.** These sources split between Karachi or the delta (Debal/Banbhore) and Koṭeśvara in Kutch. 朅 (*khjat)
 suits Kacch- better than Koṭi-. A great Śiva shrine at the Indus mouth served by ash-smearers fits this country's
 大自在天祠, and the Skandapurāṇa's Śaṅkukarṇa–Sthūleśvara lies there. Mizutani's lower Sindh stands, low to medium
@@ -1231,6 +1238,10 @@ stone foundations, a tiled room, glazed ware and a reported silver hoard, "an ex
 probably Islamic. N. G. Majumdar (AR 1930–34) found only a Muhammadan-period fort in the mound at Sehwan, Lambrick's
 candidate. Neither report mentions Xuanzang.
 
+**Gazetteers (site search).** Aitken's Sind gazetteer (1907), after the Chachnāma, says that at the Arab conquest the
+principal citizens of Sehwan were Buddhists who would not fight for Dahar (G#1966): Buddhists in Lambrick's candidate
+town c. 711.
+
 **Assessment.** The three placements differ materially, and none cites remains. Mizutani follows Cunningham, and
 confidence is low.
 
@@ -1289,6 +1300,9 @@ and terrain, not on a find.
 **Gazetteers.** None.
 
 **Mirchandani 1967.** Mirchandani makes 稽疆那 the Kīkānān of the Arab writers, the Quetta–Pishin region (p. 354).
+
+**Gazetteers (site search).** The Mooltan gazetteer (1884), after Ibn Haukal, makes the Arabs' Kaikanan "not
+identified", probably including Dera Ghazi Khan (G#1970); Mirchandani puts it at Quetta–Pishin.
 
 **Assessment.** Cunningham's Pishin rested on the Arab Kīkān. Stein places that Qīqān in Waziristan too, which takes
 away Cunningham's ground, and his field tour fits the description, as Bannu (11.23) and the route already did.
