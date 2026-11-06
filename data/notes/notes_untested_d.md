@@ -7,8 +7,13 @@ Cunningham (p. 46), Beal (II p. 283) and Majumdar (p. 673, citing Stein's suppor
 Watters: perhaps more correctly the old city Zabal near Ghazni (p. 265, tentative).
 **Evidence.** No survey, inscription or gazetteer passage. Route test: the best-fitting combination for juan 12, on
 both the Xiyu ji's and the Life's figures, takes Ghazni for the country 12.01 (route/README §§6–7).
-**Assessment.** Probable. The name match and unanimous agreement carry it, and the route fit supports the Ghazni
-area. There is no site evidence in these sources.
+**Foucher (1942–47).** Doubts Ghazni: "Linguistiquement la chose est possible ; géographiquement rien n'est moins
+certain", since his Jāguḍa is the upper Arghandāb; one should first look for a Ghaza or Ghazna in that valley (II, p.
+235). Pelliot's note to him finds the equation phonetically unresolved and "pas très conciliable avec Ghazna ou
+Ghaznī"; the *Tang shu* copies Hao-si-na but calls the second capital A-so-ni (II, p. 240 n. 35).
+**Assessment.** Possible but now doubtful. The name match was the main ground, and Pelliot finds it unresolved;
+Foucher adds that his Jāguḍa need not have included Ghazni. The route fit still supports the Ghazni area, and no other
+site has been proposed. Ghazni stays on the map, low confidence.
 
 ### 12.03 安呾羅縛國 (*antarava) — Andarāb
 
@@ -18,8 +23,12 @@ area. There is no site evidence in these sources.
 **Evidence.** No site evidence. The Life (T50:0250a) has a 5–6-day descent (Xiyu ji 3 days), three Mahāsāṃghika
 monasteries and an Aśoka stūpa. Route test: the onward leg to Khost (12.04, 400 li NW) measures 29 km against c.
 96 km predicted (z −2.4, DIST flag); the discrepancy concerns the pair, and Khost is itself secure.
-**Assessment.** Probable on the name and agreement. The short Andarāb–Khost leg is a problem of the figures, not of
-the identification.
+**Foucher (1942–47).** Visiting in 1923–24, Foucher proposed the capital on the alluvial plateau just E of the
+governor's house near Banu: its cliffs show substructures of river pebbles, old coins have been found there, and its
+size matches Xuanzang's 14–15 li. The Kishnabād spur 3–4 km downstream has only a qaleh, and the valley below is too
+narrow for a town (I, pp. 22, 136). He also takes the pass for the Khāvak (II, p. 234).
+**Assessment.** Probable on the name and agreement, and Foucher's plateau at Banu gives a plausible, unexcavated
+capital site. The short Andarāb–Khost leg is a problem of the figures, not of the identification.
 
 ### 12.05a 葱嶺 — the Pamir system
 

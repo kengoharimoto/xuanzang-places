@@ -4,6 +4,7 @@
 
 **Identifications.** Mizutani: India as a whole, with the traditional fivefold division (agreed). Cunningham (pp. 11,
 13), Watters (p. 139) and Dey agree.
+**Foucher (1942–47).** Notes that Xuanzang crosses "la frontière de l'Inde du Nord" on entering Lampāka (I, p. 36).
 **Assessment.** A general description, not a site; the authorities agree and nothing here bears on it. Mizutani
 stands (medium).
 
@@ -15,6 +16,9 @@ between the Alingar and Kunar.
 **Evidence.** The name runs from Lampāka to Lamghan. Himalayan Districts II (1884) and the 1874 volume mention it in
 passing. Route test: Kapiśa to Laghman 95 km for "600+ li E" (predicted 143 km), bearing 22° off. The Life
 (T50:0229b) has the same route over the Black Ridge.
+**Foucher (1942–47).** Laghmān. He rode the old direct road from Kāpiśī SE by Nijrao, Tagao and the Bādpash pass (c.
+1,600 m) in October 1925, with stūpas along it and a marble liṅga at Tagao; this road, not one through Kabul, is
+Xuanzang's (I, pp. 34, 36).
 **Assessment.** Name, position between Kapiśa and Nagarahāra, and route agree; there is no site evidence. Mizutani
 stands with medium confidence.
 
@@ -25,6 +29,8 @@ Cunningham (p. 52), Beal (p. 95), Watters (p. 184) and Majumdar (p. 675): Hidda,
 **Evidence.** Cunningham notes the village's "many stupas, tumuli and caves". Konow (CII 2.1, p. 157) reports
 Masson's jar with an ink Kharoṣṭhī inscription from one of the Hidda stūpas. Route test: 8 km SE for "30+ li"
 (predicted 7 km). The Life (T50:0229b) calls it the city of the Buddha's skull bone, 10+ li SE over a sand ridge.
+**Foucher (1942–47).** Hi-lo is Hadda "sans contestation possible", 7–8 km S of Jalalabad; his trial excavation of
+1923 in a quadrangle by the Teppeh-Kalān found small stūpas and stucco sculpture (I, pp. 152–3).
 **Assessment.** The name (Haḍḍa/Hidda), the distance and a large excavated Buddhist site agree, and no one proposes
 another place. Secure.
 
@@ -46,6 +52,8 @@ Beal (p. 97), Watters (p. 200), Majumdar (p. 678: "now certain; excavated") and 
 **Evidence.** Peshawar 1899 traces the name through Parshawar (Masʿudi, Abu Rihan, Babur) and Purshor. Cunningham
 (ASR II, pp. 87–92) builds the Gandhāra itinerary on Peshawar. The Kaniṣka casket from Shāh-ji-ki-Dheri, just
 outside the Ganj Gate (02.04.03), anchors the city. Pargiter (EI 12, p. 302) takes Peshawar as the capital in passing.
+**Foucher (1942–47).** Agrees: the old city lies under Peshawar City, which "ne nous a pas semblé avoir changé de
+place", reached from the Khyber by Takkal (I, p. 44).
 **Assessment.** Continuous name and an inscription at the city's chief monument. Secure.
 
 ### 02.04.14b 跋虜沙城東門外窣堵波 — But Shahri E of Shahbaz Garhi (Foucher); a single proposal
@@ -166,6 +174,8 @@ after Cunningham. Watters: none.
 Shah-dheri right, read the Sikh and Muslim spring legends as successors of the Nāga legend, and traced a ruined
 monastery 200 ft square and a stūpa near the cypress garden. Rawalpindi 1883, 1895 and Attock 1909 repeat him.
 Route test: 14 km NW of Taxila for "70+ li" (predicted 17 km), 12° off.
+**Foucher (1942–47).** The spring of Hasan Abdāl, two stages from the Indus across the Chach plain, still venerated
+(I, p. 42).
 **Assessment.** Distance, bearing, a living spring cult and Buddhist ruins beside it. Secure.
 
 ### 03.04.x1 白衣外道本師悟所求理初說法處 — the Jain founder's place: temple C at Ketas (Cunningham) or Murti (Stein)

@@ -216,6 +216,8 @@ Kunduz. Beal (p. 43): Baghlan, c. 34 miles S of Kunduz.
 Tashkurgan. Beal (p. 43): Khulm.
 **Evidence.** Name continuous; on the Kunduz–Balkh road, so Xuanzang must have passed it although the Life omits it
 (Mizutani).
+**Foucher (1942–47).** Notes the nearly abandoned ruins of old Khulm near Tāsh-Qurghān as proof of the town's
+antiquity, without argument from Xuanzang (I, p. 49).
 **Assessment.** Secure on the name. Mizutani stands.
 
 ### 01.32 縛喝國 (Bākhl) — Balkh
@@ -224,7 +226,10 @@ Tashkurgan. Beal (p. 43): Khulm.
 (p. 645): Balkh.
 **Evidence.** Name continuous (Bactria, Bākhl). The Life (T50:0228a) adds the Nava monastery's relics and
 Prajñākara. Route test: the 100 li S to Gaz gives z +2.8 only because of where 01.36 is placed (see there).
-**Assessment.** Secure on the name; no site evidence in these files. Mizutani stands.
+**Foucher (1942–47).** His survey of the Balkh ramparts (1924) takes the oval Bālā-Hisār enclosure under the Arg for
+the Greek Basileion and "la « ville royale » des pèlerins chinois", with the artisans' town to its south (I, p. 60).
+**Assessment.** Secure on the name, and Foucher's survey places the walled royal city of Xuanzang's time in the
+Bālā-Hisār. Mizutani stands.
 
 ### 01.32.01 納縛僧伽藍 (Nava-saṃghārāma) — the Nau-bahār of Balkh; stupa probably Top-i-Rustam
 
@@ -232,7 +237,13 @@ Prajñākara. Route test: the 100 li S to Gaz gives z +2.8 only because of where
 excavated by Foucher. Beal (p. 44), Watters (p. 110): none.
 **Evidence.** The name survives as Nau-bahār (Nava-vihāra) at Balkh in the Islamic sources. Foucher's excavation is
 reported by Mizutani, without a find naming the monastery. The Life (T50:0228b) has the same relics.
-**Assessment.** The monastery is secure by name at Balkh; its site is probable through Top-i-Rustam. Mizutani stands.
+**Foucher (1942–47).** The study's identification is Foucher's. His excavation (28 January–14 May 1924) proved
+Tōp-é-Rustam, SW of the old city on the road out of the Nau-behār gate and the only tōp there, to be a Buddhist stūpa
+restored before 630. He admits that the monastery and the vihāra are not found and that the layout does not match the
+text, and rests the case on the stūpa (I, pp. 84, 96).
+**Assessment.** The monastery is secure by name at Balkh. Its stūpa is probably Top-i-Rustam: Foucher's excavation
+shows a large Buddhist stūpa in use in Xuanzang's time in the right quarter, though nothing names it and the monastery
+has not been found. Mizutani is strengthened.
 
 ### 01.33 鋭秣陀國 — Sar-i-pul, on Beal's tentative suggestion only
 
@@ -251,6 +262,9 @@ Beal (p. 48): Gaz or Darah-Gaz, c. 20 miles S of Balkh. Vivien (p. 293), Watters
 **Evidence.** Name Gaz/Gachi. Route test: Mizutani's point (placed in Dara-i-Suf, 94 km from Balkh) gives z +2.8 for
 "S 100 li"; Beal's 20 miles (32 km) gives z +0.6, bearing 0°, and is the best-fitting choice for juan 1
 (chain_best). Onward to Bamiyan both fit (z −0.1 and +0.7). The Life gives no figure.
+**Foucher (1942–47).** Mizutani's source: Xuanzang's road went up the Balkh-āb and the Darrah-Yūsuf to the Qarā-kotal,
+and Kie-tche is the Darrah-Gāz ("Vallée des Tamaris"), with the "ten monasteries" along the Balkh-āb; he visited none
+of them (I, pp. 124, 129).
 **Assessment.** Probable: Darrah Gaz is agreed. The 100 li puts it near the valley mouth c. 30 km S of Balkh, where
 Beal has it, not 94 km up the valley. Same place, better point.
 
@@ -261,6 +275,8 @@ Bamiyan, the capital perhaps partly at Ghulghula.
 **Evidence.** Name continuous; the standing colossi (01.37.01, 01.37.01a) match Xuanzang's description. Route test:
 from Gaz SE 600 li to 138 km, within range. The Life (T50:0228c) has the Lokottaravādin monks and the hard snow
 road.
+**Foucher (1942–47).** Visits of 1922 and 1923: the old town began c. 1.5 km before the 53 m Buddha, astride the road
+and the river, with the Buddha cliff to its NE (I, pp. 132, 134).
 **Assessment.** Secure. Mizutani stands.
 
 ### 01.37.01 立佛石像 — the western (53 m) Buddha at Bamiyan
@@ -269,6 +285,7 @@ road.
 (p. 118): Talbot's 173-ft image. Majumdar (pp. 673–74): the largest, 180 ft.
 **Evidence.** A rock-cut standing Buddha NE of the royal city, 140–150 chi high (the Life: 150): the larger colossus
 matches in form, position and size. Later work (not in these sources): destroyed in 2001.
+**Foucher (1942–47).** Agrees: the 53 m Buddha, NE of the town (I, pp. 132, 134).
 **Assessment.** Secure: a standing monument matching the description, with all authorities agreeing.
 
 ### 01.38.05 舊王伽藍 — the Old Royal monastery: Burj-i-Abdallah at the N end of Begram

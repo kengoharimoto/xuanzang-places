@@ -53,8 +53,8 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 01.29	probable	Mizutani	36.13	68.7	town	Baghlan, Afghanistan	medium	none		Baghlan
 01.30	probable	Mizutani	36.27	68.02	town	Haibak (Samangan), Khulm valley	medium	none		Rūb + Simingān; capital Haibak
 01.31	probable	Mizutani	36.73	67.69	site	Khulm ruins N of Tashkurgan (Kholm)	medium	none		Khulm ruins N of Tashkurgan
-01.32	probable	Mizutani	36.76	66.9	town	Balkh	medium	none		Balkh
-01.32.01	probable	Mizutani	36.75	66.89	site	Top-i-Rustam, Balkh	medium	none		Nau-bahār at Balkh; stupa probably Top-i-Rustam
+01.32	secure	Mizutani	36.76	66.9	town	Balkh	high	strengthened		Balkh
+01.32.01	probable	Mizutani	36.75	66.89	site	Top-i-Rustam, Balkh	medium	strengthened		Nau-bahār at Balkh; stupa probably Top-i-Rustam
 01.32.02	unlocated						low	none		unlocated
 01.33	open	Mizutani	36.22	65.93	town	Sar-i-pul, Afghanistan	low	none		Sar-i-pul (tentative)
 01.34	probable	Mizutani	36.6	65.8	country	Guzgan/Jowzjan district	medium	none		Jūzjān district; capital unknown
@@ -63,13 +63,13 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 01.37	secure	Mizutani	34.82	67.83	district	Bamiyan valley	high	none		Bamiyan valley
 01.37.01	secure	Mizutani	34.833	67.819	site	Western (53 m) Buddha, Bamiyan	high	none		Western (53 m) Buddha, Bamiyan
 01.37.01a	secure	Mizutani	34.831	67.828	site	Eastern (35 m) Buddha, Bamiyan	high	none		The 35 m Buddha at Bamiyan
-01.37.02	unlocated						low	none		unresolved; natural rock W of Bamiyan (Foucher; cf. Watters' Azdaha)
-01.37.03	unlocated						low	none		unresolved: Fondukistan or upper Helmand (Gardan-Diwal)
-01.37.03a	open	Mizutani	34.91	68.23	site	Shibar pass	low	none		Shibar pass or Hajigak/Unai cols (open)
+01.37.02	open	study	34.83	67.835	approx	E end of the Buddha cliff, Bamiyan	low	new-candidate		E end of the Buddha cliff, c. 1 km E of the monastery between the two Buddhas (Foucher 1942, after Pelliot); not found
+01.37.03	unlocated						low	alternative	yes	upper Helmand below the Hajigak pass (Gardan-Diwal; Foucher), or Sar-e Cheshmeh at the Kabul-river source (Hackin); Fondukistan less likely
+01.37.03a	open	Mizutani	34.91	68.23	site	Shibar pass	low	alternative	yes	Hajigak/Unai side, off the Shibar highway (Foucher 1942, Vivien, Cunningham), or the Shibar (Mizutani)
 01.38	secure	Mizutani	35.0	69.25	district	Kapisa basin (Begram/Charikar), Afghanistan	high	none		Panjshir–Ghorband basin round Begram
-01.38.01	probable	Mizutani	34.99	69.33	site	Koh-i-Pahlvan / Shotorak, E of Begram	medium	none		Koh-i-Pahlvan E of Begram (Shotorak?)
+01.38.01	probable	Mizutani	34.99	69.33	site	Koh-i-Pahlvan / Shotorak, E of Begram	medium	none		Koh-i-Pahlvan E of Begram: the stupa on its S spur (Foucher) rather than Shotorak at the N foot
 01.38.02	probable	Mizutani	34.96	69.33	site	Kafir Qaleh, SE of Begram	medium	strengthened		Kafir Qaleh = Borj-e Kafir stūpa SE of Begram
-01.38.03	open	Mizutani	34.9	69.28	site	Tatarānzar, c. 12 km S of Begram	low	alternative	yes	Tatarānzar S of Begram, or Tapa Skandar (Kuwayama)
+01.38.03	open	Mizutani	34.9	69.28	site	Tatarānzar, c. 12 km S of Begram	low	alternative	yes	Tatarānzar S of Begram (Foucher 1923), the Paitāvā/Bulandi-e-Padshahi mounds (Foucher 1942), or Tapa Skandar (Kuwayama)
 01.38.03a	unlocated						low	new-candidate		Khair Khana N of Kabul (Mount Aruṇa, Sūrya temple)
 01.38.04	probable	Mizutani	35.03	69.13	site	Top-Darrah stupa near Charikar	medium	none		Top-Darrah stupa near Charikar
 01.38.05	probable	Mizutani	35.02	69.27	site	Burj-i-Abdallah, N end of Begram	medium	none		area of Burj-i-Abdallah, N end of Begram (building unidentified)
@@ -79,9 +79,9 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 02.02	probable	Mizutani	34.67	70.21	district	Laghman region, E Afghanistan	medium	none		Laghman (Lamghan), N of the Kabul river between Alingar and Kunar
 02.02a	open	Mizutani	34.48	69.25	site	Begram on the Logar, c. 10 km SE of Kabul	low	alternative		Mandrawar at the Alingar–Kabul junction (Vivien, tentative); capital otherwise unidentified
 02.03	secure	Mizutani	34.43	70.45	district	Jalalabad basin	high	none		Jalalabad district (Nangnihar)
-02.03.01a	probable	Mizutani	34.4	70.38	site	Dasht-i-Begram near Chahar-bagh, SW of Jalalabad	medium	none		Begram/Dasht-i-Begram W/SW of Jalalabad
-02.03.02	open	Mizutani	34.42	70.5	site	Ahin-Posh stupa, E of Jalalabad	low	none		Ahin-Posh stupa (Higuchi), or Nagara Goondee tope (Watters, after Masson/Simpson)
-02.03.03	open	Mizutani	34.37	70.38	site	Syah-sang rocks S of Chahar-bagh	low	none		cliffs S/SW of Jalalabad (Syah-sang); exact cave unknown
+02.03.01a	probable	Mizutani	34.4	70.38	site	Dasht-i-Begram near Chahar-bagh, SW of Jalalabad	medium	strengthened		Begram/Dasht-i-Begram W/SW of Jalalabad
+02.03.02	open	Mizutani	34.42	70.5	site	Ahin-Posh stupa, E of Jalalabad	low	none		Ahin-Posh stupa (Foucher 1923, Higuchi), or Nagara Goondee tope (Watters, after Masson/Simpson)
+02.03.03	probable	Mizutani	34.37	70.38	site	Syah-sang rocks S of Chahar-bagh	medium	strengthened		cliffs S/SW of Jalalabad (Syah-sang); exact cave unknown
 02.03.05	secure	Mizutani	34.36	70.47	site	Hadda	high	none		Hadda, c. 8 km S of Jalalabad
 02.04	secure	Mizutani	34.1	72.0	district	Gandhara (Peshawar valley)	high	none		Peshawar valley (Kunar to Indus)
 02.04.01a	secure	Mizutani	34.01	71.58	town	Peshawar	high	none		Peshawar
@@ -423,15 +423,15 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 11.21	open	Mizutani	25.39	68.37	town	Hyderabad (Sind)	low	none		near Hyderabad (uncertain)
 11.22	open	Mizutani	25.88	68.8	town	Brahmanabad, Sind	low	alternative	yes	Middle Sindh (Brahmanabad) or Kachhi (capital Gandāva = Kandabil), equal weight
 11.23	open	Mizutani	32.99	70.6	town	Bannu	low	alternative	yes	Bannu, or the Bolan–Loralai country near Duki (follows 11.22)
-11.23.02	open	Mizutani	32.6	69.9	district	Waziristan	low	none		Waziristan (Stein); Nal in Jhalawan (Arab Kīkān per Baluchistan gazetteers) an alternative
-12.01	probable	Mizutani	33.0	67.5	country	Zabulistan (SE Afghanistan)	medium	none		Zābulistān (Ghazni–Helmand region)
-12.01a	probable	Mizutani	33.55	68.42	town	Ghazni	medium	none		Ghazni
+11.23.02	open	Mizutani	32.6	69.9	district	Waziristan	low	alternative	yes	Waziristan (Stein), or the Brāhūī highland of Kalat (the Arab Kīkān: Foucher Kalat-Mastung, Mirchandani Quetta–Pishin, gazetteers Nal)
+12.01	probable	Mizutani	33.0	67.5	country	Zabulistan (SE Afghanistan)	medium	alternative		Zābulistān (Ghazni–Helmand region); core perhaps the upper Arghandāb = Jaghuri (Foucher)
+12.01a	open	Mizutani	33.55	68.42	town	Ghazni	low	weakened		Ghazni
 12.01b	open	Mizutani	33.2	66.5	district	Guzar, Helmand basin	low	none		Guzar on the Helmand
 12.01c	probable	Mizutani	31.6	64.4	district	Helmand river (label point)	medium	none		Helmand river
-12.02	open	Mizutani	34.5	69.2	country	Kabul river basin	low	none		Kabul-basin country, probably the Koh-daman round Opian
-12.02a	secure	Mizutani	35.04	69.17	town	Opian (Hupian), N of Charikar	high	none		Hupian/Opian N of Charikar
+12.02	open	Mizutani	34.5	69.2	country	Kabul river basin	low	alternative	yes	SW of Kabul: Wardak/upper Logar (Foucher; cf. Vivien's Vardak), or the Koh-daman round Opian
+12.02a	open	Mizutani	35.04	69.17	town	Opian (Hupian), N of Charikar	medium	weakened		Hupian/Opian N of Charikar
 12.02b	secure	Mizutani	35.667	69.833	site	Khawak pass, Hindu Kush	high	none		Khawak pass
-12.03	probable	Mizutani	35.63	69.27	district	Andarab valley	medium	none		Andarāb
+12.03	probable	Mizutani	35.63	69.27	district	Andarab valley	medium	strengthened		Andarāb
 12.04	secure	Mizutani	35.85	69.1	district	Khost (Khost-o-Fereng) valley, Baghlan	high	none		Khost (Baber's Khost)
 12.05	secure	Mizutani	36.73	68.86	town	Kunduz	high	none		Kunduz
 12.05a	probable	Mizutani	38.0	73.5	district	Pamir mountains	medium	none		the Pamir system

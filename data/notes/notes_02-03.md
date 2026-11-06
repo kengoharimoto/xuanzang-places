@@ -47,11 +47,15 @@ Mizuno) (uncertain). Vivien (p. 301): Mandrâour (Mendrâwar), in the angle wher
 
 **Gazetteers.** None.
 
-**Assessment.** Mizutani's candidate does not fit the region. Cunningham (p. 50) and Beal (p. 90) bound Lampāka as
-the tract north of the Kabul river between the Alingar and the Kunar, and a Begram on the Logar near Kabul lies
-well to the west of that. The master table already flags the quotation as odd. Vivien's Mandrawar is the only
-candidate inside Lampāka, but it is a guess made without archaeological evidence. The capital stays unidentified,
-and Mizutani's suggestion should be treated as doubtful (possibly a slip in his source).
+**Foucher (1942–47).** Names no capital. In October 1925 he saw Buddhist foundations at the Alingar–Alishang
+confluence (Shāmatī) and large mounds on both banks below it near Mandrāwar, which he takes for one of Alexander's
+Nikaias, not for Xuanzang's city (I, p. 150).
+
+**Assessment.** Mizutani's candidate does not fit the region. Cunningham (p. 50) and Beal (p. 90) bound Lampāka as the
+tract north of the Kabul river between the Alingar and the Kunar, and a Begram on the Logar near Kabul lies well to
+the west of that. The master table already flags the quotation as odd. Vivien's Mandrawar is the only candidate inside
+Lampāka; Foucher's large mounds there show an old town, but he ties them to Alexander, not to Xuanzang. The capital
+stays unidentified, and Mizutani's suggestion should be treated as doubtful (possibly a slip in his source).
 
 ### 02.03 那揭羅曷國 (nagarahāra) — the Jalalabad district; no real dispute
 
@@ -65,6 +69,8 @@ subject to Kapiśa. They add nothing.
 
 **Inscriptions.** Thomas (EI 9, p. 146) takes the "Nagara" of the Mathura lion capital to be probably Nagarahāra,
 referring to Watters. That concerns the name only, not the site.
+
+**Foucher (1942–47).** Agrees; for the city see 02.03.01a (I, p. 152).
 
 **Assessment.** Every authority agrees. Mizutani's "uncertain" reflects his hedged phrasing rather than any
 competing site.
@@ -80,9 +86,14 @@ of Jalalabad without choosing.
 
 **Gazetteers.** None.
 
-**Assessment.** The authorities split between Begram (Cunningham, Vivien, Mizutani) and Simpson's junction site
-(Beal, Watters). The gazetteers do not address the question. Nothing here decides it, so Mizutani stands with only
-moderate confidence.
+**Foucher (1942–47).** After six weeks in the field in 1923, Foucher fixed the city from two secure points, Hadda
+(Hi-lo) and the shadow cave at the Syāh-sang gap: together they put it "dans la banlieue Sud-Ouest de la ville
+actuelle, là même où la tradition locale conserve le souvenir d'un ancien « Bégrâm »", not at Simpson's confluence
+site (I, p. 152). He gives the result as provisional.
+
+**Assessment.** The authorities split between Begram (Cunningham, Vivien, Mizutani) and Simpson's junction site (Beal,
+Watters). Foucher's argument from Hadda and the shadow cave, both secure, favours Begram, though nothing has been dug
+there. Mizutani is strengthened, medium confidence.
 
 ### 02.03.02 燃燈佛受記窣堵波 — Ahin-Posh (Higuchi) or the "Nagara Goondee" tope (Masson, Simpson)
 
@@ -91,8 +102,14 @@ moderate confidence.
 
 **Gazetteers.** None.
 
-**Assessment.** Each candidate depends on where its proponent puts the capital (02.03.01a): Higuchi measures from
-Begram, Watters from Simpson's rock. The question is still open, and the gazetteers do not change it.
+**Foucher (1942–47).** Foucher (1923) is the earlier source of the Ahin-Pōsh proposal, offered as a working
+hypothesis. Measured from his Begram, the Life's SE suits it better than the Xiyu ji's E; the dome, over 75 m round on
+the cliff edge, resembles the Dharmarājikā at Taxila; and Simpson's coins of 1879 (Domitian, Trajan, early Kushans)
+show a rebuilding in the 2nd century (I, p. 152).
+
+**Assessment.** Each candidate depends on where its proponent puts the capital (02.03.01a): Foucher and Higuchi
+measure from Begram, Watters from Simpson's rock. With Begram now favoured, Ahin-Pōsh is the better candidate, but it
+remains a hypothesis. The gazetteers do not change it.
 
 ### 02.03.03 瞿波羅龍窟（佛影窟） — the Shadow Cave: somewhere in the cliffs S/SW of Jalalabad
 
@@ -103,8 +120,13 @@ perhaps Gunda Chismeh.
 
 **Gazetteers.** None.
 
-**Assessment.** Both put the cave in the same range of hills south-west of the city, and neither can point to the
-cave itself. The gazetteers add nothing.
+**Foucher (1942–47).** Faxian, Songyun and Xuanzang lead "de façon sûre" to the Syāh-sang gap S of Chahār-bāgh. The
+cave itself is lost in the collapsing conglomerate, but half a dozen monasteries and twice as many stūpas lie within
+500 m (I, p. 152).
+
+**Assessment.** Watters, Higuchi and Foucher put the cave in the same range of hills south-west of the city, and
+Foucher's count of monasteries and stūpas round the Syāh-sang gap marks the holy place. None can point to the cave
+itself. Mizutani is strengthened as to the place.
 
 ### 02.04.02 卑鉢羅樹 — the pipal tree: just N of Shāh-ji-ki-Dheri, where a Hindu shrine now stands; the tree is gone
 
@@ -207,6 +229,8 @@ monument violently destroyed, with late Kushan coins. No record names the town.
 **Gazetteers.** Peshawar 1883 and 1899 echo Cunningham ("twin towns Charsada and Prang"), with the bearing and
 distance from Peshawar and Ptolemy's Peukelaotis.
 
+**Foucher (1942–47).** Agrees with Cunningham: Prang, Chārsadda and Rājar at the old Swat confluence (I, p. 42).
+
 **Assessment.** Garrick's survey adds field evidence to Cunningham's reckoning, and the Palatu Dheri excavation
 (behind Majumdar's "certain after excavation") shows Buddhist remains among the villages. Vivien's Nisatta, made
 before the survey, no longer competes. Mizutani is strengthened.
@@ -258,6 +282,10 @@ the Chinese pilgrims", with the edict rocks ¾ mile SE and the old Khyber–Taxi
 in the town.
 
 **Gazetteers.** None identify the town. The Peshawar volumes mention the edict rock only in a margin heading.
+
+**Foucher (1942–47).** One of Mizutani's sources: Shahbaz Garhi, whose Aśokan edict attests the town's age, on the old
+road from Puṣkarāvatī by Hoti-Mardān, which kept to the irrigated plain; this explains the arc
+Puruṣapura–Puṣkarāvatī–Po-lu-sha–Udabhāṇḍa (I, p. 42).
 
 **Assessment.** Palodheri was Cunningham's view of 1863–64, carried into the *Ancient Geography*; he had moved to
 Shahbaz Garhi by 1872–73. The Annual Reports repeat Shahbaz Garhi without new evidence. Mizutani stands.
@@ -379,6 +407,9 @@ Attock)". No record is said to name the town.
 
 **Gazetteers.** Himalayan Districts II (1884) and the 1874 volume repeat Cunningham ("Embolima or Ohind … the
 Utakhanda of the Chinese Buddhist pilgrims") and add nothing.
+
+**Foucher (1942–47).** Und, the traditional Indus crossing above Attock (Udakabhāṇḍa, al-Bīrūnī's Wayhand, Ohind),
+where Xuanzang crossed both ways and the king of Kapiśa wintered (I, p. 40; II, p. 230).
 
 **Assessment.** The name runs unbroken from Udabhāṇḍa to Hund, and the remains and coins show a large town in use
 from the Indo-Greeks to the Shahis whose extent fits the 20 li circuit. Nothing found names it, but Watters' doubt
@@ -551,6 +582,8 @@ Aśoka's Takkhasilā for Shahdheri, after Cunningham.
 **Gazetteers.** Rawalpindi 1883 and 1895 echo ASR II and call the identification "rendered certain" by the
 pilgrims' measurements and the copper plate. Punjab 1919 adds nothing.
 
+**Foucher (1942–47).** Three successive Taxilas, after Marshall (I, pp. 42–3); see 03.03.01a.
+
 **Assessment.** Four inscriptions found on the site, of the 1st century BC to 1st century AD, name Takṣaśilā: the
 Patika plate, the Sihila vase, the Mahal ladles and the Dharmarājikā scroll. They put Cunningham's and Mizutani's
 site beyond doubt. Vivien's Hasan Abdal, based on the Elāpattra spring (03.03.02), no longer competes.
@@ -584,6 +617,9 @@ to argue that Sirkap was Taxila: the plate was found at Thupkia in the middle of
 Chhahara and Chukhsa "to the north-east of the city of Takhasila", which is where Sirsukh lies relative to Sirkap.
 This concerns the city of the plate's date (1st c. BC/AD), not directly the capital Xuanzang saw.
 
+**Foucher (1942–47).** Sirsukh is the Kushan city, about as old as Puruṣapura (I, pp. 42–3). He does not say which
+city Xuanzang saw.
+
 **Assessment.** The Bir mound rests on surface finds and on a circular argument with a head-gift stūpa that Marshall
 has since put elsewhere. The Annual Reports show Sirsukh to be the walled Kushan city, the latest of the three,
 still occupied in the 3rd–4th century. That supports Mizutani, though nothing here proves occupation in the 7th
@@ -604,6 +640,9 @@ possibly be the actual stupa which was said to have been built by Asoka". His ex
 **Gazetteers.** Rawalpindi 1883 and 1895, and Attock 1909, echo ASR II, adding "never-failing springs" and the
 local tradition giving the hill fort to Raja Sirkap. They report that "it is now impossible to ascertain which of
 the ruined stupas is the right one".
+
+**Foucher (1942–47).** Calls the stūpa "non encore identifiée"; he meant to look for it in December 1918 but was
+prevented (I, p. 156). He does not take up Cunningham's Baoti Pind.
 
 **Assessment.** The survey supplies a specific monument with a stūpa, monastery and relic deposit on Mizutani's
 ridge, which strengthens the identification. It still requires reading E for the text's SE, a point Mizutani passes

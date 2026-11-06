@@ -86,6 +86,9 @@ check.
 - ***Epigraphia Indica*** vols. 1–36 and **CII** vols. 1, 2.1, 2.2, 3 (in Bhandarkar's revised edition), 5 and 6.
   These are the user's own copies, from their text extracts.
 - **Gazetteers.** The 557 volumes of the gazetteer-vedanta and yoga-gazetteers studies.
+- **Foucher, *La vieille route de l'Inde de Bactres à Taxila*** (1942–47). The OCR comes from the Toyo Bunko Digital
+  Silk Road scans (`data/ref/foucher/`). It is coded as F001–F045 in `data/coded/ar_batch12.tsv` and folded into 48 notes
+  for Afghanistan and the Northwest.
 - **Stein's survey memoirs:** *An Archaeological Tour in Waziristan and Northern Baluchistan* (MASI 37, 1929) and
   *An Archaeological Tour in Gedrosia* (MASI 43, 1931). They are Internet Archive OCR in `data/ref/stein/`, coded as
   S001–S020 in `data/coded/ar_batch11.tsv`.

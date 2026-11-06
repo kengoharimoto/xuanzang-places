@@ -1455,11 +1455,17 @@ Stein's description of it and Konow's appendix on its inscriptions.
 **Lambrick (Sind, 1964).** Lambrick puts Varṇa near Barkhan, rejecting the Gomal/Vaneh view, based on the Life,
 because it makes both stage distances wrong (pp. 150, 167).
 
-**Assessment.** Bannu breaks the route from Avaṇḍa unless Avaṇḍa lay far to the north. Duki fits the distance from
-Gandāva but has no 7th-century record. The choice follows 11.22: Middle Sindh leaves Varṇa unfixed; Kachhi points to
-the Bolan–Loralai country. Low confidence for either.
+**Foucher (1942–47).** Foucher takes Fa-la-na for Pāṇini's Varṇu (Bannu), reached from Laghmān in 15 days S over the
+Safed Koh and up the Kurram, but with its 4,000 li circuit "beaucoup plus vaste que le Waziristân", taking in the
+Gomal, Zhob and Kandar valleys. Since the next stage runs 2,000 li NW to Jāguḍa, he thinks the royal caravan went S at
+least to the latitude of Dera Ghazi Khan (II, p. 231).
 
-### 11.23.02 稽疆那國 (Kikāna) — Waziristan (Stein, after his 1926–27 tour); Pishin less likely
+**Assessment.** Bannu breaks the route from Avaṇḍa unless Avaṇḍa lay far to the north. Duki fits the distance from
+Gandāva but has no 7th-century record. Foucher's larger Varṇa, from Bannu to the Zhob and the latitude of Dera Ghazi
+Khan, joins the two: it keeps Pāṇini's name for the core and lets the stages from the south and on to Jāguḍa meet in
+its southern part, near the Loralai country. The choice of capital still follows 11.22. Low confidence for either.
+
+### 11.23.02 稽疆那國 (Kikāna) — Waziristan (Stein) or the Brāhūī highland of Kalat (the Arab Kīkān: Foucher, Mirchandani, the gazetteers' Nal)
 
 **Identifications.** Mizutani: Waziristan, W of Bannu (agreed, after Stein). Majumdar (p. 679): Stein's Waziristan.
 Cunningham (p. 99): the Pishin valley near Quetta, the Kīkān of the Arab historians. Vivien (p. 414): Kīkān, near
@@ -1491,11 +1497,16 @@ Baluchistan gazetteers.
 **Lambrick (Sind, 1964).** Lambrick takes 稽疆那 as the Arabs' Kaikanan in Loralai or Zhob, and sets aside Kaikan near
 Nal as not fitting the itinerary (pp. 150–51).
 
+**Foucher (1942–47).** Foucher makes Ki-kiang-na "le Kaikânân, Kaikân et Kikân des chroniqueurs arabes. C'est le vieux
+pays brâhûî", round Mastung and Kelat S of the Bolan pass. His grounds are the position, an independent wedge between
+Gedrosia, Arachosia, A-p'o-kien, Fa-la-na and Sind, and the horse- and sheep-breeding (II, pp. 236–7).
+
 **Assessment.** Cunningham's Pishin rested on the Arab Kīkān. Stein places that Qīqān in Waziristan, and his field
-tour fits the description, as Bannu (11.23) does. The Baluchistan gazetteers, however, put the Arab Kīkān at Nal in
-Jhalawan, which would follow Mirchandani's southern route rather than Bannu, though Nal is south-west rather than west
-of Duki. Mizutani's Waziristan stands with Stein, now with low to medium confidence; Nal is an alternative tied to
-11.22–11.23.
+tour fits the description, as Bannu (11.23) does. Everyone else who uses the Arab name puts it in the Brāhūī highland
+of Kalat: Vivien near Shal, Mirchandani at Quetta–Pishin, Foucher round Kalat and Mastung, the Baluchistan gazetteers
+at Nal in Jhalawan. These span some 300 km, but agree on the Kalat country rather than Waziristan. It lies well SW of
+Bannu, nearer W of the southern Varṇa that Foucher and Mirchandani posit (11.23). Waziristan and the Kalat highland
+are alternatives, low confidence; the choice follows 11.22–11.23.
 
 ## Gazetteer passages coded `new` in this range
 
