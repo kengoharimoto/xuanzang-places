@@ -83,7 +83,6 @@
   - Bakker 2014 on Śaṅkukarṇa at Banbhore, as cited in SP IV p. 55 n. 133.
   - Bakker, *The Alkhan* (2020): not open access; only a 10-page excerpt is on disk. The open-access Sourcebook
     (Balogh ed. 2020, Zenodo 7386068) is coded for 11.17, 04.01.02 and 03.06.
-  - Akhnūr–Ambaran (IAR 1961–63, 1973–74, 1999–2001; Bakker's Parvatikā): check the IAR coding for these seasons (11.17).
   - The Ajanta Cave 26 Acala inscription (Burgess and Indraji 1881): cited from general knowledge, not coded (11.03.03).
 - **Coordinates not moved** for 01.38.03 (Tapa Skandar) and 01.38.03a (Khair Khana): these are alternatives; the
   map keeps the old points.

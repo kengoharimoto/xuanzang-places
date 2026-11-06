@@ -1106,9 +1106,19 @@ excavations in IAR 1961–63, 1973–74, 1999–2001), the capital of a country 
 subject to Ṭakka, "roughly the region around Sialkot". Xuanzang's 700 li NE of Multan (c. 170–220 km at the route
 model's scale) falls well short of Sialkot or Akhnūr (c. 350–400 km).
 
+**Later excavations.** The Akhnūr sites Bakker relies on were found in 1961–62 (Pande and Sardari Lal, IAR p. 16:
+terracotta heads of the 4th–5th and 8th centuries at Ambaran) and 1962–63 (Khazanchi, p. 9). Pambarwan was tested in
+1973–74 (Srinivasan, p. 14). Mani dug it in 1999–2001 (IAR 1999–2000, pp. 52–63; 2000–01, pp. 47 ff.). He found a
+Buddhist monastery with a Kushan relic stūpa, "believed to be the only early Buddhist site in Jammu region", running
+from pre-Kushan to post-Gupta (6th–7th c.). It was flood-prone and "abandoned sometimes around the seventh century
+AD". He declines to blame a burnt layer on the Hūṇas. None of the reports mentions Xuanzang or Parvata.
+
 **Assessment.** Shorkot fails on the measured circuit and needs an emended name; Harappa rests on size and position.
-The Bandhogarh Pavata does not bear on the site. Mizutani stands, with Jammu too far from Multan (later work, not in
-these sources, assigns the seal to the Indus civilization).
+The Bandhogarh Pavata does not bear on the site. Bakker's Parvatikā at Akhnūr revives Smith's Jammu with a real
+Buddhist monastery of the right period and a Hūṇa-era name, and it fits "subject to Ṭakka"; but Akhnūr is c. 430 km
+and Sialkot c. 380 km from Multan, about twice the 700 li. Mizutani's Harappa stands on the distance; Akhnūr is
+recorded as an alternative, low confidence (later work, not in these sources, assigns Clark's seal to the Indus
+civilization).
 
 ### 11.18 阿點婆翅羅國 (Atyanabakela) — lower Sindh/Cutch; capital Karachi, Banbhore (Debal) or Kotesar
 
