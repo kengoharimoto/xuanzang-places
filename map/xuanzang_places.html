@@ -136,6 +136,7 @@ const route = P.filter(p => p.level === "country" && p.visit === "visited" && p.
 g.append("path").attr("class","route").attr("d", d3.line()(route));
 const halos = g.append("g"), pts = g.append("g"), lbls = g.append("g");
 let k = 1;
+const unitPx = () => (svg.node().getBoundingClientRect().width || W) / W;   // screen px per map unit
 const zoom = d3.zoom().scaleExtent([0.6, 24]).on("zoom", e => { k = e.transform.k; g.attr("transform", e.transform); draw(); });
 svg.call(zoom);
 document.getElementById("zin").onclick = () => svg.transition().duration(250).call(zoom.scaleBy, 1.6);
@@ -159,9 +160,10 @@ function draw() {
     .attr("class","halo").attr("cx", p => proj([p.lon,p.lat])[0]).attr("cy", p => proj([p.lon,p.lat])[1])
     .attr("r", p => r(p) + (BIG.has(p.change) ? 3.2 : 2.2) / Math.sqrt(k)).attr("stroke-width", p => BIG.has(p.change) ? 1.8 : 0.8);
   const lab = vis.filter(p => p.level !== "site" || k > 5);
+  const u = unitPx(), fs = 12 / (k * u), sw = 3 / (k * u);   // 12 px text, 3 px halo on screen
   lbls.selectAll("text").data(k > 1.8 ? lab : [], p => p.id).join("text").attr("class","lbl")
-    .attr("x", p => proj([p.lon,p.lat])[0] + (p.level === "site" ? 3.2 : 5)/Math.sqrt(k) + 3/k).attr("y", p => proj([p.lon,p.lat])[1] + 4/k)
-    .style("font-size", `${11/k}px`).style("stroke-width", `${3/k}px`).text(p => p.zh.replace(/國$/,""));
+    .attr("x", p => proj([p.lon,p.lat])[0] + (p.level === "site" ? 3.2 : 5)/Math.sqrt(k) + 4/(k*u)).attr("y", p => proj([p.lon,p.lat])[1] + 4/(k*u))
+    .style("font-size", `${fs}px`).style("stroke-width", `${sw}px`).text(p => p.zh.replace(/國$/,""));
 }
 
 function list() {
@@ -211,5 +213,6 @@ document.getElementById("f-level").onchange = e => { state.level = e.target.valu
 document.getElementById("f-q").oninput = e => { state.q = e.target.value.trim().toLowerCase(); draw(); list(); };
 const first = location.hash.slice(1).replace(/-/g, ".");
 draw(); list(); panel(null);
+addEventListener("resize", () => draw());
 if (first && P.some(p => p.id === first)) select(first, true);
 </script>
