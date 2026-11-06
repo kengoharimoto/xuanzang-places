@@ -1,0 +1,114 @@
+file	passage_or_hit	old_xz_id	resolved	reason
+gaz_batch1.tsv	648	05.05;new	05.05.x2	venomous nāga cave SW of Kauśāmbī (Pabhosa); its Aśoka and hair-nail stūpas are part of the same row
+gaz_batch1.tsv	851	new	07.02.x1	Aśoka-stūpa monastery NW of the Yudhapati capital
+gaz_batch1.tsv	1070	new	07.02.x1	duplicate of 851
+gaz_batch1.tsv	590	04.13;new	04.13.x1	Aśoka stūpa by the nāga tank, Ahicchattra
+gaz_batch1.tsv	666	04.13;new	04.13.x1	duplicate of 590
+gaz_batch1.tsv	1920	10.05;new	10.05.x1	great river crossed on the way to Kāmarūpa
+gaz_batch1.tsv	17	new	10.02.x1	cowherd's cave: Life only (T2053), not in T2087
+gaz_batch1.tsv	18	new	10.02.x1	continues 17; Life only
+gaz_batch1.tsv	165	new	10.02.x1	duplicate of 17; Life only
+gaz_batch3.tsv	1734	new	08.06.x2	tank of the brahmin brothers S of the Bodhi enclosure
+gaz_batch3.tsv	1754	new	08.06.x2	same tank
+gaz_batch4.tsv	1189	04.01;new	04.01.x1	Ṭakka capital (Asarur)
+gaz_batch4.tsv	1190	04.01;new;04.01.02	04.01.x1	Ṭakka capital (Asarur); Śākala is 04.01.02
+gaz_batch4.tsv	1191	04.01;new	04.01.x1;04.01.x4	Ṭakka capital; Jayapura is Life only
+gaz_batch4.tsv	1192	04.01;new	04.01.x1;04.01.x3	capital and the Aśoka stūpa NE of it
+gaz_batch4.tsv	1193	new	04.01.x3;04.01.x5	Aśoka stūpa NE of the capital; Narasiṃha is Life only
+gaz_batch4.tsv	1194	new	04.01.x5	Narasiṃha: Life only
+gaz_batch4.tsv	1195	new;04.01	04.01.x5;04.01.x1	Narasiṃha (Life only) and the capital
+gaz_batch4.tsv	1356	04.01;new	04.01.x1	copy of 1189
+gaz_batch4.tsv	1357	04.01;new;04.01.02	04.01.x1	copy of 1190
+gaz_batch4.tsv	1358	04.01;new	04.01.x1;04.01.x4	copy of 1191
+gaz_batch4.tsv	1359	04.01;new	04.01.x1;04.01.x3	copy of 1192
+gaz_batch4.tsv	1360	new	04.01.x3;04.01.x5	copy of 1193
+gaz_batch4.tsv	1361	new	04.01.x5	copy of 1194
+gaz_batch4.tsv	1232	04.01.02;04.01;new	04.01.x1	Tse-kia = Ṭakka capital
+gaz_batch5.tsv	1792	04.08;new	04.08.x1	Aśoka stūpa NW of Sthāneśvara
+gaz_batch5.tsv	1296	new;04.02	04.01.x6	great city on Ṭakka's E border: Life only (T2053), not in T2087
+gaz_batch5.tsv	1297	new	04.01.x6	Life only
+gaz_batch5.tsv	1326	new	04.01.x6	Life only
+gaz_batch5.tsv	1338	new;04.02	04.01.x6	copy of 1296; Life only
+gaz_batch5.tsv	1339	new	04.01.x6	copy of 1297; Life only
+gaz_batch6.tsv	571	04.07.03;new	04.07.x1	dry tank of the monkey's honey, Mathurā
+gaz_batch6.tsv	67	07.03;07.03.04;new	07.03.x1	monkey tank (Ram-kund), Vaiśālī
+gaz_batch6.tsv	295	07.03.04;new	07.03.x1	copy of 67
+gaz_batch6.tsv	792	06.01;new	06.01.x1;06.01.x2;06.01.x3;06.01.x4;06.01.x5	five Śrāvastī sites in the city passage
+gaz_batch6.tsv	794	new	drop	Pūrvārāma is not in T2087 (Faxian's place); nearest is the 受毘舍佉母請 stūpa inside the Jetavana passage 06.01.04, which the source does not mention
+gaz_batch6.tsv	1058	06.01;new	06.01.x1;06.01.x2;06.01.x3;06.01.x4;06.01.x5	copy of 792
+gaz_batch6.tsv	1060	new	drop	copy of 794: Pūrvārāma not in T2087
+gaz_batch6.tsv	101	new	08.02.x2;08.02.x1	footprint stone and Aśoka's hell, Pāṭaliputra
+gaz_batch6.tsv	102	new	08.02.x1	Aśoka's hell (Agam Kuan)
+gaz_batch6.tsv	106	09.03.11;new	09.03.x6	Haṃsa stūpa and E-peak monastery, Indraśailaguhā
+gaz_batch6.tsv	110	09.03.01;new	09.03.x1	nāga pond S of Nālandā
+gaz_batch6.tsv	112	new	09.03.x4	Bālāditya's great vihāra, Nālandā
+gaz_batch6.tsv	117	09.02.09;09.02.08;new	09.02.x1	the two stūpas on Bimbisāra's road
+gaz_batch7.tsv	813	04.10;new	04.10.x4	Vimalamitra's stūpa, Matipura
+gaz_batch7.tsv	814	04.10;new	04.10.x1;04.10.x2;04.10.x3	Guṇaprabha's and Saṅghabhadra's monasteries and Saṅghabhadra's stūpa
+gaz_batch7.tsv	815	04.10;new	04.10.x1	Guṇaprabha's monastery
+gaz_batch7.tsv	820	04.13;new	04.13.x1	Aśoka stūpa by the nāga tank, Ahicchattra
+gaz_batch7.tsv	822	04.13;new	04.13.x1	same stūpa
+gaz_batch7.tsv	823	04.13;new	04.13.x1	same stūpa; the city defences belong to 04.13
+gaz_batch7.tsv	1121	04.10;new	04.10.x4	duplicate of 813
+gaz_batch7.tsv	1122	04.10;new	04.10.x4;04.10.x1;04.10.x2;04.10.x3	duplicate of 814
+gaz_batch7.tsv	1123	04.10;new	04.10.x1	duplicate of 815
+gaz_batch7.tsv	1129	04.13;new	04.13.x1	duplicate of 820
+gaz_batch7.tsv	1131	04.13;new	04.13.x1	duplicate of 822
+gaz_batch7.tsv	1591	07.03;new	07.03.x2	Hoey's Kapia villages recall the monkeys' honey offering
+gaz_batch7.tsv	1797	07.03;new	07.03.x2	duplicate of 1591
+gaz_batch7.tsv	334	07.03;new	07.03.x2	same Hoey passage (Saran 1905)
+gaz_batch7.tsv	356	07.03;new	07.03.x2	duplicate of 334
+asr_batch2.tsv	156	04.01.02;new	04.01.x2	Aśoka stūpa NW of the Śākala monastery
+asr_batch2.tsv	160	04.01;new	04.01.x1;04.01.x3;04.01.x5	Ṭakka capital, its NE stūpa, and Narasiṃha (Life only)
+asr_batch2.tsv	165	04.08;new	04.08.x1	Aśoka stūpa NW of Sthāneśvara
+asr_batch2.tsv	201	04.07.03;new	04.07.x1	monkey's dry tank, Mathurā
+asr_batch2.tsv	210	08.06.01;08.06.04;new	08.06.01	the Vajrāsana lies inside the Bodhi-tree enclosure covered by 08.06.01 (its passage includes it)
+asr_batch2.tsv	217	09.03.11;new	09.03.x6	Haṃsa monastery on the E peak
+asr_batch3.tsv	223	new	02.04.x3	eye-gift stūpa (Xuanzang places it at Puṣkalāvatī; Cunningham argues from Faxian/Songyun)
+asr_batch3.tsv	230	new	03.04.x1	Śvetāmbara founder's place at Siṃhapura
+asr_batch3.tsv	250	08.02.01;08.03.01;new	08.02.x4;08.02.x6	small rocky hill and the five stūpas; Kukkuṭārāma is 08.03.01
+asr_batch3.tsv	294	new	04.15.02	the great monastery 20 li from the Kapitha capital encloses the stairs (伽藍大垣內有三寶階), i.e. the place of 04.15.02; Cunningham separates them because he puts the stairs at Sankisa
+asr_batch3.tsv	295	new	04.15.02	as 294
+asr_batch3.tsv	296	new	04.15.02	as 294
+asr_batch3.tsv	297	new	04.15.02	as 294
+asr_batch3.tsv	316	08.06.04;new	08.06.x2;08.06.x3	tank of the brahmin brothers and Indra's tank
+asr_batch3.tsv	317	08.06.18;08.06.21;new	08.06.x4	stūpa of the conversion of the Kāśyapas (Urel)
+asr_batch3.tsv	321	08.02.03;new	08.02.x2	footprint-stone vihāra
+asr_batch3.tsv	322	08.02.05;new	08.02.x3	Mahendra's stone house
+asr_batch3.tsv	323	new	08.02.x6	five stūpas
+asr_batch3.tsv	324	new;08.03.01;08.04.01;08.04.02;08.04.03;08.04.04	08.02.x5;08.02.x4	holy-water pond (Pokhar); small hill not identified
+asr_batch4.tsv	337	06.02;06.02.10;06.02.05;06.02.05a;new	06.02.x9	massacre of the Śākyas (Bhata/Kosihara)
+asr_batch4.tsv	339	06.02;new	06.02.x9	massacre of the Śākyas
+asr_batch4.tsv	354	03.04.05;new	03.04.x2	blood-offering stūpa
+asr_batch4.tsv	359	new	04.01.x5	Narasiṃha: Life only
+asr_batch4.tsv	386	10.02;new	10.02.x1	cowherd's cave: Life only
+asr_batch4.tsv	387	10.02;10.02.02a;new	10.02.x1	duplicate new of 386 (FOLLOWUPS); Life only
+asr_batch4.tsv	401	08.06.04;new	08.06.x1	Buddha's promenade N of the Bodhi tree
+asr_batch4.tsv	407	07.03.04;new	07.03.x2;07.03.x1	honey stūpa W of the monkey tank
+asr_batch4.tsv	422	04.07;04.07.03;new	04.07.x1	monkey's dry tank; the cave of spikes is in 04.07.03
+asr_batch4.tsv	446	06.04;06.04.11;new	06.04.x2	Subhadra's stūpa
+asr_batch4.tsv	447	06.04.11;new	06.04.x1;06.04.x3	deer stūpa and relic-division stūpa
+asr_batch5.tsv	451	02.04.09;new	02.04.x1;02.04.x2;02.04.x3	stūpa E of Puṣkalāvatī; monastery and stūpa N of it
+asr_batch5.tsv	452	new	02.04.x1	stūpa E of Puṣkalāvatī
+asr_batch5.tsv	460	05.05;05.05.03;new	05.05.x2;05.05.x1	nāga cave (Pabhosa) and Vasubandhu's brick chamber (Tikri mound)
+asr_batch5.tsv	474	06.02;06.02.05;06.02.05a;06.02.08;06.02.10;06.03;new	06.02.x9;06.02.x10	massacre of the Śākyas (Sagarwa) and Īśvara temple (Tauliva)
+asr_batch5.tsv	482	06.02;new	06.02.x3;06.02.x2	Asita stūpa and palace
+asr_batch5.tsv	483	06.02;new	06.02.x9	massacre of the Śākyas
+asr_batch5.tsv	484	06.02;06.02.05a;new	06.02.x10	Īśvara temple
+asr_batch5.tsv	488	06.02;06.02.05a;06.02.10;new	06.02.x2	palace of Śuddhodana and conception vihāra
+asr_batch5.tsv	489	06.02;new	06.02.x3;06.02.x5;06.02.x6	Asita stūpa, Yaśodharā's chamber, school-house
+asr_batch5.tsv	490	06.02;new	06.02.x1;06.02.x4;06.02	"saṅghārāma, elephant stūpa and pit; the ""two deva temples"" are a figure of the country description (06.02), not a site"
+asr_batch5.tsv	491	06.02.08;new	06.02.08;06.02.x7;06.02.x8	kāṣāya and conversion stūpas are inside the 06.02.08 passage; departure vihāra and four-signs vihāras new
+asr_batch5.tsv	492	06.02.05;06.02.05a;06.02.06;new	06.02.x10;06.02.x11;06.02.x9;06.02.06	Īśvara temple, tournament stūpa, massacre; ploughing stūpa = 06.02.06
+asr_batch5.tsv	494	06.02.11;06.02.12;new	06.02.11	Śakra and four-Devarāja stūpas and the nāga springs are inside the Lumbinī passage 06.02.11
+ar_batch2.tsv	112	06.01;new	06.01.x4;06.01.04	Sudatta's house; Devadatta's pit is one of the three pits in the 06.01.04 (Jetavana) passage
+ar_batch2.tsv	113	06.01;new	06.01.x5	Aṅgulimāla stūpa
+ar_batch6.tsv	519	09.02.09;09.02.10;new	09.02.x1	the two stūpas on Bimbisāra's road
+ar_batch7.tsv	564	08.02.01;new	08.02.x4	small rocky hill and old terrace
+ar_batch7.tsv	581	new	08.02.x6	five stūpas
+ar_batch7.tsv	584	new;08.02.01;09.03.01	08.02.x6	five stūpas
+ar_batch7.tsv	606	09.03.01;new	09.03.x2;09.03.x3	Avalokiteśvara image and hair-and-nail stūpa
+ar_batch8.tsv	697	new	08.02.x1	Aśoka's hell: its pillar (王故宮北石柱, in 08.02.01) is not the inscribed pillar 08.02.05
+epig_batch1.tsv	98	05.05;new	05.05.x2	nāga cave (Pabhosa)
+epig_batch1.tsv	162	05.05;new	05.05.x2	reprint of 98
+iar_batch4.tsv	319	09.03.01;new	09.03.x5	Pūrṇavarman's copper Buddha

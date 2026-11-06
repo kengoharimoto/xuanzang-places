@@ -105,6 +105,10 @@ check.
 1. **Master table** (`data/places_mizutani.tsv`, 419 rows: 148 countries, 3 regions, 268 sites). It was coded from
    Mizutani's notes, with verbatim quotes checked by `scripts/check_quotes.py`. Mizutani's visited/hearsay marking
    gives 108 countries visited, 35 hearsay and 5 unclear.
+   - **Added places.** 61 places that Mizutani's numbering skips or merges were added from passages the coders tagged
+     `new`: 57 in the Xiyu ji and 4 found only in the Life. They have ids ending `.xN`, the status "added" on the map,
+     and their own passages, translations and source coding. Seven tagged clusters turned out to belong to existing
+     rows, and one (Faxian's Pūrvārāma) was dropped.
 2. **Authorities** (`data/coded/auth_*.tsv`).
 3. **Survey, Annual Reports, *Indian Archaeology*, EI/CII.**
    - **Files:** `data/coded/asr_batch*`, `ar_batch*`, `iar_batch*`, `epig_batch*`; indexes in `data/*_hits.tsv`;
@@ -240,6 +244,9 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 
 - `data/places.tsv`: the joined table (start here).
 - `data/places_mizutani.tsv`: the master table.
+- `data/places_added.tsv`: 61 places missing from Mizutani's numbering (ids `.xN`), added from the sources. Mappings
+  for the coded rows are in `data/coded/new_resolved.tsv`; coordinates are in `data/coords_added.tsv`.
+- `data/coords_study.tsv`: coordinates for the study's own proposed sites (the map's "study's proposals" layer).
 - `data/coded/`: coding by source (`mz_juan*`, `auth_*`, `asr_batch*`, `ar_batch*`, `iar_batch*`, `epig_batch*`,
   `gaz_batch*`).
 - `data/notes/`: notes and proposed updates.

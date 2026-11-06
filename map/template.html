@@ -8,7 +8,7 @@
 :root {
   --paper: #f4f5f1; --panel: #fbfbf8; --ink: #1c2220; --muted: #5d6662; --rule: #d6dad3;
   --indigo: #2f4d7a;            /* accent: route line, links, focus */
-  --agreed: #3f7f6e; --uncertain: #b88a1c; --disputed: #b8452f; --unknown: #8b918c;
+  --agreed: #3f7f6e; --added: #7a5aa6; --uncertain: #b88a1c; --disputed: #b8452f; --unknown: #8b918c;
   --land: #e6e8e1; --land-stroke: #c7cbc2; --sea: #eef1f0;
   --display: "Spectral", "Noto Serif CJK JP", "Songti SC", serif;
   --body: "Source Sans 3", "Hiragino Sans", "Noto Sans CJK JP", system-ui, sans-serif;
@@ -16,11 +16,11 @@
 }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
   --paper: #161a19; --panel: #1d2221; --ink: #e5e8e3; --muted: #9aa39e; --rule: #333a37;
-  --indigo: #8fa9d6; --agreed: #6fb39f; --uncertain: #d9ac45; --disputed: #e07a62; --unknown: #8d948f;
+  --indigo: #8fa9d6; --agreed: #6fb39f; --added: #a98bd3; --uncertain: #d9ac45; --disputed: #e07a62; --unknown: #8d948f;
   --land: #252b29; --land-stroke: #39413e; --sea: #1a1f1e; color-scheme: dark } }
 :root[data-theme="dark"] {
   --paper: #161a19; --panel: #1d2221; --ink: #e5e8e3; --muted: #9aa39e; --rule: #333a37;
-  --indigo: #8fa9d6; --agreed: #6fb39f; --uncertain: #d9ac45; --disputed: #e07a62; --unknown: #8d948f;
+  --indigo: #8fa9d6; --agreed: #6fb39f; --added: #a98bd3; --uncertain: #d9ac45; --disputed: #e07a62; --unknown: #8d948f;
   --land: #252b29; --land-stroke: #39413e; --sea: #1a1f1e; color-scheme: dark }
 body { background: var(--paper); color: var(--ink); font: 15px/1.5 var(--body); }
 .wrap { max-width: 1320px; margin: 0 auto; padding-block: 20px 40px;
@@ -100,6 +100,7 @@ footer { margin-top: 18px; color: var(--muted); font-size: 12px; max-width: 90ch
   <button class="chip" id="f-agreed" data-status="agreed" aria-pressed="true"><span class="dot" style="background:var(--agreed)"></span>Agreed</button>
   <button class="chip" id="f-uncertain" data-status="uncertain" aria-pressed="true"><span class="dot" style="background:var(--uncertain)"></span>Uncertain</button>
   <button class="chip" id="f-disputed" data-status="disputed" aria-pressed="true"><span class="dot" style="background:var(--disputed)"></span>Disputed</button>
+  <button class="chip" id="f-added" data-status="added" aria-pressed="true" title="Places missing from Mizutani's numbering, added from the sources"><span class="dot" style="background:var(--added)"></span>Added</button>
   <button class="chip" id="f-unknown" data-status="unknown" aria-pressed="true"><span class="dot" style="background:var(--unknown)"></span>Unknown</button>
   <button class="chip" id="f-change" aria-pressed="false"><span class="ring"></span>Only where the gazetteers change the picture</button>
   <label>Juan <select id="f-juan"><option value="0">all</option></select></label>
@@ -146,7 +147,7 @@ const AUTHN = {julien:"Julien", vivien:"Vivien de Saint-Martin", cunningham:"Cun
 const CHANGE = {strengthened:"Gazetteers support Mizutani", weakened:"Gazetteers weaken Mizutani", alternative:"Better-supported alternative", "new-candidate":"New candidate from the gazetteers", none:"Mizutani stands"};
 const BIG = new Set(["alternative","new-candidate","weakened"]);
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const col = s => `var(--${["agreed","uncertain","disputed","unknown"].includes(s) ? s : "unknown"})`;
+const col = s => `var(--${["agreed","uncertain","disputed","unknown","added"].includes(s) ? s : "unknown"})`;
 
 const juans = [...new Set(P.map(p => p.juan))].sort((a,b)=>a-b);
 const jsel = document.getElementById("f-juan");
@@ -192,7 +193,7 @@ P.forEach(p => {
 const affEl = document.getElementById("affchips");
 AFF.forEach(([k, lab]) => { const n = P.filter(p => p.tags.has(k)).length;
   affEl.insertAdjacentHTML("beforeend", `<button class="chip aff" data-aff="${k}" aria-pressed="false">${lab} <span class="sub">${n}</span></button>`); });
-const state = {status: new Set(["agreed","uncertain","disputed","unknown"]), visit: new Set(["visited","hearsay","unclear"]), aff: new Set(), kh:false, alt:false, sp:false, change:false, juan:0, level:"", q:"", sel:null};
+const state = {status: new Set(["agreed","uncertain","disputed","unknown","added"]), visit: new Set(["visited","hearsay","unclear"]), aff: new Set(), kh:false, alt:false, sp:false, change:false, juan:0, level:"", q:"", sel:null};
 const visible = p => (!state.kh || (p.kh && p.kh.length)) && state.status.has(p.status) && state.visit.has(p.visitEff) && (!state.aff.size || [...state.aff].some(a => p.tags.has(a))) && (!state.change || BIG.has(p.change) || p.change === "strengthened")
   && (!state.juan || p.juan === state.juan) && (!state.level || p.level === state.level || (state.level === "country" && p.level === "region"))
   && (!state.q || [p.zh,p.ja,p.orig,p.mz,p.modern,p.proposed,p.id].join(" ").toLowerCase().includes(state.q));

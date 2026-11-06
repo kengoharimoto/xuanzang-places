@@ -9,7 +9,26 @@ RELCOLS = ["sangharamas", "monks", "schools", "deva_temples", "other", "site_aff
 AUTH = ["julien", "vivien", "cunningham", "beal", "watters", "majumdar", "dey"]
 rd = lambda f: list(csv.DictReader((l for l in open(f, encoding="utf-8") if not l.startswith("#")), delimiter="\t"))
 master = rd("data/places_mizutani.tsv")
+try:   # places missing from Mizutani's numbering, added from the sources (data/places_added.tsv; ids end in .xN)
+    for a in rd("data/places_added.tsv"):
+        master.append({"id": a["id"], "juan": a["juan"], "level": a["level"], "parent": a["parent"], "name_zh": a["name_zh"],
+                       "name_ja": "", "original_name": a["original_name"], "visit": a["visit"],
+                       "mz_identification": a["identification"], "mz_other_views": a["sources"], "mz_status": "added"})
+    key = lambda r: [int(x) if x.isdigit() else x for x in re.split(r"(\d+)", r["id"])]
+    master.sort(key=key)
+except FileNotFoundError:
+    pass
 ids = {r["id"] for r in master}
+RES = {}   # coded rows tagged `new`, resolved to existing or added ids (data/coded/new_resolved.tsv)
+try:
+    for r in rd("data/coded/new_resolved.tsv"): RES[(r["file"], r["passage_or_hit"])] = r["resolved"]
+except FileNotFoundError: pass
+def xids(r, f):
+    xs = [x.strip() for x in (r.get("xz_id") or "").replace(",", ";").split(";") if x.strip()]
+    res = RES.get((f.split("/")[-1], r.get("hit") or r.get("passage") or ""))
+    if res and any("new" in x for x in xs):
+        xs = [x for x in xs if "new" not in x] + ([] if res == "drop" else [y.strip() for y in res.split(";") if y.strip()])
+    return xs
 auth = collections.defaultdict(lambda: collections.defaultdict(list))
 for f in glob.glob("data/coded/auth_*.tsv"):
     for r in rd(f):
@@ -24,7 +43,7 @@ gaz = collections.defaultdict(list); unknown_ids = collections.Counter()
 for f in glob.glob("data/coded/gaz_batch*.tsv"):
     for r in rd(f):
         if r.get("relevant") != "yes": continue
-        for x in (r.get("xz_id") or "").replace(",", ";").split(";"):
+        for x in xids(r, f):
             x = x.strip()
             if x in ids: gaz[x].append(r)
             elif x: unknown_ids[x] += 1
@@ -33,21 +52,21 @@ for pat, store, tag in (("data/coded/epig_batch*.tsv", epg, "epig"), ("data/code
     for f in glob.glob(pat):
         for r in rd(f):
             if r.get("relevant") != "yes": continue
-            for x in (r.get("xz_id") or "").replace(",", ";").split(";"):
+            for x in xids(r, f):
                 x = x.strip()
                 if x in ids: store[x].append(r)
                 elif x: unknown_ids[tag + ":" + x] += 1
 for f in glob.glob("data/coded/ar_batch*.tsv"):
     for r in rd(f):
         if r.get("relevant") != "yes": continue
-        for x in (r.get("xz_id") or "").replace(",", ";").split(";"):
+        for x in xids(r, f):
             x = x.strip()
             if x in ids: arr[x].append(r)
             elif x: unknown_ids["ar:" + x] += 1
 for f in glob.glob("data/coded/asr_batch*.tsv"):
     for r in rd(f):
         if r.get("relevant") != "yes": continue
-        for x in (r.get("xz_id") or "").replace(",", ";").split(";"):
+        for x in xids(r, f):
             x = x.strip()
             if x in ids: asr[x].append(r)
             elif x: unknown_ids["asr:" + x] += 1

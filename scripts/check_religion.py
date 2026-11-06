@@ -2,7 +2,10 @@
 """Check that religion-coding quotes occur in the place's T2087 passage, and codes are from the allowed sets.
 Usage (from xuanzang-places/): python3 -I scripts/check_religion.py data/religion/religion_*.tsv"""
 import csv, re, sys
-P = {r["id"]: (lambda z: z + "\n" + re.sub(r"（[^（）]*）", "", z))(re.sub(r"\s", "", r["zh"])) for r in csv.DictReader(open("data/text/passages.tsv", encoding="utf-8"), delimiter="\t")}
+P = {}
+for src in ("data/text/passages.tsv", "data/text/passages_added.tsv", "data/text/life_passages_added.tsv"):   # added places: T2087 or Life
+    try: P.update({r["id"]: (lambda z: z + "\n" + re.sub(r"（[^（）]*）", "", z))(re.sub(r"\s", "", r["zh"])) for r in csv.DictReader(open(src, encoding="utf-8"), delimiter="\t")})
+    except FileNotFoundError: pass
 SCH = set("Mahayana Hinayana Sarvastivada Sammatiya Sthavira Mahayana-Sthavira Mahasanghika Lokottaravada Dharmaguptaka Mahisasaka Kasyapiya both".split())
 OTH = set("Jain-Digambara Jain-Svetambara Jain Saiva Pasupata Kapalika Surya Devi Brahmanical heretics-many".split())
 tot = 0

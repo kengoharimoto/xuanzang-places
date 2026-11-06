@@ -8,6 +8,10 @@ import csv, glob, html, json, re
 rd = lambda f: list(csv.DictReader(open(f, encoding="utf-8"), delimiter="\t"))
 AUTH = ["julien", "vivien", "cunningham", "majumdar", "beal", "watters", "dey"]
 coords = {r["id"]: r for r in rd("data/coords.tsv")}
+try:   # coordinates of the places added from the sources
+    for r in rd("data/coords_added.tsv"): coords[r["id"]] = {"lat": r["lat"], "lon": r["lon"], "precision": r["precision"], "modern_name": r["label"], "note": r["note"]}
+except FileNotFoundError:
+    pass
 upd = {}
 for f in glob.glob("data/notes/updates_*.tsv"):
     for r in rd(f): upd[r["id"]] = r

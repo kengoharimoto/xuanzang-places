@@ -9,7 +9,7 @@
   puts Mung-kin around Talikan–Khanabad, i.e. agreeing with Mizutani.
 - **Duplicate gazetteer scans**: several volumes exist in two scans (Jhelam 1907, Monghyr 1909/1960, Lyallpur 1905,
   Karnal 1884, Meerut 1875, Khulna, Manbhum, Midnapore…): count passages, not hits, in the report.
-- **Places missing from the master table** found by the gazetteer coders (`xz_id = new`): the great Brahmanical
+- **Places missing from the master table** (resolved 2026-11-06: 61 rows added in `data/places_added.tsv`, ids `.xN`; every `new` coded row mapped in `data/coded/new_resolved.tsv`) found by the gazetteer coders (`xz_id = new`): the great Brahmanical
   city on Takka's eastern border (Lahore, per the Lahore/Punjab gazetteers); the Aśoka stūpa NW of Sthāneśvara
   (Karnal 1976); the Aśoka stūpa south of Siṃhapura (Stein, Jhelam gazetteer). More in `data/coded/gaz_batch*.tsv`.
 - **Mizutani's slips** noted by coders: Kashipur coordinates with N/E swapped (04.12); "Eastern Ghats" for the
