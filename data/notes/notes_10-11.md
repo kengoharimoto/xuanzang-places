@@ -1,7 +1,8 @@
 # Notes on disputed places: juan 10–11
 
 Eastern India, the Deccan and the south, Siṃhala, western India, Sindh, Persia. The places follow master-table order.
-Sources are `places.tsv`, `places_mizutani.tsv`, `coded/auth_*.tsv` and the gazetteer rows in `coded/gaz_batch*.tsv`.
+Sources are `places.tsv`, `places_mizutani.tsv`, `coded/auth_*.tsv`, the gazetteer rows in `coded/gaz_batch*.tsv`
+and the Archaeological Survey rows in `coded/asr_batch*.tsv` (ASR volume and page).
 Gazetteer volumes are counted once, even when two scans exist. The hit numbers (G#) point to `gaz_hits.tsv`.
 
 ### 10.01 伊爛拏鉢伐多國 (Hiraṇyaparvata) — Monghyr; secure
@@ -10,12 +11,16 @@ Gazetteer volumes are counted once, even when two scans exist. The hit numbers (
 Beal (p. 186), Watters (p. 179, tentative), Majumdar (p. 722) and Dey all give Monghyr. They differ only over the
 Sanskrit form of the name.
 
+**Survey.** Cunningham (ASR XV, 1879–80, p. 16) keeps Monghyr and proposes a new source for the name: the local
+Harana-Parvata, from the Kashta-harana ghat, "is clearly the original of Hwen Thsang's I-lan-na-Po-fa-to", not
+Julien's Hiraṇya ("Hill of Gold"). The site does not move.
+
 **Gazetteers.** Monghyr 1909 and Monghyr 1960 accept Monghyr and argue for it from the old names Mudgalapuri,
 Mudgalāśrama and Mudgalagiri, and from the Pāla inscriptions' Mudgagiri (G#269). They add that the sage's hermitage
 at Kashtaharini ghat "is still a Hindu pilgrimage place" (G#270/1584). Bengal 1902 repeats the identification.
 
-**Assessment.** Nobody contests the site, and the gazetteers add local name evidence for what Mizutani already
-states. Mizutani stands.
+**Assessment.** Nobody contests the site. The survey's Harana etymology and the gazetteers' local names bear only
+on the name, and Mizutani stands.
 
 ### 10.01.02 伊爛拏山 — the hill at Monghyr; Mizutani's Pirpahar is a guess
 
@@ -31,32 +36,40 @@ to the former existence in this region of an active volcano", shown by the hot s
 range over any single hill. Pirpahar (Mizutani's own suggestion) has no support in these sources, but it does not
 contradict them. Mizutani's general location stands. The specific hill remains open.
 
-### 10.01.04 小孤山 — Uren hill (Waddell), now well argued
+### 10.01.04 小孤山 — Uren hill (Waddell); the survey's Mahadeva has no remains
 
-**Identifications.** Mizutani: Uren hill, 20 miles SW of Monghyr (agreed, after Waddell). Cunningham (as reported by
-Beal p. 190): Mahadeva hill, E of the central Monghyr hills. Watters (p. 180) and Majumdar (p. 722): Uren.
+**Identifications.** Mizutani: Uren hill, 20 miles SW of Monghyr (agreed, after Waddell). Cunningham (ASR XV, as
+reported by Beal p. 190; not in the 1871 Geography): Mahadeva hill, E of the central Monghyr hills. Watters (p. 180)
+and Majumdar (p. 722): Uren.
 
-**Gazetteers.** Monghyr 1909 and Monghyr 1960 give Waddell's case at length:
-- Mahadeva is doubtful because its hot springs lie on the hill itself and it has "no remains but a small brick linga
+**Survey.** Cunningham (ASR XV, 1879–80, pp. 18–19) proposed "the hill of Mahadeva and the hot springs of
+Bhimband", 11 miles from the Kiyul on the western frontier of Monghyr district. The hill is isolated and has two
+peaks, and the springs on its north side flow into the Mon river; they are "the hottest in the district", which
+matches the "extremely hot" springs of the text. On the ground, though, he found that "Nothing in fact now remains
+save the two peaked isolated hills and the hot springs": the cut stones had been carried off to Kharagpur and the
+Panch Kumar figures were gone.
+
+**Gazetteers.** Monghyr 1909 and Monghyr 1960 give Waddell's answer to the survey:
+- Mahadeva is doubtful because its springs lie on the hill itself and it has "no remains but a small brick linga
   shrine" (G#264/1568).
-- Uren's position and shape fit the description.
-- The hill top is called Lorik ka ghar, and the yakṣa's name Bakula survives in the village Bakura and in the cult
-  of Ban-Bakura Nath.
-- There is a footprint rock with a brick mound above it, "which may mark the remains of a small stupa" (G#278/1580),
-  as well as votive statues, chaityas and carved names.
+- Uren's position and shape fit; its top is called Lorik ka ghar, and the yakṣa's name Bakula survives in the
+  village Bakura and the cult of Ban-Bakura Nath.
+- A footprint rock has a brick mound above it "which may mark the remains of a small stupa" (G#278/1580), with
+  votive statues, chaityas and carved names. Bloch (ASI) dates the stupa tracings near Xuanzang's time (G#281/1583).
 
-Bloch (ASI) dates the stupa tracings near Xuanzang's time (G#281/1583). The same volumes float a hill with
-Indradyumna's fort near Jaynagar as "possible" (G#266/1570). Bhagalpur 1962 suggests the ruins at Bateshwar-Sthan,
-which Cunningham "had not looked into" (G#1432–3). It relies on Faxian's distance to Campā and offers no matching
-landscape.
+Jaynagar (G#266/1570) and Bateshwar-Sthan (Bhagalpur 1962, G#1432–3) are passing suggestions.
 
-**Assessment.** The gazetteers add the detailed field evidence behind Uren, and they strengthen Mizutani. The
-Jaynagar and Bateshwar-Sthan suggestions are passing remarks without argument.
+**Assessment.** Mahadeva rests on the two peaks and the springs; Cunningham's own visit found nothing of the cave,
+stupa or footprints. Uren has the footprints and a stupa mound. Mizutani is strengthened.
 
 ### 10.02 瞻波國 (Campā) — Champanagar near Bhagalpur; secure
 
 **Identifications.** Mizutani: Campānagara and Campāpura near Bhagalpur (agreed). Cunningham (pp. 546–7), Beal
 (p. 191), Watters (p. 182) and Dey agree. Vivien (p. 386) gives only the distance from Monghyr.
+
+**Survey.** Cunningham (ASR XV, 1879–80, pp. 32–33) keeps Champa at Bhagalpur. He identifies the herdsman's long
+gallery of the Life with the Mayaganj cave at Bhagalpur, where punch-marked silver coins had been found, while
+admitting "there are no rocks at the mouth of the Mayaganj cave at the present day" (see the final section).
 
 **Gazetteers.** Bhagalpur 1911, Bhagalpur 1962, Santal Parganas 1910 and Bengal 1902 repeat this and Cunningham's
 boundaries of Aṅga (Lakhisarai to Rajmahal). Bhagalpur 1962 puts forward Bateshwar-Sthan (near Colgong) as the
@@ -66,21 +79,27 @@ Ganges has changed course. The gazetteer itself says "later researches and excav
 **Assessment.** The Bateshwar suggestion concerns Faxian's Campā and the Vakula hill. It brings no evidence against
 Champanagar. Mizutani stands.
 
-### 10.02.02a 孤嶼 — the rocky island at Colgong/Patharghata
+### 10.02.02a 孤嶼 — the rocky islets at Kahalgaon (Colgong), with the temple ruins on the summit
 
 **Identifications.** Mizutani identifies only the landscaped pool, perhaps the Gaggarāpokkharaṇī. He leaves the
-island itself unidentified (uncertain). Cunningham (p. 546): the rocky island opposite Patharghata, 24 miles E of
-Bhagalpur. Vivien (p. 386): the rock of Patharghat. Beal (p. 192) also reports Cunningham's later choice, the rocky
-hill of Kahalgaon (Colgong).
+island itself unidentified (uncertain). Cunningham (1871, p. 546): the rocky island opposite Patharghata, 24 miles E
+of Bhagalpur. Vivien (p. 386): the rock of Patharghat. Beal (p. 192) reports Cunningham's later choice, Kahalgaon.
 
-**Gazetteers.** Bhagalpur 1911 identifies the islet at Colgong, which has "the only rock-hewn temple in Bengal". It
-adds that "On the summit of the same rock there was a large temple in Hiuen Tsiang's time", and it notes the sacred
-northward bend of the river (G#16). The 1911 and 1962 volumes repeat the old district gazetteer's remark that the
-Colgong rock temple "appears to have been visited" by Xuanzang (G#166/1848).
+**Survey.** Cunningham (ASR XV, 1879–80, pp. 34–35) moved a few miles upstream from Patharghata: "Both bearing and
+distance point to the rocky hill of Kahalgaon (Kolgong of the maps), which is just 23 miles to the east of
+Bhagalpur." There are three rocky islets; the Ganges has since left them, but the old channel survives as the
+Marganga ("dead Ganges"), still the main channel when he steamed up it in 1837. On the summit terrace stood "a large
+brick temple with white sandstone pilasters and doorway", door jambs still standing, with heaps of large bricks and
+carved bricks — "no doubt the ruins of the temple seen by Hwen Thsang". A small rock-cut temple lies below the
+summit.
 
-**Assessment.** All the European authorities and the gazetteers agree on the temple-crowned rock in the Ganges at
-Colgong–Patharghata, and the gazetteer describes the rock-cut shrine. This fills the gap Mizutani leaves. His
-Gaggarā pond, which lay at Campā itself and not 150 li east, does not fit the passage.
+**Gazetteers.** Bhagalpur 1911 echoes the survey: the islet at Colgong has "the only rock-hewn temple in Bengal",
+and "On the summit of the same rock there was a large temple in Hiuen Tsiang's time"; it notes the sacred northward
+bend of the river (G#16). The 1911 and 1962 volumes repeat the old district gazetteer's remark that the temple
+"appears to have been visited" by Xuanzang (G#166/1848).
+
+**Assessment.** Distance, bearing, an island once in the main stream, and a ruined temple on the summit all fit.
+This fills the gap Mizutani leaves; his Gaggarā pond lay at Campā itself, not 150 li east.
 
 ### 10.03 羯朱嗢祇羅國 (Kajaṅgala) — Rajmahal (Kankjol); the minority sites lack support
 
@@ -89,50 +108,60 @@ after Kankjol, 18 miles S of Rajmahal. Majumdar (p. 723): Kajaṅgala, capital a
 village of Kadjéri, below Farrakabad, opposite Gaur. Beal (p. 193, tentative): Kajeri on Rennell's map, 92 miles
 from Campā. Dey: Kajra station in Monghyr district, which is west of Campā. Watters (p. 183) gives no site.
 
+**Survey.** Cunningham (ASR XV, 1879–80, pp. 37–39) repeats that the 400 li from Champa point to the neighbourhood
+of Rajmahal, then adds that Kankjol itself, "not more than 70 miles from Bhagalpur by the direct route through the
+hills", has "at least as good a claim as Rajmahal to represent the capital". He names no remains there.
+
 **Gazetteers.** Santal Parganas 1910 repeats Cunningham, noting that Kankjol is "still extant 18 miles S of
 Rajmahal" (G#1). Hooghly 1972 and Howrah 1972 repeat Majumdar's "territory around Rajmahal".
 
 **Assessment.** Dey's Kajra lies in the wrong direction from Campā. The Kajeri of Vivien and Beal rests only on a
-name on a map. The gazetteers add nothing new but follow the Rajmahal view, and Mizutani stands.
+name on a map. The survey leaves the choice between Rajmahal and Kankjol open within the same district, and Mizutani
+stands.
 
-### 10.03.01a 大臺 — Teliagarhi (Cunningham, reported in the gazetteer)
+### 10.03.01a 大臺 — Teliagarhi (Cunningham, ASR XV)
 
 **Identifications.** Mizutani: no book identifies the brick-and-stone platform on the northern border near the
 Ganges (unknown). None of the coded authorities name it.
 
-**Gazetteers.** Santal Parganas 1910 (G#2/85) quotes Cunningham, apparently from his Survey reports rather than the
-1871 Geography: the tower "on the northern boundary, not far from the Ganges ... General Cunningham identifies with
-Teliagarhi". Cunningham concluded that it was Buddhist because "its four faces were ornamented with panels filled
-with figures of saints, Buddhas and Devas".
+**Survey.** The identification is Cunningham's (ASR XV, 1879–80, p. 39). The walls and towers of Teliyagarhi
+(Teliya-gali), "built in alternate courses of stones and bricks", recalled the tower built "partly of stone and
+partly of brick"; with its place on the northern frontier and the south bank of the Ganges, "this tower was most
+probably situated at Teliya-garhi itself". The place, an old military post commanding a pass into Bengal, had held
+many Buddhist and Brahmanical statues, most since moved to Kahalgaon and lost. He himself calls the mixed masonry
+"the common style of building in this part of the country from time immemorial".
 
-**Assessment.** The gazetteer reports an identification that Mizutani says does not exist: Teliagarhi, at the pass
-between the Rajmahal hills and the Ganges. It rests on Cunningham's reading and on position, not on finds. It is the
-only candidate in these sources and is worth recording, with low confidence.
+**Gazetteers.** Santal Parganas 1910 (G#2/85) quotes this survey passage. The "panels filled with figures of saints,
+Buddhas and Devas" it cites are Cunningham's paraphrase of Xuanzang's tower, not a description of Teliagarhi.
 
-### 10.04 奔那伐彈那國 (Puṇḍravardhana) — Mahasthan, strongly supported by the Bogra gazetteer
+**Assessment.** This is the only candidate in these sources, against Mizutani's "unidentified". It rests on
+position and on a building style that Cunningham admits was general; no part of the tower was found. Worth
+recording, with low confidence.
 
-**Identifications.** Mizutani: Rajshahi–Bogra area, capital Mahāsthān (agreed). The authorities disagree:
-- Vivien (p. 388): Burdwan.
-- Cunningham (1871, pp. 549–50): Pubna.
-- Fergusson (in Watters p. 184, Beal p. 194): near Rangpur.
-- Westmacott (in Beal): Panjara or Pandua.
-- Cunningham later (ASR XV, in Beal and Majumdar p. 724): Mahasthan. Majumdar rejects Pubna.
-- Dey: North Bengal.
+### 10.04 奔那伐彈那國 (Puṇḍravardhana) — Mahasthan, found by the survey and supported by the Bogra gazetteer
 
-**Gazetteers.**
-- Bogra 1910 argues for Mahasthan. Mahasthan lies 100 miles E of Rajmahal, matching the 600 li. The Karatoyā
-  Māhātmya places Puṇḍravardhana on the Karatoyā. The Skanda temple of the Rājataraṅginī was located by local people
-  and dug up near the river. Xuanzang "must have crossed the river Karatoya near Mahasthan". The decisive point is
-  the discovery in the 1907 survey of "the buried ruins of a Buddhistic temple", whereas there are no Buddhist remains
-  at the rivals Pabna or Pandua (G#122/127/133).
-- Malda 1918 argues for Pandua from its tanks, red soil and Hindu–Buddhist spolia. It concedes that "the distances he
-  gives from the Ganges makes the identification ... somewhat difficult" (G#46–49).
-- Purnea 1911 fixes the boundaries as the Ganges/Mahānandā on the west and the Karatoyā on the east.
-- Rajshahi 1916 notes that the site is disputed.
-- Pabna 1905 records only Cunningham's derivation of the name Pabna.
+**Identifications.** Mizutani: Rajshahi–Bogra area, capital Mahāsthān (agreed). Vivien (p. 388): Burdwan. Cunningham
+(1871, pp. 549–50): Pubna. Fergusson (in Watters p. 184, Beal p. 194): near Rangpur. Westmacott (in Beal): Panjara or
+Pandua. Majumdar (p. 724) follows Cunningham's later Mahasthan and rejects Pubna. Dey: North Bengal.
 
-**Assessment.** Distance, river, temple tradition and the 1907 Buddhist finds all point to Mahasthan. The rival sites
-are weaker, and Malda admits as much. The gazetteers strengthen Mizutani's identification.
+**Survey.** Cunningham gave up his Pubna in ASR XV (1879–80): "I was fortunate enough to discover the site of the
+ancient city in Mahasthan on the Karatoya River" (p. v). His grounds (pp. 102–112):
+- Mahasthan lies "just 100 miles to the east" of Rajmahal, the 600 li of the text, and local opinion holds it the
+  ancient capital of Barendra.
+- Bhasu Bihar, 4 miles W, matches the Po-shi-po monastery 4 miles W of the capital: a brick stūpa mound 30 ft high,
+  a carved-brick temple to its north, and the Bihar mound (700 × 600 ft) as the monastery.
+- His measured survey gives the fortified city 4,500 × 3,000 ft (15,000 ft round), with the suburbs "rather less
+  than 4½ miles", against 30 li.
+- He rejects Westmacott's Bardhan Kuti as a recent place. He found nothing Buddhist at Mahasthan itself, which was
+  thick with jungle.
+
+**Gazetteers.** Bogra 1910 repeats the survey's distance argument and adds what Cunningham lacked: the Karatoyā
+Māhātmya, the Skanda temple site, and "the buried ruins of a Buddhistic temple" found in 1907, with no Buddhist
+remains at Pabna or Pandua (G#122/127/133). Malda 1918 argues for Pandua but concedes the distance problem (G#46–49).
+Purnea 1911 gives the Karatoyā as the eastern boundary.
+
+**Assessment.** Distance, the Bhasu Bihar name and mounds, the circuit, the river and the 1907 Buddhist finds all
+point to Mahasthan. Mizutani is strengthened.
 
 ### 10.05 迦摩縷波國 (Kāmarūpa) — W Assam with Gauhati; the "great river" crossed was the Karatoyā
 
@@ -157,6 +186,10 @@ delta, capital probably Jessore. Fergusson (in Watters, Majumdar): Sonargaon. Wa
 R. D. Banerjee (in Majumdar pp. 729–31): Comilla. Dey: Comilla, Noakhali and Sylhet from the epigraphy. Vivien
 (p. 390): Dacca province and the Sundarbans. Beal: Eastern Bengal.
 
+**Survey.** Cunningham (ASR XV, 1879–80) equates Samataṭa with Bāgdi, the delta between the Jalangi and the
+Meghna, and names Bikrampur as that division's chief town, with Krishnanagar and Jessore also large towns. He does
+not name Xuanzang's capital and reports no remains.
+
 **Gazetteers.**
 - Jessore 1912 and 24 Parganas 1914 reject Jessore on Xuanzang's distances from Kāmarūpa. It "appears more
   reasonable to identify the capital with Dacca, as Fergusson does, or with the chief town of the Bikrampur pargana"
@@ -165,9 +198,9 @@ R. D. Banerjee (in Majumdar pp. 729–31): Comilla. Dey: Comilla, Noakhali and S
 - Khulna 1908 doubts that the young delta of Khulna was included.
 - Faridpur 1908 and Bengal 1902 equate Samataṭa with Vaṅga.
 
-**Assessment.** The gazetteers move the capital east of Jessore, to Dacca or Bikrampur. That points the same way as
-Mizutani's Comilla-area Bād-Kāmta, although none of them knows that site. They weaken Cunningham, not Mizutani, so
-Mizutani stands.
+**Assessment.** The gazetteers move the capital east of Jessore, to Dacca or Bikrampur, and the survey had already
+let Jessore drop to one town among several. That points the same way as Mizutani's Comilla-area Bād-Kāmta, although
+none of these sources knows that site. Mizutani stands.
 
 ### 10.06.02a 室利差呾羅國 (Śrīkṣetra) — Prome; the Indian alternatives rest on the bearing
 
@@ -246,27 +279,28 @@ other Bengal volumes repeat the identification.
 
 **Assessment.** The gazetteers explain why an inland town could be Xuanzang's seaport, and so strengthen Mizutani.
 
-### 10.08 羯羅拏蘇伐剌那國 (Karṇasuvarṇa) — Rangamati, doubted in 1914; candidates in Chota Nagpur
+### 10.08 羯羅拏蘇伐剌那國 (Karṇasuvarṇa) — Rangamati, doubted in 1914; the survey's Sapharan rests on a name
 
 **Identifications.** Mizutani: Rāṅgāmāṭi, Murshidabad (agreed; no rival reported). Majumdar (p. 733, tentative),
 Smith (in Watters p. 192) and Dey: Rangamati. Majumdar also reports Beglar's Sufaran and Fleet's Rohtasgarh.
-Cunningham (p. 578): Singhbhum–Barabhum, capital near Bara Bazar. Vivien (p. 392): the Suvarṇarekhā country around
-Singhbhum.
+Cunningham (1871, p. 578): Singhbhum–Barabhum, capital near Bara Bazar. Vivien (p. 392): the Suvarṇarekhā country.
+
+**Survey.** Beglar (ASR VIII, 1872–73) first announces Dulmi in Manbhum as Karṇasuvarṇa (p. 51), then settles on
+Sapharan near Suisa, across the river from Dulmi (p. 191). Cunningham placed it near Bara Bazar from bearings and
+distances, but "there are not many ruins there" (one small old temple), "while here the remains are numerous"
+(loose sculptures, Jain figures, lingas). He adds that "the name Sapharan is apparently the original of Sufalana",
+and that the rajas of nearby Karanpur once ruled Dulmi, giving "Karna Sapharana". Dulmi itself has only "a few
+fragments of sculpture". No later survey passage returns to the question.
 
 **Gazetteers.**
-- Murshidabad 1914 doubts Beveridge's Rangamati. That case rests on the name (Raktamṛttikā), a supposed old name
-  Kansonagar, the direction, and mounds, images and coins. Against it, "the name Rangamati is not uncommon, being
-  derived from the red laterite soil", Kansonagar is not in use, and the village is on no map before Valentyn
-  (1726) (G#59/284). The volume still places the kingdom over Murshidabad, Burdwan, Bankura and Hooghly.
-- Manbhum 1911 reports three candidate capitals: Barabazar (Cunningham), Dalmi (Hewitt), "where extensive ruins
-  still exist", and Safaran (Beglar), with uninvestigated mounds (G#141–2).
-- Puri 1977 places Karṇasuvarṇa in Manbhum (G#1528).
-- Singhbhum 1910 doubts Cunningham.
+- Murshidabad 1914 doubts Beveridge's Rangamati: "the name Rangamati is not uncommon, being derived from the red
+  laterite soil", Kansonagar is not in use, and the village is on no map before 1726 (G#59/284).
+- Manbhum 1911 echoes the survey's candidates — Barabazar (Cunningham), Safaran (Beglar) — and adds Dalmi (Hewitt),
+  "where extensive ruins still exist", all uninvestigated (G#141–2). Puri 1977 places the kingdom in Manbhum.
 
-**Assessment.** The gazetteers weaken Rangamati but offer no candidate with comparable evidence. Dalmi and Safaran are
-named but not investigated. Rangamati remains the best supported site in these sources. Later work (not in these
-sources): excavations near Rangamati at Rajbadidanga found Raktamṛttikā monastery sealings, which answers the 1914
-doubts.
+**Assessment.** Beglar's case is a name and loose sculpture; it disposes of Bara Bazar more than it establishes
+Sapharan. The gazetteers weaken Rangamati without a better candidate. Later work (not in these sources):
+Raktamṛttikā sealings found near Rangamati answer the 1914 doubts.
 
 ### 10.08.02 絡多末知僧伽藍 (Raktamṛttikā) — at Rangamati, doubted with the capital
 
@@ -361,43 +395,49 @@ Mahendra Male range at the head of the Rishikulya, Ganjam.
 **Assessment.** The two identifications agree in substance on the Mahendragiri massif on the northern border of
 Kaliṅga. No ruin is named. Mizutani stands, with low confidence for the stupa itself.
 
-### 10.12 憍薩羅國 (Dakṣiṇa Kosala) — upper Mahānadī with Sirpur; supported by the excavations
+### 10.12 憍薩羅國 (Dakṣiṇa Kosala) — upper Mahānadī with Sirpur; the survey moved to Chhattisgarh
 
-**Identifications.** Mizutani: upper Mahānadī, capital Sirpur (disputed). The authorities disagree:
-- Cunningham (pp. 595–6): Vidarbha, capital Chanda.
-- Fergusson (in Beal p. 209 and Watters p. 199): Wairagarh or Bhandak.
-- Beal: Nagpur or Amaravati.
-- Majumdar (pp. 735–6): Sirpur.
-- Vivien (p. 396): near the Wainganga–Wardha confluence.
-- Dey: Gondwana.
+**Identifications.** Mizutani: upper Mahānadī, capital Sirpur (disputed). Cunningham (1871, pp. 595–6): Vidarbha,
+capital Chanda. Fergusson (in Beal p. 209 and Watters p. 199): Wairagarh or Bhandak. Beal: Nagpur or Amaravati.
+Majumdar (pp. 735–6): Sirpur. Vivien (p. 396): near the Wainganga–Wardha confluence. Dey: Gondwana.
+
+**Survey.** Cunningham abandoned Vidarbha in ASR XVII (1881–82, p. 69): Kosala is Mahā-Kosala, that is,
+Chhattisgarh, and Xuanzang's 6,000-li circuit "could have been attained by inclusion of the great district of
+Vakataka" (Chanda, Nagpur, Seoni) on the west. He names no capital there. In ASR XXI (1883–84, pp. 93–94) he looks
+for the capital of Ptolemy's Adisathri, whom he takes as the people of Chhattisgarh, "at Sirpur on the Mahanadi" —
+a remark about Ptolemy, not Xuanzang.
 
 **Gazetteers.**
 - Bhandara 1908 calls Cunningham's Chanda "in the last degree hypothetical" (G#394).
-- Drug 1910, Raipur 1909 and Bilaspur 1910 give a Buddhist line at Bhandak (Chanda) connected with Sirpur, citing
-  Kielhorn's Bhandak inscription (G#382/380/392).
+- Drug 1910, Raipur 1909 and Bilaspur 1910 give a Buddhist line at Bhandak connected with Sirpur, citing Kielhorn's
+  Bhandak inscription (G#382/380/392).
 - Grant's Central Provinces 1870 argues for the Haihaya kingdom of Ratanpur, that is, Chhattisgarh (G#388).
 - Raipur 1973 reports that the Saugar University excavation at Sirpur in the early 1950s "revealed the ruins of two
   large monasteries", with a colossal Buddha, a Padmapāṇi and a Kaiyuan coin (713–41) (G#1467–8).
 
-**Assessment.** The gazetteers move from Chanda/Bhandak (1909–10) to Chhattisgarh and Sirpur (1973). The Sirpur
-monasteries are the only excavated Buddhist evidence in these sources, and they strengthen Mizutani.
+**Assessment.** The survey's own move from Chanda to Chhattisgarh, and the gazetteers' from Bhandak to Sirpur, end
+where Mizutani does. The Sirpur monasteries are the only excavated Buddhist evidence in these sources. Mizutani is
+strengthened.
 
-### 10.12.05 跋邏末羅耆釐山 (Bhramaragiri) — unidentified; the gazetteer rows concern Faxian
+### 10.12.05 跋邏末羅耆釐山 (Bhramaragiri) — unidentified; the survey withdrew its Chanda site
 
 **Identifications.** Mizutani: Faxian's Pārāvata, perhaps Nāgārjunakoṇḍa (uncertain). Dey: Śrīśailam. Burgess (in
-Watters p. 208): Śrīparvata/Śrīśailam. Cunningham (p. 601): Pantlu-kuri, 45 miles W of Chanda. Beal (p. 214),
-assuming Bhandak: the Winjhasani and Dewala hills.
+Watters p. 208): Śrīparvata/Śrīśailam. Cunningham (1871, p. 601): a rock monastery 50 miles W or SW of Chanda,
+possibly Pantlu-kuri. Beal (p. 214), assuming Bhandak: the Winjhasani and Dewala hills.
 
-**Gazetteers.** The coded rows discuss Faxian's five-storeyed monastery, not Xuanzang's mountain:
-- Thana 1882 compares it with Kanheri and rejects that (G#1872–3).
-- Ratnagiri 1962 suggests the Konkan caves (G#1548).
-- Salem 1883 assigns it to the Pallavas in the Krishna region (G#466–7).
+**Survey.** In ASR XXI (1883–84, pp. 93–94) Cunningham, now placing Kosala in Chhattisgarh (10.12), takes the hill
+city of Faxian and Xuanzang as "most probably" Ptolemy's Balanti-purgon, but concedes that "The position of the city
+described by the Chinese writers from hearsay has not yet been ascertained". In ASR XVII (p. 69) he had identified
+Balanti-purgon with Bandhogarh in Rewa; he does not draw that conclusion for Bhramaragiri.
 
-They reach Bhramaragiri only through Mizutani's equation of the two monasteries.
+**Gazetteers.** The coded rows discuss Faxian's five-storeyed monastery, not Xuanzang's mountain: Thana 1882 compares
+it with Kanheri and rejects that (G#1872–3); Ratnagiri 1962 suggests the Konkan caves (G#1548); Salem 1883 assigns
+it to the Pallavas in the Krishna region (G#466–7). They reach Bhramaragiri only through Mizutani's equation of the
+two monasteries.
 
-**Assessment.** Each candidate depends on where the Kosala capital is placed. With Sirpur (10.12), the Kosala-side
-candidates of Cunningham and Beal fall away, and the Śrīśailam–Nāgārjunakoṇḍa area of the Krishna remains. The
-gazetteers add nothing on Xuanzang's site.
+**Assessment.** Each candidate depends on where the Kosala capital is placed. With Sirpur, the Chanda-side sites
+fall away, and the survey itself withdrew its own. The Śrīśailam–Nāgārjunakoṇḍa area of the Krishna remains
+Mizutani's conjecture, unchallenged but unproven.
 
 ### 10.13 案達羅國 (Andhra) — capital Veṅgī
 
@@ -707,49 +747,67 @@ only repeats the older regional view. Mizutani stands.
 ### 11.11 瞿折羅國 (Gurjara) — capital Bhinmal; confirmed locally
 
 **Identifications.** Mizutani: S Rajasthan, capital Bhinmāl (majority) against Bārmer (disputed). Majumdar (p. 697)
-and Dey: Bhinmal. Vivien (p. 407), Cunningham (p. 357) and Beal (p. 270): Barmer (Balmer). Watters (p. 250): perhaps
-Bhilmala.
+and Dey: Bhinmal. Vivien (p. 407), Cunningham (1871, p. 357) and Beal (p. 270): Barmer (Balmer). Watters (p. 250):
+perhaps Bhilmala.
+
+**Survey.** Cunningham repeats Balmer twice in ASR II (1862–65), in passing, within his discussions of the Bālas
+and of the Gujars: the capital "was Pilomalo, or Balmer, half way between Amarkot and Jodhpur" (cf. p. 34). He
+visited neither Balmer nor Bhinmal, and the survey gives no ground evidence.
 
 **Gazetteers.**
 - Western Rajputana States 1909 argues for Bhinmal: "The old name of the place was Bhinmal or Bhillamala (the
   Pi-lo-mi-lo of the Chinese pilgrim)". It describes the ruined gate, "a line of mounds covering the ancient site",
   old tanks and wells, and Sanskrit inscriptions (G#1949).
 - Pali 1976, Sirohi 1967 and the Bombay volumes (1909, 1912) repeat Bhinmal/Śrīmāl.
-- Only Meerut 1875 and an 1874 volume repeat Cunningham's Balmer.
+- Only Meerut 1875 and an 1874 volume echo Cunningham's Balmer.
 
 **Assessment.** The attested old name Bhillamāla, which matches the transcription, together with the ruins, decides
-for Bhinmal. The gazetteers strengthen Mizutani.
+for Bhinmal. Balmer in the survey is an unargued repetition of 1871. The gazetteers strengthen Mizutani.
 
-### 11.13 擲枳陀國 (Jejākabhukti) — Bundelkhand; Eran argued as capital
+### 11.13 擲枳陀國 (Jejākabhukti) — Bundelkhand, named in inscriptions; capital Khajuraho or Eran
 
 **Identifications.** Mizutani: undecided between Bundelkhand (capital Khajurāho) and Chitor (disputed). Cunningham
-(pp. 551, 554), Vivien (p. 408) and Dey: Jajhoti/Bundelkhand, capital Khajuraho (or Mahoba). Watters (p. 251, in
-Majumdar p. 725): Chitor.
+(1871, pp. 551, 554), Vivien (p. 408) and Dey: Jajhoti/Bundelkhand, capital Khajuraho (or Mahoba). Watters (p. 251,
+in Majumdar p. 725): Chitor.
 
-**Gazetteers.**
-- Hamirpur 1909 and Jhansi 1909, following an Indian Antiquary article of 1908, argue: "Khajuraho will not suit ...
-  because it lies south-east not south from Gwalior, which seems to be Mahesvarapura, and is too far from Ujjain". By
-  contrast, "the spot that suits the bearings ... best is Eran or Erakana on the Bina river ... 45 miles
-  west-north-west from Saugor" (G#554/713).
-- The name survives in the "Jijhotia Brahmans and Banias, whose distribution at the present day marks roughly the
-  extent of the ancient province" (G#555).
-- Jalaun 1909 repeats Eran.
-- Banda 1909, Saugor 1905 and the 1874 Bundelkhand volume repeat Khajuraho.
+**Survey.** Cunningham's view moved twice:
+- ASR II (1864–65, pp. 412–428): Jajhoti is Bundelkhand, from the spread of the Jajhotiya Brahmans. The capital was
+  Khajuraho rather than Mahoba: its ruins, about 4,500 × 2,500 ft (14,000 ft round), correspond "almost exactly"
+  with the 15–16 li; of this period he found only the Ganthai temple, mound 28 ("most probably a ruined monastery")
+  and a pedestal inscribed *ye dharmā hetu*, with the northern mounds as possible monasteries.
+- ASR IX (1873–74, p. 65): following Hall, he re-read the name as Chi-ke-da = Chedi on the upper Narmadā, with
+  Maheśvarapura at Seronj (11.14).
+- ASR XXI (1883–84, pp. 58, 72): back to Bundelkhand. A Mahoba inscription of Kīrtivarman names the country
+  Jejākabhukti, and a Madanpur inscription Jejākasukti; Abu Rihan's Jajahuti had Khajuraho as capital. He reconciles
+  the 1,000 li from Ujjain (too short for Khajuraho) by reading it as 84 kos, about 250 miles.
 
-**Assessment.** The surviving Jijhotia caste name fixes the country in Bundelkhand, which weakens Chitor. For the
-capital, Eran fits Xuanzang's bearings and distances better than Khajuraho. The gazetteers add a candidate absent from Mizutani and the coded authorities.
+**Gazetteers.** Hamirpur 1909 and Jhansi 1909 (after Indian Antiquary 1908) keep Bundelkhand, echoing the survey's
+caste-name argument (G#555), but reject Khajuraho as SE of Gwalior and too far from Ujjain: "the spot that suits the
+bearings ... best is Eran or Erakana on the Bina river" (G#554/713). Jalaun 1909 repeats Eran; Banda 1909, Saugor
+1905 and the 1874 Bundelkhand volume repeat Khajuraho.
 
-### 11.14 摩醯濕伐羅補羅國 (Maheśvarapura) — Gwalior
+**Assessment.** The inscriptions and the caste names fix the country in Bundelkhand, against Chitor and Chedi. The
+capital stays open: Khajuraho has the circuit and a Buddhist pedestal but needs the kos reading; Eran fits the
+distances.
+
+### 11.14 摩醯濕伐羅補羅國 (Maheśvarapura) — Gwalior; the survey's Mandla and Seronj both lapse
 
 **Identifications.** Mizutani: the Gwalior region (majority) (disputed). Smith (in Watters) and Majumdar (p. 725):
-Gwalior. Cunningham (pp. 559–60): Mandla on the upper Narmadā, reading S for N, which Watters (p. 252) rejects.
+Gwalior. Cunningham (1871, pp. 559–60): Mandla on the upper Narmadā, reading S for N, which Watters (p. 252) rejects.
 Vivien (p. 408): Macheri, W of Agra.
+
+**Survey.** Cunningham dropped Mandla in ASR IX (1873–74, p. 65). Having made 11.13 Chedi, he sought Maheśvarapura
+in Central India 900 li NE of Ujjain, as the Life has it: "Seronj, to the north-east of Bhilsa, would suit these
+conditions almost exactly" (Ujjain to Besnagar measured at 142 miles by perambulator). The Travels' 900 li north
+from Chedi would land "in the neighbourhood of Narwar", which he rejected. He cites no remains at Seronj, and once he
+returned 11.13 to Bundelkhand (ASR XXI) the Seronj arrangement lost its frame.
 
 **Gazetteers.** Hamirpur 1909 takes Gwalior as Maheśvarapura in its reckoning for Eran (G#554). It argues only from
 bearings.
 
-**Assessment.** Gwalior agrees with the text's "north" without emendation and is consistent with the Eran
-reconstruction of 11.13. Mizutani stands.
+**Assessment.** Seronj fits the Life's distance from Ujjain, but not the Travels' 900 li north of a Bundelkhand
+Jejākabhukti. Gwalior agrees with the text's "north" without emendation and with the Eran reconstruction of 11.13.
+Mizutani stands.
 
 ### 11.15 信度國 (Sindhu) — capital Alor
 
@@ -769,24 +827,37 @@ Vivien (p. 410), Beal (p. 274), Dey and Smith: Multan. Watters (p. 253) calls M�
 restoration" because Multan lies far N of Sindh. Majumdar (p. 689) prefers a Mūlasthāna on the Narmadā in Broach
 province.
 
-**Gazetteers.** Mooltan 1884, Mooltan 1902, Punjab 1919 and Puri 1977 repeat Multan. The 1884 volume notes the
-golden Sun image (in the Bhaviṣya Purāṇa and in Xuanzang) and the 30-li circuit of the old city (G#1170/1173).
+**Survey.** Cunningham (ASR V, 1872–73, pp. 114–124) traces the name and the sun temple from Xuanzang through
+Biladuri, Abu Zaid, Masudi and Istakhri, and measures the city. The fort is 1¼ miles round with 46 bastions; "the
+walled circuit of Multan, including both city and citadel, is 15,000 feet, or very nearly three miles; and the whole
+circuit ... including the unwalled suburbs, is from four and half to five miles", agreeing with the 30 li. He knew
+the walls closely, having dismantled them in 1854; they are Mughal work on older lines.
 
-**Assessment.** The sun temple is diagnostic, and it fits Multan. The objection from bearing is real but weaker. The
-gazetteers repeat Cunningham, and Mizutani stands.
+**Gazetteers.** Mooltan 1884, Mooltan 1902, Punjab 1919 and Puri 1977 repeat Multan. The 1884 volume's golden Sun
+image and 30-li circuit (G#1170/1173) echo the survey.
 
-### 11.17 鉢伐多國 (Parvata) — Harappa; Shorkot and Jammu are the alternatives
+**Assessment.** The sun temple is diagnostic, and the circuit fits, though it was measured on later walls. The
+objection from bearing is real but weaker. Mizutani stands.
+
+### 11.17 鉢伐多國 (Parvata) — Harappa; Shorkot abandoned by its proposer
 
 **Identifications.** Mizutani: Harappa (disputed). Cunningham (1871, pp. 233–4): Shorkot, reading So-lo-fa-to.
 Cunningham later (ASR V, in Majumdar pp. 687–8) and Fleet: Harappa. Smith (in Watters p. 255): Jammu. Vivien
 (p. 410): perhaps Fatehpur on the Ravi.
 
-**Gazetteers.** Jhang 1884 repeats Cunningham's Shorkot. It describes "a huge mound of ruins about 100 feet in
-height ... surrounded with a wall of large-sized bricks" (G#1237/1337). Punjab 1919 puts Po-fa-to NE of Multan.
+**Survey.** Cunningham (ASR V, 1872–73, p. 107) withdrew Shorkot after visiting it: "I have satisfied myself that
+it never could have reached the size of 20 li", whereas "the size agrees almost exactly with that of Harapa"
+(about 3 miles round, after Burnes), "and as the position otherwise corresponds", Harappa "must be the very city
+visited by the pilgrim". His digging, on ground already stripped by railway contractors, produced stone scrapers,
+pottery, and Major Clark's black stone seal with a humpless bull and six unknown characters.
 
-**Assessment.** The gazetteers reflect Cunningham's 1871 view, which he later abandoned for Harappa. The Shorkot
-mound is impressive but needs an emended name. Mizutani's Harappa (Cunningham's revised view, with Fleet) stands, and
-Jammu is too far from Multan.
+**Gazetteers.** Jhang 1884 repeats the 1871 Shorkot, describing "a huge mound of ruins about 100 feet in height ...
+surrounded with a wall of large-sized bricks" (G#1237/1337); it ignores ASR V. Punjab 1919 puts Po-fa-to NE of
+Multan.
+
+**Assessment.** Shorkot fails on the measured circuit and needs an emended name; Harappa rests on size and position.
+The finds do not date the town to Xuanzang's time (later work, not in these sources, assigns the seal to the Indus
+civilization). Mizutani stands, with Jammu too far from Multan.
 
 ### 11.18 阿點婆翅羅國 (Atyanabakela) — lower Sindh/Cutch; capital Karachi or Kotesar
 
@@ -881,3 +952,7 @@ and the route. Mizutani stands, with medium confidence.
   location rests only on the caves' antiquity and their nearness to the Colgong–Patharghata rock (10.02.02a).
 - **The great river between Puṇḍravardhana and Kāmarūpa.** Bengal 1902 (G#1920) and Bogra 1910 (G#123, scan 316;
   coded under 10.05) identify it as the old Karatoyā at Mahasthan. See 10.05.
+- **The herdsman's cave near Campā (survey).** Cunningham (ASR XV, 1879–80, pp. 32–33) puts the Life's long gallery
+  at the Mayaganj cave at Bhagalpur, where punch-marked silver coins were found, because "there is no other now known
+  at Bhagalpur", though he admits there are no rocks at its mouth. This differs from Bhagalpur 1911's Barari
+  caves near Patharghata (above).

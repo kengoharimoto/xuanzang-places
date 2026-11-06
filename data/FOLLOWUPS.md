@@ -44,3 +44,13 @@
   rows (1930/1957) are a gazetteer confusion of 枳秣羅 (another name for Malakūṭa) and inflate 10.17's count; the
   10.12.05 rows concern Faxian's monastery, linked only through Mizutani's equation; Majumdar p. 728 vs Mizutani on
   the Valabhī record of 639 and Mālava (11.05) needs checking in the text.
+- **ASR coding fixes applied**: passage 361 loses 04.02.03; 151/152 `03.04.06`→`03.04.05;new`; 154 page 172; 229
+  `03.04.02`→`03.04.03`. **Open**: ASR V pp. 67–68 (the Taxila copper plate from Thupkia in Sirsukh; Sirkap/Sirsukh) was not
+  caught by the index and is uncoded; the "Madrasa" mound at Thanesar (passages 165, 370) may be one mound or two;
+  passage 354 — Cunningham read 百四五十歩 as li; passage 177 evidence says 2000 li where the quote has 1,000; passage 463
+  bears on 10.12 too; passage 387's `new` duplicates 386.
+- **More ASR fixes**: passage 15 gains 09.03.06 (mound A, 63 ft not 53); 329 `confirms`→`revises`. **Open**: Mizutani's
+  "Urel tank" for Muchalinda may be a misreading of Cunningham's plate XL (ASR XI), where Urel Tal is the Uruvilva tank
+  and Muchilinda's is Teskar Tal; gazetteer hit 1762's "coincidence in position" sentence is Beglar's (ASR VIII p. 108),
+  not Cunningham's. Uncoded ASR passages: vol. VIII preface p. viii (Tilaḍaka "beyond all doubt"; Son Bhandar defended),
+  Beglar's Note pp. ix–x (withdrawing Bhika Pahari).
