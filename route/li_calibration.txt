@@ -4,4 +4,4 @@ Effective li (straight-line km per li), calibration: median 0.239 km, 10% 0.120,
   India (juan 2-11): n=23, median 0.231 km/li
   visited destinations: n=27, median 0.247
   hearsay destinations: n=2, median 0.112
-Flagged: DIST 32, BEARING 20
+Flagged: DIST 31, BEARING 19

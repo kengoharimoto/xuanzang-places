@@ -6,7 +6,7 @@ Rows need `identifier` and `quote` (rows with relevant=no may have an empty quot
 """
 import csv, glob, re, sys, pathlib, unicodedata
 R = pathlib.Path(__file__).resolve().parent.parent.parent
-files = {pathlib.Path(f).stem: f for f in glob.glob(str(R / "gazetteer-vedanta/*/data/ia_ocr/*.txt")) + glob.glob(str(R / "yoga-gazetteers/*/data/ia_ocr/*.txt"))}
+files = {pathlib.Path(f).stem: f for f in glob.glob(str(R / "gazetteer-vedanta/*/data/ia_ocr/*.txt")) + glob.glob(str(R / "yoga-gazetteers/*/data/ia_ocr/*.txt")) + glob.glob(str(R / "xuanzang-places/data/ref/baluch/*.txt"))}   # baluch/: Baluchistan District Gazetteers, downloaded for this study
 def norm(s):
     s = unicodedata.normalize("NFKC", s or "").lower()
     s = re.sub(r"[‘’`´]", "'", s); s = re.sub(r"[“”]", '"', s); s = re.sub(r"-\s*\n\s*", "", s)

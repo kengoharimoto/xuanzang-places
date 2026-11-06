@@ -1065,6 +1065,9 @@ against Alor (Cunningham, Haig, Smith, Lambrick).
 large "Hindu" bricks and coins (G#1971); the Bombay Imperial Gazetteer (1909) notes carved slabs and brick foundations
 at the old Hindu city of Vijnot (G#1969), Banfill's candidate for the capital.
 
+**Route test.** Measured from Gurjara (now corrected; see route/README.md §5), Alor, Vijnot and Mirchandani's
+Mithankot score alike (mean |z| 0.42, 0.37, 0.46). The 1900 li north from Bhinmal fit all three.
+
 **Assessment.** Branfill's Vijnot gives a closer sound for Pi-chen-po-pu-lo, but these sources offer no evidence
 beyond the name. Alor, the historical capital of Upper Sindh, stands.
 
@@ -1130,7 +1133,7 @@ civilization).
 (pp. 346–8) and Dey: Cutch, capital Koṭeśvara on the Kori mouth. Majumdar (p. 696): Lower Sindh, not Cutch, since the
 capital lay on the Indus.
 
-**Gazetteers.** None.
+**Gazetteers.** None in the main gazetteer set (for the Baluchistan volumes see below).
 
 **K. Harimoto's notes.** Argues the capital is Koṭīśvara (Koteshwar, Kutch); takes 翅羅 as -kila (cf. 倶翅羅 = kokila);
 notes Lambrick's Debal and Bhambore.
@@ -1154,13 +1157,23 @@ name as Kiteśvara.
 **Gazetteers (site search).** Aitken's Sind gazetteer (1907) has Chach, who came to the throne in 631, subdue Las Bela
 (G#1967): Las Bela, like the delta, was then subject to Sind, as Xuanzang says of this country.
 
+**Baluchistan gazetteers.** The Las Bela volume (1907, p. 23) and the Imperial Gazetteer (1908, p. 188), after the
+Chachnāma, make the 7th-century ruler of Armabel (Bela) a Buddhist Samani subject to Sind, whom Chach visited c. 635
+(B001, B009). The same volume doubts that Armabel was Bela itself, suggesting Khairo Kot or a site near the Hor (pp.
+198, 207–8; B003–B004). The Gondrani cave city N of Bela is "possibly of Buddhist origin" only in the Imperial
+Gazetteer (p. 189; B010); the district volume describes c. 1,500 rock-cut dwellings without religious features (pp.
+37–40; B005). Gondakahar is not mentioned.
+
+**Route test.** Gondakahar scores worst when measured from Mizutani's Sindhu (mean |z| 0.86), but Mirchandani's whole
+route from Mithankot fits the text best (route/README.md §5).
+
 **Assessment.** These sources split between Karachi or the delta (Debal/Banbhore) and Koṭeśvara in Kutch. 朅 (*khjat)
 suits Kacch- better than Koṭi-. A great Śiva shrine at the Indus mouth served by ash-smearers fits this country's
 大自在天祠, and the Skandapurāṇa's Śaṅkukarṇa–Sthūleśvara lies there. Mizutani's lower Sindh stands, low to medium
 confidence; Banbhore joins Karachi and Koṭeśvara as a candidate for the capital, and Mirchandani's Las Bela (capital
 Gondakahar) as an alternative for the country, resting on the Chachnāma's Armābel rather than on the name.
 
-### 11.19 狼揭羅國 (Laṅgala) — Mekran; capital 窣菟黎濕伐羅 = Sthūleśvara by name, unlocated
+### 11.19 狼揭羅國 (Laṅgala) — Makran; capital 窣菟黎濕伐羅 = Sthūleśvara by name, probably in western (Persian) Makran; Lākoriān weakened
 
 **Identifications.** Mizutani: E Mekran or SE Baluchistan, the capital the great ruined city of "Lākorian" (agreed).
 Cunningham reaches "Lakūra" only by changing the bearing from W to NW (AGI p. 356). Watters suggests the capital's
@@ -1185,11 +1198,20 @@ from K. Harimoto's note.
 **Mirchandani 1967.** Mirchandani makes Laṅgala "Greater Makran" with its capital at Kasarkand in Persian Makran,
 reached along the Kech valley, "less than 2000 li" west of Bela (pp. 330–37), against Cunningham's Lākoriān.
 
-**Assessment.** The name Sthūleśvara is well supported. Its known locations, at the Indus mouth (Skandapurāṇa) and
-east of Daibal (al-Bīrūnī), lie in or beyond 11.18's country, not 2000 li west of it. Either another Sthūleśvara stood
-on the Makran coast, or the name belongs to the delta and Xuanzang's hearsay sequence for Laṅgala is confused.
-Mizutani's region stands for the country; the capital's name is now Sthūleśvara, its site open
-(Mirchandani's Kasarkand rests on the route alone).
+**Baluchistan gazetteers.** Lākoriān appears in the Jhalawan volume only as a tract of land, with no ruined city (p.
+80; B038). Makran was claimed by Sind in 635–6 and held by it when the Arabs came (Imperial Gazetteer p. 12; Makran
+pp. 42–43; B012, B041–B042); the Arab-period capital was Kiz (Kech) (p. 45; B044). An old pilgrim road ran from Las
+Bela up the Kech valley into Persian Makran (p. 298; B045).
+
+**Route test.** Kasarkand lies due west of Karachi or Bela at about the stated distance (z +0.2 to −0.3, bearing off
+1–18°). Lākoriān lies north (bearing off 83°).
+
+**Assessment.** The capital's name is Sthūleśvara; the Skandapurāṇa locates that liṅga at the Indus mouth. Mizutani's
+Lākoriān now fails on three counts: the bearing (north, not west), the gazetteer (a tract with no ruined city), and
+the political note (Makran east of the Persian border was Sind's c. 635, while 狼揭羅 was subject to Persia). Western,
+Persian Makran fits the bearing, the distance and the subjection to Persia; Kasarkand on the Kech valley road is a
+candidate for the capital (Mirchandani), though not proven. Region: Makran, with the capital probably in the west;
+Lākoriān weakened; low to medium confidence.
 
 ### 11.20 波剌斯國 (Pārsa) — Persia; capital Persepolis/Istakhr
 
@@ -1226,7 +1248,7 @@ suggestion is a new candidate in these sources but carries little weight. Mizuta
 Watters p. 257): Nagar Parkar. Majumdar (p. 692): NW of Lower Sindh and SW of Middle Sindh, rejecting the delta.
 Vivien (p. 412): no comparison possible.
 
-**Gazetteers.** None.
+**Gazetteers.** None in the main gazetteer set (for the Baluchistan volumes see below).
 
 **Mirchandani 1967.** Mirchandani identifies 臂多勢羅 with Turān (Jhalawan), capital Kusdar (Khuzdar), reading the name as
 Paṭṭa-śilā; 700 li (c. 143 miles) north from Bela matches Bela–Kusdar, 139 miles (pp. 337–43). He argues against
@@ -1242,6 +1264,13 @@ candidate. Neither report mentions Xuanzang.
 principal citizens of Sehwan were Buddhists who would not fight for Dahar (G#1966): Buddhists in Lambrick's candidate
 town c. 711.
 
+**Baluchistan gazetteers.** The Arabs' Turan had its capital at Khuzdar (Imperial Gazetteer pp. 12, 171; Jhalawan p.
+34; B013, B018, B033). The finds at Khuzdar are Islamic: glazed ware at Miri Butt, a Kufic inscription and Ghaznavid
+coins (pp. 59–62; B037). Nothing pre-Arab or Buddhist is reported.
+
+**Route test.** Hyderabad fits best when measured from Karachi (mean |z| 0.15); Khuzdar fits only within Mirchandani's
+route, measured from Bela (z 0.0).
+
 **Assessment.** The three placements differ materially, and none cites remains. Mizutani follows Cunningham, and
 confidence is low.
 
@@ -1251,7 +1280,7 @@ confidence is low.
 capital Brahmanabad. Majumdar (p. 691): Middle Sindh. Beal (p. 280): "corresponded with Avanti". Watters (p. 260):
 not the Avanti of the canon.
 
-**Gazetteers.** None.
+**Gazetteers.** None in the main gazetteer set (for the Baluchistan volumes see below).
 
 **K. Harimoto's notes.** Asks whether Avaṇḍa is al-Mansūra. Al-Bīrūnī says al-Mansūra is Bahmanwa renamed (Sachau I p.
 21); it was founded c. 744–74, a century after Xuanzang (Cunningham pp. 310–11), on the site Cunningham already gave
@@ -1263,9 +1292,21 @@ Avaṇḍa. Lambrick puts Avaṇḍa at Badah, S of Larkana (Sind, pp. 149–50)
 **Mirchandani 1967.** Mirchandani identifies Avaṇḍa with Budha/Budhiya = Kachhi, capital Kandabil = Gandāva (pp.
 343–47), but must emend Xuanzang's 300 li to 500.
 
-**Assessment.** The authorities agree on Middle Sindh; Lambrick's Badah is a further candidate for the capital.
-Al-Mansūra adds a later name for Cunningham's site, not a new identification. Mizutani stands, with medium confidence
-for the region and low for the capital.
+**Baluchistan gazetteers.** The Kachhi volume (pp. 24–28) identifies the Arabs' Kandabil with Gandāva, capital of
+Budha or Nudha, forced into tribute by Chach c. 635–6 (B015, B017, B025–B029); it prefers the reading Nudha (B026).
+Pre-Muhammadan mounds stand at Chhalgari (pp. 25–26; B030). Two Buddhist clay sealings from Tambu in Bhag, with the ye
+dharmā formula over five stūpas, are dated by Stein to the 8th–9th century (p. 26; B031): Buddhism in Kachhi close to
+Xuanzang's time.
+
+**Route test.** Brahmanabad fits the 300 li from Hyderabad (z −0.1), but its onward leg to Bannu is 810 km against
+about 215 km predicted. Gandāva fits within Mirchandani's route: from Khuzdar the unemended 300 li give z +1.1, and
+its onward leg to Duki z −0.1.
+
+**Assessment.** Middle Sindh (Brahmanabad/Khairpur) fits the 300 li from Hyderabad but breaks the route onward to
+Varṇa. Kachhi has the Arab-period capital Kandabil = Gandāva, tributary to Sind c. 635, pre-Islamic mounds and
+Buddhist sealings of the 8th–9th century, and it fits the whole route from Bela through Khuzdar to Duki. It needs no
+emendation if the 300 li are taken loosely (z +1.1). Kachhi (capital Gandāva) is now an alternative of equal weight to
+Mizutani's Middle Sindh; low to medium confidence for either.
 
 ### 11.23 伐剌拏國 (Varaṇa) — Bannu
 
@@ -1273,7 +1314,7 @@ for the region and low for the capital.
 endorsement) and Dey: Bannu. Vivien (p. 414) and Smith (in Watters p. 262): Vaneh or the Gomal valley. Watters:
 Cunningham's view is open to "serious exceptions".
 
-**Gazetteers.** None.
+**Gazetteers.** None in the main gazetteer set (for the Baluchistan volumes see below).
 
 **Mirchandani 1967.** Mirchandani puts 伐剌拏 in the Bolan–Loralai region, capital at or near Duki (pp. 350–53), against
 Bannu (Cunningham, Stein) and Vaneh (Vivien, Smith, Lambrick); the argument depends on his Gandāva for 11.22.
@@ -1283,7 +1324,18 @@ the Thal plain, with an undisturbed relic deposit, Graeco-Buddhist carvings and 
 first Buddhist ruin discovered in Baluchistan", and surveyed the Duki–Sanjawi mounds of Loralai. This shows Buddhism
 in Mirchandani's region, though for the Kushan period, not Xuanzang's.
 
-**Assessment.** Pāṇini's Varṇu and Stein's endorsement favour Bannu. Mizutani stands, with medium confidence.
+**Baluchistan gazetteers.** The Loralai volume begins its history only c. 1383 (p. 32; B047). Mounds near Duki are
+called old Hindu castles, but undated (p. 44; B048). Stein found that "Monastery Hill" near Loralai was two refuge
+forts, with nothing religious (pp. 45–46; B049). Stein's Kushan stūpa near Ṭabar-kōt (AR 1926–27) is the one Buddhist
+site in the district. The Imperial Gazetteer, after Cunningham, puts the Life's Opokien (阿薄健, the Afghans) in Zhob (p.
+102; B021), on a Gomal–Zhob route.
+
+**Route test.** Bannu is 810 km from Brahmanabad against 900 li (about 215 km); it fits only if Avaṇḍa lay much
+further north. Duki fits from Gandāva (z −0.1).
+
+**Assessment.** Bannu breaks the route from Avaṇḍa unless Avaṇḍa lay far to the north. Duki fits the distance from
+Gandāva but has no 7th-century record. The choice follows 11.22: Middle Sindh leaves Varṇa unfixed; Kachhi points to
+the Bolan–Loralai country. Low confidence for either.
 
 ### 11.23.02 稽疆那國 (Kikāna) — Waziristan (Stein, after his 1926–27 tour); Pishin less likely
 
@@ -1297,16 +1349,23 @@ corresponding to the present Waziristan, and the Qiqan of early Arab history": s
 ruler, sheep and fine horses. The sites he surveyed are prehistoric or late, so the identification rests on text
 and terrain, not on a find.
 
-**Gazetteers.** None.
+**Gazetteers.** None in the main gazetteer set (for the Baluchistan volumes see below).
 
 **Mirchandani 1967.** Mirchandani makes 稽疆那 the Kīkānān of the Arab writers, the Quetta–Pishin region (p. 354).
 
 **Gazetteers (site search).** The Mooltan gazetteer (1884), after Ibn Haukal, makes the Arabs' Kaikanan "not
 identified", probably including Dera Ghazi Khan (G#1970); Mirchandani puts it at Quetta–Pishin.
 
-**Assessment.** Cunningham's Pishin rested on the Arab Kīkān. Stein places that Qīqān in Waziristan too, which takes
-away Cunningham's ground, and his field tour fits the description, as Bannu (11.23) and the route already did.
-Mizutani is strengthened, with medium confidence.
+**Baluchistan gazetteers.** All the Baluchistan volumes put the Arabs' Kīkān or Kaikanan at Nal in Jhalawan, near
+Khuzdar (Imperial Gazetteer p. 12; Jhalawan pp. 34–35, 221; Makran p. 44; B014, B023, B034–B035, B043), not at
+Quetta–Pishin (B051–B053, except a village Kikani, B052). The name matches 稽疆那 well. Nal's mounds are prehistoric
+(B036). Nal lies SW of Duki and far S of Bannu, while the text puts 稽疆那 west of 伐剌拏.
+
+**Assessment.** Cunningham's Pishin rested on the Arab Kīkān. Stein places that Qīqān in Waziristan, and his field
+tour fits the description, as Bannu (11.23) does. The Baluchistan gazetteers, however, put the Arab Kīkān at Nal in
+Jhalawan, which would follow Mirchandani's southern route rather than Bannu, though Nal is south-west rather than west
+of Duki. Mizutani's Waziristan stands with Stein, now with low to medium confidence; Nal is an alternative tied to
+11.22–11.23.
 
 ## Gazetteer passages coded `new` in this range
 

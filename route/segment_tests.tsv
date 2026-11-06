@@ -109,7 +109,7 @@ id	name_zh	from_id	from_name	legs	li	km	km_per_li	pred_km	log_ratio	stated	compu
 11.10	蘇剌侘國	11.08	伐臘毘國	西 500+	500.0	151.8	0.304	119.5	0.24	西	255	15		yes	agreed/agreed	town/town	visited
 11.11	瞿折羅國	11.08	伐臘毘國	北 1800+	1800.0	350.3	0.195	430.2	-0.21	北	6	6			agreed/disputed	town/town	visited
 11.12	鄔闍衍那國	11.11	瞿折羅國	東南 2800+	2800.0	409.7	0.146	669.2	-0.49	東南	119	16			disputed/agreed	town/town	visited
-11.15	信度國	11.14	摩醯濕伐羅補羅國	北 1900+	1900.0	925.8	0.487	454.1	0.71	北	282	78	DIST;BEARING		disputed/agreed	town/town	visited
+11.15	信度國	11.11	瞿折羅國	北 1900+	1900.0	437.9	0.23	454.1	-0.04	北	312	48			disputed/agreed	town/town	visited
 11.16	茂羅三部盧國	11.15	信度國	東 900+	900.0	377.9	0.42	215.1	0.56	東	39	51	BEARING	yes	agreed/agreed	town/town	visited
 11.17	鉢伐多國	11.16	茂羅三部盧國	東北 700+	700.0	141.6	0.202	167.3	-0.17	東北	70	25			agreed/disputed	town/site	visited
 11.18	阿點婆翅羅國	11.15	信度國	西南 1500-1600	1550.0	362.0	0.234	370.4	-0.02	西南	213	12		yes	agreed/agreed	town/town	visited

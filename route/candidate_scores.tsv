@@ -289,29 +289,38 @@ id	candidate	proposer	n_segments	mean_abs_z	mean_bearing_off	n_precise	z_precise
 11.08	Vala (Valabhi), near Bhavnagar	Mizutani	3	0.5	29	3	0.5	29	→11.09 西北 700+: 226 km (pred 167), z +0.6, bearing off 65° | →11.10 西 500+: 152 km (pred 120), z +0.5, bearing off 15° | →11.11 北 1800+: 350 km (pred 430), z -0.4, bearing off 6°	from data/coords.tsv
 11.09	near Ahmadabad	St. Martin; Cunningham; Watters (older view, via Mizutani)	1	0.25	74	1	0.25	74	←11.08 西北 700+: 148 km (pred 167), z -0.3, bearing off 74°	
 11.09	Vadnagar	Mizutani	1	0.61	65	1	0.61	65	←11.08 西北 700+: 226 km (pred 167), z +0.6, bearing off 65°	from data/coords.tsv
-11.11	Barmer (Balmer)	Vivien 1858; Cunningham 1871; Beal 1884	2	0.25	10	2	0.25	10	←11.08 北 1800+: 434 km (pred 430), z +0.0, bearing off 6° | →11.12 東南 2800+: 528 km (pred 669), z -0.5, bearing off 13°	
-11.11	Bhinmal	Mizutani	2	0.71	11	2	0.71	11	←11.08 北 1800+: 350 km (pred 430), z -0.4, bearing off 6° | →11.12 東南 2800+: 410 km (pred 669), z -1.0, bearing off 16°	from data/coords.tsv
+11.11	Barmer (Balmer)	Vivien 1858; Cunningham 1871; Beal 1884	3	0.41	23	3	0.41	23	←11.08 北 1800+: 434 km (pred 430), z +0.0, bearing off 6° | →11.12 東南 2800+: 528 km (pred 669), z -0.5, bearing off 13° | →11.15 北 1900+: 316 km (pred 454), z -0.7, bearing off 49°	
+11.11	Bhinmal	Mizutani	3	0.49	24	3	0.49	24	←11.08 北 1800+: 350 km (pred 430), z -0.4, bearing off 6° | →11.12 東南 2800+: 410 km (pred 669), z -1.0, bearing off 16° | →11.15 北 1900+: 438 km (pred 454), z -0.1, bearing off 48°	from data/coords.tsv
 11.13	Eran	Hamirpur/Jhansi/Jalaun 1909	2	0.2	11	2	0.2	11	←11.12 東北 1000+: 264 km (pred 239), z +0.2, bearing off 22° | →11.14 北 900+: 237 km (pred 215), z +0.2, bearing off 0°	
 11.13	Chitor	Watters 1904	2	0.67	72	2	0.67	72	←11.12 東北 1000+: 223 km (pred 239), z -0.1, bearing off 77° | →11.14 北 900+: 387 km (pred 215), z +1.2, bearing off 67°	
 11.13	Khajuraho	Cunningham 1871; Vivien 1858; Smith	2	0.74	35	2	0.74	35	←11.12 東北 1000+: 461 km (pred 239), z +1.3, bearing off 20° | →11.14 北 900+: 232 km (pred 215), z +0.2, bearing off 49°	
 11.13	Mahoba	Cunningham 1871 (alternative); Dey 1927	2	0.78	36	2	0.78	36	←11.12 東北 1000+: 476 km (pred 239), z +1.4, bearing off 15° | →11.14 北 900+: 198 km (pred 215), z -0.2, bearing off 58°	
-11.14	Macheri, 35 leagues W of Agra	Vivien 1858	1	1.01	85	1	1.01	85	→11.15 北 1900+: 749 km (pred 454), z +1.0, bearing off 85°	approx: Machari (Alwar)
-11.14	Gwalior	Mizutani	1	1.44	78	1	1.44	78	→11.15 北 1900+: 926 km (pred 454), z +1.4, bearing off 78°	from data/coords.tsv
-11.14	Seronj	Cunningham ASR IX	1	1.52	64	1	1.52	64	→11.15 北 1900+: 960 km (pred 454), z +1.5, bearing off 64°	
-11.14	Mandla	Cunningham 1871	1	2.09	62	1	2.09	62	→11.15 北 1900+: 1275 km (pred 454), z +2.1, bearing off 62°	
-11.15	Vijnot	Branfill (via Majumdar 1924)	3	0.77	45	3	0.77	45	←11.14 北 1900+: 866 km (pred 454), z +1.3, bearing off 74° | →11.16 東 900+: 291 km (pred 215), z +0.6, bearing off 54° | →11.18 西南 1500-1600: 448 km (pred 370), z +0.4, bearing off 8°	approx: Ubauro taluk
-11.15	Aror (Alor), near Sukkur	Mizutani	3	0.88	47	3	0.88	47	←11.14 北 1900+: 926 km (pred 454), z +1.4, bearing off 78° | →11.16 東 900+: 378 km (pred 215), z +1.1, bearing off 51° | →11.18 西南 1500-1600: 362 km (pred 370), z -0.0, bearing off 12°	from data/coords.tsv
+11.14	Gwalior	Mizutani	0			0				from data/coords.tsv
+11.14	Mandla	Cunningham 1871	0			0				
+11.14	Seronj	Cunningham ASR IX	0			0				
+11.14	Macheri, 35 leagues W of Agra	Vivien 1858	0			0				approx: Machari (Alwar)
+11.15	Vijnot	Branfill (via Majumdar 1924)	3	0.37	33	3	0.37	33	←11.11 北 1900+: 430 km (pred 454), z -0.1, bearing off 36° | →11.16 東 900+: 291 km (pred 215), z +0.6, bearing off 54° | →11.18 西南 1500-1600: 448 km (pred 370), z +0.4, bearing off 8°	approx: Ubauro taluk
+11.15	Aror (Alor), near Sukkur	Mizutani	3	0.42	37	3	0.42	37	←11.11 北 1900+: 438 km (pred 454), z -0.1, bearing off 48° | →11.16 東 900+: 378 km (pred 215), z +1.1, bearing off 51° | →11.18 西南 1500-1600: 362 km (pred 370), z -0.0, bearing off 12°	from data/coords.tsv
+11.15	Mithankot area (Derajat)	Mirchandani 1967, 1976	3	0.46	28	3	0.46	28	←11.11 北 1900+: 478 km (pred 454), z +0.1, bearing off 23° | →11.16 東 900+: 175 km (pred 215), z -0.4, bearing off 53° | →11.18 西南 1500-1600: 564 km (pred 370), z +0.9, bearing off 8°	approx: capital untraced, near Mithankot on the Indus
 11.16	Multan	Mizutani	2	0.74	38	2	0.74	38	←11.15 東 900+: 378 km (pred 215), z +1.1, bearing off 51° | →11.17 東北 700+: 142 km (pred 167), z -0.3, bearing off 25°	from data/coords.tsv
 11.17	Harappa	Mizutani	1	0.34	25	1	0.34	25	←11.16 東北 700+: 142 km (pred 167), z -0.3, bearing off 25°	from data/coords.tsv
 11.17	Shorkot	Cunningham 1871	1	1.23	5	1	1.23	5	←11.16 東北 700+: 91 km (pred 167), z -1.2, bearing off 5°	
 11.17	Jammu	Smith; Watters 1904; Beal 1884; Cunningham (via Mizutani)	1	1.9	3	1	1.9	3	←11.16 東北 700+: 427 km (pred 167), z +1.9, bearing off 3°	
 11.18	Karachi	Mizutani	3	0.22	54	3	0.22	54	←11.15 西南 1500-1600: 362 km (pred 370), z -0.0, bearing off 12° | →11.19 西 2000: 397 km (pred 478), z -0.4, bearing off 83° | →11.21 北 700+: 149 km (pred 167), z -0.2, bearing off 66°	from data/coords.tsv
 11.18	Kotesar (Koteshwar)	Cunningham 1871; Dey 1927	3	0.31	38	3	0.31	38	←11.15 西南 1500-1600: 438 km (pred 370), z +0.3, bearing off 39° | →11.19 西 2000: 563 km (pred 478), z +0.3, bearing off 69° | →11.21 北 700+: 191 km (pred 167), z +0.3, bearing off 5°	
+11.18	Banbhore (Debal)	Lambrick 1964; Bakker (Śaṅkukarṇa)	3	0.41	49	3	0.41	49	←11.15 西南 1500-1600: 348 km (pred 370), z -0.1, bearing off 20° | →11.19 西 2000: 418 km (pred 478), z -0.3, bearing off 76° | →11.21 北 700+: 111 km (pred 167), z -0.8, bearing off 50°	
+11.18	Gondakahar, NW of Bela (Las Bela)	Mirchandani 1967	3	0.86	77	3	0.86	77	←11.15 西南 1500-1600: 310 km (pred 370), z -0.4, bearing off 19° | →11.19 西 2000: 232 km (pred 478), z -1.5, bearing off 98° | →11.21 北 700+: 243 km (pred 167), z +0.8, bearing off 115°	approx: 11 miles NW of Bela
+11.19	Kasarkand (Qasr-e Qand), Persian Makran	Mirchandani 1967, 1969	1	0.2	18	1	0.2	18	←11.18 西 2000: 527 km (pred 478), z +0.2, bearing off 18°	
 11.19	Lakorian (Lakura), between Khuzdar and Kalat	Mizutani	1	0.38	83	1	0.38	83	←11.18 西 2000: 397 km (pred 478), z -0.4, bearing off 83°	from data/coords.tsv
 11.21	Hyderabad (Sind)	Mizutani	2	0.15	37	2	0.15	37	←11.18 北 700+: 149 km (pred 167), z -0.2, bearing off 66° | →11.22 東北 300+: 69 km (pred 72), z -0.1, bearing off 7°	from data/coords.tsv
+11.21	Sehwan	Lambrick 1964	2	0.59	52	2	0.59	52	←11.18 北 700+: 193 km (pred 167), z +0.3, bearing off 26° | →11.22 東北 300+: 111 km (pred 72), z +0.9, bearing off 77°	
 11.21	Nagar Parkar	Haig (notes)	2	2.14	96	2	2.14	96	←11.18 北 700+: 382 km (pred 167), z +1.7, bearing off 98° | →11.22 東北 300+: 259 km (pred 72), z +2.6, bearing off 94°	
+11.21	Khuzdar (Kusdar)	Mirchandani 1967	2	2.15	48	2	2.15	48	←11.18 北 700+: 329 km (pred 167), z +1.4, bearing off 7° | →11.22 東北 300+: 304 km (pred 72), z +2.9, bearing off 89°	
 11.22	Brahmanabad, Sind	Mizutani	2	1.38	20	2	1.38	20	←11.21 東北 300+: 69 km (pred 72), z -0.1, bearing off 7° | →11.23 東北 900+: 810 km (pred 215), z +2.7, bearing off 33°	from data/coords.tsv
+11.22	Badah, S of Larkana	Lambrick 1964	2	2.29	39	2	2.29	39	←11.21 東北 300+: 219 km (pred 72), z +2.3, bearing off 54° | →11.23 東北 900+: 675 km (pred 215), z +2.3, bearing off 24°	approx
 11.22	Khairpur area	Mizutani (alternative)	2	2.32	33	2	2.32	33	←11.21 東北 300+: 241 km (pred 72), z +2.5, bearing off 36° | →11.23 東北 900+: 632 km (pred 215), z +2.2, bearing off 29°	
+11.22	Gandava (Kandabil), Kachhi	Mirchandani 1967, 1976	2	2.65	36	2	2.65	36	←11.21 東北 300+: 369 km (pred 72), z +3.3, bearing off 58° | →11.23 東北 900+: 570 km (pred 215), z +2.0, bearing off 14°	
+11.23	Duki (Loralai)	Mirchandani 1967	1	1.61	48	1	1.61	48	←11.22 東北 900+: 475 km (pred 215), z +1.6, bearing off 48°	
 11.23	Vaneh on the middle Gomal	Vivien 1858	1	2.36	37	1	2.36	37	←11.22 東北 900+: 687 km (pred 215), z +2.4, bearing off 37°	approx: middle Gomal valley
 11.23	Bannu	Mizutani	1	2.69	33	1	2.69	33	←11.22 東北 900+: 810 km (pred 215), z +2.7, bearing off 33°	from data/coords.tsv
 12.01	Ghazni	Vivien 1858	1	0.14	34	0			→12.02 北 500+: 128 km (pred 120), z +0.1, bearing off 34° [neighbour imprecise]	

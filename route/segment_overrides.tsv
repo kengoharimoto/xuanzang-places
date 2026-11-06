@@ -5,3 +5,4 @@ id	action	legs	from_id	reason
 11.07	exclude			all three texts read 三日 (three days); 三百餘里 is only the Song/Yuan/Ming reading, which Cunningham reread as 千三百 (variants_08-11)
 11.11	set	北 1800+	11.08	T2087 has 北 1800+ from Valabhī; the 東北 1800 is the Life's leg from Surāṣṭra (variants_08-11)
 11.21	set	北 700+	11.18	T2087 has 北 700+; the 東北 700+ is the Life's leg from Laṅgala (variants_08-11)
+11.15	set	北 1900+	11.11	T2087 starts the leg after 從此還至瞿折羅國 (back to Gurjara), and T2088 has 從瞿折羅北野…二千里許; the 1900 li run from Gurjara, not Maheśvarapura (variants_08-11)

@@ -13,6 +13,7 @@ Two checks on the identifications, using only the texts:
 | `model.py` → `li_calibration.txt`, `segment_tests.tsv` | Calibrates the li on agreed places, then tests every leg against Mizutani's points (`data/coords.tsv`) and flags distance and bearing misfits. |
 | `candidates.tsv` | Coordinates for 231 rival sites and Mizutani's own, for 155 places. The coordinates are approximate: obscure villages are placed from the proposer's own distances, and `note` says so. |
 | `candidates.py` → `candidate_scores.tsv` | Scores each candidate against its incoming and outgoing legs. |
+| `chains.py` → `chain_scores.tsv` | Scores whole alternative routes, each leg measured between one scheme's own sites (§5). |
 | `variants_*.tsv` | Each leg in T2087, T2088 and T2053, plus Mizutani's variant notes. Quotes are verbatim and checked by `check_variants.py`. Instructions are in `VARIANTS_INSTRUCTIONS.md`. |
 
 ## 1. How long was Xuanzang's li?
@@ -112,3 +113,36 @@ clearly better than Mizutani's site. Most of these rest on one or two legs.
 **Conclusion.** The route test is a useful filter. It confirms Malot, Mahaban and Murti, and marks places whose
 figures cannot fit any proposed site. It cannot overrule an inscription or an excavation, and it is weak wherever a
 neighbour's position is only approximate.
+
+## 5. Whole routes: Sindh and Baluchistan (juan 11)
+
+`candidates.py` scores one site at a time against Mizutani's neighbours. That penalises a scheme whose identifications
+depend on each other. `chains.py` therefore scores whole routes. It covers the eight legs from Gurjara through Sindhu,
+Multan, Parvata, Atyanabakela, Laṅgala, Pītaśilā and Avaṇḍa to Varṇa; Bhinmal, Multan and Harappa are held fixed.
+
+The leg into Sindhu now starts at Gurjara (`segment_overrides.tsv`). T2087 returns to Gurjara first (從此還至瞿折羅國),
+and T2088 has 從瞿折羅北野…二千里許.
+
+| Scheme | mean \|z\| | worst \|z\| | mean bearing error | legs with \|z\| > 1.5 |
+|---|---|---|---|---|
+| Mirchandani 1967 (Mithankot, Gondakahar, Kasarkand, Khuzdar, Gandāva, Duki) | 0.38 | 1.11 | 18° | 0 |
+| Mizutani, with Kasarkand for Laṅgala | 0.60 | 2.69 | 32° | 1 |
+| Mizutani (Alor, Karachi, Lākoriān, Hyderabad, Brahmanabad, Bannu) | 0.62 | 2.69 | 41° | 1 |
+| Lambrick 1964 (Banbhore, Sehwan, Badah; Mizutani elsewhere) | 0.66 | 2.32 | 36° | 1 |
+| Cunningham's Kotesar, with Mizutani | 0.66 | 2.69 | 35° | 1 |
+
+Mirchandani's route fits the stated li and bearings best. That holds without his emendation of 300 li to 500: the
+unemended Pītaśilā–Avaṇḍa leg is z +1.1.
+
+The study's route breaks at Avaṇḍa–Varṇa: Brahmanabad to Bannu is 810 km against about 215 predicted. Its legs into
+Sindhu and into Pītaśilā are also 48° and 66° off the stated bearing.
+
+Laṅgala is the clearest single case. Kasarkand lies due west of Karachi or Bela at the right distance. Lākoriān is 83°
+off the bearing.
+
+Two caveats:
+- **Circularity.** The fit is partly circular: Mirchandani chose his sites with these distances in hand. Mizutani's
+  choices rest on names and on the Arab geography.
+- **The text.** Atyanabakela 臨信度河，鄰大海濱 is the main objection to Las Bela. Mirchandani reads it of the country
+  ("bounded … on the east by the Indus"), but Las Bela is bounded by the Hab, not the Indus.
+

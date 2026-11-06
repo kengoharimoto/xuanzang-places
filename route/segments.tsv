@@ -350,7 +350,7 @@ id	name_zh	level	parent	from_text	from_id	legs	li_lo	li_hi	bearing	parsed_from	t
 11.12	鄔闍衍那國	country		瞿折羅國	11.11	東南 2800+	2800	2800	東南	route	行	visited	agreed	從此東南。行二千八百餘里。至m39570闍衍那國
 11.13	擲枳陀國	country		鄔闍衍那國	11.12	東北 1000+	1000	1000	東北	route	行	visited	disputed	從此東北。行千餘里。至擲枳陀國
 11.14	摩醯濕伐羅補羅國	country		擲枳陀國	11.13	北 900+	900	900	北	t_route	行	visited	disputed	從此北行九百餘里。至摩醯濕伐羅補羅國
-11.15	信度國	country		摩醯濕伐羅補羅國	11.14	北 1900+	1900	1900	北	route	行	visited	agreed	從此還至瞿折羅國。復北行荒野險磧。經千九百餘里。渡信度大河。至信度國
+11.15	信度國	country		摩醯濕伐羅補羅國	11.11	北 1900+	1900	1900	北	override: T2087 starts the leg after 從此還至瞿折羅國 (back to Gurjara), and T2088 has 從瞿折羅北野…二千里許; the 1900 li run from Gurjara, not Maheśvarapura (variants_08-11)	行	visited	agreed	從此還至瞿折羅國。復北行荒野險磧。經千九百餘里。渡信度大河。至信度國
 11.16	茂羅三部盧國	country		信度國	11.15	東 900+	900	900	東	t_route	行	visited	agreed	從此東行九百餘里。渡信度河。東岸至茂羅三部盧國
 11.17	鉢伐多國	country		茂羅三部盧國	11.16	東北 700+	700	700	東北	route	行	visited	disputed	從此東北。行七百餘里。至鉢伐多國
 11.18	阿點婆翅羅國	country		信度國	11.15	西南 1500-1600	1500	1600	西南	route	行	visited	agreed	從信度國西南。行千五六百里。至阿點婆翅羅國

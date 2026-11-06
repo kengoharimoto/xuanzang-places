@@ -76,6 +76,9 @@ check.
 - ***Epigraphia Indica*** vols. 1–36 and **CII** vols. 1, 2.1, 2.2, 3 (in Bhandarkar's revised edition), 5 and 6.
   These are the user's own copies, from their text extracts.
 - **Gazetteers.** The 557 volumes of the gazetteer-vedanta and yoga-gazetteers studies.
+- **Baluchistan District Gazetteers** (1906–08) and the *Imperial Gazetteer* Baluchistan volume (1908). These are
+  Internet Archive OCR, in `data/ref/baluch/` (gitignored). The identifiers are listed in
+  `../yoga-gazetteers/regions/data/selection.tsv` (BAL*). They are coded as B001–B055 in `data/coded/gaz_batch10.tsv`.
 - **K. Harimoto's notes** (`data/Archive/`). Earlier working notes:
   - a country-by-country extraction of what the text says about non-Buddhists, with letter codes;
   - notes on Songyun's 善特山, on Faxian's 波羅越 against Bhramaragiri, on Mahārāṣṭra and on Pāṇini;
@@ -170,9 +173,15 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
   Skandar (Umā-Maheśvara). Aruṇa is the Sūrya temple of Khair Khana. Both are alternatives, long for the text's li.
 - **Laṅgala's capital** (11.19). 窣菟黎濕伐羅 = Sthūleśvara by name. Mirchandani (1969) proposed it from the Devī
   Bhāgavata alone and placed it at Kasarkand; the Skandapurāṇa puts that liṅga at the Indus mouth, so the site is open.
-- **Sindh and Baluchistan** (11.15–11.23). Mirchandani's Baluchistan reading (1967) is recorded as a coherent
-  alternative route: Sindhu in the Derajat, Atyanabakela = Las Bela, Pītaśilā = Khuzdar, Avaṇḍa = Kachhi/Gandāva,
-  Varṇa near Duki. It rests on the Chachnāma and needs one emended distance.
+- **Sindh and Baluchistan** (11.15–11.23). Mirchandani's Baluchistan route of 1967 has these sites: Sindhu in the
+  Derajat, Atyanabakela = Las Bela, Laṅgala = Makran with Kasarkand, Pītaśilā = Khuzdar, Avaṇḍa = Kachhi/Gandāva and
+  Varṇa near Duki.
+  - **Route test:** it fits Xuanzang's distances and bearings better as a whole than Mizutani's (mean |z| 0.38 against
+    0.62; `route/README.md` §5).
+  - **Baluchistan District Gazetteers** (1906–08): they support Kachhi with Kandabil = Gandāva, tributary to Sind
+    c. 635, and Buddhist sealings of the 8th–9th century.
+  - **Proposed changes:** Laṅgala's capital moves west (Lākoriān weakened), and Kachhi becomes an equal alternative for
+    Avaṇḍa. Atyanabakela stays in lower Sindh because of 臨信度河.
 - **Parvata** (11.17). Bakker (2020) links it with Toramāṇa's Parvatikā near Akhnūr/Sialkot; the distance from Multan
   is too short for that.
 - **Atyanabakela's capital** (11.18). Banbhore (Debal) is added to Karachi and Koṭeśvara.
