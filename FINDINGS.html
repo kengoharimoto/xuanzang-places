@@ -1,0 +1,183 @@
+<title>Locating Xuanzang's Places</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400&family=Noto+Serif+TC:wght@400;600&family=IBM+Plex+Sans:wght@400;600&display=swap">
+<style>
+/* Layout: one reading column (~70ch) like a report; tables and two small charts set off as figures. */
+:root{
+  --bg:#f6f4ef; --surface:#fffdf8; --fg:#1f2329; --muted:#5d6570; --rule:#d9d6cc;
+  --lapis:#27477d; --saffron:#a86a1c;
+  --secure:#2f7a5f; --probable:#4f7fb0; --open:#c0662d; --text:#a59f92; --none:#d3cfc4;
+  --serif:"Crimson Pro","Noto Serif TC",Georgia,serif;
+  --cjk:"Noto Serif TC","Songti TC",serif;
+  --sans:"IBM Plex Sans","Segoe UI",system-ui,sans-serif;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#16191e; --surface:#1d2128; --fg:#e7e4dc; --muted:#a3aab4; --rule:#323843;
+  --lapis:#9fb6e3; --saffron:#e0a457;
+  --secure:#6fbf9a; --probable:#86aee0; --open:#e3925a; --text:#7d786d; --none:#3a3f48; color-scheme:dark }}
+:root[data-theme="dark"]{
+  --bg:#16191e; --surface:#1d2128; --fg:#e7e4dc; --muted:#a3aab4; --rule:#323843;
+  --lapis:#9fb6e3; --saffron:#e0a457;
+  --secure:#6fbf9a; --probable:#86aee0; --open:#e3925a; --text:#7d786d; --none:#3a3f48; color-scheme:dark }
+body{background:var(--bg);color:var(--fg);font:18px/1.6 var(--serif);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+main{max-width:780px;margin:0 auto;padding-block:48px 72px;display:flex;flex-direction:column;gap:44px}
+header{display:flex;flex-direction:column;gap:12px}
+.eyebrow,th,.label,figcaption,.small,.legend,.stat b{font-family:var(--sans)}
+.eyebrow{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+h1{font-size:clamp(34px,6vw,48px);line-height:1.08;margin:0;font-weight:600;text-wrap:balance}
+h2{font-size:26px;line-height:1.2;margin:0;font-weight:600;text-wrap:balance}
+h3{font-size:19px;margin:0;font-weight:600}
+p{margin:0} .lede{font-size:21px}
+section{display:flex;flex-direction:column;gap:14px}
+a{color:var(--lapis)} a:focus-visible{outline:2px solid var(--saffron);outline-offset:2px}
+.zh{font-family:var(--cjk)}
+ul.list{margin:0;padding-left:1.2em;display:flex;flex-direction:column;gap:6px}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.stat{background:var(--surface);border:1px solid var(--rule);padding:12px 14px;display:flex;flex-direction:column;gap:2px;min-width:0}
+.stat b{font-size:28px;font-weight:600;font-variant-numeric:tabular-nums;color:var(--lapis)}
+.stat span{font-family:var(--sans);font-size:13px;color:var(--muted)}
+figure{margin:0;background:var(--surface);border:1px solid var(--rule);padding:16px 18px 12px;display:flex;flex-direction:column;gap:12px}
+figcaption{font-size:13.5px;line-height:1.5;color:var(--muted)}
+.bar{display:flex;height:28px;border-radius:2px;overflow:hidden}
+.bar span{display:block;height:100%}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:13px}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.legend i{width:12px;height:12px;border-radius:2px;display:inline-block}
+.tablewrap{overflow-x:auto;border:1px solid var(--rule);background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:15.5px;min-width:580px}
+th,td{text-align:left;padding:8px 12px;border-bottom:1px solid var(--rule);vertical-align:top}
+th{font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);font-weight:600;background:var(--bg)}
+tr:last-child td{border-bottom:0}
+td.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.pill{display:inline-block;font-family:var(--sans);font-size:11.5px;font-weight:600;padding:1px 7px;border-radius:3px;white-space:nowrap;color:var(--bg)}
+.p-secure{background:var(--secure)} .p-probable{background:var(--probable)} .p-open{background:var(--open)}
+svg text{font-family:var(--sans);font-size:12px;fill:var(--fg)}
+svg .muted{fill:var(--muted)}
+.small{font-size:14px;color:var(--muted)}
+footer{font-family:var(--sans);font-size:13.5px;color:var(--muted);border-top:1px solid var(--rule);padding-top:16px;display:flex;flex-direction:column;gap:6px}
+code{font-size:.85em}
+@media (max-width:640px){ body{font-size:17px} .stats{grid-template-columns:repeat(2,1fr)} }
+</style>
+
+<main>
+<header>
+  <div class="eyebrow">Xuanzang, <i>Da Tang Xiyu ji</i> <span class="zh">大唐西域記</span> (646) · a study of its places</div>
+  <h1>Locating Xuanzang's Places</h1>
+  <p class="lede">Every country and site in Xuanzang's record of the Western Regions, tested against the colonial survey, excavation reports, inscriptions, district gazetteers, the pilgrim's biography, early editions of the text, and his own distances and bearings. The study starts from Mizutani Shinjō's annotated translation (1971) and reports where the evidence keeps, strengthens or moves his identifications.</p>
+  <p class="small">Interactive map of every place: <a href="https://claude.ai/artifact/WUH4GFEULK5rZ8oaXw8PpH">Xuanzang's Places</a>. Full account and data: <code>research/xuanzang-places/README.md</code>.</p>
+</header>
+
+<section>
+  <h2>At a glance</h2>
+  <div class="stats">
+    <div class="stat"><b>480</b><span>places: Mizutani's 419, plus 61 added from the sources</span></div>
+    <div class="stat"><b>442</b><span>place notes weighing all the evidence</span></div>
+    <div class="stat"><b>88</b><span>of Mizutani's identifications strengthened, 49 with high confidence</span></div>
+    <div class="stat"><b>49</b><span>places where a different site is better or equally supported</span></div>
+  </div>
+  <figure>
+    <div class="bar" role="img" aria-label="Places by the study's confidence: secure 99, probable 177, open 97, placed from the text 56, without a point 51 (total 480).">
+      <span style="width:20.6%;background:var(--secure)"></span><span style="width:36.9%;background:var(--probable)"></span><span style="width:20.2%;background:var(--open)"></span><span style="width:11.7%;background:var(--text)"></span><span style="width:10.6%;background:var(--none)"></span>
+    </div>
+    <div class="legend">
+      <span><i style="background:var(--secure)"></i>Secure 99</span><span><i style="background:var(--probable)"></i>Probable 177</span><span><i style="background:var(--open)"></i>Open 97</span><span><i style="background:var(--text)"></i>Placed from the text 56</span><span><i style="background:var(--none)"></i>No point 51</span>
+    </div>
+    <figcaption>The study's confidence for each place, from the notes' assessments. "Secure" needs site evidence (an excavation, an inscription naming the place, a monument matching the description), or for a major country, river or pass an unbroken name and an unmistakable description. Agreement among the authorities alone counts as "probable". A quality check and an audit of all high ratings lowered 27 of them.</figcaption>
+  </figure>
+</section>
+
+<section>
+  <h2>Settled by inscriptions and seals</h2>
+  <p>For these places an inscription or sealing found on the site names the place Xuanzang describes.</p>
+  <ul class="list">
+    <li><b>Kuśinagara</b> at Kasia: the Haribala plate in the Nirvāṇa stūpa.</li>
+    <li><b>Śrāvastī</b> and the Jetavana: the Govindachandra plate and a Bodhisattva inscribed "in the Jetavana of Śrāvastī".</li>
+    <li><b>Kauśāmbī</b> at Kosam: the Kara, Meohar and pillar inscriptions, and the excavated Ghoṣitārāma.</li>
+    <li><b>Puṇḍravardhana</b> at Mahasthan: the inscription naming Pundranagara.</li>
+    <li><b>Nālandā</b>: the monastery's sealings and the Bālāditya inscription.</li>
+    <li><b>Taxila</b>: four inscriptions naming Takṣaśilā.</li>
+    <li><b>Karṇasuvarṇa</b>: the Raktamṛttikā monastery's own sealings at Rajbadidanga.</li>
+    <li><b>Srughna</b> at Sugh: a sealing reading "Sugha". <b>Ānandapura</b> at Vadnagar. <b>Kanishka's stūpa</b> at Shah-ji-ki-Dheri.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Where the study moves Mizutani</h2>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Place</th><th>Mizutani (1971)</th><th>The study now</th><th>Basis</th></tr></thead>
+    <tbody>
+      <tr><td>Kapilavastu <span class="zh">劫比羅伐窣堵</span></td><td>Tilaurakot</td><td>Piprahwa–Ganwaria <span class="pill p-probable">probable</span></td><td>Kushan sealings naming the Kapilavastu monks; Tilaurakot remains the rival for the city Xuanzang saw</td></tr>
+      <tr><td>Koṅgoda <span class="zh">恭御陀</span></td><td>Ganjam, capital Jaugada</td><td>Mahānadī to N Ganjam, capital on the Chilka coast <span class="pill p-probable">probable</span></td><td>Śailodbhava copper plates</td></tr>
+      <tr><td>Brahmapura <span class="zh">婆羅吸摩補羅</span></td><td>Srinagar (Garhwal)</td><td>Lakhanpur on the Ramganga, Kumaon <span class="pill p-probable">probable</span></td><td>The Talesvara plates, issued from a royal Brahmapura</td></tr>
+      <tr><td>Mālava <span class="zh">摩臘婆</span></td><td>leans to Malwa</td><td>central Gujarat, SE of the Mahī <span class="pill p-probable">probable</span></td><td>Maitraka grants (Mālavaka-āhāra); the route figures still conflict</td></tr>
+      <tr><td>Kukkuṭapāda <span class="zh">屈屈吒播陀</span></td><td>hill N of Kurkihār</td><td>Gurpa hill <span class="pill p-probable">probable</span></td><td>An inscription naming Gurupāda</td></tr>
+      <tr><td>Bhramaragiri <span class="zh">跋邏末羅耆釐</span></td><td>Nāgārjunakoṇḍa</td><td>Arang, SW of Sirpur <span class="pill p-open">open</span></td><td>The Bhaṃgara-pavata inscription; the text's bearing from Sirpur</td></tr>
+      <tr><td>Laṅgala <span class="zh">狼揭羅</span>, capital</td><td>Lākoriān</td><td>Sthūleśvara by name, site open <span class="pill p-open">open</span></td><td>The transcription; Lākoriān has only irrigation dams (Stein) and lies off the bearing</td></tr>
+      <tr><td>Avaṇḍa <span class="zh">阿軬荼</span></td><td>Middle Sindh</td><td>Middle Sindh or Kachhi (Gandāva) <span class="pill p-open">open</span></td><td>Mirchandani; Baluchistan gazetteers; Buddhist sealings at Tambu</td></tr>
+      <tr><td>Jāguḍa <span class="zh">漕矩吒</span></td><td>Zābulistān, capital Ghazni</td><td>core at Jaghuri; Ghazni weakened <span class="pill p-probable">probable</span></td><td>Foucher, from the Life's route</td></tr>
+      <tr><td>Vṛjisthāna <span class="zh">弗栗恃薩儻那</span></td><td>Koh-daman, capital Opian</td><td>Wardak and the upper Logar <span class="pill p-open">open</span></td><td>Foucher</td></tr>
+      <tr><td>Kanishka's monastery</td><td>possibly Gor Khattri</td><td>the mound beside Kanishka's stūpa <span class="pill p-secure">secure</span></td><td>Spooner's casket naming "the Vihāra of Kanishka"</td></tr>
+      <tr><td>Guṇamati's and Śīlabhadra's monasteries</td><td>no identification</td><td>Dharawat; Kauwa-dol <span class="pill p-secure">secure</span></td><td>Survey and Gupta seals</td></tr>
+    </tbody>
+  </table></div>
+  <p class="small">61 places that Mizutani's numbering skipped or merged were added from passages in the sources, among them Aśoka's "hell" at Pāṭaliputra (Agam Kuan) and Pūrṇavarman's copper Buddha at Nālandā.</p>
+</section>
+
+<section>
+  <h2>What Xuanzang's own figures show</h2>
+  <p>Every leg of the route with a distance and bearing was tested: single sites, whole routes as each authority reconstructs them, and the <i>Life</i>'s figures beside the <i>Xiyu ji</i>'s.</p>
+  <figure>
+    <svg viewBox="0 0 640 210" role="img" aria-label="Straight-line kilometres per li by region: Central Asia and Afghanistan about 0.29, North India 0.23, Gandhara–Kashmir and the Doab 0.16, hearsay distances 0.12." style="width:100%;height:auto">
+      <g transform="translate(250,20)">
+        <line x1="0" y1="0" x2="0" y2="160" stroke="var(--rule)"/>
+        <g>
+          <rect x="0" y="6" width="290" height="24" fill="var(--lapis)"/><text x="-10" y="23" text-anchor="end">Central Asia, Afghanistan</text><text x="298" y="23">0.29</text>
+          <rect x="0" y="46" width="230" height="24" fill="var(--lapis)"/><text x="-10" y="63" text-anchor="end">North India</text><text x="238" y="63">0.23</text>
+          <rect x="0" y="86" width="155" height="24" fill="var(--lapis)"/><text x="-10" y="103" text-anchor="end">Gandhāra–Kashmir, the Doab</text><text x="163" y="103">0.155</text>
+          <rect x="0" y="126" width="117" height="24" fill="var(--saffron)"/><text x="-10" y="143" text-anchor="end">Hearsay distances</text><text x="125" y="143">0.12</text>
+        </g>
+        <text x="0" y="182" class="muted">0</text><text x="300" y="182" class="muted" text-anchor="middle">0.30 km per li (straight line)</text>
+      </g>
+    </svg>
+    <figcaption>The li on the ground varies by region: longer in Central Asia, shorter in the Punjab hills, and inflated for hearsay. The overall median is 0.239 km per li in a straight line, about 0.29–0.32 km by road.</figcaption>
+  </figure>
+  <ul class="list">
+    <li><b>The Deccan figures are inflated.</b> South of the Mahānadī the stated li run two to four times too long, even between sites fixed by inscriptions at both ends: Andhra to Dhānakaṭaka is 1000 li for 85 km. The <i>Life</i>'s figures show the same. Cunningham's Deccan sites fit the figures better because he chose them to fit; the inscription-fixed sites should not be moved on route grounds.</li>
+    <li><b>Sindh and Baluchistan.</b> Mirchandani's route of 1967 (Las Bela, Khuzdar, Kachhi, Duki) fits the <i>Xiyu ji</i>'s figures best as a whole: mean |z| 0.38 and 18° of bearing error, against 0.62 and 41° for Mizutani's. On the <i>Life</i>'s different order the advantage shrinks to the bearings, and the <i>Life</i> puts Laṅgala nearer Las Bela than Persian Makran.</li>
+    <li><b>Kapilavastu.</b> The <i>Life</i>'s 800 li from Śrāvastī and 500 li on to Rāmagrāma pull Kapilavastu north-west of both Tilaurakot and Piprahwa.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>The text</h2>
+  <p>A scan of the Southern Song Sixi edition (1132; juans 1–8 survive) was read against the Taishō apparatus. Every Song reading it reaches is as the apparatus records, and the route sentences show no unrecorded variant.</p>
+  <ul class="list">
+    <li><b>Vīrasana</b> (<span class="zh">毘羅刪拏</span>): the Song print and the <i>Life</i> read "south, cross the Ganges, south-west", the Korean base text "east, then south". Bilsar lies due south of Ahicchatra, so the Song reading fits.</li>
+    <li><b>Kanyākubja</b>: here the Song and the <i>Life</i> read north-west and the Korean south-east; Kanauj lies east-south-east of Sankisa, so the Korean is right.</li>
+    <li><b>Sāṃkāśya's stairs</b>: the monastery is east of the city in every witness except the Korean edition.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Still open</h2>
+  <ul class="list">
+    <li>The capitals of Siṃhapura, Kaliṅga, Koṅkaṇapura and Jejākabhukti.</li>
+    <li>Śvetavat near Kapiśa: Tatarānzar, Tapa Skandar or Foucher's Paitāvā mounds.</li>
+    <li>Laṅgala's capital and Avaṇḍa: the Sindh–Baluchistan question.</li>
+    <li>Bhramaragiri: Arang or Nāgārjunakoṇḍa.</li>
+    <li>51 minor sites that the text gives no figures to place; 56 more placed only approximately from the text.</li>
+  </ul>
+  <p class="small">Not yet used: 季羨林 et al., <i>Da Tang Xiyu ji jiaozhu</i> <span class="zh">大唐西域記校注</span> (Beijing: Zhonghua, 1985), and Ball's <i>Archaeological Gazetteer of Afghanistan</i> (1982).</p>
+</section>
+
+<section>
+  <h2>Sources and method</h2>
+  <p>Mizutani's translation and notes; the identifications of Julien, Vivien de Saint-Martin, Cunningham, Beal, Watters, Majumdar and Dey; the Archaeological Survey's reports (1862–87), Annual Reports (1903–37) and <i>Indian Archaeology – A Review</i> (1953–2001); <i>Epigraphia Indica</i> and the <i>Corpus Inscriptionum Indicarum</i>; 557 British Indian district gazetteers and the Baluchistan gazetteers; Stein's survey memoirs; Foucher's <i>La vieille route de l'Inde</i>; Kuwayama, Mirchandani, Lambrick and the <i>Hunnic Peoples</i> sourcebook; the CBETA text of the <i>Xiyu ji</i> and the <i>Life</i>, with checked translations of every passage.</p>
+  <p>Language-model agents coded the sources under written instructions; every quotation was checked against the source text by script, and samples of the notes were reread. All assessments are provisional and rest on the coded quotes.</p>
+</section>
+
+<footer>
+  <span>Repository: <code>research/xuanzang-places/</code> · notes in <code>data/notes/</code> · route tests in <code>route/README.md</code> · open items in <code>data/FOLLOWUPS.md</code>.</span>
+</footer>
+</main>

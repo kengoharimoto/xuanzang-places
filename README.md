@@ -17,11 +17,11 @@ Five kinds of evidence were set against him:
 
 **What they show.** 442 of the 480 places have a note (Mizutani's 419 and 61 added ones). The 38 without a note are
 minor sites that have no point either. Against Mizutani's identifications, the evidence:
-- supports his identification for 83 places, 50 of them with high confidence, many with an inscription or seal
+- supports his identification for 88 places, 49 of them with high confidence, many with an inscription or seal
   naming the place;
-- weakens it for 8;
-- supports a different site for 44;
-- offers a candidate no standard authority records for 10.
+- weakens it for 10;
+- supports a different site for 49;
+- offers a candidate no standard authority records for 11.
 
 On the map the study's confidence comes out as 99 places secure, 177 probable and 97 open. These are the ratings
 after a quality check of 30 notes and an audit of every "high" rating without site evidence (both in `data/notes/`).
@@ -50,7 +50,8 @@ Another 56 minor sites are placed approximately from Xuanzang's own bearing and 
 - **Mālava** (11.05): central Gujarat.
 - **Kukkuṭapāda** (09.01.03): Gurpa, the "Gurupāda" of an inscription.
 
-Neither the survey nor the gazetteers reach juan 1 or 12 (Central Asia and Afghanistan).
+The survey reports and the gazetteers do not reach juans 1 and 12 (Central Asia and Afghanistan). For the Afghan
+stretch Foucher's *La vieille route* (1942–47) now fills the gap.
 
 **Every place now also has:**
 - its passage of the Chinese text, with the text's own interlinear notes;
@@ -158,7 +159,9 @@ check.
 
    Then comes a short assessment. The matching `updates_*.tsv` gives the proposed identification, the kind of change
    and a confidence.
-9. **Joined table** (`data/places.tsv`, `scripts/build_places.py`) and **map**
+9. **Findings page** (`FINDINGS.html`, https://claude.ai/artifact/2H5yngbhmdj9pKEp5imP7e): a short readable summary
+   of what the study found.
+10. **Joined table** (`data/places.tsv`, `scripts/build_places.py`) and **map**
    (`map/xuanzang_places.html`, https://claude.ai/artifact/WUH4GFEULK5rZ8oaXw8PpH).
    - **The map shows the study's view** (`data/study_view.tsv`, `scripts/build_study_view.py`). Each place sits at the
      study's current site: its own proposed site where it settles on one (`data/coords_study.tsv`), the sources'
