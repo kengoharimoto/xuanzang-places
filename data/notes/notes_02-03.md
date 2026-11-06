@@ -26,6 +26,17 @@ and earlier found Mount Banj for the body-offering (1904–05). Hargreaves exami
 Udabhāṇḍa (1923–24). Swat (the Tirāt footprint stone, Mount Ilam; Stein 1925–26) and Kāpiśī also appear, but there
 they confirm what Mizutani already holds. Charsadda has no Annual Report passage in this range.
 
+The inscriptions (Epigraphia Indica; Konow's Kharoshthī volume, CII 2.1, 1929) add names on the ground. At Taxila
+four records found on the site name Takṣaśilā (the Patika plate, the Sihila vase, the Mahal ladles, the Dharmarājikā
+scroll). A ladle from Bedadi near Mansehra names "the Uraśa kingdom", putting Uraśā in Hazara. At Tirath in upper
+Swat the footprint stone is inscribed "the footprints of the Buddha Śākyamuni". A well-gift "in the Vajra-stūpa",
+brought in as from Mount Banj, gives the body-offering site a dated Buddhist foundation. Konow re-edits the Kaniṣka
+casket, and Sahni publishes an 8th-century Śāradā slab from Hund. The Lakkha Mandal praśasti (EI 1) names a
+Siṃhapura kingdom but was found far to the east. Hidda (Hadda, 02.03.05), Peshawar (02.04.01a), Darel (03.01.16) and
+the Shankardar stūpa (03.01.10, through the Kurram casket's "Ucharsana", a guess on an object from elsewhere)
+appear too, but only repeat identifications that Mizutani already holds as agreed, so they get no note. *Indian
+Archaeology – A Review* (1953–2001) covers India only and has nothing on juan 2–3.
+
 ---
 
 ### 02.02a 濫波國大都城 — capital unknown; Mizutani's only candidate lies outside Lampāka
@@ -51,6 +62,9 @@ gives no view of his own.
 
 **Gazetteers.** Two volumes (Himalayan Districts II 1884; unidentified 1874) mention Nagarahāra only in passing, as
 subject to Kapiśa. They add nothing.
+
+**Inscriptions.** Thomas (EI 9, p. 146) takes the "Nagara" of the Mathura lion capital to be probably Nagarahāra,
+referring to Watters. That concerns the name only, not the site.
 
 **Assessment.** Every authority agrees. Mizutani's "uncertain" reflects his hedged phrasing rather than any
 competing site.
@@ -118,8 +132,8 @@ and Spooner suggest, but that is an inference, and nothing of the tree remains.
 ### 02.04.03 迦膩色迦大窣堵波 — Shāh-ji-ki-Dheri, settled by Kaniṣka's inscribed casket (Spooner 1908–09)
 
 **Identifications.** Mizutani: Shāh-ji-ki-Dheri, c. 1 km SE of Peshawar, excavated by Spooner in 1908–09 (agreed).
-Vivien (p. 308): under a lieue SE of Peshawar, no site named. Cunningham (p. 92): close S of the holy tree; "No
-remains of this great stupa now exist". Majumdar (p. 678): Shah-ji-ki-Dheri, where the relic casket was found.
+Vivien (p. 308): under a lieue SE of Peshawar, no site named. Cunningham (p. 92): "No remains of this great stupa now
+exist". Majumdar (p. 678): Shah-ji-ki-Dheri, where the relic casket was found.
 
 **Survey.** Cunningham (ASR II, 1863–64, p. 89) puts the stūpa "close to the holy tree on its south side" and
 reports only hearsay that no remains exist. He did not look for it.
@@ -132,6 +146,10 @@ figure and name (AR 1909–10). Hargreaves (AR 1910–11) cleared the cruciform 
 adds that the Sappers and Miners dug here in 1875 and found Buddhist remains burnt by fire, and that Cunningham had
 apparently moved to this mound without publishing it. Songyun's "7 li E" against Xuanzang's "8–9 li SE" is put down
 to different starting points.
+
+**Inscriptions.** Konow re-reads the casket (CII 2.1, pp. 135–138): "In the year 1 of (the maharaja) Kanishka …
+Kanishka's Vihara, in Mahasena's Samgharama, in the acceptance of the Sarvastivadin teachers", and holds the site
+"proved to be correct through Dr. Spooner's excavations".
 
 **Gazetteers.** Peshawar 1883 and 1899 echo ASR II: no remains. A footnote in the Thana volume of the Bombay
 Gazetteer (1882) says "This is perhaps the great Mânikyâla tope", without argument.
@@ -181,12 +199,17 @@ Hissar mound at Charsadda (an irregular triangle, c. 485,000 sq ft at the top) a
 follow the pilgrim's bearings, concluding that "further research only goes to confirm it". He also sought the stūpa
 E of the city and the monastery N of it (see the final section).
 
+**Inscriptions.** Pargiter (EI 12, p. 302) and Konow (CII 2.1, pp. 117–118), editing the Hashtnagar pedestal of the
+year 384, put the eight Hashtnagar villages (Prang, Charsadda, Rajar …) "on the site of the ancient town
+Pushkalavati". Konow cites Marshall and Vogel's excavation of 1903 at the Palatu Dheri mound near Rajar: a Buddhist
+monument violently destroyed, with late Kushan coins. No record names the town.
+
 **Gazetteers.** Peshawar 1883 and 1899 echo Cunningham ("twin towns Charsada and Prang"), with the bearing and
 distance from Peshawar and Ptolemy's Peukelaotis.
 
-**Assessment.** Garrick's survey of the Bala Hissar adds field evidence to Cunningham's reckoning, and Majumdar
-reports the site confirmed by excavation. Vivien's Nisatta, made before the survey, no longer competes. Mizutani is
-strengthened.
+**Assessment.** Garrick's survey adds field evidence to Cunningham's reckoning, and the Palatu Dheri excavation
+(behind Majumdar's "certain after excavation") shows Buddhist remains among the villages. Vivien's Nisatta, made
+before the survey, no longer competes. Mizutani is strengthened.
 
 ### 02.04.12 化鬼子母窣堵波 — the Hārītī stūpa: Tarangzai by distance only (Cunningham)
 
@@ -325,9 +348,8 @@ no shrine has been found on the hill.
 Vivien (p. 311), Cunningham (p. 61; = Embolima), Beal (p. 114) and Majumdar (p. 677; the Udabhāṇḍapura of the
 *Rājataraṅgiṇī*, Alberuni's Waihand) agree. Watters (p. 223) doubts Ohind and gives no site of his own.
 
-**Survey.** Cunningham (ASR II, 1863–64, pp. 92–95) traces the name through Abu Rihan, Rashid-ud-din and Ferishta,
-notes that the Indus has carried away half the town, and reports gold-washers' finds of bronze ornaments and
-Indo-Scythian and Brahman Kabul coins.
+**Survey.** Cunningham (ASR II, 1863–64, pp. 92–95) traces the name through the Arabic and Persian writers, notes
+that the Indus has carried away half the town, and reports gold-washers' finds of coins.
 
 **Excavations.** Hargreaves inspected "Hund, the ancient Udabhanda, the Ohind of the numismatists, the eastern
 terminus of the old road through Gandhara from the Khyber to the Indus" on 13 January 1924 (AR 1923–24, pp. 68–69).
@@ -336,12 +358,18 @@ monuments of the 3rd–5th century, and probably a stūpa base; he was given a 1
 Śāradā. "The 20 li which Hiuen-tsang attributes to the circuit of this town seems in no way exaggerated as the Indus
 has undoubtedly swept away" its southern part.
 
+**Inscriptions.** Daya Ram Sahni (EI 22, pp. 97–98) edits an 8th-century Śāradā slab found at Hund by Captain E. H.
+Cobb, recording a temple built by the Mahārājñī Kāmeśvarīdevī. He calls Hund "the modern name of Udabhanda", the
+Shahi capital, and reports "extensive mounds" round the walled village, with Indo-Greek, Kushan, Shahi and Kashmir
+coins "in large numbers"; "No excavations have been carried out". Sircar (EI 35): "Udabhanda … (modern Und near
+Attock)". No record is said to name the town.
+
 **Gazetteers.** Himalayan Districts II (1884) and the 1874 volume repeat Cunningham ("Embolima or Ohind … the
 Utakhanda of the Chinese Buddhist pilgrims") and add nothing.
 
-**Assessment.** The name runs unbroken from Udabhāṇḍa to Hund, and the remains show a large town of the right period
-whose extent fits the 20 li circuit. Nothing found names it, but Watters' doubt has no evidence behind it. Mizutani
-is strengthened.
+**Assessment.** The name runs unbroken from Udabhāṇḍa to Hund, and the remains and coins show a large town in use
+from the Indo-Greeks to the Shahis whose extent fits the 20 li circuit. Nothing found names it, but Watters' doubt
+has no evidence behind it. Mizutani is strengthened.
 
 ### 03.01.01a 瞢揭釐城 — Mingora (Italian mission) vs Manglaor (Cunningham, Stein)
 
@@ -375,10 +403,19 @@ Kalam, and that Petech thought the legend moved upstream over time. Vivien (p. 3
 (p. 229, tentative) and Majumdar (p. 678–679) both follow Deane: Kalam, at the junction of the Utrot and Laspur
 streams.
 
+**Inscriptions.** Konow (CII 2.1, pp. 8–9) describes the find. Deane, who saw that the locality "must be looked for
+in the neighbourhood of the present head of the Swat river near Kalam", found at Tirath, on the border of Swat
+Kohistan, a boulder with two large footprints and an eleven-letter Kharoṣṭhī inscription, *Bodhasa Śakamunisa
+padani* ("the footprints of the Buddha Śākyamuni"), of about the mid-1st century BC. Konow: "We are able to identify
+these footprints with absolute certainty". The text puts the footprint stone (03.01.04) "more than thirty li"
+south-west of the spring.
+
 **Gazetteers.** None.
 
-**Assessment.** Everyone agrees on the head of the Swat, and Deane's Kalam is the only named spot. Mizutani in
-effect accepts Kalam as the river's source while doubting that the 250–260 li reach it. The gazetteers add nothing.
+**Assessment.** The inscribed stone fixes the reference point. Apalāla's spring should lie some 30 li upstream
+(north-east) of Tirath, in the direction of Kalam, where Deane and those who follow him put it. These files do not
+give the Tirath–Kalam distance, so whether the spring is at Kalam itself or short of it is open. Mizutani doubts
+that the 250–260 li from the capital reach Kalam. The Tirath fix supports the upper Swat towards Kalam as the area.
 
 ### 03.01.06 摩訶伐那伽藍 (mahāvana) — Shināsi stūpa at Kukrai (Mizuno), Mahaban (Cunningham) or Pinjkotai (Stein)
 
@@ -469,7 +506,7 @@ between the Chitral river and the Tal valley, 450 li NE of Manglavor. Beal and W
 **Assessment.** Deane's lake matches the dragon-lake story. Vivien's Laspur is a map reckoning. The gazetteers do
 not touch the question, so Mizutani stands, with low confidence.
 
-### 03.03 呾叉始羅國 (takṣaśilā) — Shah-dheri/Sarai-kala, confirmed by three inscriptions naming Takṣaśilā; Vivien's Hasan Abdal is superseded
+### 03.03 呾叉始羅國 (takṣaśilā) — Shah-dheri/Sarai-kala, confirmed by four inscriptions found on the site naming Takṣaśilā; Vivien's Hasan Abdal is superseded
 
 **Identifications.** Mizutani: Taxila, 21 miles NW of Rawalpindi (Sarai-kala), after Marshall (agreed). Cunningham
 (p. 128, 138): "ruins of the ancient city near Shah-dheri". Watters (p. 241), Majumdar (p. 681) and Dey agree.
@@ -481,19 +518,22 @@ Hasan Abdal, and supports it with the pilgrims' three marches from the Indus (pp
 66–68) adds the copper plate of the satrap "Liako Kujuluka", found at Thupkia in Sirsukh, which names "the city of
 Takhasila".
 
-**Excavations.** Marshall began trial digs at the Chir Tope, Sirkap, Jhandiala and the Bir mound in 1912–13 (AR, p.
-16). At the Chir Tope, renamed the Dharmarājikā, a silver scroll of the year 136 of Azes, in a gold casket under
-chapel G5, records relics enshrined "at the Dharmarājikā Stūpa in the Tanuva district of Takṣaśilā" (AR 1913–14, pp.
-12–13). From the "Mahal" in Sirkap came a ladle inscribed in Kharoṣṭhī "… Tachhasilae Kushaviana parigrahe" (AR
-1923–24).
+**Excavations.** At the Chir Tope (the Dharmarājikā) Marshall found a silver scroll of the year 136 of Azes recording
+relics enshrined "at the Dharmarājikā Stūpa in the Tanuva district of Takṣaśilā" (AR 1913–14, pp. 12–13). From the
+"Mahal" in Sirkap came a ladle inscribed "… Tachhasilae Kushaviana parigrahe" (AR 1923–24).
 
-**Gazetteers.** Rawalpindi 1883 and 1895 echo ASR II and add the plate: the identification "is rendered certain by
-the measurements recorded by the Chinese pilgrims … and by a copper plate found by Mr. Roberts among the ruins".
-Punjab 1919 mentions Taxila only as a feudatory of Kashmir.
+**Inscriptions.** Bühler (EI 4, pp. 54–55) and Konow (CII 2.1, pp. 23–29) edit the plate, Patika's of the year 78;
+Konow's reading is "absolutely certain": "In the town of Takshaśila, to the north, the eastern region, Kshema by
+name". Konow (p. 87) adds a vase found by Shahpur villagers in mound 13 near the Chir Tope ("this stupa was
+established … in Takshaśila") and a second Mahal ladle (excavations 1920–27). Hultzsch (CII 1, p. xxxviii) takes
+Aśoka's Takkhasilā for Shahdheri, after Cunningham.
 
-**Assessment.** Three inscriptions found on the site name Takṣaśilā: the Sirsukh plate, the Dharmarājikā scroll and
-the Sirkap ladle. They put Cunningham's and Mizutani's site beyond doubt. Vivien's Hasan Abdal, based on the
-Elāpattra spring (03.03.02), no longer competes.
+**Gazetteers.** Rawalpindi 1883 and 1895 echo ASR II and call the identification "rendered certain" by the
+pilgrims' measurements and the copper plate. Punjab 1919 adds nothing.
+
+**Assessment.** Four inscriptions found on the site, of the 1st century BC to 1st century AD, name Takṣaśilā: the
+Patika plate, the Sihila vase, the Mahal ladles and the Dharmarājikā scroll. They put Cunningham's and Mizutani's
+site beyond doubt. Vivien's Hasan Abdal, based on the Elāpattra spring (03.03.02), no longer competes.
 
 ### 03.03.01a 呾叉始羅國大都城 — Sirsukh (Marshall; Kushan walls excavated 1915–16) vs the Bir mound (Cunningham)
 
@@ -512,13 +552,17 @@ cleared the SE corner of Sirsukh: the fortifications "were constructed of the la
 the Kushan epoch", with round loopholed bastions, and a block of the 3rd–4th century stood in the middle of the
 city. He later put the head-gift stūpa at Bhallar, not at Cunningham's Jhandiala (03.03.04).
 
+**Inscriptions.** On the Patika plate (03.03), Bühler (EI 4, p. 54) equates Takhasila with Sirsukh, citing Cunningham,
+at odds with ASR V; Konow (CII 2.1, p. 26) puts the Saka city at Sirkap, with Kṣema to its NE. Both concern the 1st century
+BC or AD, not Xuanzang's city.
+
 **Gazetteers.** Rawalpindi 1883 and 1895 echo ASR II word for word: coins, lapis, and "probably the site of the
 inhabited part of the city in the time of Hwen Thsang".
 
 **Assessment.** The Bir mound rests on surface finds and on a circular argument with a head-gift stūpa that Marshall
-has since put elsewhere; the plate concerns the 1st century, not 630. The Annual Reports show Sirsukh to be the
-walled Kushan city, the latest of the three, still occupied in the 3rd–4th century. That supports Mizutani, though
-nothing here proves occupation in the 7th century.
+has since put elsewhere. The Annual Reports show Sirsukh to be the walled Kushan city, the latest of the three,
+still occupied in the 3rd–4th century. That supports Mizutani, though nothing here proves occupation in the 7th
+century.
 
 ### 03.03.03 四大寶藏窣堵波 — Baoti Pind: the stūpa Cunningham excavated, with the bearing corrected
 
@@ -572,22 +616,25 @@ Sirkap, beside the "Kunāla monastery". Yamamoto (1940) and others object that X
 Sirkap, so the bearing SE of the city fails. Beal gives no site.
 
 **Survey.** Cunningham first proposed the chief tope of Karmal (ASR II, 1863–64, pp. 149–150), due SE of the Hatial
-citadel, which "tallies … so exactly with the site of Kunala Stupa"; he dug it to the rock and found no deposit. In
-ASR XIV (1878–79) he proposed instead a stūpa terrace at the N foot of the Meri hill, ringed by c. 80 votive stūpas,
-admitting "the direction is east instead of south-east".
+citadel; he dug it to the rock and found no deposit. In ASR XIV (1878–79) he moved to a stūpa terrace at the N foot
+of the Meri hill, admitting "the direction is east instead of south-east".
 
-**Excavations.** Marshall (AR 1914–15, pp. 13–14) excavated "a stupa of imposing dimensions which occupies a
-commanding position on a plateau on the northern side of the Hatial ridge. This is the stupa which Hiuen Tsang
-describes as being more than 100 feet high". It has a three-tiered base 63 × 105 ft with a north stair and
-Corinthian pilasters, and a monastery beside it. The present stūpa, of c. the 3rd century, encloses a 1st-century
-memorial stūpa. No inscription was found, and the bearing is not discussed.
+**Excavations.** Marshall (AR 1914–15, pp. 13–14) excavated "a stupa of imposing dimensions … on a plateau on the
+northern side of the Hatial ridge. This is the stupa which Hiuen Tsang describes as being more than 100 feet high":
+a three-tiered base 63 × 105 ft, a monastery beside it, a 3rd-century stūpa enclosing a 1st-century one. No
+inscription was found, and the bearing is not discussed.
+
+**Inscriptions.** Konow (EI 14, p. 287), editing the silver scroll (03.03): "dhamaraia must denote the Chir stūpa
+itself, and this stūpa M. Boyer is inclined to identify with the Kunala stūpa". Boyer takes a *dharmarājikā* for a
+stūpa of Aśoka, who built the Kunāla stūpa; Konow allows relics of the Buddha instead and does not decide. The
+scroll does not mention Kunāla.
 
 **Gazetteers.** Rawalpindi 1883 and 1895 quote ASR II on Karmal; the topes had been "opened by the villagers".
 
-**Assessment.** The survey's two sites, both measured from the Bir mound, yielded nothing (Karmal) or need the
-bearing altered (Meri). Marshall's site has a large stūpa whose older core shows the spot was sacred early, fitting
-a monument over 100 ft high. But from Sirsukh, Mizutani's own capital, the Hathiāl ridge does not lie SE. Marshall's
-site is the best on offer, with low confidence.
+**Assessment.** The survey's two sites, measured from the Bir mound, yielded nothing (Karmal) or need the bearing
+altered (Meri). Marshall's site has a large stūpa with an older core, but from Sirsukh, Mizutani's own capital, the
+Hathiāl ridge does not lie SE. Boyer's Dharmarājikā, a third candidate, rests on a debated sense of the word, and
+nobody here tests its bearing from the city. Marshall's site remains the best on offer, with low confidence.
 
 ### 03.04 僧訶補羅國 (siṃhapura) — the Salt Range round Ketas; Cunningham wavered (Malot → Ketas → Malot), Stein returned to Ketas
 
@@ -597,21 +644,26 @@ agree. Vivien (p. 321, tentative): Sangohi near Jhelam town, rejected by Beal an
 refuses the identification and reports that Cunningham later abandoned it.
 
 **Survey.** Cunningham's view moved twice. In ASR II (1863–64, pp. 191–192) the bearing, distance and fish-tanks
-"should be Katas; but the whole description will not apply to Katas", and he chose Malot, "known to have been the
-capital of the Janjuhas at a very early period", putting the tanks in the Ganiya Nala below Katas. The *Ancient
-Geography* (1871) moved to Ketas, with the capital at the Kotera fort. In ASR V (1872–73, p. 85) he went back to
-Malot after marching the routes: Shahdheri to Malot is 114 miles by Manikyala and 101 by Fatehjang and Nila,
-against the pilgrim's c. 117 miles, and "All these conditions are fulfilled in the site of the ancient city of
-Mallot". Ketas, 9 miles E, became the stone stūpa site (03.04.03).
+"should be Katas; but the whole description will not apply to Katas", and he chose Malot, the early Janjuha
+capital. The *Ancient Geography* (1871) moved to Ketas, with the capital at the Kotera fort. In ASR V (1872–73, p.
+85), after marching the routes (114 and 101 miles against the pilgrim's c. 117), he went back to Malot. Ketas, 9
+miles E, became the stone stūpa site (03.04.03).
 
 **Gazetteers.** Jhelam 1907 reports the Malot view as "doubted even by himself", and prints Stein's field letters
-for "the Kitas locality" (forts on the surrounding hills, the stūpa before the Sat-Ghara temples, the Jaina site at
-Murti; see 03.04.01a–03), which Bühler accepted "without hesitation". Dehra Dun 1911 (the Lakhamandal praśasti)
-attests the kingdom but not its place.
+for "the Kitas locality" (hill forts, the stūpa before the Sat-Ghara temples, the Jaina site at Murti; see
+03.04.01a–03), which Bühler accepted "without hesitation". Dehra Dun 1911 (the Lakhamandal praśasti) attests the
+kingdom but not its place.
 
-**Assessment.** The country is the Salt Range round Ketas and Malot, 9 miles apart, on every view. Watters'
-"abandoned" refers to ASR V's Malot. Stein's later fieldwork answers both Watters and Malot, so Mizutani's Ketas is
-strengthened, though Mizutani cites neither Stein nor Cunningham's reports.
+**Inscriptions.** Bühler (EI 1, pp. 11–12) edits the Lakkha Mandal praśasti (Kalsi tahsil, Dehra Dun) of princess
+Īśvarā, of the Yādava kings of Singhapura and widow of a Jālandhara prince. From the marriage he puts the kingdom
+in the Panjab: "the Singhapura rajya of our inscription may be safely identified with the kingdom of
+Sang-ho-pu-lo". He dates it c. 600, before the Kashmiri overlordship Xuanzang reports. It names the kingdom, not
+its place, and was found far to the east.
+
+**Assessment.** The country is the Salt Range round Ketas and Malot, 9 miles apart, on every view; the praśasti
+confirms the dynasty but not its location. Watters' "abandoned" refers to ASR V's Malot. Stein's later fieldwork
+answers both Watters and Malot, so Mizutani's Ketas is strengthened, though Mizutani cites neither Stein nor
+Cunningham's reports.
 
 ### 03.04.01a 僧訶補羅國大都城 — the plain N of Ketas (Stein), Malot (Cunningham, ASR), or the Kotera fort (Ancient Geography)
 
@@ -622,7 +674,7 @@ Ketas.
 
 **Survey.** In both his reports Cunningham put the capital not at Kotera but at Malot, the hill-fort 9 miles W of
 Ketas (ASR II, 1863–64, p. 192; ASR V, 1872–73, p. 85; see 03.04). Malot fulfils, in his words, the text's city
-"situated on a high mountain, which was both difficult and dangerous of access"; from it from it the 40–50 li to
+"situated on a high mountain, which was both difficult and dangerous of access"; from it the 40–50 li to
 the springs of Ketas stand unemended, with E for SE (p. 90). Cunningham admits one difficulty: there are "no signs
 of any occupation beneath the cliffs to the south", where the Aśoka stūpa should be (03.04.02).
 
@@ -683,27 +735,32 @@ alternative to Mizutani's Ketas, but with less margin.
 ### 03.04.05 摩訶薩埵捨身處（大石門） — the body-offering site: Banj (Stein; remains and red soil, AR 1904–05) vs Manikyala, where Court's inscription names the body-offering
 
 **Identifications.** Mizutani (disputed): Banj mountain on the Mahaban spur in Buner, reached by crossing the Indus
-from the Taxila side; Majumdar, Petech and Chavannes agree, and Stein found an ancient well there. Cunningham (p.
-140): Manikyala, reading 信度 as the Suhan river; Beal (p. 145) follows him. Watters (p. 255) finds Manikyala
-"attended with serious difficulties". Majumdar (p. 682): "Everybody is now agreed that Cunningham was mistaken".
+from the Taxila side; Majumdar, Petech and Chavannes agree. Cunningham (p. 140): Manikyala, reading 信度 as the
+Suhan river; Beal (p. 145) follows him. Watters (p. 255) finds Manikyala "attended with serious difficulties".
 
 **Survey.** Cunningham (ASR II, 1863–64, pp. 154–165; ASR XIV, p. 50): 200 li SE of Taxila "is the exact bearing and
 distance of Manikyala". The body-offering stūpa is Court's tope No. 2: "The Huta-murta or 'body-offering' is twice
-mentioned in the inscription that was found covering the deposit". He adds the red soil and an excavated gateway as
-the "great stone gate".
+mentioned in the inscription that was found covering the deposit". He adds the red soil and a gateway as the "great
+stone gate".
 
 **Excavations.** Marshall's review of Stein's tour (AR 1904–05) reports "on Mount Banj the remains of an important
 Buddhist sanctuary, which he identifies, with great probability, as the long sought for sanctuary of the body
-offering". The case, first put by Chavannes, is "in the main topographical" (the site's position relative to the
-Udyāna capital and Uraśā), with "much additional support" from "the character and relative position of the actual
-remains" and "that red coloured soil remarked on as such a distinctive feature by Hiuen Thsang".
+offering". The case, first put by Chavannes, is "in the main topographical", with support from the remains and
+"that red coloured soil remarked on as such a distinctive feature by Hiuen Thsang".
+
+**Inscriptions.** Konow (CII 2.1, pp. 55–57) edits a Kharoṣṭhī slab "brought to Sir Harold Deane as found at Mount
+Banj": "Of the Makadaka scion, in the Vajrastupa, in the year 102, (this) well (is) the gift" (pre-Kushan; AD 18–19
+on his era). He takes Stein's ancient well at the head of the Khabal valley, still Banj's water supply, as
+"probably the find-place", accepts Stein's identification, and suggests that either of Xuanzang's two stūpas "may
+have been the Vajrastupa".
 
 **Gazetteers.** Rawalpindi 1883 and 1895 echo ASR II, with the Raja Rasalu legend.
 
 **Assessment.** Court's inscription, if read rightly, makes Manikyala a Kushan body-offering site, but the itinerary
 returns to Taxila's north border and crosses the Indus, which Cunningham must explain away. Banj fits the route and
-now has a sanctuary and the red soil on the ground, accepted by the Survey at once. Mizutani is strengthened, with
-medium confidence, since nothing at Banj names the place.
+has a sanctuary and the red soil. The well-gift, matching Stein's well, adds a stūpa there by the early 1st century
+AD, though its provenance rests on what Deane was told, and it names a "Vajra-stūpa", not the jātaka. Mizutani is
+strengthened, with medium confidence.
 
 ### 03.04.06 捨身北石窣堵波 — the stone stūpa N of the body-offering: unlocated; Cunningham's two incompatible proposals
 
@@ -715,10 +772,15 @@ Xuanzang, since Sassanian-Arab coins lay 64 ft inside it, so "Hwen Thsang's sile
 the tope". In ASR XIV (1878–79, pp. 1–3) he made that same great tope Aśoka's stūpa N of the body-offering, reading
 "south" for "north", since it stands S of Court's tope.
 
+**Inscriptions.** Konow (CII 2.1, p. 56) suggests that the "Vajrastupa" of the Mount Banj well inscription (03.04.05)
+may be either the body-offering stūpa or this 200-ft stūpa to its north. That is a suggestion from the text, not a
+located monument.
+
 **Gazetteers.** Rawalpindi 1883 and 1895 treat Manikiala as a whole without singling out this stūpa.
 
 **Assessment.** The survey's two proposals contradict each other, and the later one needs the bearing reversed. The
-stūpa stands or falls with 03.04.05, and if the site is Banj nothing in these sources locates it.
+stūpa stands or falls with 03.04.05. If the site is Banj, Konow's reading makes it possible that the Vajra-stūpa was
+this one, but no remains north of the sanctuary are described in these sources, so the stūpa is unlocated.
 
 ### 03.04.07 孤山伽藍 — the monastery on the isolated hill: unlocated; Cunningham's Mera turned out a Muslim tomb
 
@@ -738,24 +800,27 @@ monastery is unlocated.
 
 **Identifications.** Mizutani: Hazara district, with its capital at Haripur (after Watters) (agreed). Beal (p. 147),
 Majumdar (p. 680), Dey (after Stein) and Vivien (p. 321) all say broadly Hazara. Watters (p. 257, tentative) has
-Haripur as the capital, after Swynnerton. Cunningham (p. 119–120, tentative): Ptolemy's Varsa = the district of
-Rash, with the capital "probably … at Mangali, which is said by the people to have been the ancient capital",
-between Noshahra and Mansera. Dey also reports Wilson's Gurez.
+Haripur as the capital, after Swynnerton. Cunningham (p. 119–120, tentative): the district of Rash, with the capital
+"probably … at Mangali, which is said by the people to have been the ancient capital". Dey also reports Gurez.
 
-**Excavations.** Hargreaves (AR 1923–24, pp. 66–68) tested the Hazara Gazetteer's statement that the capital "was
-Mangali on the Mangal stream", visiting on 9 August 1923. No walls showed under the maize, but potsherds cover an
-area between the Mangal stream and a nala that "coincides pretty closely with the '7 or 8 li' in circuit". For the
-stūpa and saṃghārāma 4–5 li SW, a mound ½ mile SW proved not Buddhist; on a hill (4,219 ft) a furlong SE of it were
-Kushan diaper basements that "may mark the sites of the stupa and sangharama mentioned by Hiuen-tsang, though the
-site is rather south than south west".
+**Excavations.** Hargreaves (AR 1923–24, pp. 66–68) tested the Hazara Gazetteer's capital "Mangali on the Mangal
+stream" on 9 August 1923. Potsherds cover an area that "coincides pretty closely with the '7 or 8 li' in circuit".
+A mound ½ mile SW proved not Buddhist; on a hill (4,219 ft) a furlong SE of it were Kushan diaper basements that
+"may mark the sites of the stupa and sangharama … though the site is rather south than south west".
+
+**Inscriptions.** Konow (CII 2.1, pp. 88–89) edits a copper ladle bought c. 1920 by the Deputy Commissioner of
+Hazara from a villager who said he found it at Bedadi, on the Siran c. 12 miles NNW of Mansehra: "Gift of
+Samgharakshita to the congregation of the four quarters, in the Uraśa kingdom (*Uraśaraje*), of the Kaśyapiya
+teachers". The script is pre-Kaniṣka; Stein reports Bedadi as an old site with coins from Azes to the Hindu Shahis.
 
 **Gazetteers.** Punjab 1919 names "the Urash plain" only as a Kashmir feudatory. No Hazara gazetteer appears among
 the hits, although Hargreaves quotes one for Mangali.
 
-**Assessment.** The country is agreed. For the capital, Cunningham's Mangali now has a site of the right size and
-two Kushan Buddhist foundations near the right place, though the bearing is off and the remains are scanty. Haripur
-remains Swynnerton's suggestion, with nothing found. Mizutani's Hazara stands, but Mangali is the better-supported
-capital, with medium confidence.
+**Assessment.** The country, agreed by all, is now attested by an inscription naming the Uraśa kingdom, found (by
+report) in the Siran valley of Hazara; a portable ladle cannot fix the capital. Cunningham's Mangali has a site of
+the right size and two Kushan Buddhist foundations near the right place, though the bearing is off and the remains
+are scanty. Haripur remains Swynnerton's suggestion, with nothing found. Mizutani's Hazara stands, but Mangali is
+the better-supported capital, with medium confidence.
 
 ### 03.06.06 佛牙伽藍 — the Tooth monastery: on the S slope of Takht-i-Sulaimān, or near Pandrethan
 
@@ -841,3 +906,8 @@ under 03.04.02 above. No other `new` rows concern juan 2–3.
 ## Annual Report rows coded `xz_id = new` in this range
 
 None. Every Annual Report passage on juan 2–3 is coded to a place already in the master table.
+
+## Inscription (EI, CII) and IAR rows coded `xz_id = new` in this range
+
+None. Every epigraphic passage on juan 2–3 is coded to a place already in the master table, and *Indian
+Archaeology – A Review* has no passage on this range.

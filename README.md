@@ -1,229 +1,196 @@
 # Xuanzang's places
 
 **Question.** Where are the countries and sites of the *Da Tang Xiyu ji* (大唐西域記)? What have scholars proposed,
-what is agreed and what is disputed? Do the Archaeological Survey's reports and the British Indian district
-gazetteers add anything to the standard identifications?
+what is agreed and what is disputed? What do the excavations, the inscriptions and the British Indian gazetteers add
+to the standard identifications?
 
 **Answer in brief.** Mizutani Shinjō's annotated translation (1971) identifies most of the 148 countries in the text
 with reasonable confidence. He marks 30 of them as disputed and 21 more as uncertain or unknown, and the same holds
 for 139 of the 268 sites.
 
-Three kinds of local evidence were set against him:
-- **The Survey's reports in Cunningham's series** (1862–87), with Mukherji's Tarai report (1901). This is where the
-  identifications were argued on the ground and repeatedly revised.
-- **The Survey's Annual Reports** (1903–37) and Circle reports. These are the excavations: they settled several
-  questions with inscriptions naming the place.
-- **The district gazetteers.** Six in ten of their relevant passages only repeat an authority, usually Cunningham.
-  The rest add local evidence the standard books lack.
+Five kinds of evidence were set against him:
+- the Archaeological Survey's reports in Cunningham's series (1862–87), with Mukherji's Tarai report (1901);
+- the Survey's *Annual Reports* (1903–37);
+- *Indian Archaeology – A Review* (1953–2001);
+- *Epigraphia Indica* and the *Corpus Inscriptionum Indicarum*;
+- the district gazetteers.
 
-Together they:
-- strengthen Mizutani's identification for 66 places, 40 of them with high confidence;
-- weaken it for 6;
-- support a different site for 33;
-- offer a candidate no standard authority records for 7.
+**What they show.** 312 places have notes. Against Mizutani's identifications, the evidence:
+- supports his identification for 78 places, 48 of them with high confidence, many with an inscription or seal
+  naming the place;
+- weakens it for 6;
+- supports a different site for 37;
+- offers a candidate no standard authority records for 9.
 
-Several of the hardest questions turn out to be settled by inscriptions found on the site:
-- Kuśinagara at Kasia: the Haribala copper plate in the Nirvāṇa stūpa (1910–11).
-- Śrāvastī and the Jetavana at Sahet-Mahet: the Govindachandra plate, and a Bodhisattva inscribed "in the Jetavana
-  of Śrāvastī".
-- Kauśāmbī at Kosam: the Kara and Meohar inscriptions.
-- Puṇḍravardhana at Mahasthan: the 1931 inscription naming Pudanagara.
-- Kanishka's stūpa at Shah-ji-ki-Dheri: the inscribed casket.
-- Nālandā: the monastery's own sealings.
-- Taxila: three inscriptions naming Takṣaśilā.
+**Settled by inscriptions or seals found on the site:**
+- Kuśinagara at Kasia: the Haribala plate in the Nirvāṇa stūpa.
+- Śrāvastī and the Jetavana: the Govindachandra plate, and the Bodhisattva inscribed "in the Jetavana of Śrāvastī".
+- Kauśāmbī at Kosam: the Kara, Meohar and pillar inscriptions, and the Ghoṣitārāma excavation.
+- Puṇḍravardhana at Mahasthan: the inscription naming Pundranagara.
+- Nālandā: the monastery's sealings, and the Bālāditya inscription.
+- Taxila: four inscriptions naming Takṣaśilā.
+- Karṇasuvarṇa and the Raktamṛttikā monastery at Rajbadidanga: the monastery's own sealings.
+- Srughna at Sugh: a sealing reading "Sugha".
+- Ānandapura at Vadnagar.
+- Kanishka's stūpa at Shah-ji-ki-Dheri.
 
-The remaining revisions cluster in Magadha, the Ghazipur–Ballia stretch of the Ganges, the Salt Range (Siṃhapura),
-Gandhāra and Swat, and eastern and central India. Neither survey nor gazetteers reach juan 1 or 12 (Central Asia
-and Afghanistan).
+**Moved by the new evidence:**
+- **Kapilavastu** (06.02): now Piprahwa–Ganwaria, against Mizutani's Tilaurakot. The Piprahwa sealings name "the
+  community of Kapilavastu monks in the Devaputra vihāra". They are Kushan, about four centuries before Xuanzang,
+  so Tilaurakot remains the rival for the city he saw.
+- **Kanishka's monastery** (02.04.06): the mound beside the stūpa at Shah-ji-ki-Dheri.
+- **Kosala's capital** (10.12): Śrīpura, now Sirpur.
+- **Koṅgoda** (10.10): the Chilka coast, from the Śailodbhava plates.
+- **Mālava** (11.05): central Gujarat.
+- **Kukkuṭapāda** (09.01.03): Gurpa, the "Gurupāda" of an inscription.
+
+Neither the survey nor the gazetteers reach juan 1 or 12 (Central Asia and Afghanistan).
+
+**Every place now also has:**
+- its passage of the Chinese text, with the text's own interlinear notes;
+- an English translation, made by DharmaMitra's API and checked against the Chinese, with Mizutani and Beal as aids;
+- its religious affiliation as the text reports it: the Buddhist school, numbers of monasteries and monks, deva
+  temples, and Jain, Śaiva, Pāśupata, Kāpālika and Sūrya worship.
 
 All assessments are provisional. Each rests on the coded quotes listed below; the user's reading of the notes is the
 check.
 
 ## Sources
 
-- **Texts.** Taishō 2087 (`data/ref/t2087_joined.txt`, one sentence per line). Daoxuan's 釋迦方志 (T2088) and Huili's
-  *Life* (T2053) were used for the route figures (`route/`).
-- **Mizutani**, 『大唐西域記』 (平凡社 中国古典文学大系 22, 1971). A 488-page scan with no text layer, OCR'd with
-  Google Vision. The scan and OCR are kept locally under `data/mizutani/` and are gitignored because the book is in
-  copyright. His notes are the backbone of the table: readings, Sanskrit names, identifications with references,
-  variant readings, and his remarks on whether Xuanzang visited a country (親践) or reports it from hearsay (伝聞).
-- **Authorities.** Each was coded separately, with a verbatim quote per identification:
-  - Julien (1857–58) and Vivien de Saint-Martin's *Mémoire analytique* (1858);
-  - Cunningham, *Ancient Geography of India* (1871), in Majumdar Sastri's edition of 1924, whose notes are coded
-    separately as `majumdar`;
-  - Beal, *Si-yu-ki* (1884);
-  - Watters, *On Yuan Chwang's Travels* (1904–05);
-  - N. L. Dey, *Geographical Dictionary* (1927).
-- **Archaeological Survey of India, Reports**, vols. I–XXIII (1871–87).
-  - **Authors:** Cunningham, with volumes by Beglar, Carlleyle and Garrick.
-  - **Also coded the same way:** P. C. Mukherji's *Report on a Tour of Exploration of the Antiquities in the Tarai,
-    Nepal* (1901), with V. A. Smith's prefatory note.
-  - **Text:** Internet Archive OCR, in `data/ref/asr/`.
-- **Archaeological Survey of India, Annual Reports**, 1903–04 to 1936–37, and the Bengal/Eastern Circle reports
-  (1903–05, 1913–21).
-  - **Missing:** 1918–20 and 1928–29.
-  - **OCR:** the Internet Archive's text for eight volumes was Hindi-language OCR of English, so those were
-    re-OCR'd with Google Vision from the scans.
-  - **Text:** in `data/ref/asr_annual/`, with identifiers in `got.tsv` and `pdfs.tsv`.
-- **Gazetteers.** These are the 557 distinct volumes already downloaded for the gazetteer-vedanta and yoga-gazetteers
-  studies. Every mention of Xuanzang in any of his old spellings, of "the Chinese pilgrim", and of Faxian was
-  indexed. That gives 1,965 hits in 302 volumes; 1,128 of them bear on where a place is.
+- **Text.** T2087, from the CBETA TEI XML (`scripts/build_t2087_xml.py`, `data/ref/t2087_cb_joined.txt`): the printed
+  Taishō readings, with the 355 interlinear notes in （…） and the rare characters resolved. For the route figures,
+  Daoxuan's 釋迦方志 (T2088) and Huili's *Life* (T2053) were also used (`route/`).
+- **Mizutani**, 『大唐西域記』 (平凡社 中国古典文学大系 22, 1971). A 488-page scan, OCR'd with Google Vision and
+  kept locally because the book is in copyright. His notes are the backbone of the table.
+- **Authorities.** Julien and Vivien de Saint-Martin (1857–58); Cunningham, *Ancient Geography* (1871), in Majumdar
+  Sastri's edition of 1924 (`majumdar`); Beal (1884); Watters (1904–05); Dey (1927).
+- **Archaeological Survey of India, *Reports*,** vols. I–XXIII (1871–87). The volumes are by Cunningham, Beglar,
+  Carlleyle and Garrick. Mukherji's Tarai report (1901) is coded the same way.
+- **ASI *Annual Reports*** (1903–37) and the Bengal/Eastern Circle reports. Eight volumes whose Internet Archive text
+  was unusable were re-OCR'd with Google Vision. 1918–20 and 1928–29 are missing.
+- ***Indian Archaeology – A Review*** (1953–54 to 2000–01).
+  - **OCR:** the Internet Archive's OCR of this series is unusable (Hindi-language OCR of English), so it was
+    re-OCR'd here with Surya, run on a local vLLM server.
+  - **Gaps:** 1973–74 is the archive's own English OCR of another copy. 1979–80 and 1985–86 failed to download, and
+    1990–91 is not on the archive.
+- ***Epigraphia Indica*** vols. 1–36 and **CII** vols. 1, 2.1, 2.2, 3 (in Bhandarkar's revised edition), 5 and 6.
+  These are the user's own copies, from their text extracts.
+- **Gazetteers.** The 557 volumes of the gazetteer-vedanta and yoga-gazetteers studies.
 
 ## Method
 
 1. **Master table** (`data/places_mizutani.tsv`, 419 rows: 148 countries, 3 regions, 268 sites). It was coded from
-   Mizutani's notes following `data/CODING_INSTRUCTIONS.md`. Each row carries Mizutani's identification, the other
-   views he reports, his status, the T2087 route sentence, and a verbatim quote with its pdf page, checked by
-   `scripts/check_quotes.py`.
-   - **Visited or hearsay:** 108 countries are visited, 35 hearsay and 5 unclear, by Mizutani's application of the
-     colophon's rule (行 = visited, 至 = hearsay).
-2. **Authorities** (`data/coded/auth_*.tsv`; checked by `scripts/check_quotes_ref.py`).
-3. **Survey reports.**
-   - **Cunningham series:** `data/asr_hits.tsv`, `data/coded/asr_batch*.tsv`, `data/ASR_INSTRUCTIONS.md`. 495
-     passages, 362 relevant.
-   - **Annual Reports:** `data/ar_hits.tsv`, `data/coded/ar_batch*.tsv`, `data/AR_INSTRUCTIONS.md`. 830 passages,
-     122 relevant.
+   Mizutani's notes, with verbatim quotes checked by `scripts/check_quotes.py`. Mizutani's visited/hearsay marking
+   gives 108 countries visited, 35 hearsay and 5 unclear.
+2. **Authorities** (`data/coded/auth_*.tsv`).
+3. **Survey, Annual Reports, *Indian Archaeology*, EI/CII.**
+   - **Files:** `data/coded/asr_batch*`, `ar_batch*`, `iar_batch*`, `epig_batch*`; indexes in `data/*_hits.tsv`;
+     instructions in `data/ASR_`, `AR_`, `IAR_` and `EPIG_INSTRUCTIONS.md`.
+   - **How passages were found:** each source was indexed for passages naming the pilgrim, the excavated sites, or
+     the Sanskrit names of disputed places.
+   - **What is coded:** each passage's author, place, site, stance and evidence, with a verbatim quote checked by
+     `scripts/check_quotes_asr.py`.
+4. **Gazetteers** (`data/coded/gaz_batch*`). 1,128 relevant passages.
+5. **Route tests** (`route/README.md`). The li is calibrated at about 0.24 km in a straight line, or 0.29–0.32 km by
+   road. Every leg is tested, rival sites are scored, and the figures are compared across T2087, T2088 and the *Life*.
+6. **Text and translation** (`data/text/`).
+   - **The passages:** T2087 is cut into one passage per place (`anchors_*.tsv`, `scripts/extract_passages.py`;
+     country passages open with the arrival sentence).
+   - **The translation:** each passage was translated by DharmaMitra's public cat-translate API
+     (`translation_dm.tsv`, `scripts/translate_passages.py`). It was then checked against the Chinese, with Mizutani
+     and Beal as aids only (`review_*.tsv`, `review2_*.tsv`; `data/REVIEW_RELIGION_INSTRUCTIONS.md`).
+   - **The results:** 248 passages were fine as translated; 147 had minor slips and 24 major errors, all corrected in
+     the published English.
+   - **Recurring errors:** invented glosses (such as "mūla-gandha-kuṭī" for 精舍, "Pravaragiri" for any great
+     mountain), misread names, and reversed roles in the legends.
+7. **Religious affiliation** (`data/religion/religion_*.tsv`; checked by `scripts/check_religion.py`).
+   - **What is coded:** for each place, from its own passage, the monasteries and monks, the schools, the deva temples,
+     the other traditions, the kind of site, and the state of Buddhism.
+   - **Schools stated for countries:** Sammatīya 16, both vehicles 15, Mahāyāna 14, unspecified Hīnayāna 12,
+     Sarvāstivāda 11, Mahāyāna-Sthavira 4, Sthavira 2, Mahāsāṃghika 2, Lokottaravāda 1.
+   - **Other traditions, across all places:** Pāśupata 15, Śaiva 11, Jain (mostly Digambara, 露形) 12, Sūrya 2,
+     Kāpālika 1.
+8. **Notes on disputed places** (`data/notes/notes_*.md`, 312 notes). Each note gives the identifications, then the
+   evidence in sections:
+   - **Survey.**
+   - **Excavations.** (Annual Reports)
+   - **Inscriptions.**
+   - **Later excavations.** (*Indian Archaeology*)
+   - **Gazetteers.**
 
-   For the Annual Reports, the index takes passages naming the pilgrim, and also passages naming one of about 70
-   excavated sites alongside excavation or identification words. Excavation reports often never name Xuanzang.
-
-   Each passage is coded for the author, the place, the site, the stance (proposes, confirms, revises, rejects or
-   reports) and the field evidence, with a verbatim quote checked by `scripts/check_quotes_asr.py`.
-4. **Gazetteers** (`data/coded/gaz_batch*.tsv`, `data/GAZ_INSTRUCTIONS.md`). Of the 1,128 relevant passages:
-
-   | Stance | Passages |
-   |---|---|
-   | Repeat an authority | 674 |
-   | Argue their own case | 163 |
-   | Propose another site | 103 |
-   | Doubt the standard one | 71 |
-   | Report views only | 117 |
-5. **Route tests** (`route/`, see `route/README.md`).
-   - **The li:** calibrated on legs between agreed places.
-   - **Legs:** every leg is tested against Mizutani's points, and rival sites are scored.
-   - **Texts:** the figures are compared across T2087, T2088 and the *Life*.
-6. **Notes on disputed places** (`data/notes/notes_*.md`). There are 307 notes. Instructions are in
-   `data/NOTES_INSTRUCTIONS.md`, `NOTES_REVISION_ASR.md` and `NOTES_REVISION_AR.md`.
-
-   Each note covers:
-   - the identifications;
-   - what the survey argued (**Survey.**);
-   - what was dug and found (**Excavations.**);
-   - what the gazetteers add;
-   - a short assessment.
-
-   The matching `updates_*.tsv` gives the proposed identification, the kind of change and a confidence.
-7. **Joined table** (`data/places.tsv`, built by `scripts/build_places.py`). One row per place.
-
-## What the sources add
-
-- **Inscriptions and sealings naming the place, found on the site.** These are the strongest evidence, and the
-  Annual Reports supply most of them. Examples:
-  - Kasia's Haribala plate "in the Nirvāṇa-caitya" and its Mahāparinirvāṇa sealings (06.04).
-  - The Govindachandra plate naming "the great convent of the holy Jetavana" (06.01.04).
-  - Kanishka's casket naming "the Vihāra of Kanishka" (02.04.03, 02.04.06).
-  - "Śrī-Nālandā-mahāvihāra" sealings (09.03.01).
-  - The Mahasthan inscription naming Pudanagara (10.04).
-  - The Kara inscription "in the kingdom of Kausambi" and the Meohar inscription (05.05).
-  - Bloch's Vaiśālī seals (07.03).
-  - The Tachhasilae ladle and the Dharmarājikā scroll at Taxila (03.03).
-  - Teladaka at Tillara (08.04.01).
-  - The Jejākabhukti inscriptions in Bundelkhand (11.13).
-  - Gupta seals at Dharawat (08.04.03).
-- **The survey's moving identifications.** Examples:
-  - Siṃhapura: Malot, then Ketas, then Malot.
-  - Kapilavastu: Nagar, then Bhuila Dih, then Tilaurakot.
-  - Vilaśana: Atranji, then Bilsar.
-  - Kasia: doubted in 1905–07 on the sealings, settled in 1910–11 by the plate.
-
-  The gazetteers often preserve a stage Cunningham had already left.
-- **Excavated plans and measurements.** Examples:
-  - Marshall's Rājagṛha walls, which fit the text's 150 li and make Cunningham's emendation to 50 unnecessary
-    (09.02.04).
-  - Gṛdhrakūṭa at Chhatha-giri, with Bimbisāra's road and its two stūpas (09.02.09).
-  - Thanesar's mounds against the 20 li (04.08).
-  - The Kunāla stūpa on the Hathial ridge (03.03.06), and the Sirsukh walls (03.03.01a).
-  - The 1935–36 dig at Bairat, which found no support for Pāriyātra (04.06).
-- **Local names, cults and route arguments** from the gazetteers. Examples:
-  - The Nāga tank at Sankisa still receives milk offerings.
-  - The Kesariya mound is still called "Raja Ben ka deora".
-  - The caste name Jijhotia survives in Bundelkhand.
-  - Oldham's Ghazipur sites.
-  - The Gaya volumes' monastery sites.
-- **The text's own figures** (`route/README.md`).
-  - **The li:** Xuanzang's li works out at about 0.24 km in a straight line, or 0.29–0.32 km by road, against the
-    440 m Mizutani adopts.
-  - **Variants:** a few variant readings bear on identifications: Tamasavana, Kapilavastu, the 戰主國 capital, Kiṭa
-    and Maheśvarapura.
-  - **Limits:** the route test counts against Mizutani's Siṃhapura pair unless the text is emended. It cannot
-    overrule an inscription: Kosam fails the text's 500 li.
+   Then comes a short assessment. The matching `updates_*.tsv` gives the proposed identification, the kind of change
+   and a confidence.
+9. **Joined table** (`data/places.tsv`, `scripts/build_places.py`) and **map**
+   (`map/xuanzang_places.html`, https://claude.ai/artifact/WUH4GFEULK5rZ8oaXw8PpH).
+   - **Map filters:** Mizutani's status, the visit status, religious affiliation, juan and level.
+   - **Place panel:** every source, the notes, and the Chinese text with its translation.
 
 ## Main proposed revisions to Mizutani
 
-These are medium- or high-confidence proposals that move away from Mizutani. The full list, including the 66 places
-where the evidence supports him, is in `data/notes/updates_*.tsv`.
+These are medium- or high-confidence proposals that move away from Mizutani. The full list is in
+`data/notes/updates_*.tsv`.
 
 | Id | Place | Mizutani | Proposed | Basis |
 |---|---|---|---|---|
-| 02.04.06 | Kanishka's monastery | possibly Gor Khattri | W mound beside the stūpa, Shah-ji-ki-Dheri | Spooner AR 1908–09: casket names "the Vihāra of Kanishka" |
-| 02.04.16 | Ekaśṛṅga's convent | not given | Butan, below the Shahkot Pass (Swat) | Stein AR 1911–12; Sahri-Bahlol abandoned before the 7th c. |
-| 03.05 | Uraśā capital | Haripur | Mangali on the Mangal stream | Cunningham; Hargreaves's visit, AR 1923–24 |
-| 04.06 | Pāriyātra | Bairat (agreed) | Bairat, weakened | Sahni AR 1935–36: one monastery, nothing after the 2nd c. |
+| 02.04.06 | Kanishka's monastery | possibly Gor Khattri | W mound beside the stūpa, Shah-ji-ki-Dheri | Spooner: casket names "the Vihāra of Kanishka" |
+| 02.04.16 | Ekaśṛṅga's convent | not given | Butan, below the Shahkot Pass (Swat) | Stein AR 1911–12 |
+| 03.05 | Uraśā capital | Haripur | Mangali (country confirmed as Hazara by the Bedadi ladle "Urasa-rajya") | Cunningham; Hargreaves; Konow CII 2.1 |
+| 04.06 | Pāriyātra | Bairat (agreed) | Bairat, weakened | Sahni AR 1935–36 |
+| 04.11 | Brahmapura | Srinagar (Garhwal) | Lakhanpur or nearby | Talesvara plates issued from Brahmapura (EI 13) |
 | 05.01.09 | Navadevakula | not given | Newal near Bangarmau | ASR XI; Unao 1903 |
+| 06.02 | Kapilavastu | Tilaurakot | Piprahwa–Ganwaria (Tilaurakot the rival) | Srivastava IAR 1972–73: sealings naming the Kapilavastu saṅgha (Kushan) |
 | 06.01.14 | Kāśyapa's birthplace | not given | Tandwa (Bhitti the rival) | ASR XI; Marshall AR 1910–11 |
-| 06.04.03a | river at Kuśinagara | Gandak | Little Gandak / old channel | Cunningham; local name "Hirana" |
-| 06.04.11 | cremation stūpa | "about 10 miles E" | Ramabhar stūpa (Mauryan), near Kasia | AR 1910–11 excavation; Gorakhpur volumes |
-| 07.02 | 戰主國 capital | Ghazipur | Sayyidpur or Ghazipur | Oldham; the *Life*'s distance to Vaiśālī |
-| 08.02.05 | Aśoka pillar, Pāṭaliputra | Kumrahar | unlocated (weakened) | Spooner AR 1912–13: the fragments are columns of the Mauryan hall |
-| 08.04.03 | Guṇamati's monastery | not given | Dharawat (Kunwa hill) | Beglar, Cunningham; Gupta seals |
-| 08.04.04 | Śīlabhadra's monastery | not given | Kauwa-dol hill | Beglar, adopted by Cunningham |
-| 08.06.01 | Bodhi-tree enclosure | stone railing | brick wall, untraced (weakened) | Bloch AR 1908–09: the railing is Śuṅga |
-| 09.01.03 | Kukkuṭapāda | hill N of Kurkihar | Hasra (Sobhnath) or Gurpa | Stein, Banerji; Gaya 1906 |
-| 09.02.03c | Asura's palace | not given | Rajpind cave, Chandu hill | Stein; walled road from Khiri |
-| 09.03.13–14 | Kapotaka; its hill | Bihār | Parbati (Daryapur Parvati) | ASR XV: monastic seal, terraced hill |
-| 09.03.15b | 落般膩羅 | unsettled | Rajaona (Rajjana) | ASR XV; Monghyr volumes |
-| 10.02.02a | islet east of Campā | not given | rock islets at Kahalgaon | ASR XV; Bhagalpur 1911 |
-| 10.15 | Coḷa | Nellore | Telugu Coḷa country, Cuddapah–Kurnool | Venkayya AR 1905–06; Cuddapah 1915 |
+| 06.04.03a, 06.04.11 | Kuśinagara river, cremation stūpa | Gandak; "10 miles E" | Little Gandak; Ramabhar | Cunningham; AR 1910–11 |
+| 07.02 | 戰主國 capital | Ghazipur | Sayyidpur or Ghazipur | Oldham; the *Life*'s distance |
+| 08.02.05, 08.06.01 | Pāṭaliputra pillar; Bodhi-tree enclosure | Kumrahar; stone railing | unlocated; brick wall (weakened) | Spooner AR 1912–13; Bloch AR 1908–09 |
+| 08.04.03, 08.04.04 | Guṇamati's and Śīlabhadra's monasteries | not given | Dharawat; Kauwa-dol | Beglar, Cunningham; Gupta seals |
+| 09.01.03 | Kukkuṭapāda | hill N of Kurkihar | Gurpa (Gurupāda); Hasra second | Silao pedestal (Chhabra, EI 25); Stein; Banerji |
+| 09.02.03c | Asura's palace | not given | Rajpind cave | Stein |
+| 09.03.13–14 | Kapotaka; its hill | Bihār | Parbati | ASR XV |
+| 09.03.15b | 落般膩羅 | unsettled | Rajaona | ASR XV |
+| 10.02.02a | islet east of Campā | not given | rock islets at Kahalgaon | ASR XV |
+| 10.10 | Koṅgoda | Jaugada | Koṅgoda-maṇḍala, Mahānadī to north Ganjam; capital on the Sālimā near the Chilka | Śailodbhava plates (EI) |
+| 10.15 | Coḷa | Nellore | Telugu Coḷa country, Cuddapah–Kurnool | Venkayya; Cuddapah 1915 |
+| 11.05 | Mālava | Malwa or Gujarat | central Gujarat, SE of the Mahī | Bhandarkar (CII 3), Sircar (EI 34) |
 
-**Left open:**
-- **Siṃhapura's capital and stūpas** (03.04.01a–03): Kotera, Stein's plain north of Ketas, or Malot.
-- **Rangamati for Karṇasuvarṇa** (10.08): occupied in Xuanzang's time, but "the capital … a matter of doubt" in
-  1920–21.
+**Still open:**
+- **Siṃhapura's capital** (03.04.01a): Kotera, Stein's plain north of Ketas, or Malot.
+- **Bhramaragiri** (10.12.05): Arang's Bhaṅgara-pavata, or Nāgārjunakoṇḍa's Siripavata.
+- **Kaliṅga's capital** (10.11): Kalingapatnam or Mukhalingam.
+- **Koṅkaṇapura** (11.02): Annagundi or Banavasi.
 - **Jajhoti's capital** (11.13): Khajuraho or Eran.
-- **Saptaparṇī** (09.02.16): Marshall's levelled spur, not the Son Bhandar.
+- **Śatadru** (04.05): Sanghol proposed for Sarhind, without an inscription.
 
 ## Limits
 
-- **Mizutani is the 1971 state of the question.** Later work (季羨林 1985; *Indian Archaeology – A Review*; site
-  reports since 1947) is not in these sources. A note flags later results only in one clause.
+- **Later scholarship.** Mizutani is the 1971 state of the question. Later scholarship, such as 季羨林's 1985
+  commentary, is not in these sources. *Indian Archaeology* is in them up to 2000–01.
 - **OCR.** Quotes match the OCR verbatim, errors included.
-- **Index coverage.** The survey and Annual Report indexes miss arguments that use neither the pilgrim's name nor a
-  listed site. The known gaps are in `data/FOLLOWUPS.md`.
+- **Index coverage.** The indexes miss arguments that use neither the pilgrim's name, a listed site, nor a listed
+  Sanskrit name. The known gaps are in `data/FOLLOWUPS.md`.
 - **Places tied to several ids.** A passage coded to several places shows its one identification under each in
-  `places.tsv`. The notes, written from the passages, are the reliable reading.
-- **Gazetteer counts include duplicate scans and editions.** Notes count volumes, not hits.
-- **Coordinates** (`data/coords.tsv`) are for orientation only. 77 places are unmapped.
-- **Corrections and open questions** are in `data/FOLLOWUPS.md`. One concerns another study: a CP volume in the
-  gazetteer-vedanta selection (`in.ernet.dli.2015.281327`) is really Beal's *Records*.
+  `places.tsv`. The notes are the reliable reading.
+- **Translations.** They are checked and corrected but not a published translation; quote them with that caveat.
+- **Affiliation.** It records what the passage says, plus Mizutani's identification of sect names. Legend-only
+  mentions are in the notes, not coded as present practice.
+- **Coordinates** (`data/coords.tsv`) are for orientation only.
+- **Corrections and open questions** are in `data/FOLLOWUPS.md`.
 
 ## Files
 
 - `data/places.tsv`: the joined table (start here).
 - `data/places_mizutani.tsv`: the master table.
-- `data/coded/`: Mizutani (`mz_juan*`), authorities (`auth_*`), Cunningham-series survey (`asr_batch*`), Annual Reports
-  (`ar_batch*`), gazetteers (`gaz_batch*`).
+- `data/coded/`: coding by source (`mz_juan*`, `auth_*`, `asr_batch*`, `ar_batch*`, `iar_batch*`, `epig_batch*`,
+  `gaz_batch*`).
 - `data/notes/`: notes and proposed updates.
-- `data/*_hits.tsv`: passage and hit indexes.
+- `data/text/`: passages, anchors, translations, translation reviews.
+- `data/religion/`: affiliation coding.
+- `data/*_hits.tsv`: indexes.
 - `data/coords.tsv`: coordinates.
-- `data/text/`: the T2087 passage for each place (CBETA text, cut by `anchors_*.tsv` with `scripts/extract_passages.py`;
-  `passages.tsv`) and its English machine translation by DharmaMitra's public cat-translate API
-  (`translation_dm.tsv`, `scripts/translate_passages.py`). Both are in `places.tsv` and the map's place panel. The
-  translation is unrevised: check it against Mizutani or Beal before quoting.
-- `route/`: route model, li calibration, candidate scores, text variants (`route/README.md`).
-- `map/xuanzang_places.html`: map and place dossier (published privately at
-  https://claude.ai/artifact/WUH4GFEULK5rZ8oaXw8PpH), built by `map/build_page.py` from `map/template.html`.
-- `scripts/`: OCR join, quote checkers, indexes, merge and join.
-- `data/*_INSTRUCTIONS.md`, `data/NOTES_REVISION_*.md`: coding instructions.
+- `route/`: route tests.
+- `map/`: the map page and its builder.
+- `scripts/`: OCR join, text build, extraction, translation, quote checkers, indexes, merge and join.
+- `data/*INSTRUCTIONS*.md`, `data/NOTES_REVISION_*.md`: coding instructions.
 - `PLAN.md`: the original plan.
 
 Rebuild:

@@ -9,66 +9,87 @@ Archaeological Survey reports are cited by volume and page: ASR I (1871), III (1
 XXII, Garrick in XVI). "Mukherji 1901" is P. C. Mukherji's *Report on a Tour of Exploration of the Antiquities in the
 Tarai, Nepal*; "Smith 1901" is V. A. Smith's prefatory note to it. The Survey's Annual Reports (1903–37) are cited as
 AR with the year and page, by author (Vogel, Marshall, Konow, Oertel, Sahni, Hirananda Sastri, Pargiter, Page); "EC"
-is the Bengal (Eastern) Circle report of the same year.
+is the Bengal (Eastern) Circle report of the same year. Inscriptions are cited from *Epigraphia Indica* (EI, by
+volume) and the *Corpus Inscriptionum Indicarum* (CII 1, Hultzsch 1925; CII 3, Bhandarkar, revised by Chhabra and
+Gai), and the excavations after 1953 from *Indian Archaeology – A Review* (IAR, by year and page), by excavator.
 
 Not noted (no criterion met): 07.01, 07.01.02, 07.03.03, 07.03.04, 07.05. The survey confirms Mizutani for 07.01
-(Benares, ASR I p. 115) and 07.03.04 (the Bakhra/Kolhua lion pillar, which Cunningham measured at over 44 ft and put
-at "about 50 feet" originally, as Xuanzang says; ASR I pp. 62–64, XVI pp. 13–15). Bloch (AR 1903–04, pp. 81–86; EC
-1903–04, pp. 14–15) found that the Kolhua pillar, the stupa N of it and the tank S of it "tallies exactly" with
-Xuanzang's Aśoka group (07.03.04), but no trace of the Licchavi relic stupa (07.03.03) or its monastery (07.03.02).
-Page's remarks (AR 1922–23 p. 149, 1924–25 p. 86) only restate Rummindei for Lumbinī (06.02.11).
+(Benares, ASR I p. 115); Ghosh's summary of the Rajghat excavation (IAR 1957–58) dates the ancient city from NBP to
+medieval times. For 07.03.04, the Bakhra/Kolhua lion pillar, Cunningham measured over 44 ft and put it at "about 50
+feet" originally, as Xuanzang says (ASR I pp. 62–64, XVI pp. 13–15). Bloch (AR 1903–04, pp. 81–86; EC 1903–04, pp.
+14–15) found that the Kolhua pillar, the stupa N of it and the tank S of it "tallies exactly" with Xuanzang's Aśoka
+group. Later excavation exposed the group: two mud stupas by the pillar, the northern one with a relic vessel (Sita
+Ram Roy, IAR 1959–60, pp. 14–16); a brick stupa 24.5 m across in front of the pillar (IAR 1973–74, pp. 67–68); and a
+monastery, Gupta votive stupas and the tank (L. C. Singh and Muhammed K. K., IAR 1989–99; see "New", monkey tank).
+Mizutani's 07.03.03 is itself the relic stupa that Altekar found by following Xuanzang (IAR 1957–58, pp. 10–11):
+a mud stupa of NBP date, about half a mile NW of Raja-Visal-ka-garh, enlarged four times (first with Mauryan
+polished-stone fragments), with a soapstone casket "only a quarter full" in a breach of the core and no
+inscription. That fits the *Record of India*, which Xuanzang cites: Aśoka opened the stupa and took nine-tenths of
+the relics. Page's remarks (AR 1922–23 p. 149, 1924–25 p. 86) only restate Rummindei for Lumbinī (06.02.11).
 
 ---
 
 ### 06.01 室羅伐悉底國 (Śrāvastī) — Sahet-Mahet, settled by inscriptions from the excavations of 1907–11
 
 **Identifications.** Mizutani: Sahet-Mahet on the Rāpti, Bahraich/Gonda border (agreed). Cunningham (1871, p. 469),
-Beal (p. 1), Majumdar (1924, p. 711) and Dey: Sahet-Mahet. Vivien (p. 355): the upper Rāpti, no site. Watters (p. 378)
-would set Sahet-Mahet aside for V. A. Smith's Nepal site, while admitting it "has its difficulties".
+Beal (p. 1), Majumdar (1924, p. 711) and Dey: Sahet-Mahet. Watters (p. 378) would set it aside for V. A. Smith's Nepal site.
 
-**Survey.** Cunningham (ASR I pp. 330–347) found "a colossal statue of Buddha with an inscription containing the name
-of Sravasti itself" (p. 331), measured the ramparts at 17,300 ft against Xuanzang's 20 li for the palace city, and
-derived Sahet from Sāvatthī; he had to emend the 500 li from Ayodhyā to 350. Smith (1901, pp. 7–8, 19–20) put the
-city in Nepal NE of Nepalganj on bearings and hearsay; Mukherji (1901, pp. 49, 59–60) only proposed to explore there.
+**Survey.** Cunningham (ASR I pp. 330–347) found a statue inscribed with "the name of Sravasti itself" (p. 331),
+measured the ramparts at 17,300 ft against Xuanzang's 20 li, and had to emend the 500 li from Ayodhyā to 350. Smith
+(1901, pp. 7–8, 19–20) put the city in Nepal NE of Nepalganj on bearings and hearsay.
 
-**Excavations.** Vogel dug in 1907–08 to settle Smith's challenge. He re-surveyed Mahet at 17,250 ft round, so
-"Cunningham is … quite right" about the 20 li (AR 1907–08, p. 90), and a copper plate of Govindachandra (A.D. 1130)
-from Sahet granting villages to the friars of "the great convent of the holy Jetavana" "conclusively settles the
-identification of Saheth with the Jetavana … and consequently that of Maheth with the city of Sravasti" (pp. 120,
-131–32). An inscribed Bodhisattva "in the Jetavana of Sravasti" followed (Sahni, AR 1908–09, pp. 137–38: "now a
-settled fact"), and Bloch matched the umbrella-staff inscription to the one naming Śrāvastī (AR 1909–10). The same
-seasons rejected Cunningham's monuments inside Mahet (see "New").
+**Excavations.** Vogel (AR 1907–08, pp. 90, 120, 131–32) re-surveyed Mahet at 17,250 ft, and a copper plate of
+Govindachandra (A.D. 1130) from Sahet, granting villages to "the great convent of the holy Jetavana", "conclusively
+settles the identification of Saheth with the Jetavana … and consequently that of Maheth with the city of
+Sravasti". A Bodhisattva "in the Jetavana of Sravasti" followed (Sahni, AR 1908–09, pp. 137–38). The same seasons
+rejected Cunningham's monuments inside Mahet (see "New").
 
-**Gazetteers.** Gonda 1905 sets out the dispute and Bloch's answer; Gonda 1989 adds Kushana inscriptions and seals.
-Oudh A–G 1877 doubts the circuit figures, which Cunningham and Vogel met. Oudh N–Z 1878 maps the city onto Mahet's
-mounds (see "New").
+**Inscriptions.** Bloch (EI 9) showed from the umbrella staff that the inscribed Bodhisattva was found in situ;
+Sahni (EI 11, pp. 20–21) edited the Saheth plate. Harṣa's Madhuban plate of A.D. 631 grants a village "in the bhukti
+of Śrāvastī" (Bühler, EI 1, pp. 71–72; Kielhorn, EI 7, p. 137): the name was a province in Xuanzang's day.
+
+**Later excavations.** Sinha's trench across Mahet's N rampart (IAR 1958–59, p. 50) found Painted Grey Ware
+occupation before the defences. The Survey–Kansai University seasons (IAR 1986–2001) exposed the Kandbhari gate, a
+rammed road of pre-Mauryan or Mauryan date, and Kushan and Gupta houses inside Mahet, taking Mahet = Śrāvastī as
+settled; nothing new names the city.
+
+**Gazetteers.** Gonda 1905 reports Bloch's answer; Gonda 1989 adds Kushana inscriptions and seals; Oudh N–Z 1878
+maps the city onto Mahet's mounds (see "New").
 
 **Assessment.** Four inscriptions from the site, one naming the Jetavana outright, settle the identification and
-dispose of Smith's Nepal site and Watters' doubt. Mizutani is strengthened.
+dispose of Smith's Nepal site and Watters' doubt; the later excavations show a walled city occupied from before
+the Mauryas. Mizutani is strengthened.
 
 ### 06.01.04 逝多林給孤獨園 (Jetavana) — Sahet, named on a copper plate and an inscribed Bodhisattva
 
 **Identifications.** Mizutani names no site, though his remark that inscriptions show the monastery flourishing until
-about the 12th century assumes the excavated site (unknown). Majumdar (p. 711): the Sahet monastery (copper-plate grant
-to "the convent of Holy Jetavana"). Dey (after Vogel): Sahet = Jetavana, Mahet = the city. Watters (p. 384): no site.
+about the 12th century assumes the excavated site (unknown). Majumdar (p. 711): the Sahet monastery. Dey (after
+Vogel): Sahet = Jetavana, Mahet = the city. Watters (p. 384): no site.
 
 **Survey.** Cunningham (ASR I pp. 334–343) identified the Jetavana with the Jogini-jharia mound (Sahet), "just half a
-mile distant from the south-west corner of the old city", with three tanks for the three "gulfs" of the legends. In
-1876 (ASR XI pp. 81–86) he excavated twenty mounds inside an enclosure of about 4,500 ft and placed the Gandhakuṭī at
-temple 2 and the Kosamba-kuṭī at temple 3, where the statue inscribed with Śrāvastī and the Kosamba hall was found.
+mile distant from the south-west corner of the old city". In 1876 (ASR XI pp. 81–86) he excavated twenty mounds and
+placed the Gandhakuṭī at temple 2 and the Kosamba-kuṭī at temple 3.
 
 **Excavations.** Vogel (AR 1907–08, pp. 120, 131–32) found the Govindachandra plate of A.D. 1130 in a brick case under
-cell 23 of monastery 19, granting six villages, some still so named, to the friars "residing in the great convent of
-the holy Jetavana". Marshall's 1908–09 season produced a Bodhisattva set up "in the Jetavana of Sravasti" by
-Kṣatriya brothers of Mathurā (Sahni, AR 1908–09, pp. 134, 137–38). Marshall (AR 1910–11, pp. 7, 11–12) laid bare an
-early concrete road running 220 ft E from temple 2 towards the gate of Śrāvastī, "amply evident that General
-Cunningham was right in his location of the east gate", and kept temples 2 and 3 as the Gandhakuṭī and Kosamba-kuṭī.
+a monastery cell, granting six villages to the friars "residing in the great convent of the holy Jetavana". A
+Bodhisattva set up "in the Jetavana of Sravasti" by Kṣatriya brothers of Mathurā followed (Sahni, AR 1908–09, pp.
+134, 137–38). Marshall (AR 1910–11, pp. 7, 11–12) found an early road running E from temple 2, "amply evident that
+General Cunningham was right in his location of the east gate".
 
-**Gazetteers.** Oudh N–Z 1878 repeats Cunningham's ruin "half a mile from the south-west gate". Gonda 1989: Nagari
-inscriptions show that "Jetavana remained a centre of Buddhism".
+**Inscriptions.** Sahni (EI 11, pp. 20–21) edited the plate, "carefully packed in an earthen box" under a cell of
+the monastery Hoey had partly dug, beside the Kushan Bodhisattvas inscribed "Sravasti" and "Jetavana of Sravasti".
 
-**Assessment.** The site is named on the spot by two inscriptions eleven centuries apart, and the excavated plan
-keeps Cunningham's gate and shrines. Mizutani's implicit identification is strengthened.
+**Later excavations.** The Survey–Kansai University seasons at the Jetavana mound (Raman and Aboshi, IAR 1986–87,
+p. 76; 1987–88, pp. 106–108; Bhengra and Aboshi, 1988–89, pp. 82–84) found a Kushana terraced tank W of the
+Gandhakuṭī, a circular stupa with cells, Kushana monasteries and Gupta temples, occupation from the 1st to the 12th
+century, and a post-Gupta "ye dharmā hetu" sealing; no new inscription names the site.
+
+**Gazetteers.** Oudh N–Z 1878 repeats Cunningham's ruin. Gonda 1989: Nagari inscriptions show that "Jetavana remained
+a centre of Buddhism".
+
+**Assessment.** The site is named on the spot by two inscriptions eleven centuries apart, the excavated plan keeps
+Cunningham's gate and shrines, and the later seasons show it in use through Xuanzang's time. Mizutani's implicit
+identification is strengthened.
 
 ### 06.01.13 得眼林 (Andhavana) — Cunningham's grove at Rajgarh Gulariya fits the distance; Ikauna does not
 
@@ -109,29 +130,34 @@ mound of 800 × 300 ft; Bahraich 1921 notes that it "depends … on the acceptan
 relation; Bhitti has an early stupa in the right relation but fits only the minority reading. Nothing inscribed
 names either. Tandwa remains the better answer, with Bhitti as the rival.
 
-### 06.02 劫比羅伐窣堵國 (Kapilavastu) — Tilaurakot; the survey's Basti sites fell and Mukherji's excavation supports it
+### 06.02 劫比羅伐窣堵國 (Kapilavastu) — Piprahwa–Ganwaria, named on Kushan sealings; Tilaurakot the rival for Xuanzang's city
 
-**Identifications.** Mizutani: Tilaurakot, Nepal Tarai (agreed). Cunningham (1871, pp. 474–81, tentative, not
-visited): Nagar (Nagar-khas), Basti. Beal (p. 13): Carlleyle's Bhuila Dih, doubtfully. Watters
-(p. 17), Majumdar (pp. 711–12) and Dey: Tilaurakot; Majumdar reports Fleet's Piprahwa.
+**Identifications.** Mizutani: Tilaurakot, Nepal Tarai (agreed). Cunningham (1871): Nagar, Basti. Watters (p. 17), Majumdar (pp. 711–12) and Dey: Tilaurakot; Majumdar reports
+Fleet's Piprahwa.
 
-**Survey.** The survey's view moved three times. Carlleyle (ASR XII pp. 84–112) rejected Nagar Khas on the report of
-"a party of intelligent men" he sent there, and placed Kapilavastu at Bhuila Dih (Basti), with satellite sites
-measured from it and Śuṅga and Indo-Scythian coins on the site. Cunningham accepted Bhuila as the western of "the two
-fixed points" (ASR XVIII p. iv; XXII preface). After the inscribed pillars at Rummindei and Nigali Sagar, Smith (1901,
-pp. 10–12, 21–22) drew arcs from Rummindei: 9 miles cuts Piprahwa, "the Kapilavastu of Fa-hien", and 14 miles cuts
-Tilaurakot, "the Kapilavastu of Hiuen Tsiang". Mukherji (1901, pp. 20–21, 47–54) excavated Tilaurakot: a brick fort with
-walls 9–12 ft thick and a circuit of about 5,200 ft, a palace foundation in the NW, and buildings he took for
-Xuanzang's monuments (see "New"). "No other ancient site has so much claim." He rejected Smith's Piprahwa as a later
-Śākya settlement: "the Chinese pilgrims did not see this Stupa at Kapilavastu".
+**Survey.** Carlleyle's Bhuila Dih (ASR XII), accepted by Cunningham, fell (Basti 1907, after Führer). Bühler (EI
+5, pp. 1–5), from the Rummindei pillar, moved the Śākya country north into the Tarai. Smith (1901, pp. 10–12, 21–22)
+took Piprahwa, 9 miles from Rummindei, for "the Kapilavastu of Fa-hien" and Tilaurakot, 14 miles, for "the
+Kapilavastu of Hiuen Tsiang". Mukherji (1901, pp. 20–21, 47–54) found at Tilaurakot a brick fort about 5,200 ft
+round, and rejected Piprahwa.
 
-**Gazetteers.** Basti 1907 echoes Führer's rejection of Bhuila Dih: its configuration "did not agree", and the name
-Hathikund "was actually invented by Carlleyle himself".
+**Later excavations.** *Tilaurakot:* Mitra (IAR 1961–62, pp. 73–74) found NBP-period habitation under a rampart
+and brick wall, Mauryan–Śuṅga finds and one unread inscribed sealing, "nothing to establish or disprove the
+identification". *Piprahwa–Ganwaria:* Srivastava found two more relic caskets below Peppé's (IAR 1971–72, p. 45).
+In 1972–73 (p. 33) 31 sealings "in Brahmi characters of the first-second century A.D." from a verandah of the
+eastern monastery gave "Om Devaputra Vihare Kapilavastu Bhikshu Sanghasa", the Kapilavastu monks' community in the
+Devaputra (Kushan) vihāra; the second legend is not given. Ganwaria's brick
+complexes became "the residential complex of … Sakya king Suddhodhana" (1974–75, p. 41), a "school" and shrines
+over houses, matched to Xuanzang (1975–77); no level after the 4th century is reported.
 
-**Assessment.** Both Basti identifications were abandoned, Carlleyle's after Cunningham had endorsed it. The two 1901
-explorers agree that Xuanzang's Kapilavastu is Tilaurakot, and Mukherji's excavation found a walled town of the right
-period at Xuanzang's distance from the Lumbinī pillar. Nothing inscribed names it, and Piprahwa remains the rival for
-Faxian's city. Mizutani is strengthened.
+**Assessment.** The sealings are the only inscriptions naming Kapilavastu on any site, and 31 from one verandah are
+more likely the monastery's own than letters received (the doubt once raised at Kasia, 06.04). So in the 1st–2nd
+century the Piprahwa monastery was Kapilavastu's. But they name a community four centuries before Xuanzang, not
+his city, and the palace is inference. Tilaurakot has a brick-walled city (smaller than his 14–15 li), and his
+route puts Krakucchanda's pillar town 50 li S of the city: the in-situ Gotihawa pillar (06.02.05) lies S of
+Tilaurakot but on the map NW of Piprahwa. On the evidence now, Piprahwa–Ganwaria is the better-supported
+Kapilavastu, at medium confidence; Tilaurakot remains the rival for the city Xuanzang was shown (Smith's two-city
+view). The satellite notes 06.02.05–06.02.10 are reckoned from Tilaurakot.
 
 ### 06.02.05 迦羅迦村馱佛本生城 (Krakucchanda's town) — Gutiva, with an Aśoka-pillar stump, against Smith's Palta Devi
 
@@ -146,10 +172,17 @@ is a brick Stupa, near which is the lower portion of an Asoka-pillar". He took t
 the birthplace. Smith (p. 5) holds that the Gutiva pillar "is in its original position" but assigns it to the
 Nyagrodha grove (06.02.08).
 
+**Inscriptions.** Bühler (EI 5, p. 6) passes on Führer's report of Krakucchanda's nirvāṇa stupa, "still eighty feet
+high", 7 miles SW of Kapilavastu; Mukherji found Führer's identifications "full of contradictions" (see "New").
+
+**Later excavations.** Mitra, revisiting Mukherji's sites (IAR 1961–62, p. 72), found at Gotihawa "in situ the
+lower part" of an Aśokan pillar, as Smith had held.
+
 **Gazetteers.** None.
 
 **Assessment.** Carlleyle's Nagra falls with Bhuila. Gutiva has the field evidence Xuanzang describes, a relic stupa
-with an Aśokan pillar beside it, but only at an emended distance. Palta Devi fits the distance and has an uninscribed
+with an Aśokan pillar beside it still in place, but only at an emended distance and only if Tilaurakot is the
+city (06.02). Palta Devi fits the distance and has an uninscribed
 pillar. Gutiva is the better candidate, at low confidence.
 
 ### 06.02.05a 迦諾迦牟尼佛本生城 (Kanakamuni's town) — near the Nigali Sagar pillar; whether it is in situ is the question
@@ -164,10 +197,16 @@ Sisania Panre or Palta Devi; he takes Sisania for the town. Mukherji (1901, pp. 
 "about 3 feet in diameter and about 50 feet in length" could not have been moved far. He found no brick stupa near it,
 derived the neighbouring village name Thamua from *stambha*, and took Araura-kot for the town.
 
+**Inscriptions.** Bühler (EI 5, p. 6) reads the Nigliva edict: the stupa of Konākamana was enlarged in Aśoka's
+reign. Hultzsch (CII 1, p. xxiii) takes the pillar for the one Xuanzang saw before Kanakamuni's relic stupa, but,
+with Smith, "not in situ"; no stupa has been traced near it. Mitra (IAR 1961–62, p. 72) only names Nigali Sagar
+among the sites revisited.
+
 **Gazetteers.** None.
 
-**Assessment.** The inscription fixes the pillar to Kanakamuni; the survey only sharpens the old doubt. If it stands
-where Aśoka set it, the town is close by (Araura-kot); if not, Sisania. Mizutani's cautious formulation stands.
+**Assessment.** The inscription fixes the pillar to Kanakamuni; the corpus editor sides with Smith's doubt, and
+nothing since has answered it. If it stands where Aśoka set it, the town is close by (Araura-kot); if not, Sisania.
+Mizutani's cautious formulation stands.
 
 ### 06.02.06 贍部樹蔭 (the Jambu-tree shade, ploughing stupa) — unidentified; Mukherji points to Jadi
 
@@ -181,33 +220,44 @@ neighbourhood".
 
 **Assessment.** A name and a distance, with no remains. The site remains unidentified; Jadi is a lead to test.
 
-### 06.02.08 尼拘律樹林 (Nyagrodha grove / monastery) — Lori-Kudan (Mukherji) or Gutiva (Smith), untested
+### 06.02.08 尼拘律樹林 (Nyagrodha grove / monastery) — Gutiva (Smith) or Lori-Kudan (Mukherji), whose dug mound was Brahmanical
 
 **Identifications.** Mizutani: no site (unknown). Dey (after Mukherji): "the largest mound to the south of Lori-Kudan,
 which is one mile to the east of Gutiva".
 
 **Survey.** Mukherji (1901, pp. 53–54) puts the Nyagrodha monastery at Lori-Kudan, about 2 miles S of Tilaurakot, where
 there is "a solid brick mound, very like a Stupa", and the related stupas on the other Lori-Kudan mounds. Smith (1901,
-p. 12) takes Gutiva, with its pillar, for the grove "half a mile to the south" of the city. Neither excavated.
+p. 12) takes Gutiva, with its pillar, for the grove "half a mile to the south" of the city.
+
+**Later excavations.** Mitra (IAR 1961–62, p. 72) excavated at Kudan, 3 km NE of Gotihawa: a well with a carved
+brick platform and two early medieval Brahmanical brick temples (liṅga, Mahiṣāsuramardinī), nothing Buddhist.
 
 **Gazetteers.** None.
 
-**Assessment.** Both proposals fit the Tilaurakot frame and both are untested. Lori-Kudan, the nearer, is a candidate
-only.
+**Assessment.** Both proposals belong to the Tilaurakot frame (06.02). Mitra's dig at Kudan weakens Mukherji's
+Lori-Kudan without excluding its other mounds; Gutiva is untested. Both are candidates only.
 
-### 06.02.10 箭泉 (Śarakūpa, the Arrow Well) — unidentified; Sisania a tentative lead
+### 06.02.10 箭泉 (Śarakūpa, the Arrow Well) — Birdpur if Piprahwa is Kapilavastu; Sisania if Tilaurakot
 
 **Identifications.** Mizutani: no site (unknown). Cunningham (p. 481): near Sarwanpur. Beal (p. 23) reports Carlleyle's
 Sur-kuiâ but says "the bearing does not … correspond". Majumdar (p. 712) reports Vost: in Basti district.
 
 **Survey.** Carlleyle (ASR XII pp. 111–112, 195–196) put the well at Sarkuhiya, 4.5 miles S of Bhuila, on the name and
 distance. Smith (1901) leaves it unidentified. Mukherji (1901, pp. 56–57) prefers Sisania, SE of Tilaurakot with
-"extensive mounds of ancient ruins", over Piprahwa: "Sisania may, therefore, be the more probable site".
+"extensive mounds of ancient ruins", over Piprahwa: "Sisania may, therefore, be the more probable site". Mitra
+(IAR 1961–62, p. 72) found the Sisania mound "rich in early pottery" and Kushan coins.
+
+**Later excavations.** Srivastava dug the Birdpur mound, "9 km south of Piprahwa, which corroborates in distance
+and direction" Xuanzang's Śarakūpa (IAR 1976–77, p. 49): under a modern liṅga temple, a brick platform and two
+copper vessels at about 6 m, one under a brick carved with a lotus, and perhaps an earlier stupa of Kushan–Gupta
+date. No spring or well is reported.
 
 **Gazetteers.** None.
 
-**Assessment.** Sarwanpur and Sarkuhiya belong to the abandoned Basti frames. Sisania fits the Tilaurakot frame but
-nothing there marks a well. It remains unidentified.
+**Assessment.** Sarwanpur and Sarkuhiya belong to the abandoned Basti frames. Xuanzang puts the small stupa and
+spring "more than 30 li" SE of the city: Birdpur fits the distance from Piprahwa but lies S, not SE, and stands only
+if Piprahwa is Kapilavastu (06.02); Sisania is the equivalent lead from Tilaurakot. Birdpur, with a buried stupa
+of about the right period, is the better of the two as the evidence now stands, but nothing marks the spring.
 
 ### 06.02.11 臘伐尼林 (Lumbinī) — Rummindei, confirmed by excavation
 
@@ -218,6 +268,13 @@ doubt". Watters (p. 16) and Dey agree. Cunningham (pp. 477–78, pre-1896): Moks
 Mukherji (1901, pp. 37, 57–58) exposed the plinth of the Māyādevī temple about 8 ft down, with the nativity group, and
 found the split pillar 45 ft W of it, "as noted by Hiuen Tsiang". Smith (1901, pp. 5–7): the site "is therefore fixed
 with absolute certainty".
+
+**Inscriptions.** Bühler (EI 5, pp. 1–5) edited the pillar, dug out 3 ft below ground: "here Buddha Śākyamuni was
+born", and the village Lummini was exempted from tax; it "fixes with absolute certainty the situation of the garden
+of Lumbini". Hultzsch (CII 1, pp. xxii–xxiii) agrees.
+
+**Later excavations.** Mitra's expedition, based at Lumbinī (IAR 1961–62, p. 65), found antiquities from the 3rd
+century B.C. to at least the 9th century A.D., so the site was in use when Xuanzang came.
 
 **Gazetteers.** None.
 
@@ -231,6 +288,10 @@ the Kohana, from *mrakshan* "oil". Beal (p. 25): an unnamed stream.
 **Survey.** Carlleyle (ASR XII pp. 195–196) took the Bairahwa and Gadi Nalas near Shiwpur for the Oil River. Smith
 (1901, pp. 6–7): "That little river is to this day the Tilar Nadi" (*tel*, oil). Mukherji (1901, p. 58) found it a
 furlong and a half E of the mound, and the pillar split "in the middle" as Xuanzang says.
+
+**Inscriptions.** The pillar names the village Lummini (Bühler, EI 5, pp. 1–5; 06.02.11). Hultzsch (CII 1, pp.
+xxii–xxiii) accepts the Tilar Nadi for Xuanzang's "river of oil" and notes the split shaft and lost horse capital
+(Xuanzang: 上作馬像).
 
 **Gazetteers.** None.
 
@@ -260,7 +321,7 @@ measuring 26 miles from Bhuila Dih, which fell (06.02); from Rummindei it lies t
 Dharmauli fits the distance from Lumbinī but rests on a name and a stupa Hoey reported nearby; Bawangarhi is
 Smith's own discarded alternative. The place stays disputed.
 
-### 06.03.03 太子迴駕・剃髮窣堵波 (Chandaka's return; Anomā) — unidentified; Carlleyle's Kudawa sites depend on Rampur Deoriya
+### 06.03.03 太子迴駕・剃髮窣堵波 (Chandaka's return; Anomā) — unidentified; Carlleyle's Kudawa sites depend on Rampur Deoriya, Mani's Nautanwa on a name
 
 **Identifications.** Mizutani: the Anomā bank in Moriya territory; no modern site (uncertain). Cunningham (pp. 489–91):
 Anomā = Aumi; return stupa at Chandaoli. Beal (p. 29): Manêya (Carlleyle). Dey reports Aumi and Carlleyle's Kudawa
@@ -276,12 +337,19 @@ Cunningham called these "almost certain" (ASR XVIII preface; XXII preface).
 village Anuaurpari ("across the Anuma"), but no stream of that name and no Buddhist remains: "rather of negative than
 positive value".
 
+**Later excavations.** Mani (IAR 1996–97, pp. 137–138), exploring Basti and Siddharthnagar, matched sites to Pāli
+places on "size and antiquity of sites, similarities in the ancient and present names and their geographical
+locations", among them "the township of Nautanwa with ancient
+Nivartana chaitya from where Siddhartha returned Chhandaka and Kanthaka". Nautanwa was not excavated.
+
 **Gazetteers.** Champaran 1907 (Smith's view) places the site of Chandaka's return in Champaran, on the Aśokan pillar
 road, without a site.
 
 **Assessment.** Carlleyle found low mounds where his reckoning put them, but the reckoning runs from Bhuila and Rampur
-Deoriya, and "Kudawa" carries the argument. Fleet's Majhauli has a village name and nothing else. Mizutani's
-"uncertain" stands.
+Deoriya, and "Kudawa" carries the argument. Fleet's Majhauli has a village name and nothing else. Mani's Nautanwa
+follows the Pāli accounts and a Kapilavastu at Piprahwa, not Xuanzang, who puts the stupa over 100 li E of the
+Śrāmaṇera monastery beyond Rāmagrāma, itself 200 li E of Lumbinī; Nautanwa, NE of Siddharthnagar, lies short of
+that. It is a new proposal on name and region only. Mizutani's "uncertain" stands.
 
 ### 06.03.04 尼拘盧陀林灰炭窣堵波 (Ashes stupa, Pippalivana) — Lauriya-Nandangarh against Carlleyle's Rajdhani
 
@@ -302,31 +370,34 @@ Gorakhpur 1987 places Pippalivana in Gorakhpur district without a site.
 is tied to the Moriyas by anything found. Later work, not in these sources, excavated a stupa at Nandangarh. Here
 Nandangarh is a candidate rather than a result.
 
-### 06.04 拘尸那揭羅國 (Kuśinagara) — Kasia; doubted on the sealings 1905–07, settled by Haribala's copper plate 1910–11
+### 06.04 拘尸那揭羅國 (Kuśinagara) — Kasia; doubted by Bühler and on the sealings 1905–07, settled by Haribala's copper plate 1910–11
 
 **Identifications.** Mizutani: Kasia, following "the common view", listed as disputed because the remains do not look
 like the pilgrims' ruin. Wilson, Cunningham (p. 493), Vivien (p. 359), Beal (p. 32) and Dey: Kasia. Majumdar (p. 714):
-seals of the Mahāparinirvāṇa-vihāra "support Cunningham"; he reports Smith's Nepal site. Watters (p. 44): not Kasia.
+the seals "support Cunningham". Watters (p. 44): not Kasia.
 
 **Survey.** Cunningham (ASR I pp. 76–86) put the city at the Anrudhwa mound and the nirvāṇa vihāra at Matha Kuar.
-Carlleyle (ASR XVIII pp. 57–96) excavated the 20-ft Nirvāṇa statue with a Gupta inscription ("beyond all doubt",
-Cunningham). Smith (1901, p. 19) still put it in Nepal, Mukherji (1901, p. 60) at Lauriya.
+Carlleyle (ASR XVIII pp. 57–96) excavated the Nirvāṇa statue with a Gupta inscription. Smith (1901, p. 19) still
+put it in Nepal, Mukherji (1901, p. 60) at Lauriya.
 
-**Excavations.** In 1904–05 Vogel kept Kasia against Smith but left it "for further excavation to decide"
-(Marshall, AR 1904–05, pp. 33–44). The hundreds of sealings of the "convent of the Great Decease" found in 1905–07
-were read as letters sent to Kasia from Kuśinagara (Konow, Marshall, AR 1905–06, pp. 57–59, 76–88), and Vogel took a
-seal-die of the "Vishnudvipa" convent to make Kasia "highly probable" Veṭhadīpa (AR 1906–07, pp. 34–35); Marshall:
-"we cannot look upon the question as settled". Hirananda Sastri then found in the great stupa behind the Nirvāṇa
-temple a copper plate of Haribala, donor of the statue, deposited in the "Nirvāṇa-caitya", with coins of Kumāragupta,
-and more Mahāparinirvāṇa sealings (AR 1910–11, pp. 65–69, Pargiter p. 75; AR 1911–12, pp. 135–39). Anrudhwa yielded
-religious buildings, not a town (AR 1905–06; 1911–12). Sahni found nothing at Fleet's Pachrukhi (AR 1906–07). Page's
-"in the Nepalese Tarai" (AR 1922–23 p. 149; 1924–25 p. 86) is an unargued aside.
+**Excavations.** The hundreds of sealings of the "convent of the Great Decease" found in 1905–07 were read as
+letters sent to Kasia from Kuśinagara (Konow, Marshall, AR 1905–06, pp. 57–59, 76–88), and Vogel took a seal-die
+of the "Vishnudvipa" convent to make Kasia "highly probable" Veṭhadīpa (AR 1906–07, pp. 34–35). Hirananda Sastri
+then found in the great stupa behind the Nirvāṇa temple a copper plate of Haribala, donor of the statue, deposited
+in the "Nirvāṇa-caitya", with coins of Kumāragupta, and more Mahāparinirvāṇa sealings (AR 1910–11, pp. 65–69,
+Pargiter p. 75; AR 1911–12, pp. 135–39). Sahni found nothing at Fleet's Pachrukhi (AR 1906–07).
+
+**Inscriptions.** Bühler (EI 5, p. 6), on the Nigliva edict, followed Führer: "If the direction given by the
+Chinese,— east of Lumbini,— is correct, Kusinara cannot be identical with Kasia". The objection is conditional,
+rests on a bearing and on Führer's reports, and predates the plate. Sahni (EI 18, no. 16), editing a Kalachuri
+inscription from the Matha Kuar shrine, which does not name the place, calls Kasia "proved by successive
+excavations to represent in all probability the ancient site of Kusanagara". IAR records no later excavation.
 
 **Gazetteers.** Gorakhpur 1909 answers Smith and reports Vogel's work; vol. VI 1881 repeats Cunningham.
 
 **Assessment.** The plate shows the stupa was the parinirvāṇa caitya by the mid-5th century, which reverses the doubt
-of 1905–07; as Pargiter notes, it proves the tradition, not the historical spot. Mizutani's Kasia is strengthened and
-the reason for calling it disputed falls away.
+of 1905–07; as Pargiter notes, it proves the tradition, not the historical spot. Bühler's objection was overtaken
+by it. Mizutani's Kasia is strengthened and the reason for calling it disputed falls away.
 
 ### 06.04.03 娑羅林 (the sāla grove, nirvāṇa site) — Matha-kuar-ka-kot at Kasia, the "Parinirvāṇa-caitya" of the copper plate
 
@@ -343,6 +414,10 @@ a monastery, but no pillar on Carlleyle's eastern mound. Hirananda Sastri's shaf
 caitya", given by Haribala, the donor of the statue; an earlier small stupa lay inside. Mauryan remains round the
 temple plinth and Mahāparinirvāṇa sealings followed (AR 1911–12, pp. 135–39). The 1927 restoration put a copy of the
 evidence in the new relic chamber (AR 1927–28, p. 13).
+
+**Inscriptions.** Sahni (EI 18, no. 16) edits a Kalachuri stone inscription that Carlleyle found by the door of the
+Matha Kuar shrine, a separate brick shrine of a Buddha image; it does not name the site but shows the complex in
+use in the medieval period.
 
 **Gazetteers.** Vol. VI 1881 repeats Cunningham's distance from Anrudhwa. Gorakhpur 1909 reports the temple and the
 20-ft image with Haribala's inscription.
@@ -423,6 +498,13 @@ Marshall dated the Main Shrine late, with 9th-century inscriptions in its founda
 Sammitīya inscription on the Aśoka pillar matches Xuanzang's 1,500 monks of that school (AR 1907–08, pp. 74–76), and
 10th–12th-century inscriptions name the Dharmacakra(jina) vihāra (pp. 74–76, 80–83).
 
+**Inscriptions.** Vogel (EI 8, pp. 166–172) edits the Sarnath inscriptions, including the 4th-century record on
+the Aśoka pillar to the masters of the Sammitīya (?) school; Hultzsch (CII 1, pp. xxi–xxii) places Sarnath N of
+Benares and the edict pillar in the Deer Park.
+
+**Later excavations.** Sinha's trial trenches behind the apsidal structure and towards the Aśoka pillar (IAR
+1992–93, pp. 98–99) dated the apsidal temple to the late Mauryan period, over deposits of the 4th–3rd century B.C.
+
 **Gazetteers.** Benares 1911 reports the Dharmacakrapravartana inscription and dates the Main Shrine after the 7th
 century; Varanasi 1965 identifies it with Xuanzang's 200-ft vihāra.
 
@@ -440,6 +522,10 @@ cannot be relied upon"; Marshall put the column at about 50 ft and noted that th
 stone (pp. 33–44). Konow took the Dharmarājikā of the Mahīpāla inscription for Aśoka's stupa (AR 1906–07, pp.
 98–99), and Marshall's section through the Jagat Singh stupa found an original of large wedge-shaped bricks "back …
 to the time of Aśoka", with enlargements down to the 12th century (AR 1907–08, pp. 64–65).
+
+**Inscriptions.** Hultzsch (CII 1, pp. xxi–xxii) takes Oertel's pillar for Xuanzang's 70-ft pillar before
+Aśoka's stupa, noting its 37 ft; Vogel (EI 8, p. 166), with the lower shaft in situ, identifies it with the jade-bright
+pillar where the Buddha first turned the Wheel.
 
 **Gazetteers.** Benares 1911: the pillar "could not have been more than 60'", but "most people will regard it as more
 than probable" that it is Xuanzang's column; the brick Jagat Singh stupa against his stone one calls for "hesitating";
@@ -494,11 +580,16 @@ convincing" than the others: the stupa lies "some 800 yards south-west" of the m
 in this direction". The niched terraces "tended rather to disprove" it, since Xuanzang saw no niches, but the
 monument may have been rebuilt since.
 
+**Later excavations.** Muhammed K. K. (IAR 1997–98, p. 199; 1998–99, pp. 217–218) cut the SE corner: terrace walls
+1.30 m thick with cross walls forming earth-filled boxes, a terraced brick structure of the Gupta period, and on
+the E a 2-m brick path to the centre, at least one gateway, with traces of a circumambulatory path.
+
 **Gazetteers.** Benares 1911: "The one structure about which there seems least uncertainty is the Chaukhandi stupa".
 Benares, Mirzapur, Jaunpur 1884 echoes Cunningham's measurements.
 
-**Assessment.** Position, distance and the absence of any rival mound support Chaukhandi for the great stupa; the
-niches are a reservation, not a counter-site. Mizutani's small stupa stood "beside" it, so Mizutani is strengthened.
+**Assessment.** Position, distance and the absence of any rival mound support Chaukhandi for the great stupa, and
+the later work dates the terraced structure to the Gupta period, before Xuanzang; the niches are a reservation, not
+a counter-site. Mizutani's small stupa stood "beside" it, so Mizutani is strengthened.
 
 ### 07.01.11 救命池 (烈士池, the Hero's Pond) — unidentified
 
@@ -619,27 +710,35 @@ authority records, at low confidence.
 ### 07.03 吠舍釐國 (Vaiśālī) — Basarh; Bloch's survey, plan and Vaiśālī seals
 
 **Identifications.** Mizutani: Basarh, Raja-Bisal-ka-garh (agreed). Vivien (p. 364), Cunningham (pp. 507–8), Beal (p.
-66), Majumdar (p. 717, citing Bloch's excavation and seals) and Dey: Basarh. Watters (p. 77): "we need not accept the
+66), Majumdar (p. 717) and Dey: Basarh. Watters (p. 77): "we need not accept the
 identification". Dey reports Hoey's Chirand.
 
 **Survey.** Cunningham (ASR I pp. 55–57) measured Raja Bisal ka garh at 4,660 ft round against the 4–5 li of the palace
-city, found the name Besarh in the Āʾīn-i Akbarī, and took the Bakhra pillar, tank and stupa NW of it for Xuanzang's
-Aśoka group; he later cut the ramparts (ASR XVI p. 12).
+city.
 
-**Excavations.** Bloch (AR 1903–04, pp. 81–110; EC 1903–04, pp. 14–15) mapped about 24 sq. miles. The fort, which
-"still preserves the name of Visāla", is "something less than 5,000 feet" round, as the 4–5 li require; the Kolhua
+**Excavations.** Bloch (AR 1903–04, pp. 81–110; EC 1903–04, pp. 14–15): the fort, which "still preserves the name
+of Visāla", is "something less than 5,000 feet" round, as the 4–5 li require; the Kolhua
 pillar, stupa and Rām-kund tank lie about 2 miles NW, as in Xuanzang (07.03.04). "It is this group which I think proves
 conclusively that Vaisali is identical with Basarh." Trench D, where local opinion put the palace, gave hundreds of
 4th–5th-century clay seals, one reading "[V]aiśāly-adhiṣṭhān-ādhikaraṇa", the government of Vaiśālī, and others
-Tīrabhukti (pp. 91, 103–10). Marshall still found the proof not "decisive" (p. 73). Page (AR 1922–23, pp. 30–31) sums
-up Bloch's and Spooner's (1912) seasons: over 1,200 inscribed seals, one of the 3rd century B.C.
+Tīrabhukti (pp. 91, 103–10). Spooner's season (1912) added over 1,200 inscribed seals
+(Page, AR 1922–23, pp. 30–31).
+
+**Inscriptions.** CII 3 (pp. 67, 70, 101, 260) edits the Basarh seals of Dhruvasvāminī, Govindagupta and
+Ghaṭotkacagupta, and reads the official seals as making Vaiśālī the Yuvarāja's seat and head of a *viṣaya* in
+Tīrabhukti.
+
+**Later excavations.** Altekar and Sita Ram Roy (IAR 1958–59, p. 12; 1959–60, pp. 14–16) cut the fort's defences:
+a brick wall on NBP deposit, an earthen rampart dated by a sealing of Agnimitra (2nd century B.C.), and a late
+Kushan–early Gupta brick rampart. Outside it Altekar found the relic stupa by following Xuanzang (07.03.03; IAR
+1957–58, pp. 10–11), Roy a Gupta shrine at Baniya (07.03.02), and the Kolhua group was cleared (07.03.04).
 
 **Gazetteers.** Muzaffarpur 1907 reports Bloch's excavation; Darbhanga 1907 the seals; Saran 1905 rejects Hoey's
 Chirand.
 
 **Assessment.** A fort of the right circuit bearing the name, the Aśoka group in the right relation, and a seal of the
 city's own administration found in the fort leave no room for Watters' doubt; a seal can travel, but not with the
-rest. Mizutani is strengthened.
+rest. The later excavations add a relic stupa found where Xuanzang puts it. Mizutani is strengthened.
 
 ### 07.03.02 宮城西北伽藍 (the Sammitīya monastery NW of the palace city) — Bloch's spot E of Baniya, emptied by brick-robbing
 
@@ -651,11 +750,16 @@ Pharawal rested on a mound Mukherji reported in 1897; Bloch could not find it, a
 is a silted tank E of Baniya, "which may have belonged to the monastery", with no bricks in the fields: "all traces of
 these ruins have been removed long ago".
 
+**Later excavations.** Altekar's relic stupa (07.03.03; IAR 1957–58, pp. 10–11) lies about half a mile NW of the
+fort, NE of the Kharauna pokhar. In Xuanzang's sequence it stands SE of the Śāriputra stupa, which is E of this
+monastery, so the monastery lay a little beyond it to the NW, towards Bloch's spot. Roy (IAR 1960–61, p. 6; 1961–62,
+p. 7) found a Gupta brick shrine at Baniya over NBP-period levels.
+
 **Gazetteers.** None that are specific. Muzaffarpur 1907 speaks only of "so many" stupas at Basarh.
 
-**Assessment.** Bloch fixes the area on Xuanzang's bearing and distance from a securely identified palace, but finds
-nothing to dig. It is a located area rather than a site. Later work (not in these sources) found the Licchavi relic
-stupa (07.03.03) in this quarter.
+**Assessment.** Bloch fixes the area on Xuanzang's bearing and distance from a securely identified palace, and the
+relic stupa found since anchors the sequence just short of it. The monastery itself has not been found. It is a
+located area rather than a site.
 
 ### 07.03.06 毘摩羅詰故宅 (Vimalakīrti's house) — unidentified
 
@@ -691,7 +795,7 @@ next site (07.03.13); Xuanzang's parting place lies only 50–60 li NW of the ci
 
 **Assessment.** It remains unidentified. Faxian's inscribed pillar would be the thing to look for.
 
-### 07.03.13 吠舍釐城西北故城 (the old city NW of Vaiśālī, Mahādeva jātaka) — Kesariya, confirmed by local tradition
+### 07.03.13 吠舍釐城西北故城 (the old city NW of Vaiśālī, Mahādeva jātaka) — Kesariya, confirmed by local tradition and a pre-7th-century stupa
 
 **Identifications.** Mizutani and Cunningham (p. 511): Kesariya, about 30 miles NNW of Vaiśālī (agreed). The coded Dey
 entry ("Hoey … town of the Monster Fish") belongs to another place.
@@ -701,14 +805,20 @@ upper stupa built on a ruined older one, a practice Xuanzang records at Vaiśāl
 Deora of Raja Ben Chakravartti, and a gallery dug into it some forty years earlier found nothing. Its distance is "the
 exact position" for Xuanzang's town "deserted for many ages".
 
-**Excavations.** None. Page (AR 1922–23, pp. 30–31), on its conservation, describes a brick stupa on a platform
-assigned to the 1st century A.D. and repeats the identification with the stupa Xuanzang describes.
+**Excavations.** None before 1997. Page (AR 1922–23, pp. 30–31), on its conservation, describes a brick stupa on a
+platform assigned to the 1st century A.D. and repeats the identification with the stupa Xuanzang describes.
+
+**Later excavations.** Muhammed K. K. dug four seasons (IAR 1997–98, pp. 13–14; 1998–99, pp. 2–3; 1999–2000, pp.
+9–15; 2000–01, p. 8): a terraced circular brick stupa over 100 m across at the base, with five terraces, cells
+holding large stucco Buddhas, and a drum 9.38 m high. First dated to the 7th century, it was then given a
+Śuṅga–Kushan core and late-Gupta terraces, so it stood in Xuanzang's day. No inscription was found.
 
 **Gazetteers.** Tirhut, Champaran 1875–77 and Champaran 1907 (copied in 1960) echo Cunningham's Raja Ben tradition:
 "It can hardly be doubted that the tradition of Raja Ben preserves the story recorded by Hiuen Tsiang".
 
-**Assessment.** The local name keeps Xuanzang's cakravartin attribution, the distance fits, and the Survey's dating
-puts the stupa before his visit. Mizutani is strengthened.
+**Assessment.** The local name keeps Xuanzang's cakravartin attribution, the distance fits, and the excavation shows
+a great stupa of Śuṅga–Kushan origin enlarged in the late Gupta period, before his visit. Nothing names it.
+Mizutani is strengthened.
 
 ### 07.03.14 七百賢聖結集窣堵波 (stupa of the second council) — unidentified; the textual conflict remains
 
@@ -760,6 +870,9 @@ Vaiśālī. Watters (p. 80) calls Xuanzang's use of the name "peculiar".
 the north". Muzaffarpur 1907 describes the country as a long east–west strip of about 4,000 li in circuit. Purnea 1911 repeats Cunningham's conjecture that Purnea was "one of their
 capitals".
 
+**Inscriptions.** Bhandarkar (EI 21) compares the Saṃvaṅgiyas of a Bengal plate with the Saṃvajji, Xuanzang's
+三伐恃; this concerns the name, not the territory.
+
 **Assessment.** The gazetteers agree with Mizutani's northern Tirhut/Darbhanga and add no evidence. Mizutani stands.
 
 ### 07.04.01a 占戍拏 (the capital) — Bāligarh against Janakpur; unresolved
@@ -809,14 +922,19 @@ From the gazetteers:
   mound, 70 ft high, upwards of a mile SE of the Jetavana (Cunningham corrects Faxian's NE), with Viśākhā's stupa at a small
   mound NE of it (excavated, solid brick, 40 ft across). Identified "with some probability". Marshall (AR 1910–11,
   p. 3) found the Ora Jhar about 50 ft high and "composed entirely of yellowish clay", with a 9th-century stupa and
-  cells on top, artificially raised like the Lauriya mounds; he does not discuss the Pūrvārāma.
+  cells on top, artificially raised like the Lauriya mounds; he does not discuss the Pūrvārāma. Fonia and Hasan dug
+  the Orajhar "to trace the Purvarama" (IAR 1999–2000, pp. 171–174): Kushan monastic cells, then a Gupta temple
+  plinth with pilasters like the Sahet temple, then later platforms. A Kushan–Gupta Buddhist site, but nothing names
+  it.
 - **Aśoka stupa monastery NW of the 戰主國 capital (≈07.02.01).** Azamgarh, Ghazipur, Ballia 1883 (hits 851/1070): Oldham's
   ruins at Aonrihar, 2 miles from Sayyidpur. Bricks, masonry wells and walls run towards the Masaun mound, and 29 sculptures were removed to
   Ghazipur. This goes with Oldham's Sayyidpur capital (07.02).
 - **Monkey tank (獼猴池), Vaiśālī.** Muzaffarpur 1907 (hits 67/295) echoes Cunningham (ASR I pp. 62–63; XVI pp. 13–15): the
   brick-faced tank, 240 × 140 ft, S of the Kolhua pillar, now called Ram-kund, "evidently is the monkey tank". Well supported by its
   position next to the pillar and stupa (07.03.04). Bloch (AR 1903–04, p. 84; EC 1903–04, pp. 14–15) confirms the
-  Rām-kund as the Markaṭahrada, measured at 200 × 100 ft: "As to their location no possible doubt exists."
+  Rām-kund as the Markaṭahrada, measured at 200 × 100 ft: "As to their location no possible doubt exists." The
+  Survey exposed it (IAR 1991–92, pp. 4–5; L. C. Singh, 1992–93, pp. 5–6): a Kushana brick-lined tank about 32.5 ×
+  31.5 m in seven tiers, with two bathing ghats, S of the pillar, as Xuanzang puts the pond.
 - **Monkey's offering of honey / bhikṣus' grove, Vaiśālī.** Saran 1905 and Saran 1960 (hits 334, 1591), after Hoey (JASB 1900):
   Bhikaban ("clearly the 'Bhikshu's Grove'") and two villages called Kapia (*kapi*, monkey) near Saran Khas. This depends on Hoey's
   placing of Vaiśālī in Saran, which 07.03 contradicts. A curiosity, not a candidate.
@@ -837,7 +955,10 @@ From the Archaeological Survey and Mukherji 1901 (rows coded `new`, and sub-site
   fort; the Asita stupa at a sixteen-sided brick structure NE of it; Yaśodharā's quarters and the school-house by the central tank;
   the saṅghārāma before the E gate; deva temples at Chitra-dei; the elephant stupa at a mound 500 ft S of the S gate, with the
   Hastigarta ditch beside it; Kanthaka's return stupa about 650 ft SE of the E gate; the kāṣāya and conversion stupas at Lori-Kudan;
-  the tournament stupa at Derwa. All partly excavated or unexcavated; proposals only.
+  the tournament stupa at Derwa. All partly excavated or unexcavated; proposals only. The rival set is Srivastava's
+  at Ganwaria, by Piprahwa (06.02): the larger brick complex as Śuddhodana's residence (IAR 1974–75, p. 41), a block
+  of rooms and courtyards as the prince's school (1975–76, p. 49), and shrines built over houses, tested against
+  Xuanzang's vihāras on the palace sites (1976–77, p. 51). Also proposals by analogy, with no inscription.
 - **Śakra's and the four Devarājas' stupas, Lumbinī; Koli/Devadaha.** Mukherji 1901 pp. 57–58: among five small stupas excavated at
   Rummindei; Koli at the Koliha rivulet near Baghia. Smith (1901, p. 18) puts Koli on the Baghela, 17–18 miles E of Rummindei.
 - **Kuśinagara: Subhadra's stupa, the deer stupa, the relic-division stupa.** Carlleyle, ASR XVIII pp. 88–91: Subhadra's at the
@@ -845,4 +966,7 @@ From the Archaeological Survey and Mukherji 1901 (rows coded `new`, and sub-site
   division perhaps at Ramabhar (see 06.04.11). He found no other large stupa near Kasia.
 - **The monkey's honey-offering stupa (獼猴奉蜜窣堵波), Vaiśālī.** Cunningham, ASR I p. 62, took two low mounds W and S of the
   monkey tank; excavating W of the tank (ASR XVI pp. 15–16) he found only a small votive stupa and "can scarcely suppose" it the
-  honey stupa.
+  honey stupa. The later seasons found a Kushana–Gupta monastery of 12 cells 80 m SW of the pillar, a Gupta
+  svastika-shaped monastery and over eighty votive stupas N and W of the tank, and a Gupta sherd "Buddha Nandasya"
+  (L. C. Singh, IAR 1989–90, pp. 11–13; 1996–97, pp. 5–6; Muhammed K. K., 1997–99). None is singled out as the honey
+  stupa.

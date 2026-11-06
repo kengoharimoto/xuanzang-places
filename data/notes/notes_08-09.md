@@ -1,8 +1,8 @@
 # Notes on disputed places: juan 8–9 (Magadha)
 
 Places in juan 8–9 that meet at least one of the criteria in `NOTES_INSTRUCTIONS.md`, or on which the Archaeological
-Survey or its Annual Reports give a site or field evidence (`NOTES_REVISION_ASR.md`, `NOTES_REVISION_AR.md`), in
-master-table order.
+Survey, its Annual Reports, the inscriptions or the post-1953 excavations give a site or field evidence
+(`NOTES_REVISION_ASR.md`, `NOTES_REVISION_AR.md`, `NOTES_REVISION_EPIG_IAR.md`), in master-table order.
 Gazetteer volumes: HU11 = Hunter, *Statistical Account* Patna, Saran (1877); HU12 = Hunter, Gaya, Shahabad (1877);
 BG26 = Patna District Gazetteer (1907); BG27 = Gaya District Gazetteer (O'Malley 1906); RV24 = Gaya revised edition
 (1957, which reprints much of 1906); BG33 = Monghyr (1909); RV27 = Monghyr revised (1960). Most volumes exist in two
@@ -13,34 +13,39 @@ after a later joint visit; XI = Cunningham 1875–78; XV = Cunningham 1879–80;
 Annual Reports (page as printed): AR = the Director-General's *Annual Report* for the year; EC = the Eastern (Bengal)
 Circle report for the year. Authors are named in the text (Marshall, Bloch, Spooner, Page, Hirananda Sastri, Dikshit,
 Chanda, Chakravarti, Chandra, Nazim).
+Inscriptions: EI = *Epigraphia Indica* (volume, page); CII 3 = *Corpus Inscriptionum Indicarum* III (Gupta
+inscriptions, revised ed. by Bhandarkar, Chhabra and Gai). Later excavations: IAR = *Indian Archaeology – A Review* for
+the year (page as printed).
 
 ## Juan 8
 
-### 08.02.01 波吒釐子城 (Pāṭaliputra) — Patna: the Mauryan city dug out between Bankipore and Patna City
+### 08.02.01 波吒釐子城 (Pāṭaliputra) — Patna: the Mauryan city between Bankipore and Patna City, its palisade traced to Kankarbagh
 
-**Identifications.** Mizutani: Pāṭaliputra, with ruins "on the way from Patna towards Dinapore" (NW). He mentions the
-excavated wooden palisade and the Persepolis-like pillared hall (agreed). Vivien (p. 373), Cunningham (1871, pp. 518,
-520), Beal (p. 136) and Dey: Patna. Majumdar (pp. 719–720), after Waddell: buried under Patna, Bankipore and the
-railway.
+**Identifications.** Mizutani: Pāṭaliputra, with ruins "on the way from Patna towards Dinapore" (NW); he cites the
+excavated palisade and pillared hall (agreed). Vivien (p. 373), Cunningham (1871, p. 518), Beal (p. 136), Dey: Patna;
+Majumdar (pp. 719–720), after Waddell: under Patna and Bankipore.
 
-**Survey.** Beglar (ASR VIII, pp. 1, 27) found no relics of Pāṭaliputra in modern Patna and supposed that the Ganges
-had carried the old city away.
+**Survey and gazetteers.** Beglar (ASR VIII, pp. 1, 27) thought the Ganges had carried the city away. BG26 (Patna
+1907) reports Waddell's Aśokan building at Kumrahar and sal palisades.
 
-**Gazetteers.** BG26 (Patna 1907) reports Waddell's finds: part of a great stone building of Aśoka's period at
-Kumrahar, and a palisade of sal logs at the S wall and at Lohanipur.
+**Excavations.** Spooner (from 1912–13) found at Kumrahar "a vast pillared hall of Mauryan date", 8 × 10 polished
+columns (AR 1912–13, p. 24; EC 1913–14, p. 46), and Mauryan timber at Bulandi Bagh (EC 1914–15, pp. 48–49). M. Ghosh
+exposed it as a palisade 450 ft long, "within the limits of the ancient city" (Page, AR 1926–27, pp. 135–136).
+Chandra found more at Gonsai Khanda (AR 1935–36, p. 54).
 
-**Excavations.** Spooner dug for Ratan Tata from 1912–13. At Kumrahar he found "a vast pillared hall of Mauryan date",
-8 rows of 10 polished columns 15 ft apart, under Gupta brick walls (AR 1912–13, p. 24; EC 1913–14, p. 46). He took it
-for the Maurya palace, on the model of Persepolis (AR 1913–14, pp. 24–25, "tentative"). At the Bulandi Bagh, NW of
-Kumrahar across the railway, he followed timber work more than 24 ft down, "of Mauryan date" (EC 1914–15, pp. 48–49).
-M. Ghosh then exposed it as a palisade running W–E for 450 ft, in a garden about 4 miles E of Patna "known to fall
-within the limits of the ancient city" (Page, AR 1926–27, pp. 135–136). Chandra found more Mauryan timber and brick at
-Gonsai Khanda (Sandalpur), N of the Kumrahar road (AR 1935–36, pp. 54–55).
+**Inscriptions.** Bhandarkar (CII 3, pp. 206–207) takes Pushpa, Samudragupta's capital in the Allahabad pillar
+inscription, for Kusumapura = Pāṭaliputra, "now represented by the modern Patna", citing Xuanzang. The
+Son once joined the Ganges "immediately below the modern town of Patna"; its present mouth near Dinapore is later.
 
-**Assessment.** The excavations put the Mauryan city on the line Kumrahar–Bulandi Bagh–Panch Pahari, between Bankipore
-and Patna City. That agrees with Mizutani if his "Patna" means Patna City, and his citing the palisade and the hall suggests
-it does. It does not support a ruin field W of Bankipore towards Dinapore. The site is now fixed by
-excavation, though no inscription names it.
+**Later excavations.** V. Mishra (K. P. Jayaswal Institute) reopened Kumrahar: levels from c. 150 B.C. to A.D. 600,
+and an ash layer showing the hall "destroyed about the middle of the second century B.C." (IAR 1953–54, pp. 9–10;
+1954–55, pp. 16–19); Patna City gave "a probable Asokan pillar-capital" (IAR 1955–56, pp. 9–10, 19–22). In 1970–71 a
+sewer trench at Kankarbagh, SE Patna, exposed fourteen posts in four rows, plank-boxed and earth-rammed, which "formed
+a part of the defences/pallisade of the Mauryan city of Pataliputra" (Thapar and others, IAR 1970–71, pp. 5–6, 63).
+
+**Assessment.** The palisade now runs from Bulandi Bagh to Kankarbagh, on either side of Kumrahar, between
+Bankipore and Patna City and SE of them. Nothing points W towards Dinapore; Bhandarkar's old Son mouth lies below Patna. Mizutani
+stands if his "Patna" is Patna City. No inscription names the site, but the identification is settled.
 
 ### 08.02.03 八萬四千塔 (無憂王堵波) — Panch-Pahari: Cunningham's mound C; Mauryan stūpas dug at Bara Pahari
 
@@ -221,28 +226,31 @@ of his Mora range and give physical remains that match Xuanzang.
 
 ### 08.06.01 菩提樹 (垣內) — the Bodh Gayā precinct; the stone railing is Śuṅga, and the wall was brick (Bloch)
 
-**Identifications.** Mizutani: the Mahābodhi precinct at Bodh Gayā; the enclosure is the railing (agreed). Every
-authority agrees on the precinct (Cunningham p. 526; Vivien p. 376; Majumdar p. 720, who notes that Urel preserves the
-name Uruvilvā; Beal; Dey).
+**Identifications.** Mizutani: the Mahābodhi precinct; the enclosure is the railing (agreed). Every authority agrees
+on the precinct (Cunningham p. 526; Vivien p. 376; Majumdar p. 720, who notes that Urel preserves Uruvilvā; Beal; Dey).
 
-**Survey.** Cunningham takes the precinct as given. He describes the Bodhi tree on its raised terrace (ASR I, pp. 5–8)
-and the Vajrāsana (ASR III, pp. 80–82).
+**Survey.** Cunningham takes the precinct as given: the Bodhi tree on its terrace (ASR I, pp. 5–8), the Vajrāsana
+(ASR III, pp. 80–82).
 
 **Gazetteers.** BG27 (Gaya 1906) argues from the stone railing: Xuanzang's 10-ft wall "corresponds with the height (9
-feet 10 inches) of the pillars still existing". The pillars carry inscriptions in Aśokan characters, and the present
-circuit (about 520 ft) shows the railing was rearranged and enlarged. RV24 (1957, after Barua) places the Animeṣa
+feet 10 inches) of the pillars still existing", which bear Aśokan letters. RV24 (1957, after Barua) places the Animeṣa
 caitya and the Jewel-walk.
 
-**Excavations.** Bloch (AR 1908–09, pp. 143–147) dates the older railing from its donors' inscriptions, which name the
-wives of kings Indrāgnimitra and Brahmamitra. That puts it in the mid-2nd century B.C., "about one hundred years after
-the time of Asoka", so that the term "Asoka railing" is "misleading and should be discarded". "It seems most likely
-that this railing originally stood around the Bodhi Tree". Its pillars have been moved since. Xuanzang's enclosing
-walls were "built of bricks, high and strong", and a Bharhut relief shows such a high wall round the tree.
+**Excavations.** Bloch (AR 1908–09, pp. 143–147) dates the railing by its donors, wives of kings Indrāgnimitra and
+Brahmamitra, to the mid-2nd century B.C., so "Asoka railing" is "misleading". It "originally stood around the Bodhi
+Tree" and has been moved. Xuanzang's walls were "built of bricks, high and strong", like the wall round the tree on a
+Bharhut relief.
 
-**Assessment.** The site was never in doubt. Bloch separates two things that Mizutani and the 1906 gazetteer equate.
-The stone railing was a Śuṅga fence round the tree. Xuanzang's enclosure of over 600 paces was a brick wall, and no
-trace of it is reported. The gazetteer's argument from the pillars' height loses its force. Mizutani's precinct
-stands, but his reading of the enclosure is weakened.
+**Later excavations.** The Bihar Directorate (Ajit Kumar Prasad, under Sita Ram Roy, later Prakash Charan Prasad) dug
+the Taradih mound "to the south-west of the famous Mahabodhi Temple" in 1981–92 (IAR 1981–82, pp. 10–12; 1983–84, pp.
+12–13; 1986–87, pp. 23–24; 1991–92, pp. 3–4). Over neolithic to NBP levels lay Gupta and late Gupta brick buildings,
+"probably a monastic complex", and a Pāla monastery of cells on a common verandah, with creed sealings and votive
+stūpas. No report names the monastery or cites Xuanzang; one season puts the mound N of the temple (see 08.06.30).
+
+**Assessment.** The site was never in doubt. Bloch separates what Mizutani and the 1906 gazetteer equate: the stone
+railing was a Śuṅga fence round the tree; Xuanzang's enclosure of over 600 paces was a brick wall, untraced. Taradih
+adds a Gupta monastery beside the precinct in Xuanzang's day but does not touch the enclosure. Mizutani's precinct
+stands; his reading of the enclosure is weakened.
 
 ### 08.06.04 精舍 (菩提樹東) — the present Mahābodhi temple, measured against Xuanzang
 
@@ -299,24 +307,56 @@ nāga's dwelling 2–3 li from the east gate. Nor does Cunningham's survey of th
 
 **Assessment.** Unidentified.
 
-### 08.06.30 摩訶菩提僧伽藍 (Mahābodhi saṅghārāma) — buried under the plateau N and W of the temple
+### 08.06.30 摩訶菩提僧伽藍 (Mahābodhi saṅghārāma) — buried under the plateau N and W of the temple; Taradih not shown to be it
 
 **Identifications.** Mizutani: the "great monastery" mound N of the Mahābodhi temple, from Cunningham's map (agreed).
 None of the seven authorities places it.
 
-**Gazetteers.** RV24 (Gaya 1957) has the site marked by an extensive mound, locally called Amar Simha's fort or
-Rajasthana.
+**Gazetteers.** RV24 (Gaya 1957): an extensive mound, locally Amar Simha's fort or Rajasthana.
 
-**Excavations.** Bloch (AR 1908–09, p. 155) reads a 6th–7th-century inscription that names both the temple and a
-monastery (*vihāra*). He takes the monastery for Xuanzang's saṅghārāma built by a king of Ceylon outside the N gate of
-the Bodhi tree enclosure. Its remains "still lie buried beneath the high plateau, stretching to a considerable extent
-to the north and west of the Temple". He calls its excavation an urgent task. No excavation is reported in these
-volumes.
+**Excavations.** Bloch (AR 1908–09, p. 155) reads a 6th–7th-century inscription naming the temple and a monastery
+(*vihāra*), which he takes for Xuanzang's saṅghārāma of the Ceylon king outside the N gate. Its remains "still lie
+buried beneath the high plateau, stretching to a considerable extent to the north and west of the Temple".
 
-**Assessment.** Bloch agrees with Mizutani and extends the area to the W. The position and the inscription's monastery
-support the identification, but the site was not dug.
+**Inscriptions.** Bhandarkar (CII 3, p. 31), on Meghavarṇa's embassy to Samudragupta, follows Xuanzang: the monastery
+stood outside the N gate, and "the site is now marked by an extensive mound on the northern side of the Bodhi Tree".
+This repeats Cunningham; no inscription from the site names it.
+
+**Later excavations.** The Taradih seasons (see 08.06.01) found Gupta and Pāla monastic buildings. Four reports put
+the mound SW of the temple. IAR 1988–89 (pp. 6–7) instead describes "the mound located to the north of the Mahabodhi
+temple", with NBP, a Kushan brick building, a Gupta "rampart and burnt brick structures" with seals, and a Pāla brick
+floor, numbering its periods against "the Taradih mound". Either that report misplaces Taradih, or the season cut a
+second mound N of the temple. No seal naming the monastery is reported.
+
+**Assessment.** Position and Bloch's inscription still carry Mizutani's identification. A Gupta–Pāla monastery has now
+been dug next to the temple, but it is SW on most reports, and the one season N of the temple is too briefly reported
+to call it Xuanzang's saṅghārāma. Unchanged.
 
 ## Juan 9
+
+### 09.01.01 香象池・窣堵波 (Gandhahastin stūpa) — Bakraur: a large stūpa excavated, older than its Pāla phase
+
+**Identifications.** Mizutani: the old stūpa and pillar at Bakror, across the river from Bodh Gayā (agreed).
+Cunningham (p. 526) and Beal (p. 138): Bakror on the E bank of the Lilajan, about 1 mile SE of Bodh Gayā, with stūpa
+ruins and the pillar stump. Dey: Bakraur opposite Bodh Gayā.
+
+**Survey.** Cunningham (ASR I, p. 13): ruined stūpa and pillar stump; the shaft was set up in Sahebganj, Gayā, in
+1789; the tank is the Marttand Pokhar.
+
+**Gazetteers.** BG27 (Gaya 1906) and RV24 (1957): a brick stūpa 25 ft high and 150 ft across S of the village, and
+the pillar stump. They repeat Cunningham and do not argue.
+
+**Later excavations.** K. M. Srivastava (Excavations Branch, IAR 1973–74, pp. 9–10) dug the site, "traditionally known
+by various names like, Sujata Kuti, Sujatagarh and Sujata Quila". The brick stūpa, 11 m high, was built in three
+stages: a first with a narrow brick path; an enlargement with a 5-m lime-plastered path and moulded bricks; and a Pāla
+enclosure wall with stone railings and gateways, "assigned to a date between eighth and tenth century A.D.". The final
+diameter is about 65.5 m. Occupation began in the 2nd–1st century B.C. in a monastery-like building NE of the stūpa.
+No inscription names the stūpa, and the report does not mention Xuanzang.
+
+**Assessment.** The excavation shows a major stūpa standing at Bakraur in Xuanzang's day: two stages precede the Pāla
+one. That supports Cunningham's equation, which rests on position across the river and the pillar Xuanzang mentions
+beside a stūpa. The local name ties it to Sujātā instead, a rival tradition the report records without arguing.
+Mizutani is strengthened, but nothing names the Gandhahastin.
 
 ### 09.01.02 石柱 (欝頭藍子) — unidentified pillar in the forest beyond the Mohana
 
@@ -342,32 +382,31 @@ the Phalgu; Dey gives the Mahi (Mohana), a tributary of the Phalgu.
 
 **Assessment.** Mizutani's hedge is unnecessary on this evidence, because all the authorities agree. No change.
 
-### 09.01.03 屈屈吒播陀山 (Kukkuṭapāda) — three candidates: Kurkihar/Murali, Hasra/Sobhnath, Gurpa
+### 09.01.03 屈屈吒播陀山 (Kukkuṭapāda; Gurupāda) — Gurpa (the name Gurupāda is attested in a Pāla inscription) rather than Hasra or Kurkihar
 
-**Identifications.** Mizutani: the hill 1 mile N of Kurkihār (disputed). Cunningham (1871, pp. 527–528): the three
-hills near Kurkihar, argued from the name. Beal (p. 142) puts the three peaks on Murali hill, 3 miles NNE. Majumdar
-(pp. 720–721) reports Stein and Keith for Sobhnath and Banerji (JASB 1906) for Gurpa Hill, 20 miles ESE of Bodh Gayā,
-which he calls "probable". Dey: "not Kurkihar but Gurpā hill".
+**Identifications.** Mizutani: the hill 1 mile N of Kurkihār (disputed). Cunningham (1871, pp. 527–528): three hills
+near Kurkihar, from the name. Beal (p. 142): Murali hill, 3 miles NNE. Majumdar (pp. 720–721) reports Stein and Keith
+for Sobhnath and Banerji (JASB 1906) for Gurpa Hill, 20 miles ESE of Bodh Gayā, "probable". Dey: "not Kurkihar but
+Gurpā hill".
 
-**Survey.** Cunningham stayed at Kurkihar but moved the hill. In ASR I (pp. 16–17) it is three bare hills touching at
-their bases half a mile N of the village. In ASR XV (pp. 4–9) it is the three peaks of the Murali hill, 3 miles NNE.
-There a square basement on the middle peak is "most probably" the summit stūpa, and the Sugatghar mound the monastery.
-None of Kurkihar's ten inscriptions names the hill.
+**Survey.** Cunningham moved the hill from three bare hills half a mile N of Kurkihar (ASR I, pp. 16–17) to the
+Murali hill 3 miles NNE (ASR XV, pp. 4–9). None of Kurkihar's ten inscriptions names it.
 
-**Gazetteers.** BG27 (Gaya 1906, pp. 195–196, 218–223, 232) follows Stein. Hasra Hill, 4 miles SSW of Wazirganj, has
-three spurs from the central Sobhnath summit, a walled terrace and "a mound composed of large bricks, which evidently
-marks the remains of the stupa". The volume calls Stein's case against Kurkihar "conclusive". It also prints Banerji's
-Gurpa: the name comes from Gurupāda, a tunnel is Kāśyapa's cleft, and the three peaks and the distance fit. RV24
-(1957) reprints both.
+**Gazetteers.** BG27 (Gaya 1906, pp. 195–196, 218–223, 232) follows Stein: Hasra Hill, 4 miles SSW of Wazirganj, with
+three spurs from the Sobhnath summit, a walled terrace and "a mound ... which evidently marks the remains of the
+stupa"; his case against Kurkihar is "conclusive". It also prints Banerji's Gurpa: Gurupāda > Gurpa, a tunnel for
+Kāśyapa's cleft, three peaks, the distance. RV24 (1957) reprints both. Page (AR 1922–23, p. 193) mentions Sobnath as
+"identified" without evidence.
 
-**Excavations.** None. Page (AR 1922–23, p. 193) photographed "the early Buddhist sites at Hasia Kol and the Sobnath
-Hill adjacent, which latter has been identified with the Kakkutapada Hill". He names no identifier and adds no
-evidence.
+**Inscriptions.** Chhabra (EI 25, pp. 326–333) edits a Pāla pedestal of a kneeling Kāśyapa, owned at Silao between
+Nālandā and Rājgir, probably from Silao itself. Kāśyapa "entered nirvāṇa on the charming hill of Gurupāda". Chhabra
+holds that Banerji "brought the issue to a successful close" with Gurpa, and calls Kurkihar "Cunningham's discarded
+identification" (pp. 331–332).
 
-**Assessment.** Cunningham's own move between two hills shows how loosely the text fits at Kurkihar, and the case
-there still rests on the name. Hasra (route and summit stūpa) and Gurpa (name, cleft, three peaks) remain better
-supported. Page shows the Survey treating Hasra as the received view by 1922–23. Later work (not in these sources)
-generally favours Gurpa.
+**Assessment.** The inscription shows that Gurupāda, Xuanzang's own alternative name (窶盧播陀), was the hill's name in
+Pāla Magadha. That is the premise of Banerji's derivation, though the pedestal says nothing of where the hill lay, and
+Chhabra's verdict is an opinion, not a find. With the name, the cleft and the three peaks, Gurpa is now the best
+supported; Hasra keeps the route and a summit stūpa; Kurkihar has only a weaker name-link and is set aside.
 
 ### 09.02.01 佛陀伐那山 (Buddhavana) — still unidentified
 
@@ -421,31 +460,49 @@ of the Handia range.
 specific candidate: its form matches the legend and an ancient road leads to it. It should enter the table as a
 probable identification. Beglar's sighting near Sonagiri is unverified.
 
-### 09.02.04 矩奢掲羅補羅城 (上茅宮城) (Old Rājagṛha) — the outer walls fit 150 li without emendation (Marshall)
+### 09.02.04 矩奢掲羅補羅城 (上茅宮城) (Old Rājagṛha) — the outer walls fit 150 li without emendation (Marshall); an early Mauryan stūpa inside
 
 **Identifications.** Mizutani: Old Rājagṛha (Girivraja) in the valley ringed by hills; parts of the ridge walls
-survive; the new city lies outside its N gate (agreed). Cunningham (1871, pp. 529–532), Beal, Watters and Dey agree.
+survive; the new city lies outside its N gate (agreed). Cunningham (1871, pp. 529–532), Beal, Watters, Dey agree.
 
-**Survey.** Cunningham (ASR I, pp. 22–24) surveyed the ramparts. The inner circuit is 24,500 ft (4⅔ miles). He traced
-the outer wall over the hills, 13 ft thick, and found the distances between the hills totalling 41,000 ft, so he read
-50 li for Xuanzang's 150, "a correction which is absolutely necessary". In ASR III (p. 143) he found the walls 18 ft
-thick at the S gate.
+**Survey.** Cunningham (ASR I, pp. 22–24) measured the inner circuit at 24,500 ft and the hills' outer wall at 41,000
+ft, and read 50 li for Xuanzang's 150, "a correction which is absolutely necessary".
 
-**Gazetteers.** HU11 (Patna 1877) repeats Cunningham's figures. BG26 adds nothing to the location.
+**Gazetteers.** HU11 (Patna 1877) repeats Cunningham's figures; BG26 adds nothing.
 
-**Excavations.** Marshall's survey of 1905–06 (AR 1905–06, pp. 86–88) follows the fortifications up and down hill:
-from Vaibhāra over Sona-giri to Udaya-giri, along the southern range to Giriak, and back over Saila-, Chhatha-, Ratna-
-and Vipula-giri. At 6 li to the mile, "the distance covered by the walls agrees remarkably well with the 150 li of
-Hiuen Thsang". The walls that Cunningham missed, along the whole range E of Udaya-giri, are "an insurmountable
-difficulty" for his emendation, and Marshall reads "the hills themselves" as the walls of the outer town. They are of
-undressed stones 3–5 ft long, without mortar, still 11–12 ft high by the Bāṇagaṅgā pass. He also moves the N gate: the
-gate of the outer city stood in the defile between Vaibhāra and Vipula. Page (AR 1924–25, p. 38) repeats the fit,
-about 25 miles. Chandra found pre-Christian strata under the Maniyar Math in the middle of the old city (AR 1935–36,
-pp. 52–53).
+**Excavations.** Marshall (AR 1905–06, pp. 86–88) followed the walls over Vaibhāra, Sona-giri and Udaya-giri, along
+the southern range to Giriak and back over Saila-, Chhatha-, Ratna- and Vipula-giri: "the distance covered by the walls
+agrees remarkably well with the 150 li of Hiuen Thsang". The walls E of Udaya-giri, which Cunningham missed, are "an
+insurmountable difficulty" for his emendation. They are of undressed stones without mortar, still 11–12 ft high by the
+Bāṇagaṅgā pass. He moves the outer N gate to the Vaibhāra–Vipula defile. Page (AR 1924–25, p. 38) repeats the fit.
+Chandra found pre-Christian strata under the Maniyar Math (AR 1935–36, pp. 52–53).
 
-**Assessment.** The site was never in doubt, and Xuanzang's figure now stands as written. Cunningham's emendation,
-which the earlier notes accepted, is withdrawn. Mizutani's "ridge walls survive" describes the circuit Marshall
-measured.
+**Later excavations.** A. C. Banerji showed that the long stone wall S of the road to Gṛdhrakūṭa, "so long regarded
+as the inner periphery", is the bank of a large reservoir (IAR 1957–58, pp. 10–11). Muhammed K. K. (Excavation Branch
+III, IAR 1999–2000, pp. 9–15; 2000–01, pp. 18–19) dug a mound 200 m N of the SW gate near the Bāṇagaṅgā and exposed a
+terraced brick stūpa, lower terrace 29 × 25 m, with an apsidal structure like that at Jīvakāmravana, NBP and Kaolin
+wares, "assigned to the early Mauryan period". The reports tie it to none of Xuanzang's monuments.
+
+**Assessment.** The site was never in doubt, and Xuanzang's 150 li stands as written; Cunningham's emendation is
+withdrawn. The Mauryan stūpa shows Buddhist building inside the old city by Aśoka's time but adds no identification.
+
+### 09.02.08 時縛迦說法堂 (菴婆羅園) (Jīvaka's preaching hall, Jīvakāmravana) — the elliptical halls excavated 1953–59 near the E gate of the old city
+
+**Identifications.** Mizutani: remains found close to the E gate of old Rājagṛha, citing Japanese surveys (agreed). No
+authority or gazetteer gives a site; Xuanzang puts the hall NE of Śrīgupta's fire pit, "at a bend in the mountain
+city", with garden walls and Jīvaka's house and well beside it.
+
+**Later excavations.** The Mid-eastern Circle chose "the site of Jivakamravana, where Jivaka ... is believed to have
+erected a monastery for Buddha" (IAR 1953–54, p. 9): an early large elliptical hall, then a long elliptical hall with
+subsidiary rooms inside a compound wall, with uniformly coarse red ware "probably indicating an early date". D. R.
+Patil exposed another elliptical building with two large halls (IAR 1954–55, p. 16), A. C. Banerji further elliptical
+and oblong buildings of stone and brick (IAR 1957–58, pp. 10–11), and Panigrahi and Banerji an elliptical hall of 228 ×
+38 ft in rubble and mud (IAR 1958–59, p. 13). No inscription or sealing was found.
+
+**Assessment.** The excavations give a concrete site of early date: a walled compound of halls inside the hill
+circuit, as Xuanzang's "hall ... with surrounding walls" requires, and these are probably the remains Mizutani means (he cites Japanese archaeological surveys).
+The name came before the digging and rests on tradition and position; nothing found names Jīvaka. Mizutani is
+strengthened.
 
 ### 09.02.09 姞栗陀羅矩吒山 (Gṛdhrakūṭa) — Chhatha-giri, with Bimbisāra's road, its two stūpas and the summit shrine
 
@@ -646,30 +703,51 @@ the mound were clay miniature stūpas with *ye dharmā* tablets of the 8th–9th
 **Assessment.** Mauryan bricks at Cunningham's mound give it some weight as the place of an early monument, in the
 area Takakusu indicates. The reuse prevents certainty, and the files do not say whether mound H is at Baitarni Godan.
 
-### 09.03.01 那爛陀僧伽藍 (Nālandā) — Bargaon, named by sealings and a copper plate found in the monasteries
+### 09.02.18 曷羅闍姞利呬城 (王舍城) (New Rājagṛha) — the New Fort at Rajgir; its rampart later than c. 245 B.C.
 
-**Identifications.** Mizutani: the Nālandā ruins at Bargaon, 7 miles N of Rājgir (agreed). All the authorities agree:
-Cunningham (pp. 536–537), Vivien (p. 382), Beal (p. 167), Majumdar (p. 721, from inscriptions naming Nālandā), Dey.
-Watters (p. 166) says it "may be correct".
+**Identifications.** Mizutani: the ruins on the plain at Rajgir just N of the old city's N gate (agreed). Vivien
+(p. 382), Cunningham (p. 535: ramparts "somewhat under 3 miles"), Beal (p. 165), Dey (a mile N of the old town) agree.
 
-**Survey.** Cunningham (ASR I, pp. 28–35) argues from the pilgrims' distances and two inscriptions naming Nālandā
-found on the site. He traced a monastic field of 1,600 × 400 ft and lettered the mounds.
+**Survey.** Cunningham (ASR I, pp. 22–24): an irregular pentagon of 14,260 ft outside the ditches, with a citadel.
+HU11 (Patna 1877) gives the earthen rampart with a 100-ft ditch, after Buchanan.
 
-**Gazetteers.** HU11 (Patna 1877) and BG26 (Patna 1907) repeat Bargaon and Cunningham's sub-sites. BG26 adds Spooner's
-first work.
+**Later excavations.** Raghbir Singh cut 66 m across the S defences of "the New Fort ... supposed to have been founded
+by Ajatasatru" (IAR 1961–62, p. 7). Under the rampart lay a habitation with NBP, iron and fourteen punch-marked coins,
+ended by a fire; then a mud rampart with brick retaining wall and moat. Charcoal from the pre-rampart levels gave a C-14
+date of 245 ± 105 B.C., and a second cutting near the SE corner related the brick defences to a rubble wall (IAR
+1962–63, p. 5).
 
-**Excavations.** Spooner began in 1915–16 and used Xuanzang to choose where to dig (EC 1915–16, pp. 30–34). Site 1
-gave over twenty sealings of the "Venerable Community of Monks in the Great Vihara of Sri-Nalanda", with the wheel and
-two deer (EC 1916–17, pp. 43–46; AR 1916–17, pp. 16, 21). More came from Site 4 and Monastery 11 (Page, AR 1922–23, p.
-276; Chakravarti, AR 1934–35). The copper plate of Devapāla, sealed with the Nālandā emblem, lay in the porch débris
-of Monastery 1 and grants villages for a monastery "built at Nalanda" (AR 1920–21, p. 27; AR 1924–25, p. 117). A stone
-inscription of Yaśovarman's time from the same monastery records gifts to the temple Bāladitya built at Nālandā (AR
-1925–26, pp. 131, 149). A plaque of Harsha came from its NW verandah (Dikshit, EC 1917–18, p. 44). Page (AR 1926–27,
-pp. 127–133) sets out the plan, monasteries on the E and stūpas on the W, and puts the monastery Xuanzang saw below
-the Devapāla level.
+**Assessment.** The identification is untouched. The date bears on Xuanzang's history: the excavated rampart is later
+than about 245 B.C., so it is not Bimbisāra's or Ajātaśatru's, whichever founder is meant, though occupation under it
+is older. The report does not draw this conclusion.
 
-**Assessment.** Settled. Sealings of the Śrī-Nālandā-mahāvihāra and the Devapāla plate, found in place, name the
-monastery, and the Harsha plaque dates its occupation to Xuanzang's time.
+### 09.03.01 那爛陀僧伽藍 (Nālandā) — Bargaon, named by sealings, the Devapāla plate and Yaśovarman's inscription
+
+**Identifications.** Mizutani: the Nālandā ruins at Bargaon, 7 miles N of Rājgir (agreed). All agree: Cunningham
+(pp. 536–537), Vivien (p. 382), Beal (p. 167), Majumdar (p. 721), Dey; Watters (p. 166): "may be correct".
+
+**Survey.** Cunningham (ASR I, pp. 28–35): distances and two inscriptions naming Nālandā. HU11 and BG26 repeat him.
+
+**Excavations.** At Site 1 Spooner found over twenty sealings of
+the "Venerable Community of Monks in the Great Vihara of Sri-Nalanda" (EC 1916–17, pp. 43–46; AR 1916–17, pp. 16, 21);
+more came from Site 4 and Monastery 11 (AR 1922–23, p. 276; AR 1934–35). A Harsha plaque lay in Monastery 1 (Dikshit, EC
+1917–18, p. 44). Page (AR 1926–27, pp. 127–133) puts the monastery Xuanzang saw below the Devapāla level.
+
+**Inscriptions.** Hirananda Sastri edits the Devapāla copper plate from the porch of Monastery 1 (EI 17, pp. 310 ff.):
+villages granted to a vihāra "at Nalanda" built by the Śailendra Bālaputradeva, which "continued to be as important a
+centre ... as it was during the time of Hiuen Tsang's visit". The stone inscription of Yaśovarman's reign from the S
+verandah of the same monastery (EI 20, pp. 37 ff.) names Bālāditya "as the builder of a magnificent sanctuary at
+Nalanda", the king "whom Hiuen Tsiang eulogises ... [as] the founder" of the great temple (p. 40).
+
+**Later excavations.** At the Sarai mound, E of the excavated monasteries, clearance found a fourteen-line praśasti
+(IAR 1973–74, pp. 67–68), read as recording an image of the Buddha installed by Prathamaśiva "also called Purnavarman",
+in 7th–8th-century Nāgarī (IAR 1975–76, pp. 3, 61–62). V. K. Misra, R. S. Bisht and H. K. Narain then exposed a temple
+of 31.70 × 22.70 m, the feet of a lime-plastered standing Buddha of an estimated 18–20 m, creed sealings and monastic
+cells (IAR 1975–76, p. 3; 1978–79, p. 67; 1981–82, p. 12;
+1982–83, p. 25). See New places.
+
+**Assessment.** Settled. Sealings, plate and stone inscriptions found in place name Nālandā and Bālāditya's temple,
+and the Sarai mound adds a third monument of Xuanzang's.
 
 ### 09.03.06 精舍 (如來三月說法處, 那爛陀伽藍西) — in the W range; Site No. 3 is read two ways
 
@@ -858,9 +936,20 @@ From the gazetteers (BG26, Patna 1907; RV24, Gaya 1957):
 - **Bālāditya's temple, Nālandā:** Cunningham's high mound H at the N end of the stūpa range, E of the Dehar tank (ASR
   I, pp. 34–35; BG26, hit 112). A stone inscription of Yaśovarman's time, found in the S verandah of Monastery 1,
   records gifts to "the temple of the Buddha which king Bāladitya had built at Nalanda" (AR 1925–26, pp. 131, 149).
+  Hirananda Sastri's edition (EI 20, pp. 37 ff., p. 40) identifies this Bāladitya with the king "whom Hiuen Tsiang
+  eulogises as the subduer of Mihirakula and the founder" of the great temple.
   Hirananda Sastri therefore looks for the temple at Site 1 "and not site No. II or elsewhere"; this is his inference
   from the find-spot. Page (AR 1921–22, p. 20) tentatively ties the lowest pavement of Monastery 1 to the foundations
   of Bāladitya and Buddhagupta.
+- **Pūrṇavarman's copper image of the Buddha (滿胄王銅佛像), Nālandā:** Xuanzang puts it 200-odd paces E of the
+  enclosure, over 80 ft high under a six-storeyed pavilion (in the 09.03.06 passage). The Sarai mound, E of the
+  excavated remains, yielded a fourteen-line praśasti in 7th–8th-century Nāgarī, composed by the sandhivigrahika
+  Durgadatta and engraved by Mādhava (IAR 1973–74, pp. 67–68), which records "probably the installation of an image of
+  Buddha by Prathamasiva also called Purnavarman" (IAR 1975–76, pp. 61–62). V. K. Misra cites it as "corroborated by
+  the description by Hieun Tsang" (IAR 1975–76, p. 3). The temple has a sanctum with a painted pedestal and, in front,
+  the feet of a standing Buddha of earth, brick and lime, estimated at 18–20 m (Bisht, IAR 1978–79, p. 67): of the order of
+  Xuanzang's height, but not of copper. Bearing, distance from the enclosure, height and a royal donor of the name
+  fit; the image may be a later replacement. A probable identification, the first for this monument.
 - **Haṃsa (goose) stūpa and saṅghārāma on Indraśailaguhā:** "Jarasandha's tower" and the terrace on the lower E peak
   at Giriak (Cunningham, ASR I, pp. 21–22; ASR III, pp. 145–148; BG26, hit 106; see 09.03.11).
 
