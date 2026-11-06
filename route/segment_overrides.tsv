@@ -6,3 +6,6 @@ id	action	legs	from_id	reason
 11.11	set	北 1800+	11.08	T2087 has 北 1800+ from Valabhī; the 東北 1800 is the Life's leg from Surāṣṭra (variants_08-11)
 11.21	set	北 700+	11.18	T2087 has 北 700+; the 東北 700+ is the Life's leg from Laṅgala (variants_08-11)
 11.15	set	北 1900+	11.11	T2087 starts the leg after 從此還至瞿折羅國 (back to Gurjara), and T2088 has 從瞿折羅北野…二千里許; the 1900 li run from Gurjara, not Maheśvarapura (variants_08-11)
+09.02.03a	set	東南 6-7	09.02.02	the leg starts at the Yaṣṭivana (杖林東南…至大山); the resolver found no starting place
+09.02.03b	set	北 3-4	09.02.03a	the isolated hill lies N of the great mountain (大山北三四里), not of Barābar (08.04.02)
+09.02.04	set	東 60+	09.02.03a	the leg runs within the great mountain (從此大山中東行), not from Barābar

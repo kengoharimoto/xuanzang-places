@@ -15,12 +15,16 @@ Five kinds of evidence were set against him:
 - *Epigraphia Indica* and the *Corpus Inscriptionum Indicarum*;
 - the district gazetteers.
 
-**What they show.** 312 places have notes. Against Mizutani's identifications, the evidence:
-- supports his identification for 78 places, 48 of them with high confidence, many with an inscription or seal
+**What they show.** 442 of the 480 places have a note (Mizutani's 419 and 61 added ones). The 38 without a note are
+minor sites that have no point either. Against Mizutani's identifications, the evidence:
+- supports his identification for 83 places, 50 of them with high confidence, many with an inscription or seal
   naming the place;
-- weakens it for 6;
-- supports a different site for 37;
-- offers a candidate no standard authority records for 9.
+- weakens it for 8;
+- supports a different site for 44;
+- offers a candidate no standard authority records for 10.
+
+On the map the study's confidence comes out as 119 places secure, 158 probable and 95 open. Another 108, mostly
+minor sites, have no point.
 
 **Settled by inscriptions or seals found on the site:**
 - Kuśinagara at Kasia: the Haribala plate in the Nirvāṇa stūpa.
@@ -137,7 +141,9 @@ check.
      Sarvāstivāda 11, Mahāyāna-Sthavira 4, Sthavira 2, Mahāsāṃghika 2, Lokottaravāda 1.
    - **Other traditions, across all places:** Pāśupata 15, Śaiva 11, Jain (mostly Digambara, 露形) 12, Sūrya 2,
      Kāpālika 1.
-8. **Notes on disputed places** (`data/notes/notes_*.md`, 312 notes). Each note gives the identifications, then the
+8. **Notes** (`data/notes/notes_*.md`, 442 notes). The disputed places came first (312 notes). A second pass
+   (`notes_untested_*.md`, `data/NOTES_UNTESTED_INSTRUCTIONS.md`) covered the 129 places not yet assessed, with all
+   the evidence then available. Each note gives the identifications, then the
    evidence in sections:
    - **Survey.**
    - **Excavations.** (Annual Reports)

@@ -175,8 +175,8 @@ id	candidate	proposer	n_segments	mean_abs_z	mean_bearing_off	n_precise	z_precise
 07.04	Northern Darbhanga district	Mizutani	2	0.91	17	1	0.29	17	←07.03 東北 500+: 103 km (pred 120), z -0.3, bearing off 17° | →07.05 西北 1400-1500: 163 km (pred 347), z -1.5, bearing off 17° [neighbour imprecise]	from data/coords.tsv
 07.05	Kathmandu valley, Nepal	Mizutani	1	1.52	17	0			←07.04 西北 1400-1500: 163 km (pred 347), z -1.5, bearing off 17° [neighbour imprecise]	from data/coords.tsv
 08.04.01	Telhara (Tillara), Nalanda district	Mizutani	1	0.1	14	1	0.1	14	→08.04.02 西南 90+: 23 km (pred 22), z +0.1, bearing off 14°	from data/coords.tsv
-08.04.02	3 mi NW of Vazirganj	Cunningham 1871	3	2.92	48	3	2.92	48	←08.04.01 西南 90+: 36 km (pred 22), z +1.0, bearing off 43° | →09.02.03b 北 3-4: 18 km (pred 1), z +6.3, bearing off 69° | →09.02.04 東 60+: 30 km (pred 14), z +1.5, bearing off 32°	approx
-08.04.02	Barabar hill	Mizutani	3	3.06	41	3	3.06	41	←08.04.01 西南 90+: 23 km (pred 22), z +0.1, bearing off 14° | →09.02.03b 北 3-4: 30 km (pred 1), z +7.2, bearing off 109° | →09.02.04 東 60+: 36 km (pred 14), z +1.9, bearing off 1°	from data/coords.tsv
+08.04.02	Barabar hill	Mizutani	1	0.1	14	1	0.1	14	←08.04.01 西南 90+: 23 km (pred 22), z +0.1, bearing off 14°	from data/coords.tsv
+08.04.02	3 mi NW of Vazirganj	Cunningham 1871	1	1.02	43	1	1.02	43	←08.04.01 西南 90+: 36 km (pred 22), z +1.0, bearing off 43°	approx
 08.04.03	Dharawat (Kunwa hill)	Beglar ASR VIII; Cunningham ASR XV; Majumdar 1924; Dey 1927	1	0.23	7	1	0.23	7	←08.04.02 西北 30+: 8 km (pred 7), z +0.2, bearing off 7°	approx: N of the Barabar hills
 08.04.04	Kauwa-dol hill	Beglar ASR VIII; Cunningham ASR XVI; Dey 1927	1	1.68	38	1	1.68	38	→08.05.01 西南 40-50: 25 km (pred 11), z +1.7, bearing off 38°	approx: 2 mi W of the Barabar caves per ASR XVI
 09.01.02a	Mohana river (label point S of Bodh Gaya)	Mizutani	1	0.67	46	1	0.67	46	→09.01.03 東 100+: 33 km (pred 24), z +0.7, bearing off 46°	from data/coords.tsv
@@ -184,9 +184,9 @@ id	candidate	proposer	n_segments	mean_abs_z	mean_bearing_off	n_precise	z_precise
 09.01.03	Hasra hill (Sobhnath)	Stein (Gaya 1906)	1	0.13	44	0			←09.01.02a 東 100+: 25 km (pred 24), z +0.1, bearing off 44° [neighbour imprecise]	approx: 4 mi SSW of Wazirganj per Gaya 1906
 09.01.03	Hill N of Kurkihar, ENE of Gaya	Mizutani	1	0.67	46	0			←09.01.02a 東 100+: 33 km (pred 24), z +0.7, bearing off 46° [neighbour imprecise]	from data/coords.tsv
 09.01.03	Murali hill, 3 mi NNE of Kurkihar	Cunningham ASR XV; Beal 1884	1	0.87	47	0			←09.01.02a 東 100+: 37 km (pred 24), z +0.9, bearing off 47° [neighbour imprecise]	approx
-09.02.03b	Pansabda recess, SW of Handia hill	Mizutani	1	7.22	109	1	7.22	109	←08.04.02 北 3-4: 30 km (pred 1), z +7.2, bearing off 109°	from data/coords.tsv
+09.02.03b	Pansabda recess, SW of Handia hill	Mizutani	1	1.19		1	1.19		←09.02.03a 北 3-4: 2 km (pred 1), z +1.2	from data/coords.tsv
 09.02.03c	tumulus by a detached hill near Sonagiri	Beglar ASR VIII	1	4.56	15	1	4.56	15	←09.02.03b 東北 4-5: 10 km (pred 1), z +4.6, bearing off 15°	approx: defile between Baibhar and Sona hills W of old Rajgir
-09.02.04	Old Rajagrha (Rajgir valley)	Mizutani	1	1.86	1	1	1.86	1	←08.04.02 東 60+: 36 km (pred 14), z +1.9, bearing off 1°	from data/coords.tsv
+09.02.04	Old Rajagrha (Rajgir valley)	Mizutani	1	0.63	48	1	0.63	48	←09.02.03a 東 60+: 11 km (pred 14), z -0.6, bearing off 48°	from data/coords.tsv
 09.02.17a	Near Baitarni Godan, SW of New Rajagrha	Mizutani	1	0.85		1	0.85		←09.02.17 西北 2-3: 1 km (pred 1), z +0.8	from data/coords.tsv
 09.03.11	Giriyek hill	Mizutani	1	1.31	45	1	1.31	45	→09.03.13 東北 150-160: 19 km (pred 37), z -1.3, bearing off 45°	from data/coords.tsv
 09.03.11	rock with a Muslim chapel by Bihar fort	Vivien 1858	1	7.31		1	7.31		→09.03.13 東北 150-160: 1 km (pred 37), z -7.3	Pir Pahari, Bihar Sharif

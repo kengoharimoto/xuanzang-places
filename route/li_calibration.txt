@@ -1,7 +1,7 @@
-Segments tested: 137; calibration segments: 29
+Segments tested: 138; calibration segments: 29
 Effective li (straight-line km per li), calibration: median 0.239 km, 10% 0.120, 90% 0.433
   Central Asia/Afghanistan (juan 1, 12): n=6, median 0.288 km/li
   India (juan 2-11): n=23, median 0.231 km/li
   visited destinations: n=27, median 0.247
   hearsay destinations: n=2, median 0.112
-Flagged: DIST 31, BEARING 19
+Flagged: DIST 30, BEARING 19

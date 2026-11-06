@@ -89,3 +89,16 @@
 - **The Life's distances and bearings** differ from the Xiyu ji in many places. The reviewers list them in `data/text/life_review_*.tsv` (`issues`) and the agents' notes are in `life_anchors_*.tsv` (`note`). Examples: Kapilavastu 800 li from Śrāvastī (Xiyu ji 500); Rāmagrāma 500 (200); Viśoka E 500 from Kauśāmbī; Karṇasuvarṇa SE 900+ from Puṇḍravardhana; Andhra SE 900+; Coḷa W 1000+. Only the Sindh stretch has been route-tested on the Life's legs (`route/chain_scores_life.tsv`).
 - **04.15.02 (Sāṃkāśya's stairs)**: resolved. The Taishō (Korean base text) reads 城西二十餘里. Its apparatus (n. 0893013) gives 東 for the Song, Yuan and Ming editions and two Japanese manuscripts (【宋】【元】【明】【甲】【乙】), and the Life has 城東二十餘里. East is therefore the reading of every witness except the Korean edition. Noted in 04.15.02.
 - **Sixi edition (1132)**: juans 1–8 OCR'd (`data/ref/sixi/`). It confirms the Taishō apparatus's Song readings (route/README §9). The lost juans 9–12 could be checked against other Song/Yuan witnesses in the same IA item (承应本, 日钞本) if needed.
+- **Raised by the notes on untested places (2026-11-06)**:
+  - Route legs: the 09.02.03a/03b/04 legs are now anchored on the Yaṣṭivana and the great mountain
+    (`segment_overrides.tsv`). Gachi (01.36) has moved to Darrah Gaz, c. 30 km S of Balkh (`coords_study.tsv`).
+    Still open: 01.19 Khwarizm's leg from Vadi (the text's figure, not the site); 媲摩 → Niya (12.22.13), 200 li for
+    185 km and no leg because of the variant 嫓; Kohmāri (12.22.04) long for 20 li; Mount Ilam (03.01.05) 19 km for
+    400+ li; Sultanpur (04.02.03) fits neither 50 nor 500 li.
+  - Text: 12.22.15's passage reads 至都邏故國, missing 覩貨. 01.09a's excerpt is 01.11's 東臨葉河 sentence. 12.18.02's Life
+    passage is the Cīnadevagotra story, not the peak legend.
+  - places.tsv: a multi-id coded passage gives its evidence text to every id, so some places carry evidence about a
+    sibling site (08.05.01 the Bakror text, 08.05.01a Mucharin, 09.02.03b Hunter's Nālandā; gazetteer hit 1219's Baoti
+    Pind under 03.03.02). Not yet fixed. 11.12's EI passage (Sircar, EI 34) is counted but its evidence is empty.
+  - Small slips: 04.01.x4's note should say three days (經三日), not two; Cunningham's "4 miles NE of Ohind" for
+    02.04.19 conflicts with the text's NW; Mizutani's quotes carry OCR errors (e.g. 12.16).

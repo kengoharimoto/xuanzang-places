@@ -78,8 +78,9 @@ id	name_zh	from_id	from_name	legs	li	km	km_per_li	pred_km	log_ratio	stated	compu
 08.04.02	大山 (佛入定山)	08.04.01	鞮羅擇迦伽藍	西南 90+	90.0	22.7	0.252	21.5	0.05	西南	211	14			agreed/agreed	town/site	unclear
 08.05.01a	伽耶山	08.05.01	伽耶城	西南 5-6	5.5	2.4	0.444	1.3	0.61	西南	204				agreed/agreed	town/site	unclear
 09.01.03	屈屈吒播陀山 (窶盧播陀山)	09.01.02a	莫訶河	東 100+	100.0	33.3	0.333	23.9	0.33	東	44	46			uncertain/disputed	district/site	visited
-09.02.03b	孤山 (廣博仙人)	08.04.02	大山 (佛入定山)	北 3-4	3.5	29.5	8.433	0.8	3.61	北	109	109	BEARING		agreed/agreed	site/site	unclear
-09.02.04	矩奢掲羅補羅城 (上茅宮城)	08.04.02	大山 (佛入定山)	東 60+	60.0	36.0	0.6	14.3	0.92	東	91	1	DIST		agreed/agreed	site/site	visited
+09.02.03a	大山 (杖林東南)	09.02.02	洩瑟知林	東南 6-7	6.5	5.2	0.794	1.6	1.18	東南	78	57	BEARING		agreed/agreed	town/site	visited
+09.02.03b	孤山 (廣博仙人)	09.02.03a	大山 (杖林東南)	北 3-4	3.5	1.5	0.429	0.8	0.63	北	222				agreed/agreed	site/site	unclear
+09.02.04	矩奢掲羅補羅城 (上茅宮城)	09.02.03a	大山 (杖林東南)	東 60+	60.0	10.5	0.175	14.3	-0.31	東	42	48			agreed/agreed	site/site	visited
 09.02.17a	無憂王堵波・石柱 (迦蘭陀池西北)	09.02.17	迦蘭陀池	西北 2-3	2.5	0.9	0.363	0.6	0.41	西北	270				agreed/uncertain	site/site	visited
 09.03.13	迦布徳迦伽藍	09.03.11	因陀羅勢羅窶訶山	東北 150-160	155.0	19.5	0.126	37.0	-0.64	東北	0	45		yes	agreed/agreed	site/town	visited
 09.03.14	孤山 (觀自在菩薩像)	09.03.13	迦布徳迦伽藍	南 2-3	2.5	0.0	0.0	0.6		南	0				agreed/uncertain	town/town	visited

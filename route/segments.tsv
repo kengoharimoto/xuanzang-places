@@ -259,10 +259,10 @@ id	name_zh	level	parent	from_text	from_id	legs	li_lo	li_hi	bearing	parsed_from	t
 09.02.01	佛陀伐那山	site	08.00	鶏足山		東北 100+	100	100	東北	route	行	visited	disputed	鷄足山東北。行百餘里。至佛陀伐那山。
 09.02.02	洩瑟知林	site	08.00	仏陀伐那山 empty valley		東 30+	30	30	東	t_route	行	visited	agreed	佛陀伐那山空谷中。東行三十餘里。
 09.02.03	二溫泉 (杖林西南)	site	08.00	杖林		西南 10+	10	10	西南	t_route		unclear	agreed	杖林西南十餘里。大山陽有二温泉。
-09.02.03a	大山 (杖林東南)	site	08.00	杖林		東南 6-7	6	7	東南	route	行	visited	agreed	杖林東南。行六七里。至大山。
-09.02.03b	孤山 (廣博仙人)	site	08.00	大山	08.04.02	北 3-4	3	4	北	t_route		unclear	agreed	大山北三四里。有孤山。
+09.02.03a	大山 (杖林東南)	site	08.00	杖林	09.02.02	東南 6-7	6	7	東南	override: the leg starts at the Yaṣṭivana (杖林東南…至大山); the resolver found no starting place	行	visited	agreed	杖林東南。行六七里。至大山。
+09.02.03b	孤山 (廣博仙人)	site	08.00	大山	09.02.03a	北 3-4	3	4	北	override: the isolated hill lies N of the great mountain (大山北三四里), not of Barābar (08.04.02)		unclear	agreed	大山北三四里。有孤山。
 09.02.03c	小孤山 (石室・阿素洛宮)	site	08.00	孤山	09.02.03b	東北 4-5	4	5	東北	t_route		unclear	unknown	孤山東北四五里。有小孤山。
-09.02.04	矩奢掲羅補羅城 (上茅宮城)	site	08.00	the 大山 (Handia)	08.04.02	東 60+	60	60	東	t_route	行	visited	agreed	從此大山中。東行六十餘里。
+09.02.04	矩奢掲羅補羅城 (上茅宮城)	site	08.00	the 大山 (Handia)	09.02.03a	東 60+	60	60	東	override: the leg runs within the great mountain (從此大山中東行), not from Barābar	行	visited	agreed	從此大山中。東行六十餘里。
 09.02.08	時縛迦說法堂 (菴婆羅園)	site	08.00									unclear	agreed	
 09.02.09	姞栗陀羅矩吒山	site	08.00	宮城 (上茅宮城)		東北 14-15	14	15	東北	route	行	visited	agreed	宮城東北。行十四五里。
 09.02.10	鷲峰精舍・阿難石室	site	08.00									visited	agreed	

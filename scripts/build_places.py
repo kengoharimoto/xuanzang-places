@@ -81,6 +81,7 @@ def asr_tag(r):
     if r.get("file", "").startswith(("ar", "ec")) and not r["file"].startswith("asr"):
         f = r["file"].replace(".txt", "")
         return f'{r.get("author","")}, {"AR" if f.startswith("ar") else "Eastern Circle"} {f[2:]}' + (f' p. {r["page"]}' if r.get("page") else "")
+    if r.get("file", "").startswith("foucher"): return f'Foucher, La vieille route (1942–47)' + (f' {r["page"]}' if r.get("page") else "")
     if r.get("file", "").startswith("masi"): return f'{r.get("author","")}, MASI {r["file"][4:6]}' + (f' p. {r["page"]}' if r.get("page") else "")
     v = r.get("file", "").replace(".txt", "").replace("asr", "ASR ").replace("mukherji1901_tarai", "Mukherji 1901")
     return f'{r.get("author","")}, {v}' + (f' p. {r["page"]}' if r.get("page") else "")
