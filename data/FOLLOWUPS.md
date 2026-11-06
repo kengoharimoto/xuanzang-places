@@ -82,7 +82,6 @@
   - Marquis's identifications of 提謂城 and 波利城 near Balkh (01.32.02): the slides give no names or coordinates.
   - Bakker 2014 on Śaṅkukarṇa at Banbhore, as cited in SP IV p. 55 n. 133.
   - Bakker, *The Alkhan* (2020): only a 10-page excerpt is on disk; the full book may say more on Avalokiteśvara and Śiva.
-  - The basis for "Bālakumārapura" (04.11): not stated in the note.
   - The Ajanta Cave 26 Acala inscription (Burgess and Indraji 1881): cited from general knowledge, not coded (11.03.03).
 - **Coordinates not moved** for 01.38.03 (Tapa Skandar) and 01.38.03a (Khair Khana): these are alternatives; the
   map keeps the old points.
