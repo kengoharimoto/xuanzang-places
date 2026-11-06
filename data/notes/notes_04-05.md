@@ -1,16 +1,16 @@
 # Notes on disputed places: juan 4–5
 
 Places in juan 4–5 that meet at least one of the three criteria in `NOTES_INSTRUCTIONS.md`, in master-table order
-(34 notes), with the evidence of the Archaeological Survey reports. Gazetteer volumes are cited as `district year`.
+(35 notes), with the evidence of the Archaeological Survey reports and of the Survey's Annual Reports (1903–37).
+Gazetteer volumes are cited as `district year`. Annual Reports are cited as AR with the year and page, by author
+(Vogel, Sahni, Francke, Marshall).
 Survey reports are cited as ASR with volume and page, and are Cunningham's: I (1862–63), II (1863–65), III
 (1871–72), V (1872–73), IX, XI (1875–78), XIV (1878–79), XVII (1881–82), XX (1882–83), XXI (1883–85). "Atkinson"
 means the Himalayan Districts text, which exists as *Himalayan districts II 1884* and in the Cornell scan catalogued
 as *unidentified 1874* (cu31924023947751). The two have the same wording and are counted as one text. Checked but
 not noted, because the authorities agree, no gazetteer argues and the survey only confirms Mizutani: 04.02.03
 (Tamasavana = Sultanpur; ASR XIV, pp. 55–59, measured the Badshahi serai on the old mound and suspected it stands on
-the monastery's foundations), 04.06 (Pāriyātra = Bairāt; ASR II, pp. 242–48: the mound "corresponds almost exactly"
-to the 14–15 li, and the Bijak hill ruins are taken for two of the monasteries; Dey's entry describes the mountain
-range, not a different site), 05.04.04 (the Great Giving Field at the confluence; ASR I, p. 298, only notes that
+the monastery's foundations), 05.04.04 (the Great Giving Field at the confluence; ASR I, p. 298, only notes that
 the sandy plain has been eroded).
 
 ### 04.01 磔迦國 (Skt. Takka) — the country is the central Punjab; the capital is still open (Asarur or near Sialkot)
@@ -103,7 +103,12 @@ the ancient seat of the Pala Rajas of Kulu" and notes that "Kulu is still called
 1883 and 1899 argue that the kingdom took in Bangahal, Seoraj, Bashahr and the hill parts of Mandi and Suket,
 since the 3,000-li circuit is too large for the Kulu valley alone.
 
-**Assessment.** The country is certain, and the surviving name Kulanta strengthens the name equation. Jagatsukh is
+**Excavations.** No digging. Vogel (AR 1903–04, pp. 263–64), publishing a 16th-century Kulu copper plate, takes
+the equation as settled: "Kuḷḷū is undoubtedly one of the most ancient principalities of the Panjab Hills", and
+11th-century Chamba plates already name the lord of Kulūta. Nothing on the capital.
+
+**Assessment.** The country is certain: the surviving name Kulanta and the Chamba plates' Kulūta secure the name
+equation. Jagatsukh is
 a candidate for the capital that none of the authorities records. It rests on dynastic tradition only, against
 the Nagar tradition Mizutani reports.
 
@@ -141,26 +146,59 @@ near Sirtah west of Thanesar. Watters (p. 300): nothing is known.
 **Assessment.** Sarhind rests on Cunningham's emended distance alone. The question is as open as Mizutani leaves
 it.
 
-### 04.07 秣菟羅國 (Skt. Mathurā) — Mathura; the survey and the gazetteers disagree on where the old city lay
+### 04.06 波理夜呾羅國 (Skt. Pāriyātra) — Bairāt is still the only candidate, but its excavator found nothing of Xuanzang's eight monasteries
+
+**Identifications.** Mizutani: Bairāt (Virāṭa), 41 miles N of Jaipur, ancient Matsya (agreed); he cites Sahni's
+*Archaeological Remains and Excavations at Bairat* (1937). Cunningham (p. 387), Vivien (p. 337) and Watters
+(p. 300, after Reinaud): Bairāt. Beal (p. 179) accepts it tentatively; bearing and distance from Sarhind do not
+agree. Majumdar (p. 702): the distance is double the 800 li from Śatadru. Dey describes the mountain range, not a
+different site.
+
+**Survey.** ASR II (pp. 242–48): the mound "corresponds almost exactly" to the 14–15 li circuit, and the platforms
+with monks' cells on the Bijak hill, a mile SW, where an Asoka inscription was found, are taken for two of the
+eight monasteries.
+
+**Gazetteers.** Rajputana 1908 and Alwar 1968 repeat the identification, noting the two Asokan inscriptions and
+early copper coins.
+
+**Excavations.** Sahni dug the Bijak-ki-pahari site in 1935–36 (AR 1935–36, p. 87): a circular brick temple, two
+Asokan pillars in fragments, and a single monastery, rebuilt twice, whose coin hoard ends with Hermaios; "no
+objects of a later date than the 2nd century A.D." He concludes: "My own excavations yielded no evidence to
+corroborate this identification. The discovery of only one monastery in place of the eight … seems to militate
+strongly against" it. He allows that the town mound, two miles off, may hold Buddhist strata, but doubts that
+Xuanzang would have failed to say the monasteries were inside the town.
+
+**Assessment.** The excavation removes the survey's monastic evidence: Cunningham's two monasteries are one,
+deserted some five centuries before Xuanzang. Bairāt stays the only proposed site, on name, Matsya tradition and
+the circuit of the town mound, but the distance has always been wrong and the only excavator of its Buddhist
+remains rejects it. Mizutani's "agreed" is too strong, and he cites the report that undermines it.
+
+### 04.07 秣菟羅國 (Skt. Mathurā) — Mathura; the excavator rejects the survey's Katra city and puts the old city SW of the town
 
 **Identifications.** All authorities: Mathura. Cunningham (1871, pp. 427–8) and Majumdar (p. 706): the town has
 moved north and west as the Jumna encroached.
 
 **Survey.** Cunningham's layout changed. In 1862–63 (ASR I, pp. 233–39) he worked from the Katra and the jail mound,
-where inscriptions name a Kunda-Suka ("dry tank") monastery beside a tank, which he took for the tank where the
-monkey died: "there can be no doubt of the accuracy of my identification". By 1881–83 (ASR XVII, pp. 111–12; ASR
+where inscriptions name a Kunda-Suka ("dry tank") monastery beside a tank, which he took for the monkey's tank.
+By 1881–83 (ASR XVII, pp. 111–12; ASR
 XX, pp. 31–32) the 7th-century city itself is the Katra (Kesopura), with the Jumna then flowing in the old channel
-under its walls, from "an examination of the ground, compared with Hwen Thsang's statements".
+under its walls.
 
-**Gazetteers.** Muttra 1911 (Führer's view) argues that "the site of ancient Muttra is clearly indicated by an
-extensive elevation of the soil to the south-west". It finds Kans-ka-Tila largely natural, places the old
-Buddhist city "probably … north of the present city beyond the Katra", and reads the Chaubara mounds as Buddhist
-stupas. Muttra, Allahabad, Fatehpur 1884 and Mathura 1968 argue for Mahaban, on the left bank opposite, as a site
-of Faxian's monasteries "on both sides of the river", from Buddhist sculpture in the fort and the Assi-Khamba
-building. Mathura 1968 notes that local inscriptions name more than a dozen monasteries.
+**Gazetteers.** Muttra 1911 repeats Vogel's verdict (below) nearly word for word, and reports Führer's old
+Buddhist city "probably … north of the present city beyond the Katra". Muttra, Allahabad, Fatehpur 1884 and
+Mathura 1968 argue for Mahaban, on the left bank opposite, as a site of Faxian's monasteries "on both sides of the
+river", from Buddhist sculpture in the fort. Mathura 1968 notes that local inscriptions name over a dozen
+monasteries.
 
-**Assessment.** The identification is secure. The survey and the gazetteers bear only on the layout, and there
-they disagree: Cunningham's late Katra city, Führer's elevation to the SW, and a Buddhist Mahaban across the river.
+**Excavations.** Vogel (AR 1906–07, p. 140), reviewing all past finds: the attempts of Cunningham and Growse to
+identify the sites "have signally failed. Both assumed that the Katra marks the centre of the ancient city, whereas
+the site of ancient Mathura is clearly indicated by an extensive elevation of the soil to the south-west of the
+town." The Katra was the Yaśa-vihāra, still standing in 549–50 (dated image), and Kesopura is named after the
+Keśava Deva temple, not Arrian's Klisobora.
+
+**Assessment.** The identification is secure. On the layout the Survey's own excavator overturns Cunningham's late
+Katra city for the elevated ground SW of the town; Führer's city north of the Katra and a Buddhist Mahaban are the
+remaining variants.
 
 ### 04.07.03 鄔波毱多伽藍 (Upagupta's monastery) — not located; Cunningham moved it twice, and Mizutani's verdict stands
 
@@ -171,21 +209,21 @@ wrong", Kankali "not quite convincing".
 **Survey.** ASR I (pp. 233–34) and III (pp. 28–29) put the monastery at the Katra, reading the text's "east" as
 west, with the monkey's tank at the jail mound. Once he took the Katra for the city itself, Cunningham moved the
 monastery to "the present old fort on the bank of the Jumna, which is just about 1 mile to the east of the Katra"
-(ASR XX, pp. 32–33; ASR XVII, pp. 111–12, with the Ambarikha mound for the cave hill and a tank by the Collector's
-kacheri mound for the monkey's tank). The fort proposal rests on reading high ground as the pilgrim's "mountain";
-nothing Buddhist was found there.
+(ASR XX, pp. 32–33; ASR XVII, pp. 111–12, with the Ambarikha mound for the cave hill). Nothing Buddhist was
+found at the fort.
 
-**Gazetteers.** Muttra 1884 reports Growse's Kankali Tila, with its colossal Buddha statues and Huvishka
-inscription, but no foundation line. Muttra 1911 rejects the proposals: "their identifications, based on a wrong
-location of the city, are inadmissible, and both the Upagupta monastery and the monkey tank near it … have yet to
-be discovered". It also notes that the Katra inscription names the Yaśa Vihāra and that Kankali Tila is a Jain
-stupa.
+**Gazetteers.** Muttra 1884 reports Growse's Kankali Tila, with its colossal Buddha statues. Muttra 1911 rejects
+all the proposals, in Vogel's words (below), and notes that Kankali Tila is a Jain stupa.
+
+**Excavations.** Vogel (AR 1906–07, p. 140): the identifications, "based on a wrong location of the city, are
+inadmissible, and both the Upagupta monastery and the monkey tank are still to be discovered". He adds that Cunningham "had to alter the wording of the Chinese
+pilgrim's account", reading "west" for "east" and "built of stone" for "cut in the rock".
 
 **Assessment.** Each proposal follows from a view of where the city lay, and the survey's own shift shows how
-loose they are. The Katra is named epigraphically for another monastery and Kankali is Jain. The site stays
-unknown, as Mizutani says.
+loose they are. The Katra is named epigraphically for another monastery and Kankali is Jain, and the Survey's
+excavator rejects the Katra and the jail-mound tank outright. The site stays unknown, as Mizutani says.
 
-### 04.08 薩他泥濕伐羅國 (Skt. Sthāneśvara) — Thanesar; the measured circuit supports it
+### 04.08 薩他泥濕伐羅國 (Skt. Sthāneśvara) — Thanesar; the measured circuit and 7th-century fort support it
 
 **Identifications.** Mizutani: Thanesar (agreed). Cunningham (pp. 376–8), Vivien, Beal, Majumdar (p. 701) and
 Dey: Thanesar. Watters (p. 315): the distances do not fit and the site should be c. 100 miles NE of Mathurā.
@@ -194,13 +232,20 @@ Dey: Thanesar. Watters (p. 315): the distances do not fit and the site should be
 hollow between them, "as nearly as possible an exact square of one mile on each side" (ASR II, pp. 220–21). He
 found two ruined mounds with reddish-yellow bricks 4–5 li NW of the city, the Madrasa mound, for the Asoka stupa.
 
-**Gazetteers.** Karnal 1976 restates the survey's case: the fort, Bahari and the town stand on "three mounds
+**Gazetteers.** Karnal 1976 restates Sahni's case (below): the fort, Bahari and the town stand on "three mounds
 [that] together occupy a space of about 3 miles … which closely agrees with the 20 li of Yuan Chwang", with 14-inch
-fort bricks ascribed to Harṣa, and the stupa mound ¼ mile NW. Ambala 1883 and Meerut division 1875 repeat
+fort bricks ascribed to Harṣa, and the stupa mound ¼ mile NW (Sahni: ¾ mile). Ambala 1883 and Meerut division 1875 repeat
 Cunningham.
 
-**Assessment.** The measured circuit and the stupa mound support Thanesar against Watters' objection, which rests
-on distances alone. Mizutani's identification is strengthened.
+**Excavations.** Sahni inspected and trial-dug the fort in 1922–23 (AR 1922–23, pp. 90–91). The three mounds
+"together occupy a space of about three miles, which closely agrees with the 20 li"; the fort's remains "cannot be
+anterior to about the 7th century A.D.", all visible structures being of 14-in. bricks, and he thinks it was most
+probably founded by Harṣavardhana. He located an original west gate, with an 11-ft rampart, and recommended
+digging Cunningham's stupa mound ¾ mile NW. AR 1921–22 (pp. 46–47) lists the Thanesar mounds as unexplored.
+
+**Assessment.** The measured circuit, now confirmed by a second measurement, and a fort of Harṣa's age support
+Thanesar against Watters' objection, which rests on distances alone. The Asoka stupa is still undug. Mizutani's
+identification is strengthened.
 
 ### 04.08.02 福地 (Kurukṣetra "Happy Land") — Kurukshetra; the extent is read three ways, and the Asthipur mound is doubtful
 
@@ -218,6 +263,10 @@ and a head of Śiva, but no bones.
 etymology (nir-daya against dukh), and says the 200 li "may surely be taken to mean … the radius", close to
 Cunningham's later reading. Ambala 1883 repeats ASR II on the Asthipur spot. Karnal 1976 reports that the mound was
 excavated (Theh Polar) and yielded 3rd–4th-century AD finds, which it says make the Mahābhārata tradition doubtful.
+
+**Excavations.** Sahni (AR 1921–22, pp. 46–47) defines the region as the land between the Sarasvatī and the
+Dṛṣadvatī, with some 360 tīrthas, and lists Amin, Theh Polar, Pehoa and the Thanesar mounds, of which "none …
+have yet been explored". He does not discuss Asthipur or the 200 li, and seems unaware of Cunningham's digging.
 
 **Assessment.** The region is not in doubt. On the extent, both Cunningham's later reading and Ibbetson's abandon
 the plain circumference. At Asthipur the survey's own excavation found a large building, not a battlefield, and the
@@ -313,7 +362,8 @@ answered only by Cunningham's guess that the river has shifted, which neither su
 
 **Identifications.** Mizutani: the Alaknanda valley, capital Srinagar (Garhwal), reading NE for N (agreed).
 Vivien (p. 344): Srinagar. Cunningham (pp. 407–8): Garhwal and Kumaon, capital Vairāṭpattan or Lakhanpur on the
-Ramganga; he rejects Srinagar as founded in 1358. Beal (p. 198): Garhwal and Kumaon.
+Ramganga; he rejects Srinagar as founded in 1358. Beal (p. 198): Garhwal and Kumaon. Francke (AR 1909–10,
+p. 106, in passing, while bounding the Eastern Women's kingdom): "the upper Ravi valley".
 
 **Gazetteers.** Atkinson (Himalayan districts II 1884, 23 passages across two scans and the Cornell copy) rejects
 Srinagar, which "was of no importance until … the early part of the seventeenth century". He also rejects
@@ -327,7 +377,7 @@ Govisana counts from Madawar. Garhwal 1910 accepts Barahat cautiously. Almora 19
 rejects. They leave two candidates. Lakhanpur has the epigraphic Brahmapura of the Taleshwar plates. Barahat
 keeps the text's bearing but has only a 12th-century inscription. "Agreed" understates the dispute.
 
-### 04.11.02 蘇伐剌拏瞿呾羅國 (Skt. Suvarṇagotra) — a real trans-Himalayan country; Atkinson puts it in Nari-khorsum
+### 04.11.02 蘇伐剌拏瞿呾羅國 (Skt. Suvarṇagotra) — a real trans-Himalayan country in western Tibet (Atkinson's Nari-khorsum, Francke's Guge and Rudok)
 
 **Identifications.** Mizutani: a real Himalayan country, the Eastern Women's Kingdom of the Tangshu (disputed;
 Thomas: partly Hunza-Nagar). Watters (p. 330): "undoubtedly mythical". Dey: north of Brahmapura; the Amazonian
@@ -339,9 +389,17 @@ of any Amazonian kingdom" in the Katyur, Juhar or Niti valleys, so "we must sear
 Tibet". From the Sui and Tang annals (the Eastern Nü ruled by a woman, absorbed by Lhasa after 742), "there is …
 no need to doubt the statements of Hwen Thsang".
 
+**Excavations.** Francke (AR 1909–10, pp. 105–6), reopening ancient graves at Leh, compares their multiple
+burials of bones in pots, up to twenty skulls in one grave, and large bronze buttons with the Chinese account of
+the Eastern Women's burial of ministers with the sovereign. From the borders in the Sui-shu and Xuanzang (Khotan,
+Sanpoho = Ladakh, Brahmapura, Tibet) he concludes that "the Empire apparently comprised the Tibetan provinces of
+Guge and Ruthog, and possibly Eastern Ladakh". He dates the graves to AD 1–500 and admits that the skulls are not
+Tibetan.
+
 **Assessment.** Atkinson anticipates Mizutani's position that the kingdom was real, from the same Chinese annals.
-He adds a concrete location (western Tibet, north of Kumaon and Garhwal) that fits the text's borders. This
-strengthens Mizutani against Watters, but the location is general.
+Francke independently narrows the location to Guge and Rudok, which lie within Atkinson's Nari-khorsum and fit
+the text's borders. This strengthens Mizutani against Watters. The archaeology is only an analogy of custom, and
+Francke's Brahmapura in the upper Ravi does not match Mizutani's Garhwal.
 
 ### 04.12 瞿毘霜那國 (Govisana) — Kashipur (Ujain fort) still fits best; Dhikuli is a live alternative
 
@@ -393,21 +451,26 @@ strengthened.
 himself later dropped Atranji-Khera. Cunningham (1871, p. 420) and Beal (p. 201): Atranji-Khera. Vivien (p. 343):
 Karsana.
 
-**Survey.** In 1862–63 Cunningham rejected Soron and chose Atranji-Khera without visiting it, from his servant's
-report of a mound c. 2 miles round with a 44-ft summit, emending 200 li to 300 (ASR I, pp. 265–71). In ASR XI
-(pp. 13–21) he revises: "in 1862 I … failed to hit the mark; but in 1877 I was more successful". At Bilsar he found
-two pillars inscribed by Kumāragupta (G.E. 96) and a mound 33 ft high; the circuit, c. 1¾ miles, is close to the
-text's 12 li; he marched Bilsar–Sankisa three times (17–18 miles) to reallot the distances. A trench across the
-great mound gave large bricks (14.5 × 8.5 in) under medieval house walls, taken for the Asoka stupa; mounds D–H
-are the five deva temples, D excavated with square temple walls, F with the inscribed toraṇa pillars.
+**Survey.** In 1862–63 Cunningham chose Atranji-Khera without visiting it, from his servant's report of a large
+mound, emending 200 li to 300 (ASR I, pp. 265–71). In ASR XI (pp. 13–21) he revises: "in 1862 I … failed to hit
+the mark; but in 1877 I was more successful". At Bilsar he found two pillars inscribed by Kumāragupta (G.E. 96)
+and a mound 33 ft high; the circuit, c. 1¾ miles, is close to the text's 12 li, and he marched Bilsar–Sankisa three
+times to reallot the distances. A trench across the great mound gave large bricks under medieval house walls,
+taken for the Asoka stupa; mounds D–H are the five deva temples, F with the inscribed toraṇa pillars.
 
-**Gazetteers.** Etah 1876 echoes ASR I's case for Atranji-Khera, including the kos argument. Etah 1911's Bilsar
-article echoes ASR XI (the 33-ft mound, five temple sites, the Kumāragupta inscriptions of 415/416 AD), while its
-Atranji article still follows ASR I.
+**Gazetteers.** Etah 1876 echoes ASR I's Atranji-Khera; Etah 1911 echoes ASR XI on Bilsar, though its Atranji
+article still follows ASR I.
+
+**Excavations.** Sahni dug at site F, the toraṇa, in 1922–24. He judges Cunningham's identification
+"unquestionable" (AR 1922–23, pp. 93–95): the trench into the great mound stopped a few feet down among walls of
+bricks "similar to those found in Asokan monuments", so the stupa may lie lower; the monasteries show no surface
+sign. He bought a Maitreya bearing the Buddhist creed from a villager. In 1923–24 (pp. 56–57) the clearance west of
+the toraṇa gave Kushan rooms and a terracotta sealing with "the Buddhist formula ye dharmma", which "is enough to
+establish the existence of Buddhist monuments at Bilsar".
 
 **Assessment.** The survey abandoned Atranji-Khera on its own evidence. Bilsar has name, size, distance, Gupta
-temple sites matching the five deva temples, and some excavation, though no inscription names the town.
-Mizutani's Bilsar is secure.
+temple sites for the five deva temples, and now an excavated Buddhist sealing, though no inscription names the
+town and the stupa and monasteries are unlocated. Mizutani's Bilsar is secure.
 
 ### 04.15 劫比他國 (Kapitha / Sāṅkāśya) — Sankisa; the survey's measured ramparts and staircase seals settle it
 
@@ -565,26 +628,31 @@ fort raised the ground level.
 **Assessment.** Mizutani's identification stands. The 1911 gazetteer's reservations concern continuity, not a
 rival site.
 
-### 05.05 憍賞彌國 (Kauśāmbī) — Kosam; the survey's inscriptions and ramparts anticipate the excavation
+### 05.05 憍賞彌國 (Kauśāmbī) — Kosam; inscriptions naming the kingdom of Kauśāmbī round Kosam settle it
 
-**Identifications.** Mizutani: Kosam, confirmed by G. R. Sharma's excavations (agreed). Cunningham (pp. 451, 454,
-reading 150 li for 500), Beal and Dey: Kosam. Watters (p. 367): rejects Kosam. Vivien: undecided. Majumdar
+**Identifications.** Mizutani: Kosam, confirmed by G. R. Sharma's excavations (agreed). Cunningham (pp. 451, 454),
+Beal and Dey: Kosam. Watters (p. 367): rejects Kosam. Vivien: undecided. Majumdar
 reports Rewah, Bharhut and Banda alternatives.
 
-**Survey.** ASR I (pp. 303–12), following Bayley's suggestion: the SW bearing from Prayāga "points unmistakably
-to the line of the Jumna"; the place is still Kosambi-nagar to the Jains; an Akbar-period inscription on the stone
-pillar names it Kausambipura, and a 6th–7th-century one 3–4 ft below ground shows the pillar stood then; the
-ramparts are 23,100 ft round, c. 5 miles 7 furlongs with the lost SW angle restored, against the 30 li. Udayana's
-palace is put at the central mound under the Jain temple. ASR I thought the dragon's cave carried away by the
-Jumna, since the Pabhosa hill "has no cave"; ASR XXI (pp. 1–3) found an artificial cave high in the Pabhosa hill
-with a Nāga legend and Gupta rock inscriptions, though Pabhosa lies NW, not SW.
+**Survey.** ASR I (pp. 303–12): the SW bearing from Prayāga "points unmistakably to the line of the Jumna"; the
+place is still Kosambi-nagar to the Jains; an Akbar-period inscription on the pillar names it Kausambipura, and a
+6th–7th-century one shows the pillar standing then; the ramparts, 23,100 ft round with the lost SW angle restored,
+fit the 30 li. ASR XXI (pp. 1–3) found an artificial cave with a Nāga legend in the Pabhosa hill, though it lies
+NW, not SW.
 
-**Gazetteers.** Muttra, Allahabad, Fatehpur 1884 echoes ASR I verbatim (pillar inscription, ramparts, "name,
-size, and position"). Allahabad 1911 echoes ASR XXI on the Pabhosa cave, and adds a 1036 AD inscription from Kara
-fort naming the "mandala … of Kausamba" and the Digambara name Kausambinagri.
+**Gazetteers.** Muttra, Allahabad, Fatehpur 1884 echoes ASR I. Allahabad 1911 echoes ASR XXI on the cave and
+cites the 1036 Kara inscription naming the "mandala … of Kausamba".
 
-**Assessment.** Name, inscriptions and measured ramparts strengthen Kosam well before the excavations Mizutani
-cites.
+**Excavations.** Marshall (AR 1912–13) reports it "clearly proved" by Hultzsch and Pargiter. Sahni dug round the pillar in 1921–22 and found at Meohar, 7 miles from Kosam, an inscription of
+Saṃvat 1245 (1189) recording a temple "at the village of Mehavada in the district of Kauśāmbī": "incontestable
+evidence" (AR 1921–22, pp. 46–47, 120–21). The pillar was re-erected; it has Asokan polish but no edict, and its
+7th-century inscription shows it standing in Xuanzang's day (AR 1922–23, p. 13). Sahni then re-read the Kara
+inscription of Saṃvat 1093 (AR 1923–24, pp. 122–24): its village Payalasa, Paras 30 miles NNW of Kosam, lay "in the
+kingdom of Kausambi". With Meohar, this puts the capital near Kosam: "Dr. Smith's view that Kausambi stood at or in the immediate neighbourhood of Bharhut
+must now be finally abandoned."
+
+**Assessment.** Two medieval inscriptions put Kosam inside the kingdom of Kauśāmbī, the name survives there, and the
+ramparts fit the 30 li; the Bharhut–Rewa alternatives Majumdar reports are disposed of. Kosam was settled by 1924, before Sharma's excavations.
 
 ### 05.05.03 具史羅長者故宅 (Ghoṣila's house and monastery) — Mizutani's excavated monastery at Kosam; Cunningham's Gopsahsa rests on a village name
 

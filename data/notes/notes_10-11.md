@@ -2,7 +2,8 @@
 
 Eastern India, the Deccan and the south, Siṃhala, western India, Sindh, Persia. The places follow master-table order.
 Sources are `places.tsv`, `places_mizutani.tsv`, `coded/auth_*.tsv`, the gazetteer rows in `coded/gaz_batch*.tsv`
-and the Archaeological Survey rows in `coded/asr_batch*.tsv` (ASR volume and page).
+the Archaeological Survey rows in `coded/asr_batch*.tsv` (ASR volume and page), and the Annual Report rows in
+`coded/ar_batch*.tsv` (AR = Director-General's Annual Report, EC = Eastern Circle report; year and page).
 Gazetteer volumes are counted once, even when two scans exist. The hit numbers (G#) point to `gaz_hits.tsv`.
 
 ### 10.01 伊爛拏鉢伐多國 (Hiraṇyaparvata) — Monghyr; secure
@@ -138,30 +139,32 @@ Buddhas and Devas" it cites are Cunningham's paraphrase of Xuanzang's tower, not
 position and on a building style that Cunningham admits was general; no part of the tower was found. Worth
 recording, with low confidence.
 
-### 10.04 奔那伐彈那國 (Puṇḍravardhana) — Mahasthan, found by the survey and supported by the Bogra gazetteer
+### 10.04 奔那伐彈那國 (Puṇḍravardhana) — Mahasthan; found by the survey, settled by the inscription naming Pudanagara
 
 **Identifications.** Mizutani: Rajshahi–Bogra area, capital Mahāsthān (agreed). Vivien (p. 388): Burdwan. Cunningham
 (1871, pp. 549–50): Pubna. Fergusson (in Watters p. 184, Beal p. 194): near Rangpur. Westmacott (in Beal): Panjara or
 Pandua. Majumdar (p. 724) follows Cunningham's later Mahasthan and rejects Pubna. Dey: North Bengal.
 
 **Survey.** Cunningham gave up his Pubna in ASR XV (1879–80): "I was fortunate enough to discover the site of the
-ancient city in Mahasthan on the Karatoya River" (p. v). His grounds (pp. 102–112):
-- Mahasthan lies "just 100 miles to the east" of Rajmahal, the 600 li of the text, and local opinion holds it the
-  ancient capital of Barendra.
-- Bhasu Bihar, 4 miles W, matches the Po-shi-po monastery 4 miles W of the capital: a brick stūpa mound 30 ft high,
-  a carved-brick temple to its north, and the Bihar mound (700 × 600 ft) as the monastery.
-- His measured survey gives the fortified city 4,500 × 3,000 ft (15,000 ft round), with the suburbs "rather less
-  than 4½ miles", against 30 li.
-- He rejects Westmacott's Bardhan Kuti as a recent place. He found nothing Buddhist at Mahasthan itself, which was
-  thick with jungle.
+ancient city in Mahasthan on the Karatoya River" (p. v). His grounds (pp. 102–112): Mahasthan lies "just 100 miles to
+the east" of Rajmahal (600 li); Bhasu Bihar, 4 miles W, with its stūpa and monastery mounds, matches Po-shi-po; the
+measured city with suburbs is "rather less than 4½ miles" round, against 30 li. He found nothing Buddhist at
+Mahasthan itself.
 
-**Gazetteers.** Bogra 1910 repeats the survey's distance argument and adds what Cunningham lacked: the Karatoyā
-Māhātmya, the Skanda temple site, and "the buried ruins of a Buddhistic temple" found in 1907, with no Buddhist
-remains at Pabna or Pandua (G#122/127/133). Malda 1918 argues for Pandua but concedes the distance problem (G#46–49).
-Purnea 1911 gives the Karatoyā as the eastern boundary.
+**Excavations.** Dikshit, visiting the fort, its mounds and Bhasu Bihar (EC 1920–21, p. 23), still found
+Cunningham's identification "not universally accepted by scholars" and asked for excavation. The digging found no
+structures earlier than Gupta, but in 1931 a Mauryan Brāhmī inscription on a sandstone slab turned up near the
+site: its "distinct mention of Pudanagara (Sanskrit Pundranagara) ... confirms the identification of Mahasthan"
+first proposed by Cunningham (Dikshit, AR 1930–34, p. 219; also AR 1929–30, p. 142). Blakiston's introduction says
+it "definitely proves" the identity (AR 1930–34). At Paharpur, Dikshit (AR 1927–28, pp. 105–7) found Somapura
+sealings and a Gupta plate of 479 addressed to the officers "at Pundravardhana (the modern Mahasthan)" (Hirananda
+Sastri, AR 1927–28, p. 144).
 
-**Assessment.** Distance, the Bhasu Bihar name and mounds, the circuit, the river and the 1907 Buddhist finds all
-point to Mahasthan. Mizutani is strengthened.
+**Gazetteers.** Bogra 1910 adds the Karatoyā Māhātmya, the Skanda temple site and a Buddhist temple found in 1907,
+with no Buddhist remains at Pabna or Pandua (G#122/127/133). Malda 1918's Pandua concedes the distance problem.
+
+**Assessment.** Distance, Bhasu Bihar and the circuit made Mahasthan probable. The inscription naming the city on
+the site turns the doubt of 1920–21 into a settled identification. Mizutani is strengthened, with high confidence.
 
 ### 10.05 迦摩縷波國 (Kāmarūpa) — W Assam with Gauhati; the "great river" crossed was the Karatoyā
 
@@ -190,6 +193,12 @@ R. D. Banerjee (in Majumdar pp. 729–31): Comilla. Dey: Comilla, Noakhali and S
 Meghna, and names Bikrampur as that division's chief town, with Krishnanagar and Jessore also large towns. He does
 not name Xuanzang's capital and reports no remains.
 
+**Excavations.** Dikshit (AR 1921–22, p. 65) describes a brick stūpa mound at Bharat Bhayna, 13 miles from
+Daulatpur W of Khulna: 40–45 ft high, 800–900 ft round, its bricks dated Gupta by size. "It is probable that this
+was one of the 30 Sangharamas mentioned by Hiuen Tsang ... in the Samatata country, in which modern Khulna must have
+been comprised". The mound was not dug, and the dating rests on brick size only. It bears on the western extent of
+the country, not on the capital.
+
 **Gazetteers.**
 - Jessore 1912 and 24 Parganas 1914 reject Jessore on Xuanzang's distances from Kāmarūpa. It "appears more
   reasonable to identify the capital with Dacca, as Fergusson does, or with the chief town of the Bikrampur pargana"
@@ -200,19 +209,28 @@ not name Xuanzang's capital and reports no remains.
 
 **Assessment.** The gazetteers move the capital east of Jessore, to Dacca or Bikrampur, and the survey had already
 let Jessore drop to one town among several. That points the same way as Mizutani's Comilla-area Bād-Kāmta, although
-none of these sources knows that site. Mizutani stands.
+none of these sources knows that site. Dikshit's Bharat Bhayna mound would carry the country west into Khulna,
+against Khulna 1908, but leaves the capital alone. Mizutani stands.
 
-### 10.06.02a 室利差呾羅國 (Śrīkṣetra) — Prome; the Indian alternatives rest on the bearing
+### 10.06.02a 室利差呾羅國 (Śrīkṣetra) — Hmawza near Prome; an excavated city of the right age, the wrong bearing
 
 **Identifications.** Mizutani: Thare Khettara near Prome (uncertain). He notes that Prome lies SE, not NE, of
 Samataṭa. Beal (p. 200, tentative) and Dey agree. Vivien (p. 391) and Cunningham (p. 576): Sylhet (Śrīhaṭṭa).
 Watters (p. 189): roughly the Tipperah district.
 
+**Excavations.** Taw Sein Ko's trial excavations at Hmawza, 1907–10 (quoted by Marshall, AR 1907–08, pp. 41–2; AR
+1909–10, pp. 113–14): "The site of Srikshetra is now called Yathemyo ... and is five miles to the east of Prome",
+the city "known to the celebrated Chinese pilgrims Hiuen Thsang and I-tsing". He found ramparts and walled
+enclosures, the Bawbawgyi and other pagodas, gold scrolls with the Buddhist creed in a 7th–10th-century script, and
+Gupta-style sculpture that Marshall dates to the 7th century or earlier. The name Śrīkṣetra comes from the Burmese
+chronicles; nothing found on the site names the city.
+
 **Gazetteers.** None.
 
-**Assessment.** Prome has the matching name (Śrīkṣetra) but not the direction. Sylhet and Tipperah have the direction
-but only a weaker match of names. Since Xuanzang knew this country by hearsay, the name should carry more weight than
-the bearing. Mizutani stands, with low to medium confidence.
+**Assessment.** Prome has the matching name but not the direction; Sylhet and Tipperah have the direction but only a
+weaker name. The excavations add a large walled Buddhist city of Xuanzang's time at Hmawza, which none of the
+Indian candidates can show. For a country known by hearsay, name and site now outweigh the bearing. Mizutani is
+strengthened, with medium confidence.
 
 ### 10.06.02b 迦摩浪迦國 (Kāmalaṅkā) — Pegu and the Irrawaddy delta
 
@@ -252,9 +270,16 @@ Cambodia. Cunningham (p. 577): the Shan country or Laos.
 Cunningham (p. 577): Champa, Cochin-China or Annam. Dey lists "Siam, according to Hiuen Tsiang" (from Beal's Life),
 besides Yule's Tonquin–Cambodia.
 
+**Excavations.** Duroiselle (AR 1925–26, p. 117) examined Sampanago (Champanagara) near Bhamo in Upper Burma, which
+Vidyavinod had proposed for "Maha-Chan po", and rejected it with Finot, who keeps Annam. The site is an enclosure of
+about a square mile with small stūpas. Its wall bricks are no older than the 13th–15th century, the Hmannan
+chronicle does not mention it, and "it seems to lack any antiquities that would take us back to the time of Hiuen
+Tsang".
+
 **Gazetteers.** None.
 
-**Assessment.** Dey's Siam is a dictionary cross-reference, not an argued identification. Mizutani stands.
+**Assessment.** Dey's Siam is a dictionary cross-reference, not an argued identification, and the only Burmese
+rival, Sampanago, fails on its remains. Mizutani stands.
 
 ### 10.06.02f 閻摩那洲國 (Yamanadvīpa) — unidentified; Java doubtful
 
@@ -279,18 +304,21 @@ other Bengal volumes repeat the identification.
 
 **Assessment.** The gazetteers explain why an inland town could be Xuanzang's seaport, and so strengthen Mizutani.
 
-### 10.08 羯羅拏蘇伐剌那國 (Karṇasuvarṇa) — Rangamati, doubted in 1914; the survey's Sapharan rests on a name
+### 10.08 羯羅拏蘇伐剌那國 (Karṇasuvarṇa) — Rangamati: a city of Xuanzang's time (Dikshit 1920–21), capital unproven
 
 **Identifications.** Mizutani: Rāṅgāmāṭi, Murshidabad (agreed; no rival reported). Majumdar (p. 733, tentative),
 Smith (in Watters p. 192) and Dey: Rangamati. Majumdar also reports Beglar's Sufaran and Fleet's Rohtasgarh.
 Cunningham (1871, p. 578): Singhbhum–Barabhum, capital near Bara Bazar. Vivien (p. 392): the Suvarṇarekhā country.
 
-**Survey.** Beglar (ASR VIII, 1872–73) first announces Dulmi in Manbhum as Karṇasuvarṇa (p. 51), then settles on
-Sapharan near Suisa, across the river from Dulmi (p. 191). Cunningham placed it near Bara Bazar from bearings and
-distances, but "there are not many ruins there" (one small old temple), "while here the remains are numerous"
-(loose sculptures, Jain figures, lingas). He adds that "the name Sapharan is apparently the original of Sufalana",
-and that the rajas of nearby Karanpur once ruled Dulmi, giving "Karna Sapharana". Dulmi itself has only "a few
-fragments of sculpture". No later survey passage returns to the question.
+**Survey.** Beglar (ASR VIII, 1872–73) first announces Dulmi in Manbhum (p. 51), then settles on Sapharan, across
+the river from Dulmi (p. 191). Cunningham's Bara Bazar has "not many ruins", "while here the remains are numerous"
+(loose sculptures, Jain figures, lingas), and "the name Sapharan is apparently the original of Sufalana".
+
+**Excavations.** Dikshit (EC 1920–21, pp. 33–34) inspected Beveridge's site on the Bhagirathi: the Rākṣasa-ḍāṅgā
+mound (c. 40 ft high), the Rajbari or "Raja Karna's palace" mounds at Jadupur, gold coins of the later Guptas
+Viṣṇugupta and Jayagupta, and late Gupta sculpture. "We have every reason to suppose that the ancient city at this
+site was in existence at the time of Hieun Tsang's visit to Bengal", but whether the capital was here "is however a
+matter of doubt". He proposed excavation.
 
 **Gazetteers.**
 - Murshidabad 1914 doubts Beveridge's Rangamati: "the name Rangamati is not uncommon, being derived from the red
@@ -299,10 +327,12 @@ fragments of sculpture". No later survey passage returns to the question.
   "where extensive ruins still exist", all uninvestigated (G#141–2). Puri 1977 places the kingdom in Manbhum.
 
 **Assessment.** Beglar's case is a name and loose sculpture; it disposes of Bara Bazar more than it establishes
-Sapharan. The gazetteers weaken Rangamati without a better candidate. Later work (not in these sources):
-Raktamṛttikā sealings found near Rangamati answer the 1914 doubts.
+Sapharan. The 1914 objection touched only the name. Dikshit shows a city of Xuanzang's time at Rangamati, with
+later-Gupta gold and a local Karṇa tradition, which no rival site can show, though nothing yet makes it the capital.
+Mizutani stands, with low confidence. Later work (not in these sources): Raktamṛttikā sealings found near Rangamati
+answer the remaining doubt.
 
-### 10.08.02 絡多末知僧伽藍 (Raktamṛttikā) — at Rangamati, doubted with the capital
+### 10.08.02 絡多末知僧伽藍 (Raktamṛttikā) — at Rangamati, with the capital
 
 **Identifications.** Mizutani: at Rāṅgāmāṭi, whose name derives from it (agreed). Julien (in Beal p. 202) gives the
 Sanskrit form. Majumdar (p. 733) places it near the capital, identified with Rangamati.
@@ -311,9 +341,12 @@ Sanskrit form. Majumdar (p. 733) places it near the capital, identified with Ran
 Rangamati is not uncommon, being derived from the red laterite soil that extends from the foot of the Rajmahal hills
 ... to the Madhupur jungle".
 
-**Assessment.** The monastery's site stands or falls with 10.08, and the 1914 objection weakens the name link, which
-is the only evidence offered here. The same later work (not in these sources) found sealings of this monastery near
-Rangamati.
+**Excavations.** None at the monastery. Dikshit's 1920–21 inspection (EC 1920–21, pp. 33–34; see 10.08) shows a
+city of Xuanzang's time at Rangamati.
+
+**Assessment.** The monastery's site stands or falls with 10.08. The 1914 objection weakens the name link, but
+Dikshit's finds put a seventh-century city where the name points. Mizutani stands, with low confidence. The same
+later work (not in these sources) found sealings of this monastery near Rangamati.
 
 ### 10.09 烏荼國 (Oḍra) — northern Orissa; capital most often Jajpur
 
@@ -481,10 +514,16 @@ Vivien (p. 397): Rajahmundry.
 **Identifications.** Mizutani: the Amarāvatī great stupa site (agreed). Burgess (in Dey): the same. Watters
 (p. 221): "Neither Amaravati nor Vaikunthapur can be said to have any claim". He reports Rea's Pedda Madur.
 
+**Excavations.** Krishna Sastri (AR 1923–24, p. 93) reports a Brāhmī inscription of c. 2nd century AD from Allur,
+Nandigama taluk, Kistna district, recording gifts to the Pūrvaśailiyas, a school "evidently to be connected with
+the convent Purvasila, which with Avarasila is mentioned by Yuan Chwang", with stūpa remains beside the find-spot.
+It shows the school in the Krishna valley; it does not place the monastery.
+
 **Gazetteers.** None.
 
 **Assessment.** The identification depends on the capital (10.14). With a Bezwada capital, the eastern and western
-monasteries would lie elsewhere. Mizutani stands only as far as Dharanikota does.
+monasteries would lie elsewhere. The Allur inscription confirms that a Pūrvaśaila school flourished in the district,
+which fits either capital. Mizutani stands only as far as Dharanikota does.
 
 ### 10.14.02b 阿伐羅勢羅僧伽藍 (Avaraśaila) — Dhāraṇikoṭa, or the Amaravati tope
 
@@ -522,15 +561,26 @@ Recorded as an alternative to Mizutani's blank, with low confidence.
 Tsiang was the Telugu Chola kingdom occupying most of the black cotton country of this district", perhaps with
 parts of Kurnool and Anantapur. Its evidence is inscriptions that name the country Renāṇḍu "(the 7000)" (G#457–8).
 
-**Assessment.** The inscriptions show a Coḷa line in the Cuddapah area, and they agree with Smith, Majumdar and in
-part Cunningham. The gazetteer offers a better-supported alternative to Nellore for the core of the country, though
-not a capital.
+**Excavations.** The view goes back to Venkayya's epigraphy, reported in the Annual Reports. Konow (AR 1904–05,
+pp. 128–9) announces inscriptions of a hitherto unnoticed Coḷa dynasty in the Cuddapah district, which "might well
+correspond to Hiuen Thsang's description of Chu-li-ye". Venkayya (AR 1905–06, p. 175) argues it: Chu-li-ye lay SW
+of Dhānyakaṭaka (Amaravati), and 8th-century Coḷa inscriptions in N Cuddapah (kings claiming descent from Karikāla)
+and around Hemāvatī (Anantapur) show "a Cola kingdom comprising perhaps the southern portion of the Kurnool district,
+the northern part of Cuddappah". Marshall (AR 1913–14, p. 28) reads the Malepāḍu plates of Puṇyakumāra, Coḷa-mahārājas
+under Pallava overlords, as records of rulers of Chuliye; Spooner (AR 1917–18) repeats this.
+
+**Assessment.** Bearing and inscriptions agree on a Telugu Coḷa country in Cuddapah and S Kurnool, with Smith,
+Majumdar and in part Cunningham; the 1915 gazetteer follows Venkayya. None of the inscriptions names Chuliye or a
+capital. This is a better-supported alternative to Nellore for the core of the country, though not a capital.
 
 ### 10.16 達羅毘荼國 (Drāviḍa) — Kāñcīpura; secure
 
 **Identifications.** Mizutani: capital Kāñcīpura (Conjeeveram) (agreed). Cunningham (pp. 627–8), Beal (p. 228),
 Vivien (p. 397), Majumdar (p. 739) and Dey agree. Fergusson (in Watters p. 226, who leans to it, and rejected by
 Beal): Nagapattinam.
+
+**Excavations.** None. Venkayya (AR 1906–07, p. 238) calls the Pallava country "Ta-lo pi-ch'a or Dravida", the later
+Toṇḍai-maṇḍalam, with Kāñcī as capital; a statement, not an argument.
 
 **Gazetteers.** Malabar 1887 repeats "the Pallava kingdom" with Kāñcī (G#447).
 
@@ -790,7 +840,7 @@ bearings ... best is Eran or Erakana on the Bina river" (G#554/713). Jalaun 1909
 capital stays open: Khajuraho has the circuit and a Buddhist pedestal but needs the kos reading; Eran fits the
 distances.
 
-### 11.14 摩醯濕伐羅補羅國 (Maheśvarapura) — Gwalior; the survey's Mandla and Seronj both lapse
+### 11.14 摩醯濕伐羅補羅國 (Maheśvarapura) — Gwalior; Mandla and Seronj lapse, Maheswar is a name only
 
 **Identifications.** Mizutani: the Gwalior region (majority) (disputed). Smith (in Watters) and Majumdar (p. 725):
 Gwalior. Cunningham (1871, pp. 559–60): Mandla on the upper Narmadā, reading S for N, which Watters (p. 252) rejects.
@@ -802,12 +852,18 @@ conditions almost exactly" (Ujjain to Besnagar measured at 142 miles by perambul
 from Chedi would land "in the neighbourhood of Narwar", which he rejected. He cites no remains at Seronj, and once he
 returned 11.13 to Bundelkhand (ASR XXI) the Seronj arrangement lost its frame.
 
+**Excavations.** Srivastava (AR 1935–36, pp. 81–2) says that Maheswar, on the north bank of the Narmadā 28 miles W
+of Barwaha (Indore State), "was visited by Hiuen Tsang" and by al-Bīrūnī. He reports old deposits c. 30 ft below the
+top near Mandel Khoh, with bricks of 20 × 11 × 3 in. that he takes back to the 6th century. He gives no argument from
+the route; the link is the name alone, and Maheswar lies south of Ujjain, against the Life's north-east and the
+Travels' north.
+
 **Gazetteers.** Hamirpur 1909 takes Gwalior as Maheśvarapura in its reckoning for Eran (G#554). It argues only from
 bearings.
 
 **Assessment.** Seronj fits the Life's distance from Ujjain, but not the Travels' 900 li north of a Bundelkhand
-Jejākabhukti. Gwalior agrees with the text's "north" without emendation and with the Eran reconstruction of 11.13.
-Mizutani stands.
+Jejākabhukti. Maheswar fits neither text's direction. Gwalior agrees with the text's "north" without emendation and
+with the Eran reconstruction of 11.13. Mizutani stands.
 
 ### 11.15 信度國 (Sindhu) — capital Alor
 
@@ -931,16 +987,23 @@ Cunningham's view is open to "serious exceptions".
 
 **Assessment.** Pāṇini's Varṇu and Stein's endorsement favour Bannu. Mizutani stands, with medium confidence.
 
-### 11.23.02 稽疆那國 (Kikāna) — Waziristan or Pishin
+### 11.23.02 稽疆那國 (Kikāna) — Waziristan (Stein, after his 1926–27 tour); Pishin less likely
 
 **Identifications.** Mizutani: Waziristan, W of Bannu (agreed, after Stein). Majumdar (p. 679): Stein's Waziristan.
 Cunningham (p. 99): the Pishin valley near Quetta, the Kīkān of the Arab historians. Vivien (p. 414): Kīkān, near
 Shal (Quetta). Watters (p. 262): rejects Cunningham.
 
+**Excavations.** Stein's 1926–27 tour through Waziristan (Tank, Draband, Spinwam, Kurram, the Gumal, Zhob), as
+summarised in AR 1926–27 (p. 223), surveyed mounds and forts and matched Xuanzang's description of "Chichiang-na
+corresponding to the present Waziristan, and the Qiqan of early Arab history": separate chiefs without a supreme
+ruler, sheep and fine horses. The sites he surveyed are prehistoric or late, so the identification rests on text
+and terrain, not on a find.
+
 **Gazetteers.** None.
 
-**Assessment.** The Kīkān of the Arab sources lay toward Quetta, while Stein's Waziristan follows from Bannu (11.23)
-and the route. Mizutani stands, with medium confidence.
+**Assessment.** Cunningham's Pishin rested on the Arab Kīkān. Stein places that Qīqān in Waziristan too, which takes
+away Cunningham's ground, and his field tour fits the description, as Bannu (11.23) and the route already did.
+Mizutani is strengthened, with medium confidence.
 
 ## Gazetteer passages coded `new` in this range
 

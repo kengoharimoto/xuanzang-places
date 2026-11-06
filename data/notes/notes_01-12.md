@@ -416,7 +416,7 @@ use the Shibar. Mizutani, following Foucher and Takata, takes the Shibar and the
 Ghorband valley. The authorities here are evenly split between the two passes, and Mizutani's "uncertain" is
 appropriate.
 
-### 01.38 迦畢試國 (Kāpiśī) — the Panjshir–Ghorband basin round Begram; the gazetteers say only "Kabul valley"
+### 01.38 迦畢試國 (Kāpiśī) — the Panjshir–Ghorband basin round Begram; the Annual Reports accept Foucher's Begram, the gazetteers say only "Kabul valley"
 
 **Identifications.** Mizutani: the basin at the Panjshir–Ghorband confluence near Charikar, c. 72 km NE of Kabul
 (agreed). Cunningham: Kapisene = all Kafiristan plus the Ghorband and Panjshir valleys (pp. 21–24). Watters follows
@@ -424,14 +424,19 @@ Cunningham and suggests Kapis = Kafir (p. 124, tentative). Vivien: the Nijrao an
 Panjshir (p. 298). Beal: Kapisa of Ptolemy and Pliny (p. 54). Dey: Kushan, 10 miles W of Opian, and equates the
 country with the Chinese Kipin. Majumdar: the Sanskrit name is Kāpiśī (p. 671).
 
-**Gazetteers.** Atkinson, *Himalayan Districts* II (1884; also in the ATcu3 scan) only repeats: "Further east in
-Kapisa in the Kabul valley there was a Kshatriya king (630 A.D.)", with Lamghan, Nagarahara and Gandhāra subject to
-it. The Peshawar gazetteers (1883, 1899) say Gandhāra "was a dependency of Kapisa or Kabul", which loosely equates
-Kapiśa with Kabul. Neither offers local evidence.
+**Excavations.** The Annual Reports mention Kāpiśī once, in the epigraphy summary (Chakravarti, AR 1934–35). It
+reports Konow's article on a Kharoṣṭhī inscription on a bas-relief from Begram, now in the Musée Guimet: "Begram is
+situated on the confluence of the Ghorband and Panjshir rivers and has been identified by Prof. Foucher with ancient
+Kāpiśī"; the inscription is "the first record in Kharoshthi that has been discovered in the neighbourhood of
+Kāpiśī". It does not name the place.
 
-**Assessment.** The authorities here differ on the extent of Kapiśa (whether Kafiristan belongs to it), but all
-centre it on the Panjshir–Ghorband plain. The gazetteers add nothing; the Peshawar volumes' "Kabul" is only a rough
-regional label. Mizutani stands. For the capital see 01.38a.
+**Gazetteers.** Atkinson, *Himalayan Districts* II (1884; also in the ATcu3 scan) only repeats: "Further east in
+Kapisa in the Kabul valley there was a Kshatriya king (630 A.D.)". The Peshawar gazetteers (1883, 1899) say Gandhāra
+"was a dependency of Kapisa or Kabul". Neither offers local evidence.
+
+**Assessment.** The authorities differ on the extent of Kapiśa (whether Kafiristan belongs to it), but all centre it
+on the Panjshir–Ghorband plain. The gazetteers add nothing. The Annual Report takes Foucher's Begram as established
+and adds an early record from the site, but no proof of the name. Mizutani stands. For the capital see 01.38a.
 
 ### 01.38.01 質子伽藍 (沙落迦) — the hostage monastery: Koh-i-Pahlvan/Shotorak, E of Begram
 

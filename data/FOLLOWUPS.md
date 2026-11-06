@@ -58,3 +58,12 @@
   in fact the 1929–30 report; its passages (752–778) are kept but set `relevant=no`. The 1928–29 report and 1918–20
   are still missing. Eight volumes (1903–04, 1920–22, 1925–27, 1929–30, 1935–36) were re-OCR'd with Google Vision
   because the IA text was Hindi-language OCR of English.
+- **Multi-place passages in places.tsv**: a survey/AR passage coded to several ids carries one `asr_identification`,
+  which `build_places.py` then shows under each id (e.g. AR passage 668: Kosam text under 04.08 and 04.08.02; 367:
+  Uraśā/Hund/Taxila under 04.14). The notes are written from the passages and are right; the `asr`/`ar` columns can
+  mislead for such ids. AR passage 321: the Bilsar Maitreya was bought, not excavated; Cunningham's mound 33 ft.
+  Gazetteer hits 570–571 (Muttra 1911) are Vogel's AR 1906–07 text, not Führer's; hit 1792 "¼ mile" may be Sahni's ¾.
+- **AR coding, open**: passage 114's single `confirms` stance shows against 02.04.16 where Spooner's Takht-i-Bahi remark
+  is a rejection; 714 (Stein, Swat) also bears on 03.01.04a and 03.01.01a, uncoded; 211 bears on 02.04.06; 500 bears on
+  01.38a. No Hazara gazetteer is in the gazetteer set (Hargreaves cites one for Mangali = Uraśā). AR passage 236 lost
+  its stray 02.04.14.

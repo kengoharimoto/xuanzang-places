@@ -1,7 +1,7 @@
 # Notes on disputed places: juan 2 and juan 3
 
 Range: Lampāka, Nagarahāra, Gandhāra (juan 2); Udyāna, Balūra, Taxila, Siṃhapura, Uraśā, Kashmir, Punach,
-Rājapura (juan 3). 46 notes, in master-table order.
+Rājapura (juan 3). 47 notes, in master-table order.
 
 Gazetteer volumes used here (each counted once, though most exist in two scans): Peshawar 1883 and 1899;
 Rawalpindi 1883 and 1895; Attock 1909; Jhelam 1907; Dehra Dun 1911; Punjab (Rose's Glossary) 1919; Himalayan
@@ -16,6 +16,15 @@ Peshawar and Rawalpindi gazetteer passages echo ASR II word for word. Cunningham
 Varuṣa (Palodheri → Shahbaz Garhi), Siṃhapura (Malot → Ketas in the 1871 book → Malot), the Kunāla stūpa (Karmal
 → the Meri hill) and the stūpa N of the body-offering (Ventura's tope too late → Ventura's tope). Udyāna, Uraśā and
 Kashmir have no survey passages in this range.
+
+The Director-General's Annual Reports (1903–37) settle much of Gandhāra and Taxila. Spooner's excavation of
+Shāh-ji-ki-Dheri (1908–10) found Kaniṣka's inscribed casket, which locates the stūpa and puts the monastery in the
+west mound beside it. Marshall's work at Taxila (1912–16) turned up two inscriptions naming Takṣaśilā (a third came
+in 1923–24), cleared the Kushan walls of Sirsukh, dated Cunningham's head-gift stūpa, and assigned the head-gift and
+Kunāla stūpas to Bhallar and the Hathiāl ridge. Stein rejected Sahri-Bahlol and found Butan for Ekaśṛṅga (1911–12),
+and earlier found Mount Banj for the body-offering (1904–05). Hargreaves examined Mangali for Uraśā and Hund for
+Udabhāṇḍa (1923–24). Swat (the Tirāt footprint stone, Mount Ilam; Stein 1925–26) and Kāpiśī also appear, but there
+they confirm what Mizutani already holds. Charsadda has no Annual Report passage in this range.
 
 ---
 
@@ -83,7 +92,7 @@ perhaps Gunda Chismeh.
 **Assessment.** Both put the cave in the same range of hills south-west of the city, and neither can point to the
 cave itself. The gazetteers add nothing.
 
-### 02.04.02 卑鉢羅樹 — the pipal tree 8–9 li SE of Peshawar: Babur's "stupendous tree", now gone
+### 02.04.02 卑鉢羅樹 — the pipal tree: just N of Shāh-ji-ki-Dheri, where a Hindu shrine now stands; the tree is gone
 
 **Identifications.** Mizutani gives no site (unknown), but his note places the Kaniṣka stūpa (Shāh-ji-ki-Dheri)
 just south of the tree. Cunningham (p. 91–92, tentative): 8–9 li SE of Peshawar, probably the "stupendous tree" of
@@ -94,47 +103,68 @@ at 8 or 9 li, or 1½ mile, to the south-east of the city", Songyun's Bodhi tree,
 mentioned by Abul Fazl in 1594, so "it had previously disappeared through simple old age and decay". No fieldwork
 is reported.
 
+**Excavations.** Spooner (AR 1908–09, in the Shāh-ji-ki-Dheri report) follows Foucher: the tree "is not to be
+found", but "to the north of Shah-ji-ki-Dheri, in the place where one would naturally look for this tree, is a
+small octagonal temple still the scene of Hindu worship". Nothing was dug there.
+
 **Gazetteers.** Peshawar 1883 and 1899 echo ASR II almost word for word ("the holy pipal tree, at 8 or 9 *li*, or
 1½ mile, to the south-east of the city"), with the Babur and Abul Fazl dating. They also note that no remains of
 the stūpa beside it survive.
 
-**Assessment.** The site of the tree follows from 02.04.03: it stood immediately north of Shāh-ji-ki-Dheri, c. 1½
-miles SE of Peshawar, and nothing of it remains. Survey and gazetteers add the Babur and Abul Fazl dating but no
-physical evidence.
+**Assessment.** The site of the tree follows from the excavated stūpa (02.04.03): it stood immediately north of
+Shāh-ji-ki-Dheri, c. 1½ miles SE of Peshawar. The Hindu shrine on that spot may carry on its sanctity, as Foucher
+and Spooner suggest, but that is an inference, and nothing of the tree remains.
 
-### 02.04.03 迦膩色迦大窣堵波 — Shāh-ji-ki-Dheri; a stray footnote suggests Manikyala
+### 02.04.03 迦膩色迦大窣堵波 — Shāh-ji-ki-Dheri, settled by Kaniṣka's inscribed casket (Spooner 1908–09)
 
 **Identifications.** Mizutani: Shāh-ji-ki-Dheri, c. 1 km SE of Peshawar, excavated by Spooner in 1908–09 (agreed).
 Vivien (p. 308): under a lieue SE of Peshawar, no site named. Cunningham (p. 92): close S of the holy tree; "No
 remains of this great stupa now exist". Majumdar (p. 678): Shah-ji-ki-Dheri, where the relic casket was found.
 
 **Survey.** Cunningham (ASR II, 1863–64, p. 89) puts the stūpa "close to the holy tree on its south side" and
-reports only hearsay: "It is said that no remains of this great Stupa now exist". He did not look for it.
+reports only hearsay that no remains exist. He did not look for it.
 
-**Gazetteers.** Peshawar 1883 and 1899 echo ASR II: no remains. One footnote in the Thana volume of the Bombay
-Gazetteer (1882), on the relic mound at Peshawar, says "This is perhaps the great Mânikyâla tope which was opened
-by General Ventura in 1830". It cites Wilson's *Ariana Antiqua* and offers no argument.
+**Excavations.** Spooner tested Foucher's east mound outside the Ganj Gate (AR 1908–09, pp. 48–53). At the centre of
+what he called the largest stūpa in India lay a bronze casket inscribed in Kharoṣṭhī by "Agisala, overseer of works
+at Kanishka's vihāra in the saṃghārāma of Mahāsena", a crystal reliquary with three bone fragments and a coin of
+Kaniṣka: "undoubtedly the original relics deposited in the stupa by Kanishka". The casket also bears Kaniṣka's
+figure and name (AR 1909–10). Hargreaves (AR 1910–11) cleared the cruciform base, 180 ft across. Vogel (AR 1908–09)
+adds that the Sappers and Miners dug here in 1875 and found Buddhist remains burnt by fire, and that Cunningham had
+apparently moved to this mound without publishing it. Songyun's "7 li E" against Xuanzang's "8–9 li SE" is put down
+to different starting points.
 
-**Assessment.** The excavated relic casket settles the identification. The survey's "no remains" was hearsay, which
-Spooner's excavation overturned. The Thana footnote is a confusion with Manikyala, made far from the region, and
-carries no weight.
+**Gazetteers.** Peshawar 1883 and 1899 echo ASR II: no remains. A footnote in the Thana volume of the Bombay
+Gazetteer (1882) says "This is perhaps the great Mânikyâla tope", without argument.
 
-### 02.04.06 迦膩色迦伽藍 — Kaniṣka's monastery: Gor Khattri, by name and tradition only
+**Assessment.** An inscription naming Kaniṣka's foundation, in the relic chamber, settles the stūpa. The survey's
+"no remains" was hearsay, and the gazetteers copying it are overturned; the Thana footnote carries no weight.
+Mizutani is confirmed.
 
-**Identifications.** Mizutani: possibly Gor Khattri at the NE corner of Peshawar (uncertain). Cunningham (p. 93)
-and Watters (p. 208) both make the same tentative identification with the Gurh-Katri of Babur and Akbar.
+### 02.04.06 迦膩色迦伽藍 — Kaniṣka's monastery: the W mound at Shāh-ji-ki-Dheri (Spooner), not Gor Khattri
 
-**Survey.** The argument is Cunningham's in ASR II (1863–64, pp. 89–90): Vīra Deva of Magadha was sent in the
-9th–10th century to "the great Vihara of Kanishka", and "this great monastery was still existing in the times of
-Baber and Akbar under the name of Gor-Katari". Babur's Garh-Katri was a resort of Jogis; Erskine put the great
-caravanserai on its site. No remains are described.
+**Identifications.** Mizutani: possibly Gor Khattri at the NE corner of Peshawar (uncertain). Cunningham (p. 93) and
+Watters (p. 208) make the same tentative identification with the Gurh-Katri of Babur and Akbar.
 
-**Gazetteers.** Peshawar 1883 and 1899 echo ASR II: the monastery "survived as Gor Khatri ('Baniya's house')", with
-the Babur, Akbar and Vīra Deva references. The 1899 copy is badly garbled by OCR.
+**Survey.** Cunningham (ASR II, 1863–64, pp. 89–90): Vīra Deva of Magadha was sent in the 9th–10th century to "the
+great Vihara of Kanishka", and "this great monastery was still existing in the times of Baber and Akbar under the
+name of Gor-Katari". No remains are described.
 
-**Assessment.** The case rests on the name and later fame of Gor Khatri, argued before the stūpa was located at
-Shāh-ji-ki-Dheri. Neither the survey nor the gazetteers test whether Gor Khatri lies west of that stūpa, as
-Xuanzang requires. Mizutani's tentative view stands, though weakly.
+**Excavations.** Spooner (AR 1908–09): "attached to the main pagoda on the west, Kanishka built a vast monastery.
+The relative position of the two mounds at Shah-ji-ki-Dheri agrees exactly with this description"; the west mound
+suggests "a monastic quadrangle on an exceptionally large scale". The casket from the stūpa (02.04.03) names "the
+Vihara of Kanishka in the monastery of Mahasena", which Spooner (AR 1909–10) takes to mean that Kaniṣka built at the
+older Mahāsena monastery, which then "gave way before the larger monastery which the Chinese pilgrims found
+associated with Kanishka's name and portions of which we have now recovered". Hargreaves (AR 1910–11) traced the
+monastery wall facing the stūpa. Vogel (AR 1908–09) notes that Gor Katri was Cunningham's published first
+conjecture, which he later dropped.
+
+**Gazetteers.** Peshawar 1883 and 1899 echo ASR II ("survived as Gor Khatri"), with the Babur, Akbar and Vīra Deva
+references.
+
+**Assessment.** Gor Khatri rested on the name and later fame of the place, argued before the stūpa was found, and
+its author dropped it. The excavated stūpa, the inscription naming Kaniṣka's vihāra, and the great monastic mound
+lying west of it, as the text requires, put the monastery at Shāh-ji-ki-Dheri. Mizutani's "possibly Gor Khattri"
+should be replaced.
 
 ### 02.04.09 布色羯邏伐底城 (puṣkalāvatī) — Charsadda/Prang; mound surveyed by Garrick; Vivien's Nisatta superseded
 
@@ -189,24 +219,25 @@ stūpa remains unlocated, with Tangi as a candidate by distance.
 ### 02.04.14 跋虜沙城 — Shahbaz Garhi; Cunningham's Palodheri, abandoned by Cunningham himself
 
 **Identifications.** Mizutani: Shahbaz Garhi, 65 km ENE of Peshawar (agreed), after Foucher and Dani. Majumdar (p.
-676) and Dey also say Shahbazgarhi. Majumdar notes that "Cunningham's identification … has been discarded" and that
-Cunningham himself (ASR V) later moved to Shahbazgarhi. Cunningham's earlier site, in the *Ancient Geography* (p.
-60), was Palodheri ("village of Pali"), and Watters (p. 217) and Beal (p. 112) both repeated it. Beal also wondered
-about Takht-i-Bahi. Vivien (p. 309, tentative): Barotch on Cunningham's map.
+676) and Dey agree; Majumdar notes that Cunningham's identification "has been discarded", by Cunningham himself in
+ASR V. Cunningham's earlier site in the *Ancient Geography* (p. 60) was Palodheri, repeated by Watters (p. 217) and
+Beal (p. 112), who also wondered about Takht-i-Bahi. Vivien (p. 309, tentative): Barotch on Cunningham's map.
 
-**Survey.** Cunningham's ASR II (1863–64, pp. 90–91) argues for Palodheri, "10 miles to the north of the great
-inscription at Shahbaz garhi": *dheri* means a mound of ruins, "Palo may preserve some portion of the name of
-Palusha", the distance of 33 miles from Tangi fits though "its direction is east instead of south-east", and the
-Kashmiri-ghar cave lies 3–4 miles ENE (02.04.15). In ASR V (1872–73) the equation has changed without argument in
-the passages coded: he writes "Po-lu-sha, or Shahbaz-garhi" (p. 42) and of Songyun's Fo-sha-fu "which I have
-identified with Shahbaz-garhi" (p. 65). In the same volume (p. 36) he floats a link between Po-lu-sha and the name
-Raja Vara (Virat) attached to the Takht-i-Bahi ruins, but proposes no site.
+**Survey.** ASR II (1863–64, pp. 90–91) argues for Palodheri, 10 miles N of the Shahbaz Garhi inscription: *dheri*
+is a mound of ruins, "Palo may preserve some portion of the name of Palusha", the distance from Tangi fits though
+"its direction is east instead of south-east", and the Kashmiri-ghar cave lies 3–4 miles ENE. In ASR V (1872–73) he
+writes, without argument in the passages coded, "Po-lu-sha, or Shahbaz-garhi" (p. 42), and floats a link between
+Po-lu-sha and the Raja Vara of the Takht-i-Bahi ruins (p. 36).
 
-**Gazetteers.** None identify the town. The Peshawar volumes mention the Shahbazgarhi edict rock only in a margin
-heading, which was coded as irrelevant.
+**Excavations.** The Annual Reports treat Shahbaz Garhi as settled. Stein (AR 1911–12, p. 113) measures from
+"Po-lu-sha or Shahbaz-garhi". Hargreaves (AR 1922–23, p. 17) calls "the village of Shahbazgarhi, the Po-lu-sha of
+the Chinese pilgrims", with the edict rocks ¾ mile SE and the old Khyber–Taxila road south of them. Nothing was dug
+in the town.
 
-**Assessment.** The survey confirms Majumdar's account: Palodheri was Cunningham's view of 1863–64, carried into
-the *Ancient Geography*, and he had moved to Shahbaz Garhi by 1872–73. Mizutani stands.
+**Gazetteers.** None identify the town. The Peshawar volumes mention the edict rock only in a margin heading.
+
+**Assessment.** Palodheri was Cunningham's view of 1863–64, carried into the *Ancient Geography*; he had moved to
+Shahbaz Garhi by 1872–73. The Annual Reports repeat Shahbaz Garhi without new evidence. Mizutani stands.
 
 ### 02.04.14a 跋虜沙城北窣堵波 — Foucher's Chanaka Dheri undermined by excavation; no replacement
 
@@ -222,45 +253,52 @@ sources. The stūpa is effectively unlocated.
 ### 02.04.15 彈多落迦山 (daṇḍaloka) — Mekha-Sanda vs the Kashmir Smast cave vs the cave near the Shahbazgarhi edicts
 
 **Identifications.** Mizutani: Mekha-Sanda, at the N end of the hills running NE from Shahbaz Garhi (Foucher;
-excavated by Kyoto University in 1962–67; two rock-cut caves) (agreed). Cunningham (p. 60): the hill with the great
-cave of Kashmiri-Ghar, 3–4 miles ENE of Palodheri (= the Montes Daedali of Justin). Majumdar (p. 676): "About 1½
-mile N.E. of the Asokan Inscriptions is a double-chambered cave which answers exactly to the Chinese description of
-Sudana's cave". Watters (p. 217) is inclined to read 2,000 li with the Fang-chih and so put the mountain far away.
-Beal gives no site.
+excavated by Kyoto University in 1962–67; two rock-cut caves) (agreed). Cunningham (p. 60): the great cave of
+Kashmiri-Ghar, 3–4 miles ENE of Palodheri. Majumdar (p. 676): "About 1½ mile N.E. of the Asokan Inscriptions is a
+double-chambered cave which answers exactly to the Chinese description of Sudana's cave". Watters (p. 217) reads
+2,000 li with the Fang-chih. Beal gives no site.
 
 **Survey.** Cunningham (ASR II, 1863–64, pp. 91–92) chose the Kashmiri-ghar cave because it lies "within three or
 four miles of Palodheri, almost in the very position indicated". He knew it from Court and Loewenthal (a largely
-natural cave of several chambers, with flights of steps and buildings) and in 1848 had copies made of an
-inscription in it from Chargolai, 7 miles away. When he moved Varuṣa to Shahbaz Garhi (02.04.14), the survey did
-not re-measure the mountain in the passages coded.
+natural cave of several chambers, with steps and buildings). When he moved Varuṣa to Shahbaz Garhi (02.04.14) he did
+not re-measure the mountain.
 
-**Gazetteers.** Peshawar 1883 and 1899 repeat Cunningham (citing ASR V): the "Kashmir Smats" cave temple near the
-summit of the Sakri ridge of Pajja, 8 miles NW of Bazar, with "the ruins of a small city" below; the cave "has not
-been thoroughly explored yet".
+**Excavations.** Hargreaves (AR 1922–23, p. 17): "a few now hardly traceable foundations on the Mekha-Sanda hill to
+the north-east of the village alone remain to mark the retreat of the exiled prince". He did not dig.
 
-**Assessment.** Cunningham's Kashmir Smast was fixed from Palodheri, which he himself gave up, and it lies far from
-Shahbaz Garhi. Majumdar's cave and Mizutani's Mekha-Sanda both sit in the hills NE of Shahbaz Garhi, which fits the
-text's "20 li NE". Mizutani stands.
+**Gazetteers.** Peshawar 1883 and 1899 repeat Cunningham (citing ASR V): the "Kashmir Smats" cave temple on the
+Sakri ridge of Pajja, 8 miles NW of Bazar, with "the ruins of a small city" below; it "has not been thoroughly
+explored yet".
 
-### 02.04.16 獨角仙人窣堵波 — the Ekaśṛṅga stūpa: Sahri-Bahlol below Takht-i-Bahi (Cunningham) or Butan (Stein)
+**Assessment.** Cunningham's Kashmir Smast was fixed from Palodheri, which he gave up, and lies far from Shahbaz
+Garhi. Majumdar's cave and Mizutani's Mekha-Sanda both sit in the hills NE of Shahbaz Garhi, fitting the text's "20
+li NE", and the Survey in 1922–23 took the same hill and saw foundations on it. Mizutani is strengthened.
+
+### 02.04.16 獨角仙人窣堵波 — the Ekaśṛṅga stūpa: Butan above Palai (Stein); Cunningham's Sahri-Bahlol rejected by excavation
 
 **Identifications.** Mizutani gives no site (unknown). Majumdar (p. 677) reports two views without choosing:
-Cunningham (ASR V) put it at "Takht-i-Bahai", and Stein at "Butan, a large important Buddhist site, in the Palai
-valley" near the S foot of the Shahkot pass.
+Cunningham (ASR V) at "Takht-i-Bahai", and Stein at "Butan, a large important Buddhist site, in the Palai valley"
+near the S foot of the Shahkot pass.
 
-**Survey.** Cunningham's site (ASR V, 1872–73, p. 42) is in fact Sahri-Bahlol, with Takht-i-Bahi as the mountain:
-the Ṛṣi's place lay "to the south of a high mountain which was 16 miles to the north-west of Po-lu-sha, or
-Shahbaz-garhi", and "The high mountain I would identify with Takht-i-Bahi, from which Sahri-Bahlol lies south 2½
-miles". The stūpa and monastery are the Dhamami stūpa opened by Bellew; Cunningham dug ten statues out of a mound
-there. Three pages later (p. 45) he identifies the same Dhamami stūpa with Faxian's and Songyun's eye-gift stūpa
+**Survey.** Cunningham's site (ASR V, 1872–73, p. 42) is Sahri-Bahlol, with Takht-i-Bahi as the mountain: "The high
+mountain I would identify with Takht-i-Bahi, from which Sahri-Bahlol lies south 2½ miles", 16 miles NW of Shahbaz
+Garhi. The stūpa is the Dhamami stūpa opened by Bellew. On p. 45 he makes the same stūpa Faxian's eye-gift stūpa
 (see the final section).
+
+**Excavations.** Spooner (AR 1907–08), digging at Takht-i-Bahi, agreed with Foucher that "the Chinese pilgrims do
+not mention it". Stein excavated six mounds at Sahri-Bahlol (AR 1911–12, p. 99), found most shrines ruined long
+before the 7th century, and concluded: "None of Hsuan-tsang's traceable routes in Gandhara took the pilgrims past
+Sahri-Bahlol". On p. 113, following a hint from Deane, he traced the convent "about a hundred li to the north-west
+of Po-lu-sha" and "to the south of a great mountain": "the remains of this ruined monastery and stupa, at the site
+of 'Butan' near the southern foot of the Shahkot Pass and above the large village of Palai". His reading of a
+Sahri-Bahlol relief as Ekaśṛṅga is doubted by Hargreaves; the site is not.
 
 **Gazetteers.** None.
 
-**Assessment.** The survey turns Majumdar's "Takht-i-Bahai" into a real site with excavated remains, measured from
-Shahbaz Garhi. But Cunningham used the same stūpa for two different legends, so the identification is loose.
-Stein's Butan, also made on the ground, remains the rival. The stūpa should be recorded as open between these two,
-with low confidence.
+**Assessment.** Cunningham's Sahri-Bahlol rested on distance and was loose, since he used one stūpa for two legends.
+Excavation now shows its shrines derelict before Xuanzang's time. Stein's Butan has ruins, the right bearing and
+distance from Shahbaz Garhi, and the Shahkot range to its north. It is the best candidate, with medium confidence,
+since nothing names the site.
 
 ### 02.04.17 毘摩天女像（崇山） — the Bhīmā image: Karamar hill (Cunningham) vs Takht-i-Bahi vs "near Jamalgarhi"
 
@@ -280,6 +318,30 @@ thus Cunningham's, now reached from the right starting point without altering th
 come from a different reckoning (Beal from Ohind) or from a name association; by Dey's own figures, Takht-i-Bahi
 (28 miles NE of Peshawar) lies short of Shahbaz Garhi (40 miles NE), not 50 li beyond it. Mizutani stands, though
 no shrine has been found on the hill.
+
+### 02.04.18 烏鐸迦漢荼城 (udakabhāṇḍa) — Hund (Ohind) on the Indus; Watters' doubt answered by Hargreaves' inspection
+
+**Identifications.** Mizutani: Ohind (Hund, Und), NE of the Indus–Kabul confluence, 16 miles above Attock (agreed).
+Vivien (p. 311), Cunningham (p. 61; = Embolima), Beal (p. 114) and Majumdar (p. 677; the Udabhāṇḍapura of the
+*Rājataraṅgiṇī*, Alberuni's Waihand) agree. Watters (p. 223) doubts Ohind and gives no site of his own.
+
+**Survey.** Cunningham (ASR II, 1863–64, pp. 92–95) traces the name through Abu Rihan, Rashid-ud-din and Ferishta,
+notes that the Indus has carried away half the town, and reports gold-washers' finds of bronze ornaments and
+Indo-Scythian and Brahman Kabul coins.
+
+**Excavations.** Hargreaves inspected "Hund, the ancient Udabhanda, the Ohind of the numismatists, the eastern
+terminus of the old road through Gandhara from the Khyber to the Indus" on 13 January 1924 (AR 1923–24, pp. 68–69).
+Ancient diaper walls run under the Muslim fort; there is Gandhāra walling SW of the village, high ground marking
+monuments of the 3rd–5th century, and probably a stūpa base; he was given a 10th-century Śaiva inscription in
+Śāradā. "The 20 li which Hiuen-tsang attributes to the circuit of this town seems in no way exaggerated as the Indus
+has undoubtedly swept away" its southern part.
+
+**Gazetteers.** Himalayan Districts II (1884) and the 1874 volume repeat Cunningham ("Embolima or Ohind … the
+Utakhanda of the Chinese Buddhist pilgrims") and add nothing.
+
+**Assessment.** The name runs unbroken from Udabhāṇḍa to Hund, and the remains show a large town of the right period
+whose extent fits the 20 li circuit. Nothing found names it, but Watters' doubt has no evidence behind it. Mizutani
+is strengthened.
 
 ### 03.01.01a 瞢揭釐城 — Mingora (Italian mission) vs Manglaor (Cunningham, Stein)
 
@@ -407,48 +469,56 @@ between the Chitral river and the Tal valley, 450 li NE of Manglavor. Beal and W
 **Assessment.** Deane's lake matches the dragon-lake story. Vivien's Laspur is a map reckoning. The gazetteers do
 not touch the question, so Mizutani stands, with low confidence.
 
-### 03.03 呾叉始羅國 (takṣaśilā) — Shah-dheri/Sarai-kala, confirmed by an inscription; Vivien's Hasan Abdal is superseded
+### 03.03 呾叉始羅國 (takṣaśilā) — Shah-dheri/Sarai-kala, confirmed by three inscriptions naming Takṣaśilā; Vivien's Hasan Abdal is superseded
 
 **Identifications.** Mizutani: Taxila, 21 miles NW of Rawalpindi (Sarai-kala), after Marshall (agreed). Cunningham
-(p. 128, 138): "ruins of the ancient city near Shah-dheri". Watters (p. 241), Majumdar (p. 681) and Dey agree. The
-one different view is Vivien's (p. 319, tentative): the neighbourhood of Hassan Abdal, perhaps an old site 7–8
-miles E or SE of it. Beal (p. 136) and Dey report both views.
+(p. 128, 138): "ruins of the ancient city near Shah-dheri". Watters (p. 241), Majumdar (p. 681) and Dey agree.
+Vivien (p. 319, tentative): near Hassan Abdal, perhaps an old site 7–8 miles E or SE of it. Beal (p. 136) and Dey
+report both views.
 
-**Survey.** Cunningham found the site in 1863 (ASR II, 1863–64, p. 85): "the actual emplacement, which I have
-discovered during the present year, being to the east of Shah-dheri", 10 miles SE of Hasan Abdal and 4 miles S of
-Vivien's Usman-Katar. He supports it with the pilgrims' three marches from the Indus and with the irrigated land N
-of the Tabra Nala (pp. 111–122): "This then must be the site of Taxila". A second visit (ASR V, 1872–73, p. 66)
-"has only strengthened my conviction". In the same volume (pp. 67–68) he cites the copper plate of the satrap
-"Liako Kujuluka", found (by Delmerick's enquiries) at Thupkia in the middle of Sirsukh, which names "the city of
+**Survey.** Cunningham found the site in 1863 (ASR II, 1863–64, p. 85), "to the east of Shah-dheri", 10 miles SE of
+Hasan Abdal, and supports it with the pilgrims' three marches from the Indus (pp. 111–122). ASR V (1872–73, pp.
+66–68) adds the copper plate of the satrap "Liako Kujuluka", found at Thupkia in Sirsukh, which names "the city of
 Takhasila".
+
+**Excavations.** Marshall began trial digs at the Chir Tope, Sirkap, Jhandiala and the Bir mound in 1912–13 (AR, p.
+16). At the Chir Tope, renamed the Dharmarājikā, a silver scroll of the year 136 of Azes, in a gold casket under
+chapel G5, records relics enshrined "at the Dharmarājikā Stūpa in the Tanuva district of Takṣaśilā" (AR 1913–14, pp.
+12–13). From the "Mahal" in Sirkap came a ladle inscribed in Kharoṣṭhī "… Tachhasilae Kushaviana parigrahe" (AR
+1923–24).
 
 **Gazetteers.** Rawalpindi 1883 and 1895 echo ASR II and add the plate: the identification "is rendered certain by
 the measurements recorded by the Chinese pilgrims … and by a copper plate found by Mr. Roberts among the ruins".
 Punjab 1919 mentions Taxila only as a feudatory of Kashmir.
 
-**Assessment.** The inscribed copper plate found in the ruins confirms Cunningham's and Mizutani's site. Vivien's
-Hasan Abdal, based on the Elāpattra spring (03.03.02), no longer competes.
+**Assessment.** Three inscriptions found on the site name Takṣaśilā: the Sirsukh plate, the Dharmarājikā scroll and
+the Sirkap ladle. They put Cunningham's and Mizutani's site beyond doubt. Vivien's Hasan Abdal, based on the
+Elāpattra spring (03.03.02), no longer competes.
 
-### 03.03.01a 呾叉始羅國大都城 — Sirsukh (Marshall) vs the Bir mound (Cunningham)
+### 03.03.01a 呾叉始羅國大都城 — Sirsukh (Marshall; Kushan walls excavated 1915–16) vs the Bir mound (Cunningham)
 
-**Identifications.** Mizutani: Sirsukh, the third (Kushan) city NNE of Sirkap, after Marshall, and not the Bhir
-Mound or Sirkap (agreed). Cunningham (p. 129–130): "there can be little doubt that the city of his time was
-situated on the mound of Bir". Beal (p. 136) follows Cunningham's Shah-dheri without choosing among the mounds.
+**Identifications.** Mizutani: Sirsukh, the third (Kushan) city NNE of Sirkap, after Marshall, not the Bhir Mound or
+Sirkap (agreed). Cunningham (p. 129–130): "there can be little doubt that the city of his time was situated on the
+mound of Bir". Beal (p. 136) does not choose among the mounds.
 
-**Survey.** Cunningham's case (ASR II, 1863–64, pp. 117–118) has two parts. On the Bir mound "the old coins are
-found in greater numbers" and a man gathered "a double handful of bits of lapis lazuli"; its size suits the 10 li
-circuit. And the great stūpa in Babar-khana, his head-gift stūpa (03.03.04), lies 8,000 ft NNE of the mound, i.e.
-the text's 12–13 li N. He measured Sirsukh (circuit 15,300 ft, p. 121) but does not discuss it as a candidate. In
-ASR V (1872–73, pp. 67–68) he read the copper plate found in Sirsukh, which calls the satrapy NE "of the city of
-Takhasila", as proof that Sirkap was Taxila proper and Sirsukh a separate place.
+**Survey.** Cunningham's case (ASR II, 1863–64, pp. 117–118): on the Bir mound "the old coins are found in greater
+numbers", with lapis lazuli; its size suits the 10 li circuit; and his head-gift stūpa (03.03.04) lies 8,000 ft NNE
+of it, i.e. the text's 12–13 li N. He measured Sirsukh (circuit 15,300 ft) but did not treat it as a candidate. In
+ASR V (pp. 67–68) he read the Sirsukh copper plate as proof that Sirkap was Taxila proper and Sirsukh a separate
+place.
+
+**Excavations.** Marshall's trial digs of 1912–13 touched the Bir mound only lightly. In 1915–16 (AR, pp. 11–14) he
+cleared the SE corner of Sirsukh: the fortifications "were constructed of the large diaper masonry characteristic of
+the Kushan epoch", with round loopholed bastions, and a block of the 3rd–4th century stood in the middle of the
+city. He later put the head-gift stūpa at Bhallar, not at Cunningham's Jhandiala (03.03.04).
 
 **Gazetteers.** Rawalpindi 1883 and 1895 echo ASR II word for word: coins, lapis, and "probably the site of the
 inhabited part of the city in the time of Hwen Thsang".
 
-**Assessment.** The survey's Bir mound rests on surface finds and on a circular argument with the head-gift stūpa,
-whose own identification is contested. Cunningham's reading of the plate concerns the 1st century, not 630.
-Marshall's excavations, which Mizutani follows, are not reported here, and nothing in these files counts against
-Sirsukh. Mizutani stands. The choice of city matters for 03.03.04 and 03.03.06.
+**Assessment.** The Bir mound rests on surface finds and on a circular argument with a head-gift stūpa that Marshall
+has since put elsewhere; the plate concerns the 1st century, not 630. The Annual Reports show Sirsukh to be the
+walled Kushan city, the latest of the three, still occupied in the 3rd–4th century. That supports Mizutani, though
+nothing here proves occupation in the 7th century.
 
 ### 03.03.03 四大寶藏窣堵波 — Baoti Pind: the stūpa Cunningham excavated, with the bearing corrected
 
@@ -470,49 +540,54 @@ the ruined stupas is the right one".
 ridge, which strengthens the identification. It still requires reading E for the text's SE, a point Mizutani passes
 over, and nothing found names the place.
 
-### 03.03.04 捨頭窣堵波 — Bhallar stūpa (Marshall) vs Babar-khana (Cunningham)
+### 03.03.04 捨頭窣堵波 — Bhallar stūpa (Marshall, AR 1915–16) vs Babar-khana (Cunningham, re-dated by Marshall)
 
-**Identifications.** Mizutani: the Bhallar stūpa at the W end of Sarda hill, c. 8 miles from Taxila station
-(Marshall), with the extant stūpa early medieval (agreed). Cunningham (p. 134–135): the great ruined stūpa in the
-Babar-khana tract on the Lundi Nala, 1,200 ft N of Jhandiala Pind, c. 2 miles N of the Bir mound. Beal gives no
-site.
+**Identifications.** Mizutani: the Bhallar stūpa at the W end of Sarda hill (Marshall), with the extant stūpa early
+medieval (agreed). Cunningham (p. 134–135): the great ruined stūpa in the Babar-khana tract, 1,200 ft N of Jhandiala
+Pind, c. 2 miles N of the Bir mound.
 
-**Survey.** Cunningham argued at length (ASR II, 1863–64, pp. 114–121): the land N of the city is still called
-Babar Khana, "tiger's house"; a mound to the NW is Seri-ki-pind, which he took to refer to the head-gift; and the
-road through the gates of Hatial and Sirkap runs "due north" to the Jhandiala stūpa, "which proves incontestably
-the very high estimation in which that monument must have been held". On a second visit (ASR V, 1872–73, p. 72) he
-excavated a two-storeyed monastery beside it with square corner rooms, which he matched with Xuanzang's corner
-pavilions. In ASR XIV (1878–79) he wondered whether c. 80 small stūpas he excavated at the foot of the Meri hill, E
-of the old town, belonged to the head-offering's "thousand" stūpas.
+**Survey.** Cunningham (ASR II, 1863–64, pp. 114–121) cites the name Babar Khana, "tiger's house", the mound
+Seri-ki-pind, and the road through the Hatial and Sirkap gates running "due north" to the Jhandiala stūpa. In ASR V
+(p. 72) he excavated a two-storeyed monastery beside it whose corner rooms he matched with Xuanzang's pavilions.
 
-**Gazetteers.** Rawalpindi 1883 and 1895 restate the 12–13 li N and Cunningham's view in summary.
+**Excavations.** Marshall reopened the Jhandiala stūpa (AR 1912–13, p. 16): a round 3rd-century stūpa over a
+Scytho-Parthian one with coins of Soter Megas. Cunningham "penetrated only as far as the round stupa of the 3rd
+century and proceeded to identify it with a stupa erected by Asoka, more than five hundred years before that date";
+a gold relic casket lay in his spoil. In 1915–16 (AR, pp. 3–4) Marshall repaired "the Bhalar Stupa, which I have now
+been able to identify with the stupa of the 'Sacrificed Head'", giving no argument; its terrace and monastery were
+still uncleared. In AR 1914–15 (p. 13) he makes Bhalar contemporary with the Kunāla stūpa, c. 3rd century; Mizutani
+calls the extant stūpa early medieval.
 
-**Assessment.** The survey's case rests on names, the road and the excavated monastery, but its 12–13 li N is
-measured from the Bir mound. By Cunningham's own plan (p. 121) Sirsukh lies at the NE corner of Babar-khana, so
-from Marshall's city the Jhandiala stūpa is not to the north at all. With Sirsukh as the city, Mizutani's Bhallar
-stands.
+**Gazetteers.** Rawalpindi 1883 and 1895 restate Cunningham's view in summary.
 
-### 03.03.06 拘浪拏太子窣堵波 — Kunāla stūpa: Marshall's Hathiāl site, contested; Cunningham moved from Karmal to the Meri hill
+**Assessment.** Cunningham's 12–13 li N is measured from the Bir mound; from Sirsukh, which lies at the NE corner of
+Babar-khana on his own plan, the Jhandiala stūpa is not to the north. Marshall's dating objection decides nothing,
+since by his own account Bhalar is no older and the "Aśoka" is legend either way. With Sirsukh as the city
+(03.03.01a), Bhallar stands, on the excavator's word rather than a published argument.
 
-**Identifications.** Mizutani (disputed): Marshall places the stūpa on the N slope of the W end of the Hathiāl
-ridge S of Sirkap, beside the "Kunāla monastery". Yamamoto (1940) and others object that Xuanzang's city is
-Sirsukh, not Sirkap, so the bearing SE of the city fails. Beal gives no site. The coded *Ancient Geography* has no
-entry for this place.
+### 03.03.06 拘浪拏太子窣堵波 — Kunāla stūpa: Marshall's excavated stūpa on the Hathiāl ridge; the bearing from Sirsukh still contested
 
-**Survey.** Cunningham first proposed the chief tope of Karmal (ASR II, 1863–64, pp. 149–150), on a N spur of the
-Margala range, ESE of the Bir mound and due SE of the Hatial citadel: its position "tallies, therefore, so exactly
-with the site of Kunala Stupa … that I have but little hesitation in proposing their identity", and Kunāla may have
-been assimilated to Kurmal. He dug the tope (50 ft across) to the rock and found no deposit; a monastery 120 ft
-square lay beside it. In ASR XIV (1878–79) he proposed instead a great stūpa site on a terrace at the N foot of the
-Meri hill, E of the old town, surrounded by some 80 small votive stūpas that he excavated, admitting "the direction
-is east instead of south-east". Karmal is not mentioned there.
+**Identifications.** Mizutani (disputed): Marshall's stūpa on the N slope of the W end of the Hathiāl ridge S of
+Sirkap, beside the "Kunāla monastery". Yamamoto (1940) and others object that Xuanzang's city is Sirsukh, not
+Sirkap, so the bearing SE of the city fails. Beal gives no site.
 
-**Gazetteers.** Rawalpindi 1883 and 1895 quote ASR II on Karmal, including the "tallies so exactly" sentence; the
-topes had been "opened by the villagers".
+**Survey.** Cunningham first proposed the chief tope of Karmal (ASR II, 1863–64, pp. 149–150), due SE of the Hatial
+citadel, which "tallies … so exactly with the site of Kunala Stupa"; he dug it to the rock and found no deposit. In
+ASR XIV (1878–79) he proposed instead a stūpa terrace at the N foot of the Meri hill, ringed by c. 80 votive stūpas,
+admitting "the direction is east instead of south-east".
 
-**Assessment.** The survey offered two sites in turn, both measured from Cunningham's Bir-mound city, and neither
-yielded anything that names Kunāla. Marshall's Hathiāl site is already contested. The place should be left open,
-with Marshall's site weakened and no survey site a clear replacement.
+**Excavations.** Marshall (AR 1914–15, pp. 13–14) excavated "a stupa of imposing dimensions which occupies a
+commanding position on a plateau on the northern side of the Hatial ridge. This is the stupa which Hiuen Tsang
+describes as being more than 100 feet high". It has a three-tiered base 63 × 105 ft with a north stair and
+Corinthian pilasters, and a monastery beside it. The present stūpa, of c. the 3rd century, encloses a 1st-century
+memorial stūpa. No inscription was found, and the bearing is not discussed.
+
+**Gazetteers.** Rawalpindi 1883 and 1895 quote ASR II on Karmal; the topes had been "opened by the villagers".
+
+**Assessment.** The survey's two sites, both measured from the Bir mound, yielded nothing (Karmal) or need the
+bearing altered (Meri). Marshall's site has a large stūpa whose older core shows the spot was sacred early, fitting
+a monument over 100 ft high. But from Sirsukh, Mizutani's own capital, the Hathiāl ridge does not lie SE. Marshall's
+site is the best on offer, with low confidence.
 
 ### 03.04 僧訶補羅國 (siṃhapura) — the Salt Range round Ketas; Cunningham wavered (Malot → Ketas → Malot), Stein returned to Ketas
 
@@ -605,29 +680,30 @@ Stein's denial of tanks at Ketas, but his stūpa was not excavated and his Jaina
 Stein's Murti has an excavated stūpa with Jaina sculpture and local tradition. Murti remains the better-supported
 alternative to Mizutani's Ketas, but with less margin.
 
-### 03.04.05 摩訶薩埵捨身處（大石門） — the body-offering site: Banj (Stein) vs Manikyala, where Court's inscription names the body-offering
+### 03.04.05 摩訶薩埵捨身處（大石門） — the body-offering site: Banj (Stein; remains and red soil, AR 1904–05) vs Manikyala, where Court's inscription names the body-offering
 
 **Identifications.** Mizutani (disputed): Banj mountain on the Mahaban spur in Buner, reached by crossing the Indus
-from the Taxila side. Majumdar, Petech and Chavannes agree, and Stein found an ancient well there (Vajrastūpa
-inscription). Cunningham (p. 140): Manikyala, reading 信度 as the Suhan river. Beal (p. 145) follows him. Watters (p.
-255) finds Manikyala "attended with serious difficulties". Majumdar (p. 682): "Everybody is now agreed that
-Cunningham was mistaken"; he reports Banj, with the bearing corrected from SE to NE.
+from the Taxila side; Majumdar, Petech and Chavannes agree, and Stein found an ancient well there. Cunningham (p.
+140): Manikyala, reading 信度 as the Suhan river; Beal (p. 145) follows him. Watters (p. 255) finds Manikyala
+"attended with serious difficulties". Majumdar (p. 682): "Everybody is now agreed that Cunningham was mistaken".
 
-**Survey.** Cunningham argued it in ASR II (1863–64, pp. 154–165) and repeated it in ASR XIV (1878–79, p. 50): 200
-li SE of Taxila "is the exact bearing and distance of Manikyala", as Songyun's three days SE agree. The
-body-offering stūpa is General Court's tope (No. 2): "The Huta-murta or 'body-offering' is twice mentioned in the
-inscription that was found covering the deposit" (with Kaniṣka's gold and Roman denarii). He adds the red soil,
-Court's No. 5 1,200 ft to the S as the stūpa where the Bodhisattva drew his blood, and an excavated gateway ESE as
-the "great stone gate". In ASR XIV (pp. 7–8) he moved the blood stūpa to a stūpa near Rama-ka-Pind, 24–25 miles S,
-reading the text's 140–150 paces (百四五十歩) as li.
+**Survey.** Cunningham (ASR II, 1863–64, pp. 154–165; ASR XIV, p. 50): 200 li SE of Taxila "is the exact bearing and
+distance of Manikyala". The body-offering stūpa is Court's tope No. 2: "The Huta-murta or 'body-offering' is twice
+mentioned in the inscription that was found covering the deposit". He adds the red soil and an excavated gateway as
+the "great stone gate".
 
-**Gazetteers.** Rawalpindi 1883 and 1895 echo ASR II, with the Raja Rasalu legend that Cunningham took as the tiger
-story's successor.
+**Excavations.** Marshall's review of Stein's tour (AR 1904–05) reports "on Mount Banj the remains of an important
+Buddhist sanctuary, which he identifies, with great probability, as the long sought for sanctuary of the body
+offering". The case, first put by Chavannes, is "in the main topographical" (the site's position relative to the
+Udyāna capital and Uraśā), with "much additional support" from "the character and relative position of the actual
+remains" and "that red coloured soil remarked on as such a distinctive feature by Hiuen Thsang".
 
-**Assessment.** The inscription, if Cunningham read it rightly, shows that Manikyala was itself a body-offering
-site in Kushan times, the strongest evidence for it. But the itinerary returns to the north border of Taxila and
-crosses the Indus, which Cunningham must explain away. Banj fits the route, so Mizutani stands, with lower
-confidence.
+**Gazetteers.** Rawalpindi 1883 and 1895 echo ASR II, with the Raja Rasalu legend.
+
+**Assessment.** Court's inscription, if read rightly, makes Manikyala a Kushan body-offering site, but the itinerary
+returns to Taxila's north border and crosses the Indus, which Cunningham must explain away. Banj fits the route and
+now has a sanctuary and the red soil on the ground, accepted by the Survey at once. Mizutani is strengthened, with
+medium confidence, since nothing at Banj names the place.
 
 ### 03.04.06 捨身北石窣堵波 — the stone stūpa N of the body-offering: unlocated; Cunningham's two incompatible proposals
 
@@ -658,21 +734,28 @@ thup of Mera was the dome of a Muhammadan tomb", built of old cut stones.
 **Assessment.** The survey's candidate depends on Manikyala (03.04.05) and yielded no Buddhist remains. The
 monastery is unlocated.
 
-### 03.05 烏剌尸國 (uraśā) — Hazara; the capital Haripur (Watters) vs Mangali (Cunningham)
+### 03.05 烏剌尸國 (uraśā) — Hazara; the capital at Mangali (Cunningham; tested on the ground by Hargreaves 1923) rather than Haripur
 
-**Identifications.** Mizutani: Hazara district, with its capital at Haripur (after Watters) (agreed). Beal (p.
-147), Majumdar (p. 680), Dey (after Stein) and Vivien (p. 321) all say broadly Hazara. Watters (p. 257, tentative)
-has Hazara with its capital at Haripur, after Swynnerton. Cunningham (p. 119–120, tentative) has Ptolemy's Varsa =
-the district of Rash in Dhantawar, W of Muzaffarabad, with the capital "probably … at Mangali, which is said by the
-people to have been the ancient capital of the district", between Noshahra and Mansera. Dey also reports Wilson's
-valley of Gurez.
+**Identifications.** Mizutani: Hazara district, with its capital at Haripur (after Watters) (agreed). Beal (p. 147),
+Majumdar (p. 680), Dey (after Stein) and Vivien (p. 321) all say broadly Hazara. Watters (p. 257, tentative) has
+Haripur as the capital, after Swynnerton. Cunningham (p. 119–120, tentative): Ptolemy's Varsa = the district of
+Rash, with the capital "probably … at Mangali, which is said by the people to have been the ancient capital",
+between Noshahra and Mansera. Dey also reports Wilson's Gurez.
+
+**Excavations.** Hargreaves (AR 1923–24, pp. 66–68) tested the Hazara Gazetteer's statement that the capital "was
+Mangali on the Mangal stream", visiting on 9 August 1923. No walls showed under the maize, but potsherds cover an
+area between the Mangal stream and a nala that "coincides pretty closely with the '7 or 8 li' in circuit". For the
+stūpa and saṃghārāma 4–5 li SW, a mound ½ mile SW proved not Buddhist; on a hill (4,219 ft) a furlong SE of it were
+Kushan diaper basements that "may mark the sites of the stupa and sangharama mentioned by Hiuen-tsang, though the
+site is rather south than south west".
 
 **Gazetteers.** Punjab 1919 names "the Urash plain" only as a Kashmir feudatory. No Hazara gazetteer appears among
-the hits.
+the hits, although Hargreaves quotes one for Mangali.
 
-**Assessment.** The country is agreed. The capital is not: Cunningham's Mangali rests on local tradition, and
-Haripur is only Swynnerton's suggestion, reported by Watters. Mizutani's Hazara stands, but the capital should be
-left open, with Mangali as a candidate.
+**Assessment.** The country is agreed. For the capital, Cunningham's Mangali now has a site of the right size and
+two Kushan Buddhist foundations near the right place, though the bearing is off and the remains are scanty. Haripur
+remains Swynnerton's suggestion, with nothing found. Mizutani's Hazara stands, but Mangali is the better-supported
+capital, with medium confidence.
 
 ### 03.06.06 佛牙伽藍 — the Tooth monastery: on the S slope of Takht-i-Sulaimān, or near Pandrethan
 
@@ -754,3 +837,7 @@ under 03.04.02 above. No other `new` rows concern juan 2–3.
 - Jaina temple at Siṃhapura (白衣外道本師悟所求理初說法處 and the deva temple beside it): the basement of ruined
   temple C at Ketas, older than the Kashmiri-style temples above it. Cunningham, ASR V (1872–73), p. 92. See
   03.04.02.
+
+## Annual Report rows coded `xz_id = new` in this range
+
+None. Every Annual Report passage on juan 2–3 is coded to a place already in the master table.
