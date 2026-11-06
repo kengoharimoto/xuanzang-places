@@ -67,3 +67,7 @@
   is a rejection; 714 (Stein, Swat) also bears on 03.01.04a and 03.01.01a, uncoded; 211 bears on 02.04.06; 500 bears on
   01.38a. No Hazara gazetteer is in the gazetteer set (Hargreaves cites one for Mangali = Uraśā). AR passage 236 lost
   its stray 02.04.14.
+- **EI/CII sources**: `epigraphia-indica-vol-15-vol-02.pdf` in the iCloud folder is a 1970 reprint of EI vol. II, not
+  vol. XV pt 2 (its rows set `relevant=no`); `cii_3` is Bhandarkar's revised CII III (ed. Chhabra & Gai, 1981), not
+  Fleet 1888. Not available as text: CII 4.2 (djvu only), EI vols 37+. Checker note: NFKC turns "…" into "...", so a
+  full stop right before an ellipsis breaks a fragment.

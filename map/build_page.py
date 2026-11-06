@@ -41,6 +41,8 @@ for r in rd("data/places.tsv"):
         "gazEv": r["gaz_local_evidence"][:1500],
         "asr": r.get("asr", "")[:1500], "asrN": int(r.get("asr_n") or 0), "asrEv": r.get("asr_evidence", "")[:1500],
         "ar": r.get("ar", "")[:1500], "arN": int(r.get("ar_n") or 0), "arEv": r.get("ar_evidence", "")[:1500],
+        "ep": r.get("epig", "")[:1500], "epN": int(r.get("epig_n") or 0), "epEv": r.get("epig_evidence", "")[:1500],
+        "ia": r.get("iar", "")[:1500], "iaN": int(r.get("iar_n") or 0), "iaEv": r.get("iar_evidence", "")[:1500],
         "lat": lat, "lon": lon, "prec": c.get("precision", ""), "modern": c.get("modern_name", ""), "cnote": c.get("note", ""),
         "change": u.get("change", ""), "proposed": u.get("proposed", ""), "basis": u.get("basis", ""), "conf": u.get("confidence", ""),
         "note": notes.get(r["id"]),

@@ -195,6 +195,8 @@ function panel(p) {
     ${auth}
     <dt>Survey (ASR)</dt><dd>${p.asrN ? `${esc(p.asr)}${p.asrEv ? `<br><span class="sub">${esc(p.asrEv)}</span>` : ""}` : "no passage"}</dd>
     <dt>Excavations (AR)</dt><dd>${p.arN ? `${esc(p.ar)}${p.arEv ? `<br><span class="sub">${esc(p.arEv)}</span>` : ""}` : "no passage"}</dd>
+    ${p.epN ? `<dt>Inscriptions (EI, CII)</dt><dd>${esc(p.ep)}${p.epEv ? `<br><span class="sub">${esc(p.epEv)}</span>` : ""}</dd>` : ""}
+    ${p.iaN ? `<dt>Excavations after 1953 (IAR)</dt><dd>${esc(p.ia)}${p.iaEv ? `<br><span class="sub">${esc(p.iaEv)}</span>` : ""}</dd>` : ""}
     <dt>Gazetteers</dt><dd>${p.gazN ? `${p.gazN} passages${p.gazArg ? `, ${p.gazArg} argue, doubt or propose another site` : ""}<br><span class="sub">${esc(p.gazVols)}</span>` : "none"}</dd>
     <dt>On the map</dt><dd>${p.lat != null ? `${esc(p.modern)} <span class="sub">(${esc(p.prec)}${p.cnote ? "; " + esc(p.cnote) : ""})</span>` : "not mapped"}</dd></dl>
     ${p.note ? `<div class="note"><b>${esc(p.note.head)}</b>${p.note.body}</div>` : ""}`;

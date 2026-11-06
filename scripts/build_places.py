@@ -27,7 +27,15 @@ for f in glob.glob("data/coded/gaz_batch*.tsv"):
             x = x.strip()
             if x in ids: gaz[x].append(r)
             elif x: unknown_ids[x] += 1
-asr = collections.defaultdict(list); arr = collections.defaultdict(list)
+asr = collections.defaultdict(list); arr = collections.defaultdict(list); epg = collections.defaultdict(list); iar = collections.defaultdict(list)
+for pat, store, tag in (("data/coded/epig_batch*.tsv", epg, "epig"), ("data/coded/iar_batch*.tsv", iar, "iar")):
+    for f in glob.glob(pat):
+        for r in rd(f):
+            if r.get("relevant") != "yes": continue
+            for x in (r.get("xz_id") or "").replace(",", ";").split(";"):
+                x = x.strip()
+                if x in ids: store[x].append(r)
+                elif x: unknown_ids[tag + ":" + x] += 1
 for f in glob.glob("data/coded/ar_batch*.tsv"):
     for r in rd(f):
         if r.get("relevant") != "yes": continue
@@ -42,6 +50,13 @@ for f in glob.glob("data/coded/asr_batch*.tsv"):
             x = x.strip()
             if x in ids: asr[x].append(r)
             elif x: unknown_ids["asr:" + x] += 1
+def src_tag(r):
+    f = r.get("file", "").replace(".txt", "")
+    if f.startswith("ei_"): v = "EI " + f[3:].replace("-vol-0", ".")
+    elif f.startswith("cii_"): v = "CII " + f[4:].replace("-", ".")
+    elif f.startswith("iar"): v = "IAR " + f[3:]
+    else: return asr_tag(r)
+    return f'{r.get("author","")}, {v}' + (f' p. {r["page"]}' if r.get("page") else "")
 def asr_tag(r):
     if r.get("file", "").startswith(("ar", "ec")) and not r["file"].startswith("asr"):
         f = r["file"].replace(".txt", "")
@@ -49,7 +64,7 @@ def asr_tag(r):
     v = r.get("file", "").replace(".txt", "").replace("asr", "ASR ").replace("mukherji1901_tarai", "Mukherji 1901")
     return f'{r.get("author","")}, {v}' + (f' p. {r["page"]}' if r.get("page") else "")
 cols = ["id", "juan", "level", "parent", "name_zh", "name_ja", "original_name", "visit", "mz_identification",
-        "mz_other_views", "mz_status"] + AUTH + ["gaz_n", "gaz_argues", "gaz_volumes", "gaz_local_evidence", "asr", "asr_n", "asr_evidence", "ar", "ar_n", "ar_evidence"]
+        "mz_other_views", "mz_status"] + AUTH + ["gaz_n", "gaz_argues", "gaz_volumes", "gaz_local_evidence", "asr", "asr_n", "asr_evidence", "ar", "ar_n", "ar_evidence", "epig", "epig_n", "epig_evidence", "iar", "iar_n", "iar_evidence"]
 out = []
 for m in master:
     row = {k: m.get(k, "") for k in cols}
@@ -71,6 +86,11 @@ for m in master:
     row["ar"] = " | ".join(dict.fromkeys(f'{r["asr_identification"]} [{r["stance"]}; {asr_tag(r)}]' for r in a if r.get("asr_identification")))
     row["ar_n"] = len(a)
     row["ar_evidence"] = " || ".join(f'[{asr_tag(r)}] {r["evidence"]}' for r in a if r.get("evidence", "").strip())
+    for col, store in (("epig", epg), ("iar", iar)):
+        a = store[m["id"]]
+        row[col] = " | ".join(dict.fromkeys(f'{r["asr_identification"]} [{r["stance"]}; {src_tag(r)}]' for r in a if r.get("asr_identification")))
+        row[col + "_n"] = len(a)
+        row[col + "_evidence"] = " || ".join(f'[{src_tag(r)}] {r["evidence"]}' for r in a if r.get("evidence", "").strip())
     out.append(row)
 w = csv.DictWriter(open("data/places.tsv", "w", encoding="utf-8", newline=""), cols, delimiter="\t", lineterminator="\n")
 w.writeheader(); w.writerows(out)
