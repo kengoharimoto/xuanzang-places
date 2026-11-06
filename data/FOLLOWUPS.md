@@ -75,5 +75,4 @@
   471, 492 coded to 08.06.30 on that basis); IAR 1975–76 pp. 61–62 epigraphy ("Prathamaśiva also called Pūrṇavarman") and
   the Sarai mound seasons 1976–78 are uncoded; Pūrṇavarman's copper Buddha needs its own row (iar 319 `new`, 377 under
   09.03.06); epig passage 67 misstates Bhandarkar on the old Son confluence (just below Patna); Rājagṛha IAR 1953–54
-  and 1974–75 digs uncoded. IAR 1979–80 and 1985–86 not yet downloaded (archive server errors); IAR 1990–91 absent from
-  the archive.
+  and 1974–75 digs uncoded. IAR 1979–80 and 1985–86 were downloaded on retry and coded; IAR 1990–91 is absent from the archive.

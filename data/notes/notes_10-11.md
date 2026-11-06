@@ -402,8 +402,14 @@ Cunningham's hills.
 **Gazetteers.** The only coded row (Puri 1977, G#1528) concerns the route from Karṇasuvarṇa and says nothing of
 Puṣpagiri. It is miscoded here.
 
+**Later excavations.** G. C. Chauley (ASI, IAR 1985–86, pp. 62–63) found in a hill-top stūpa at Lalitgiri (Cuttack),
+N of the Mahānadī, three relic caskets, two holding gold caskets with bone relics, and suggested that "it might be
+the same stupa noticed by Hiuen-Tsang", without naming which; later Lalitgiri seasons (IAR 1986–87, 1989–90) do not
+repeat it.
+
 **Assessment.** The difference between Udayagiri and Khandagiri is one of precision. Beal's Aska is a passing
-alternative. Mizutani stands.
+alternative. Lalitgiri is a passing suggestion, though it lies N of the Mahānadī, inside Oḍra on Chakravarti's
+boundary (10.09), where Khandagiri may not. Mizutani stands.
 
 ### 10.09.03 折利呾羅城 (Caritra) — port unidentified; Puri doubted, the Prāchī mouth suggested
 
@@ -496,7 +502,8 @@ Raipur and Bilaspur, and Śrīpura its capital "certainly" by c. 800.
 under Bālārjuna (IAR 1954–55, pp. 24–25; he dates the king to the 8th century), and in the habitation mound a Period II
 of "about the seventh century" with "large-scale structural activity" (IAR 1955–56, p. 26). Joshi and Sharma (IAR
 1999–2000, pp. 96–97) exposed inside the fortified area a Buddha temple with an attached vihāra (a nunnery, from the
-glass bangles), with 5th-century Brāhmī mason's marks.
+glass bangles), with 5th-century Brāhmī mason's marks. Sudevarāja's plates from Mahasamund, in box-headed Brāhmī,
+were "issued from Sirpura" (IAR 1979–80, Epigraphy), so Śrīpura was a royal seat before the Somavaṃśīs.
 
 **Assessment.** Bhandak and Chanda rest on assertions; Sirpur has the royal plates of Xuanzang's date naming Śrīpura
 as capital, a city with major 7th-century building, and Buddhist foundations from the 5th century on. Mizutani is
@@ -536,11 +543,13 @@ Telugu nouns" (G#471).
 
 **Later excavations.** Bopardikar (ASI, IAR 1984–85, p. 7) began at Peddavegi, 12 km NNW of Ellore, "historically known
 as Vengi", citing Xuanzang's Ping-ki-lo: an ashlar wall with moonstone steps, two circular structures (probably
-stūpas), a brick shrine, and a fortification round the village. I. K. Sarma (IAR 1986–87, pp. 15–21) found the
-Dhanam-Dibba stūpa (Phase IA, c. 4th c.), a gravel rampart with moat, Viṣṇukuṇḍin coins in Phase IB, and in Phase IC
+stūpas), a brick shrine, and a fortification round the village. I. K. Sarma (IAR 1985–86, pp. 4–6) dug the
+Dhanam-Dibba stūpa, recalling the "Stupa caused by Asoka-Maurya at Ping-Ki-Pu-lo", but dated it to the 4th century
+(Sālaṅkāyana); in Phase IB (late 5th–7th c.) "The stupa was no more found to be important" and Brahmanical temples
+were built, which fits Xuanzang's Andhra. Later seasons (IAR 1986–87, pp. 15–21) added a gravel rampart with moat, Viṣṇukuṇḍin coins in Phase IB, and in Phase IC
 early Eastern Chalukya Viṣamasiddhi coins (AD 600–625) with "large scale temple activity", that is, the city of
 Xuanzang's day. Reused pillars carry 3rd-century Brāhmī records of a monastery's pupil. Nothing found names Veṅgī,
-and the stūpas are not tied to Xuanzang's.
+and no stūpa is shown to be the one Xuanzang saw.
 
 **Assessment.** Elgandel and Warangal are Telingana guesses from distance. Veṅgī matches the name, Burnell's Telugu
 locative explains the last syllable, and the excavation shows a fortified city with stūpas, occupied under the first

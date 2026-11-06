@@ -71,8 +71,8 @@ check.
 - ***Indian Archaeology – A Review*** (1953–54 to 2000–01).
   - **OCR:** the Internet Archive's OCR of this series is unusable (Hindi-language OCR of English), so it was
     re-OCR'd here with Surya, run on a local vLLM server.
-  - **Gaps:** 1973–74 is the archive's own English OCR of another copy. 1979–80 and 1985–86 failed to download, and
-    1990–91 is not on the archive.
+  - **Gaps:** 1973–74 is the archive's own English OCR of another copy. 1979–80 and 1985–86 needed several download
+    retries; 1990–91 is not on the archive.
 - ***Epigraphia Indica*** vols. 1–36 and **CII** vols. 1, 2.1, 2.2, 3 (in Bhandarkar's revised edition), 5 and 6.
   These are the user's own copies, from their text extracts.
 - **Gazetteers.** The 557 volumes of the gazetteer-vedanta and yoga-gazetteers studies.
