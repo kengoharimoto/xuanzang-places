@@ -5,6 +5,7 @@ Usage (from xuanzang-places/): python3 -I scripts/build_places.py
 Inputs: data/places_mizutani.tsv, data/coded/auth_*.tsv, data/coded/gaz_batch*.tsv, data/gaz_hits.tsv
 """
 import csv, glob, collections
+RELCOLS = ["sangharamas", "monks", "schools", "deva_temples", "other", "site_affiliation", "buddhism"]
 AUTH = ["julien", "vivien", "cunningham", "beal", "watters", "majumdar", "dey"]
 rd = lambda f: list(csv.DictReader((l for l in open(f, encoding="utf-8") if not l.startswith("#")), delimiter="\t"))
 master = rd("data/places_mizutani.tsv")
@@ -64,13 +65,16 @@ def asr_tag(r):
     v = r.get("file", "").replace(".txt", "").replace("asr", "ASR ").replace("mukherji1901_tarai", "Mukherji 1901")
     return f'{r.get("author","")}, {v}' + (f' p. {r["page"]}' if r.get("page") else "")
 cols = ["id", "juan", "level", "parent", "name_zh", "name_ja", "original_name", "visit", "mz_identification",
-        "mz_other_views", "mz_status"] + AUTH + ["gaz_n", "gaz_argues", "gaz_volumes", "gaz_local_evidence", "asr", "asr_n", "asr_evidence", "ar", "ar_n", "ar_evidence", "epig", "epig_n", "epig_evidence", "iar", "iar_n", "iar_evidence", "t2087_ref", "t2087_text", "translation", "translation_source"]
+        "mz_other_views", "mz_status"] + AUTH + ["gaz_n", "gaz_argues", "gaz_volumes", "gaz_local_evidence", "asr", "asr_n", "asr_evidence", "ar", "ar_n", "ar_evidence", "epig", "epig_n", "epig_evidence", "iar", "iar_n", "iar_evidence", "t2087_ref", "t2087_text", "translation", "translation_source", "translation_check", "translation_issues"] + RELCOLS
 def _load(path, key="id"):
     try: return {r[key]: r for r in rd(path)}
     except FileNotFoundError: return {}
 PASS = {}
 for f in sorted(glob.glob("data/text/passages_*.tsv")): PASS.update(_load(f))
 TRAN = _load("data/text/translation_dm.tsv")
+REV, REL = {}, {}
+for f in sorted(glob.glob("data/text/review_*.tsv")): REV.update(_load(f))
+for f in sorted(glob.glob("data/religion/religion_*.tsv")): REL.update(_load(f))
 out = []
 for m in master:
     row = {k: m.get(k, "") for k in cols}
@@ -94,7 +98,14 @@ for m in master:
     row["ar_evidence"] = " || ".join(f'[{asr_tag(r)}] {r["evidence"]}' for r in a if r.get("evidence", "").strip())
     pz, tr = PASS.get(m["id"], {}), TRAN.get(m["id"], {})
     row["t2087_ref"] = pz.get("t_ref", ""); row["t2087_text"] = pz.get("zh", "")
-    row["translation"] = tr.get("en", ""); row["translation_source"] = (tr.get("model", "") + " " + tr.get("date", "")).strip()
+    rv = REV.get(m["id"], {})
+    if rv.get("en_revised", "").strip() and rv.get("verdict") in ("minor", "major"):
+        row["translation"] = rv["en_revised"]; row["translation_source"] = "DharmaMitra, corrected against Mizutani and Beal"
+    else:
+        row["translation"] = tr.get("en", ""); row["translation_source"] = (tr.get("model", "") + " " + tr.get("date", "")).strip()
+    row["translation_check"] = rv.get("verdict", ""); row["translation_issues"] = rv.get("issues", "")
+    rl = REL.get(m["id"], {})
+    for c in RELCOLS: row[c] = rl.get(c, "")
     for col, store in (("epig", epg), ("iar", iar)):
         a = store[m["id"]]
         row[col] = " | ".join(dict.fromkeys(f'{r["asr_identification"]} [{r["stance"]}; {src_tag(r)}]' for r in a if r.get("asr_identification")))

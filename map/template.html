@@ -31,6 +31,10 @@ header p { margin: 6px 0 0; color: var(--muted); max-width: 72ch; }
 .chip { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--rule); border-radius: 999px;
   padding: 3px 10px; background: var(--panel); cursor: pointer; user-select: none; color: var(--ink); font: inherit; }
 .chip[aria-pressed="false"] { opacity: .45; }
+.lab { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .05em; }
+#affchips { display: contents; }
+.chip.aff[aria-pressed="true"] { background: color-mix(in srgb, var(--indigo) 16%, var(--panel)); border-color: var(--indigo); opacity: 1; }
+.chip.aff[aria-pressed="false"] { opacity: .8; }
 .chip:focus-visible, select:focus-visible, input:focus-visible, .row:focus-visible { outline: 2px solid var(--indigo); outline-offset: 2px; }
 .dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
 .ring { width: 10px; height: 10px; border-radius: 50%; display: inline-block; border: 2px solid var(--ink); box-sizing: border-box; }
@@ -97,6 +101,16 @@ footer { margin-top: 18px; color: var(--muted); font-size: 12px; max-width: 90ch
   <input type="search" id="f-q" placeholder="Search name or site" aria-label="Search places">
 </div>
 
+<div class="controls" role="group" aria-label="Visit and affiliation filters">
+  <span class="lab">Xuanzang</span>
+  <button class="chip" data-visit="visited" aria-pressed="true">visited</button>
+  <button class="chip" data-visit="hearsay" aria-pressed="true">hearsay</button>
+  <button class="chip" data-visit="unclear" aria-pressed="true">unclear</button>
+  <span class="lab">Affiliation</span>
+  <span id="affchips"></span>
+  <button class="chip" id="aff-clear" aria-pressed="false" title="Show all affiliations">clear</button>
+</div>
+
 <div class="grid">
   <div>
     <div class="mapbox">
@@ -148,8 +162,26 @@ document.getElementById("zin").onclick = () => svg.transition().duration(250).ca
 document.getElementById("zout").onclick = () => svg.transition().duration(250).call(zoom.scaleBy, 1/1.6);
 document.getElementById("zreset").onclick = () => svg.transition().duration(250).call(zoom.transform, d3.zoomIdentity);
 
-const state = {status: new Set(["agreed","uncertain","disputed","unknown"]), change:false, juan:0, level:"", q:"", sel:null};
-const visible = p => state.status.has(p.status) && (!state.change || BIG.has(p.change) || p.change === "strengthened")
+const AFF = [["mahayana","Mahāyāna"],["sarvastivada","Sarvāstivāda"],["sammatiya","Sammatīya"],["sthavira","Sthavira"],["mahasanghika","Mahāsāṃghika / Lokottaravāda"],["hinayana","Hīnayāna, other or unspecified"],["jain","Jain"],["saiva","Śaiva / Pāśupata"],["kapalika","Kāpālika"],["surya","Sūrya"],["deva","deva temples"]];
+const SMAP = {Mahayana:["mahayana"], "Mahayana-Sthavira":["mahayana","sthavira"], Sarvastivada:["sarvastivada"], Sammatiya:["sammatiya"], Sthavira:["sthavira"], Mahasanghika:["mahasanghika"], Lokottaravada:["mahasanghika"], Hinayana:["hinayana"], Dharmaguptaka:["hinayana"], Mahisasaka:["hinayana"], Kasyapiya:["hinayana"], both:["mahayana","hinayana"]};
+const OMAP = {"Jain-Digambara":"jain","Jain-Svetambara":"jain","Jain":"jain","Saiva":"saiva","Pasupata":"saiva","Devi":"saiva","Kapalika":"kapalika","Surya":"surya"};
+const byId = Object.fromEntries(P.map(p => [p.id, p]));
+P.forEach(p => {
+  const t = new Set(), r = p.rel || {};
+  (r.schools || "").split(";").map(x => x.trim()).filter(Boolean).forEach(x => (SMAP[x] || (x.startsWith("other") ? ["hinayana"] : [])).forEach(y => t.add(y)));
+  (r.other || "").split(";").map(x => x.trim()).filter(Boolean).forEach(x => OMAP[x] && t.add(OMAP[x]));
+  if (r.deva_temples && !/^(none|0)$/i.test(r.deva_temples)) t.add("deva");
+  if (/deva-temple/.test(r.site_affiliation || "")) t.add("deva");
+  if (/Jain-site/.test(r.site_affiliation || "")) t.add("jain");
+  p.tags = t;
+  let v = p.visit, q = p; while (!v && q.parent && byId[q.parent]) { q = byId[q.parent]; v = q.visit; }
+  p.visitEff = v || "unclear";
+});
+const affEl = document.getElementById("affchips");
+AFF.forEach(([k, lab]) => { const n = P.filter(p => p.tags.has(k)).length;
+  affEl.insertAdjacentHTML("beforeend", `<button class="chip aff" data-aff="${k}" aria-pressed="false">${lab} <span class="sub">${n}</span></button>`); });
+const state = {status: new Set(["agreed","uncertain","disputed","unknown"]), visit: new Set(["visited","hearsay","unclear"]), aff: new Set(), change:false, juan:0, level:"", q:"", sel:null};
+const visible = p => state.status.has(p.status) && state.visit.has(p.visitEff) && (!state.aff.size || [...state.aff].some(a => p.tags.has(a))) && (!state.change || BIG.has(p.change) || p.change === "strengthened")
   && (!state.juan || p.juan === state.juan) && (!state.level || p.level === state.level || (state.level === "country" && p.level === "region"))
   && (!state.q || [p.zh,p.ja,p.orig,p.mz,p.modern,p.proposed,p.id].join(" ").toLowerCase().includes(state.q));
 
@@ -205,10 +237,15 @@ function panel(p) {
     ${p.epN ? `<dt>Inscriptions (EI, CII)</dt><dd>${esc(p.ep)}${p.epEv ? `<br><span class="sub">${esc(p.epEv)}</span>` : ""}</dd>` : ""}
     ${p.iaN ? `<dt>Excavations after 1953 (IAR)</dt><dd>${esc(p.ia)}${p.iaEv ? `<br><span class="sub">${esc(p.iaEv)}</span>` : ""}</dd>` : ""}
     <dt>Gazetteers</dt><dd>${p.gazN ? `${p.gazN} passages${p.gazArg ? `, ${p.gazArg} argue, doubt or propose another site` : ""}<br><span class="sub">${esc(p.gazVols)}</span>` : "none"}</dd>
+    ${(p.rel && (p.rel.schools || p.rel.other || p.rel.sangharamas || p.rel.deva_temples || p.rel.site_affiliation)) ? `<dt>Religion</dt><dd>${[
+        p.rel.sangharamas ? `monasteries ${esc(p.rel.sangharamas)}` : "", p.rel.monks ? `monks ${esc(p.rel.monks)}` : "",
+        p.rel.schools ? `schools: ${esc(p.rel.schools.replace(/;/g, ", "))}` : "", p.rel.deva_temples ? `deva temples ${esc(p.rel.deva_temples)}` : "",
+        p.rel.other ? `others: ${esc(p.rel.other.replace(/;/g, ", "))}` : "", p.rel.site_affiliation ? `site: ${esc(p.rel.site_affiliation.replace(/;/g, ", "))}` : "",
+        p.rel.buddhism ? `Buddhism ${esc(p.rel.buddhism)}` : ""].filter(Boolean).join("; ")}</dd>` : ""}
     <dt>On the map</dt><dd>${p.lat != null ? `${esc(p.modern)} <span class="sub">(${esc(p.prec)}${p.cnote ? "; " + esc(p.cnote) : ""})</span>` : "not mapped"}</dd></dl>
     ${p.zht ? `<details class="text"><summary>Text and translation</summary>
       <p class="zhp">${esc(p.zht)}</p><p class="src">Taishō 51, no. 2087, ${esc(p.tref.replace("T51:", "p. "))} (CBETA)</p>
-      ${p.en ? `<p class="enp">${esc(p.en).replace(/\*([^*]+)\*/g, "<i>$1</i>")}</p><p class="src">Machine translation: DharmaMitra.</p>` : `<p class="src">Translation pending.</p>`}
+      ${p.en ? `<p class="enp">${esc(p.en).replace(/\*([^*]+)\*/g, "<i>$1</i>")}</p><p class="src">${p.tsrc && /corrected/.test(p.tsrc) ? "Machine translation (DharmaMitra), corrected against Mizutani and Beal." : p.tchk === "ok" ? "Machine translation (DharmaMitra), checked against Mizutani and Beal." : "Machine translation: DharmaMitra."}</p>` : `<p class="src">Translation pending.</p>`}
     </details>` : ""}
     ${p.note ? `<div class="note"><b>${esc(p.note.head)}</b>${p.note.body}</div>` : ""}`;
 }
@@ -217,6 +254,13 @@ document.querySelectorAll("[data-status]").forEach(b => b.onclick = () => {
   const s = b.dataset.status, on = b.getAttribute("aria-pressed") === "true";
   b.setAttribute("aria-pressed", String(!on)); on ? state.status.delete(s) : state.status.add(s); draw(); list(); });
 document.getElementById("f-change").onclick = e => { const b = e.currentTarget; state.change = b.getAttribute("aria-pressed") !== "true"; b.setAttribute("aria-pressed", String(state.change)); draw(); list(); };
+document.querySelectorAll("[data-visit]").forEach(b => b.onclick = () => {
+  const v = b.dataset.visit, on = b.getAttribute("aria-pressed") === "true";
+  b.setAttribute("aria-pressed", String(!on)); on ? state.visit.delete(v) : state.visit.add(v); draw(); list(); });
+document.querySelectorAll("[data-aff]").forEach(b => b.onclick = () => {
+  const a = b.dataset.aff, on = b.getAttribute("aria-pressed") === "true";
+  b.setAttribute("aria-pressed", String(!on)); on ? state.aff.delete(a) : state.aff.add(a); draw(); list(); });
+document.getElementById("aff-clear").onclick = () => { state.aff.clear(); document.querySelectorAll("[data-aff]").forEach(b => b.setAttribute("aria-pressed", "false")); draw(); list(); };
 jsel.onchange = () => { state.juan = +jsel.value; draw(); list(); };
 document.getElementById("f-level").onchange = e => { state.level = e.target.value; draw(); list(); };
 document.getElementById("f-q").oninput = e => { state.q = e.target.value.trim().toLowerCase(); draw(); list(); };

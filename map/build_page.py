@@ -43,6 +43,8 @@ for r in rd("data/places.tsv"):
         "ar": r.get("ar", "")[:1500], "arN": int(r.get("ar_n") or 0), "arEv": r.get("ar_evidence", "")[:1500],
         "ep": r.get("epig", "")[:1500], "epN": int(r.get("epig_n") or 0), "epEv": r.get("epig_evidence", "")[:1500],
         "ia": r.get("iar", "")[:1500], "iaN": int(r.get("iar_n") or 0), "iaEv": r.get("iar_evidence", "")[:1500],
+        "tsrc": r.get("translation_source", ""), "tchk": r.get("translation_check", ""),
+        "rel": {k: r.get(k, "") for k in ("sangharamas", "monks", "schools", "deva_temples", "other", "site_affiliation", "buddhism")},
         "tref": r.get("t2087_ref", ""), "zht": r.get("t2087_text", ""), "en": r.get("translation", ""),
         "lat": lat, "lon": lon, "prec": c.get("precision", ""), "modern": c.get("modern_name", ""), "cnote": c.get("note", ""),
         "change": u.get("change", ""), "proposed": u.get("proposed", ""), "basis": u.get("basis", ""), "conf": u.get("confidence", ""),
