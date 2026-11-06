@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Index passages in the ASR Annual Reports / Circle reports (data/ref/asr_annual/*.txt) that bear on Xiyu ji places.
 
-Usage (from xuanzang-places/): python3 -I scripts/ar_hits.py data/ar_hits.tsv [file-glob] [start-number]
+Usage (from xuanzang-places/): python3 -I scripts/ar_hits.py data/ar_hits.tsv [file-glob] [start-number] [sites-regex]
+The optional sites-regex replaces SITES, to index added sites without renumbering an existing index: write to a
+scratch file with start-number = the last passage, then append its rows (header dropped) to the index.
 Unlike the Cunningham series, these excavation reports often discuss a site without naming the pilgrim, so a passage
 is any stretch mentioning Xuanzang/Faxian OR one of the excavated sites tied to a Xiyu ji place (SITES below).
 Hits within 3,000 characters are merged; context = 800 chars before to 2,000 after (whitespace collapsed), capped at
@@ -19,6 +21,7 @@ SITES = (r"kasia|ku[sś]inaga?ra|matha.?kua?r|sahe?th?.?mahe?th?|[sś]r[aā]vast
          r"kurkihar|sirpur|n[aā]g[aā]rjunako[nṇ][dḍ]a|amar[aā]vat[iī]|dhara[nṇ]ikota|ajanta|bhinm[aā]l|vadnagar|"
          r"thanesar|sugh\b|bilsar|sanchankot|aphsar|parbati|tillara|kauwa.?dol|dharawat|gurpa|ramabhar|anrudhwa|"
          r"mahaban|malot|ohind|\bund\b|sialkot|mathur[aā]|katra\b|kank[aā]l[iī]|govis[aā][nṇ]a|kashipur|ujain")
+if len(sys.argv) > 4: SITES = sys.argv[4]   # added sites only (see usage)
 SIG = re.compile(r"identif|inscri|\bseal|sealing|copper.?plate|excavat|\bdug\b|digging|trench|stratum|relic.?casket", re.I)
 RX = re.compile(f"(?P<p>{PILGRIM})|(?P<s>{SITES})", re.I)
 out = csv.writer(open(sys.argv[1], "w", encoding="utf-8", newline=""), delimiter="\t", lineterminator="\n")
