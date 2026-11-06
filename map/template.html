@@ -48,6 +48,8 @@ input[type=search] { min-width: 0; width: 14em; }
 .route { fill: none; stroke: var(--indigo); stroke-width: 1.1; stroke-opacity: .45; stroke-dasharray: 3 3; vector-effect: non-scaling-stroke; }
 .pt { stroke: var(--paper); stroke-width: .8; vector-effect: non-scaling-stroke; cursor: pointer; }
 .pt.sel { stroke: var(--ink); stroke-width: 2.4; }
+.alt { fill: var(--paper); stroke: var(--ink); stroke-width: 1.2; vector-effect: non-scaling-stroke; cursor: pointer; opacity: .85; }
+.altl { stroke: var(--ink); stroke-width: .8; stroke-dasharray: 2 2; vector-effect: non-scaling-stroke; opacity: .6; pointer-events: none; }
 .halo { fill: none; stroke: var(--ink); vector-effect: non-scaling-stroke; pointer-events: none; }
 .lbl { font-family: var(--body); fill: var(--ink); paint-order: stroke; stroke: var(--sea); stroke-linejoin: round; pointer-events: none; }
 .mapnote { position: absolute; left: 8px; bottom: 6px; font-size: 11px; color: var(--muted); }
@@ -61,6 +63,8 @@ aside h2 { font: 600 1.35rem/1.25 var(--display); margin: 0; text-wrap: balance;
 dl { display: grid; grid-template-columns: 7.5em minmax(0, 1fr); gap: 6px 10px; margin: 12px 0; font-size: 14px; }
 dt { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .04em; padding-top: 2px; }
 dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+table.alts { border-collapse: collapse; font-size: 13px; margin: 2px 0 4px; }
+table.alts td, table.alts th { padding: 2px 8px 2px 0; text-align: left; vertical-align: top; }
 .note { border-top: 1px solid var(--rule); margin-top: 12px; padding-top: 10px; font-size: 14px; }
 .note p { margin: 0 0 8px; max-width: 70ch; }
 .note code, dd code { font: 12px var(--mono); }
@@ -110,6 +114,7 @@ footer { margin-top: 18px; color: var(--muted); font-size: 12px; max-width: 90ch
   <span id="affchips"></span>
   <button class="chip" id="aff-clear" aria-pressed="false" title="Show all affiliations">clear</button>
   <button class="chip" id="kh-only" aria-pressed="false" title="Only places with K. Harimoto's observations">K. Harimoto's notes</button>
+  <button class="chip" id="alt-on" aria-pressed="false" title="Show the rival sites proposed by other authorities, linked to the place">rival sites</button>
 </div>
 
 <div class="grid">
@@ -154,11 +159,12 @@ const feats = GEO.countries.map(c => ({type:"Feature", properties:{name:c.name},
 g.append("g").selectAll("path").data(feats).join("path").attr("class","land").attr("d", path);
 const route = P.filter(p => p.level === "country" && p.visit === "visited" && p.lat != null).map(p => proj([p.lon, p.lat]));
 g.append("path").attr("class","route").attr("d", d3.line()(route));
-const halos = g.append("g"), pts = g.append("g"), lbls = g.append("g");
+const altg = g.append("g"), halos = g.append("g"), pts = g.append("g"), lbls = g.append("g");
 let k = 1;
 const unitPx = () => (svg.node().getBoundingClientRect().width || W) / W;   // screen px per map unit
 const zoom = d3.zoom().scaleExtent([0.6, 24]).on("zoom", e => { k = e.transform.k; g.attr("transform", e.transform); draw(); });
 svg.call(zoom);
+document.getElementById("alt-on").onclick = e => { state.alt = !state.alt; e.currentTarget.setAttribute("aria-pressed", state.alt); draw(); };
 document.getElementById("kh-only").onclick = e => { state.kh = !state.kh; e.currentTarget.setAttribute("aria-pressed", state.kh); draw(); list(); };
 document.getElementById("zin").onclick = () => svg.transition().duration(250).call(zoom.scaleBy, 1.6);
 document.getElementById("zout").onclick = () => svg.transition().duration(250).call(zoom.scaleBy, 1/1.6);
@@ -182,7 +188,7 @@ P.forEach(p => {
 const affEl = document.getElementById("affchips");
 AFF.forEach(([k, lab]) => { const n = P.filter(p => p.tags.has(k)).length;
   affEl.insertAdjacentHTML("beforeend", `<button class="chip aff" data-aff="${k}" aria-pressed="false">${lab} <span class="sub">${n}</span></button>`); });
-const state = {status: new Set(["agreed","uncertain","disputed","unknown"]), visit: new Set(["visited","hearsay","unclear"]), aff: new Set(), kh:false, change:false, juan:0, level:"", q:"", sel:null};
+const state = {status: new Set(["agreed","uncertain","disputed","unknown"]), visit: new Set(["visited","hearsay","unclear"]), aff: new Set(), kh:false, alt:false, change:false, juan:0, level:"", q:"", sel:null};
 const visible = p => (!state.kh || (p.kh && p.kh.length)) && state.status.has(p.status) && state.visit.has(p.visitEff) && (!state.aff.size || [...state.aff].some(a => p.tags.has(a))) && (!state.change || BIG.has(p.change) || p.change === "strengthened")
   && (!state.juan || p.juan === state.juan) && (!state.level || p.level === state.level || (state.level === "country" && p.level === "region"))
   && (!state.q || [p.zh,p.ja,p.orig,p.mz,p.modern,p.proposed,p.id].join(" ").toLowerCase().includes(state.q));
@@ -190,6 +196,15 @@ const visible = p => (!state.kh || (p.kh && p.kh.length)) && state.status.has(p.
 function draw() {
   const vis = P.filter(p => visible(p) && p.lat != null);
   const r = p => (p.level === "site" ? 3.2 : 5) / Math.sqrt(k);
+  const alts = state.alt ? vis.filter(p => p.alt && p.alt.length && (p.level !== "site" || k > 3 || p.id === state.sel)).flatMap(p => p.alt.map((a, i) => ({p, a, key: p.id + "|" + i}))) : [];
+  altg.selectAll("line").data(alts, d => d.key).join("line").attr("class", "altl")
+    .attr("x1", d => proj([d.p.lon, d.p.lat])[0]).attr("y1", d => proj([d.p.lon, d.p.lat])[1])
+    .attr("x2", d => proj([d.a.lon, d.a.lat])[0]).attr("y2", d => proj([d.a.lon, d.a.lat])[1]);
+  altg.selectAll("rect").data(alts, d => d.key).join("rect").attr("class", "alt")
+    .attr("width", 5.5 / Math.sqrt(k)).attr("height", 5.5 / Math.sqrt(k))
+    .attr("x", d => proj([d.a.lon, d.a.lat])[0] - 2.75 / Math.sqrt(k)).attr("y", d => proj([d.a.lon, d.a.lat])[1] - 2.75 / Math.sqrt(k))
+    .on("click", (e, d) => select(d.p.id))
+    .selectAll("title").data(d => [d]).join("title").text(d => `${d.p.zh}: ${d.a.name} (${d.a.by})${d.a.z ? `, route fit |z| ${d.a.z}` : ""}`);
   pts.selectAll("circle").data(vis, p => p.id).join("circle")
     .attr("class", p => "pt" + (p.id === state.sel ? " sel" : ""))
     .attr("cx", p => proj([p.lon,p.lat])[0]).attr("cy", p => proj([p.lon,p.lat])[1])
@@ -244,6 +259,7 @@ function panel(p) {
         p.rel.schools ? `schools: ${esc(p.rel.schools.replace(/;/g, ", "))}` : "", p.rel.deva_temples ? `deva temples ${esc(p.rel.deva_temples)}` : "",
         p.rel.other ? `others: ${esc(p.rel.other.replace(/Pasupata/g, "ash-smearers (塗灰; often read as Pāśupata)").replace(/;/g, ", "))}` : "", p.rel.site_affiliation ? `site: ${esc(p.rel.site_affiliation.replace(/;/g, ", "))}` : "",
         p.rel.buddhism ? `Buddhism ${esc(p.rel.buddhism)}` : ""].filter(Boolean).join("; ")}</dd>` : ""}
+    ${p.alt && p.alt.length ? `<dt>Rival sites</dt><dd><table class="alts"><tr><th>Site</th><th>Proposed by</th><th>Route fit</th></tr><tr><td>${esc(p.modern || p.mz)}</td><td>Mizutani</td><td>${p.mzz ? `|z| ${p.mzz}, ${p.mzb}°` : "—"}</td></tr>${p.alt.map(a => `<tr><td>${esc(a.name)}${p.best === a.name ? " ◆" : ""}</td><td>${esc(a.by)}</td><td>${a.z ? `|z| ${a.z}, ${a.b}°` : "—"}</td></tr>`).join("")}</table><span class="sub">Route fit: mean |z| of the distance and mean bearing error over the legs touching the place (lower is better; route/candidate_scores.tsv). ◆ = chosen by the best-fitting combination for the juan (route/README.md §6).</span></dd>` : ""}
     <dt>On the map</dt><dd>${p.lat != null ? `${esc(p.modern)} <span class="sub">(${esc(p.prec)}${p.cnote ? "; " + esc(p.cnote) : ""})</span>` : "not mapped"}</dd></dl>
     ${p.zht ? `<details class="text"><summary>Text and translation</summary>
       <p class="zhp">${esc(p.zht)}</p><p class="src">Taishō 51, no. 2087, ${esc(p.tref.replace("T51:", "p. "))} (CBETA)</p>

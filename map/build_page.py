@@ -23,6 +23,15 @@ def md(s):
 OBS = {}   # K. Harimoto's own notes (data/user_obs/observations.tsv)
 for o in rd("data/user_obs/observations.tsv"):
     OBS.setdefault(o["id"], []).append({"kind": o["kind"], "obs": o["observation"], "src": o["source_note"], "as": o["assessment"]})
+ALT = {}   # rival candidate sites with their route scores (route/candidates.tsv, route/candidate_scores.tsv)
+SC = {(r["id"], r["candidate"]): r for r in rd("route/candidate_scores.tsv")}
+for c in rd("route/candidates.tsv"):
+    if c["proposer"] == "Mizutani" or not c["lat"]: continue
+    sc = SC.get((c["id"], c["candidate"]), {})
+    ALT.setdefault(c["id"], []).append({"name": c["candidate"], "by": c["proposer"], "lat": float(c["lat"]), "lon": float(c["lon"]),
+        "z": sc.get("mean_abs_z", ""), "b": sc.get("mean_bearing_off", ""), "note": c["note"]})
+MZS = {r["id"]: r for r in rd("route/candidate_scores.tsv") if r["proposer"] == "Mizutani"}
+BEST = {r["id"]: r["best_fit"] for r in rd("route/chain_best.tsv")}
 notes = {}
 for f in sorted(glob.glob("data/notes/notes_*.md")):
     t = open(f, encoding="utf-8").read()
@@ -53,6 +62,8 @@ for r in rd("data/places.tsv"):
         "change": u.get("change", ""), "proposed": u.get("proposed", ""), "basis": u.get("basis", ""), "conf": u.get("confidence", ""),
         "note": notes.get(r["id"]),
         "kh": OBS.get(r["id"], []),
+        "alt": ALT.get(r["id"], []), "mzz": MZS.get(r["id"], {}).get("mean_abs_z", ""), "mzb": MZS.get(r["id"], {}).get("mean_bearing_off", ""),
+        "best": BEST.get(r["id"], ""),
     })
 t = open("map/template.html", encoding="utf-8").read()
 t = t.replace("/*PLACES*/[]", json.dumps(out, ensure_ascii=False, separators=(",", ":")))

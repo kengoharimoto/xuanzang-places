@@ -56,6 +56,10 @@ settled; nothing new names the city.
 **Gazetteers.** Gonda 1905 reports Bloch's answer; Gonda 1989 adds Kushana inscriptions and seals; Oudh N–Z 1878
 maps the city onto Mahet's mounds (see "New").
 
+**Route test (whole juan).** The combination of candidates that best fits juan 6's distances and bearings takes where
+the Rapti leaves the hills NE of Nepalganj (Smith (Mukherji 1901)) here, not Mizutani's Sahet-Mahet (Sravasti ruins),
+Uttar Pradesh (route/README.md §6). The figures are one kind of evidence; see the assessment.
+
 **Assessment.** Four inscriptions from the site, one naming the Jetavana outright, settle the identification and
 dispose of Smith's Nepal site and Watters' doubt; the later excavations show a walled city occupied from before
 the Mauryas. Mizutani is strengthened.
@@ -149,6 +153,10 @@ eastern monastery gave "Om Devaputra Vihare Kapilavastu Bhikshu Sanghasa", the K
 Devaputra (Kushan) vihāra; the second legend is not given. Ganwaria's brick
 complexes became "the residential complex of … Sakya king Suddhodhana" (1974–75, p. 41), a "school" and shrines
 over houses, matched to Xuanzang (1975–77); no level after the 4th century is reported.
+
+**Route test (whole juan).** The combination of candidates that best fits juan 6's distances and bearings takes
+Piprahwa (Fleet (via Majumdar 1924)) here, not Mizutani's Tilaurakot, Nepal Tarai (route/README.md §6). The figures
+are one kind of evidence; see the assessment.
 
 **Assessment.** The sealings are the only inscriptions naming Kapilavastu on any site, and 31 from one verandah are
 more likely the monastery's own than letters received (the doubt once raised at Kasia, 06.04). So in the 1st–2nd

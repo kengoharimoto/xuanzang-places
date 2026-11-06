@@ -86,3 +86,4 @@
   - The Ajanta Cave 26 Acala inscription (Burgess and Indraji 1881): cited from general knowledge, not coded (11.03.03).
 - **Coordinates not moved** for 01.38.03 (Tapa Skandar) and 01.38.03a (Khair Khana): these are alternatives; the
   map keeps the old points.
+- **Stein, MASI 37 (1929)**: the Internet Archive OCR (in.ernet.dli.2015.35549) stops at about p. 64, before the Tor-dherai stūpa description and Konow's appendix on its Kharoṣṭhī inscriptions. Other scans (in.ernet.dli.2015.70429, in.gov.ignca.21977) may be complete.

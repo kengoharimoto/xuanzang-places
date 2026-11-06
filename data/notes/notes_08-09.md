@@ -403,6 +403,10 @@ Nālandā and Rājgir, probably from Silao itself. Kāśyapa "entered nirvāṇa
 holds that Banerji "brought the issue to a successful close" with Gurpa, and calls Kurkihar "Cunningham's discarded
 identification" (pp. 331–332).
 
+**Route test (whole juan).** The combination of candidates that best fits juan 9's distances and bearings takes Gurpa
+hill (Banerji (via Majumdar 1924, Dey 1927)) here, not Mizutani's Hill N of Kurkihar, ENE of Gaya (route/README.md
+§6). The figures are one kind of evidence; see the assessment.
+
 **Assessment.** The inscription shows that Gurupāda, Xuanzang's own alternative name (窶盧播陀), was the hill's name in
 Pāla Magadha. That is the premise of Banerji's derivation, though the pedestal says nothing of where the hill lay, and
 Chhabra's verdict is an opinion, not a find. With the name, the cleft and the three peaks, Gurpa is now the best

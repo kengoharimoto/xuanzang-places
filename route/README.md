@@ -14,6 +14,7 @@ Two checks on the identifications, using only the texts:
 | `candidates.tsv` | Coordinates for 231 rival sites and Mizutani's own, for 155 places. The coordinates are approximate: obscure villages are placed from the proposer's own distances, and `note` says so. |
 | `candidates.py` → `candidate_scores.tsv` | Scores each candidate against its incoming and outgoing legs. |
 | `chains.py` → `chain_scores.tsv` | Scores whole alternative routes, each leg measured between one scheme's own sites (§5). |
+| `chains_all.py` → `chain_scores_all.tsv`, `chain_best.tsv` | The same for every juan: each authority's set of sites, and the best-fitting combination of candidates (§6). |
 | `variants_*.tsv` | Each leg in T2087, T2088 and T2053, plus Mizutani's variant notes. Quotes are verbatim and checked by `check_variants.py`. Instructions are in `VARIANTS_INSTRUCTIONS.md`. |
 
 ## 1. How long was Xuanzang's li?
@@ -145,4 +146,44 @@ Two caveats:
   choices rest on names and on the Arab geography.
 - **The text.** Atyanabakela 臨信度河，鄰大海濱 is the main objection to Las Bela. Mirchandani reads it of the country
   ("bounded … on the east by the Indus"), but Las Bela is bounded by the Hab, not the Indus.
+
+## 6. Whole routes, juan by juan
+
+`chains_all.py` repeats the test of §5 for every juan. It works in two ways:
+- **Authorities' sets:** each authority's own set of sites, with Mizutani's points wherever that authority is silent.
+  An authority counts only where it differs from Mizutani at two or more places in the juan.
+- **Best fit:** a coordinate-descent search for the combination of candidates that best fits the figures.
+
+Each leg scores |z| plus the bearing error divided by 45°. A "bad leg" is one with |z| > 1.5.
+
+| Juan | Mizutani: mean \|z\| (bad legs) | Best authority's set | Best-fitting combination (places changed) |
+|---|---|---|---|
+| 1 | 1.17 (7) | none better | 0.83 (7) |
+| 2 | 1.08 (1) | none better | 1.08 (0) |
+| 3 | 1.16 (4) | Dey: 1.04 (3) | 0.96 (1) |
+| 4 | 1.47 (6) | Beal: 1.28 (5) | 0.83 (6) |
+| 5 | 1.1 (1) | none better | 0.64 (2) |
+| 6 | 0.73 (0) | none better | 0.7 (2) |
+| 7 | 0.68 (1) | none better | 0.68 (0) |
+| 8 | 0.68 (0) | none better | 0.68 (0) |
+| 9 | 2.42 (2) | none better | 2.29 (1) |
+| 10 | 0.84 (4) | Cunningham: 0.45 (1) | 0.35 (8) |
+| 11 | 0.57 (2) | Mirchandani: 0.46 (1) | 0.53 (6) |
+| 12 | 0.69 (2) | none better | 0.6 (2) |
+
+Results by juan:
+- **Juan 10 (eastern India and the Deccan).** Cunningham's set fits far better than Mizutani's. The best-fitting
+  combination moves eight places: Karṇasuvarṇa to Barabhum, Kaliṅga to Rajahmundry, Kosala to Chanda, Andhra to
+  Elgandal, Coḷa to Kurnool and Malakūṭa to Quilon. For three of these the study has inscriptions that override the
+  figures (Raktamṛttikā, Sirpur, Peddavegi). The disagreement therefore says more about Xuanzang's Deccan figures,
+  most of them hearsay or reconstructed, than about the sites.
+- **Juan 4.** Beal's and Cunningham's sets fit better than Mizutani's (mean |z| 1.28 and 0.97 against 1.47).
+- **Juan 11.** Mirchandani's set is the best of any authority's (§5).
+- **Juan 9 (Magadha).** Every scheme fits badly. The short distances between Magadha's sites do not behave like the
+  li elsewhere.
+- **Juans 2, 7 and 8.** Mizutani's points are already the best fit.
+
+`chain_best.tsv` lists the 35 places where the best-fitting combination departs from Mizutani. Each of these place
+notes has a "Route test (whole juan)" line pointing here. A departure is a question for the notes, not an
+identification: the figures are one kind of evidence among several.
 

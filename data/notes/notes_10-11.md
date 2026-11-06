@@ -349,6 +349,10 @@ hitherto uncertain, is to be located in the neighbourhood of Rajbadidanga" (IAR 
 
 **Gazetteers.** Murshidabad 1914 doubts the name argument (G#59/284); Manbhum 1911 echoes the Manbhum sites (G#141–2).
 
+**Route test (whole juan).** The combination of candidates that best fits juan 10's distances and bearings takes Bara
+Bazar (Barabhum) (Cunningham 1871) here, not Mizutani's Rangamati (Karnasuvarna), Murshidabad (route/README.md §6).
+The figures are one kind of evidence; see the assessment.
+
 **Assessment.** The sealings name the monastery, not the city. But Xuanzang puts Raktamṛttikā "beside the great city"
 (大城側), and the sealings span his date, so the capital must lie at Rangamati–Jadupur, where Dikshit saw a city of
 his time; the city itself has not been dug in these sources. The 1914 name objection and Beglar's Sapharan lapse.
@@ -428,6 +432,10 @@ site given.
   navigable and lined with temples, brick houses and mounds, "which, if true, might, with some reason, be identified
   with the port of Che-li-ta-lo" (G#307).
 
+**Route test (whole juan).** The combination of candidates that best fits juan 10's distances and bearings takes
+Nendra (Chitratola), 15 mi below Cuttack (Waddell (via Watters 1904, Majumdar 1924)) here, not Mizutani's Puri
+(route/README.md §6). The figures are one kind of evidence; see the assessment.
+
 **Assessment.** The gazetteers weaken Puri. They add the Prāchī-mouth port near Konarak, a candidate no authority
 records, though it rests on tradition only. Nendra (Waddell) remains the better-argued alternative to Puri.
 
@@ -469,6 +477,10 @@ a mahācaitya with crystal reliquaries, and a 2nd-century Brāhmī pot inscripti
 Kaṭṭahārāma. He concludes that "Fergusson was right in placing the capital city of Kalinga near modern Kalingapatam"
 and fits the Salihundam stupas to Xuanzang's stone stupa. Sircar (EI 35, in a footnote) prefers Mukhalingam.
 
+**Route test (whole juan).** The combination of candidates that best fits juan 10's distances and bearings takes
+Rajahmundry (Cunningham 1871; Beal 1884) here, not Mizutani's Kalinga (coast S of Ganjam) (route/README.md §6). The
+figures are one kind of evidence; see the assessment.
+
 **Assessment.** Salihundam gives Kalingapatnam a large Buddhist establishment, but one named in the 2nd century, not
 the capital; and the stone stupa Ramachandran matches stands on a ridge "in the north of the country" (10.11.02a),
 which a coastal hill near Kalingapatnam does not obviously suit. Mukhalingam keeps the attested name Kaliṅganagara.
@@ -508,6 +520,10 @@ of "about the seventh century" with "large-scale structural activity" (IAR 1955�
 glass bangles), with 5th-century Brāhmī mason's marks. Sudevarāja's plates from Mahasamund, in box-headed Brāhmī,
 were "issued from Sirpura" (IAR 1979–80, Epigraphy), so Śrīpura was a royal seat before the Somavaṃśīs.
 
+**Route test (whole juan).** The combination of candidates that best fits juan 10's distances and bearings takes
+Chanda (Cunningham 1871) here, not Mizutani's Sirpur, Chhattisgarh (route/README.md §6). The figures are one kind of
+evidence; see the assessment.
+
 **Assessment.** Bhandak and Chanda rest on assertions; Sirpur has the royal plates of Xuanzang's date naming Śrīpura
 as capital, a city with major 7th-century building, and Buddhist foundations from the 5th century on. Mizutani is
 strengthened, with high confidence.
@@ -536,6 +552,10 @@ bhramara independently of the gloss, 黑蜂 is its standard gloss, and Arang's B
 compares Xuanzang's Bhramaragiri, which he glosses 黒峰山 'black peak' (p. 128). Taishō and CBETA read 黑蜂 with no variant
 noted, so 黒峰 is his rendering, not a reading of the text.
 
+**Route test (whole juan).** The combination of candidates that best fits juan 10's distances and bearings takes
+Winjhasani/Dewala hills near Bhandak (Beal 1884) here, not Mizutani's Nagarjunakonda (route/README.md §6). The figures
+are one kind of evidence; see the assessment.
+
 **Assessment.** Xuanzang puts Bhramaragiri 300 li SW of the Kosala capital. With Sirpur now secure (10.12), Arang has
 the bearing and a hill-name close to Bhramara (both bhramara and bhṛṅga mean "bee", glossed 黑蜂 in the text; this
 point is not made in these sources). Śrīparvata at Nāgārjunakoṇḍa has the Nāgārjuna association and the name of
@@ -561,6 +581,10 @@ were built, which fits Xuanzang's Andhra. Later seasons (IAR 1986–87, pp. 15�
 early Eastern Chalukya Viṣamasiddhi coins (AD 600–625) with "large scale temple activity", that is, the city of
 Xuanzang's day. Reused pillars carry 3rd-century Brāhmī records of a monastery's pupil. Nothing found names Veṅgī,
 and no stūpa is shown to be the one Xuanzang saw.
+
+**Route test (whole juan).** The combination of candidates that best fits juan 10's distances and bearings takes
+Elgandal (Cunningham 1871) here, not Mizutani's Pedavegi near Eluru (route/README.md §6). The figures are one kind of
+evidence; see the assessment.
 
 **Assessment.** Elgandel and Warangal are Telingana guesses from distance. Veṅgī matches the name, Burnell's Telugu
 locative explains the last syllable, and the excavation shows a fortified city with stūpas, occupied under the first
@@ -678,6 +702,10 @@ of Puṇyakumāra as records of rulers of Chuliye.
 records (EI 11, p. 344) takes them to prove "the existence of a kingdom called Chu-li-ye in the time of the Chinese
 traveller".
 
+**Route test (whole juan).** The combination of candidates that best fits juan 10's distances and bearings takes
+Kurnool (Jorampur) (Cunningham 1871) here, not Mizutani's Nellore (route/README.md §6). The figures are one kind of
+evidence; see the assessment.
+
 **Assessment.** Bearing and inscriptions agree on a Telugu Coḷa country in Cuddapah and S Kurnool, with Smith,
 Majumdar and in part Cunningham. The plates postdate Xuanzang by over a century, and none names Chuliye or a capital.
 This is a better-supported alternative to Nellore for the core of the country, though not a capital.
@@ -705,6 +733,10 @@ delta, with Beal suggesting Kumbhakonam. Dey: the Coḷa kingdom of Tanjore. Viv
 **Gazetteers.** Bombay 1909 and Bombay 1920 (the latter after J. H. Lord) identify Chaul (Cheul, near Revadanda) with
 "the 'Tchi-mo-lo' of the Chinese traveller Hwen Thsang" (G#1930/1957). They support this with the Chemula of a Kanheri
 inscription.
+
+**Route test (whole juan).** The combination of candidates that best fits juan 10's distances and bearings takes
+Quilon (Cunningham 1871 (alternative)) here, not Mizutani's Madurai (route/README.md §6). The figures are one kind of
+evidence; see the assessment.
 
 **Assessment.** Chi-mo-lo (枳秣羅) is Xuanzang's other name for Malakūṭa at the southern tip, so Chaul on the Konkan
 coast is a confusion of sounds, not a rival. Hultzsch's Mīlalaikkūṟṟam supports Madurai over the Kāveri delta.
@@ -809,6 +841,10 @@ mound — "Traditionally, the mound contained a chaitya, the existence of which 
 Kadamba pillar inscription. Poonacha (ASI, IAR 1995–96, p. 44) found Sātavāhana-level terracottas of Hārītī, a
 Buddha face and a Bodhisattva, "establishing for the first time the Buddhist antiquity of Banavasi", and states that
 Xuanzang "had visited Banavasi (ancient Vaijayanti)".
+
+**Route test (whole juan).** The combination of candidates that best fits juan 11's distances and bearings takes
+Golkonda (Beal 1884) here, not Mizutani's Anegundi on the Tungabhadra (route/README.md §6). The figures are one kind
+of evidence; see the assessment.
 
 **Assessment.** Banavasi now has a fortified early city with Buddhist remains, on the Varadā that Mizutani includes
 in the country, and it was the Kadamba capital. But the IAR reports assert the Xuanzang link from tradition, without
@@ -985,6 +1021,10 @@ genealogy. Sircar (EI 32, 34) keeps Pi-lo-mo-lo = Bhillamāla, Bhinmal.
 **Later excavations.** Bhinmal, "the ancient Srimala ... the capital of the Gurjaras in early medieval times", was
 dug by the Rajasthan department (medieval brick structures; IAR 1953–54, p. 12). A Songira Cāhamāna inscription of
 V.S. 1328 found there records a king "ruling from Srimala" (IAR 1968–69, p. 49).
+
+**Route test (whole juan).** The combination of candidates that best fits juan 11's distances and bearings takes
+Barmer (Balmer) (Vivien 1858; Cunningham 1871; Beal 1884) here, not Mizutani's Bhinmal (route/README.md §6). The
+figures are one kind of evidence; see the assessment.
 
 **Assessment.** Majumdar's Mandor is argued from a distance and a dynastic list, without a name answering to
 Pi-lo-mo-lo. Bhinmal has the transcribed name in its old forms, ruins, and an inscription on the site naming it
@@ -1206,12 +1246,18 @@ Bela up the Kech valley into Persian Makran (p. 298; B045).
 **Route test.** Kasarkand lies due west of Karachi or Bela at about the stated distance (z +0.2 to −0.3, bearing off
 1–18°). Lākoriān lies north (bearing off 83°).
 
+**Stein (MASI 37, 1929; MASI 43, 1931).** At Lākoriān Stein found only Gabar-band dams and a 348-yard irrigation
+barrage, with no ruined city (MASI 43, pp. 181–82; S018). A footnote shows that an earlier traveller, apparently
+Masson, took the dams for defences (p. 182; S019), which probably lies behind Cunningham's "great ruined city". Kech
+(Turbat) has been Makran's chief centre of population from early times, but the Miri mound has only prehistoric and
+medieval material (pp. 63–65; S013–S014). Nothing Buddhist was found in Makran.
+
 **Assessment.** The capital's name is Sthūleśvara; the Skandapurāṇa locates that liṅga at the Indus mouth. Mizutani's
-Lākoriān now fails on three counts: the bearing (north, not west), the gazetteer (a tract with no ruined city), and
-the political note (Makran east of the Persian border was Sind's c. 635, while 狼揭羅 was subject to Persia). Western,
-Persian Makran fits the bearing, the distance and the subjection to Persia; Kasarkand on the Kech valley road is a
-candidate for the capital (Mirchandani), though not proven. Region: Makran, with the capital probably in the west;
-Lākoriān weakened; low to medium confidence.
+Lākoriān now fails on three counts: the bearing (north, not west), the site (irrigation dams and no ruined city, per
+the Jhalawan gazetteer and Stein), and the political note (Makran east of the Persian border was Sind's c. 635, while
+狼揭羅 was subject to Persia). Western, Persian Makran fits the bearing, the distance and the subjection to Persia;
+Kasarkand on the Kech valley road is a candidate for the capital (Mirchandani), though not proven. Region: Makran,
+with the capital probably in the west; Lākoriān weakened; low to medium confidence.
 
 ### 11.20 波剌斯國 (Pārsa) — Persia; capital Persepolis/Istakhr
 
@@ -1270,6 +1316,9 @@ coins (pp. 59–62; B037). Nothing pre-Arab or Buddhist is reported.
 
 **Route test.** Hyderabad fits best when measured from Karachi (mean |z| 0.15); Khuzdar fits only within Mirchandani's
 route, measured from Bela (z 0.0).
+
+**Stein (MASI 37, 1929; MASI 43, 1931).** Khozdar is attested in the 7th-century Arab campaigns, but its remains are
+Islamic (MASI 43, pp. 13, 171–78; S015–S017).
 
 **Assessment.** The three placements differ materially, and none cites remains. Mizutani follows Cunningham, and
 confidence is low.
@@ -1333,6 +1382,14 @@ site in the district. The Imperial Gazetteer, after Cunningham, puts the Life's 
 **Route test.** Bannu is 810 km from Brahmanabad against 900 li (about 215 km); it fits only if Avaṇḍa lay much
 further north. Duki fits from Gandāva (z −0.1).
 
+**Stein (MASI 37, 1929; MASI 43, 1931).** Stein restates Bannu for 伐剌拏, citing his 1904–05 report and Cunningham (MASI
+37, p. 14; S001). He records that Marquart had once put Banna at Gandāva and then withdrawn it (p. 30 n.; S007).
+Buddhist remains on the northern route are Kushan: a small stūpa at Ark-ghundai in the Tochi valley, dated by a
+Kanishka coin (p. 15; S002), and possible undated stūpas at Khore-narai and Spin in South Waziristan (pp. 24, 26;
+S003–S004). On the southern route, a Sasanian silver coin from Dabar-kot in the Thal plain near Duki (p. 62; S010) is
+the only find of about Xuanzang's period. The Kushan stūpa of Tor-dherai lies nearby (S011); the OCR breaks off before
+Stein's description of it and Konow's appendix on its inscriptions.
+
 **Assessment.** Bannu breaks the route from Avaṇḍa unless Avaṇḍa lay far to the north. Duki fits the distance from
 Gandāva but has no 7th-century record. The choice follows 11.22: Middle Sindh leaves Varṇa unfixed; Kachhi points to
 the Bolan–Loralai country. Low confidence for either.
@@ -1360,6 +1417,11 @@ identified", probably including Dera Ghazi Khan (G#1970); Mirchandani puts it at
 Khuzdar (Imperial Gazetteer p. 12; Jhalawan pp. 34–35, 221; Makran p. 44; B014, B023, B034–B035, B043), not at
 Quetta–Pishin (B051–B053, except a village Kikani, B052). The name matches 稽疆那 well. Nal's mounds are prehistoric
 (B036). Nal lies SW of Duki and far S of Bannu, while the text puts 稽疆那 west of 伐剌拏.
+
+**Stein (MASI 37, 1929; MASI 43, 1931).** Stein bases Waziristan on Xuanzang's description (separate chiefs, fine
+horses), the bearing west from Bannu and the Arabs' Qīqān. Al-Balādhurī's raid of 664–65 names Banna together with
+Qīqān (MASI 37, pp. 29–30; S005–S006). He has no find in support and does not discuss the Kīkān-at-Nal reading of the
+Baluchistan gazetteers.
 
 **Assessment.** Cunningham's Pishin rested on the Arab Kīkān. Stein places that Qīqān in Waziristan, and his field
 tour fits the description, as Bannu (11.23) does. The Baluchistan gazetteers, however, put the Arab Kīkān at Nal in

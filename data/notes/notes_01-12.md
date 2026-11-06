@@ -94,6 +94,10 @@ capital at Khara-yurgun (p. 65).
 
 **Gazetteers.** No gazetteer passage.
 
+**Route test (whole juan).** The combination of candidates that best fits juan 1's distances and bearings takes
+Kara-yulgun (Karayalghan) (Watters 1904; Xinjiang tuzhi (via Mizutani)) here, not Mizutani's Aksu region (old Gumo),
+Xinjiang (route/README.md §6). The figures are one kind of evidence; see the assessment.
+
 **Assessment.** The country is securely the Aksu oasis. The dispute is only about which ruin was the capital, and
 the sources assembled here cannot settle it. Mizutani stands.
 
@@ -130,6 +134,10 @@ Turkestan (p. 272). Beal: Myn-bulak north of the Aulie-ata–Tersa road under th
 district N of the Alexandrofsky range between Aulie-ata and Aksu (p. 73, tentative).
 
 **Gazetteers.** No gazetteer passage.
+
+**Route test (whole juan).** The combination of candidates that best fits juan 1's distances and bearings takes
+district N of the Alexandrovsky range between Aulie-ata and Aksu (Watters 1904) here, not Mizutani's Merke, Kazakhstan
+(route/README.md §6). The figures are one kind of evidence; see the assessment.
 
 **Assessment.** The name "thousand springs" invites matching with any Ming-bulak. Vivien's site depends on his
 mistaken Taras (see 01.07.06). Watters' district along the north face of the Alexandrofsky (= Kirgiz) range includes
@@ -238,6 +246,10 @@ c. 60 miles W/NW of Samarkand (p. 97, tentative).
 
 **Gazetteers.** No gazetteer passage.
 
+**Route test (whole juan).** The combination of candidates that best fits juan 1's distances and bearings takes
+Panj-shamba district (Watters 1904) here, not Mizutani's Kushaniya, c. 40 km NW of Samarkand (route/README.md §6). The
+figures are one kind of evidence; see the assessment.
+
 **Assessment.** All agree on Kushāniya. The figures differ (14 leagues in Le Strange; "half-way to Bukhara" in
 Vivien, Beal and Watters). The authorities here place it further west than Mizutani's c. 40 km, and Watters'
 Panj-shamba agrees with Beal's 60 miles. The town is not in doubt, but its distance from Samarkand is. Mizutani
@@ -251,6 +263,10 @@ Kuan, the Zarafshan territory round Bokhara (p. 34). Watters: Kermineh district 
 
 **Gazetteers.** No gazetteer passage.
 
+**Route test (whole juan).** The combination of candidates that best fits juan 1's distances and bearings takes
+Kermine (Navoiy) (Julien 1858; Vivien 1858; Watters 1904) here, not Mizutani's Kharghankath (Kalkanata), c. 8-9 km N
+of Kermine (Navoiy) (route/README.md §6). The figures are one kind of evidence; see the assessment.
+
 **Assessment.** The dispute is between two points less than 10 km apart. Vivien and Watters accept "a locality in
 the district", so they do not contradict Kalkanata. Mizutani stands.
 
@@ -262,6 +278,10 @@ the district", so they do not contradict Kalkanata. Mizutani stands.
 (p. 35). Watters: near Darganata on the W side of the Oxus (p. 98, tentative).
 
 **Gazetteers.** No gazetteer passage.
+
+**Route test (whole juan).** The combination of candidates that best fits juan 1's distances and bearings takes
+Darganata district (Watters 1904) here, not Mizutani's Near Chardzhou (Türkmenabat) on the Amu Darya (route/README.md
+§6). The figures are one kind of evidence; see the assessment.
 
 **Assessment.** Betik (Vivien, Beal) and Mizutani's "near Chardzhou" are practically the same crossing; Watters'
 Darganata lies further downstream. The area is agreed but the name is unexplained. Mizutani stands.
@@ -514,6 +534,10 @@ snowy mountain" is the Hindu Kush itself, c. 35 miles NW of Charikar and Opian; 
 
 **Gazetteers.** No gazetteer passage.
 
+**Route test (whole juan).** The combination of candidates that best fits juan 1's distances and bearings takes Hindu
+Kush c. 35 mi NW of Charikar (Cunningham 1871) here, not Mizutani's Top-Darrah stupa near Charikar (route/README.md
+§6). The figures are one kind of evidence; see the assessment.
+
 **Assessment.** Cunningham identifies only the mountain, Mizutani the monastery. The two do not conflict. Top-Darrah
 is the only site proposed and fits the distance but not the direction. Mizutani stands.
 
@@ -547,6 +571,10 @@ Majumdar: no site (p. 673).
 
 **Kuwayama.** Kuwayama (2000, pp. 29–33) equates 䅳那天 with the Zhun 順 whose statue the *Suishu* places on 葱嶺 in 漕國, and
 argues that the Zhun cult left Mount Aruṇa (01.38.03a) for Zābulistān between 606 and 629.
+
+**Route test (whole juan).** The combination of candidates that best fits juan 12's distances and bearings takes
+Ghazni (Vivien 1858) here, not Mizutani's Zabulistan (SE Afghanistan) (route/README.md §6). The figures are one kind
+of evidence; see the assessment.
 
 **Assessment.** With the capital at Ghazni (12.01a), the country must be the Ghazni–Helmand area. Vivien,
 Cunningham and Mizutani differ only in the label (Ghazna, Arachosia, Zābulistān). Beal's Sewistan, which lies in Sind,
@@ -680,6 +708,10 @@ and lies well to the NE across the Oxus. Mizutani stands.
 of Farkhar, 32 miles E of Talikan (I p. 42). Vivien: Ishkashim at the entrance to Wakhan (p. 419). Watters: none.
 
 **Gazetteers.** No gazetteer passage.
+
+**Route test (whole juan).** The combination of candidates that best fits juan 12's distances and bearings takes
+Ishkashim (Vivien 1858) here, not Mizutani's Kishm, Badakhshan (route/README.md §6). The figures are one kind of
+evidence; see the assessment.
 
 **Assessment.** Kishm fits both the name and the place in the sequence. Ishkashim belongs to the Wakhan/Shighnan
 border (cf. 12.16a). Mizutani stands.

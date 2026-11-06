@@ -76,6 +76,9 @@ check.
 - ***Epigraphia Indica*** vols. 1–36 and **CII** vols. 1, 2.1, 2.2, 3 (in Bhandarkar's revised edition), 5 and 6.
   These are the user's own copies, from their text extracts.
 - **Gazetteers.** The 557 volumes of the gazetteer-vedanta and yoga-gazetteers studies.
+- **Stein's survey memoirs:** *An Archaeological Tour in Waziristan and Northern Baluchistan* (MASI 37, 1929) and
+  *An Archaeological Tour in Gedrosia* (MASI 43, 1931). They are Internet Archive OCR in `data/ref/stein/`, coded as
+  S001–S020 in `data/coded/ar_batch11.tsv`.
 - **Baluchistan District Gazetteers** (1906–08) and the *Imperial Gazetteer* Baluchistan volume (1908). These are
   Internet Archive OCR, in `data/ref/baluch/` (gitignored). The identifiers are listed in
   `../yoga-gazetteers/regions/data/selection.tsv` (BAL*). They are coded as B001–B055 in `data/coded/gaz_batch10.tsv`.
@@ -137,6 +140,8 @@ check.
 9. **Joined table** (`data/places.tsv`, `scripts/build_places.py`) and **map**
    (`map/xuanzang_places.html`, https://claude.ai/artifact/WUH4GFEULK5rZ8oaXw8PpH).
    - **Map filters:** Mizutani's status, the visit status, religious affiliation, K. Harimoto's notes, juan and level.
+   - **Rival sites:** a toggle draws every scored rival site, linked to its place. The place panel lists each rival
+     with its route fit, and marks the one chosen by the best-fitting combination for the juan.
    - **Place panel:** every source, the notes, and the Chinese text with its translation.
 
 ## Main proposed revisions to Mizutani
@@ -182,6 +187,11 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
     c. 635, and Buddhist sealings of the 8th–9th century.
   - **Proposed changes:** Laṅgala's capital moves west (Lākoriān weakened), and Kachhi becomes an equal alternative for
     Avaṇḍa. Atyanabakela stays in lower Sindh because of 臨信度河.
+- **Whole routes, juan by juan** (`route/README.md` §6). This compares each authority's set of sites with Mizutani's
+  and finds the best-fitting combination of candidates.
+  - **Juan 10:** the figures favour Cunningham's Deccan, against inscriptions that the study follows.
+  - **Juan 9:** Magadha's short distances fit no scheme.
+  - **Other juans:** 29 place notes carry a "Route test (whole juan)" line where the best fit departs from Mizutani.
 - **Parvata** (11.17). Bakker (2020) links it with Toramāṇa's Parvatikā near Akhnūr/Sialkot; the distance from Multan
   is too short for that.
 - **Atyanabakela's capital** (11.18). Banbhore (Debal) is added to Karachi and Koṭeśvara.

@@ -37,6 +37,10 @@ view. None of them argues independently.
 **Inscriptions.** Only an editor's remark: Bhandarkar (CII 3, p. 9) reports Stein's Takka between the Chenab and the
 Ravi in Xuanzang's time. No inscription names Takka or its capital.
 
+**Route test (whole juan).** The combination of candidates that best fits juan 4's distances and bearings takes 2 mi
+NE of Sialkot (Majumdar 1924) here, not Mizutani's Punjab plain between Beas and Chenab (route/README.md §6). The
+figures are one kind of evidence; see the assessment.
+
 **Assessment.** The survey shows that a large early town lay at Asarur and that Takka was a real district name, but
 its placing of the capital still depends on Cunningham's Sangala (Sanglawala Tibba) and on an emended distance. If
 Śākala is Sialkot, as Mizutani holds, Asarur loses its anchor and Majumdar's site near Sialkot follows. Mizutani's
@@ -84,6 +88,10 @@ mound". ASR XXI (p. 134) adds that a brick contractor digging the mound found a 
 the "great Brahmanical city" on Takka's eastern border, and "midway between the two cities [Lahore and Jullundur]
 is a village called Patti, to this day". It does not know the survey's revision.
 
+**Route test (whole juan).** The combination of candidates that best fits juan 4's distances and bearings takes Patti
+(Cunningham 1871; Beal 1884; Lahore 1883) here, not Mizutani's Chiniyari, between Amritsar and Sialkot
+(route/README.md §6). The figures are one kind of evidence; see the assessment.
+
 **Assessment.** The only argument for Patti was the name, and its author withdrew it after seeing a large ancient
 mound at Chine that keeps the name and lies on the right road. Mizutani's Chiniyari is strengthened, though nothing
 found there is specifically Buddhist.
@@ -114,6 +122,10 @@ since the 3,000-li circuit is too large for the Kulu valley alone.
 **Excavations.** No digging. Vogel (AR 1903–04, pp. 263–64), publishing a 16th-century Kulu copper plate, takes
 the equation as settled: "Kuḷḷū is undoubtedly one of the most ancient principalities of the Panjab Hills", and
 11th-century Chamba plates already name the lord of Kulūta. Nothing on the capital.
+
+**Route test (whole juan).** The combination of candidates that best fits juan 4's distances and bearings takes
+Makarsa (Cunningham 1871) here, not Mizutani's Kulu; old capital Nagar (route/README.md §6). The figures are one kind
+of evidence; see the assessment.
 
 **Assessment.** The country is certain: the surviving name Kulanta and the Chamba plates' Kulūta secure the name
 equation. Jagatsukh is
@@ -413,6 +425,10 @@ Brahmapura, and concludes that "Brahmapura, the capital mentioned in A 1 and B 1
 it", as Cunningham held. He sets aside Vogel's Brahmor in Chamba (the Brahmapura of the Chamba records, whence
 Francke's upper Ravi) as too far off.
 
+**Route test (whole juan).** The combination of candidates that best fits juan 4's distances and bearings takes
+Barahat (Uttarkashi) (Atkinson (Himalayan districts II 1884)) here, not Mizutani's Srinagar (Garhwal) (route/README.md
+§6). The figures are one kind of evidence; see the assessment.
+
 **Assessment.** A king ruling from a city called Brahmapura in Kumaon, near Xuanzang's time, is now documented
 on plates found there. That does not fix the spot, but it puts the capital in the Ramganga country Cunningham
 chose, not at Srinagar, which is late and which Cunningham rejects, nor at Barahat, which keeps the text's bearing
@@ -521,6 +537,10 @@ bricks "similar to those found in Asokan monuments", so the stupa may lie lower;
 sign. He bought a Maitreya bearing the Buddhist creed from a villager. In 1923–24 (pp. 56–57) the clearance west of
 the toraṇa gave Kushan rooms and a terracotta sealing with "the Buddhist formula ye dharmma", which "is enough to
 establish the existence of Buddhist monuments at Bilsar".
+
+**Route test (whole juan).** The combination of candidates that best fits juan 4's distances and bearings takes
+Karsana (Vivien 1858) here, not Mizutani's Bilsar (Bilsad), Etah district (route/README.md §6). The figures are one
+kind of evidence; see the assessment.
 
 **Assessment.** The survey abandoned Atranji-Khera on its own evidence. Bilsar has name, size, distance, Gupta
 temple sites for the five deva temples, and now an excavated Buddhist sealing, though no inscription names the
@@ -648,6 +668,10 @@ and finds Gunir's mounds "formed solely by the action of the ravines". Aphui its
 Ayodhya, with the legend Ajudhe in Brahmi of the 1st century BC. The name Ayodhyā was thus attached to the Faizabad
 city some seven centuries before Xuanzang; nothing shows whether it was his Ayodhyā.
 
+**Route test (whole juan).** The combination of candidates that best fits juan 5's distances and bearings takes
+Kutia-Gunir NW of Fatehpur (Cunningham ASR XI) here, not Mizutani's Aphui, 29 miles SE of Fatehpur (route/README.md
+§6). The figures are one kind of evidence; see the assessment.
+
 **Assessment.** The text's crossing of the Ganges to the south, and Ajodhya's lack of Buddhist remains, count
 against Oudh; Cunningham's field reasoning converges on the Fatehpur stretch where Mizutani puts Aphui. But none
 of the sites examined there has Buddhist remains, so the city is unlocated, and the Ajudhe coin keeps Ajodhya in
@@ -735,6 +759,10 @@ pp. 159–60; Bhandarkar, CII 3, p. 35).
 miles round, excavated the Ghoṣitārāma (05.05.03), and in the SW corner on the Jumna found a stone palace
 (315 × 150 m) of "circa 600 B.C., if not earlier", "not unlikely … occupied by king Udayana" (IAR 1960–61,
 pp. 33–34); its last building phase is of the 1st–2nd century AD (IAR 1963–64, p. 40).
+
+**Route test (whole juan).** The combination of candidates that best fits juan 5's distances and bearings takes Rewah
+(Vost (via Majumdar 1924)) here, not Mizutani's Kosam (Kausambi) (route/README.md §6). The figures are one kind of
+evidence; see the assessment.
 
 **Assessment.** Inscriptions on the site and in its district name Kauśāmbī from the 11th to the 16th century, the
 ramparts fit the 30 li, and the excavated city is of the right size and age. Kosam is settled. Sharma's palace is a

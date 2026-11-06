@@ -441,6 +441,10 @@ about Aornos; he did not visit the hill.
 
 **Gazetteers.** None.
 
+**Route test (whole juan).** The combination of candidates that best fits juan 3's distances and bearings takes
+Mahaban mountain (Buner) (Cunningham 1871; Cunningham ASR II) here, not Mizutani's Shinasi stupa at Kukrai, on the way
+to Ilam (route/README.md §6). The figures are one kind of evidence; see the assessment.
+
 **Assessment.** There are three candidates and no decisive evidence among them. Cunningham's Mahaban rests on the
 name alone, and Stein's Pinjkotai is a field identification reported only at second hand (Dey). Mizutani's
 tentative view stands, with low confidence.
