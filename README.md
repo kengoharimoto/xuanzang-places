@@ -246,8 +246,10 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 - **OCR.** Quotes match the OCR verbatim, errors included.
 - **Index coverage.** The indexes miss arguments that use neither the pilgrim's name, a listed site, nor a listed
   Sanskrit name. The known gaps are in `data/FOLLOWUPS.md`.
-- **Places tied to several ids.** A passage coded to several places shows its one identification under each in
-  `places.tsv`. The notes are the reliable reading.
+- **Places tied to several ids.** 467 coded passages concern two or more places. Each has been split into per-place
+  entries (`data/coded/split/split_*.tsv`, `data/SPLIT_INSTRUCTIONS.md`), so `places.tsv` and the map show for each
+  place only what bears on it: 1,022 entries apply, 124 only name the place ("named only", no evidence), and 16 were
+  coding slips, now dropped. Single-place passages are as coded.
 - **Translations.** They are checked and corrected but not a published translation; quote them with that caveat. The
   Life translations are checked in the same way.
 - **Affiliation.** It records what the passage says, plus Mizutani's identification of sect names. The code

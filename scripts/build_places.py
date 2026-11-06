@@ -23,6 +23,21 @@ RES = {}   # coded rows tagged `new`, resolved to existing or added ids (data/co
 try:
     for r in rd("data/coded/new_resolved.tsv"): RES[(r["file"], r["passage_or_hit"])] = r["resolved"]
 except FileNotFoundError: pass
+SPLIT = {}   # multi-place passages split into per-place entries (data/coded/split/split_*.tsv; data/SPLIT_INSTRUCTIONS.md)
+for f_ in glob.glob("data/coded/split/split_*.tsv"):
+    for r_ in rd(f_): SPLIT[(r_["file"], r_["key"], r_["xz_id"])] = r_
+def per_place(r, f, x, n_ids):
+    """The passage as it bears on place x: the split entry's identification and evidence when the passage is coded to
+    several places; None when the split says it does not concern x."""
+    if n_ids < 2: return r
+    sp = SPLIT.get((f.split("/")[-1], r.get("hit") or r.get("passage") or "", x))
+    if not sp: return r
+    if sp["applies"] == "no": return None
+    q = dict(r)
+    idf, evf = ("gaz_identification", "local_evidence") if "gaz_identification" in r else ("asr_identification", "evidence")
+    q[idf] = sp["identification"] or ("named only" if sp["applies"] == "mention" else "")
+    q[evf] = sp["evidence"] if sp["applies"] == "yes" else ""
+    return q
 def xids(r, f):
     xs = [x.strip() for x in (r.get("xz_id") or "").replace(",", ";").split(";") if x.strip()]
     res = RES.get((f.split("/")[-1], r.get("hit") or r.get("passage") or ""))
@@ -45,7 +60,8 @@ for f in glob.glob("data/coded/gaz_batch*.tsv"):
         if r.get("relevant") != "yes": continue
         for x in xids(r, f):
             x = x.strip()
-            if x in ids: gaz[x].append(r)
+            if x in ids:
+                if (q := per_place(r, f, x, len(xids(r, f)))) is not None: gaz[x].append(q)
             elif x: unknown_ids[x] += 1
 asr = collections.defaultdict(list); arr = collections.defaultdict(list); epg = collections.defaultdict(list); iar = collections.defaultdict(list)
 for pat, store, tag in (("data/coded/epig_batch*.tsv", epg, "epig"), ("data/coded/iar_batch*.tsv", iar, "iar")):
@@ -54,21 +70,24 @@ for pat, store, tag in (("data/coded/epig_batch*.tsv", epg, "epig"), ("data/code
             if r.get("relevant") != "yes": continue
             for x in xids(r, f):
                 x = x.strip()
-                if x in ids: store[x].append(r)
+                if x in ids:
+                    if (q := per_place(r, f, x, len(xids(r, f)))) is not None: store[x].append(q)
                 elif x: unknown_ids[tag + ":" + x] += 1
 for f in glob.glob("data/coded/ar_batch*.tsv"):
     for r in rd(f):
         if r.get("relevant") != "yes": continue
         for x in xids(r, f):
             x = x.strip()
-            if x in ids: arr[x].append(r)
+            if x in ids:
+                if (q := per_place(r, f, x, len(xids(r, f)))) is not None: arr[x].append(q)
             elif x: unknown_ids["ar:" + x] += 1
 for f in glob.glob("data/coded/asr_batch*.tsv"):
     for r in rd(f):
         if r.get("relevant") != "yes": continue
         for x in xids(r, f):
             x = x.strip()
-            if x in ids: asr[x].append(r)
+            if x in ids:
+                if (q := per_place(r, f, x, len(xids(r, f)))) is not None: asr[x].append(q)
             elif x: unknown_ids["asr:" + x] += 1
 def src_tag(r):
     f = r.get("file", "").replace(".txt", "")

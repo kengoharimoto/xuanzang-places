@@ -97,8 +97,8 @@
     400+ li; Sultanpur (04.02.03) fits neither 50 nor 500 li.
   - Text: 12.22.15's passage reads 至都邏故國, missing 覩貨. 01.09a's excerpt is 01.11's 東臨葉河 sentence. 12.18.02's Life
     passage is the Cīnadevagotra story, not the peak legend.
-  - places.tsv: a multi-id coded passage gives its evidence text to every id, so some places carry evidence about a
-    sibling site (08.05.01 the Bakror text, 08.05.01a Mucharin, 09.02.03b Hunter's Nālandā; gazetteer hit 1219's Baoti
-    Pind under 03.03.02). Not yet fixed. 11.12's EI passage (Sircar, EI 34) is counted but its evidence is empty.
+  - places.tsv: multi-place coded passages are now split into per-place entries (`data/coded/split/`); the 16 coding
+    slips found (e.g. six Rajbadidanga IAR seasons under 10.08 that concern only 10.08.02) are dropped from the
+    places they don't concern. 11.12's EI passage (Sircar, EI 34) is counted but its evidence is empty.
   - Small slips: 04.01.x4's note should say three days (經三日), not two; Cunningham's "4 miles NE of Ohind" for
     02.04.19 conflicts with the text's NW; Mizutani's quotes carry OCR errors (e.g. 12.16).
