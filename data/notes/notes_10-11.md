@@ -222,6 +222,9 @@ reports his Bad-Kamta capital as his "opinion".
 (G#42/10); Nadia 1910 includes Nadia; Khulna 1908 excludes Khulna; Faridpur 1908 and Bengal 1902 equate Samataṭa with
 Vaṅga.
 
+**Route test (the Life).** On the Life's figures, the best-fitting combination for juan 10 takes Faridpur district
+(Watters 1904) here, not Mizutani's Bad-Kamta (Barkamta), W of Comilla (route/README.md §7).
+
 **Assessment.** The gazetteers had already moved the capital east of Jessore. The inscriptions now fix the country
 east of the old Brahmaputra, in Tippera, Noakhali, Sylhet and E Dacca, with a Buddhist royal house there in
 Xuanzang's century — against Jessore, Faridpur and Khulna. The Baghaura record is c. 10th-century, and no inscription
@@ -436,6 +439,9 @@ site given.
 Nendra (Chitratola), 15 mi below Cuttack (Waddell (via Watters 1904, Majumdar 1924)) here, not Mizutani's Puri
 (route/README.md §6). The figures are one kind of evidence; see the assessment.
 
+**Route test (the Life).** On the Life's figures, the best-fitting combination for juan 10 takes Nendra (Chitratola),
+15 mi below Cuttack (Waddell (via Watters 1904, Majumdar 1924)) here, not Mizutani's Puri (route/README.md §7).
+
 **Assessment.** The gazetteers weaken Puri. They add the Prāchī-mouth port near Konarak, a candidate no authority
 records, though it rests on tradition only. Nendra (Waddell) remains the better-argued alternative to Puri.
 
@@ -481,6 +487,9 @@ and fits the Salihundam stupas to Xuanzang's stone stupa. Sircar (EI 35, in a fo
 Rajahmundry (Cunningham 1871; Beal 1884) here, not Mizutani's Kalinga (coast S of Ganjam) (route/README.md §6). The
 figures are one kind of evidence; see the assessment.
 
+**Route test (the Life).** On the Life's figures, the best-fitting combination for juan 10 takes Rajahmundry
+(Cunningham 1871; Beal 1884) here, not Mizutani's Kalinga (coast S of Ganjam) (route/README.md §7).
+
 **Assessment.** Salihundam gives Kalingapatnam a large Buddhist establishment, but one named in the 2nd century, not
 the capital; and the stone stupa Ramachandran matches stands on a ridge "in the north of the country" (10.11.02a),
 which a coastal hill near Kalingapatnam does not obviously suit. Mukhalingam keeps the attested name Kaliṅganagara.
@@ -524,6 +533,9 @@ were "issued from Sirpura" (IAR 1979–80, Epigraphy), so Śrīpura was a royal 
 Chanda (Cunningham 1871) here, not Mizutani's Sirpur, Chhattisgarh (route/README.md §6). The figures are one kind of
 evidence; see the assessment.
 
+**Route test (the Life).** On the Life's figures, the best-fitting combination for juan 10 takes Chanda (Cunningham
+1871) here, not Mizutani's Sirpur, Chhattisgarh (route/README.md §7).
+
 **Assessment.** Bhandak and Chanda rest on assertions; Sirpur has the royal plates of Xuanzang's date naming Śrīpura
 as capital, a city with major 7th-century building, and Buddhist foundations from the 5th century on. Mizutani is
 strengthened, with high confidence.
@@ -556,6 +568,9 @@ noted, so 黒峰 is his rendering, not a reading of the text.
 Winjhasani/Dewala hills near Bhandak (Beal 1884) here, not Mizutani's Nagarjunakonda (route/README.md §6). The figures
 are one kind of evidence; see the assessment.
 
+**Route test (the Life).** On the Life's figures, the best-fitting combination for juan 10 takes Pantlu-kuri, 45 mi W
+of Chanda (Cunningham 1871) here, not Mizutani's Nagarjunakonda (route/README.md §7).
+
 **Assessment.** Xuanzang puts Bhramaragiri 300 li SW of the Kosala capital. With Sirpur now secure (10.12), Arang has
 the bearing and a hill-name close to Bhramara (both bhramara and bhṛṅga mean "bee", glossed 黑蜂 in the text; this
 point is not made in these sources). Śrīparvata at Nāgārjunakoṇḍa has the Nāgārjuna association and the name of
@@ -585,6 +600,9 @@ and no stūpa is shown to be the one Xuanzang saw.
 **Route test (whole juan).** The combination of candidates that best fits juan 10's distances and bearings takes
 Elgandal (Cunningham 1871) here, not Mizutani's Pedavegi near Eluru (route/README.md §6). The figures are one kind of
 evidence; see the assessment.
+
+**Route test (the Life).** On the Life's figures, the best-fitting combination for juan 10 takes Elgandal (Cunningham
+1871) here, not Mizutani's Pedavegi near Eluru (route/README.md §7).
 
 **Assessment.** Elgandel and Warangal are Telingana guesses from distance. Veṅgī matches the name, Burnell's Telugu
 locative explains the last syllable, and the excavation shows a fortified city with stūpas, occupied under the first
@@ -706,6 +724,9 @@ traveller".
 Kurnool (Jorampur) (Cunningham 1871) here, not Mizutani's Nellore (route/README.md §6). The figures are one kind of
 evidence; see the assessment.
 
+**Route test (the Life).** On the Life's figures, the best-fitting combination for juan 10 takes Kurnool (Jorampur)
+(Cunningham 1871) here, not Mizutani's Nellore (route/README.md §7).
+
 **Assessment.** Bearing and inscriptions agree on a Telugu Coḷa country in Cuddapah and S Kurnool, with Smith,
 Majumdar and in part Cunningham. The plates postdate Xuanzang by over a century, and none names Chuliye or a capital.
 This is a better-supported alternative to Nellore for the core of the country, though not a capital.
@@ -737,6 +758,9 @@ inscription.
 **Route test (whole juan).** The combination of candidates that best fits juan 10's distances and bearings takes
 Quilon (Cunningham 1871 (alternative)) here, not Mizutani's Madurai (route/README.md §6). The figures are one kind of
 evidence; see the assessment.
+
+**Route test (the Life).** On the Life's figures, the best-fitting combination for juan 10 takes Quilon (Cunningham
+1871 (alternative)) here, not Mizutani's Madurai (route/README.md §7).
 
 **Assessment.** Chi-mo-lo (枳秣羅) is Xuanzang's other name for Malakūṭa at the southern tip, so Chaul on the Konkan
 coast is a confusion of sounds, not a rival. Hultzsch's Mīlalaikkūṟṟam supports Madurai over the Kāveri delta.
@@ -967,6 +991,9 @@ the town as Ānandapura/Nagara and records the rampart the king built round it; 
 Vriddhanagara". Five Maitraka grants name Ānandapura (Sircar and Sundaram, EI 35), and Sircar (EI 35) and the
 Gwalior inscription of Alla (EI 1, p. 154, "Anandapura in Latamandala") take it as Vadnagar. Sircar's Anand in Kaira
 (EI 30) belongs to a Kalachuri grant of 609 and is not linked to Xuanzang.
+
+**Route test (the Life).** On the Life's figures, the best-fitting combination for juan 11 takes near Ahmadabad (St.
+Martin; Cunningham; Watters (older view, via Mizutani)) here, not Mizutani's Vadnagar (route/README.md §7).
 
 **Assessment.** An inscription on the site names it Ānandapura, and Maitraka grants show a town of that name in
 Valabhī's sphere, as Xuanzang's dependency requires. The praśasti is 12th-century, but the name continuity is clear.
@@ -1215,6 +1242,9 @@ route from Mithankot fits the text best (route/README.md §5).
 **Lambrick (Sind, 1964).** Lambrick puts the country in the Indus delta, with Debal as its capital, and rejects
 Cutch/Koṭeśvara on the transcription (p. 148).
 
+**Route test (the Life).** On the Life's figures, the best-fitting combination for juan 11 takes Kotesar (Koteshwar)
+(Cunningham 1871; Dey 1927) here, not Mizutani's Karachi (route/README.md §7).
+
 **Assessment.** These sources split between Karachi or the delta (Debal/Banbhore) and Koṭeśvara in Kutch. 朅 (*khjat)
 suits Kacch- better than Koṭi-. A great Śiva shrine at the Indus mouth served by ash-smearers fits this country's
 大自在天祠, and the Skandapurāṇa's Śaṅkukarṇa–Sthūleśvara lies there. Mizutani's lower Sindh stands, low to medium
@@ -1266,6 +1296,10 @@ capital site (pp. 148–49).
 **The Life.** The Life (T2053) goes from Laṅgala north-east 700 li to Pītaśilā, whereas the Xiyu ji counts Pītaśilā
 700 li north from Atyanabakela. On the Life's leg Kasarkand is far too distant (492 km against about 167 predicted),
 while Las Bela or eastern Makran would fit (route/README.md §5).
+
+**Route test (the Life).** On the Life's figures, the best-fitting combination for juan 11 takes Las Bela (Bela), with
+parts of Jhalawan and E Makran (Lambrick 1964) here, not Mizutani's Lakorian (Lakura), between Khuzdar and Kalat
+(route/README.md §7).
 
 **Assessment.** The capital's name is Sthūleśvara; the Skandapurāṇa locates that liṅga at the Indus mouth. Mizutani's
 Lākoriān now fails on three counts: the bearing (north, not west), the site (irrigation dams and no ruined city, per

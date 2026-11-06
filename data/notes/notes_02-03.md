@@ -394,6 +394,9 @@ Manglavor), Cunningham (p. 94–95, tentative), Beal (p. 121, tentative), Watter
 **Gazetteers.** None. The Himalayan Districts II volume (1884) mentions Udyāna only through Darel, its "former
 capital".
 
+**Route test (the Life).** On the Life's figures, the best-fitting combination for juan 3 takes Manglaor (Manglawar)
+(Cunningham 1871; Stein; Watters 1904; Majumdar 1924; Dey 1927) here, not Mizutani's Mingora (route/README.md §7).
+
 **Assessment.** Mizutani rests on the Italian excavations around Mingora and Butkara. The older authorities rest on
 the name Manglaor and on Stein. Both places lie in the same stretch of the Swat valley, 5 miles apart, and nothing
 in these files settles which was the 7th-century capital. Mizutani's choice stands, with medium confidence.
@@ -685,6 +688,9 @@ kingdom but not its place.
 in the Panjab: "the Singhapura rajya of our inscription may be safely identified with the kingdom of
 Sang-ho-pu-lo". He dates it c. 600, before the Kashmiri overlordship Xuanzang reports. It names the kingdom, not
 its place, and was found far to the east.
+
+**Route test (the Life).** On the Life's figures, the best-fitting combination for juan 3 takes Sangohi, 10 mi SW of
+Jhelum (Vivien 1858) here, not Mizutani's Ketas (Katas Raj), Salt Range (route/README.md §7).
 
 **Assessment.** The country is the Salt Range round Ketas and Malot, 9 miles apart, on every view; the praśasti
 confirms the dynasty but not its location. Watters' "abandoned" refers to ASR V's Malot. Stein's later fieldwork

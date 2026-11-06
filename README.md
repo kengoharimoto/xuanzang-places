@@ -198,6 +198,10 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
   - **Juan 10:** the figures favour Cunningham's Deccan, against inscriptions that the study follows.
   - **Juan 9:** Magadha's short distances fit no scheme.
   - **Other juans:** 29 place notes carry a "Route test (whole juan)" line where the best fit departs from Mizutani.
+  - **On the Life's figures** (§7). The Life's own figures give a different picture. They fit worse than the Xiyu
+    ji's in the Northwest and Magadha (juans 2, 3, 8) and better in juans 4 and 7. In the Deccan they again favour
+    Cunningham, so the conflict with the inscriptions is not an accident of one text. They pull Kapilavastu north-west.
+    28 notes carry a "Route test (the Life)" line.
 - **Parvata** (11.17). Bakker (2020) links it with Toramāṇa's Parvatikā near Akhnūr/Sialkot; the distance from Multan
   is too short for that.
 - **Atyanabakela's capital** (11.18). Banbhore (Debal) is added to Karachi and Koṭeśvara.

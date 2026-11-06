@@ -41,6 +41,9 @@ Ravi in Xuanzang's time. No inscription names Takka or its capital.
 NE of Sialkot (Majumdar 1924) here, not Mizutani's Punjab plain between Beas and Chenab (route/README.md §6). The
 figures are one kind of evidence; see the assessment.
 
+**Route test (the Life).** On the Life's figures, the best-fitting combination for juan 4 takes Asarur (Tse-kia)
+(Cunningham 1871; Cunningham ASR II) here, not Mizutani's Punjab plain between Beas and Chenab (route/README.md §7).
+
 **Assessment.** The survey shows that a large early town lay at Asarur and that Takka was a real district name, but
 its placing of the capital still depends on Cunningham's Sangala (Sanglawala Tibba) and on an emended distance. If
 Śākala is Sialkot, as Mizutani holds, Asarur loses its anchor and Majumdar's site near Sialkot follows. Mizutani's
@@ -91,6 +94,9 @@ is a village called Patti, to this day". It does not know the survey's revision.
 **Route test (whole juan).** The combination of candidates that best fits juan 4's distances and bearings takes Patti
 (Cunningham 1871; Beal 1884; Lahore 1883) here, not Mizutani's Chiniyari, between Amritsar and Sialkot
 (route/README.md §6). The figures are one kind of evidence; see the assessment.
+
+**Route test (the Life).** On the Life's figures, the best-fitting combination for juan 4 takes Patti (Cunningham
+1871; Beal 1884; Lahore 1883) here, not Mizutani's Chiniyari, between Amritsar and Sialkot (route/README.md §7).
 
 **Assessment.** The only argument for Patti was the name, and its author withdrew it after seeing a large ancient
 mound at Chine that keeps the name and lies on the right road. Mizutani's Chiniyari is strengthened, though nothing
@@ -429,6 +435,9 @@ Francke's upper Ravi) as too far off.
 Barahat (Uttarkashi) (Atkinson (Himalayan districts II 1884)) here, not Mizutani's Srinagar (Garhwal) (route/README.md
 §6). The figures are one kind of evidence; see the assessment.
 
+**Route test (the Life).** On the Life's figures, the best-fitting combination for juan 4 takes Barahat (Uttarkashi)
+(Atkinson (Himalayan districts II 1884)) here, not Mizutani's Srinagar (Garhwal) (route/README.md §7).
+
 **Assessment.** A king ruling from a city called Brahmapura in Kumaon, near Xuanzang's time, is now documented
 on plates found there. That does not fix the spot, but it puts the capital in the Ramganga country Cunningham
 chose, not at Srinagar, which is late and which Cunningham rejects, nor at Barahat, which keeps the text's bearing
@@ -541,6 +550,10 @@ establish the existence of Buddhist monuments at Bilsar".
 **Route test (whole juan).** The combination of candidates that best fits juan 4's distances and bearings takes
 Karsana (Vivien 1858) here, not Mizutani's Bilsar (Bilsad), Etah district (route/README.md §6). The figures are one
 kind of evidence; see the assessment.
+
+**Route test (the Life).** On the Life's figures, the best-fitting combination for juan 4 takes Atranji-Khera
+(Cunningham 1871; Beal 1884; Cunningham ASR I) here, not Mizutani's Bilsar (Bilsad), Etah district (route/README.md
+§7).
 
 **Assessment.** The survey abandoned Atranji-Khera on its own evidence. Bilsar has name, size, distance, Gupta
 temple sites for the five deva temples, and now an excavated Buddhist sealing, though no inscription names the
@@ -672,6 +685,9 @@ city some seven centuries before Xuanzang; nothing shows whether it was his Ayod
 Kutia-Gunir NW of Fatehpur (Cunningham ASR XI) here, not Mizutani's Aphui, 29 miles SE of Fatehpur (route/README.md
 §6). The figures are one kind of evidence; see the assessment.
 
+**Route test (the Life).** On the Life's figures, the best-fitting combination for juan 5 takes Kutia-Gunir NW of
+Fatehpur (Cunningham ASR XI) here, not Mizutani's Aphui, 29 miles SE of Fatehpur (route/README.md §7).
+
 **Assessment.** The text's crossing of the Ganges to the south, and Ajodhya's lack of Buddhist remains, count
 against Oudh; Cunningham's field reasoning converges on the Fatehpur stretch where Mizutani puts Aphui. But none
 of the sites examined there has Buddhist remains, so the city is unlocated, and the Ajudhe coin keeps Ajodhya in
@@ -763,6 +779,9 @@ pp. 33–34); its last building phase is of the 1st–2nd century AD (IAR 1963�
 **Route test (whole juan).** The combination of candidates that best fits juan 5's distances and bearings takes Rewah
 (Vost (via Majumdar 1924)) here, not Mizutani's Kosam (Kausambi) (route/README.md §6). The figures are one kind of
 evidence; see the assessment.
+
+**Route test (the Life).** On the Life's figures, the best-fitting combination for juan 5 takes Rewah (Vost (via
+Majumdar 1924)) here, not Mizutani's Kosam (Kausambi) (route/README.md §7).
 
 **Assessment.** Inscriptions on the site and in its district name Kauśāmbī from the 11th to the 16th century, the
 ramparts fit the 30 li, and the excavated city is of the right size and age. Kosam is settled. Sharma's palace is a

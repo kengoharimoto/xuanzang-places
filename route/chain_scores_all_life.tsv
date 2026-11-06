@@ -1,0 +1,62 @@
+juan	scheme	places_changed	n_legs	mean_abs_z	mean_bearing_off	legs_z_over_1_5	total
+01	Mizutani	0	16	1.18	34	5	30.8
+01	Vivien	5	18	1.42	41	6	42.1
+01	Beal	5	16	1.12	34	3	29.9
+01	Watters	8	16	0.94	30	3	25.8
+01	best-fitting combination	5	16	0.94	28	3	25.0
+02	Mizutani	0	7	1.97	24	3	17.5
+02	Cunningham	2	8	2.7	38	4	28.4
+02	best-fitting combination	0	7	1.97	24	3	17.5
+03	Mizutani	0	9	2.18	28	4	25.3
+03	Cunningham	3	10	2.08	41	4	29.9
+03	Vivien	2	9	2.25	31	4	26.5
+03	Watters	2	10	2.04	27	4	26.3
+03	Majumdar	2	10	2.04	27	4	26.3
+03	best-fitting combination	2	9	2.19	23	4	24.2
+04	Mizutani	0	13	0.94	31	3	21.3
+04	Cunningham	7	15	0.67	42	2	24.1
+04	Vivien	7	13	1.28	36	3	27.1
+04	Beal	2	13	0.73	34	2	19.3
+04	Majumdar	4	13	1.05	40	3	25.2
+04	Smith	3	13	0.89	44	3	24.4
+04	best-fitting combination	5	13	0.62	30	1	16.8
+05	Mizutani	0	4	1.1	67	1	10.4
+05	Cunningham	4	6	1.28	65	2	16.4
+05	Vivien	3	6	1.0	84	1	17.2
+05	Watters	3	5	0.86	76	0	12.8
+05	Majumdar	5	6	1.09	55	2	13.9
+05	Dey	3	6	0.95	89	1	17.6
+05	Smith	3	5	0.7	73	0	11.6
+05	best-fitting combination	2	4	0.64	50	0	7.0
+06	Mizutani	0	2	1.04	30	0	3.4
+06	best-fitting combination	2	2	0.24	21	0	1.4
+07	Mizutani	0	2	0.53	13	0	1.7
+07	best-fitting combination	0	2	0.53	13	0	1.7
+08	Mizutani	0	1	1.77	20	1	2.2
+08	best-fitting combination	0	1	1.77	20	1	2.2
+10	Mizutani	0	13	0.89	32	3	20.8
+10	Cunningham	10	13	0.51	28	1	14.6
+10	Vivien	5	13	0.81	44	2	23.1
+10	Beal	5	13	1.15	35	3	25.0
+10	Watters	4	13	0.82	29	3	19.1
+10	Majumdar	5	13	1.17	32	3	24.5
+10	Dey	2	13	0.98	33	4	22.1
+10	Smith	2	13	0.91	31	3	20.8
+10	Fergusson	6	13	0.96	36	3	22.9
+10	best-fitting combination	8	13	0.36	22	0	11.1
+11	Mizutani	0	16	0.65	47	3	27.3
+11	Cunningham	10	19	0.84	52	5	38.2
+11	Vivien	8	19	0.81	53	3	38.0
+11	Beal	6	17	0.76	48	4	31.2
+11	Watters	4	19	0.67	50	4	34.1
+11	Majumdar	3	16	0.69	45	3	27.1
+11	Dey	4	19	0.93	57	5	41.7
+11	Smith	5	18	1.15	40	7	36.6
+11	Mirchandani	5	16	0.74	32	3	23.4
+11	Lambrick	5	16	0.67	40	3	24.9
+11	best-fitting combination	3	16	0.55	43	2	24.1
+12	Mizutani	0	18	0.61	23	1	20.0
+12	Cunningham	2	18	0.69	28	1	23.7
+12	Vivien	5	18	0.85	34	3	29.0
+12	Beal	3	18	0.69	26	2	22.9
+12	best-fitting combination	2	18	0.5	22	1	17.9

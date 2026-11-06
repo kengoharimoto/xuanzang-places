@@ -2,7 +2,8 @@
 """Whole-route test for every juan: each authority's set of sites against Mizutani's, and the best-fitting
 combination of candidates.
 
-Usage (from xuanzang-places/): python3 -I route/chains_all.py
+Usage (from xuanzang-places/): python3 -I route/chains_all.py [route/life_segments.tsv]
+  (with the Life's legs from route/life_segments.py, outputs carry the suffix _life)
   -> route/chain_scores_all.tsv  one row per (juan, scheme): legs, mean |z|, mean bearing error, legs |z| > 1.5
   -> route/chain_best.tsv        places where the best-fitting combination picks a candidate other than Mizutani's
 
@@ -14,10 +15,12 @@ The best-fitting combination is found by coordinate descent from Mizutani's poin
 candidate that lowers the juan's total, until nothing changes). It shows where the figures pull towards a rival site;
 it is not a proposal by itself, since the figures are only one kind of evidence.
 """
-import csv, math, statistics as st, re, collections
+import csv, math, statistics as st, re, collections, sys
+SEG = sys.argv[1] if len(sys.argv) > 1 else "route/segments.tsv"   # route/life_segments.tsv: the Life's legs
+SUF = "_life" if "life" in SEG else ""
 rd = lambda f: list(csv.DictReader(open(f, encoding="utf-8"), delimiter="\t"))
 C = {r["id"]: r for r in rd("data/coords.tsv")}
-segs = [s for s in rd("route/segments.tsv") if s["li_lo"] and s["from_id"]]
+segs = [s for s in rd(SEG) if s["li_lo"] and s["from_id"]]
 cands = [c for c in rd("route/candidates.tsv") if c["lat"]]
 cal = [float(t["km_per_li"]) for t in rd("route/segment_tests.tsv") if t["calib"] == "yes"]
 med = st.median(cal); sig = st.pstdev([math.log(x / med) for x in cal])
@@ -74,6 +77,7 @@ for j, L in sorted(byjuan.items()):
                 _, t = score(L, Q)
                 if t < cur - 0.3: P, cur, changed = Q, t, True
     r, _ = score(L, P)
+    if not r: continue   # no measurable leg in this juan
     mz_r, mz_tot = score(L, {})
     rows.append(dict(juan=j, scheme="best-fitting combination", places_changed=len(P), n_legs=len(r),
                      mean_abs_z=round(st.mean(abs(z) for z, _ in r), 2), mean_bearing_off=round(st.mean(b for _, b in r)),
@@ -84,9 +88,9 @@ for j, L in sorted(byjuan.items()):
         mz = next((n for n, p, q in opts[i] if p == "Mizutani"), C.get(i, {}).get("modern_name", ""))
         best.append(dict(juan=j, id=i, mizutani=mz, best_fit=name, proposer=prop))
 
-w = csv.DictWriter(open("route/chain_scores_all.tsv", "w", encoding="utf-8", newline=""), list(rows[0]), delimiter="\t", lineterminator="\n")
+w = csv.DictWriter(open(f"route/chain_scores_all{SUF}.tsv", "w", encoding="utf-8", newline=""), list(rows[0]), delimiter="\t", lineterminator="\n")
 w.writeheader(); w.writerows(rows)
-w = csv.DictWriter(open("route/chain_best.tsv", "w", encoding="utf-8", newline=""), list(best[0]), delimiter="\t", lineterminator="\n")
+w = csv.DictWriter(open(f"route/chain_best{SUF}.tsv", "w", encoding="utf-8", newline=""), list(best[0]), delimiter="\t", lineterminator="\n")
 w.writeheader(); w.writerows(best)
 for r in rows: print("\t".join(str(v) for v in r.values()))
 print(len(best), "places where the best-fitting combination departs from Mizutani")

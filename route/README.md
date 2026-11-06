@@ -14,6 +14,7 @@ Two checks on the identifications, using only the texts:
 | `candidates.tsv` | Coordinates for 231 rival sites and Mizutani's own, for 155 places. The coordinates are approximate: obscure villages are placed from the proposer's own distances, and `note` says so. |
 | `candidates.py` → `candidate_scores.tsv` | Scores each candidate against its incoming and outgoing legs. |
 | `chains.py` → `chain_scores.tsv` | Scores whole alternative routes, each leg measured between one scheme's own sites (§5). |
+| `life_segments.py` → `life_segments.tsv` | The Life's legs (from `variants_*.tsv`), in the same form as `segments.tsv` (§7). |
 | `chains_all.py` → `chain_scores_all.tsv`, `chain_best.tsv` | The same for every juan: each authority's set of sites, and the best-fitting combination of candidates (§6). |
 | `variants_*.tsv` | Each leg in T2087, T2088 and T2053, plus Mizutani's variant notes. Quotes are verbatim and checked by `check_variants.py`. Instructions are in `VARIANTS_INSTRUCTIONS.md`. |
 
@@ -202,4 +203,38 @@ Results by juan:
 `chain_best.tsv` lists the 35 places where the best-fitting combination departs from Mizutani. Each of these place
 notes has a "Route test (whole juan)" line pointing here. A departure is a question for the notes, not an
 identification: the figures are one kind of evidence among several.
+
+## 7. The Life's figures, juan by juan
+
+`life_segments.py` turns the Life's legs, as recorded by the variant readers, into a segment file. It yields 123 legs,
+50 of which differ from the Xiyu ji in figure, bearing or starting place. It leaves out legs with no figure, legs
+counted in days or yojanas, and minor sites the Life skips. `chains_all.py route/life_segments.tsv` then repeats §6 on
+these legs (`chain_scores_all_life.tsv`, `chain_best_life.tsv`).
+
+| Juan | Xiyu ji legs: mean \|z\| (legs, bad) | Life legs: mean \|z\| (legs, bad) | Better set on the Life's legs | Life best fit (places changed) |
+|---|---|---|---|---|
+| 1 | 1.17 (23, 7) | 1.18 (16, 5) | Watters: 0.94 | 0.94 (5) |
+| 2 | 1.08 (10, 1) | 1.97 (7, 3) | — | 1.97 (0) |
+| 3 | 1.16 (15, 4) | 2.18 (9, 4) | — | 2.19 (2) |
+| 4 | 1.47 (17, 6) | 0.94 (13, 3) | Beal: 0.73 | 0.62 (5) |
+| 5 | 1.1 (4, 1) | 1.1 (4, 1) | — | 0.64 (2) |
+| 6 | 0.73 (2, 0) | 1.04 (2, 0) | — | 0.24 (2) |
+| 7 | 0.68 (3, 1) | 0.53 (2, 0) | — | 0.53 (0) |
+| 8 | 0.68 (2, 0) | 1.77 (1, 1) | — | 1.77 (0) |
+| 9 | 2.42 (5, 2) | — | — | — |
+| 10 | 0.84 (16, 4) | 0.89 (13, 3) | Cunningham: 0.51 | 0.36 (8) |
+| 11 | 0.57 (18, 2) | 0.65 (16, 3) | Mirchandani: 0.74 | 0.55 (3) |
+| 12 | 0.69 (19, 2) | 0.61 (18, 1) | — | 0.5 (2) |
+
+Results:
+- **Where the Life's figures fit worse:** juans 2, 3 and 8. In the Northwest and Magadha the Xiyu ji's own figures
+  are the better guide.
+- **Where they fit better:** juans 4 and 7, and slightly juan 12.
+- **Juan 6.** The Life's 800 li from Śrāvastī to Kapilavastu and 500 li on to Rāma pull Kapilavastu north-west, to
+  Cunningham's Nagar.
+- **Juan 10.** On the Life's legs Cunningham's Deccan again fits better than Mizutani's (0.51 against 0.89). Two
+  independent sets of figures agree on this, so the conflict with the inscriptions (§6) is not an accident of one
+  text.
+- **Juan 11.** On the Life's legs the best fit takes Lambrick's Las Bela for Laṅgala and Cunningham's Kotesar for
+  Atyanabakela, as in §5.
 
