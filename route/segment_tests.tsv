@@ -1,0 +1,138 @@
+id	name_zh	from_id	from_name	legs	li	km	km_per_li	pred_km	log_ratio	stated	computed	bearing_off	flags	calib	status	prec	visit
+01.06	屈支國	01.05	阿耆尼國	西南 200+ + 西 700+	900.0	301.2	0.335	215.1	0.34	西南+西	264				agreed/agreed	district/district	visited
+01.07	跋祿迦國	01.06.04	阿奢理貳伽藍	西 600+	600.0	211.5	0.352	143.4	0.39	西	255	15			agreed/disputed	site/district	visited
+01.07.01	凌山	01.07	跋祿迦國	西北 300+	300.0	96.2	0.321	71.7	0.29	西北	354	39			disputed/disputed	district/district	visited
+01.07.03	素葉水城	01.07.02	大清池	西北 500+	500.0	166.7	0.333	119.5	0.33	西北	287	28			agreed/agreed	district/town	visited
+01.07.06	呾邏私城	01.07.05	千泉	西 140-150	145.0	147.5	1.017	34.7	1.45	西	272	2	DIST	yes	agreed/agreed	town/town	visited
+01.07.07	白水城	01.07.06	呾邏私城	西南 200+	200.0	147.0	0.735	47.8	1.12	西南	244	19	DIST		agreed/disputed	town/town	visited
+01.09	赭時國	01.08	笯赤建國	西 200+	200.0	34.1	0.17	47.8	-0.34	西	236	34			uncertain/agreed	town/town	visited
+01.10	㤄捍國	01.09	赭時國	東南 1000+	1000.0	223.3	0.223	239.0	-0.07	東南	105	30			agreed/agreed	town/country	hearsay
+01.11	窣堵利瑟那國	01.10	㤄捍國	西 1000+	1000.0	275.3	0.275	239.0	0.14	西	248	22			agreed/agreed	country/town	visited
+01.12	颯秣建國	01.11	窣堵利瑟那國	西北 500+	500.0	159.7	0.319	119.5	0.29	西北	266	49		yes	agreed/agreed	town/town	visited
+01.15	屈霜你迦國	01.14	劫布呾那國	西 300+	300.0	38.3	0.128	71.7	-0.63	西	291	21			uncertain/disputed	town/town	visited
+01.16	喝捍國	01.15	屈霜你迦國	西 200+	200.0	110.9	0.554	47.8	0.84	西	287	17	DIST		disputed/disputed	town/town	visited
+01.17	捕喝國	01.16	喝捍國	西 400+	400.0	93.6	0.234	95.6	-0.02	西	241	29			disputed/agreed	town/town	visited
+01.18	伐地國	01.17	捕喝國	西 400+	400.0	105.3	0.263	95.6	0.1	西	224	46			agreed/disputed	town/town	visited
+01.19	貨利習彌伽國	01.18	伐地國	西南 500+	500.0	371.4	0.743	119.5	1.13	西南	319	94	DIST;BEARING		disputed/agreed	town/country	visited
+01.20	羯霜那國	01.12	颯秣建國	西南 300+	300.0	66.6	0.222	71.7	-0.07	西南	190	35		yes	agreed/agreed	town/town	visited
+01.20.01	鐵門	01.20	羯霜那國	西南 200+ + 東南 300+	500.0	88.0	0.176	119.5	-0.31	西南+東南	177				agreed/agreed	town/site	visited
+01.36	揭職國	01.32	縛喝國	南 100+	100.0	94.0	0.94	23.9	1.37	南	163	17	DIST		agreed/agreed	town/district	visited
+01.37	梵衍那國	01.36	揭職國	東南 600+	600.0	138.0	0.23	143.4	-0.04	東南	155	20			agreed/agreed	district/district	visited
+01.38.01	質子伽藍	01.38	迦畢試國	東 3-4	3.5	7.4	2.106	0.8	2.22	東	99	9			agreed/uncertain	district/site	
+01.38.02	曷邏怙羅僧伽藍	01.38	迦畢試國	東南 30+	30.0	8.5	0.285	7.2	0.17	東南	121	14			agreed/uncertain	district/site	
+01.38.03	霫蔽多伐剌祠城	01.38	迦畢試國	南 40+	40.0	11.5	0.286	9.6	0.18	南	166	14			agreed/agreed	district/site	
+01.38.04	大雪山 (龍池・迦膩色迦王伽藍)	01.38	迦畢試國	西北 200+	200.0	11.4	0.057	47.8	-1.43	西北	287	28	DIST		agreed/uncertain	district/site	
+02.02	濫波國	01.38	迦畢試國	東 600+	600.0	95.0	0.158	143.4	-0.41	東	112	22			agreed/agreed	district/district	visited
+02.03	那揭羅曷國	02.02	濫波國	東南 100+	100.0	34.6	0.346	23.9	0.37	東南	140	5			agreed/uncertain	district/district	visited
+02.03.02	燃燈佛受記窣堵波	02.03	那揭羅曷國	東 2	2.0	4.7	2.359	0.5	2.24	東	104				uncertain/uncertain	district/site	visited
+02.03.03	瞿波羅龍窟（佛影窟）	02.03	那揭羅曷國	西南 20+	20.0	9.3	0.463	4.8	0.66	西南	224	1			uncertain/uncertain	district/site	visited
+02.03.05	醯羅城	02.03	那揭羅曷國	東南 30+	30.0	8.0	0.267	7.2	0.11	東南	167	32			uncertain/agreed	district/site	visited
+02.04	健馱邏國	02.03.05	醯羅城	東南 500+	500.0	143.6	0.287	119.5	0.18	東南	101	34			agreed/agreed	site/district	visited
+02.04.09	布色羯邏伐底城	02.04.06	迦膩色迦伽藍	東北 50+	50.0	22.6	0.452	11.9	0.64	東北	38	7	DIST		uncertain/agreed	site/site	visited
+02.04.15	彈多落迦山	02.04.14	跋虜沙城	東北 20+	20.0	4.3	0.216	4.8	-0.11	東北	40				agreed/agreed	site/site	visited
+02.04.17	毘摩天女像（崇山）	02.04.14	跋虜沙城	東北 50+	50.0	9.8	0.196	11.9	-0.19	東北	110	65	BEARING		agreed/agreed	site/site	visited
+02.04.19	娑羅覩邏邑	02.04.18	烏鐸迦漢荼城	西北 20+	20.0	6.8	0.341	4.8	0.35	西北	289	26			agreed/agreed	site/town	visited
+03.01	烏仗那國	02.04.18	烏鐸迦漢荼城	北 600+	600.0	99.0	0.165	143.4	-0.37	北	358	2			agreed/agreed	site/district	visited
+03.01.05	醯羅山	03.01.01a	瞢揭釐城	南 400+	400.0	19.0	0.048	95.6	-1.62	南	145	35	DIST		disputed/agreed	town/site	visited
+03.01.06	摩訶伐那伽藍	03.01.01a	瞢揭釐城	南 200+	200.0	11.0	0.055	47.8	-1.47	南	144	36	DIST		disputed/uncertain	town/site	visited
+03.01.10	上軍王窣堵波	03.01.01a	瞢揭釐城	西南 60-70	65.0	15.6	0.24	15.5	0.01	西南	225	0			disputed/agreed	town/site	visited
+03.01.16	達麗羅川	03.01.01a	瞢揭釐城	東北 1000+	1000.0	136.1	0.136	239.0	-0.56	東北	46	1			disputed/agreed	town/district	visited
+03.02	鉢露羅國	03.01.16	達麗羅川	東 500+	500.0	197.9	0.396	119.5	0.5	東	100	10			agreed/agreed	district/country	hearsay
+03.03.02	醫羅鉢呾羅龍王池	03.03	呾叉始羅國	西北 70+	70.0	14.3	0.205	16.7	-0.16	西北	303	12			agreed/agreed	district/site	visited
+03.03.04	捨頭窣堵波	03.03	呾叉始羅國	北 12-13	12.5	7.2	0.578	3.0	0.88	北	40	40			agreed/agreed	district/site	visited
+03.04	僧訶補羅國	03.03	呾叉始羅國	東南 700+	700.0	115.9	0.166	167.3	-0.37	東南	172	37			agreed/agreed	district/site	visited
+03.04.03	僧訶補羅城東南石窣堵波	03.04	僧訶補羅國	東南 40-50	45.0	0.0	0.0	10.8		東南	0		DIST		agreed/uncertain	site/site	visited
+03.06	迦濕彌羅國	03.05	烏剌尸國	東南 1000+	1000.0	172.4	0.172	239.0	-0.33	東南	89	46			agreed/agreed	town/district	visited
+03.06.07	觀自在菩薩小伽藍	03.06.06	佛牙伽藍	南 14-15	14.5	2.9	0.199	3.5	-0.19	南	140				uncertain/uncertain	site/site	visited
+03.06.09	索建地羅論師小伽藍	03.06.06	佛牙伽藍	東 10+	10.0	2.2	0.215	2.4	-0.09	東	59				uncertain/uncertain	site/site	visited
+03.06.11	大衆部伽藍	03.06	迦濕彌羅國	西 140-150	145.0	54.1	0.373	34.7	0.44	西	291	21			agreed/uncertain	district/district	visited
+03.07	半笯嗟國	03.06	迦濕彌羅國	西南 700+	700.0	70.4	0.101	167.3	-0.87	西南	249	24	DIST		agreed/agreed	district/town	visited
+03.08	曷邏闍補羅國	03.07	半笯嗟國	東南 400+	400.0	47.9	0.12	95.6	-0.69	東南	155	20		yes	agreed/agreed	town/town	visited
+04.01	磔迦國	03.08	曷邏闍補羅國	東南 700+	700.0	197.9	0.283	167.3	0.17	東南	180	45			agreed/uncertain	town/country	visited
+04.01.02	奢羯羅故城	04.01	磔迦國	西南 14-15	14.5	101.3	6.987	3.5	3.37	西南	12	147	BEARING		uncertain/disputed	country/town	
+04.02	至那僕底國	04.01	磔迦國	東 500+	500.0	53.1	0.106	119.5	-0.81	東	68	22	DIST		uncertain/disputed	country/site	visited
+04.02.03	答秣蘇伐那僧伽藍	04.02	至那僕底國	東南 50+	50.0	72.9	1.458	11.9	1.81	東南	150	15	DIST		disputed/agreed	site/town	
+04.03	闍爛達羅國	04.02.03	答秣蘇伐那僧伽藍	東北 140-150	145.0	38.5	0.266	34.7	0.1	東北	70	25		yes	agreed/agreed	town/town	visited
+04.04	屈露多國	04.03	闍爛達羅國	東北 700+	700.0	174.7	0.25	167.3	0.04	東北	59	14		yes	agreed/agreed	town/town	visited
+04.04a	洛護羅國	04.04	屈露多國	北 1800-1900	1850.0	52.4	0.028	442.1	-2.13	北	339	21	DIST		agreed/disputed	town/district	hearsay
+04.04b	秣邏娑國	04.04a	洛護羅國	北 2000+	2000.0	185.7	0.093	478.0	-0.95	北	18	18	DIST		disputed/disputed	district/country	hearsay
+04.05	設多圖盧國	04.04	屈露多國	南 700+	700.0	181.5	0.259	167.3	0.08	南	204	24			agreed/uncertain	town/town	visited
+04.06	波理夜呾羅國	04.05	設多圖盧國	西南 800+	800.0	355.3	0.444	191.2	0.62	西南	183	42	DIST		uncertain/agreed	town/town	visited
+04.07	秣菟羅國	04.06	波理夜呾羅國	東 500+	500.0	147.1	0.294	119.5	0.21	東	88	2		yes	agreed/agreed	town/town	visited
+04.08	薩他泥濕伐羅國	04.07	秣菟羅國	東北 500+	500.0	287.7	0.575	119.5	0.88	東北	344	61	DIST;BEARING	yes	agreed/agreed	town/town	visited
+04.11	婆羅吸摩補羅國	04.10.05	摩裕羅城	北 300+	300.0	68.8	0.229	71.7	-0.04	北	62	62	BEARING	yes	agreed/agreed	site/town	visited
+04.12	瞿毘霜那國	04.10	秣底補羅國	東南 400+	400.0	85.6	0.214	95.6	-0.11	東南	120	15			disputed/agreed	district/site	unclear
+04.13	堊醯掣呾羅國	04.12	瞿毘霜那國	東南 400+	400.0	95.5	0.239	95.6	-0.0	東南	170	35		yes	agreed/agreed	site/site	visited
+04.14	毘羅刪拏國	04.13	堊醯掣呾羅國	南 260-270	265.0	93.4	0.352	63.3	0.39	南	180	0		yes	agreed/agreed	site/town	visited
+04.15	劫比他國	04.14	毘羅刪拏國	東南 200+	200.0	26.2	0.131	47.8	-0.6	東南	148	13			agreed/disputed	town/site	visited
+04.15.02	三寶階	04.15	劫比他國	東 20+	20.0	0.0	0.0	4.8		東	0				disputed/disputed	site/site	
+05.01	羯若鞠闍國	04.15	劫比他國	東南 200	200.0	71.4	0.357	47.8	0.4	東南	116	19			disputed/agreed	site/town	visited
+05.03	阿耶穆佉國	05.02	阿踰陀國	東 300+	300.0	62.9	0.21	71.7	-0.13	東	34	56	BEARING		disputed/uncertain	town/district	visited
+05.04	鉢邏耶伽國	05.03	阿耶穆佉國	東南 700+	700.0	81.3	0.116	167.3	-0.72	東南	154	19	DIST		uncertain/agreed	district/town	visited
+05.05	憍賞彌國	05.04	鉢邏耶伽國	西南 500+	500.0	47.5	0.095	119.5	-0.92	西南	257	32	DIST	yes	agreed/agreed	town/site	visited
+06.02	劫比羅伐窣堵國	06.01	室羅伐悉底國	東南 500+	500.0	99.8	0.2	119.5	-0.18	東南	86	49		yes	agreed/agreed	site/site	visited
+06.03	藍摩國	06.02	劫比羅伐窣堵國	東 200+	200.0	82.0	0.41	47.8	0.54	東	101	11			agreed/disputed	site/town	visited
+07.02	戰主國	07.01	婆羅痆斯國	東 300+	300.0	64.1	0.214	71.7	-0.11	東	63	27		yes	agreed/agreed	town/town	visited
+07.04	弗栗恃國	07.03	吠舍釐國	東北 500+	500.0	103.4	0.207	119.5	-0.14	東北	62	17			agreed/agreed	site/district	unclear
+07.05	尼波羅國	07.04	弗栗恃國	西北 1400-1500	1450.0	163.4	0.113	346.6	-0.75	西北	332	17	DIST		agreed/agreed	district/district	hearsay
+08.04.02	大山 (佛入定山)	08.04.01	鞮羅擇迦伽藍	西南 90+	90.0	22.7	0.252	21.5	0.05	西南	211	14			agreed/agreed	town/site	unclear
+08.05.01a	伽耶山	08.05.01	伽耶城	西南 5-6	5.5	2.4	0.444	1.3	0.61	西南	204				agreed/agreed	town/site	unclear
+09.01.03	屈屈吒播陀山 (窶盧播陀山)	09.01.02a	莫訶河	東 100+	100.0	33.3	0.333	23.9	0.33	東	44	46			uncertain/disputed	district/site	visited
+09.02.03b	孤山 (廣博仙人)	08.04.02	大山 (佛入定山)	北 3-4	3.5	29.5	8.433	0.8	3.61	北	109	109	BEARING		agreed/agreed	site/site	unclear
+09.02.04	矩奢掲羅補羅城 (上茅宮城)	08.04.02	大山 (佛入定山)	東 60+	60.0	36.0	0.6	14.3	0.92	東	91	1	DIST		agreed/agreed	site/site	visited
+09.02.17a	無憂王堵波・石柱 (迦蘭陀池西北)	09.02.17	迦蘭陀池	西北 2-3	2.5	0.9	0.363	0.6	0.41	西北	270				agreed/uncertain	site/site	visited
+09.03.13	迦布徳迦伽藍	09.03.11	因陀羅勢羅窶訶山	東北 150-160	155.0	19.5	0.126	37.0	-0.64	東北	0	45		yes	agreed/agreed	site/town	visited
+09.03.14	孤山 (觀自在菩薩像)	09.03.13	迦布徳迦伽藍	南 2-3	2.5	0.0	0.0	0.6		南	0				agreed/uncertain	town/town	visited
+10.02	瞻波國	10.01	伊爛拏鉢伐多國	東 300+	300.0	50.4	0.168	71.7	-0.35	東	107	17		yes	agreed/agreed	town/town	visited
+10.03	羯朱嗢祇羅國	10.02	瞻波國	東 400+	400.0	92.3	0.231	95.6	-0.04	東	104	14		yes	agreed/agreed	town/town	visited
+10.04	奔那伐彈那國	10.03	羯朱嗢祇羅國	東 600+	600.0	151.5	0.252	143.4	0.05	東	93	3		yes	agreed/agreed	town/site	visited
+10.05	迦摩縷波國	10.04	奔那伐彈那國	東 900+	900.0	277.2	0.308	215.1	0.25	東	60	30			agreed/disputed	site/town	visited
+10.06	三摩呾吒國	10.05	迦摩縷波國	南 1200-1300	1250.0	315.0	0.252	298.8	0.05	南	194	14			disputed/disputed	town/town	visited
+10.07	耽摩栗底國	10.06	三摩呾吒國	西 900+	900.0	339.7	0.377	215.1	0.46	西	249	21			disputed/agreed	town/town	visited
+10.08	羯羅拏蘇伐剌那國	10.07	耽摩栗底國	西北 700+	700.0	195.1	0.279	167.3	0.15	西北	10	55	BEARING	yes	agreed/agreed	town/site	visited
+10.09	烏荼國	10.08	羯羅拏蘇伐剌那國	西南 700+	700.0	380.7	0.544	167.3	0.82	西南	218	7	DIST		agreed/disputed	site/country	visited
+10.10	恭御陀國	10.09.03	折利呾羅城	西南 1200+	1200.0	109.6	0.091	286.8	-0.96	西南	253	28	DIST		disputed/agreed	town/site	visited
+10.11	羯𩜁伽國	10.10	恭御陀國	西南 1400-1500	1450.0	143.1	0.099	346.6	-0.88	西南	218	7	DIST		agreed/disputed	site/country	visited
+10.12	憍薩羅國	10.11	羯𩜁伽國	西北 1800+	1800.0	368.7	0.205	430.2	-0.15	西北	329	14			disputed/disputed	country/town	visited
+10.13	案達羅國	10.12.05	跋邏末羅耆釐山	南 900+	900.0	201.8	0.224	215.1	-0.06	南	81	99	BEARING		uncertain/agreed	site/town	visited
+10.14	駄那羯磔迦國	10.13	案達羅國	南 1000+	1000.0	85.2	0.085	239.0	-1.03	南	252	72	DIST;BEARING		agreed/disputed	town/town	visited
+10.15	珠利耶國	10.14	駄那羯磔迦國	西南 1000+	1000.0	240.0	0.24	239.0	0.0	西南	189	36			disputed/disputed	town/town	visited
+10.16	達羅毘荼國	10.15	珠利耶國	南 1500-1600	1550.0	181.7	0.117	370.4	-0.71	南	190	10	DIST		disputed/agreed	town/town	visited
+10.17	秣羅矩吒國	10.16	達羅毘荼國	南 3000+	3000.0	365.6	0.122	717.0	-0.67	南	208	28		yes	agreed/agreed	town/town	hearsay
+11.01	僧伽羅國	10.17	秣羅矩吒國	東南 3000+	3000.0	306.4	0.102	717.0	-0.85	東南	125	10	DIST	yes	agreed/agreed	town/town	hearsay
+11.02	恭建那補羅國	10.16	達羅毘荼國	北 2000+	2000.0	445.4	0.223	478.0	-0.07	北	309	51	BEARING		agreed/disputed	town/town	visited
+11.03	摩訶剌侘國	11.02	恭建那補羅國	西北 2400-2500	2450.0	590.9	0.241	585.5	0.01	西北	331	16			disputed/disputed	town/district	visited
+11.04	跋祿羯呫婆國	11.03	摩訶剌侘國	西 1000+	1000.0	206.9	0.207	239.0	-0.14	西	336	66	BEARING		disputed/agreed	district/town	visited
+11.05	摩臘婆國	11.04	跋祿羯呫婆國	西北 2000+	2000.0	352.3	0.176	478.0	-0.31	西北	61	106	BEARING		agreed/disputed	town/country	visited
+11.06	阿吒釐國	11.05	摩臘婆國	西北 2400-2500	2450.0	587.6	0.24	585.5	0.0	西北	265	50			disputed/uncertain	country/district	unclear
+11.09	阿難陀補羅國	11.08	伐臘毘國	西北 700+	700.0	226.2	0.323	167.3	0.3	西北	20	65	BEARING		agreed/disputed	town/town	visited
+11.10	蘇剌侘國	11.08	伐臘毘國	西 500+	500.0	151.8	0.304	119.5	0.24	西	255	15		yes	agreed/agreed	town/town	visited
+11.11	瞿折羅國	11.08	伐臘毘國	北 1800+	1800.0	350.3	0.195	430.2	-0.21	北	6	6			agreed/disputed	town/town	visited
+11.12	鄔闍衍那國	11.11	瞿折羅國	東南 2800+	2800.0	409.7	0.146	669.2	-0.49	東南	119	16			disputed/agreed	town/town	visited
+11.15	信度國	11.14	摩醯濕伐羅補羅國	北 1900+	1900.0	925.8	0.487	454.1	0.71	北	282	78	DIST;BEARING		disputed/agreed	town/town	visited
+11.16	茂羅三部盧國	11.15	信度國	東 900+	900.0	377.9	0.42	215.1	0.56	東	39	51	BEARING	yes	agreed/agreed	town/town	visited
+11.17	鉢伐多國	11.16	茂羅三部盧國	東北 700+	700.0	141.6	0.202	167.3	-0.17	東北	70	25			agreed/disputed	town/site	visited
+11.18	阿點婆翅羅國	11.15	信度國	西南 1500-1600	1550.0	362.0	0.234	370.4	-0.02	西南	213	12		yes	agreed/agreed	town/town	visited
+11.19	狼揭羅國	11.18	阿點婆翅羅國	西 2000	2000.0	396.9	0.198	478.0	-0.19	西	353	83	BEARING	yes	agreed/agreed	town/town	visited
+11.21	臂多勢羅國	11.18	阿點婆翅羅國	北 700+	700.0	149.1	0.213	167.3	-0.12	北	66	66	BEARING	yes	agreed/agreed	town/town	visited
+11.22	阿軬荼國	11.21	臂多勢羅國	東北 300+	300.0	69.5	0.232	71.7	-0.03	東北	38	7			agreed/uncertain	town/town	visited
+11.23	伐剌拏國	11.22	阿軬荼國	東北 900+	900.0	809.5	0.899	215.1	1.33	東北	12	33	DIST		uncertain/uncertain	town/town	visited
+12.02	弗栗恃薩儻那國	12.01	漕矩吒國	北 500+	500.0	229.2	0.458	119.5	0.65	北	43	43	DIST		uncertain/disputed	country/country	visited
+12.04	闊悉多國	12.03	安呾羅縛國	西北 400+	400.0	28.9	0.072	95.6	-1.2	西北	328	13	DIST		agreed/uncertain	district/district	visited
+12.05	活國	12.04	闊悉多國	西北 300+	300.0	100.2	0.334	71.7	0.33	西北	348	33			uncertain/agreed	district/town	visited
+12.06	瞢健國	01.28a	活國	東 100+	100.0	23.0	0.23	23.9	-0.04	東	104	14			agreed/uncertain	town/town	visited
+12.09	訖栗瑟摩國	12.06	瞢健國	東 300+	300.0	89.2	0.297	71.7	0.22	東	81	9			uncertain/agreed	town/town	hearsay
+12.11	呬摩呾羅國	12.09	訖栗瑟摩國	東 300+ + 東 300+	600.0	33.1	0.055	143.4	-1.47	東+東	70		DIST		agreed/uncertain	town/district	visited
+12.12	鉢鐸創那國	12.11	呬摩呾羅國	東 200+	200.0	50.1	0.251	47.8	0.05	東	77	13			uncertain/agreed	district/country	visited
+12.13	淫薄健國	12.12	鉢鐸創那國	東南 200+	200.0	47.9	0.24	47.8	0.0	東南	202	67	BEARING		agreed/agreed	country/district	visited
+12.14	屈浪拏國	12.13	淫薄健國	東南 300+	300.0	66.9	0.223	71.7	-0.07	東南	184	49			agreed/agreed	district/district	visited
+12.15	達摩悉鐵帝國	12.14	屈浪拏國	東北 500+	500.0	174.3	0.349	119.5	0.38	東北	52	7			agreed/agreed	district/district	visited
+12.17.02	波謎羅川	12.17	商彌國	東北 700+	700.0	200.2	0.286	167.3	0.18	東北	39	6			agreed/agreed	district/district	visited
+12.18	朅盤陀國	12.17.02	波謎羅川	東南 500+	500.0	182.2	0.364	119.5	0.42	東南	72	63	BEARING		agreed/agreed	district/town	visited
+12.19.02	大山	12.19	烏鎩國	西 200+	200.0	49.4	0.247	47.8	0.03	西	270	0			disputed/disputed	town/site	unclear
+12.20	佉沙國	12.19	烏鎩國	北 500+	500.0	162.3	0.325	119.5	0.31	北	318	42			disputed/agreed	town/town	visited
+12.21	斫句迦國	12.20	佉沙國	東南 500+	500.0	216.4	0.433	119.5	0.59	東南	144	9		yes	agreed/agreed	town/town	visited
+12.22	瞿薩旦那國	12.21	斫句迦國	東 800+	800.0	236.5	0.296	191.2	0.21	東	111	21			agreed/agreed	town/district	visited
+12.22.15	覩貨邏故國	12.22.13	尼攘城	東 400+	400.0	103.3	0.258	95.6	0.08	東	99	9		yes	agreed/agreed	site/site	visited
+12.22.16	折摩馱那故國	12.22.15	覩貨邏故國	東 600+	600.0	148.4	0.247	143.4	0.03	東	77	13		yes	agreed/agreed	site/town	visited
+12.22.17	納縛波故國	12.22.16	折摩馱那故國	東北 1000+	1000.0	291.5	0.291	239.0	0.2	東北	65	20			agreed/agreed	town/district	visited

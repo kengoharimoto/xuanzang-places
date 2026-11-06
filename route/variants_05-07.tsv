@@ -1,0 +1,48 @@
+id	name_zh	t2087_legs	t2088_text	t2088_legs	t2088_ref	t2053_text	t2053_legs	t2053_ref	mz_variant	mz_pdf_page	differs	note
+05.01	羯若鞠闍國	東南 200	從此西北減二百里至。羯若鞠闍國	西北 <200	T51:0957c	從此西北行二百里，至羯若鞠闍國。	西北 200	T50:0233b	東南宋元明本及び『慈恩伝』には「西北」に作るが、『法顕伝』等他の遊記によれば「東南」を正しとする。	179	bearing	2088 and Life (with Song/Yuan/Ming eds.) 西北 for 東南; Kanauj lies SE of Sankisa, so 西北 is a slip; no effect on identification
+05.01.09	納縛提婆矩羅城	東南 100+	城東南百餘里。有納縛提婆城	東南 100+	T51:0958b						none	Life omits Navadevakula
+05.02	阿踰陀國	東南 600+	又東南行六百餘里渡殑伽河南至。阿輸陀國	東南 600+	T51:0958b	自此東南行六百餘里，渡殑伽河，南至阿踰陀國	東南 600+	T50:0233c			route	Life: 600 li from Kanyakubja itself (no Navadevakula), i.e. Ayodhyā 600 li from Kanauj instead of 100+600 = 700+
+05.03	阿耶穆佉國	東 300+	自此東行三百餘里。度殑伽北至。阿耶穆佉國	東 300+	T51:0958b	從此東行三百餘里，渡殑伽河，北至阿耶穆佉國	東 300+	T50:0234b			none	Life adds that he went downstream by boat (pirate episode c. 100 li out); figures agree
+05.04	鉢邏耶伽國	東南 700+	又東南行七百餘里渡殑伽河。南閻牟那河北至。鉢羅伽耶國	東南 700+	T51:0958b	從此東南行七百餘里，渡殑伽河南、閻牟那河北，至鉢羅耶伽國	東南 700+	T50:0234b			none	
+05.05	憍賞彌國	西南 500+	自此西南大林野行。五百餘里至憍賞彌國	西南 500+	T51:0958c	從此西南入大林，多逢惡獸、野象。經五百餘里，至憍賞彌國	西南 500+	T50:0234b	『慈恩伝』巻五に「鉢羅耶伽国を発し、西南のかた大林野の中を行くこと七日にして僑賞弥国に至る」とある記事の、五百里と言い、七日という文字から相当遠方の地点を考えた	196	none	all three read 500; no text supports 50. Life juan 5 (T50:0249b) gives the return march with Harṣa as 七日 (自發鉢羅耶伽國西南大林野中，行七日); Kosam (c. 50-60 km) fits 7 slow royal stages, not 500 li
+05.05.06	迦奢布羅城	東北 700+	窟東北大林中行七百餘里。度殑伽北岸至迦奢布羅城	東北 700+	T51:0958c				『慈恩伝』に当地の記事不見。疑問として残す	199	route	Life omits Kāśapura entirely (goes Kauśāmbī → Viśākha direct); Mizutani doubts it was visited
+05.06	鞞索迦國	北 170-180 + 東 500+	自北行一百八十里至鞞索迦國	北 180	T51:0958c	從此東行五百餘里，至鞞索迦國	東 500+	T50:0234c	これより北へ行くこと百七、八十里 『慈恩伝』には迦奢布羅城の記事を出さず、賞弥国具史羅長者の記事に続け、「此れより東に行くこと五百余里、興索迦国に至る」とする。	199	route	Life: Kauśāmbī E 500+ to Viśākha, skipping Kāśapura; segments' '東 500+' is the Life's leg, T2087 itself has only 北 170-180 from Kāśapura. Life's 500 li from Kosam is far shorter than T2087's 700+170 and suits Viśākha in the Ayodhyā/Lucknow region
+06.01	室羅伐悉底國	東北 500+	自此東北五百餘里。至　室羅伐悉底國	東北 500+	T51:0959a	從此東北行五百餘里，至室羅伐悉底國	東北 500+	T50:0234c			none	
+06.01.04	逝多林給孤獨園	南 5-6	城南六里許逝多林	南 6	T51:0959a	城南五六里有逝多林	南 5-6	T50:0234c			none	2088 rounds to 6
+06.01.13	得眼林	西北 3-4	寺西北四里有得眼林	西北 4	T51:0959b						none	Life omits
+06.01.14	迦葉波佛本生城	西北 60+	城西北六十里故城	西北 60	T51:0959b	大城西北六十餘里有故城	西北 60+	T50:0235a			none	
+06.02	劫比羅伐窣堵國	東南 500+	又東南行五百餘里。至。劫比羅伐窣堵國	東南 500+	T51:0959b	從此東南行八百餘里，至劫比羅伐窣堵國	東南 800+	T50:0235a	五(『伝』八とす) 百余里	209	li	Life 八百 for 五百 (2088 agrees with 500); 500 li fits Saheth-Maheth → Tilaurakot/Piprahwa (c. 100-130 km), 800 does not
+06.02.05	迦羅迦村馱佛本生城	南 50+	城南五十里故城中塔	南 50	T51:0959b						none	Life omits
+06.02.05a	迦諾迦牟尼佛本生城	東北 30+	又東北三十餘里故城中塔	東北 30+	T51:0959b						none	
+06.02.06	贍部樹蔭	東北 40+	城東北四十餘里。有太子坐樹下塔	東北 40+	T51:0959b						none	
+06.02.08	尼拘律樹林 (尼拘盧陀僧伽藍)	南 3-4	城南四里尼拘盧林塔	南 4	T51:0959b						none	
+06.02.10	箭泉	東南 30+	東南三十餘里。是太子射矢沒地因涌泉流	東南 30+	T51:0959c						none	
+06.02.11	臘伐尼林	東北 80-90	又東北九十里臘伐尼林	東北 90	T51:0959c						none	2088 rounds to 90
+06.03	藍摩國	東 200+	從此東行二百餘里。荒林中至。藍摩國	東 200+	T51:0959c	從此東行荒林五百餘里，至藍摩國	東 500+	T50:0235a	二百余里『慈恩伝』には比羅伐率堵国の都城を起点にして、「此れよ東のかた荒林を行くこと五百余里、藍摩国に至る」とする。	219	route	Life: 500 li from Kapilavastu city, not 200 from Lumbinī; 2088 = 200; Mizutani prefers 200. Since Lumbinī is c. 80-90 li NE of the city, the Life's 500 makes Rāmagrāma far further east
+06.03.03	太子迴駕・剃髮窣堵波	東 100+	又東大林百餘里大塔	東 100+	T51:0959c	沙彌伽藍東大林中行百餘里，有窣堵波	東 100+	T50:0235b			none	
+06.03.04	尼拘盧陀林灰炭窣堵波	東南 180-190	又東南野行百九十里。尼拘陀林塔	東南 190	T51:0959c						none	Life omits the ash stupa and goes from the tonsure stupa straight out of the forest to Kuśinagara
+06.04	拘尸那揭羅國		又東北大林路險五百里。至。拘尸那揭羅國	東北 500	T51:0959c	出此林已，至拘尸那揭羅國		T50:0235b			li	row added (no li_lo in segments): T2087 and Life give no distance; 2088 alone gives 東北 500 from the ash stupa (Life starts from the tonsure stupa). Only figure for Rāmagrāma→Kuśinagara; with 100+190+500 li the Kasia identification lies well within range
+06.04.03	娑羅林 (如來寂滅之所)	西北 3-4	城西北四里。度阿恃多伐底河	西北 4	T51:0960a	城西北三四里，渡阿恃多伐底河	西北 3-4	T50:0235b			none	2088 rounds to 4
+06.04.03a	阿恃多伐底河	西北 3-4	城西北四里。度阿恃多伐底河	西北 4	T51:0960a	城西北三四里，渡阿恃多伐底河	西北 3-4	T50:0235b			none	2088 rounds to 4
+06.04.14	大邑聚 (羅怙羅)	西南 200+	此西南行二百餘里至大邑	西南 200+	T51:0960a						none	
+07.01	婆羅痆斯國		又大林行五百餘里。至。婆羅痆廝國	500+	T51:0960a	從此復大林中經五百餘里，至婆羅痆斯國	500+	T50:0235b			none	row added (no li_lo in segments though T2087 has 行五百餘里); no bearing in any text
+07.01.02a	鹿野伽藍	東北 10+	河東北十餘里鹿野寺也	東北 10+	T51:0960a	渡婆羅痆斯河東北行十餘里，至鹿野伽藍	東北 10+	T50:0235c			none	
+07.01.10	五人迎佛窣堵波	西南 2-3	寺西南三里。大塔高三十丈	西南 3	T51:0960b						none	
+07.01.11	救命池 (烈士池)	東 2-3	大林東三里塔者	東 3	T51:0960b						none	2088 大林 for 施鹿林
+07.02	戰主國	東 300+	寺東順殑伽河三百餘里。東至戰主國	東 300+	T51:0960b	從此順殑伽河流東行三百餘里，至戰主國	東 300+	T50:0235c			none	2088 counts from the Mṛgadāva monastery
+07.02.02	阿避陀羯剌拏僧伽藍	東 200+	城東北二百餘里至阿避陀羯賴拏寺	東北 200+	T51:0960b						bearing	2088 東北 for 東; Life omits
+07.02.03	摩訶娑羅邑	東南 100+	寺東南渡殑河百餘里至大邑	東南 100+	T51:0960c						none	
+07.02.03b	伏鬼窣堵波	東 30+	又東南三十餘里有降鬼塔	東南 30+	T51:0960c						bearing	2088 東南 for 東
+07.02.04	瓶窣堵波	東南 100+	又東南渡河百餘里塔者	東南 100+	T51:0960c						none	2088 adds a river crossing
+07.03	吠舍釐國	東北 140-150	又東北渡殑伽河百五十里。至。吠舍釐國	東北 150	T51:0960c	從此東北渡殑伽河行百四五十里，至吠舍釐國	東北 140-150	T50:0235c			route	Life gives no sub-sites in Zhanzhu and its 從此 is the Zhanzhu capital, so 140-150 li from the capital, not from the jar stupa 400+ li further on; on the Life's reckoning Zhanzhu's capital is much nearer Vaiśālī than the Ghazipur identification allows
+07.03.02	宮城西北伽藍 (說毘摩羅詰經處)	西北 5-6	宮城西北六里。寺塔是說淨名處	西北 6	T51:0960c	宮城西北五六里有一伽藍	西北 5-6	T50:0235c			none	
+07.03.06	毘摩羅詰故宅	東北 3	寺東北四里許塔。是淨名故宅	東北 4	T51:0960c	次東北三四里有窣堵波，是毘摩羅詰故宅	東北 3-4	T50:0235c	伽藍の東北三里(宋本は三、四里)に堵	248	li	Song ed. and Life 三四里, 2088 四里 for 三里; trivial
+07.03.07	菴沒羅女園	北 3-4	寺北四里塔。佛將往拘尸天人送立處	北 4	T51:0960c	次北三四里有窣堵波，是佛將往拘尸那國般涅槃	北 3-4	T50:0236a			none	
+07.03.12	栗呫婆子別如來處	西北 50-60	城西北六十里大塔。是佛別栗呫婆子處	西北 60	T51:0960c						none	
+07.03.13	吠舍釐城西北故城 (摩訶提婆本生)	西北 200	大城西北減二百里故城塔	西北 <200	T51:0960c						none	
+07.03.14	七百賢聖結集窣堵波	東南 14-15	國城東南十五里大塔	東南 15	T51:0961a						none	
+07.03.15	濕吠多補羅僧伽藍	南 80-90	又南減百里。大寺層臺重起	南 <100	T51:0961a	從吠舍釐南境去殑伽河百餘里，到吠多補羅城		T50:0236a	『慈恩伝』三によれば「吠舎の南境より硫伽河を去ること 百余里、湿吠多補羅城に到り	255	none	Life locates Śvetapura by distance from the Ganges/southern border, not from the Council stupa; compatible
+07.03.16	阿難陀分身窣堵波	東南 30+	寺東三十里。殑伽河南北岸各一塔	東 30	T51:0961a						bearing	2088 東 for 東南
+07.04	弗栗恃國	東北 500+	從北岸東北行五百餘里。至。弗栗恃國	東北 500+	T51:0961a						route	Life omits Vṛji and Nepal (goes from Vaiśālī south to Magadha), consistent with Vṛji being a side-trip or hearsay
+07.04.03	度漁人東北故城	東北 100+	又東北百餘里故城西	東北 100+	T51:0961a						none	
+07.05	尼波羅國	西北 1400-1500	又西北千五百里。入山谷至。尼波羅國	西北 1500	T51:0961a						none	2088's preceding 又北百五十里佛髮爪塔 turns T2087's 百四五十歩 into 里; Life omits Nepal

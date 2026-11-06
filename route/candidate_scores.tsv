@@ -1,0 +1,343 @@
+id	candidate	proposer	n_segments	mean_abs_z	mean_bearing_off	n_precise	z_precise	bearing_precise	detail	note
+01.07	Kara-yulgun (Karayalghan)	Watters 1904; Xinjiang tuzhi (via Mizutani)	2	0.35	8	1	0.19	11	←01.06.04 西 600+: 157 km (pred 143), z +0.2, bearing off 11° | →01.07.01 西北 300+: 92 km (pred 72), z +0.5, bearing off 5° [neighbour imprecise]	approx: station on the Aksu-Bai road c. 55 km ENE of Aksu
+01.07	Yaka-aryk	Chavannes (via Mizutani)	2	0.57	11	1	0.34	7	←01.06.04 西 600+: 122 km (pred 143), z -0.3, bearing off 7° | →01.07.01 西北 300+: 107 km (pred 72), z +0.8, bearing off 15° [neighbour imprecise]	approx: station on the Aksu-Bai road between Kara-yulgun and Bai; Huang Wenbi's Qarabag ruins lie NW of it
+01.07	Aksu region (old Gumo), Xinjiang	Mizutani	2	0.69	27	1	0.79	15	←01.06.04 西 600+: 211 km (pred 143), z +0.8, bearing off 15° | →01.07.01 西北 300+: 96 km (pred 72), z +0.6, bearing off 39° [neighbour imprecise]	from data/coords.tsv
+01.07	Aksu town	Vivien 1858; Beal 1884; Watters 1904	2	0.69	27	1	0.79	15	←01.06.04 西 600+: 211 km (pred 143), z +0.8, bearing off 15° | →01.07.01 西北 300+: 96 km (pred 72), z +0.6, bearing off 39° [neighbour imprecise]	modern Aksu (St. Martin, Watters, Smith, Pelliot per Mizutani); same point as Mizutani's label
+01.07	Bai (Baicheng)	Xu Song (via Mizutani)	2	1.45	22	1	1.46	10	←01.06.04 西 600+: 70 km (pred 143), z -1.5, bearing off 10° | →01.07.01 西北 300+: 146 km (pred 72), z +1.4, bearing off 34° [neighbour imprecise]	modern Baicheng county town
+01.07.01	Tianshan main range N of Aksu (Pik Pobeda / Khan-Tengri)	Mizutani	1	0.6	39	0			←01.07 西北 300+: 96 km (pred 72), z +0.6, bearing off 39° [neighbour imprecise]	from data/coords.tsv
+01.07.01	Muzart pass (Muzart dawan)	Julien 1858; Beal 1884; Watters 1904	1	1.2	67	0			←01.07 西北 300+: 130 km (pred 72), z +1.2, bearing off 67° [neighbour imprecise]	approx: Muzart pass over the Tianshan N of Aksu/Bai
+01.07.01	Bedel pass	Hori; Takata (via Mizutani)	1	1.54	35	0			←01.07 西北 300+: 153 km (pred 72), z +1.5, bearing off 35° [neighbour imprecise]	Bedel pass on the Kyrgyz border NW of Uqturpan
+01.07.05	district N of the Alexandrovsky range between Aulie-ata and Aksu	Watters 1904	1	2.15	2	1	2.15	2	→01.07.06 西 140-150: 100 km (pred 35), z +2.2, bearing off 2°	approx: midpoint of the Kirgiz-range foothills between Taraz and Merke
+01.07.05	Merke, Kazakhstan	Mizutani	1	2.94	2	1	2.94	2	→01.07.06 西 140-150: 148 km (pred 35), z +2.9, bearing off 2°	from data/coords.tsv
+01.07.06	Tersa, 35 mi W of Aulie-ata	Beal 1884	2	2.54	3	2	2.54	3	←01.07.05 西 140-150: 204 km (pred 35), z +3.6, bearing off 2° | →01.07.07 西南 200+: 100 km (pred 48), z +1.5, bearing off 3°	approx: 35 mi W of Taraz per Beal
+01.07.06	Talas ruins near Taraz (Dzhambul), Kazakhstan	Mizutani	2	2.61	10	2	2.61	10	←01.07.05 西 140-150: 148 km (pred 35), z +2.9, bearing off 2° | →01.07.07 西南 200+: 147 km (pred 48), z +2.3, bearing off 19°	from data/coords.tsv
+01.07.06	Turkestan town (Yasi)	Vivien 1858	2	3.74	51	2	3.74	51	←01.07.05 西 140-150: 402 km (pred 35), z +5.0, bearing off 9° | →01.07.07 西南 200+: 165 km (pred 48), z +2.5, bearing off 93°	modern Turkistan
+01.07.07	Mankent (Ak-su)	Watters 1904	1	2.11	24	1	2.11	24	←01.07.06 西南 200+: 135 km (pred 48), z +2.1, bearing off 24°	approx: c. 15 mi NE of Shymkent per Watters (Mizutani: c. 26 km NE)
+01.07.07	Sayram, E of Shymkent, Kazakhstan	Mizutani	1	2.28	19	1	2.28	19	←01.07.06 西南 200+: 147 km (pred 48), z +2.3, bearing off 19°	from data/coords.tsv
+01.07.08	a few leagues N of Sayram	Vivien 1858	2	3.42	72	2	3.42	72	←01.07.07 西南 200+: 17 km (pred 48), z -2.1, bearing off 135° | →01.08 南 40-50: 110 km (pred 11), z +4.7, bearing off 8°	approx: Vivien's guess by distance, c. 15 km N of Sayram
+01.08	Nujkath = Chirchik (Kosh-kurgan), NE of Tashkent	Mizutani	1	0.69	34	1	0.69	34	→01.09 西 200+: 34 km (pred 48), z -0.7, bearing off 34°	from data/coords.tsv
+01.14	Kabudhanjakath, N of Samarkand (Bulungur)	Mizutani	1	1.27	21	1	1.27	21	→01.15 西 300+: 38 km (pred 72), z -1.3, bearing off 21°	from data/coords.tsv
+01.14	Keboud, 2 parasangs N (slightly W) of Samarkand	Vivien 1858	1	1.82	32	1	1.82	32	→01.15 西 300+: 29 km (pred 72), z -1.8, bearing off 32°	approx: 2 parasangs (c. 12 km) N of Samarkand per Vivien
+01.14	Mitan district	Watters 1904	1	4.25	141	1	4.25	141	→01.15 西 300+: 9 km (pred 72), z -4.3, bearing off 141°	approx: c. 30 mi NW of Samarkand per Watters
+01.15	Panj-shamba district	Watters 1904	2	0.4	20	2	0.4	20	←01.14 西 300+: 99 km (pred 72), z +0.6, bearing off 13° | →01.16 西 200+: 52 km (pred 48), z +0.2, bearing off 27°	approx: c. 60 mi W/NW of Samarkand per Watters
+01.15	Kashania half-way Samarkand-Bukhara	Beal 1884; Vivien 1858	2	0.56	24	2	0.56	24	←01.14 西 300+: 103 km (pred 72), z +0.7, bearing off 2° | →01.16 西 200+: 58 km (pred 48), z +0.4, bearing off 47°	approx: c. 60 mi W of Samarkand, N of the Zeravshan, per Beal
+01.15	Kushaniya, c. 40 km NW of Samarkand	Mizutani	2	1.49	19	2	1.49	19	←01.14 西 300+: 38 km (pred 72), z -1.3, bearing off 21° | →01.16 西 200+: 111 km (pred 48), z +1.7, bearing off 17°	from data/coords.tsv
+01.16	Kharghankath (Kalkanata), c. 8-9 km N of Kermine (Navoiy)	Mizutani	2	0.87	23	2	0.87	23	←01.15 西 200+: 111 km (pred 48), z +1.7, bearing off 17° | →01.17 西 400+: 94 km (pred 96), z -0.0, bearing off 29°	from data/coords.tsv
+01.16	Kermine (Navoiy)	Julien 1858; Vivien 1858; Watters 1904	2	0.91	18	2	0.91	18	←01.15 西 200+: 110 km (pred 48), z +1.7, bearing off 12° | →01.17 西 400+: 89 km (pred 96), z -0.1, bearing off 24°	modern Navoiy (Kermine)
+01.18	Betik (Farab), Oxus crossing opposite Chardjui	Vivien 1858; Beal 1884; Julien 1858	2	1.16	69	1	0.04	45	←01.17 西 400+: 97 km (pred 96), z +0.0, bearing off 45° | →01.19 西南 500+: 368 km (pred 120), z +2.3, bearing off 92° [neighbour imprecise]	modern Farab on the right bank opposite Türkmenabat
+01.18	Darganata district	Watters 1904	2	1.18	56	1	1.56	23	←01.17 西 400+: 207 km (pred 96), z +1.6, bearing off 23° | →01.19 西南 500+: 176 km (pred 120), z +0.8, bearing off 88° [neighbour imprecise]	Darganata on the left bank of the Amu Darya
+01.18	Near Chardzhou (Türkmenabat) on the Amu Darya	Mizutani	2	1.25	70	1	0.2	46	←01.17 西 400+: 105 km (pred 96), z +0.2, bearing off 46° | →01.19 西南 500+: 371 km (pred 120), z +2.3, bearing off 94° [neighbour imprecise]	from data/coords.tsv
+01.19	Khwarizm, lower Amu Darya	Mizutani	1	2.3	94	1	2.3	94	←01.18 西南 500+: 371 km (pred 120), z +2.3, bearing off 94°	from data/coords.tsv
+01.19	Khiva	Watters 1904; Dey 1927	1	2.31	89	1	2.31	89	←01.18 西南 500+: 374 km (pred 120), z +2.3, bearing off 89°	
+01.32	Balkh	Mizutani	1	2.78	17	0			→01.36 南 100+: 94 km (pred 24), z +2.8, bearing off 17° [neighbour imprecise]	from data/coords.tsv
+01.36	Gaz (Darah-Gaz), c. 20 mi S of Balkh	Beal 1884	2	0.65	10	1	0.61	0	←01.32 南 100+: 32 km (pred 24), z +0.6, bearing off 0° | →01.37 東南 600+: 202 km (pred 143), z +0.7, bearing off 20° [neighbour imprecise]	approx: 20 mi S of Balkh per Beal
+01.36	Darrah Gaz, up the Dara-i-Suf, S of Balkh	Mizutani	2	1.43	19	1	2.78	17	←01.32 南 100+: 94 km (pred 24), z +2.8, bearing off 17° | →01.37 東南 600+: 138 km (pred 143), z -0.1, bearing off 20° [neighbour imprecise]	from data/coords.tsv
+01.37.02	Azhdahar (dragon) rock W of Bamiyan	Watters 1904 (after Yule); Foucher (via Mizutani)	1	5.59	166	0			←01.37 東 2-3: 9 km (pred 1), z +5.6, bearing off 166° [neighbour imprecise]	Darra-i Ajdahar c. 8 km W of Bamiyan; Foucher reads W 12 li, text has E 2-3 li
+01.38	Kapisa basin (Begram/Charikar), Afghanistan	Mizutani	5	1.77	17	4	2.01	16	→01.38.01 東 3-4: 7 km (pred 1), z +4.4, bearing off 9° | →01.38.02 東南 30+: 9 km (pred 7), z +0.4, bearing off 14° | →01.38.03 南 40+: 11 km (pred 10), z +0.4, bearing off 14° | →01.38.04 西北 200+: 11 km (pred 48), z -2.9, bearing off 28° | →02.02 東 600+: 95 km (pred 143), z -0.8, bearing off 22° [neighbour imprecise]	from data/coords.tsv
+01.38	Nijrao / Tagao valleys	Vivien 1858	5	2.71	89	4	3.0	103	→01.38.01 東 3-4: 25 km (pred 1), z +6.9, bearing off 177° | →01.38.02 東南 30+: 25 km (pred 7), z +2.5, bearing off 125° | →01.38.03 南 40+: 31 km (pred 10), z +2.4, bearing off 69° | →01.38.04 西北 200+: 43 km (pred 48), z -0.2, bearing off 40° | →02.02 東 600+: 67 km (pred 143), z -1.6, bearing off 33° [neighbour imprecise]	approx: Nijrab valley E of the Panjshir
+01.38	Opian (Hupian) near Charikar	Cunningham 1871	5	2.85	32	4	3.39	34	→01.38.01 東 3-4: 15 km (pred 1), z +5.9, bearing off 26° | →01.38.02 東南 30+: 17 km (pred 7), z +1.7, bearing off 9° | →01.38.03 南 40+: 19 km (pred 10), z +1.4, bearing off 29° | →01.38.04 西北 200+: 5 km (pred 48), z -4.5, bearing off 71° | →02.02 東 600+: 103 km (pred 143), z -0.7, bearing off 24° [neighbour imprecise]	approx: Opian just N of Charikar
+01.38	Kushan, 10 mi W of Opian	Beal 1884; Dey 1927	5	3.19	55	4	3.89	63	→01.38.01 東 3-4: 32 km (pred 1), z +7.4, bearing off 18° | →01.38.02 東南 30+: 33 km (pred 7), z +3.1, bearing off 21° | →01.38.03 南 40+: 32 km (pred 10), z +2.5, bearing off 52° | →01.38.04 西北 200+: 13 km (pred 48), z -2.6, bearing off 160° | →02.02 東 600+: 119 km (pred 143), z -0.4, bearing off 22° [neighbour imprecise]	approx: 10 mi W of Opian per Dey
+01.38.01	Koh-i-Pahlvan / Shotorak, E of Begram	Mizutani	1	4.41	9	0			←01.38 東 3-4: 7 km (pred 1), z +4.4, bearing off 9° [neighbour imprecise]	from data/coords.tsv
+01.38.01	northern mountain near Charikar	Beal 1884	1	4.58	155	0			←01.38 東 3-4: 8 km (pred 1), z +4.6, bearing off 155° [neighbour imprecise]	approx: Charikar; Beal names only the town
+01.38.02	Kafir Qaleh, SE of Begram	Mizutani	1	0.35	14	0			←01.38 東南 30+: 9 km (pred 7), z +0.4, bearing off 14° [neighbour imprecise]	from data/coords.tsv
+01.38.03a	Chehel Dukhtaran peak, N end of the Siah-koh	Cunningham 1871; Beal 1884	1	4.18		1	4.18		←01.38.03 南 30+: 1 km (pred 7), z -4.2	approx: 3-6 mi S of Begram per Cunningham
+01.38.04	Hindu Kush c. 35 mi NW of Charikar	Cunningham 1871	1	0.55	4	0			←01.38 西北 200+: 63 km (pred 48), z +0.5, bearing off 4° [neighbour imprecise]	approx: 35 mi NW of Charikar per Cunningham; lake not traced
+01.38.04	Top-Darrah stupa near Charikar	Mizutani	1	2.9	28	0			←01.38 西北 200+: 11 km (pred 48), z -2.9, bearing off 28° [neighbour imprecise]	from data/coords.tsv
+02.03	Jalalabad basin	Mizutani	4	1.74	13	3	2.07	15	←02.02 東南 100+: 35 km (pred 24), z +0.7, bearing off 5° [neighbour imprecise] | →02.03.02 東 2: 5 km (pred 0), z +4.6, bearing off 14° | →02.03.03 西南 20+: 9 km (pred 5), z +1.3, bearing off 1° | →02.03.05 東南 30+: 8 km (pred 7), z +0.2, bearing off 32°	from data/coords.tsv
+02.03	Nagara ruins at the Surkh-rud-Kabul confluence, 4-5 mi W of Jalalabad	Dey 1927 (McCrindle); Cunningham 1871	4	2.19	20	3	2.76	21	←02.02 東南 100+: 30 km (pred 24), z +0.5, bearing off 16° [neighbour imprecise] | →02.03.02 東 2: 12 km (pred 0), z +6.5, bearing off 5° | →02.03.03 西南 20+: 7 km (pred 5), z +0.7, bearing off 53° | →02.03.05 東南 30+: 12 km (pred 7), z +1.0, bearing off 5°	approx: 4-5 mi W of Jalalabad per Dey
+02.03.02	Ahin-Posh stupa, E of Jalalabad	Mizutani	1	4.64	14	0			←02.03 東 2: 5 km (pred 0), z +4.6, bearing off 14° [neighbour imprecise]	from data/coords.tsv
+02.03.02	Nagara Goondee tope, 3 furlongs E/SE of the Nagar rock	Watters 1904 (Masson, Simpson)	1	4.99	169	0			←02.03 東 2: 6 km (pred 0), z +5.0, bearing off 169° [neighbour imprecise]	approx: by the Nagara ruins W of Jalalabad; depends on the capital
+02.03.03	Syah-sang rocks S of Chahar-bagh	Mizutani	1	1.34	1	0			←02.03 西南 20+: 9 km (pred 5), z +1.3, bearing off 1° [neighbour imprecise]	from data/coords.tsv
+02.04.02	immediately N of Shah-ji-ki-Dheri, c. 1.5 mi SE of Peshawar	Cunningham 1871; Cunningham ASR II	1	6.02	118	0			←02.04 東南 8-9: 40 km (pred 2), z +6.0, bearing off 118° [neighbour imprecise]	approx: 1.5 mi SE of old Peshawar per ASR II
+02.04.06	Gor Khattri, Peshawar	Mizutani	1	1.29	7	1	1.29	7	→02.04.09 東北 50+: 23 km (pred 12), z +1.3, bearing off 7°	from data/coords.tsv
+02.04.09	Charsadda (Bala Hisar)	Mizutani	1	1.29	7	1	1.29	7	←02.04.06 東北 50+: 23 km (pred 12), z +1.3, bearing off 7°	from data/coords.tsv
+02.04.09	Nisatta	Vivien 1858	1	1.39	14	1	1.39	14	←02.04.06 東北 50+: 24 km (pred 12), z +1.4, bearing off 14°	approx: left bank of the Kabul a little below the Swat confluence
+02.04.14	Shahbaz Garhi	Mizutani	2	0.3	35	2	0.3	35	→02.04.15 東北 20+: 4 km (pred 5), z -0.2, bearing off 5° | →02.04.17 東北 50+: 10 km (pred 12), z -0.4, bearing off 65°	from data/coords.tsv
+02.04.14	Palodheri	Cunningham 1871; Watters 1904; Beal 1884	2	0.37	86	2	0.37	86	→02.04.15 東北 20+: 4 km (pred 5), z -0.6, bearing off 84° | →02.04.17 東北 50+: 13 km (pred 12), z +0.1, bearing off 89°	approx: 8 mi NW of Karamar per ASR II p. 92; abandoned by Cunningham ASR V
+02.04.14	Takht-i-Bahi	Beal 1884 (query)	2	2.48	56	2	2.48	56	→02.04.15 東北 20+: 22 km (pred 5), z +3.1, bearing off 51° | →02.04.17 東北 50+: 30 km (pred 12), z +1.9, bearing off 62°	
+02.04.17	Karamar hill, ENE of Shahbaz Garhi	Mizutani	1	0.41	65	1	0.41	65	←02.04.14 東北 50+: 10 km (pred 12), z -0.4, bearing off 65°	from data/coords.tsv
+02.04.17	near Jamalgarhi	Beal 1884	1	0.47	122	1	0.47	122	←02.04.14 東北 50+: 15 km (pred 12), z +0.5, bearing off 122°	approx: Jamal Garhi ruins
+02.04.17	Takht-i-Bahi	Dey 1927	1	1.05	119	1	1.05	119	←02.04.14 東北 50+: 20 km (pred 12), z +1.1, bearing off 119°	
+02.04.18	Hund (Ohind), on the Indus	Mizutani	2	0.74	14	1	0.72	26	→02.04.19 西北 20+: 7 km (pred 5), z +0.7, bearing off 26° | →03.01 北 600+: 99 km (pred 143), z -0.8, bearing off 2° [neighbour imprecise]	from data/coords.tsv
+03.01.01a	Mingora	Mizutani	4	1.85	18	3	2.09	24	→03.01.05 南 400+: 19 km (pred 96), z -3.3, bearing off 35° | →03.01.06 南 200+: 11 km (pred 48), z -3.0, bearing off 36° | →03.01.10 西南 60-70: 16 km (pred 16), z +0.0, bearing off 0° | →03.01.16 東北 1000+: 136 km (pred 239), z -1.1, bearing off 1° [neighbour imprecise]	from data/coords.tsv
+03.01.01a	Manglaor (Manglawar)	Cunningham 1871; Stein; Watters 1904; Majumdar 1924; Dey 1927	4	2.08	6	3	2.36	8	→03.01.05 南 400+: 18 km (pred 96), z -3.4, bearing off 12° | →03.01.06 南 200+: 11 km (pred 48), z -2.9, bearing off 5° | →03.01.10 西南 60-70: 23 km (pred 16), z +0.8, bearing off 9° | →03.01.16 東北 1000+: 129 km (pred 239), z -1.2, bearing off 0° [neighbour imprecise]	approx: c. 5 mi ENE of Mingora (Mizutani)
+03.01.03	Kalam, head of the Swat river	Watters 1904 (Deane); Majumdar 1924	1	0.59	31	1	0.59	31	←03.01.01a 東北 250-260: 81 km (pred 61), z +0.6, bearing off 31°	
+03.01.05	Mount Ilam, S of Mingora	Mizutani	1	3.27	35	1	3.27	35	←03.01.01a 南 400+: 19 km (pred 96), z -3.3, bearing off 35°	from data/coords.tsv
+03.01.06	Mahaban mountain (Buner)	Cunningham 1871; Cunningham ASR II	1	0.07	23	1	0.07	23	←03.01.01a 南 200+: 49 km (pred 48), z +0.1, bearing off 23°	approx: Mahaban summit
+03.01.06	Pinjkotai near Sunigram (Buner)	Stein (via Dey 1927)	1	0.37	12	1	0.37	12	←03.01.01a 南 200+: 40 km (pred 48), z -0.4, bearing off 12°	approx: c. 26 mi S of Manglaor per Dey
+03.01.06	Shinasi stupa at Kukrai, on the way to Ilam	Mizutani	1	2.99	36	1	2.99	36	←03.01.01a 南 200+: 11 km (pred 48), z -3.0, bearing off 36°	from data/coords.tsv
+03.01.07	Gogdara stupa, near Udegram	Mizutani	0			0				from data/coords.tsv
+03.01.07	Sura in the Chamla valley	Cunningham 1871; Cunningham ASR II	0			0				approx: 10 mi NW of Mahaban summit per Cunningham
+03.01.08	NW foot of Mahaban (Buner valley)	Cunningham 1871	1	1.95	115	1	1.95	115	←03.01.07 西 60-70: 41 km (pred 16), z +1.9, bearing off 115°	approx: NW foot of Mahaban
+03.03	Taxila	Mizutani	3	0.95	30	3	0.95	30	→03.03.02 西北 70+: 14 km (pred 17), z -0.3, bearing off 12° | →03.03.04 北 12-13: 7 km (pred 3), z +1.8, bearing off 40° | →03.04 東南 700+: 116 km (pred 167), z -0.7, bearing off 37°	from data/coords.tsv
+03.03	near Hasan Abdal	Vivien 1858	3	3.73	65	3	3.73	65	→03.03.02 西北 70+: 0 km (pred 17), z -7.1 | →03.03.04 北 12-13: 17 km (pred 3), z +3.5, bearing off 98° | →03.04 東南 700+: 126 km (pred 167), z -0.6, bearing off 32°	Hasan Abdal; Vivien also allows an old site 7-8 mi E/SE of it
+03.04	Malot (Mallot)	Cunningham ASR II; Cunningham ASR V	2	0.6	49	1	0.46	53	←03.03 東南 700+: 117 km (pred 167), z -0.7, bearing off 44° [neighbour imprecise] | →03.04.03 東南 40-50: 14 km (pred 11), z +0.5, bearing off 53°	approx: 9 mi W of Ketas per ASR V
+03.04	Sangohi, 10 mi SW of Jhelum	Vivien 1858	2	2.04	66	1	3.51	123	←03.03 東南 700+: 126 km (pred 167), z -0.6, bearing off 9° [neighbour imprecise] | →03.04.03 東南 40-50: 61 km (pred 11), z +3.5, bearing off 123°	approx: 10 mi SW of Jhelum town per Vivien
+03.04	Ketas (Katas Raj), Salt Range	Mizutani	2	3.48	37	1	6.22		←03.03 東南 700+: 116 km (pred 167), z -0.7, bearing off 37° [neighbour imprecise] | →03.04.03 東南 40-50: 0 km (pred 11), z -6.2	from data/coords.tsv
+03.04.03	Murti mound, Gandhala valley	Stein (Jhelam 1907)	1	0.92	23	1	0.92	23	←03.04 東南 40-50: 7 km (pred 11), z -0.9, bearing off 23°	approx: 4.5 mi from Ketas (chained) down the Gandhala valley per Jhelam 1907
+03.04.03	Ketas sacred pools	Mizutani	1	6.22		1	6.22		←03.04 東南 40-50: 0 km (pred 11), z -6.2	same point as the capital (Mizutani reads 4-5 li)
+03.04.07	Mera, 9 mi E of the Manikyala tope	Cunningham ASR XIV	1	0.97	171	1	0.97	171	→03.05 東南 500+: 74 km (pred 120), z -1.0, bearing off 171°	approx: 9 mi E of Manikyala per ASR XIV; the 'thup' is a Muslim tomb
+03.06	Kashmir valley	Mizutani	3	1.11	30	2	1.21	35	←03.05 東南 1000+: 172 km (pred 239), z -0.7, bearing off 46° | →03.06.11 西 140-150: 54 km (pred 35), z +0.9, bearing off 21° [neighbour imprecise] | →03.07 西南 700+: 70 km (pred 167), z -1.8, bearing off 24°	from data/coords.tsv
+03.06.06	S slope of Takht-i-Sulaiman, Srinagar	Mizutani	2	0.29		2	0.29		→03.06.07 南 14-15: 3 km (pred 3), z -0.4 | →03.06.09 東 10+: 2 km (pred 2), z -0.2	from data/coords.tsv
+03.06.06	near Pandrethan	Cunningham 1871	2	0.89		2	0.89		→03.06.07 南 14-15: 1 km (pred 3), z -1.8 | →03.06.09 東 10+: 2 km (pred 2), z +0.0	approx: Pandrethan, SE of Srinagar
+03.06.07	Near Pandrethan	Mizutani	1	0.37		1	0.37		←03.06.06 南 14-15: 3 km (pred 3), z -0.4	from data/coords.tsv
+03.06.09	Valley NE of the hill S of the Palace Hotel, Srinagar	Mizutani	1	0.21		1	0.21		←03.06.06 東 10+: 2 km (pred 2), z -0.2	from data/coords.tsv
+03.06.11	Baramula-Rampur stretch of the Jhelum	Mizutani	1	0.9	21	0			←03.06 西 140-150: 54 km (pred 35), z +0.9, bearing off 21° [neighbour imprecise]	from data/coords.tsv
+03.07	Punch (Poonch)	Mizutani	2	1.58	22	1	1.4	20	←03.06 西南 700+: 70 km (pred 167), z -1.8, bearing off 24° [neighbour imprecise] | →03.08 東南 400+: 48 km (pred 96), z -1.4, bearing off 20°	from data/coords.tsv
+04.01	2 mi NE of Sialkot	Majumdar 1924	3	0.61	37	3	0.61	37	←03.08 東南 700+: 100 km (pred 167), z -1.1, bearing off 31° | →04.01.02 西南 14-15: 4 km (pred 3), z +0.1, bearing off 7° | →04.02 東 500+: 85 km (pred 120), z -0.7, bearing off 73°	approx: 2 mi NE of Sialkot per Majumdar
+04.01	Asarur (Tse-kia)	Cunningham 1871; Cunningham ASR II	3	2.44	82	3	2.44	82	←03.08 東南 700+: 181 km (pred 167), z +0.2, bearing off 65° | →04.01.02 西南 14-15: 109 km (pred 3), z +7.0, bearing off 176° | →04.02 東 500+: 111 km (pred 120), z -0.2, bearing off 4°	approx: 19 mi NE of Sangla hill, 45 mi from Lahore per ASR II
+04.01	Punjab plain between Beas and Chenab	Mizutani	3	2.94	72	3	2.94	72	←03.08 東南 700+: 198 km (pred 167), z +0.3, bearing off 45° | →04.01.02 西南 14-15: 101 km (pred 3), z +6.8, bearing off 147° | →04.02 東 500+: 53 km (pred 120), z -1.6, bearing off 22°	from data/coords.tsv
+04.01	Amritsar (Tchek)	Vivien 1858	3	3.71	84	3	3.71	84	←03.08 東南 700+: 202 km (pred 167), z +0.4, bearing off 30° | →04.01.02 西南 14-15: 101 km (pred 3), z +6.8, bearing off 117° | →04.02 東 500+: 17 km (pred 120), z -3.9, bearing off 106°	
+04.01.02	near Sanga, 4 lieues SW of Amritsar	Vivien 1858	1	5.12	125	0			←04.01 西南 14-15: 43 km (pred 3), z +5.1, bearing off 125° [neighbour imprecise]	approx: 4 lieues SW of Amritsar per Vivien
+04.01.02	Sanglawala Tibba (Sangla hill)	Cunningham 1871; Beal 1884; Cunningham ASR II	1	6.4	54	0			←04.01 西南 14-15: 81 km (pred 3), z +6.4, bearing off 54° [neighbour imprecise]	31 43'N 73 27'E per Mizutani
+04.01.02	Sialkot	Mizutani	1	6.84	147	0			←04.01 西南 14-15: 101 km (pred 3), z +6.8, bearing off 147° [neighbour imprecise]	from data/coords.tsv
+04.02	Patti	Cunningham 1871; Beal 1884; Lahore 1883	2	1.67	33	1	2.07	32	←04.01 東 500+: 64 km (pred 120), z -1.3, bearing off 34° [neighbour imprecise] | →04.02.03 東南 50+: 33 km (pred 12), z +2.1, bearing off 32°	
+04.02	Ferozpore	Smith (via Mizutani)	2	2.11	72	1	3.43	75	←04.01 東 500+: 81 km (pred 120), z -0.8, bearing off 69° [neighbour imprecise] | →04.02.03 東南 50+: 65 km (pred 12), z +3.4, bearing off 75°	
+04.02	Chiniyari, between Amritsar and Sialkot	Mizutani	2	2.65	19	1	3.67	15	←04.01 東 500+: 53 km (pred 120), z -1.6, bearing off 22° [neighbour imprecise] | →04.02.03 東南 50+: 73 km (pred 12), z +3.7, bearing off 15°	coords.tsv point lies midway Amritsar-Sialkot; Chine itself is 11 mi from Amritsar (see Cunningham ASR XIV row)
+04.02	Chine (Chiniyari), 11 mi from Amritsar on the Sialkot road	Cunningham ASR XIV	2	2.65	19	1	3.67	15	←04.01 東 500+: 53 km (pred 120), z -1.6, bearing off 22° [neighbour imprecise] | →04.02.03 東南 50+: 73 km (pred 12), z +3.7, bearing off 15°	approx: 11 mi N/NNW of Amritsar on the Pasrur road per ASR XIV (Mizutani's coords.tsv point is further N)
+04.02	Katoch country (Kangra)	Vivien 1858	2	3.0	54	1	5.01	91	←04.01 東 500+: 194 km (pred 120), z +1.0, bearing off 17° [neighbour imprecise] | →04.02.03 東南 50+: 142 km (pred 12), z +5.0, bearing off 91°	Kangra region
+04.02.03	Sultanpur (Lodhi), SE of Amritsar	Mizutani	2	1.94	20	2	1.94	20	←04.02 東南 50+: 73 km (pred 12), z +3.7, bearing off 15° | →04.03 東北 140-150: 39 km (pred 35), z +0.2, bearing off 25°	from data/coords.tsv
+04.02.03	Beas-Sutlej confluence	Vivien 1858	2	2.37	31	2	2.37	31	←04.02 東南 50+: 69 km (pred 12), z +3.6, bearing off 35° | →04.03 東北 140-150: 62 km (pred 35), z +1.2, bearing off 28°	Harike confluence
+04.04	Makarsa	Cunningham 1871	3	1.23	21	2	0.14	26	←04.03 東北 700+: 160 km (pred 167), z -0.1, bearing off 23° | →04.04a 北 1800-1900: 82 km (pred 442), z -3.4, bearing off 12° [neighbour imprecise] | →04.05 南 700+: 153 km (pred 167), z -0.2, bearing off 28°	approx: lower Kulu (Hurla-Bajaura area); old capital site uncertain
+04.04	Kulu; old capital Nagar	Mizutani	3	1.53	20	2	0.13	19	←04.03 東北 700+: 175 km (pred 167), z +0.1, bearing off 14° | →04.04a 北 1800-1900: 52 km (pred 442), z -4.3, bearing off 21° [neighbour imprecise] | →04.05 南 700+: 181 km (pred 167), z +0.2, bearing off 24°	from data/coords.tsv
+04.04	Jagatsukh (Nast)	Atkinson (Himalayan districts II 1884)	3	1.66	21	2	0.21	18	←04.03 東北 700+: 181 km (pred 167), z +0.2, bearing off 12° | →04.04a 北 1800-1900: 46 km (pred 442), z -4.6, bearing off 28° [neighbour imprecise] | →04.05 南 700+: 190 km (pred 167), z +0.3, bearing off 24°	
+04.04a	Lahul	Mizutani	2	3.12	19	1	4.32	21	←04.04 北 1800-1900: 52 km (pred 442), z -4.3, bearing off 21° | →04.04b 北 2000+: 186 km (pred 478), z -1.9, bearing off 18° [neighbour imprecise]	from data/coords.tsv
+04.04b	Ladakh	Mizutani	1	1.92	18	0			←04.04a 北 2000+: 186 km (pred 478), z -1.9, bearing off 18° [neighbour imprecise]	from data/coords.tsv
+04.05	Sarhind	Mizutani	2	0.71	33	2	0.71	33	←04.04 南 700+: 181 km (pred 167), z +0.2, bearing off 24° | →04.06 西南 800+: 355 km (pred 191), z +1.3, bearing off 42°	from data/coords.tsv
+04.06	Bairat (Viratnagar), Rajasthan	Mizutani	2	0.84	22	2	0.84	22	←04.05 西南 800+: 355 km (pred 191), z +1.3, bearing off 42° | →04.07 東 500+: 147 km (pred 120), z +0.4, bearing off 2°	from data/coords.tsv
+04.07	Mathura	Mizutani	2	1.1	32	2	1.1	32	←04.06 東 500+: 147 km (pred 120), z +0.4, bearing off 2° | →04.08 東北 500+: 288 km (pred 120), z +1.8, bearing off 61°	from data/coords.tsv
+04.07.03	Katra mound (W suburb)	Cunningham ASR I; Cunningham ASR III	1	0.48		1	0.48		←04.07 東 5-6: 2 km (pred 1), z +0.5	Katra Keshav Dev
+04.07.03	Kankali Tila	Growse (via Mizutani); Dey 1927	1	0.72		1	0.72		←04.07 東 5-6: 1 km (pred 1), z -0.7	SW of the town
+04.07.03	old fort on the Jumna, 1 mi E of the Katra	Cunningham ASR XVII; Cunningham ASR XX	1	1.37		1	1.37		←04.07 東 5-6: 3 km (pred 1), z +1.4	approx: 1 mi E of the Katra
+04.08	Thanesar	Mizutani	1	1.78	61	1	1.78	61	←04.07 東北 500+: 288 km (pred 120), z +1.8, bearing off 61°	from data/coords.tsv
+04.08.04	near Gunana, 17 mi SSW of Thanesar	Cunningham 1871; Cunningham ASR II	2	0.36	15	2	0.36	15	←04.08 南 100+: 28 km (pred 24), z +0.3, bearing off 23° | →04.09 東北 400+: 77 km (pred 96), z -0.4, bearing off 7°	approx: 17 mi SSW of Thanesar per ASR II
+04.08.04	Sita Mai monastery, 4 mi from Gunana	Karnal 1884	2	0.42	10	2	0.42	10	←04.08 南 100+: 29 km (pred 24), z +0.4, bearing off 16° | →04.09 東北 400+: 76 km (pred 96), z -0.5, bearing off 4°	approx: c. 4 mi from Gunana per Karnal 1884 (direction not given)
+04.10	Mandawar (Madawar), near Bijnor	Cunningham 1871; Cunningham ASR I; Vivien 1858; Dey 1927	1	0.21	25	1	0.21	25	→04.12 東南 400+: 86 km (pred 96), z -0.2, bearing off 25°	29 29'N 78 08'E per Mizutani
+04.10	E bank of the Ganges opposite Srughna (Bijnor area)	Mizutani	1	0.22	15	1	0.22	15	→04.12 東南 400+: 86 km (pred 96), z -0.2, bearing off 15°	from data/coords.tsv
+04.10.05	Haridwar (Mayapur)	Mizutani	1	0.08	62	1	0.08	62	→04.11 北 300+: 69 km (pred 72), z -0.1, bearing off 62°	from data/coords.tsv
+04.10.05	E bank of the Ganges opposite Hardwar	Vivien 1858	1	0.16	60	1	0.16	60	→04.11 北 300+: 66 km (pred 72), z -0.2, bearing off 60°	approx
+04.10.05	Amroha	Vivien 1858 (alternative)	1	1.51	11	1	1.51	11	→04.11 北 300+: 151 km (pred 72), z +1.5, bearing off 11°	
+04.11	Srinagar (Garhwal)	Mizutani	1	0.08	62	1	0.08	62	←04.10.05 北 300+: 69 km (pred 72), z -0.1, bearing off 62°	coords.tsv point from Mizutani's 30 14'N 78 37'E; Srinagar town itself is at c. 78.78E
+04.11	Barahat (Uttarkashi)	Atkinson (Himalayan districts II 1884)	1	0.52	18	1	0.52	18	←04.10.05 北 300+: 92 km (pred 72), z +0.5, bearing off 18°	50 mi due N of Hardwar per Atkinson
+04.11	Lakhanpur / Vairatpattan on the Ramganga	Cunningham 1871; Almora 1981	1	0.97	93	1	0.97	93	←04.10.05 北 300+: 116 km (pred 72), z +1.0, bearing off 93°	approx: Lakhanpur near Chaukhutia
+04.12	1 mile E of Kashipur, Uttarakhand	Mizutani	2	0.11	25	1	0.0	35	←04.10 東南 400+: 86 km (pred 96), z -0.2, bearing off 15° [neighbour imprecise] | →04.13 東南 400+: 96 km (pred 96), z -0.0, bearing off 35°	from data/coords.tsv
+04.12	Dhikuli on the Kosi	Atkinson (Himalayan districts II 1884); Himalayan districts III 1886	2	0.25	39	1	0.42	45	←04.10 東南 400+: 92 km (pred 96), z -0.1, bearing off 33° [neighbour imprecise] | →04.13 東南 400+: 118 km (pred 96), z +0.4, bearing off 45°	approx: Dhikuli near Ramnagar
+04.12	Vairatpattan (Lakhanpur)	Fuhrer (via Majumdar 1924)	2	0.77	57	1	1.16	52	←04.10 東南 400+: 115 km (pred 96), z +0.4, bearing off 61° [neighbour imprecise] | →04.13 東南 400+: 169 km (pred 96), z +1.2, bearing off 52°	approx: Lakhanpur near Chaukhutia
+04.12	c. 3 lieues E of Chandausi	Vivien 1858	2	1.81	20	1	2.79	23	←04.10 東南 400+: 145 km (pred 96), z +0.8, bearing off 17° [neighbour imprecise] | →04.13 東南 400+: 24 km (pred 96), z -2.8, bearing off 23°	approx: plotted by compass per Vivien
+04.13	Ramnagar (Ahichchhatra), Bareilly district	Mizutani	2	0.39	18	2	0.39	18	←04.12 東南 400+: 96 km (pred 96), z -0.0, bearing off 35° | →04.14 南 260-270: 93 km (pred 63), z +0.8, bearing off 0°	from data/coords.tsv
+04.13	3-4 lieues NE of Bisauli	Vivien 1858	2	0.5	22	2	0.5	22	←04.12 東南 400+: 90 km (pred 96), z -0.1, bearing off 40° | →04.14 南 260-270: 98 km (pred 63), z +0.9, bearing off 5°	approx: plotted per Vivien
+04.14	Karsana	Vivien 1858	2	0.62	17	2	0.62	17	←04.13 南 260-270: 78 km (pred 63), z +0.4, bearing off 30° | →04.15 東南 200+: 72 km (pred 48), z +0.8, bearing off 3°	approx: 4 mi N of Atranji-Khera per ASR I
+04.14	Atranji-Khera	Cunningham 1871; Beal 1884; Cunningham ASR I	2	0.64	18	2	0.64	18	←04.13 南 260-270: 84 km (pred 63), z +0.6, bearing off 28° | →04.15 東南 200+: 67 km (pred 48), z +0.7, bearing off 7°	approx: Atranjikhera, N of Etah
+04.14	Bilsar (Bilsad), Etah district	Mizutani	2	1.0	7	2	1.0	7	←04.13 南 260-270: 93 km (pred 63), z +0.8, bearing off 0° | →04.15 東南 200+: 26 km (pred 48), z -1.2, bearing off 13°	from data/coords.tsv
+04.15	Sankisa	Mizutani	3	2.2	16	3	2.2	16	←04.14 東南 200+: 26 km (pred 48), z -1.2, bearing off 13° | →04.15.02 東 20+: 0 km (pred 5), z -4.6 | →05.01 東南 200: 71 km (pred 48), z +0.8, bearing off 19°	from data/coords.tsv
+04.15	near Pitiali (Patiali), NE Etah district	Smith (via Mizutani, Majumdar 1924)	3	2.69	77	3	2.69	77	←04.14 東南 200+: 21 km (pred 48), z -1.7, bearing off 166° | →04.15.02 東 20+: 47 km (pred 5), z +4.6, bearing off 58° | →05.01 東南 200: 114 km (pred 48), z +1.8, bearing off 7°	approx: Patiali town
+04.15.02	Sankisa	Mizutani	1	4.58		1	4.58		←04.15 東 20+: 0 km (pred 5), z -4.6	from data/coords.tsv
+04.15.02	near Pitiali (Patiali), NE Etah district	Smith (via Mizutani, Majumdar 1924)	1	4.63	122	1	4.63	122	←04.15 東 20+: 47 km (pred 5), z +4.6, bearing off 122°	approx: Patiali town
+05.01	Kannauj	Mizutani	1	0.81	19	1	0.81	19	←04.15 東南 200: 71 km (pred 48), z +0.8, bearing off 19°	from data/coords.tsv
+05.01.09	Nohbatganj opposite Nanamau ghat	Vivien 1858; Cunningham ASR I; Watters 1904	2	0.3	6	2	0.3	6	←05.01 東南 100+: 27 km (pred 24), z +0.2, bearing off 3° | →05.02 東南 600+: 174 km (pred 143), z +0.4, bearing off 9°	approx: 2 lieues W of Bangarmau per Vivien
+05.01.09	Newal, 2 mi N of Bangarmau	Cunningham ASR XI; Majumdar 1924; Dey 1927	2	0.48	15	2	0.48	15	←05.01 東南 100+: 32 km (pred 24), z +0.6, bearing off 18° | →05.02 東南 600+: 171 km (pred 143), z +0.4, bearing off 12°	approx: 2 mi N of Bangarmau per ASR XI
+05.01.09	Deokali on the Chota Ganga, 4 mi SE of Kanauj	Cunningham 1871 (alternative)	2	1.6	5	2	1.6	5	←05.01 東南 100+: 7 km (pred 24), z -2.6, bearing off 3° | →05.02 東南 600+: 193 km (pred 143), z +0.6, bearing off 7°	approx: 4 mi SE of Kannauj
+05.02	Kutia-Gunir NW of Fatehpur	Cunningham ASR XI	1	0.22	4	0			→05.03 東 300+: 80 km (pred 72), z +0.2, bearing off 4° [neighbour imprecise]	approx: NW of Fatehpur; village not fixed
+05.02	Aphui, 29 miles SE of Fatehpur	Mizutani	1	0.27	56	0			→05.03 東 300+: 63 km (pred 72), z -0.3, bearing off 56° [neighbour imprecise]	from data/coords.tsv
+05.02	Ayodhya (Ajudhya)	Vivien 1858; Watters 1904; Dey 1927; CII III (via Mizutani)	1	0.76	132	0			→05.03 東 300+: 104 km (pred 72), z +0.8, bearing off 132° [neighbour imprecise]	
+05.02	Kakupur, 1 mi N of Seorajpur	Cunningham 1871; Cunningham ASR I	1	1.56	23	0			→05.03 東 300+: 155 km (pred 72), z +1.6, bearing off 23° [neighbour imprecise]	approx: c. 20 mi NW of Cawnpore per Cunningham
+05.03	Daundia Khera	Cunningham 1871; Cunningham ASR I	2	0.23	68	2	0.23	68	←05.02 東 300+: 76 km (pred 72), z +0.1, bearing off 126° | →05.04 東南 700+: 142 km (pred 167), z -0.3, bearing off 10°	approx: N bank of the Ganges, Unnao district
+05.03	Rae Bareli-Pratapgarh area	Mizutani	2	0.86	38	2	0.86	38	←05.02 東 300+: 63 km (pred 72), z -0.3, bearing off 56° | →05.04 東南 700+: 81 km (pred 167), z -1.5, bearing off 19°	from data/coords.tsv
+05.03	Tusaran Bihar	Cunningham ASR XI; Majumdar 1924	2	1.89	10	2	1.89	10	←05.02 東 300+: 38 km (pred 72), z -1.3, bearing off 20° | →05.04 東南 700+: 48 km (pred 167), z -2.5, bearing off 0°	approx: c. 30 mi NW of Allahabad (30 mi SW of Partabgarh) per ASR XI
+05.04	Allahabad (Prayagraj)	Mizutani	2	1.67	25	1	1.87	32	←05.03 東南 700+: 81 km (pred 167), z -1.5, bearing off 19° [neighbour imprecise] | →05.05 西南 500+: 48 km (pred 120), z -1.9, bearing off 32°	from data/coords.tsv
+05.05	Rewah	Vost (via Majumdar 1924)	1	0.07	16	1	0.07	16	←05.04 西南 500+: 115 km (pred 120), z -0.1, bearing off 16°	
+05.05	Bharhut area	Smith (via Majumdar 1924)	1	0.4	4	1	0.4	4	←05.04 西南 500+: 145 km (pred 120), z +0.4, bearing off 4°	approx: Bharhut
+05.05	NE of Ajaigarh (Banda)	Watters (via Majumdar 1924)	1	0.51	27	1	0.51	27	←05.04 西南 500+: 154 km (pred 120), z +0.5, bearing off 27°	approx
+05.05	Kosam (Kausambi)	Mizutani	1	1.87	32	1	1.87	32	←05.04 西南 500+: 48 km (pred 120), z -1.9, bearing off 32°	from data/coords.tsv
+05.05.06	Sultanpur on the Gomati	Mizutani	0			0				from data/coords.tsv
+05.05.06	Jhusi	Vost (via Majumdar 1924)	0			0				
+05.05.06	near Mohanlalganj S of Lucknow	Smith (via Majumdar 1924)	0			0				
+05.05.06	Bihar, tahsil Kunda (= Tusaran Bihar)	Partabgarh 1904	0			0				approx: as Tusaran Bihar
+05.06	Ayodhya (Saketa)	Cunningham 1871; Cunningham ASR I	2	0.79	34	2	0.79	34	←05.05.06 北 170-180: 61 km (pred 42), z +0.8, bearing off 12° | →06.01 東北 500+: 81 km (pred 120), z -0.8, bearing off 56°	
+05.06	Lucknow	Burgess (via Dey 1927)	2	1.23	35	2	1.23	35	←05.05.06 北 170-180: 129 km (pred 42), z +2.3, bearing off 59° | →06.01 東北 500+: 130 km (pred 120), z +0.2, bearing off 11°	
+05.06	Sanchankot (Unao)	Fuhrer (via Majumdar 1924)	2	1.67	42	2	1.67	42	←05.05.06 北 170-180: 154 km (pred 42), z +2.6, bearing off 71° | →06.01 東北 500+: 169 km (pred 120), z +0.7, bearing off 12°	approx: Unnao district
+05.06	Nimkhar (Naimisharanya)	Smith (via Mizutani, Majumdar 1924)	2	1.84	45	2	1.84	45	←05.05.06 北 170-180: 199 km (pred 42), z +3.2, bearing off 52° | →06.01 東北 500+: 155 km (pred 120), z +0.5, bearing off 38°	Mizutani gives 27 20'N 80 35'E
+05.06	Biseipur, c. 7 lieues SW of Bahraich	Vivien 1858	2	1.85	31	2	1.85	31	←05.05.06 北 170-180: 143 km (pred 42), z +2.5, bearing off 28° | →06.01 東北 500+: 66 km (pred 120), z -1.2, bearing off 33°	approx: 7 lieues SW of Bahraich per Vivien
+06.01	Sahet-Mahet (Sravasti ruins), Uttar Pradesh	Mizutani	1	0.37	49	1	0.37	49	→06.02 東南 500+: 100 km (pred 120), z -0.4, bearing off 49°	from data/coords.tsv
+06.01	where the Rapti leaves the hills NE of Nepalganj	Smith (Mukherji 1901)	1	0.37	19	1	0.37	19	→06.02 東南 500+: 143 km (pred 120), z +0.4, bearing off 19°	approx: per Smith; no finds
+06.02	Piprahwa	Fleet (via Majumdar 1924)	2	0.53	21	2	0.53	21	←06.01 東南 500+: 108 km (pred 120), z -0.2, bearing off 41° | →06.03 東 200+: 73 km (pred 48), z +0.9, bearing off 0°	
+06.02	Tilaurakot, Nepal Tarai	Mizutani	2	0.73	30	2	0.73	30	←06.01 東南 500+: 100 km (pred 120), z -0.4, bearing off 49° | →06.03 東 200+: 82 km (pred 48), z +1.1, bearing off 11°	from data/coords.tsv
+06.02	Nagar-khas on a lake E of the Ghagra	Cunningham 1871	2	1.27	17	2	1.27	17	←06.01 東南 500+: 96 km (pred 120), z -0.4, bearing off 5° | →06.03 東 200+: 135 km (pred 48), z +2.1, bearing off 29°	approx: Nagar near Basti
+06.02	Bhuila Dih (NW Basti)	Carlleyle ASR XII; Cunningham ASR XVIII	2	1.66	16	2	1.66	16	←06.01 東南 500+: 72 km (pred 120), z -1.0, bearing off 11° | →06.03 東 200+: 149 km (pred 48), z +2.3, bearing off 20°	approx: c. 25 mi NE of Faizabad per Beal
+06.03	Dharmauri, Nepal-Gorakhpur border	Mizutani	1	1.09	11	1	1.09	11	←06.02 東 200+: 82 km (pred 48), z +1.1, bearing off 11°	from data/coords.tsv
+07.02	Ghazipur	Mizutani	1	0.23	27	1	0.23	27	←07.01 東 300+: 64 km (pred 72), z -0.2, bearing off 27°	from data/coords.tsv
+07.02	Sayyidpur (Saidpur)	Oldham (Azamgarh, Ghazipur, Ballia 1883)	1	1.67	48	1	1.67	48	←07.01 東 300+: 31 km (pred 72), z -1.7, bearing off 48°	
+07.02.04	Chirand (Cheran)	Carlleyle ASR XXII	1	0.34	7	1	0.34	7	→07.03 東北 140-150: 41 km (pred 35), z +0.3, bearing off 7°	approx
+07.02.04	Deghwara, c. 7 mi ESE of Chapra	Cunningham 1871; Beal 1884	1	0.36	11	1	0.36	11	→07.03 東北 140-150: 41 km (pred 35), z +0.4, bearing off 11°	approx: 7 mi ESE of Chapra
+07.02.04	Bitha mound, 16 mi E of Ara	Cunningham ASR III	1	0.84	15	1	0.84	15	→07.03 東北 140-150: 52 km (pred 35), z +0.8, bearing off 15°	approx: 16 mi E of Arrah
+07.02.04	Bhagwanganj stupa near Bhartpura on the Punpun	Beglar ASR VIII	1	1.45	16	1	1.45	16	→07.03 東北 140-150: 71 km (pred 35), z +1.4, bearing off 16°	approx: 100 li SE of Arrah on the Punpun per ASR VIII
+07.03	Basarh (Vaisali)	Mizutani	1	0.29	17	0			→07.04 東北 500+: 103 km (pred 120), z -0.3, bearing off 17° [neighbour imprecise]	from data/coords.tsv
+07.04	Northern Darbhanga district	Mizutani	2	0.91	17	1	0.29	17	←07.03 東北 500+: 103 km (pred 120), z -0.3, bearing off 17° | →07.05 西北 1400-1500: 163 km (pred 347), z -1.5, bearing off 17° [neighbour imprecise]	from data/coords.tsv
+07.05	Kathmandu valley, Nepal	Mizutani	1	1.52	17	0			←07.04 西北 1400-1500: 163 km (pred 347), z -1.5, bearing off 17° [neighbour imprecise]	from data/coords.tsv
+08.04.01	Telhara (Tillara), Nalanda district	Mizutani	1	0.1	14	1	0.1	14	→08.04.02 西南 90+: 23 km (pred 22), z +0.1, bearing off 14°	from data/coords.tsv
+08.04.02	3 mi NW of Vazirganj	Cunningham 1871	3	2.92	48	3	2.92	48	←08.04.01 西南 90+: 36 km (pred 22), z +1.0, bearing off 43° | →09.02.03b 北 3-4: 18 km (pred 1), z +6.3, bearing off 69° | →09.02.04 東 60+: 30 km (pred 14), z +1.5, bearing off 32°	approx
+08.04.02	Barabar hill	Mizutani	3	3.06	41	3	3.06	41	←08.04.01 西南 90+: 23 km (pred 22), z +0.1, bearing off 14° | →09.02.03b 北 3-4: 30 km (pred 1), z +7.2, bearing off 109° | →09.02.04 東 60+: 36 km (pred 14), z +1.9, bearing off 1°	from data/coords.tsv
+08.04.03	Dharawat (Kunwa hill)	Beglar ASR VIII; Cunningham ASR XV; Majumdar 1924; Dey 1927	1	0.23	7	1	0.23	7	←08.04.02 西北 30+: 8 km (pred 7), z +0.2, bearing off 7°	approx: N of the Barabar hills
+08.04.04	Kauwa-dol hill	Beglar ASR VIII; Cunningham ASR XVI; Dey 1927	1	1.68	38	1	1.68	38	→08.05.01 西南 40-50: 25 km (pred 11), z +1.7, bearing off 38°	approx: 2 mi W of the Barabar caves per ASR XVI
+09.01.02a	Mohana river (label point S of Bodh Gaya)	Mizutani	1	0.67	46	1	0.67	46	→09.01.03 東 100+: 33 km (pred 24), z +0.7, bearing off 46°	from data/coords.tsv
+09.01.03	Gurpa hill	Banerji (via Majumdar 1924, Dey 1927)	1	0.0	13	0			←09.01.02a 東 100+: 24 km (pred 24), z +0.0, bearing off 13° [neighbour imprecise]	approx: c. 20 mi ESE of Bodh Gaya
+09.01.03	Hasra hill (Sobhnath)	Stein (Gaya 1906)	1	0.13	44	0			←09.01.02a 東 100+: 25 km (pred 24), z +0.1, bearing off 44° [neighbour imprecise]	approx: 4 mi SSW of Wazirganj per Gaya 1906
+09.01.03	Hill N of Kurkihar, ENE of Gaya	Mizutani	1	0.67	46	0			←09.01.02a 東 100+: 33 km (pred 24), z +0.7, bearing off 46° [neighbour imprecise]	from data/coords.tsv
+09.01.03	Murali hill, 3 mi NNE of Kurkihar	Cunningham ASR XV; Beal 1884	1	0.87	47	0			←09.01.02a 東 100+: 37 km (pred 24), z +0.9, bearing off 47° [neighbour imprecise]	approx
+09.02.03b	Pansabda recess, SW of Handia hill	Mizutani	1	7.22	109	1	7.22	109	←08.04.02 北 3-4: 30 km (pred 1), z +7.2, bearing off 109°	from data/coords.tsv
+09.02.03c	tumulus by a detached hill near Sonagiri	Beglar ASR VIII	1	4.56	15	1	4.56	15	←09.02.03b 東北 4-5: 10 km (pred 1), z +4.6, bearing off 15°	approx: defile between Baibhar and Sona hills W of old Rajgir
+09.02.04	Old Rajagrha (Rajgir valley)	Mizutani	1	1.86	1	1	1.86	1	←08.04.02 東 60+: 36 km (pred 14), z +1.9, bearing off 1°	from data/coords.tsv
+09.02.17a	Near Baitarni Godan, SW of New Rajagrha	Mizutani	1	0.85		1	0.85		←09.02.17 西北 2-3: 1 km (pred 1), z +0.8	from data/coords.tsv
+09.03.11	Giriyek hill	Mizutani	1	1.31	45	1	1.31	45	→09.03.13 東北 150-160: 19 km (pred 37), z -1.3, bearing off 45°	from data/coords.tsv
+09.03.11	rock with a Muslim chapel by Bihar fort	Vivien 1858	1	7.31		1	7.31		→09.03.13 東北 150-160: 1 km (pred 37), z -7.3	Pir Pahari, Bihar Sharif
+09.03.13	Bihar Sharif	Mizutani	2	0.83	45	2	0.83	45	←09.03.11 東北 150-160: 19 km (pred 37), z -1.3, bearing off 45° | →09.03.14 南 2-3: 0 km (pred 1), z -0.4	from data/coords.tsv
+09.03.13	Parbati (Daryapur Parvati)	Beglar ASR VIII; Cunningham ASR XV; Beal 1884	2	4.11	65	2	4.11	65	←09.03.11 東北 150-160: 16 km (pred 37), z -1.7, bearing off 4° | →09.03.14 南 2-3: 15 km (pred 1), z +6.5, bearing off 126°	approx: 10 mi NE of Giryek per ASR XV
+09.03.13	Shekhpura hill	Cunningham 1871 (alternative)	2	4.13	63	2	4.13	63	←09.03.11 東北 150-160: 36 km (pred 37), z -0.1, bearing off 24° | →09.03.14 南 2-3: 34 km (pred 1), z +8.2, bearing off 101°	
+09.03.14	Bihar Sharif	Mizutani	1	0.36		1	0.36		←09.03.13 南 2-3: 0 km (pred 1), z -0.4	from data/coords.tsv
+09.03.14	Parbati hill site A	Cunningham ASR XV	1	6.53	54	1	6.53	54	←09.03.13 南 2-3: 15 km (pred 1), z +6.5, bearing off 54°	approx: as Parbati
+09.03.15	Aphsar	Cunningham ASR XV	2	1.71	30	2	1.71	30	←09.02.03b 東南 40+: 30 km (pred 10), z +2.3, bearing off 56° | →09.03.15a 東北 70+: 29 km (pred 17), z +1.1, bearing off 4°	approx: Aphsad village; reading 4 li
+09.03.15	Tetrawa (Tentrawa)	Cunningham 1871; Cunningham ASR XI	2	1.73	65	2	1.73	65	←09.02.03b 東南 40+: 35 km (pred 10), z +2.6, bearing off 87° | →09.03.15a 東北 70+: 25 km (pred 17), z +0.8, bearing off 42°	approx: 6-7 mi SE of Bihar
+09.03.15a	Sheikhpura	Mizutani	0			0				from data/coords.tsv
+09.03.15a	near Daryapur, 34 mi W of Mongir	Cunningham 1871	0			0				approx: 34 mi W of Monghyr
+09.03.15b	Rajjana (Rajaona), 2 mi NW of Lakhisarai	Cunningham ASR XV; Beal 1884	1	0.1	28	1	0.1	28	→10.01 東 200+: 45 km (pred 48), z -0.1, bearing off 28°	approx
+10.04	Mahasthangarh, Bogra	Mizutani	2	0.31	17	2	0.31	17	←10.03 東 600+: 151 km (pred 143), z +0.1, bearing off 3° | →10.05 東 900+: 277 km (pred 215), z +0.5, bearing off 30°	from data/coords.tsv
+10.04	Pubna	Cunningham 1871	2	0.74	42	2	0.74	42	←10.03 東 600+: 184 km (pred 143), z +0.5, bearing off 39° | →10.05 東 900+: 350 km (pred 215), z +1.0, bearing off 44°	
+10.04	Burdwan	Vivien 1858	2	1.22	65	2	1.22	65	←10.03 東 600+: 201 km (pred 143), z +0.7, bearing off 89° | →10.05 東 900+: 511 km (pred 215), z +1.8, bearing off 41°	
+10.04	Gauda	Majumdar 1924 (listed)	2	2.02	28	2	2.02	28	←10.03 東 600+: 35 km (pred 143), z -2.8, bearing off 34° | →10.05 東 900+: 391 km (pred 215), z +1.2, bearing off 23°	
+10.04	Pandua	Majumdar 1924 (listed)	2	2.07	18	2	2.07	18	←10.03 東 600+: 33 km (pred 143), z -3.0, bearing off 18° | →10.05 東 900+: 379 km (pred 215), z +1.1, bearing off 19°	
+10.05	Guwahati	Mizutani	2	0.31	22	2	0.31	22	←10.04 東 900+: 277 km (pred 215), z +0.5, bearing off 30° | →10.06 南 1200-1300: 315 km (pred 299), z +0.1, bearing off 14°	from data/coords.tsv
+10.05	Kamatipura (Kamatapur, Cooch Behar)	Cunningham 1871	2	0.64	59	2	0.64	59	←10.04 東 900+: 132 km (pred 215), z -1.0, bearing off 89° | →10.06 南 1200-1300: 344 km (pred 299), z +0.3, bearing off 29°	approx: Gosanimari ruins
+10.06	Faridpur district	Watters 1904	2	0.28	35	2	0.28	35	←10.05 南 1200-1300: 346 km (pred 299), z +0.3, bearing off 34° | →10.07 西 900+: 244 km (pred 215), z +0.3, bearing off 36°	
+10.06	Dacca or Bikrampur	Jessore 1912; 24 Parganas 1914	2	0.38	27	2	0.38	27	←10.05 南 1200-1300: 315 km (pred 299), z +0.1, bearing off 25° | →10.07 西 900+: 297 km (pred 215), z +0.7, bearing off 29°	approx: between Dacca and Bikrampur
+10.06	Sonargaon	Fergusson (via Mizutani)	2	0.4	25	2	0.4	25	←10.05 南 1200-1300: 304 km (pred 299), z +0.0, bearing off 23° | →10.07 西 900+: 313 km (pred 215), z +0.8, bearing off 28°	
+10.06	Bad-Kamta (Barkamta), W of Comilla	Mizutani	2	0.52	18	2	0.52	18	←10.05 南 1200-1300: 315 km (pred 299), z +0.1, bearing off 14° | →10.07 西 900+: 340 km (pred 215), z +0.9, bearing off 21°	from data/coords.tsv
+10.06	Jessore	Cunningham 1871	2	0.63	37	2	0.63	37	←10.05 南 1200-1300: 422 km (pred 299), z +0.7, bearing off 38° | →10.07 西 900+: 164 km (pred 215), z -0.6, bearing off 36°	
+10.07	Tamluk	Mizutani	2	0.62	38	2	0.62	38	←10.06 西 900+: 340 km (pred 215), z +0.9, bearing off 21° | →10.08 西北 700+: 195 km (pred 167), z +0.3, bearing off 55°	from data/coords.tsv
+10.08	Bara Bazar (Barabhum)	Cunningham 1871	2	0.24	25	1	0.14	17	←10.07 西北 700+: 180 km (pred 167), z +0.1, bearing off 17° | →10.09 西南 700+: 198 km (pred 167), z +0.3, bearing off 34° [neighbour imprecise]	approx
+10.08	Singhbhum	Vivien 1858	2	0.45	45	1	0.53	37	←10.07 西北 700+: 218 km (pred 167), z +0.5, bearing off 37° | →10.09 西南 700+: 140 km (pred 167), z -0.4, bearing off 53° [neighbour imprecise]	
+10.08	Sapharan opposite Dulmi (Manbhum)	Beglar ASR VIII	2	0.48	31	1	0.51	18	←10.07 西北 700+: 215 km (pred 167), z +0.5, bearing off 18° | →10.09 西南 700+: 209 km (pred 167), z +0.5, bearing off 44° [neighbour imprecise]	approx: Dalmi on the Subarnarekha
+10.08	Rangamati (Karnasuvarna), Murshidabad	Mizutani	2	0.99	31	1	0.31	55	←10.07 西北 700+: 195 km (pred 167), z +0.3, bearing off 55° | →10.09 西南 700+: 381 km (pred 167), z +1.7, bearing off 7° [neighbour imprecise]	from data/coords.tsv
+10.08	Rohtasgarh	Fleet (via Majumdar 1924)	2	2.02	44	1	2.15	12	←10.07 西北 700+: 483 km (pred 167), z +2.1, bearing off 12° | →10.09 西南 700+: 426 km (pred 167), z +1.9, bearing off 75° [neighbour imprecise]	
+10.09	Midnapore	Fergusson (via Mizutani)	1	0.38	17	1	0.38	17	←10.08 西南 700+: 202 km (pred 167), z +0.4, bearing off 17°	
+10.09	Northern Orissa	Mizutani	1	1.67	7	1	1.67	7	←10.08 西南 700+: 381 km (pred 167), z +1.7, bearing off 7°	from data/coords.tsv
+10.09	Jajpur	Cunningham 1871; Vivien 1858; Beal 1884; Watters 1904	1	1.79	16	1	1.79	16	←10.08 西南 700+: 404 km (pred 167), z +1.8, bearing off 16°	
+10.09	Cuttack	Cunningham (via Mizutani)	1	2.07	13	1	2.07	13	←10.08 西南 700+: 465 km (pred 167), z +2.1, bearing off 13°	
+10.09	Dhauli (Tosali)	Takakusu (via Mizutani)	1	2.19	14	1	2.19	14	←10.08 西南 700+: 493 km (pred 167), z +2.2, bearing off 14°	
+10.09.03	Nendra (Chitratola), 15 mi below Cuttack	Waddell (via Watters 1904, Majumdar 1924)	1	1.13	9	1	1.13	9	→10.10 西南 1200+: 164 km (pred 287), z -1.1, bearing off 9°	approx: 15 mi below Cuttack on the old Mahanadi channel
+10.09.03	port at the mouth of the Prachi	Puri 1908	1	1.2	29	1	1.2	29	→10.10 西南 1200+: 158 km (pred 287), z -1.2, bearing off 29°	approx: Prachi mouth
+10.09.03	Puri	Mizutani	1	1.95	28	1	1.95	28	→10.10 西南 1200+: 110 km (pred 287), z -2.0, bearing off 28°	from data/coords.tsv
+10.10	Jaugada, Ganjam	Mizutani	2	1.87	18	1	1.95	28	←10.09.03 西南 1200+: 110 km (pred 287), z -2.0, bearing off 28° | →10.11 西南 1400-1500: 143 km (pred 347), z -1.8, bearing off 7° [neighbour imprecise]	from data/coords.tsv
+10.10	near Bhubaneswar (Tosali)	Puri 1908 (notes)	2	1.98	68	1	3.49	136	←10.09.03 西南 1200+: 51 km (pred 287), z -3.5, bearing off 136° | →10.11 西南 1400-1500: 276 km (pred 347), z -0.5, bearing off 0° [neighbour imprecise]	
+10.10	Ganjam	Cunningham 1871	2	2.0	9	1	2.3	15	←10.09.03 西南 1200+: 92 km (pred 287), z -2.3, bearing off 15° | →10.11 西南 1400-1500: 150 km (pred 347), z -1.7, bearing off 4° [neighbour imprecise]	
+10.10	Khurda (Khordhagarh)	Fergusson (via Beal 1884)	2	2.16	55	1	3.68	107	←10.09.03 西南 1200+: 47 km (pred 287), z -3.7, bearing off 107° | →10.11 西南 1400-1500: 253 km (pred 347), z -0.6, bearing off 2° [neighbour imprecise]	
+10.11	Rajahmundry	Cunningham 1871; Beal 1884	2	0.33	27	2	0.33	27	←10.10 西南 1400-1500: 427 km (pred 347), z +0.4, bearing off 4° | →10.12 西北 1800+: 484 km (pred 430), z +0.2, bearing off 50°	
+10.11	Koringa	Cunningham 1871 (alternative); Beal 1884	2	0.33	23	2	0.33	23	←10.10 西南 1400-1500: 408 km (pred 347), z +0.3, bearing off 2° | →10.12 西北 1800+: 505 km (pred 430), z +0.3, bearing off 44°	
+10.11	Srikakulam (Chicacole)	Takakusu (via Mizutani)	2	0.86	13	2	0.86	13	←10.10 西南 1400-1500: 167 km (pred 347), z -1.5, bearing off 9° | →10.12 西北 1800+: 383 km (pred 430), z -0.2, bearing off 17°	
+10.11	Kalingapatnam	Vivien 1858; Fergusson	2	0.94	15	2	0.94	15	←10.10 西南 1400-1500: 151 km (pred 347), z -1.7, bearing off 15° | →10.12 西北 1800+: 390 km (pred 430), z -0.2, bearing off 14°	
+10.11	Kalinga (coast S of Ganjam)	Mizutani	2	1.05	11	2	1.05	11	←10.10 西南 1400-1500: 143 km (pred 347), z -1.8, bearing off 7° | →10.12 西北 1800+: 369 km (pred 430), z -0.3, bearing off 14°	from data/coords.tsv
+10.11	Mukhalingam	Smith; Majumdar 1924	2	1.13	9	2	1.13	9	←10.10 西南 1400-1500: 135 km (pred 347), z -1.9, bearing off 5° | →10.12 西北 1800+: 360 km (pred 430), z -0.4, bearing off 13°	
+10.12	Wairagarh	Fergusson (via Mizutani)	1	0.14	17	0			←10.11 西北 1800+: 462 km (pred 430), z +0.1, bearing off 17° [neighbour imprecise]	
+10.12	Sirpur, Chhattisgarh	Mizutani	1	0.31	14	0			←10.11 西北 1800+: 369 km (pred 430), z -0.3, bearing off 14° [neighbour imprecise]	from data/coords.tsv
+10.12	Chanda	Cunningham 1871	1	0.38	26	0			←10.11 西北 1800+: 519 km (pred 430), z +0.4, bearing off 26° [neighbour imprecise]	
+10.12	Nagpur	Beal 1884	1	0.65	14	0			←10.11 西北 1800+: 592 km (pred 430), z +0.6, bearing off 14° [neighbour imprecise]	
+10.12.05	Nagarjunakonda	Mizutani	1	0.13	99	1	0.13	99	→10.13 南 900+: 202 km (pred 215), z -0.1, bearing off 99°	from data/coords.tsv
+10.12.05	Srisailam	Dey 1927	1	0.33	109	1	0.33	109	→10.13 南 900+: 253 km (pred 215), z +0.3, bearing off 109°	
+10.12.05	Winjhasani/Dewala hills near Bhandak	Beal 1884	1	1.36	30	1	1.36	30	→10.13 南 900+: 422 km (pred 215), z +1.4, bearing off 30°	approx: Bhandak
+10.12.05	Pantlu-kuri, 45 mi W of Chanda	Cunningham 1871	1	1.43	37	1	1.43	37	→10.13 南 900+: 435 km (pred 215), z +1.4, bearing off 37°	approx: 45 mi W of Chanda; withdrawn in ASR XXI
+10.13	Elgandal	Cunningham 1871	2	0.03	105	2	0.03	105	←10.12.05 南 900+: 213 km (pred 215), z -0.0, bearing off 177° | →10.14 南 1000+: 245 km (pred 239), z +0.0, bearing off 32°	
+10.13	Warangal	Vivien 1858	2	0.58	97	2	0.58	97	←10.12.05 南 900+: 166 km (pred 215), z -0.5, bearing off 167° | →10.14 南 1000+: 175 km (pred 239), z -0.6, bearing off 27°	
+10.13	Pedavegi near Eluru	Mizutani	2	1.11	86	2	1.11	86	←10.12.05 南 900+: 202 km (pred 215), z -0.1, bearing off 99° | →10.14 南 1000+: 85 km (pred 239), z -2.1, bearing off 72°	from data/coords.tsv
+10.14	Dharanikota	Mizutani	2	1.05	54	2	1.05	54	←10.13 南 1000+: 85 km (pred 239), z -2.1, bearing off 72° | →10.15 西南 1000+: 240 km (pred 239), z +0.0, bearing off 36°	from data/coords.tsv
+10.14	Bezwada (Vijayawada)	Fergusson; Burgess; Watters 1904; Majumdar 1924	2	1.37	43	2	1.37	43	←10.13 南 1000+: 62 km (pred 239), z -2.7, bearing off 57° | →10.15 西南 1000+: 240 km (pred 239), z +0.0, bearing off 29°	
+10.14	Rajahmundry	Vivien 1858	2	1.55	59	2	1.55	59	←10.13 南 1000+: 74 km (pred 239), z -2.4, bearing off 107° | →10.15 西南 1000+: 343 km (pred 239), z +0.7, bearing off 11°	
+10.15	Kurnool (Jorampur)	Cunningham 1871	2	0.11	28	2	0.11	28	←10.14 西南 1000+: 260 km (pred 239), z +0.2, bearing off 27° | →10.16 南 1500-1600: 378 km (pred 370), z +0.0, bearing off 28°	
+10.15	Nellore	Mizutani	2	0.73	23	2	0.73	23	←10.14 西南 1000+: 240 km (pred 239), z +0.0, bearing off 36° | →10.16 南 1500-1600: 182 km (pred 370), z -1.4, bearing off 10°	from data/coords.tsv
+10.15	Cuddapah (Renandu)	Cuddapah 1915; Smith	2	0.78	19	2	0.78	19	←10.14 西南 1000+: 285 km (pred 239), z +0.4, bearing off 10° | →10.16 南 1500-1600: 206 km (pred 370), z -1.2, bearing off 28°	
+10.15	Uraiyur	classical Cola (via Mizutani)	2	1.44	91	2	1.44	91	←10.14 西南 1000+: 663 km (pred 239), z +2.1, bearing off 29° | →10.16 南 1500-1600: 249 km (pred 370), z -0.8, bearing off 154°	
+10.15	Tanjore	Cunningham 1871 (alternative)	2	1.48	99	2	1.48	99	←10.14 西南 1000+: 656 km (pred 239), z +2.0, bearing off 33° | →10.16 南 1500-1600: 235 km (pred 370), z -0.9, bearing off 165°	
+10.16	Kanchipuram	Mizutani	3	0.98	30	3	0.98	30	←10.15 南 1500-1600: 182 km (pred 370), z -1.4, bearing off 10° | →10.17 南 3000+: 366 km (pred 717), z -1.4, bearing off 28° | →11.02 北 2000+: 445 km (pred 478), z -0.1, bearing off 51°	from data/coords.tsv
+10.16	Nagapattinam	Fergusson (via Watters 1904)	3	1.08	34	3	1.08	34	←10.15 南 1500-1600: 408 km (pred 370), z +0.2, bearing off 2° | →10.17 南 3000+: 210 km (pred 717), z -2.5, bearing off 64° | →11.02 北 2000+: 625 km (pred 478), z +0.5, bearing off 35°	
+10.17	Quilon	Cunningham 1871 (alternative)	2	0.8	38	2	0.8	38	←10.16 南 3000+: 554 km (pred 717), z -0.5, bearing off 38° | →11.01 東南 3000+: 422 km (pred 717), z -1.1, bearing off 37°	
+10.17	Madurai	Mizutani	2	1.54	19	2	1.54	19	←10.16 南 3000+: 366 km (pred 717), z -1.4, bearing off 28° | →11.01 東南 3000+: 306 km (pred 717), z -1.7, bearing off 10°	from data/coords.tsv
+10.17	Tanjore	Dey 1927	2	2.0	17	2	2.0	17	←10.16 南 3000+: 235 km (pred 717), z -2.3, bearing off 15° | →11.01 東南 3000+: 305 km (pred 717), z -1.7, bearing off 18°	
+10.17	Kumbakonam (Kaveri delta)	Beal 1884 (Burnell)	2	2.08	17	2	2.08	17	←10.16 南 3000+: 211 km (pred 717), z -2.5, bearing off 10° | →11.01 東南 3000+: 312 km (pred 717), z -1.7, bearing off 24°	
+11.01	Anuradhapura, Sri Lanka	Mizutani	1	1.72	10	1	1.72	10	←10.17 東南 3000+: 306 km (pred 717), z -1.7, bearing off 10°	from data/coords.tsv
+11.02	Kopal (Koppal)	Burgess (via Majumdar 1924)	2	0.03	36	1	0.02	53	←10.16 北 2000+: 474 km (pred 478), z -0.0, bearing off 53° | →11.03 西北 2400-2500: 574 km (pred 586), z -0.0, bearing off 20° [neighbour imprecise]	
+11.02	Anegundi on the Tungabhadra	Mizutani	2	0.08	34	1	0.14	51	←10.16 北 2000+: 445 km (pred 478), z -0.1, bearing off 51° | →11.03 西北 2400-2500: 591 km (pred 586), z +0.0, bearing off 16° [neighbour imprecise]	from data/coords.tsv
+11.02	Golkonda	Beal 1884	2	0.13	14	1	0.19	15	←10.16 北 2000+: 525 km (pred 478), z +0.2, bearing off 15° | →11.03 西北 2400-2500: 566 km (pred 586), z -0.1, bearing off 13° [neighbour imprecise]	
+11.02	Banavasi	Vivien 1858	2	0.18	51	1	0.25	69	←10.16 北 2000+: 540 km (pred 478), z +0.2, bearing off 69° | →11.03 西北 2400-2500: 622 km (pred 586), z +0.1, bearing off 33° [neighbour imprecise]	
+11.02	Kubatur (Kuntala-nagara), Shimoga	Yazdani (via Mizutani)	2	0.18	51	1	0.19	70	←10.16 北 2000+: 525 km (pred 478), z +0.2, bearing off 70° | →11.03 西北 2400-2500: 635 km (pred 586), z +0.2, bearing off 32° [neighbour imprecise]	approx: Kubatur, Soraba taluk
+11.02	Bassein	Da Cunha (via Dey 1927)	2	2.33	72	1	1.56	45	←10.16 北 2000+: 1031 km (pred 478), z +1.6, bearing off 45° | →11.03 西北 2400-2500: 127 km (pred 586), z -3.1, bearing off 99° [neighbour imprecise]	
+11.03	Nashik area	Mizutani	2	0.16	41	2	0.16	41	←11.02 西北 2400-2500: 591 km (pred 586), z +0.0, bearing off 16° | →11.04 西 1000+: 207 km (pred 239), z -0.3, bearing off 66°	from data/coords.tsv
+11.03	Kalyan NE of Bombay	Cunningham 1871 (as glossed by Mizutani)	2	0.18	46	2	0.18	46	←11.02 西北 2400-2500: 561 km (pred 586), z -0.1, bearing off 6° | →11.04 西 1000+: 274 km (pred 239), z +0.3, bearing off 87°	
+11.03	Daulatabad (Devagiri)	Vivien 1858	2	0.35	35	2	0.35	35	←11.02 西北 2400-2500: 528 km (pred 586), z -0.2, bearing off 30° | →11.04 西 1000+: 303 km (pred 239), z +0.5, bearing off 41°	
+11.03	Paithan	Vivien 1858	2	0.6	38	2	0.6	38	←11.02 西北 2400-2500: 474 km (pred 586), z -0.4, bearing off 31° | →11.04 西 1000+: 351 km (pred 239), z +0.8, bearing off 45°	
+11.03	Badami	Smith; Yazdani (via Mizutani)	2	2.81	38	2	2.81	38	←11.02 西北 2400-2500: 107 km (pred 586), z -3.4, bearing off 9° | →11.04 西 1000+: 703 km (pred 239), z +2.2, bearing off 67°	
+11.04	Bharuch	Mizutani	2	0.46	86	0			←11.03 西 1000+: 207 km (pred 239), z -0.3, bearing off 66° [neighbour imprecise] | →11.05 西北 2000+: 352 km (pred 478), z -0.6, bearing off 106° [neighbour imprecise]	from data/coords.tsv
+11.05	Malwa	Mizutani	2	0.31	78	1	0.62	106	←11.04 西北 2000+: 352 km (pred 478), z -0.6, bearing off 106° | →11.06 西北 2400-2500: 588 km (pred 586), z +0.0, bearing off 50° [neighbour imprecise]	from data/coords.tsv
+11.05	Dhar	Cunningham 1871; Vivien 1858	2	0.75	78	1	1.24	112	←11.04 西北 2000+: 259 km (pred 478), z -1.2, bearing off 112° | →11.06 西北 2400-2500: 513 km (pred 586), z -0.3, bearing off 44° [neighbour imprecise]	
+11.05	Dungarpur	Beal 1884	2	1.11	64	1	1.32	62	←11.04 西北 2000+: 249 km (pred 478), z -1.3, bearing off 62° | →11.06 西北 2400-2500: 375 km (pred 586), z -0.9, bearing off 66° [neighbour imprecise]	
+11.05	Ahmadabad (Asawal)	Smith (via Mizutani)	2	2.06	43	1	2.3	30	←11.04 西北 2000+: 154 km (pred 478), z -2.3, bearing off 30° | →11.06 西北 2400-2500: 239 km (pred 586), z -1.8, bearing off 56° [neighbour imprecise]	
+11.06	N coast of the Kathiawar peninsula	Mizutani	1	0.01	50	0			←11.05 西北 2400-2500: 588 km (pred 586), z +0.0, bearing off 50° [neighbour imprecise]	from data/coords.tsv
+11.06	Middle Sindh	Smith (via Majumdar 1924)	1	0.68	19	0			←11.05 西北 2400-2500: 818 km (pred 586), z +0.7, bearing off 19° [neighbour imprecise]	approx
+11.06	Uch	Beal 1884	1	0.71	10	0			←11.05 西北 2400-2500: 833 km (pred 586), z +0.7, bearing off 10° [neighbour imprecise]	
+11.06	Anhilwara (Patan)	Vivien 1858	1	0.76	34	0			←11.05 西北 2400-2500: 402 km (pred 586), z -0.8, bearing off 34° [neighbour imprecise]	
+11.06	Eder (Idar)	Cunningham 1871	1	1.26	31	0			←11.05 西北 2400-2500: 314 km (pred 586), z -1.3, bearing off 31° [neighbour imprecise]	
+11.06	Vadali, 12 mi N of Idar	Bombay 1909	1	1.27	29	0			←11.05 西北 2400-2500: 314 km (pred 586), z -1.3, bearing off 29° [neighbour imprecise]	approx
+11.07	Cutch	Julien 1858; Vivien 1858; Watters 1904; Beal 1884	1	0.28	124	1	0.28	124	→11.08 北 1000+: 274 km (pred 239), z +0.3, bearing off 124°	Bhuj as label point
+11.07	Kaira (Kheda)	Cunningham 1871; Dey 1927	1	1.27	140	1	1.27	140	→11.08 北 1000+: 128 km (pred 239), z -1.3, bearing off 140°	
+11.08	Vala (Valabhi), near Bhavnagar	Mizutani	3	0.5	29	3	0.5	29	→11.09 西北 700+: 226 km (pred 167), z +0.6, bearing off 65° | →11.10 西 500+: 152 km (pred 120), z +0.5, bearing off 15° | →11.11 北 1800+: 350 km (pred 430), z -0.4, bearing off 6°	from data/coords.tsv
+11.09	near Ahmadabad	St. Martin; Cunningham; Watters (older view, via Mizutani)	1	0.25	74	1	0.25	74	←11.08 西北 700+: 148 km (pred 167), z -0.3, bearing off 74°	
+11.09	Vadnagar	Mizutani	1	0.61	65	1	0.61	65	←11.08 西北 700+: 226 km (pred 167), z +0.6, bearing off 65°	from data/coords.tsv
+11.11	Barmer (Balmer)	Vivien 1858; Cunningham 1871; Beal 1884	2	0.25	10	2	0.25	10	←11.08 北 1800+: 434 km (pred 430), z +0.0, bearing off 6° | →11.12 東南 2800+: 528 km (pred 669), z -0.5, bearing off 13°	
+11.11	Bhinmal	Mizutani	2	0.71	11	2	0.71	11	←11.08 北 1800+: 350 km (pred 430), z -0.4, bearing off 6° | →11.12 東南 2800+: 410 km (pred 669), z -1.0, bearing off 16°	from data/coords.tsv
+11.13	Eran	Hamirpur/Jhansi/Jalaun 1909	2	0.2	11	2	0.2	11	←11.12 東北 1000+: 264 km (pred 239), z +0.2, bearing off 22° | →11.14 北 900+: 237 km (pred 215), z +0.2, bearing off 0°	
+11.13	Chitor	Watters 1904	2	0.67	72	2	0.67	72	←11.12 東北 1000+: 223 km (pred 239), z -0.1, bearing off 77° | →11.14 北 900+: 387 km (pred 215), z +1.2, bearing off 67°	
+11.13	Khajuraho	Cunningham 1871; Vivien 1858; Smith	2	0.74	35	2	0.74	35	←11.12 東北 1000+: 461 km (pred 239), z +1.3, bearing off 20° | →11.14 北 900+: 232 km (pred 215), z +0.2, bearing off 49°	
+11.13	Mahoba	Cunningham 1871 (alternative); Dey 1927	2	0.78	36	2	0.78	36	←11.12 東北 1000+: 476 km (pred 239), z +1.4, bearing off 15° | →11.14 北 900+: 198 km (pred 215), z -0.2, bearing off 58°	
+11.14	Macheri, 35 leagues W of Agra	Vivien 1858	1	1.01	85	1	1.01	85	→11.15 北 1900+: 749 km (pred 454), z +1.0, bearing off 85°	approx: Machari (Alwar)
+11.14	Gwalior	Mizutani	1	1.44	78	1	1.44	78	→11.15 北 1900+: 926 km (pred 454), z +1.4, bearing off 78°	from data/coords.tsv
+11.14	Seronj	Cunningham ASR IX	1	1.52	64	1	1.52	64	→11.15 北 1900+: 960 km (pred 454), z +1.5, bearing off 64°	
+11.14	Mandla	Cunningham 1871	1	2.09	62	1	2.09	62	→11.15 北 1900+: 1275 km (pred 454), z +2.1, bearing off 62°	
+11.15	Vijnot	Branfill (via Majumdar 1924)	3	0.77	45	3	0.77	45	←11.14 北 1900+: 866 km (pred 454), z +1.3, bearing off 74° | →11.16 東 900+: 291 km (pred 215), z +0.6, bearing off 54° | →11.18 西南 1500-1600: 448 km (pred 370), z +0.4, bearing off 8°	approx: Ubauro taluk
+11.15	Aror (Alor), near Sukkur	Mizutani	3	0.88	47	3	0.88	47	←11.14 北 1900+: 926 km (pred 454), z +1.4, bearing off 78° | →11.16 東 900+: 378 km (pred 215), z +1.1, bearing off 51° | →11.18 西南 1500-1600: 362 km (pred 370), z -0.0, bearing off 12°	from data/coords.tsv
+11.16	Multan	Mizutani	2	0.74	38	2	0.74	38	←11.15 東 900+: 378 km (pred 215), z +1.1, bearing off 51° | →11.17 東北 700+: 142 km (pred 167), z -0.3, bearing off 25°	from data/coords.tsv
+11.17	Harappa	Mizutani	1	0.34	25	1	0.34	25	←11.16 東北 700+: 142 km (pred 167), z -0.3, bearing off 25°	from data/coords.tsv
+11.17	Shorkot	Cunningham 1871	1	1.23	5	1	1.23	5	←11.16 東北 700+: 91 km (pred 167), z -1.2, bearing off 5°	
+11.17	Jammu	Smith; Watters 1904; Beal 1884; Cunningham (via Mizutani)	1	1.9	3	1	1.9	3	←11.16 東北 700+: 427 km (pred 167), z +1.9, bearing off 3°	
+11.18	Karachi	Mizutani	3	0.22	54	3	0.22	54	←11.15 西南 1500-1600: 362 km (pred 370), z -0.0, bearing off 12° | →11.19 西 2000: 397 km (pred 478), z -0.4, bearing off 83° | →11.21 北 700+: 149 km (pred 167), z -0.2, bearing off 66°	from data/coords.tsv
+11.18	Kotesar (Koteshwar)	Cunningham 1871; Dey 1927	3	0.31	38	3	0.31	38	←11.15 西南 1500-1600: 438 km (pred 370), z +0.3, bearing off 39° | →11.19 西 2000: 563 km (pred 478), z +0.3, bearing off 69° | →11.21 北 700+: 191 km (pred 167), z +0.3, bearing off 5°	
+11.19	Lakorian (Lakura), between Khuzdar and Kalat	Mizutani	1	0.38	83	1	0.38	83	←11.18 西 2000: 397 km (pred 478), z -0.4, bearing off 83°	from data/coords.tsv
+11.21	Hyderabad (Sind)	Mizutani	2	0.15	37	2	0.15	37	←11.18 北 700+: 149 km (pred 167), z -0.2, bearing off 66° | →11.22 東北 300+: 69 km (pred 72), z -0.1, bearing off 7°	from data/coords.tsv
+11.21	Nagar Parkar	Haig (notes)	2	2.14	96	2	2.14	96	←11.18 北 700+: 382 km (pred 167), z +1.7, bearing off 98° | →11.22 東北 300+: 259 km (pred 72), z +2.6, bearing off 94°	
+11.22	Brahmanabad, Sind	Mizutani	2	1.38	20	2	1.38	20	←11.21 東北 300+: 69 km (pred 72), z -0.1, bearing off 7° | →11.23 東北 900+: 810 km (pred 215), z +2.7, bearing off 33°	from data/coords.tsv
+11.22	Khairpur area	Mizutani (alternative)	2	2.32	33	2	2.32	33	←11.21 東北 300+: 241 km (pred 72), z +2.5, bearing off 36° | →11.23 東北 900+: 632 km (pred 215), z +2.2, bearing off 29°	
+11.23	Vaneh on the middle Gomal	Vivien 1858	1	2.36	37	1	2.36	37	←11.22 東北 900+: 687 km (pred 215), z +2.4, bearing off 37°	approx: middle Gomal valley
+11.23	Bannu	Mizutani	1	2.69	33	1	2.69	33	←11.22 東北 900+: 810 km (pred 215), z +2.7, bearing off 33°	from data/coords.tsv
+12.01	Ghazni	Vivien 1858	1	0.14	34	0			→12.02 北 500+: 128 km (pred 120), z +0.1, bearing off 34° [neighbour imprecise]	
+12.01	Zabulistan (SE Afghanistan)	Mizutani	1	1.32	43	0			→12.02 北 500+: 229 km (pred 120), z +1.3, bearing off 43° [neighbour imprecise]	from data/coords.tsv
+12.01	Sewistan (Sibi)	Beal 1884	1	3.15	12	0			→12.02 北 500+: 564 km (pred 120), z +3.1, bearing off 12° [neighbour imprecise]	
+12.02	Kabul river basin	Mizutani	1	1.32	43	0			←12.01 北 500+: 229 km (pred 120), z +1.3, bearing off 43° [neighbour imprecise]	from data/coords.tsv
+12.02	Kabul	Cunningham 1871	1	1.32	42	0			←12.01 北 500+: 230 km (pred 120), z +1.3, bearing off 42° [neighbour imprecise]	
+12.02	Hupian (Opian) N of Charikar	Vivien 1858; Beal 1884	1	1.69	34	0			←12.01 北 500+: 276 km (pred 120), z +1.7, bearing off 34° [neighbour imprecise]	approx
+12.03	Andarab valley	Mizutani	1	2.43	13	0			→12.04 西北 400+: 29 km (pred 96), z -2.4, bearing off 13° [neighbour imprecise]	from data/coords.tsv
+12.04	Khost (Khost-o-Fereng) valley, Baghlan	Mizutani	2	1.55	23	1	0.68	33	←12.03 西北 400+: 29 km (pred 96), z -2.4, bearing off 13° [neighbour imprecise] | →12.05 西北 300+: 100 km (pred 72), z +0.7, bearing off 33°	from data/coords.tsv
+12.06	Near Khanabad	Mizutani	2	0.26	11	2	0.26	11	←01.28a 東 100+: 23 km (pred 24), z -0.1, bearing off 14° | →12.09 東 300+: 89 km (pred 72), z +0.4, bearing off 9°	from data/coords.tsv
+12.06	Taliqan	Watters 1904 (Yule)	2	1.27	4	2	1.27	4	←01.28a 東 100+: 60 km (pred 24), z +1.9, bearing off 1° | →12.09 東 300+: 51 km (pred 72), z -0.7, bearing off 8°	
+12.06	Munjan, S Badakhshan	Beal 1884 (alternative); Vivien 1858	2	2.37	74	2	2.37	74	←01.28a 東 100+: 183 km (pred 24), z +4.1, bearing off 22° | →12.09 東 300+: 97 km (pred 72), z +0.6, bearing off 127°	approx: Munjan valley
+12.09	Ishkashim	Vivien 1858	2	1.46	2	1	2.3	2	←12.06 東 300+: 223 km (pred 72), z +2.3, bearing off 2° | →12.11 東 300+ + 東 300+: 105 km (pred 143), z -0.6 [neighbour imprecise]	
+12.09	Kishm, Badakhshan	Mizutani	2	1.71	9	1	0.44	9	←12.06 東 300+: 89 km (pred 72), z +0.4, bearing off 9° | →12.11 東 300+ + 東 300+: 33 km (pred 143), z -3.0 [neighbour imprecise]	from data/coords.tsv
+12.11	Darayim, Badakhshan	Mizutani	2	1.54	13	1	2.97		←12.09 東 300+ + 東 300+: 33 km (pred 143), z -3.0 | →12.12 東 200+: 50 km (pred 48), z +0.1, bearing off 13° [neighbour imprecise]	from data/coords.tsv
+12.12	Badakhshan	Mizutani	2	0.05	40	0			←12.11 東 200+: 50 km (pred 48), z +0.1, bearing off 13° [neighbour imprecise] | →12.13 東南 200+: 48 km (pred 48), z +0.0, bearing off 67° [neighbour imprecise]	from data/coords.tsv
+12.13	Yamgan district above Jurm, upper Kokcha	Mizutani	2	0.07	58	0			←12.12 東南 200+: 48 km (pred 48), z +0.0, bearing off 67° [neighbour imprecise] | →12.14 東南 300+: 67 km (pred 72), z -0.1, bearing off 49° [neighbour imprecise]	from data/coords.tsv
+12.13	Wakhan	Vivien 1858	2	2.04	73	0			←12.12 東南 200+: 133 km (pred 48), z +2.1, bearing off 45° [neighbour imprecise] | →12.14 東南 300+: 192 km (pred 72), z +2.0, bearing off 100° [neighbour imprecise]	
+12.17.02	Pamir river valley	Mizutani	2	0.61	35	1	0.86	63	←12.17 東北 700+: 200 km (pred 167), z +0.4, bearing off 6° [neighbour imprecise] | →12.18 東南 500+: 182 km (pred 120), z +0.9, bearing off 63°	from data/coords.tsv
+12.18	Tashkurgan, Sarikol	Mizutani	1	0.86	63	0			←12.17.02 東南 500+: 182 km (pred 120), z +0.9, bearing off 63° [neighbour imprecise]	from data/coords.tsv
+12.18.05	Chichiklik	Stein (via Mizutani)	1	0.38	19	1	0.38	19	→12.19 東 800+: 158 km (pred 191), z -0.4, bearing off 19°	approx: Chichiklik maidan NE of Tashkurgan
+12.19	Yarkand	Mizutani	2	0.34	21	2	0.34	21	→12.19.02 西 200+: 49 km (pred 48), z +0.1, bearing off 0° | →12.20 北 500+: 162 km (pred 120), z +0.6, bearing off 42°	from data/coords.tsv
+12.19	Ighiz Yar	Takata (via Mizutani)	2	0.43	78	2	0.43	78	→12.19.02 西 200+: 55 km (pred 48), z +0.3, bearing off 147° | →12.20 北 500+: 90 km (pred 120), z -0.6, bearing off 10°	38 40'N 76 10'E per Mizutani
+12.19	Chihil Gumbaz	Yule; Hedin (via Mizutani)	2	0.72	83	2	0.72	83	→12.19.02 西 200+: 80 km (pred 48), z +1.0, bearing off 161° | →12.20 北 500+: 145 km (pred 120), z +0.4, bearing off 5°	38 10'N 75 50'E per Mizutani
+12.19	Yangi Hissar	Vivien 1858; Cunningham (via Mizutani)	2	1.09	71	2	1.09	71	→12.19.02 西 200+: 74 km (pred 48), z +0.9, bearing off 129° | →12.20 北 500+: 63 km (pred 120), z -1.3, bearing off 14°	38 55'N 76 10'E per Mizutani
+12.19.02	Khan Kul, W of Yarkand	Mizutani	1	0.07	0	1	0.07	0	←12.19 西 200+: 49 km (pred 48), z +0.1, bearing off 0°	from data/coords.tsv
+12.19.02	Kongur	Mizutani (alternative)	1	2.59	8	1	2.59	8	←12.19 西 200+: 172 km (pred 48), z +2.6, bearing off 8°	
+12.19.02	Muztagh Ata	those taking Wusha = Yangi Hissar (via Mizutani)	1	2.77	3	1	2.77	3	←12.19 西 200+: 188 km (pred 48), z +2.8, bearing off 3°	

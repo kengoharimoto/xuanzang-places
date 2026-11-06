@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Index passages in the ASR reports (data/ref/asr/asrNN.txt, mukherji1901_tarai.txt) that mention Xuanzang or Faxian.
 
-Usage (from xuanzang-places/): python3 -I scripts/asr_hits.py data/asr_hits.tsv
+Usage (from xuanzang-places/): python3 -I scripts/asr_hits.py data/asr_hits.tsv [file-glob]
+  e.g. python3 -I scripts/asr_hits.py data/ar_hits.tsv "data/ref/asr_annual/*.txt" for the Annual Reports
 Hits closer than 1,500 characters are merged into one passage; context = 600 chars before the first hit to 1,400
 after the last (whitespace collapsed). `line` = line of the first hit in the source file.
 """
@@ -12,7 +13,8 @@ RX = re.compile(PAT, re.I)
 out = csv.writer(open(sys.argv[1], "w", encoding="utf-8", newline=""), delimiter="\t", lineterminator="\n")
 out.writerow(["passage", "file", "line", "n_hits", "context"])
 n = 0; per = {}
-for f in sorted(glob.glob("data/ref/asr/asr[0-9]*.txt")) + ["data/ref/asr/mukherji1901_tarai.txt"]:
+FILES = sorted(glob.glob(sys.argv[2])) if len(sys.argv) > 2 else sorted(glob.glob("data/ref/asr/asr[0-9]*.txt")) + ["data/ref/asr/mukherji1901_tarai.txt"]
+for f in FILES:
     if not os.path.exists(f): continue
     t = open(f, encoding="utf-8", errors="replace").read()
     groups = []

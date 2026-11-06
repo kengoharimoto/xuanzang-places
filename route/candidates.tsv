@@ -1,0 +1,387 @@
+id	candidate	proposer	lat	lon	precision	note
+01.07	Aksu region (old Gumo), Xinjiang	Mizutani	41.17	80.26	district	from data/coords.tsv
+01.07	Aksu town	Vivien 1858; Beal 1884; Watters 1904	41.17	80.26	town	modern Aksu (St. Martin, Watters, Smith, Pelliot per Mizutani); same point as Mizutani's label
+01.07	Bai (Baicheng)	Xu Song (via Mizutani)	41.80	81.87	town	modern Baicheng county town
+01.07	Kara-yulgun (Karayalghan)	Watters 1904; Xinjiang tuzhi (via Mizutani)	41.40	80.85	district	approx: station on the Aksu-Bai road c. 55 km ENE of Aksu
+01.07	Yaka-aryk	Chavannes (via Mizutani)	41.55	81.25	district	approx: station on the Aksu-Bai road between Kara-yulgun and Bai; Huang Wenbi's Qarabag ruins lie NW of it
+01.07.01	Tianshan main range N of Aksu (Pik Pobeda / Khan-Tengri)	Mizutani	42.03	80.13	district	from data/coords.tsv
+01.07.01	Muzart pass (Muzart dawan)	Julien 1858; Beal 1884; Watters 1904	42.25	80.85	site	approx: Muzart pass over the Tianshan N of Aksu/Bai
+01.07.01	Bedel pass	Hori; Takata (via Mizutani)	41.40	78.45	site	Bedel pass on the Kyrgyz border NW of Uqturpan
+01.07.05	Merke, Kazakhstan	Mizutani	42.87	73.18	town	from data/coords.tsv
+01.07.05	Myn-bulak under the Urtak-tau	Beal 1884				cannot place: Beal puts it N of the Aulie-ata-Tersa road, i.e. W of Taraz, which contradicts the route; no modern site
+01.07.05	Ming-boulak 12 leagues E of Taras (= Turkestan town)	Vivien 1858				cannot place: rests on Vivien's wrong Taras (Turkestan town); no modern site
+01.07.05	district N of the Alexandrovsky range between Aulie-ata and Aksu	Watters 1904	42.88	72.60	district	approx: midpoint of the Kirgiz-range foothills between Taraz and Merke
+01.07.06	Talas ruins near Taraz (Dzhambul), Kazakhstan	Mizutani	42.90	71.37	town	from data/coords.tsv
+01.07.06	Tersa, 35 mi W of Aulie-ata	Beal 1884	42.90	70.68	town	approx: 35 mi W of Taraz per Beal
+01.07.06	Turkestan town (Yasi)	Vivien 1858	43.30	68.27	town	modern Turkistan
+01.07.06a	no location given	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+01.07.07	Sayram, E of Shymkent, Kazakhstan	Mizutani	42.30	69.77	town	from data/coords.tsv
+01.07.07	Mankent (Ak-su)	Watters 1904	42.45	69.83	town	approx: c. 15 mi NE of Shymkent per Watters (Mizutani: c. 26 km NE)
+01.07.08	not identifiable	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+01.07.08	a few leagues N of Sayram	Vivien 1858	42.45	69.77	district	approx: Vivien's guess by distance, c. 15 km N of Sayram
+01.08	Nujkath = Chirchik (Kosh-kurgan), NE of Tashkent	Mizutani	41.47	69.58	town	from data/coords.tsv
+01.14	Kabudhanjakath, N of Samarkand (Bulungur)	Mizutani	39.78	67.05	town	from data/coords.tsv
+01.14	Keboud, 2 parasangs N (slightly W) of Samarkand	Vivien 1858	39.76	66.92	town	approx: 2 parasangs (c. 12 km) N of Samarkand per Vivien
+01.14	Mitan district	Watters 1904	39.95	66.55	district	approx: c. 30 mi NW of Samarkand per Watters
+01.15	Kushaniya, c. 40 km NW of Samarkand	Mizutani	39.90	66.63	town	from data/coords.tsv
+01.15	Kashania half-way Samarkand-Bukhara	Beal 1884; Vivien 1858	39.80	65.85	town	approx: c. 60 mi W of Samarkand, N of the Zeravshan, per Beal
+01.15	Panj-shamba district	Watters 1904	39.97	65.92	district	approx: c. 60 mi W/NW of Samarkand per Watters
+01.16	Kharghankath (Kalkanata), c. 8-9 km N of Kermine (Navoiy)	Mizutani	40.18	65.38	town	from data/coords.tsv
+01.16	Kermine (Navoiy)	Julien 1858; Vivien 1858; Watters 1904	40.10	65.37	town	modern Navoiy (Kermine)
+01.18	Near Chardzhou (Türkmenabat) on the Amu Darya	Mizutani	39.08	63.58	town	from data/coords.tsv
+01.18	Betik (Farab), Oxus crossing opposite Chardjui	Vivien 1858; Beal 1884; Julien 1858	39.15	63.62	town	modern Farab on the right bank opposite Türkmenabat
+01.18	Darganata district	Watters 1904	40.47	62.17	town	Darganata on the left bank of the Amu Darya
+01.19	Khwarizm, lower Amu Darya	Mizutani	41.55	60.63	country	from data/coords.tsv
+01.19	Khiva	Watters 1904; Dey 1927	41.38	60.36	town	
+01.32	Balkh	Mizutani	36.76	66.90	town	from data/coords.tsv
+01.32.02	not located	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+01.36	Darrah Gaz, up the Dara-i-Suf, S of Balkh	Mizutani	35.95	67.20	district	from data/coords.tsv
+01.36	Gaz (Darah-Gaz), c. 20 mi S of Balkh	Beal 1884	36.47	66.90	district	approx: 20 mi S of Balkh per Beal
+01.37.02	not identified by Mizutani	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+01.37.02	Azhdahar (dragon) rock W of Bamiyan	Watters 1904 (after Yule); Foucher (via Mizutani)	34.80	67.73	site	Darra-i Ajdahar c. 8 km W of Bamiyan; Foucher reads W 12 li, text has E 2-3 li
+01.38	Kapisa basin (Begram/Charikar), Afghanistan	Mizutani	35.00	69.25	district	from data/coords.tsv
+01.38	Opian (Hupian) near Charikar	Cunningham 1871	35.05	69.18	town	approx: Opian just N of Charikar
+01.38	Nijrao / Tagao valleys	Vivien 1858	35.00	69.60	district	approx: Nijrab valley E of the Panjshir
+01.38	Kushan, 10 mi W of Opian	Beal 1884; Dey 1927	35.08	69.00	town	approx: 10 mi W of Opian per Dey
+01.38.01	Koh-i-Pahlvan / Shotorak, E of Begram	Mizutani	34.99	69.33	site	from data/coords.tsv
+01.38.01	northern mountain near Charikar	Beal 1884	35.03	69.17	town	approx: Charikar; Beal names only the town
+01.38.02	Kafir Qaleh, SE of Begram	Mizutani	34.96	69.33	site	from data/coords.tsv
+01.38.03a	no location given	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+01.38.03a	Chehel Dukhtaran peak, N end of the Siah-koh	Cunningham 1871; Beal 1884	34.90	69.27	site	approx: 3-6 mi S of Begram per Cunningham
+01.38.04	Top-Darrah stupa near Charikar	Mizutani	35.03	69.13	site	from data/coords.tsv
+01.38.04	Hindu Kush c. 35 mi NW of Charikar	Cunningham 1871	35.37	68.73	district	approx: 35 mi NW of Charikar per Cunningham; lake not traced
+02.03	Jalalabad basin	Mizutani	34.43	70.45	district	from data/coords.tsv
+02.03	Nagara ruins at the Surkh-rud-Kabul confluence, 4-5 mi W of Jalalabad	Dey 1927 (McCrindle); Cunningham 1871	34.43	70.37	site	approx: 4-5 mi W of Jalalabad per Dey
+02.03.02	Ahin-Posh stupa, E of Jalalabad	Mizutani	34.42	70.50	site	from data/coords.tsv
+02.03.02	Nagara Goondee tope, 3 furlongs E/SE of the Nagar rock	Watters 1904 (Masson, Simpson)	34.42	70.39	site	approx: by the Nagara ruins W of Jalalabad; depends on the capital
+02.03.03	Syah-sang rocks S of Chahar-bagh	Mizutani	34.37	70.38	site	from data/coords.tsv
+02.04.02	no site given	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+02.04.02	immediately N of Shah-ji-ki-Dheri, c. 1.5 mi SE of Peshawar	Cunningham 1871; Cunningham ASR II	33.995	71.59	site	approx: 1.5 mi SE of old Peshawar per ASR II
+02.04.06	Gor Khattri, Peshawar	Mizutani	34.009	71.58	site	from data/coords.tsv
+02.04.09	Charsadda (Bala Hisar)	Mizutani	34.17	71.73	site	from data/coords.tsv
+02.04.09	Nisatta	Vivien 1858	34.12	71.80	town	approx: left bank of the Kabul a little below the Swat confluence
+02.04.14	Shahbaz Garhi	Mizutani	34.24	72.16	site	from data/coords.tsv
+02.04.14	Palodheri	Cunningham 1871; Watters 1904; Beal 1884	34.29	72.16	site	approx: 8 mi NW of Karamar per ASR II p. 92; abandoned by Cunningham ASR V
+02.04.14	Takht-i-Bahi	Beal 1884 (query)	34.29	71.95	site	
+02.04.17	Karamar hill, ENE of Shahbaz Garhi	Mizutani	34.21	72.26	site	from data/coords.tsv
+02.04.17	near Jamalgarhi	Beal 1884	34.27	72.00	site	approx: Jamal Garhi ruins
+02.04.17	Takht-i-Bahi	Dey 1927	34.29	71.95	site	
+02.04.18	Hund (Ohind), on the Indus	Mizutani	34.01	72.43	site	from data/coords.tsv
+03.01.01a	Mingora	Mizutani	34.78	72.36	town	from data/coords.tsv
+03.01.01a	Manglaor (Manglawar)	Cunningham 1871; Stein; Watters 1904; Majumdar 1924; Dey 1927	34.80	72.44	town	approx: c. 5 mi ENE of Mingora (Mizutani)
+03.01.02	no site given	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+03.01.03	no site given	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+03.01.03	Kalam, head of the Swat river	Watters 1904 (Deane); Majumdar 1924	35.49	72.58	town	
+03.01.05	Mount Ilam, S of Mingora	Mizutani	34.64	72.48	site	from data/coords.tsv
+03.01.06	Shinasi stupa at Kukrai, on the way to Ilam	Mizutani	34.70	72.43	site	from data/coords.tsv
+03.01.06	Mahaban mountain (Buner)	Cunningham 1871; Cunningham ASR II	34.37	72.57	site	approx: Mahaban summit
+03.01.06	Pinjkotai near Sunigram (Buner)	Stein (via Dey 1927)	34.43	72.45	site	approx: c. 26 mi S of Manglaor per Dey
+03.01.07	Gogdara stupa, near Udegram	Mizutani	34.75	72.31	site	from data/coords.tsv
+03.01.07	Sura in the Chamla valley	Cunningham 1871; Cunningham ASR II	34.47	72.45	town	approx: 10 mi NW of Mahaban summit per Cunningham
+03.01.08	no site given	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+03.01.08	NW foot of Mahaban (Buner valley)	Cunningham 1871	34.42	72.50	district	approx: NW foot of Mahaban
+03.01.11	stūpa at the village now called Hazara, said to be extant (Deane)	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+03.01.12	no site given	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+03.03	Taxila	Mizutani	33.75	72.82	district	from data/coords.tsv
+03.03	near Hasan Abdal	Vivien 1858	33.82	72.69	town	Hasan Abdal; Vivien also allows an old site 7-8 mi E/SE of it
+03.04	Ketas (Katas Raj), Salt Range	Mizutani	32.717	72.983	site	from data/coords.tsv
+03.04	Malot (Mallot)	Cunningham ASR II; Cunningham ASR V	32.70	72.84	site	approx: 9 mi W of Ketas per ASR V
+03.04	Sangohi, 10 mi SW of Jhelum	Vivien 1858	32.83	73.62	town	approx: 10 mi SW of Jhelum town per Vivien
+03.04.03	Ketas sacred pools	Mizutani	32.717	72.983	site	same point as the capital (Mizutani reads 4-5 li)
+03.04.03	Murti mound, Gandhala valley	Stein (Jhelam 1907)	32.66	73.01	site	approx: 4.5 mi from Ketas (chained) down the Gandhala valley per Jhelam 1907
+03.04.07	no site given	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+03.04.07	Mera, 9 mi E of the Manikyala tope	Cunningham ASR XIV	33.45	73.40	site	approx: 9 mi E of Manikyala per ASR XIV; the 'thup' is a Muslim tomb
+03.06	Kashmir valley	Mizutani	34.00	74.80	district	from data/coords.tsv
+03.06.06	S slope of Takht-i-Sulaiman, Srinagar	Mizutani	34.07	74.84	site	from data/coords.tsv
+03.06.06	near Pandrethan	Cunningham 1871	34.06	74.87	site	approx: Pandrethan, SE of Srinagar
+03.06.07	Near Pandrethan	Mizutani	34.05	74.86	site	from data/coords.tsv
+03.06.09	Valley NE of the hill S of the Palace Hotel, Srinagar	Mizutani	34.08	74.86	site	from data/coords.tsv
+03.06.11	Baramula-Rampur stretch of the Jhelum	Mizutani	34.17	74.25	district	from data/coords.tsv
+03.07	Punch (Poonch)	Mizutani	33.77	74.09	town	from data/coords.tsv
+04.01	Punjab plain between Beas and Chenab	Mizutani	31.60	74.30	country	from data/coords.tsv
+04.01	Asarur (Tse-kia)	Cunningham 1871; Cunningham ASR II	31.85	73.65	site	approx: 19 mi NE of Sangla hill, 45 mi from Lahore per ASR II
+04.01	Amritsar (Tchek)	Vivien 1858	31.63	74.87	town	
+04.01	2 mi NE of Sialkot	Majumdar 1924	32.51	74.56	town	approx: 2 mi NE of Sialkot per Majumdar
+04.01.02	Sialkot	Mizutani	32.49	74.53	town	from data/coords.tsv
+04.01.02	Sanglawala Tibba (Sangla hill)	Cunningham 1871; Beal 1884; Cunningham ASR II	31.717	73.45	site	31 43'N 73 27'E per Mizutani
+04.01.02	near Sanga, 4 lieues SW of Amritsar	Vivien 1858	31.53	74.75	town	approx: 4 lieues SW of Amritsar per Vivien
+04.02	Chiniyari, between Amritsar and Sialkot	Mizutani	31.780	74.820	district	coords.tsv point lies midway Amritsar-Sialkot; Chine itself is 11 mi from Amritsar (see Cunningham ASR XIV row)
+04.02	Chine (Chiniyari), 11 mi from Amritsar on the Sialkot road	Cunningham ASR XIV	31.78	74.82	site	approx: 11 mi N/NNW of Amritsar on the Pasrur road per ASR XIV (Mizutani's coords.tsv point is further N)
+04.02	Patti	Cunningham 1871; Beal 1884; Lahore 1883	31.28	74.86	town	
+04.02	Katoch country (Kangra)	Vivien 1858	32.10	76.27	district	Kangra region
+04.02	Ferozpore	Smith (via Mizutani)	30.92	74.61	town	
+04.02.03	Sultanpur (Lodhi), SE of Amritsar	Mizutani	31.21	75.20	town	from data/coords.tsv
+04.02.03	Beas-Sutlej confluence	Vivien 1858	31.17	74.95	site	Harike confluence
+04.04	Kulu; old capital Nagar	Mizutani	32.13	77.17	town	from data/coords.tsv
+04.04	Jagatsukh (Nast)	Atkinson (Himalayan districts II 1884)	32.20	77.20	town	
+04.04	Makarsa	Cunningham 1871	31.85	77.15	district	approx: lower Kulu (Hurla-Bajaura area); old capital site uncertain
+04.04a	Lahul	Mizutani	32.57	76.97	district	from data/coords.tsv
+04.04b	Ladakh	Mizutani	34.16	77.58	country	from data/coords.tsv
+04.05	Sarhind	Mizutani	30.64	76.39	town	from data/coords.tsv
+04.05	near Sirtah W of Thanesar	Vivien 1858				cannot place: village not identifiable on modern maps
+04.06	Bairat (Viratnagar), Rajasthan	Mizutani	27.45	76.18	town	from data/coords.tsv
+04.07	Mathura	Mizutani	27.49	77.67	town	from data/coords.tsv
+04.07.03	cannot now be located (the river has shifted Mathurā northwards)	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+04.07.03	Katra mound (W suburb)	Cunningham ASR I; Cunningham ASR III	27.505	77.67	site	Katra Keshav Dev
+04.07.03	Kankali Tila	Growse (via Mizutani); Dey 1927	27.483	77.675	site	SW of the town
+04.07.03	old fort on the Jumna, 1 mi E of the Katra	Cunningham ASR XVII; Cunningham ASR XX	27.505	77.69	site	approx: 1 mi E of the Katra
+04.08	Thanesar	Mizutani	29.97	76.83	town	from data/coords.tsv
+04.08.04	no site given	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+04.08.04	near Gunana, 17 mi SSW of Thanesar	Cunningham 1871; Cunningham ASR II	29.74	76.72	town	approx: 17 mi SSW of Thanesar per ASR II
+04.08.04	Sita Mai monastery, 4 mi from Gunana	Karnal 1884	29.72	76.75	site	approx: c. 4 mi from Gunana per Karnal 1884 (direction not given)
+04.10	E bank of the Ganges opposite Srughna (Bijnor area)	Mizutani	29.60	78.20	district	from data/coords.tsv
+04.10	Mandawar (Madawar), near Bijnor	Cunningham 1871; Cunningham ASR I; Vivien 1858; Dey 1927	29.483	78.133	town	29 29'N 78 08'E per Mizutani
+04.10.05	Haridwar (Mayapur)	Mizutani	29.94	78.15	site	from data/coords.tsv
+04.10.05	E bank of the Ganges opposite Hardwar	Vivien 1858	29.94	78.18	site	approx
+04.10.05	Amroha	Vivien 1858 (alternative)	28.90	78.47	town	
+04.11	Srinagar (Garhwal)	Mizutani	30.233	78.780	town	coords.tsv point from Mizutani's 30 14'N 78 37'E; Srinagar town itself is at c. 78.78E
+04.11	Lakhanpur / Vairatpattan on the Ramganga	Cunningham 1871; Almora 1981	29.88	79.35	site	approx: Lakhanpur near Chaukhutia
+04.11	Barahat (Uttarkashi)	Atkinson (Himalayan districts II 1884)	30.73	78.45	town	50 mi due N of Hardwar per Atkinson
+04.12	1 mile E of Kashipur, Uttarakhand	Mizutani	29.217	78.967	site	from data/coords.tsv
+04.12	Dhikuli on the Kosi	Atkinson (Himalayan districts II 1884); Himalayan districts III 1886	29.43	79.13	site	approx: Dhikuli near Ramnagar
+04.12	Vairatpattan (Lakhanpur)	Fuhrer (via Majumdar 1924)	29.88	79.35	site	approx: Lakhanpur near Chaukhutia
+04.12	c. 3 lieues E of Chandausi	Vivien 1858	28.45	78.90	district	approx: plotted by compass per Vivien
+04.13	Ramnagar (Ahichchhatra), Bareilly district	Mizutani	28.37	79.13	site	from data/coords.tsv
+04.13	3-4 lieues NE of Bisauli	Vivien 1858	28.41	79.05	district	approx: plotted per Vivien
+04.14	Bilsar (Bilsad), Etah district	Mizutani	27.53	79.13	town	from data/coords.tsv
+04.14	Atranji-Khera	Cunningham 1871; Beal 1884; Cunningham ASR I	27.70	78.73	site	approx: Atranjikhera, N of Etah
+04.14	Karsana	Vivien 1858	27.76	78.73	town	approx: 4 mi N of Atranji-Khera per ASR I
+04.15	Sankisa	Mizutani	27.33	79.27	site	from data/coords.tsv
+04.15	near Pitiali (Patiali), NE Etah district	Smith (via Mizutani, Majumdar 1924)	27.69	79.02	town	approx: Patiali town
+04.15.02	Sankisa	Mizutani	27.33	79.27	site	from data/coords.tsv
+04.15.02	near Pitiali (Patiali), NE Etah district	Smith (via Mizutani, Majumdar 1924)	27.69	79.02	town	approx: Patiali town
+05.01	Kannauj	Mizutani	27.05	79.92	town	from data/coords.tsv
+05.01.09	no site given	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+05.01.09	Newal, 2 mi N of Bangarmau	Cunningham ASR XI; Majumdar 1924; Dey 1927	26.92	80.21	site	approx: 2 mi N of Bangarmau per ASR XI
+05.01.09	Nohbatganj opposite Nanamau ghat	Vivien 1858; Cunningham ASR I; Watters 1904	26.89	80.12	site	approx: 2 lieues W of Bangarmau per Vivien
+05.01.09	Deokali on the Chota Ganga, 4 mi SE of Kanauj	Cunningham 1871 (alternative)	27.01	79.97	town	approx: 4 mi SE of Kannauj
+05.02	Aphui, 29 miles SE of Fatehpur	Mizutani	25.63	81.15	town	from data/coords.tsv
+05.02	Ayodhya (Ajudhya)	Vivien 1858; Watters 1904; Dey 1927; CII III (via Mizutani)	26.80	82.20	town	
+05.02	Kakupur, 1 mi N of Seorajpur	Cunningham 1871; Cunningham ASR I	26.66	80.08	town	approx: c. 20 mi NW of Cawnpore per Cunningham
+05.02	Kutia-Gunir NW of Fatehpur	Cunningham ASR XI	26.05	80.70	district	approx: NW of Fatehpur; village not fixed
+05.02	Patan-Bihar	Cunningham ASR XI				cannot place: village not located
+05.03	Rae Bareli-Pratapgarh area	Mizutani	26.10	81.50	district	from data/coords.tsv
+05.03	Daundia Khera	Cunningham 1871; Cunningham ASR I	26.18	80.70	site	approx: N bank of the Ganges, Unnao district
+05.03	Tusaran Bihar	Cunningham ASR XI; Majumdar 1924	25.75	81.51	site	approx: c. 30 mi NW of Allahabad (30 mi SW of Partabgarh) per ASR XI
+05.04	Allahabad (Prayagraj)	Mizutani	25.44	81.85	town	from data/coords.tsv
+05.05	Kosam (Kausambi)	Mizutani	25.34	81.39	site	from data/coords.tsv
+05.05	Rewah	Vost (via Majumdar 1924)	24.53	81.30	town	
+05.05	Bharhut area	Smith (via Majumdar 1924)	24.45	80.91	district	approx: Bharhut
+05.05	NE of Ajaigarh (Banda)	Watters (via Majumdar 1924)	25.00	80.40	district	approx
+05.05.06	Sultanpur on the Gomati	Mizutani	26.26	82.07	town	from data/coords.tsv
+05.05.06	Jhusi	Vost (via Majumdar 1924)	25.43	81.90	town	
+05.05.06	near Mohanlalganj S of Lucknow	Smith (via Majumdar 1924)	26.68	80.98	town	
+05.05.06	Bihar, tahsil Kunda (= Tusaran Bihar)	Partabgarh 1904	25.75	81.51	site	approx: as Tusaran Bihar
+05.06	no site given	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+05.06	Ayodhya (Saketa)	Cunningham 1871; Cunningham ASR I	26.80	82.20	town	
+05.06	Biseipur, c. 7 lieues SW of Bahraich	Vivien 1858	27.39	81.39	town	approx: 7 lieues SW of Bahraich per Vivien
+05.06	Nimkhar (Naimisharanya)	Smith (via Mizutani, Majumdar 1924)	27.35	80.48	town	Mizutani gives 27 20'N 80 35'E
+05.06	Sanchankot (Unao)	Fuhrer (via Majumdar 1924)	26.70	80.60	district	approx: Unnao district
+05.06	Pasha (Gonda district)	Hoey (via Dey 1927)				cannot place: village not located
+05.06	Lucknow	Burgess (via Dey 1927)	26.85	80.95	town	
+06.01	Sahet-Mahet (Sravasti ruins), Uttar Pradesh	Mizutani	27.51	82.04	site	from data/coords.tsv
+06.01	where the Rapti leaves the hills NE of Nepalganj	Smith (Mukherji 1901)	28.15	81.75	district	approx: per Smith; no finds
+06.02	Tilaurakot, Nepal Tarai	Mizutani	27.57	83.05	site	from data/coords.tsv
+06.02	Piprahwa	Fleet (via Majumdar 1924)	27.44	83.13	site	
+06.02	Bhuila Dih (NW Basti)	Carlleyle ASR XII; Cunningham ASR XVIII	26.97	82.45	site	approx: c. 25 mi NE of Faizabad per Beal
+06.02	Nagar-khas on a lake E of the Ghagra	Cunningham 1871	26.85	82.67	district	approx: Nagar near Basti
+06.03	Dharmauri, Nepal-Gorakhpur border	Mizutani	27.433	83.867	town	from data/coords.tsv
+06.03	Rampur Deoriya (Basti)	Carlleyle ASR XVIII; Cunningham ASR XXII; Dey 1927				cannot place: village not located; measured from Bhuila
+06.03	Deokali, c. 28 mi E of Nagar	Cunningham 1871				cannot place: depends on Nagar-khas; village not located
+06.03	Bawangarhi (Champaran)	Smith (Mukherji 1901, alternative)				cannot place: village not located
+07.02	Ghazipur	Mizutani	25.58	83.58	town	from data/coords.tsv
+07.02	Sayyidpur (Saidpur)	Oldham (Azamgarh, Ghazipur, Ballia 1883)	25.53	83.22	town	
+07.02.04	no site given	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+07.02.04	Deghwara, c. 7 mi ESE of Chapra	Cunningham 1871; Beal 1884	25.76	84.84	town	approx: 7 mi ESE of Chapra
+07.02.04	Chirand (Cheran)	Carlleyle ASR XXII	25.74	84.86	site	approx
+07.02.04	Bitha mound, 16 mi E of Ara	Cunningham ASR III	25.56	84.92	site	approx: 16 mi E of Arrah
+07.02.04	Bhagwanganj stupa near Bhartpura on the Punpun	Beglar ASR VIII	25.41	84.84	site	approx: 100 li SE of Arrah on the Punpun per ASR VIII
+07.03	Basarh (Vaisali)	Mizutani	25.967	85.183	site	from data/coords.tsv
+07.04	Northern Darbhanga district	Mizutani	26.40	86.10	district	from data/coords.tsv
+07.05	Kathmandu valley, Nepal	Mizutani	27.70	85.33	district	from data/coords.tsv
+08.03.05	no identification given	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+08.04.01	Telhara (Tillara), Nalanda district	Mizutani	25.18	85.18	town	from data/coords.tsv
+08.04.02	Barabar hill	Mizutani	25.006	85.063	site	from data/coords.tsv
+08.04.02	3 mi NW of Vazirganj	Cunningham 1871	24.86	85.17	site	approx
+08.04.03	no identification given	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+08.04.03	Dharawat (Kunwa hill)	Beglar ASR VIII; Cunningham ASR XV; Majumdar 1924; Dey 1927	25.05	85.00	site	approx: N of the Barabar hills
+08.04.03	low range E of the Pewar Nadi near Nidawat	Cunningham 1871				cannot place: Nidawat not located
+08.04.04	no identification given	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+08.04.04	Kauwa-dol hill	Beglar ASR VIII; Cunningham ASR XVI; Dey 1927	25.01	85.03	site	approx: 2 mi W of the Barabar caves per ASR XVI
+08.04.04	Bithawa hill, 3 mi SW of Nidawat	Cunningham 1871				cannot place: Nidawat not located
+08.04.04	Bhadera	Vivien 1858				cannot place: village not located
+09.01.02a	Mohana river (label point S of Bodh Gaya)	Mizutani	24.62	85.00	district	from data/coords.tsv
+09.01.03	Hill N of Kurkihar, ENE of Gaya	Mizutani	24.835	85.23	site	from data/coords.tsv
+09.01.03	Murali hill, 3 mi NNE of Kurkihar	Cunningham ASR XV; Beal 1884	24.86	85.25	site	approx
+09.01.03	Hasra hill (Sobhnath)	Stein (Gaya 1906)	24.78	85.18	site	approx: 4 mi SSW of Wazirganj per Gaya 1906
+09.01.03	Gurpa hill	Banerji (via Majumdar 1924, Dey 1927)	24.57	85.23	site	approx: c. 20 mi ESE of Bodh Gaya
+09.02.03b	Pansabda recess, SW of Handia hill	Mizutani	24.92	85.34	site	from data/coords.tsv
+09.02.03c	unidentified	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+09.02.03c	tumulus by a detached hill near Sonagiri	Beglar ASR VIII	25.00	85.39	site	approx: defile between Baibhar and Sona hills W of old Rajgir
+09.02.03c	Rajpind cave, Chandu hill	Stein (Gaya 1906/1957)				cannot place: hill not located
+09.02.04	Old Rajagrha (Rajgir valley)	Mizutani	25.00	85.42	site	from data/coords.tsv
+09.02.17a	Near Baitarni Godan, SW of New Rajagrha	Mizutani	25.025	85.41	site	from data/coords.tsv
+09.03.11	Giriyek hill	Mizutani	25.025	85.52	site	from data/coords.tsv
+09.03.11	rock with a Muslim chapel by Bihar fort	Vivien 1858	25.20	85.51	site	Pir Pahari, Bihar Sharif
+09.03.13	Bihar Sharif	Mizutani	25.20	85.52	town	from data/coords.tsv
+09.03.13	Parbati (Daryapur Parvati)	Beglar ASR VIII; Cunningham ASR XV; Beal 1884	25.12	85.64	site	approx: 10 mi NE of Giryek per ASR XV
+09.03.13	Shekhpura hill	Cunningham 1871 (alternative)	25.14	85.85	town	
+09.03.14	Bihar Sharif	Mizutani	25.20	85.52	town	from data/coords.tsv
+09.03.14	Parbati hill site A	Cunningham ASR XV	25.12	85.64	site	approx: as Parbati
+09.03.15	no settled identification	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+09.03.15	Tetrawa (Tentrawa)	Cunningham 1871; Cunningham ASR XI	25.13	85.60	site	approx: 6-7 mi SE of Bihar
+09.03.15	Aphsar	Cunningham ASR XV	24.97	85.63	site	approx: Aphsad village; reading 4 li
+09.03.15a	Sheikhpura	Mizutani	25.14	85.85	town	from data/coords.tsv
+09.03.15a	near Daryapur, 34 mi W of Mongir	Cunningham 1871	25.38	85.92	town	approx: 34 mi W of Monghyr
+09.03.15b	unsettled	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+09.03.15b	Rajjana (Rajaona), 2 mi NW of Lakhisarai	Cunningham ASR XV; Beal 1884	25.19	86.07	site	approx
+09.03.15b	Roynallah / Rohinila on the Ganges near Balgada	Vivien 1858; Cunningham 1871				cannot place: village not located
+10.04	Mahasthangarh, Bogra	Mizutani	24.96	89.34	site	from data/coords.tsv
+10.04	Pubna	Cunningham 1871	24.00	89.24	town	
+10.04	Burdwan	Vivien 1858	23.24	87.86	town	
+10.04	Pandua	Majumdar 1924 (listed)	25.14	88.15	town	
+10.04	Gauda	Majumdar 1924 (listed)	24.87	88.13	town	
+10.05	Guwahati	Mizutani	26.18	91.75	town	from data/coords.tsv
+10.05	Kamatipura (Kamatapur, Cooch Behar)	Cunningham 1871	26.15	89.37	site	approx: Gosanimari ruins
+10.06	Bad-Kamta (Barkamta), W of Comilla	Mizutani	23.43	91.00	town	from data/coords.tsv
+10.06	Jessore	Cunningham 1871	23.17	89.21	town	
+10.06	Sonargaon	Fergusson (via Mizutani)	23.65	90.60	town	
+10.06	Faridpur district	Watters 1904	23.60	89.84	district	
+10.06	Dacca or Bikrampur	Jessore 1912; 24 Parganas 1914	23.60	90.45	district	approx: between Dacca and Bikrampur
+10.07	Tamluk	Mizutani	22.30	87.92	town	from data/coords.tsv
+10.08	Rangamati (Karnasuvarna), Murshidabad	Mizutani	24.03	88.24	site	from data/coords.tsv
+10.08	Bara Bazar (Barabhum)	Cunningham 1871	23.05	86.37	town	approx
+10.08	Sapharan opposite Dulmi (Manbhum)	Beglar ASR VIII	23.18	86.05	site	approx: Dalmi on the Subarnarekha
+10.08	Rohtasgarh	Fleet (via Majumdar 1924)	24.62	83.92	site	
+10.08	Singhbhum	Vivien 1858	22.55	85.82	district	
+10.09	Northern Orissa	Mizutani	21.30	86.00	country	from data/coords.tsv
+10.09	Jajpur	Cunningham 1871; Vivien 1858; Beal 1884; Watters 1904	20.85	86.33	town	
+10.09	Cuttack	Cunningham (via Mizutani)	20.46	85.88	town	
+10.09	Midnapore	Fergusson (via Mizutani)	22.42	87.32	town	
+10.09	Dhauli (Tosali)	Takakusu (via Mizutani)	20.19	85.84	site	
+10.09.03	Puri	Mizutani	19.81	85.83	town	from data/coords.tsv
+10.09.03	Nendra (Chitratola), 15 mi below Cuttack	Waddell (via Watters 1904, Majumdar 1924)	20.40	86.09	site	approx: 15 mi below Cuttack on the old Mahanadi channel
+10.09.03	port at the mouth of the Prachi	Puri 1908	19.93	86.28	district	approx: Prachi mouth
+10.10	Jaugada, Ganjam	Mizutani	19.52	84.83	site	from data/coords.tsv
+10.10	Ganjam	Cunningham 1871	19.39	85.07	town	
+10.10	Khurda (Khordhagarh)	Fergusson (via Beal 1884)	20.18	85.62	town	
+10.10	near Bhubaneswar (Tosali)	Puri 1908 (notes)	20.27	85.84	town	
+10.11	Kalinga (coast S of Ganjam)	Mizutani	18.50	84.00	country	from data/coords.tsv
+10.11	Rajahmundry	Cunningham 1871; Beal 1884	17.00	81.78	town	
+10.11	Kalingapatnam	Vivien 1858; Fergusson	18.34	84.12	town	
+10.11	Mukhalingam	Smith; Majumdar 1924	18.59	84.00	site	
+10.11	Srikakulam (Chicacole)	Takakusu (via Mizutani)	18.30	83.90	town	
+10.11	Koringa	Cunningham 1871 (alternative); Beal 1884	16.80	82.24	town	
+10.12	Sirpur, Chhattisgarh	Mizutani	21.34	82.18	town	from data/coords.tsv
+10.12	Chanda	Cunningham 1871	19.95	79.30	town	
+10.12	Wairagarh	Fergusson (via Mizutani)	20.43	80.10	town	
+10.12	Nagpur	Beal 1884	21.15	79.09	town	
+10.12.05	Nagarjunakonda	Mizutani	16.52	79.24	site	from data/coords.tsv
+10.12.05	Srisailam	Dey 1927	16.07	78.87	site	
+10.12.05	Pantlu-kuri, 45 mi W of Chanda	Cunningham 1871	19.95	78.65	district	approx: 45 mi W of Chanda; withdrawn in ASR XXI
+10.12.05	Winjhasani/Dewala hills near Bhandak	Beal 1884	20.10	79.12	site	approx: Bhandak
+10.13	Pedavegi near Eluru	Mizutani	16.81	81.11	town	from data/coords.tsv
+10.13	Warangal	Vivien 1858	17.97	79.60	town	
+10.13	Elgandal	Cunningham 1871	18.43	79.12	town	
+10.14	Dharanikota	Mizutani	16.57	80.35	town	from data/coords.tsv
+10.14	Bezwada (Vijayawada)	Fergusson; Burgess; Watters 1904; Majumdar 1924	16.51	80.62	town	
+10.14	Rajahmundry	Vivien 1858	17.00	81.78	town	
+10.15	Nellore	Mizutani	14.44	79.99	town	from data/coords.tsv
+10.15	Kurnool (Jorampur)	Cunningham 1871	15.83	78.04	town	
+10.15	Cuddapah (Renandu)	Cuddapah 1915; Smith	14.47	78.82	town	
+10.15	Tanjore	Cunningham 1871 (alternative)	10.79	79.14	town	
+10.15	Uraiyur	classical Cola (via Mizutani)	10.83	78.68	town	
+10.16	Kanchipuram	Mizutani	12.83	79.70	town	from data/coords.tsv
+10.16	Nagapattinam	Fergusson (via Watters 1904)	10.77	79.84	town	
+10.17	Madurai	Mizutani	9.93	78.12	town	from data/coords.tsv
+10.17	Quilon	Cunningham 1871 (alternative)	8.88	76.60	town	
+10.17	Kumbakonam (Kaveri delta)	Beal 1884 (Burnell)	10.96	79.38	town	
+10.17	Tanjore	Dey 1927	10.79	79.14	town	
+11.01	Anuradhapura, Sri Lanka	Mizutani	8.34	80.40	town	from data/coords.tsv
+11.02	Anegundi on the Tungabhadra	Mizutani	15.35	76.49	town	from data/coords.tsv
+11.02	Banavasi	Vivien 1858	14.53	75.02	town	
+11.02	Golkonda	Beal 1884	17.38	78.40	town	
+11.02	Kopal (Koppal)	Burgess (via Majumdar 1924)	15.35	76.15	town	
+11.02	Kubatur (Kuntala-nagara), Shimoga	Yazdani (via Mizutani)	14.43	75.13	town	approx: Kubatur, Soraba taluk
+11.02	Bassein	Da Cunha (via Dey 1927)	19.33	72.81	town	
+11.03	Nashik area	Mizutani	20.00	73.79	district	from data/coords.tsv
+11.03	Kalyan NE of Bombay	Cunningham 1871 (as glossed by Mizutani)	19.24	73.13	town	
+11.03	Badami	Smith; Yazdani (via Mizutani)	15.92	75.68	town	
+11.03	Paithan	Vivien 1858	19.48	75.38	town	
+11.03	Daulatabad (Devagiri)	Vivien 1858	19.94	75.21	town	
+11.04	Bharuch	Mizutani	21.70	72.98	town	from data/coords.tsv
+11.05	Malwa	Mizutani	23.20	76.00	country	from data/coords.tsv
+11.05	Dhar	Cunningham 1871; Vivien 1858	22.60	75.30	town	
+11.05	Dungarpur	Beal 1884	23.84	73.71	town	
+11.05	Ahmadabad (Asawal)	Smith (via Mizutani)	23.03	72.58	town	
+11.06	N coast of the Kathiawar peninsula	Mizutani	22.60	70.30	district	from data/coords.tsv
+11.06	Eder (Idar)	Cunningham 1871	23.84	73.00	town	
+11.06	Vadali, 12 mi N of Idar	Bombay 1909	23.94	73.03	town	approx
+11.06	Anhilwara (Patan)	Vivien 1858	23.85	72.12	town	
+11.06	Uch	Beal 1884	29.24	71.06	town	
+11.06	Middle Sindh	Smith (via Majumdar 1924)	26.20	68.60	district	approx
+11.07	undecided	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+11.07	Kaira (Kheda)	Cunningham 1871; Dey 1927	22.75	72.68	town	
+11.07	Cutch	Julien 1858; Vivien 1858; Watters 1904; Beal 1884	23.25	69.67	district	Bhuj as label point
+11.08	Vala (Valabhi), near Bhavnagar	Mizutani	21.87	71.88	town	from data/coords.tsv
+11.09	Vadnagar	Mizutani	23.78	72.64	town	from data/coords.tsv
+11.09	near Ahmadabad	St. Martin; Cunningham; Watters (older view, via Mizutani)	23.03	72.58	town	
+11.11	Bhinmal	Mizutani	25.00	72.27	town	from data/coords.tsv
+11.11	Barmer (Balmer)	Vivien 1858; Cunningham 1871; Beal 1884	25.75	71.39	town	
+11.13	undecided: Bundelkhand (capital Khajurāho) or Chitorgarh region (capital Chitor)	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+11.13	Khajuraho	Cunningham 1871; Vivien 1858; Smith	24.85	79.93	town	
+11.13	Mahoba	Cunningham 1871 (alternative); Dey 1927	25.29	79.87	town	
+11.13	Chitor	Watters 1904	24.88	74.62	town	
+11.13	Eran	Hamirpur/Jhansi/Jalaun 1909	24.09	78.17	site	
+11.14	Gwalior	Mizutani	26.22	78.18	town	from data/coords.tsv
+11.14	Mandla	Cunningham 1871	22.60	80.37	town	
+11.14	Seronj	Cunningham ASR IX	24.02	77.70	town	
+11.14	Macheri, 35 leagues W of Agra	Vivien 1858	27.25	76.55	town	approx: Machari (Alwar)
+11.15	Aror (Alor), near Sukkur	Mizutani	27.60	68.97	town	from data/coords.tsv
+11.15	Vijnot	Branfill (via Majumdar 1924)	28.10	69.68	site	approx: Ubauro taluk
+11.15	Minagar	Dey 1927				cannot place: Minagar not located
+11.16	Multan	Mizutani	30.20	71.47	town	from data/coords.tsv
+11.16	Mulasthana on the Narmada (Bharoch province)	Majumdar 1924				cannot place: site not identified
+11.17	Harappa	Mizutani	30.63	72.86	site	from data/coords.tsv
+11.17	Jammu	Smith; Watters 1904; Beal 1884; Cunningham (via Mizutani)	32.73	74.86	town	
+11.17	Shorkot	Cunningham 1871	30.83	72.08	town	
+11.17	Fatehpur on the Ravi	Vivien 1858				cannot place: village not located
+11.18	Karachi	Mizutani	24.86	67.01	town	from data/coords.tsv
+11.18	Kotesar (Koteshwar)	Cunningham 1871; Dey 1927	23.68	68.53	town	
+11.19	Lakorian (Lakura), between Khuzdar and Kalat	Mizutani	28.40	66.50	town	from data/coords.tsv
+11.21	Hyderabad (Sind)	Mizutani	25.39	68.37	town	from data/coords.tsv
+11.21	Nagar Parkar	Haig (notes)	24.36	70.75	town	
+11.22	Brahmanabad, Sind	Mizutani	25.88	68.80	town	from data/coords.tsv
+11.22	Khairpur area	Mizutani (alternative)	27.53	68.76	town	
+11.23	Bannu	Mizutani	32.99	70.60	town	from data/coords.tsv
+11.23	Vaneh on the middle Gomal	Vivien 1858	32.00	69.80	district	approx: middle Gomal valley
+12.01	Zabulistan (SE Afghanistan)	Mizutani	33.00	67.50	country	from data/coords.tsv
+12.01	Ghazni	Vivien 1858	33.55	68.42	town	
+12.01	Sewistan (Sibi)	Beal 1884	29.55	67.88	district	
+12.02	Kabul river basin	Mizutani	34.50	69.20	country	from data/coords.tsv
+12.02	Kabul	Cunningham 1871	34.53	69.17	town	
+12.02	Hupian (Opian) N of Charikar	Vivien 1858; Beal 1884	35.05	69.18	town	approx
+12.03	Andarab valley	Mizutani	35.63	69.27	district	from data/coords.tsv
+12.04	Khost (Khost-o-Fereng) valley, Baghlan	Mizutani	35.85	69.10	district	from data/coords.tsv
+12.06	Near Khanabad	Mizutani	36.68	69.11	town	from data/coords.tsv
+12.06	Taliqan	Watters 1904 (Yule)	36.74	69.53	town	
+12.06	Munjan, S Badakhshan	Beal 1884 (alternative); Vivien 1858	36.10	70.75	district	approx: Munjan valley
+12.09	Kishm, Badakhshan	Mizutani	36.80	70.10	town	from data/coords.tsv
+12.09	Ishkashim	Vivien 1858	36.71	71.61	town	
+12.11	Darayim, Badakhshan	Mizutani	36.90	70.45	district	from data/coords.tsv
+12.12	Badakhshan	Mizutani	37.00	71.00	country	from data/coords.tsv
+12.13	Yamgan district above Jurm, upper Kokcha	Mizutani	36.60	70.80	district	from data/coords.tsv
+12.13	Wakhan	Vivien 1858	37.00	72.50	district	
+12.17.02	Pamir river valley	Mizutani	37.25	73.20	district	from data/coords.tsv
+12.18	Tashkurgan, Sarikol	Mizutani	37.75	75.167	town	from data/coords.tsv
+12.18.04	no site given	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+12.18.05	SE of Tashkurghan, perhaps Kandar Punin mountain (following 白鳥)	Mizutani				no coordinates in data/coords.tsv: Mizutani gives no locatable site
+12.18.05	Chichiklik	Stein (via Mizutani)	37.95	75.55	site	approx: Chichiklik maidan NE of Tashkurgan
+12.18.05	Kandar Punin	Shiratori (via Mizutani)				cannot place: mountain not located
+12.19	Yarkand	Mizutani	38.40	77.267	town	from data/coords.tsv
+12.19	Yangi Hissar	Vivien 1858; Cunningham (via Mizutani)	38.92	76.17	town	38 55'N 76 10'E per Mizutani
+12.19	Chihil Gumbaz	Yule; Hedin (via Mizutani)	38.17	75.83	site	38 10'N 75 50'E per Mizutani
+12.19	Ighiz Yar	Takata (via Mizutani)	38.67	76.17	site	38 40'N 76 10'E per Mizutani
+12.19.02	Khan Kul, W of Yarkand	Mizutani	38.40	76.70	site	from data/coords.tsv
+12.19.02	Muztagh Ata	those taking Wusha = Yangi Hissar (via Mizutani)	38.28	75.12	site	
+12.19.02	Kongur	Mizutani (alternative)	38.59	75.31	site	

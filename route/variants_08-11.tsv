@@ -1,0 +1,79 @@
+id	name_zh	t2087_legs	t2088_text	t2088_legs	t2088_ref	t2053_text	t2053_legs	t2053_ref	mz_variant	mz_pdf_page	differs	note
+08.02.01	波吒釐子城	南 70+	周七十餘里人壽多歲	周 70+	T51:0961b	河南有故城，周七十餘里	周 70+	T50:0236a			none	not a leg: segments.tsv parsed the city's circumference (殑伽河南有故城。周七十餘里) as 南 70+; all three agree on 周七十餘里
+08.03.05	故伽藍 (華氏城西南)	西南 200+	城西南隅二百餘里	西南 200+	T51:0961c	又西南行六七由旬，至低羅磔迦寺	西南 6-7 yojana	T50:0236b			route	the Life skips the old monastery and goes from Pāṭaliputra SW 6-7 yojanas straight to Tiladhaka (= 2087's 200+ + 100+ li; at 40 li/yojana 240-280 li, roughly consistent)
+08.04.01	鞮羅擇迦伽藍	西南 100+	又寺西南百餘里	西南 100+	T51:0961c	又西南行六七由旬，至低羅磔迦寺	西南 6-7 yojana	T50:0236b			route	2088 agrees; the Life gives one leg Pāṭaliputra→Tiladhaka of 6-7 yojanas (and elsewhere 寺西三踰繕那 from Nālandā), which fits Tillāra
+08.04.02	大山 (佛入定山)	西南 90+	寺西南百里	西南 100	T51:0961c	從此又南行百餘里，到菩提樹	南 100+ (to the Bodhi tree)	T50:0236b			route	2088: 百里 for 九十餘里 (trivial); the Life goes from Tiladhaka S 100+ li directly to the Bodhi tree, skipping the mountain, Guṇamati, Śīlabhadra and Gayā
+08.04.03	德慧伽藍	西北 30+	山西北三十餘里	西北 30+	T51:0961c						route	2088 agrees; the Life skips (Tiladhaka→Bodhi tree direct)
+08.04.04	戒賢伽藍 (孤山)	西南 20+	又西南二十餘里孤山寺	西南 20+	T51:0962a						route	2088 agrees; the Life skips (Tiladhaka→Bodhi tree direct)
+08.05.01	伽耶城	西南 40-50	又西南五十許里。度尼連禪河有伽耶城	西南 50	T51:0962a						route	2088: 五十許 for 四五十 (within range); the Life does not go via Gayā
+08.05.01a	伽耶山	西南 5-6	城西南六里許。伽耶山也	西南 6	T51:0962a						route	2088: 六里許 for 五六里 (within range); the Life does not mention Gayā
+08.06.01	菩提樹 (垣內)	西南 14-15	此西南十五里近苦行處	西南 15	T51:0962a	從此又南行百餘里，到菩提樹	南 100+ (from Tiladhaka)	T50:0236b			route	2088 agrees (15 li SW of Prāgbodhi, in the deva's speech); the Life reaches the Bodhi tree from Tiladhaka, S 100+ li
+08.06.28	盲龍室	東 2-3									absent	neither 2088 nor the Life has the blind nāga's chamber
+09.01.03	屈屈吒播陀山 (窶盧播陀山)	東 100+	又東度莫訶東大林野行百餘里	東 100+	T51:0963b						none	2088 agrees; the Life does not describe Kukkuṭapāda (Bodhi tree→Nālandā direct)
+09.02.01	佛陀伐那山	東北 100+	雞足山東北百餘里。至佛陀伐那山	東北 100+	T51:0963b						none	2088 agrees; the Life silent
+09.02.02	洩瑟知林	東 30+	從空谷東出三十餘里	東 30+	T51:0963b						none	2088 agrees; the Life mentions 杖林山 (Jayasena) without a distance
+09.02.03	二溫泉 (杖林西南)	西南 10+	杖林西南十餘里。大山陽二溫泉甚熱	西南 10+	T51:0963c						none	2088 agrees; the Life silent
+09.02.03a	大山 (杖林東南)	東南 6-7	林東南七里許。大山嶺上石塔	東南 7	T51:0963c						none	2088: 七里許 for 六七里 (within range)
+09.02.03b	孤山 (廣博仙人)	北 3-4	大山東北四里許。至孤山仙人室也	東北 4	T51:0963c						bearing	2088: 東北 for 北 (4 li; trivial at this scale)
+09.02.03c	小孤山 (石室・阿素洛宮)	東北 4-5	又東北五里小孤山壁石室可坐千人	東北 5	T51:0963c						none	2088: 五里 for 四五里 (within range)
+09.02.04	矩奢掲羅補羅城 (上茅宮城)	東 60+	又東行六十餘里。至矩奢揭羅補羅城	東 60+	T51:0963c						none	2088 agrees; the Life describes Old Rājagṛha (from Nālandā) without a distance
+09.02.09	姞栗陀羅矩吒山	東北 14-15	宮城東北十五里許。至姞栗陀羅矩吒山	東北 15	T51:0964a	宮城東北行十四五里，至姞栗陀羅矩吒山	東北 14-15	T50:0237c			none	all agree
+09.02.12	大石室 (提婆達多入定)	東 2-3	山城北門左南崖陰。東行三里許大石室	東 3	T51:0964a						none	2088: 三里許 for 二三里 (within range); the Life silent
+09.02.16	大石室 (第一結集)	西南 5-6	竹園西南六里許。南山陰大竹林中大石室	西南 6	T51:0964b	竹園西南行五六里，山側有別竹林，中有大石室	西南 5-6	T50:0238a			none	all agree
+09.02.16a	大衆部結集處堵波	西 20+	西行二十餘里塔者	西 20+	T51:0964b	又此西二十里有窣堵波	西 20	T50:0238b			none	all agree (Life 二十里 without 餘)
+09.02.17a	無憂王堵波・石柱 (迦蘭陀池西北)	西北 2-3	池西北三里許塔	西北 3	T51:0964b						none	2088: 三里許 for 二三里 (within range); the Life silent
+09.03.01	那爛陀僧伽藍	北 30+	又北三十餘里至。那爛陀寺	北 30+	T51:0964b	行可七踰繕那至寺莊	7 yojana (from the Bodhi tree)	T50:0236c			route	2088 agrees; the Life reaches Nālandā from the Bodhi tree (about 7 yojanas, to the 寺莊 = Kolika), not from New Rājagṛha
+09.03.08	拘理迦邑	西南 8-9	寺西南九里許。沒特伽羅故里	西南 9	T51:0965a						none	2088: 九里許 for 八九里 (within range); the Life silent
+09.03.10	迦羅臂拏迦邑	東南 20+	又東南二十餘里。舍利子故里育王建塔	東南 20+	T51:0965a	又東行數里有窣堵波…又東行三十餘里，至因陀羅勢羅窶訶山	東 few + 東 30+	T50:0238c			route	2088 agrees; the Life skips Kālapināka and goes from the welcome stūpa straight E to Indraśailaguhā
+09.03.11	因陀羅勢羅窶訶山	東 30+	又東三十餘里帝釋窟也	東 30+	T51:0965a	又東行三十餘里，至因陀羅勢羅窶訶山	東 30+ (from the Bimbisāra-welcome stūpa)	T50:0238c			route	figure and bearing agree, but the Life's 30+ li is measured from the welcome stūpa, not from the Śāriputra-disciples stūpa (2087's chain adds 20+ SE + 5 SE), i.e. the Life puts Indraśailaguhā c. 25 li nearer Nālandā
+09.03.13	迦布徳迦伽藍	東北 150-160	帝山東北百六十里許。至迦布德寺	東北 160	T51:0965a	在路至迦布德伽藍	—	T50:0239c	原文の帝釈山より東北に「百五、六十里」とあるのを、「五、六十里」と訂正して	324	none	2088: 百六十里許 (within range); the Life gives no figure; Mizutani reports the emendation to 五六十里 (Julien/Cunningham) that makes Kapotaka = Bihār; no text supports it
+09.03.14	孤山 (觀自在菩薩像)	南 2-3	塔南三里孤山甚高峻	南 3 (from the Aśoka stūpa)	T51:0965a	伽藍南二三里有孤山	南 2-3	T50:0239c			none	all agree
+09.03.15	一伽藍 (孤山東南四十餘里)	東南 40+	又東南行四十里	東南 40	T51:0965a	自此漸去至伊爛拏國	— (no figure)	T50:0239c			none	2088 agrees; the Life goes on to Hiraṇyaparvata without intermediate stages
+09.03.15a	大聚落 (殑伽河南)	東北 70+	寺東北七十餘里殑河南	東北 70+	T51:0965a				伽藍より東北へ行くこと七十余里…従って「百七十余里」と訂正し	326	none	2088 agrees; Mizutani reports Cunningham's emendation to 百七十餘里 (Shekhpur); no text supports it
+09.03.15b	落般膩羅聚落	東 100+	又東入山林百餘里	東 100+	T51:0965a						none	2088 agrees; the Life silent
+10.01	伊爛拏鉢伐多國	東 200+	又東入山林二百里	東 200	T51:0965a	自此漸去至伊爛拏國	— (no figure)	T50:0239c			none	2088: 二百里 (no 餘); the Life gives no figure
+10.02	瞻波國	東 300+	東行三百里至。瞻波國	東 300	T51:0965b	自此順殑伽河南岸東行三百餘里，至瞻波國	東 300+	T50:0240a			none	all agree
+10.02.02a	孤嶼	東 140-150	城東百五十里殑河南水環孤洲	東 150	T51:0965b						none	2088: 百五十 for 百四五十 (within range); the Life silent
+10.03	羯朱嗢祇羅國	東 400+	又東四百餘里	東 400+	T51:0965b	自此東行四百餘里，至羯末嗢祇羅國	東 400+	T50:0240b			none	all agree
+10.04	奔那伐彈那國	東 600+	又東度殑伽河六百餘里	東 600+	T51:0965b	自此東度殑伽河，行六百餘里，至奔那伐彈那國	東 600+	T50:0240c			none	all agree
+10.04.02	跋始婆僧伽藍	西 20+	城西二十餘大寺	西 20+	T51:0965c	城西二十餘里有跋姞婆伽藍	西 20+	T50:0240c			none	all agree
+10.05	迦摩縷波國	東 900+	又東九百餘里渡大河	東 900+	T51:0965c	自此東南行九百餘里，至羯羅拏蘇伐剌那國	東南 900+ (to Karṇasuvarṇa)	T50:0240c			route	2088 agrees; the Life goes from Puṇḍravardhana SE 900+ to Karṇasuvarṇa, then SE to Samataṭa, and reaches Kāmarūpa only later, from Nālandā at Kumāra's invitation
+10.06	三摩呾吒國	南 1200-1300	從此南行千三百里	南 1300	T51:0965c	從此東南出至三摩怛吒國	東南 (from Karṇasuvarṇa)	T50:0240c			route	2088: 千三百 (within range); the Life comes to Samataṭa SE from Karṇasuvarṇa, without a figure
+10.07	耽摩栗底國	西 900+	又從三摩呾吒國西行九百里	西 900	T51:0966a	自此三摩怛吒國西行九百餘里，至耽摩栗底國	西 900+	T50:0240c			none	all agree
+10.08	羯羅拏蘇伐剌那國	西北 700+	又西北行七百餘里至	西北 700+	T51:0966a	自此東南行九百餘里，至羯羅拏蘇伐剌那國	東南 900+ (from Puṇḍravardhana)	T50:0240c			route	2088 agrees; in the Life Karṇasuvarṇa comes before Samataṭa (from Puṇḍravardhana), not after Tāmraliptī
+10.09	烏荼國	西南 700+	又西南七百餘里	西南 700+	T51:0966a	法師即西南向烏茶國	西南 (from Tāmraliptī)	T50:0241a			route	2088 agrees; the Life goes from Tāmraliptī SW to Uḍra, without a figure and without Karṇasuvarṇa
+10.10	恭御陀國	西南 1200+	又西南大林千二百餘里	西南 1200+	T51:0966a	自此西南大林中行千二百餘里，至恭御陀國	西南 1200+	T50:0241a			none	all agree
+10.11	羯𩜁伽國	西南 1400-1500	又西南大荒林。行千五百里許	西南 1500	T51:0966a	從此西南行大荒林千四五百里，至羯𩜁伽國	西南 1400-1500	T50:0241a			none	all agree (2088 千五百里許)
+10.12	憍薩羅國	西北 1800+	又此西北山林中。行一千八百餘里	西北 1800+	T51:0966b	自此西北行千八百餘里，至南憍薩羅國	西北 1800+	T50:0241a			none	all agree
+10.12.05	跋邏末羅耆釐山	西南 300+	又西南三百餘里。有跋邏末羅耆釐山	西南 300+	T51:0966b						none	2088 agrees; the Life silent
+10.13	案達羅國	南 900+	從南林行九百餘里	(南) 900+	T51:0966b	從此南大林中東南行九百餘里，至案達羅國	東南 900+	T50:0241b	南へ行くこと 『慈恩伝』四には「東南」に作る。	346	bearing	the Life: 東南 for 南; SE from the Kosala capital suits a Bastar/Chhattisgarh Kosala and Vengī for Andhra; 2088 has only 南林
+10.13.03	孤山	西南 20+	近寺西南二十餘里。孤山嶺上石塔	西南 20+	T51:0966c	羅漢伽藍西南二十餘里有孤山	西南 20+	T50:0241b			none	all agree
+10.14	駄那羯磔迦國	南 1000+	從此林野南行千餘里	南 1000+	T51:0966c	從此南行千餘里，至馱那羯磔迦國	南 1000+	T50:0241b			none	all agree
+10.15	珠利耶國	西南 1000+	自此西南千餘里	西南 1000+	T51:0966c	自此西行千餘里，至珠利耶國	西 1000+	T50:0241c			bearing	the Life: 西 for 西南
+10.16	達羅毘荼國	南 1500-1600	南林野行千六百里	南 1600	T51:0966c	從此南經大林，行千五六百里，至達羅毘荼國	南 1500-1600	T50:0241c			none	all agree (2088 千六百)
+10.17	秣羅矩吒國	南 3000+	自此南行三千餘里	南 3000+	T51:0967a	自此國界三千餘里，聞有秣羅矩吒國	3000+ (no bearing)	T50:0242a			none	the Life gives no bearing and marks it hearsay (聞有)
+11.01	僧伽羅國	東南 3000+	山東北海畔城古僧伽羅國今入海三千餘里	3000+ (no bearing)	T51:0967a	自城東南三千餘里至僧伽羅國	東南 3000+	T50:0242a			none	the Life agrees; 2088 omits the bearing
+11.01.08a	那羅稽羅洲	南 1000	國東南隅數千里那羅稽羅洲	東南 數千	T51:0967a	國南浮海數千里至那羅稽羅洲	南 數千	T50:0242c			bearing	2088: 東南 for 南 (both 數千里; hearsay)
+11.01.08c	大寶洲	西 1000	洲西浮海又數千里有大寶洲	西 數千 (from the islet)	T51:0967a						route	2088 measures 數千里 west from Nārikela-dvīpa (via the solitary island), not from the country; the Life silent
+11.02	恭建那補羅國	北 2000+	又於達羅毘國北林行二千餘里	北 2000+	T51:0967a	自達羅毘茶與師子國僧七十餘人，西北歸，觀禮聖迹，行二千餘里，至建那補羅國	西北 2000+	T50:0242c	前項末尾に「達羅毗茶国より北」するとあるが、玄奘の行程が西岸へ向かおうと言うのであるから、『慈恩伝』の如く「西北」に道を取ったと考えるべきであろう	365	bearing	the Life: 西北 for 北; Mizutani prefers 西北 (route toward the west coast); fits Konkaṇapura on the Tungabhadrā/Banavāsi side better
+11.03	摩訶剌侘國	西北 2400-2500	又西北林中猛獸所居。二千五百里許	西北 2500	T51:0967b	從此西北經大林暴獸之野，行二千四五百里，至摩訶剌侘國	西北 2400-2500	T50:0243a			none	all agree
+11.04	跋祿羯呫婆國	西 1000+	自此西行千餘里度耐末陀河	西 1000+	T51:0967b	自此西北行千餘里，渡耐秣陀河，至跋祿羯呫婆國	西北 1000+	T50:0243a	ここから西北へ『西城記』には「西」に作り、『慈恩伝』に「西北」とする。地理上より『伝』に従う。	369	bearing	the Life: 西北 for 西; Mizutani follows the Life on geography (Mahārāṣṭra→Broach is NW)
+11.05	摩臘婆國	西北 2000+	從此西北二千餘里	西北 2000+	T51:0967b	從此西北二千餘里，至摩臘婆國	西北 2000+	T50:0243a	この際には跋禄羯听婆国より「東北にあり」と訂するを要しよう	370	none	all agree; Mizutani notes that Mālava = Mālwā (Ujjayinī/Bhilsā) would require emending to 東北 (Smith's Kaira/Ahmadabad fits 西北)
+11.05.03	婆羅門邑	西北 20+	城西北二十里。有大婆羅門邑	西北 20	T51:0967c	大城西北二十餘里，婆羅門邑傍有陷坑	西北 20+	T50:0243b			none	all agree (2088 without 餘)
+11.06	阿吒釐國	西北 2400-2500	又西北行二千五百餘里	西北 2500+	T51:0967c	自此西北行二千四五百里，至阿吒釐國	西北 2400-2500	T50:0243b			none	all agree; neither repeats 2087's 西南入海交
+11.07	契吒國	西北 300+	又從摩臘國西北三日行。至契吒國	西北 3 days	T51:0967c	自此西北行三日，至契吒國	西北 3 days	T50:0243b	三日 宋元明三本は「三百余里」に作る。 『慈恩伝』は「三日」に作る。	373	none	2087 (Taishō), 2088 and the Life all read 三日; the 300+ li in segments.tsv is the 宋元明 reading, which Cunningham read as 千三百 for Kheḍā (Kaira); 三日 alone does not decide Kaira vs Cutch
+11.08	伐臘毘國	北 1000+	又北千餘里	北 1000+	T51:0967c	自此北行千餘里，至伐臘毘國	北 1000+	T50:0243b			none	all agree
+11.09	阿難陀補羅國	西北 700+	有三佛行坐迹　又於西北行七百餘里	西北 700+	T51:0967c	自此西北行七百餘里，至阿難陀補羅國	西北 700+	T50:0243b			none	all agree
+11.10	蘇剌侘國	西 500+	從伐臘西五百餘里	西 500+	T51:0967c	又西北行五百餘里，至蘇剌侘國	西北 500+ (from Ānandapura)	T50:0243b			route	2088 agrees; the Life reaches Surāṣṭra from Ānandapura (NW 500+), not from Valabhī (W 500+)
+11.11	瞿折羅國	北 1800+ + 東北 1800	又伐臘北千八百餘里	北 1800+	T51:0967c	自此東北行千八百里，至瞿折羅國	東北 1800 (from Surāṣṭra)	T50:0243b	『慈恩伝』では「此れ (蘇刺国)より東北へ行くこと千八百里にして折羅国に至る」と起点を異にしている	376	route	2088 agrees with 2087 (from Valabhī N); the Life goes from Surāṣṭra NE 1800 li — both bring Gurjara to the Bhinmāl area
+11.12	鄔闍衍那國	東南 2800+	又東南二千八百餘里	東南 2800+	T51:0968a	又東南行二千八百餘里，至烏闍衍那國	東南 2800+	T50:0243b			none	all agree
+11.13	擲枳陀國	東北 1000+	又東千餘里	東 1000+	T51:0968a	從此東北行千餘里，至擲枳陀國	東北 1000+	T50:0243b			bearing	2088: 東 for 東北; the Life agrees with 2087
+11.14	摩醯濕伐羅補羅國	北 900+	又北九百餘里	北 900+	T51:0968a	從此東北行九百餘里，至摩醯濕伐羅補羅國	東北 900+	T50:0243b	前項末尾に「擲枳陀国より北へ」とあるが、『慈恩伝』には「東北へ」とする。…恐らく「北」は「南」の誤りならん	379	bearing	the Life: 東北 for 北; NE/N from Jejākabhukti points to Gwalior (Smith), not Cunningham's emended 南 (Mandla)
+11.15	信度國	北 1900+	從瞿折羅北野。磧行二千里許。渡信度河至	北 2000 (from Gurjara)	T51:0968a	從此又東行七百餘里，至信度國	東 700+ (from Avaṇḍa)	T50:0243c	『慈恩伝』巻四の記述による玄奘の行程は、本書に記す道筋とは異なる。	379	route	2088: 二千里許 for 千九百餘; the Life returns from Maheśvarapura W to Surāṣṭra, then Aṭyanabakela→Langala→Pitāśilā→Avaṇḍa and reaches Sindh E 700+ from Avaṇḍa
+11.16	茂羅三部盧國	東 900+	自東九百餘里	東 900+	T51:0968a	從此東行九百餘里，渡河東岸，至茂羅三部盧國	東 900+	T50:0243c			none	all agree
+11.17	鉢伐多國	東北 700+	又東北七百餘里	東北 700+	T51:0968a	從此東北行七百餘里，至鉢伐多國	東北 700+	T50:0243c			none	all agree
+11.18	阿點婆翅羅國	西南 1500-1600	從信度西南千六百里	西南 1600 (from Sindh)	T51:0968b	從此又西還蘇剌侘國。自此復西行，至阿點婆翅羅國	西 (from Surāṣṭra, no figure)	T50:0243b	蘇刺侘国(に還り)-(西行して)→阿点婆麺羅国	379	route	2088 agrees with 2087; the Life reaches Aṭyanabakela from Surāṣṭra going W, before Sindh
+11.19	狼揭羅國	西 2000	又城西減二千里	西 <2000	T51:0968b	從此西行二千餘里，至狼揭羅國	西 2000+	T50:0243b			li	the Life: 二千餘里 for 減二千里 (a few hundred li at most)
+11.21	臂多勢羅國	北 700+ + 東北 700+	從阿點北七百餘里至臂多勢羅國	北 700+	T51:0968b	又從狼揭羅國東北行七百餘里，至臂多勢羅國	東北 700+ (from Langala)	T50:0243c	(東北行七百余里)→臂多勢羅国	379	route	2088 agrees with 2087 (from Aṭyanabakela N); the Life goes from Langala NE 700+
+11.22	阿軬荼國	東北 300+	又東北三百餘里至軬荼	東北 300+	T51:0968b	從此東北行三百餘里，至阿軬荼國	東北 300+	T50:0243c			none	all agree
+11.23	伐剌拏國	東北 900+	又東北九百餘里	東北 900+	T51:0968c	自此復正南行十五日，往伐剌拏國	南 15 days (from Lampā)	T50:0249c			route	2088 agrees; the Life visits Varṇu on the way home, 15 days S of Lampā, not NE of Avaṇḍa

@@ -1,0 +1,7 @@
+id	action	legs	from_id	reason
+03.03	exclude			"南 3-4" is the width of the Indus, not a distance travelled (variants_02-04)
+05.06	set	北 170-180	05.05.06	T2087 has only 北 170-180 from 迦奢布羅城; the 東 500+ is the Life's leg from Kauśāmbī (variants_05-07)
+08.02.01	exclude			"南 70+" is the old city's circumference (周七十餘里), not a leg (variants_08-11)
+11.07	exclude			all three texts read 三日 (three days); 三百餘里 is only the Song/Yuan/Ming reading, which Cunningham reread as 千三百 (variants_08-11)
+11.11	set	北 1800+	11.08	T2087 has 北 1800+ from Valabhī; the 東北 1800 is the Life's leg from Surāṣṭra (variants_08-11)
+11.21	set	北 700+	11.18	T2087 has 北 700+; the 東北 700+ is the Life's leg from Laṅgala (variants_08-11)

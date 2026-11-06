@@ -147,7 +147,7 @@ id	name_zh	modern_name	lat	lon	precision	basis	note
 03.08	曷邏闍補羅國	Rajauri	33.38	74.31	town	known	
 04.01	磔迦國	Punjab plain between Beas and Chenab	31.60	74.30	country	approx	region centroid; capital perhaps 'new Sakala'
 04.01.02	奢羯羅故城	Sialkot	32.49	74.53	town	known	
-04.02	至那僕底國	Chiniyari, between Amritsar and Sialkot	32.06	74.70	district	approx	village not found; placed midway Amritsar-Sialkot
+04.02	至那僕底國	Chine (Chiniyari) mound, c. 11 mi from Amritsar on the Sialkot road	31.780	74.820	site	approx	placed at Cunningham's Chine (ASR XIV, XXI), which is Mizutani's Chiniyari; earlier point was a midpoint
 04.02.03	答秣蘇伐那僧伽藍	Sultanpur (Lodhi), SE of Amritsar	31.21	75.20	town	known	
 04.03	闍爛達羅國	Jalandhar	31.33	75.58	town	known	
 04.04	屈露多國	Kulu; old capital Nagar	32.13	77.17	town	known	
@@ -164,7 +164,7 @@ id	name_zh	modern_name	lat	lon	precision	basis	note
 04.09.03	殑伽河源	Haridwar	29.95	78.16	town	known	
 04.10	秣底補羅國	E bank of the Ganges opposite Srughna (Bijnor area)	29.60	78.20	district	approx	region only; Mizutani cites Mandawar (29°29'N 78°08'E) as others' view
 04.10.05	摩裕羅城	Haridwar (Mayapur)	29.94	78.15	site	known	
-04.11	婆羅吸摩補羅國	Srinagar (Garhwal)	30.233	78.617	town	mizutani	Mizutani gives 30°14'N 78°37'E
+04.11	婆羅吸摩補羅國	Srinagar (Garhwal)	30.233	78.780	town	mizutani	Srinagar (Garhwal) at c. 78.78°E; Mizutani prints 78°37′E
 04.11.02	蘇伐剌拏瞿呾羅國	Western Tibet (Eastern Women's Kingdom)	32.00	80.00	country	approx	broad Himalayan region, placed in western Tibet; c. 240 km from Garhwal: neighbouring country named in the section
 04.12	瞿毘霜那國	1 mile E of Kashipur, Uttarakhand	29.217	78.967	site	mizutani	Mizutani's coordinates for Kashipur have N/E swapped (printed 29°13'E 78°57'N); corrected, and moved 1 mile E
 04.13	堊醯掣呾羅國	Ramnagar (Ahichchhatra), Bareilly district	28.37	79.13	site	known	

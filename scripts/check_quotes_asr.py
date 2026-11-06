@@ -13,6 +13,7 @@ for path in sys.argv[1:]:
     for r in csv.DictReader((l for l in open(path, encoding="utf-8") if not l.startswith("#")), delimiter="\t"):
         if r.get("relevant", "").strip() == "no" and not r.get("quote", "").strip(): ok += 1; continue
         f = D / (r.get("file") or "")
+        if not f.exists(): f = D.parent / "asr_annual" / (r.get("file") or "")
         if f.exists() and f not in cache: cache[f] = norm(f.read_text(encoding="utf-8", errors="replace"))
         frs = [x for x in re.split(r"…|\.\.\.", norm(r.get("quote", "")).strip('"')) if len(x) >= 12]
         err = "unknown file" if not f.exists() else ("quote empty/too short" if not frs else ("" if all(x in cache[f] for x in frs) else "quote not found"))

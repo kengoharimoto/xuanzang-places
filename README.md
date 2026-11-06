@@ -141,6 +141,25 @@ check.
 
 Neither source covers juan 1 and 12, and the gazetteers have little on Kashmir. The notes say so.
 
+## Testing against the route and the texts
+
+`route/README.md` tests the identifications against Xuanzang's own figures.
+
+- **The li.** On 29 legs between agreed places, a li covers a median 0.239 km in a straight line, or about
+  0.29–0.32 km by road. That is close to Hori's 320 m and Cunningham's 1/6 mile, well short of the 440 m Mizutani
+  adopts.
+- **The texts.** 262 legs were compared across T2087, 釋迦方志 (T2088) and the *Life* (T2053), with Mizutani's
+  variant notes. 88 of them differ. A few variants bear on identifications:
+  - Tamasavana: the *Life*'s 50 li for 500.
+  - Kapilavastu: 500 li, not the *Life*'s 800.
+  - The 戰主國 capital: the *Life* counts the distance to Vaiśālī from the capital, which puts it well short of
+    Ghazipur.
+  - Kiṭa: "three days" in all three texts, not 300 li.
+  - Maheśvarapura: every bearing goes against Cunningham's Mandla.
+- **Rival sites.** Candidates were scored against their neighbours' positions. This is a useful filter: it counts
+  against Mizutani's Siṃhapura pair unless the text is emended. It is not proof. Kosam fails the text's 500 li and
+  is still certain from its inscription and excavation.
+
 ## Main proposed revisions to Mizutani
 
 Proposals of medium or high confidence where the evidence points away from Mizutani. The full list, including the
@@ -204,6 +223,7 @@ Left open by the new evidence:
 - `data/coords.tsv`: coordinates.
 - `map/xuanzang_places.html`: map and place dossier (published privately at
   https://claude.ai/artifact/WUH4GFEULK5rZ8oaXw8PpH), built by `map/build_page.py` from `map/template.html`.
+- `route/`: route model, li calibration, candidate scores, text variants (`route/README.md`).
 - `scripts/`: OCR join, quote checkers, hit indexes, merge and join.
 - `data/*_INSTRUCTIONS.md`, `data/NOTES_REVISION_ASR.md`: the coding instructions.
 - `PLAN.md`: the original plan.
