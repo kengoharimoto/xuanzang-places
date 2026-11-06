@@ -45,8 +45,7 @@
   10.12.05 rows concern Faxian's monastery, linked only through Mizutani's equation; Majumdar p. 728 vs Mizutani on
   the Valabhī record of 639 and Mālava (11.05) needs checking in the text.
 - **ASR coding fixes applied**: passage 361 loses 04.02.03; 151/152 `03.04.06`→`03.04.05;new`; 154 page 172; 229
-  `03.04.02`→`03.04.03`. **Open**: ASR V pp. 67–68 (the Taxila copper plate from Thupkia in Sirsukh; Sirkap/Sirsukh) was not
-  caught by the index and is uncoded; the "Madrasa" mound at Thanesar (passages 165, 370) may be one mound or two;
+  `03.04.02`→`03.04.03`. ASR V pp. 67–68 (the Taxila copper plate; Sirkap/Sirsukh; Hatial) is now coded (`asr_batch6.tsv`). **Open**: the "Madrasa" mound at Thanesar (passages 165, 370) may be one mound or two;
   passage 354 — Cunningham read 百四五十歩 as li; passage 177 evidence says 2000 li where the quote has 1,000; passage 463
   bears on 10.12 too; passage 387's `new` duplicates 386.
 - **More ASR fixes**: passage 15 gains 09.03.06 (mound A, 63 ft not 53); 329 `confirms`→`revises`. **Open**: Mizutani's

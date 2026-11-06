@@ -1108,6 +1108,11 @@ at the old Hindu city of Vijnot (G#1969), Banfill's candidate for the capital.
 **Route test.** Measured from Gurjara (now corrected; see route/README.md §5), Alor, Vijnot and Mirchandani's
 Mithankot score alike (mean |z| 0.42, 0.37, 0.46). The 1900 li north from Bhinmal fit all three.
 
+**Lambrick (Sind, 1964).** Lambrick takes the country as Upper Sind, the Chachnāma's Rai kingdom reaching the Salt
+Range. He doubts Alor as the capital: the Indus probably did not then flow east of Alor, and the transcription would
+be "A-lo-lo". He puts the capital on the right bank between Pano Akil and Kandhkot, since eroded by the river (pp.
+147–48, 166). His li is elastic, about 5 to the mile, 50 li to a day's march of 10 miles.
+
 **Assessment.** Branfill's Vijnot gives a closer sound for Pi-chen-po-pu-lo, but these sources offer no evidence
 beyond the name. Alor, the historical capital of Upper Sindh, stands.
 
@@ -1207,13 +1212,16 @@ Gazetteer (p. 189; B010); the district volume describes c. 1,500 rock-cut dwelli
 **Route test.** Gondakahar scores worst when measured from Mizutani's Sindhu (mean |z| 0.86), but Mirchandani's whole
 route from Mithankot fits the text best (route/README.md §5).
 
+**Lambrick (Sind, 1964).** Lambrick puts the country in the Indus delta, with Debal as its capital, and rejects
+Cutch/Koṭeśvara on the transcription (p. 148).
+
 **Assessment.** These sources split between Karachi or the delta (Debal/Banbhore) and Koṭeśvara in Kutch. 朅 (*khjat)
 suits Kacch- better than Koṭi-. A great Śiva shrine at the Indus mouth served by ash-smearers fits this country's
 大自在天祠, and the Skandapurāṇa's Śaṅkukarṇa–Sthūleśvara lies there. Mizutani's lower Sindh stands, low to medium
 confidence; Banbhore joins Karachi and Koṭeśvara as a candidate for the capital, and Mirchandani's Las Bela (capital
 Gondakahar) as an alternative for the country, resting on the Chachnāma's Armābel rather than on the name.
 
-### 11.19 狼揭羅國 (Laṅgala) — Makran; capital 窣菟黎濕伐羅 = Sthūleśvara by name, probably in western (Persian) Makran; Lākoriān weakened
+### 11.19 狼揭羅國 (Laṅgala) — Makran; capital 窣菟黎濕伐羅 = Sthūleśvara by name, site open (western Makran by the Xiyu ji's figures, nearer Las Bela by the Life's); Lākoriān weakened
 
 **Identifications.** Mizutani: E Mekran or SE Baluchistan, the capital the great ruined city of "Lākorian" (agreed).
 Cunningham reaches "Lakūra" only by changing the bearing from W to NW (AGI p. 356). Watters suggests the capital's
@@ -1252,12 +1260,20 @@ Masson, took the dams for defences (p. 182; S019), which probably lies behind Cu
 (Turbat) has been Makran's chief centre of population from early times, but the Miri mound has only prehistoric and
 medieval material (pp. 63–65; S013–S014). Nothing Buddhist was found in Makran.
 
+**Lambrick (Sind, 1964).** Lambrick puts Laṅgala in Las Bela with parts of Jhalawan and eastern Makran, and names no
+capital site (pp. 148–49).
+
+**The Life.** The Life (T2053) goes from Laṅgala north-east 700 li to Pītaśilā, whereas the Xiyu ji counts Pītaśilā
+700 li north from Atyanabakela. On the Life's leg Kasarkand is far too distant (492 km against about 167 predicted),
+while Las Bela or eastern Makran would fit (route/README.md §5).
+
 **Assessment.** The capital's name is Sthūleśvara; the Skandapurāṇa locates that liṅga at the Indus mouth. Mizutani's
 Lākoriān now fails on three counts: the bearing (north, not west), the site (irrigation dams and no ruined city, per
 the Jhalawan gazetteer and Stein), and the political note (Makran east of the Persian border was Sind's c. 635, while
 狼揭羅 was subject to Persia). Western, Persian Makran fits the bearing, the distance and the subjection to Persia;
-Kasarkand on the Kech valley road is a candidate for the capital (Mirchandani), though not proven. Region: Makran,
-with the capital probably in the west; Lākoriān weakened; low to medium confidence.
+Kasarkand on the Kech valley road is a candidate for the capital (Mirchandani), but the Life's leg to Pītaśilā
+(north-east 700 li) suits a Laṅgala nearer Las Bela or eastern Makran (Lambrick). Region: Makran, with the capital
+probably in the west; Lākoriān weakened; low to medium confidence.
 
 ### 11.20 波剌斯國 (Pārsa) — Persia; capital Persepolis/Istakhr
 
@@ -1320,6 +1336,10 @@ route, measured from Bela (z 0.0).
 **Stein (MASI 37, 1929; MASI 43, 1931).** Khozdar is attested in the 7th-century Arab campaigns, but its remains are
 Islamic (MASI 43, pp. 13, 171–78; S015–S017).
 
+**Lambrick (Sind, 1964).** Lambrick places Pītaśilā round Sehwan, with Jhalawan as his second choice. Xuanzang
+mentions no Indus crossing, so the country lay west of the river. He rejects Hyderabad (Cunningham) and Nagar
+Parkar/Umarkot (Haig) (p. 149).
+
 **Assessment.** The three placements differ materially, and none cites remains. Mizutani follows Cunningham, and
 confidence is low.
 
@@ -1350,6 +1370,9 @@ Xuanzang's time.
 **Route test.** Brahmanabad fits the 300 li from Hyderabad (z −0.1), but its onward leg to Bannu is 810 km against
 about 215 km predicted. Gandāva fits within Mirchandani's route: from Khuzdar the unemended 300 li give z +1.1, and
 its onward leg to Duki z −0.1.
+
+**Lambrick (Sind, 1964).** Lambrick places Avaṇḍa south of Larkana, with its capital at Badah, and takes its Aśoka
+stūpa to be the stūpa at Mohenjo-daro (p. 150).
 
 **Assessment.** Middle Sindh (Brahmanabad/Khairpur) fits the 300 li from Hyderabad but breaks the route onward to
 Varṇa. Kachhi has the Arab-period capital Kandabil = Gandāva, tributary to Sind c. 635, pre-Islamic mounds and
@@ -1390,6 +1413,9 @@ S003–S004). On the southern route, a Sasanian silver coin from Dabar-kot in th
 the only find of about Xuanzang's period. The Kushan stūpa of Tor-dherai lies nearby (S011); the OCR breaks off before
 Stein's description of it and Konow's appendix on its inscriptions.
 
+**Lambrick (Sind, 1964).** Lambrick puts Varṇa near Barkhan, rejecting the Gomal/Vaneh view, based on the Life,
+because it makes both stage distances wrong (pp. 150, 167).
+
 **Assessment.** Bannu breaks the route from Avaṇḍa unless Avaṇḍa lay far to the north. Duki fits the distance from
 Gandāva but has no 7th-century record. The choice follows 11.22: Middle Sindh leaves Varṇa unfixed; Kachhi points to
 the Bolan–Loralai country. Low confidence for either.
@@ -1422,6 +1448,9 @@ Quetta–Pishin (B051–B053, except a village Kikani, B052). The name matches �
 horses), the bearing west from Bannu and the Arabs' Qīqān. Al-Balādhurī's raid of 664–65 names Banna together with
 Qīqān (MASI 37, pp. 29–30; S005–S006). He has no find in support and does not discuss the Kīkān-at-Nal reading of the
 Baluchistan gazetteers.
+
+**Lambrick (Sind, 1964).** Lambrick takes 稽疆那 as the Arabs' Kaikanan in Loralai or Zhob, and sets aside Kaikan near
+Nal as not fitting the itinerary (pp. 150–51).
 
 **Assessment.** Cunningham's Pishin rested on the Arab Kīkān. Stein places that Qīqān in Waziristan, and his field
 tour fits the description, as Bannu (11.23) does. The Baluchistan gazetteers, however, put the Arab Kīkān at Nal in

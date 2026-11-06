@@ -576,6 +576,11 @@ BC or AD, not Xuanzang's city.
 **Gazetteers.** Rawalpindi 1883 and 1895 echo ASR II word for word: coins, lapis, and "probably the site of the
 inhabited part of the city in the time of Hwen Thsang".
 
+**Survey (ASR V).** Cunningham (ASR V, 1872–73, pp. 67–68) uses the Taxila copper plate of the satrap Liaka Kusuluka
+to argue that Sirkap was Taxila: the plate was found at Thupkia in the middle of Sirsukh, and it names him satrap of
+Chhahara and Chukhsa "to the north-east of the city of Takhasila", which is where Sirsukh lies relative to Sirkap.
+This concerns the city of the plate's date (1st c. BC/AD), not directly the capital Xuanzang saw.
+
 **Assessment.** The Bir mound rests on surface finds and on a circular argument with a head-gift stūpa that Marshall
 has since put elsewhere. The Annual Reports show Sirsukh to be the walled Kushan city, the latest of the three,
 still occupied in the 3rd–4th century. That supports Mizutani, though nothing here proves occupation in the 7th
@@ -620,6 +625,10 @@ still uncleared. In AR 1914–15 (p. 13) he makes Bhalar contemporary with the K
 calls the extant stūpa early medieval.
 
 **Gazetteers.** Rawalpindi 1883 and 1895 restate Cunningham's view in summary.
+
+**Survey (ASR V).** Cunningham (ASR V, p. 67) proposes Hatial (Athial, "place of bones"), the lower slope of the
+fortified Sur-garh hill at Taxila, for the head-gift, reading "head" for "body" in Songyun. The basis is the
+place-name.
 
 **Assessment.** Cunningham's 12–13 li N is measured from the Bir mound; from Sirsukh, which lies at the NE corner of
 Babar-khana on his own plan, the Jhandiala stūpa is not to the north. Marshall's dating objection decides nothing,

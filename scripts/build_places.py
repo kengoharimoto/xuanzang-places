@@ -66,13 +66,18 @@ def asr_tag(r):
     v = r.get("file", "").replace(".txt", "").replace("asr", "ASR ").replace("mukherji1901_tarai", "Mukherji 1901")
     return f'{r.get("author","")}, {v}' + (f' p. {r["page"]}' if r.get("page") else "")
 cols = ["id", "juan", "level", "parent", "name_zh", "name_ja", "original_name", "visit", "mz_identification",
-        "mz_other_views", "mz_status"] + AUTH + ["gaz_n", "gaz_argues", "gaz_volumes", "gaz_local_evidence", "asr", "asr_n", "asr_evidence", "ar", "ar_n", "ar_evidence", "epig", "epig_n", "epig_evidence", "iar", "iar_n", "iar_evidence", "t2087_ref", "t2087_text", "translation", "translation_source", "translation_check", "translation_issues"] + RELCOLS + ["user_obs", "user_obs_assessment"]
+        "mz_other_views", "mz_status"] + AUTH + ["gaz_n", "gaz_argues", "gaz_volumes", "gaz_local_evidence", "asr", "asr_n", "asr_evidence", "ar", "ar_n", "ar_evidence", "epig", "epig_n", "epig_evidence", "iar", "iar_n", "iar_evidence", "t2087_ref", "t2087_text", "translation", "translation_source", "translation_check", "translation_issues"] + RELCOLS + ["user_obs", "user_obs_assessment", "life_ref", "life_text", "life_translation", "life_note"]
 def _load(path, key="id"):
     try: return {r[key]: r for r in rd(path)}
     except FileNotFoundError: return {}
 PASS = {}
 for f in sorted(glob.glob("data/text/passages_*.tsv")): PASS.update(_load(f))
 TRAN = _load("data/text/translation_dm.tsv")
+LPASS = {}   # the Life (T2053): parallel passages and their translations
+for f in sorted(glob.glob("data/text/life_passages_*.tsv")): LPASS.update(_load(f))
+LANC = {}
+for f in sorted(glob.glob("data/text/life_anchors_*.tsv")): LANC.update(_load(f))
+LTRAN = _load("data/text/life_translation_dm.tsv")
 REV, REL = {}, {}
 for f in sorted(glob.glob("data/text/review_[0-9]*.tsv")): REV.update(_load(f))
 try: STALE = set(open("data/text/review_stale_ids.txt").read().split())   # passages re-cut with notes; old reviews no longer apply
@@ -115,6 +120,9 @@ for m in master:
     rl = REL.get(m["id"], {})
     for c in RELCOLS: row[c] = rl.get(c, "")
     row["user_obs"] = " || ".join(f'[{o["kind"]}] {o["observation"]}' for o in OBS[m["id"]])
+    lp = LPASS.get(m["id"], {})
+    row["life_ref"] = lp.get("t_ref", ""); row["life_text"] = lp.get("zh", "")
+    row["life_translation"] = LTRAN.get(m["id"], {}).get("en", "") if lp else ""; row["life_note"] = LANC.get(m["id"], {}).get("note", "")
     row["user_obs_assessment"] = " || ".join(o["assessment"] for o in OBS[m["id"]])
     for col, store in (("epig", epg), ("iar", iar)):
         a = store[m["id"]]

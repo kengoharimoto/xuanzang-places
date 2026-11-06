@@ -128,8 +128,8 @@ and T2088 has 從瞿折羅北野…二千里許.
 |---|---|---|---|---|
 | Mirchandani 1967 (Mithankot, Gondakahar, Kasarkand, Khuzdar, Gandāva, Duki) | 0.38 | 1.11 | 18° | 0 |
 | Mizutani, with Kasarkand for Laṅgala | 0.60 | 2.69 | 32° | 1 |
+| Lambrick 1964 (Pano Akil–Kandhkot, Banbhore, Las Bela for Laṅgala, Sehwan, Badah, Barkhan) | 0.61 | 1.72 | 32° | 1 |
 | Mizutani (Alor, Karachi, Lākoriān, Hyderabad, Brahmanabad, Bannu) | 0.62 | 2.69 | 41° | 1 |
-| Lambrick 1964 (Banbhore, Sehwan, Badah; Mizutani elsewhere) | 0.66 | 2.32 | 36° | 1 |
 | Cunningham's Kotesar, with Mizutani | 0.66 | 2.69 | 35° | 1 |
 
 Mirchandani's route fits the stated li and bearings best. That holds without his emendation of 300 li to 500: the
@@ -146,6 +146,22 @@ Two caveats:
   choices rest on names and on the Arab geography.
 - **The text.** Atyanabakela 臨信度河，鄰大海濱 is the main objection to Las Bela. Mirchandani reads it of the country
   ("bounded … on the east by the Indus"), but Las Bela is bounded by the Hab, not the Indus.
+
+The Life orders the same stretch differently: Surāṣṭra → Atyanabakela → Laṅgala → north-east 700 li → Pītaśilā →
+Avaṇḍa → east 700 li → Sindhu → Multan → Parvata (`variants_08-11.tsv`). Scored on the Life's legs
+(`chain_scores_life.tsv`):
+
+| Scheme | mean \|z\| | mean bearing error |
+|---|---|---|
+| Cunningham's Kotesar, with Mizutani | 0.64 | 57° |
+| Mizutani | 0.65 | 59° |
+| Lambrick 1964 | 0.71 | 39° |
+| Mizutani, with Kasarkand | 0.79 | 39° |
+| Mirchandani 1967 | 0.90 | 19° |
+
+On the Life's legs the distances slightly favour Mizutani and the bearings strongly favour Mirchandani. The Life's
+leg from Laṅgala north-east 700 li to Pītaśilā is too short for Kasarkand (492 km against about 167 predicted). The
+Life therefore points to a Laṅgala less far west than Persian Makran. Its leg from Atyanabakela gives no figure.
 
 ## 6. Whole routes, juan by juan
 
@@ -168,7 +184,7 @@ Each leg scores |z| plus the bearing error divided by 45°. A "bad leg" is one w
 | 8 | 0.68 (0) | none better | 0.68 (0) |
 | 9 | 2.42 (2) | none better | 2.29 (1) |
 | 10 | 0.84 (4) | Cunningham: 0.45 (1) | 0.35 (8) |
-| 11 | 0.57 (2) | Mirchandani: 0.46 (1) | 0.53 (6) |
+| 11 | 0.57 (2) | Mirchandani: 0.46 (1) | 0.52 (6) |
 | 12 | 0.69 (2) | none better | 0.6 (2) |
 
 Results by juan:

@@ -185,8 +185,8 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
     0.62; `route/README.md` §5).
   - **Baluchistan District Gazetteers** (1906–08): they support Kachhi with Kandabil = Gandāva, tributary to Sind
     c. 635, and Buddhist sealings of the 8th–9th century.
-  - **Proposed changes:** Laṅgala's capital moves west (Lākoriān weakened), and Kachhi becomes an equal alternative for
-    Avaṇḍa. Atyanabakela stays in lower Sindh because of 臨信度河.
+  - **Proposed changes:** Lākoriān is weakened as Laṅgala's capital. The Xiyu ji's figures point to western Makran,
+    the Life's to somewhere nearer Las Bela. Kachhi becomes an equal alternative for Avaṇḍa. Atyanabakela stays in lower Sindh because of 臨信度河.
 - **Whole routes, juan by juan** (`route/README.md` §6). This compares each authority's set of sites with Mizutani's
   and finds the best-fitting combination of candidates.
   - **Juan 10:** the figures favour Cunningham's Deccan, against inscriptions that the study follows.

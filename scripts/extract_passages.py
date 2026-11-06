@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Cut T2087 into one passage per place from start anchors.
 
-Usage (from xuanzang-places/): python3 -I scripts/extract_passages.py data/text/anchors_<range>.tsv  -> data/text/passages_<range>.tsv
+Usage (from xuanzang-places/): python3 -I scripts/extract_passages.py data/text/anchors_<range>.tsv
+       XZ_TEXT=life python3 -I scripts/extract_passages.py data/text/life_anchors_<range>.tsv   (the Life, T2053)  -> data/text/passages_<range>.tsv
        python3 -I scripts/extract_passages.py data/text/anchors_*.tsv      (all files) -> data/text/passages.tsv
 anchors_*.tsv columns: id, mode, anchor, end_anchor, note
   mode = segment: the passage runs from `anchor` (verbatim T2087 text, >= 6 chars, unique after the previous segment's
@@ -11,11 +12,14 @@ anchors_*.tsv columns: id, mode, anchor, end_anchor, note
 Matching ignores whitespace and text is CBETA T2087 with real characters (no gaiji codes). Page refs [T51:NNNNx] are
 recorded as `t_ref` (the page where the passage starts) and stripped from the text.
 """
-import csv, glob, re, sys
-raw = open("data/ref/t2087_cb_joined.txt", encoding="utf-8").read().replace("\n", "")
+import csv, glob, re, sys, os
+LIFE = os.environ.get("XZ_TEXT") == "life"   # XZ_TEXT=life: cut the Life (T2053, data/ref/t2053_joined.txt) instead;
+# anchors files life_anchors_*.tsv -> life_passages_*.tsv (all files -> life_passages.tsv); refs T50:NNNNx
+SRC, VOL = ("data/ref/t2053_joined.txt", "T50") if LIFE else ("data/ref/t2087_cb_joined.txt", "T51")
+raw = open(SRC, encoding="utf-8").read().replace("\n", "")
 # position map: text without page markers, plus the page at each position
 txt, pages, cur = [], [], ""
-for m in re.finditer(r"\[T51:(\d+[abc])\]|.", raw, re.S):
+for m in re.finditer(r"\[T5[01]:(\d+[abc])\]|.", raw, re.S):
     if m.group(1): cur = m.group(1); continue
     txt.append(m.group(0)); pages.append(cur)
 T = "".join(txt)
@@ -61,9 +65,9 @@ for r in rows:
     j = span_end(r["end_anchor"], e) if e >= 0 else T.find("。", i) + 1
     out[r["id"]] = ("excerpt", T[i:j], pages[i])
 import os
-outp = "data/text/passages.tsv" if len(sys.argv) > 2 else "data/text/" + os.path.basename(sys.argv[1]).replace("anchors_", "passages_")
+outp = ("data/text/life_passages.tsv" if LIFE else "data/text/passages.tsv") if len(sys.argv) > 2 else "data/text/" + os.path.basename(sys.argv[1]).replace("anchors_", "passages_")
 w = csv.DictWriter(open(outp, "w", encoding="utf-8", newline=""), ["id", "mode", "t_ref", "zh"], delimiter="\t", lineterminator="\n")
-w.writeheader(); w.writerows({"id": i, "mode": m, "t_ref": "T51:" + ref, "zh": zh} for i, (m, zh, ref) in sorted(out.items()))
+w.writeheader(); w.writerows({"id": i, "mode": m, "t_ref": VOL + ":" + ref, "zh": zh} for i, (m, zh, ref) in sorted(out.items()))
 prev = out
 print(len(out), "passages from", len(rows), "anchors ->", outp)
 print("\n".join(errs) or "no errors")

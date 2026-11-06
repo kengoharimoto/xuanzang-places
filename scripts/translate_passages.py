@@ -2,6 +2,7 @@
 """Translate each place's T2087 passage with DharmaMitra's public cat-translate API.
 
 Usage (from xuanzang-places/): python3 -I scripts/translate_passages.py [passages_file.tsv] [--limit N]
+       python3 -I scripts/translate_passages.py data/text/life_passages.tsv   (the Life -> life_translation_dm.tsv)
 Input: data/text/passages.tsv (id, mode, t_ref, zh). Output (appended, resumable): data/text/translation_dm.tsv
 (id, en, chunks, model, date). Each passage is split at sentence ends into chunks of <= 320 characters; each call's
 `context` gives the work, the place, a glossary of the master table's names that occur in the chunk (Chinese name =
@@ -25,7 +26,8 @@ for r in M:
 names = {r["id"]: r["name_zh"] for r in M}
 SRC = next((a for a in sys.argv[1:] if a.endswith(".tsv")), "data/text/passages.tsv")
 P = list(csv.DictReader(open(SRC, encoding="utf-8"), delimiter="\t"))
-OUT = "data/text/translation_dm.tsv"
+LIFE = "life_passages" in SRC   # the Life (T2053) -> data/text/life_translation_dm.tsv
+OUT = "data/text/life_translation_dm.tsv" if LIFE else "data/text/translation_dm.tsv"
 done = set()
 try: done = {r["id"] for r in csv.DictReader(open(OUT, encoding="utf-8"), delimiter="\t")}
 except FileNotFoundError:
@@ -55,7 +57,7 @@ for p in P:
     prev, parts = "", []
     for c in chunks(p["zh"]):
         g = "; ".join(f"{k} = {v}" for k, v in gloss.items() if k in c)[:900]
-        ctx = (f"Source: Xuanzang, Da Tang Xiyu ji (T2087), {p['t_ref']}. Place: {names.get(p['id'], '')}. "
+        ctx = (f"Source: {'Huili and Yancong, Life of Xuanzang (Da Ci’en si sanzang fashi zhuan, T2053)' if LIFE else 'Xuanzang, Da Tang Xiyu ji (T2087)'}, {p['t_ref']}. Place: {names.get(p['id'], '')}. "
                + (f"Names: {g}. " if g else "") + (f"Preceding translation: ...{prev[-500:]}" if prev else ""))
         en = call({"input_chinese": c, "context": ctx, "focus": "chinese", "target_language": "english", "style_instruction": STYLE})
         parts.append(en); prev = en; time.sleep(1.5)

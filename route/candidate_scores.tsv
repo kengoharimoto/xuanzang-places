@@ -300,6 +300,7 @@ id	candidate	proposer	n_segments	mean_abs_z	mean_bearing_off	n_precise	z_precise
 11.14	Seronj	Cunningham ASR IX	0			0				
 11.14	Macheri, 35 leagues W of Agra	Vivien 1858	0			0				approx: Machari (Alwar)
 11.15	Vijnot	Branfill (via Majumdar 1924)	3	0.37	33	3	0.37	33	←11.11 北 1900+: 430 km (pred 454), z -0.1, bearing off 36° | →11.16 東 900+: 291 km (pred 215), z +0.6, bearing off 54° | →11.18 西南 1500-1600: 448 km (pred 370), z +0.4, bearing off 8°	approx: Ubauro taluk
+11.15	right bank between Pano Akil and Kandhkot	Lambrick 1964	3	0.37	34	3	0.37	34	←11.11 北 1900+: 460 km (pred 454), z +0.0, bearing off 42° | →11.16 東 900+: 329 km (pred 215), z +0.9, bearing off 47° | →11.18 西南 1500-1600: 414 km (pred 370), z +0.2, bearing off 14°	approx: capital eroded by the Indus; midpoint of Lambrick's stretch
 11.15	Aror (Alor), near Sukkur	Mizutani	3	0.42	37	3	0.42	37	←11.11 北 1900+: 438 km (pred 454), z -0.1, bearing off 48° | →11.16 東 900+: 378 km (pred 215), z +1.1, bearing off 51° | →11.18 西南 1500-1600: 362 km (pred 370), z -0.0, bearing off 12°	from data/coords.tsv
 11.15	Mithankot area (Derajat)	Mirchandani 1967, 1976	3	0.46	28	3	0.46	28	←11.11 北 1900+: 478 km (pred 454), z +0.1, bearing off 23° | →11.16 東 900+: 175 km (pred 215), z -0.4, bearing off 53° | →11.18 西南 1500-1600: 564 km (pred 370), z +0.9, bearing off 8°	approx: capital untraced, near Mithankot on the Indus
 11.16	Multan	Mizutani	2	0.74	38	2	0.74	38	←11.15 東 900+: 378 km (pred 215), z +1.1, bearing off 51° | →11.17 東北 700+: 142 km (pred 167), z -0.3, bearing off 25°	from data/coords.tsv
@@ -312,6 +313,7 @@ id	candidate	proposer	n_segments	mean_abs_z	mean_bearing_off	n_precise	z_precise
 11.18	Gondakahar, NW of Bela (Las Bela)	Mirchandani 1967	3	0.86	77	3	0.86	77	←11.15 西南 1500-1600: 310 km (pred 370), z -0.4, bearing off 19° | →11.19 西 2000: 232 km (pred 478), z -1.5, bearing off 98° | →11.21 北 700+: 243 km (pred 167), z +0.8, bearing off 115°	approx: 11 miles NW of Bela
 11.19	Kasarkand (Qasr-e Qand), Persian Makran	Mirchandani 1967, 1969	1	0.2	18	1	0.2	18	←11.18 西 2000: 527 km (pred 478), z +0.2, bearing off 18°	
 11.19	Lakorian (Lakura), between Khuzdar and Kalat	Mizutani	1	0.38	83	1	0.38	83	←11.18 西 2000: 397 km (pred 478), z -0.4, bearing off 83°	from data/coords.tsv
+11.19	Las Bela (Bela), with parts of Jhalawan and E Makran	Lambrick 1964	1	2.12	65	1	2.12	65	←11.18 西 2000: 168 km (pred 478), z -2.1, bearing off 65°	approx: country only, no capital site named
 11.21	Hyderabad (Sind)	Mizutani	2	0.15	37	2	0.15	37	←11.18 北 700+: 149 km (pred 167), z -0.2, bearing off 66° | →11.22 東北 300+: 69 km (pred 72), z -0.1, bearing off 7°	from data/coords.tsv
 11.21	Sehwan	Lambrick 1964	2	0.59	52	2	0.59	52	←11.18 北 700+: 193 km (pred 167), z +0.3, bearing off 26° | →11.22 東北 300+: 111 km (pred 72), z +0.9, bearing off 77°	
 11.21	Nagar Parkar	Haig (notes)	2	2.14	96	2	2.14	96	←11.18 北 700+: 382 km (pred 167), z +1.7, bearing off 98° | →11.22 東北 300+: 259 km (pred 72), z +2.6, bearing off 94°	
@@ -320,6 +322,7 @@ id	candidate	proposer	n_segments	mean_abs_z	mean_bearing_off	n_precise	z_precise
 11.22	Badah, S of Larkana	Lambrick 1964	2	2.29	39	2	2.29	39	←11.21 東北 300+: 219 km (pred 72), z +2.3, bearing off 54° | →11.23 東北 900+: 675 km (pred 215), z +2.3, bearing off 24°	approx
 11.22	Khairpur area	Mizutani (alternative)	2	2.32	33	2	2.32	33	←11.21 東北 300+: 241 km (pred 72), z +2.5, bearing off 36° | →11.23 東北 900+: 632 km (pred 215), z +2.2, bearing off 29°	
 11.22	Gandava (Kandabil), Kachhi	Mirchandani 1967, 1976	2	2.65	36	2	2.65	36	←11.21 東北 300+: 369 km (pred 72), z +3.3, bearing off 58° | →11.23 東北 900+: 570 km (pred 215), z +2.0, bearing off 14°	
+11.23	near Barkhan	Lambrick 1964	1	1.51	36	1	1.51	36	←11.22 東北 900+: 453 km (pred 215), z +1.5, bearing off 36°	approx
 11.23	Duki (Loralai)	Mirchandani 1967	1	1.61	48	1	1.61	48	←11.22 東北 900+: 475 km (pred 215), z +1.6, bearing off 48°	
 11.23	Vaneh on the middle Gomal	Vivien 1858	1	2.36	37	1	2.36	37	←11.22 東北 900+: 687 km (pred 215), z +2.4, bearing off 37°	approx: middle Gomal valley
 11.23	Bannu	Mizutani	1	2.69	33	1	2.69	33	←11.22 東北 900+: 810 km (pred 215), z +2.7, bearing off 33°	from data/coords.tsv

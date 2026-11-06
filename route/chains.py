@@ -30,7 +30,7 @@ FIX = {"11.11": "Bhinmal", "11.16": "Multan", "11.17": "Harappa"}
 SCHEMES = {
     "Mizutani (study)": {"11.15": "Aror", "11.18": "Karachi", "11.19": "Lakorian", "11.21": "Hyderabad", "11.22": "Brahmanabad", "11.23": "Bannu"},
     "Mirchandani 1967": {"11.15": "Mithankot", "11.18": "Gondakahar", "11.19": "Kasarkand", "11.21": "Khuzdar", "11.22": "Gandava", "11.23": "Duki"},
-    "Lambrick 1964 (with Mizutani where silent)": {"11.15": "Aror", "11.18": "Banbhore", "11.19": "Lakorian", "11.21": "Sehwan", "11.22": "Badah", "11.23": "Bannu"},
+    "Lambrick 1964": {"11.15": "Pano Akil", "11.18": "Banbhore", "11.19": "Las Bela (Bela)", "11.21": "Sehwan", "11.22": "Badah", "11.23": "Barkhan"},
     "Cunningham (Kotesar) with Mizutani": {"11.15": "Aror", "11.18": "Kotesar", "11.19": "Lakorian", "11.21": "Hyderabad", "11.22": "Brahmanabad", "11.23": "Bannu"},
     "Mizutani, but Kasarkand for 11.19": {"11.15": "Aror", "11.18": "Karachi", "11.19": "Kasarkand", "11.21": "Hyderabad", "11.22": "Brahmanabad", "11.23": "Bannu"},
 }
@@ -51,3 +51,23 @@ out.sort(key=lambda r: r["mean_abs_z"])
 w = csv.DictWriter(open("route/chain_scores.tsv", "w", encoding="utf-8", newline=""), list(out[0]), delimiter="\t", lineterminator="\n")
 w.writeheader(); w.writerows(out)
 for r in out: print(f'{r["scheme"]:45} mean|z| {r["mean_abs_z"]:.2f}  max {r["max_abs_z"]:.2f}  bearing {r["mean_bearing_off"]}°  legs z>1.5: {r["legs_z_over_1.5"]}')
+
+# The Life's order of the same stretch (T2053; route/variants_08-11.tsv): Surāṣṭra → W → Atyanabakela (no figure) →
+# W 2000+ → Laṅgala → NE 700+ → Pītaśilā → NE 300+ → Avaṇḍa → E 700+ → Sindhu → E 900+ → Multan → NE 700+ → Parvata.
+LIFE_LEGS = [("11.18", "11.19", "西", 2000), ("11.19", "11.21", "東北", 700), ("11.21", "11.22", "東北", 300),
+             ("11.22", "11.15", "東", 700), ("11.15", "11.16", "東", 900), ("11.16", "11.17", "東北", 700)]
+out2 = []
+for name, sch in SCHEMES.items():
+    P = {**{k: pt(k, v) for k, v in FIX.items()}, **{k: pt(k, v) for k, v in sch.items()}}
+    zs, bs, det = [], [], []
+    for a_, b_, d, li in LIFE_LEGS:
+        a, b = P[a_], P[b_]; pred = li * med; km = hav(a, b); z = math.log(km / pred) / sig
+        be = abs((brg(a, b) - DEG[d] + 180) % 360 - 180); zs.append(abs(z)); bs.append(be)
+        det.append(f'{a_}→{b_} {d} {li}+: {km:.0f} km (pred {pred:.0f}), z {z:+.1f}, bearing off {be:.0f}°')
+    out2.append({"scheme": name, "n_legs": len(zs), "mean_abs_z": round(st.mean(zs), 2), "max_abs_z": round(max(zs), 2),
+                 "mean_bearing_off": round(st.mean(bs)), "legs_z_over_1.5": sum(1 for z in zs if z > 1.5), "detail": " | ".join(det)})
+out2.sort(key=lambda r: r["mean_abs_z"])
+w = csv.DictWriter(open("route/chain_scores_life.tsv", "w", encoding="utf-8", newline=""), list(out2[0]), delimiter="\t", lineterminator="\n")
+w.writeheader(); w.writerows(out2)
+print("\nThe Life's order (route/chain_scores_life.tsv):")
+for r in out2: print(f'{r["scheme"]:45} mean|z| {r["mean_abs_z"]:.2f}  max {r["max_abs_z"]:.2f}  bearing {r["mean_bearing_off"]}°  legs z>1.5: {r["legs_z_over_1.5"]}')
