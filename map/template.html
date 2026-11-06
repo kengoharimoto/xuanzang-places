@@ -78,7 +78,7 @@ footer { margin-top: 18px; color: var(--muted); font-size: 12px; max-width: 90ch
 <div class="wrap">
 <header>
   <h1>Xuanzang's Places</h1>
-  <p>Every country and site of the <i>Da Tang Xiyu ji</i> (大唐西域記), with Mizutani Shinjō's identification (1971), the views of Julien, Vivien de Saint-Martin, Cunningham, Majumdar, Beal, Watters and Dey, the field reports of the Archaeological Survey (1862–87) and Mukherji's Tarai survey (1901), and what the British Indian district gazetteers add. Colour shows how settled Mizutani says a place is; a dark ring marks a place where the gazetteer evidence changes his picture.</p>
+  <p>Every country and site of the <i>Da Tang Xiyu ji</i> (大唐西域記), with Mizutani Shinjō's identification (1971), the views of Julien, Vivien de Saint-Martin, Cunningham, Majumdar, Beal, Watters and Dey, the field reports of the Archaeological Survey (1862–87), Mukherji's Tarai survey (1901) and the Survey's Annual Reports (1903–37), and what the British Indian district gazetteers add. Colour shows how settled Mizutani says a place is; a dark ring marks a place where the gazetteer evidence changes his picture.</p>
 </header>
 
 <div class="controls" role="group" aria-label="Filters">
@@ -194,6 +194,7 @@ function panel(p) {
     ${p.proposed && p.change && p.change !== "none" ? `<dt>Proposed</dt><dd>${esc(p.proposed)}${p.basis ? `<br><span class="sub">${esc(p.basis)}</span>` : ""}</dd>` : ""}
     ${auth}
     <dt>Survey (ASR)</dt><dd>${p.asrN ? `${esc(p.asr)}${p.asrEv ? `<br><span class="sub">${esc(p.asrEv)}</span>` : ""}` : "no passage"}</dd>
+    <dt>Excavations (AR)</dt><dd>${p.arN ? `${esc(p.ar)}${p.arEv ? `<br><span class="sub">${esc(p.arEv)}</span>` : ""}` : "no passage"}</dd>
     <dt>Gazetteers</dt><dd>${p.gazN ? `${p.gazN} passages${p.gazArg ? `, ${p.gazArg} argue, doubt or propose another site` : ""}<br><span class="sub">${esc(p.gazVols)}</span>` : "none"}</dd>
     <dt>On the map</dt><dd>${p.lat != null ? `${esc(p.modern)} <span class="sub">(${esc(p.prec)}${p.cnote ? "; " + esc(p.cnote) : ""})</span>` : "not mapped"}</dd></dl>
     ${p.note ? `<div class="note"><b>${esc(p.note.head)}</b>${p.note.body}</div>` : ""}`;

@@ -40,6 +40,7 @@ for r in rd("data/places.tsv"):
         "gazN": int(r["gaz_n"] or 0), "gazArg": int(r["gaz_argues"] or 0), "gazVols": r["gaz_volumes"],
         "gazEv": r["gaz_local_evidence"][:1500],
         "asr": r.get("asr", "")[:1500], "asrN": int(r.get("asr_n") or 0), "asrEv": r.get("asr_evidence", "")[:1500],
+        "ar": r.get("ar", "")[:1500], "arN": int(r.get("ar_n") or 0), "arEv": r.get("ar_evidence", "")[:1500],
         "lat": lat, "lon": lon, "prec": c.get("precision", ""), "modern": c.get("modern_name", ""), "cnote": c.get("note", ""),
         "change": u.get("change", ""), "proposed": u.get("proposed", ""), "basis": u.get("basis", ""), "conf": u.get("confidence", ""),
         "note": notes.get(r["id"]),
