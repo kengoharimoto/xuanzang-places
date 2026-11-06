@@ -4,7 +4,7 @@
 Usage (from xuanzang-places/): python3 -I scripts/build_places.py
 Inputs: data/places_mizutani.tsv, data/coded/auth_*.tsv, data/coded/gaz_batch*.tsv, data/gaz_hits.tsv
 """
-import csv, glob, collections
+import csv, glob, collections, re
 RELCOLS = ["sangharamas", "monks", "schools", "deva_temples", "other", "site_affiliation", "buddhism"]
 AUTH = ["julien", "vivien", "cunningham", "beal", "watters", "majumdar", "dey"]
 rd = lambda f: list(csv.DictReader((l for l in open(f, encoding="utf-8") if not l.startswith("#")), delimiter="\t"))
@@ -107,6 +107,7 @@ for m in master:
         row["translation"] = rv["en_revised"]; row["translation_source"] = "DharmaMitra, corrected against Mizutani and Beal"
     else:
         row["translation"] = tr.get("en", ""); row["translation_source"] = (tr.get("model", "") + " " + tr.get("date", "")).strip()
+    row["translation"] = re.sub(r"\((?:Original note|Note)\s*:\s*", "(", row["translation"])   # one convention: the text's notes in plain brackets
     row["translation_check"] = rv.get("verdict", ""); row["translation_issues"] = rv.get("issues", "")
     rl = REL.get(m["id"], {})
     for c in RELCOLS: row[c] = rl.get(c, "")
