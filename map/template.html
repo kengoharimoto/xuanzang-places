@@ -45,7 +45,7 @@ input[type=search] { min-width: 0; width: 14em; }
 .pt { stroke: var(--paper); stroke-width: .8; vector-effect: non-scaling-stroke; cursor: pointer; }
 .pt.sel { stroke: var(--ink); stroke-width: 2.4; }
 .halo { fill: none; stroke: var(--ink); vector-effect: non-scaling-stroke; pointer-events: none; }
-.lbl { font: 11px var(--body); fill: var(--ink); paint-order: stroke; stroke: var(--sea); stroke-width: 3px; pointer-events: none; }
+.lbl { font-family: var(--body); fill: var(--ink); paint-order: stroke; stroke: var(--sea); stroke-linejoin: round; pointer-events: none; }
 .mapnote { position: absolute; left: 8px; bottom: 6px; font-size: 11px; color: var(--muted); }
 .zoom { position: absolute; right: 8px; top: 8px; display: flex; flex-direction: column; gap: 4px; }
 .zoom button { width: 28px; height: 28px; font: 600 16px var(--body); color: var(--ink); background: var(--panel); border: 1px solid var(--rule); border-radius: 4px; cursor: pointer; }
@@ -160,8 +160,8 @@ function draw() {
     .attr("r", p => r(p) + (BIG.has(p.change) ? 3.2 : 2.2) / Math.sqrt(k)).attr("stroke-width", p => BIG.has(p.change) ? 1.8 : 0.8);
   const lab = vis.filter(p => p.level !== "site" || k > 5);
   lbls.selectAll("text").data(k > 1.8 ? lab : [], p => p.id).join("text").attr("class","lbl")
-    .attr("x", p => proj([p.lon,p.lat])[0] + 6/Math.sqrt(k)).attr("y", p => proj([p.lon,p.lat])[1] + 3/Math.sqrt(k))
-    .attr("font-size", 11/k).attr("stroke-width", 3/k).text(p => p.zh.replace(/國$/,""));
+    .attr("x", p => proj([p.lon,p.lat])[0] + (p.level === "site" ? 3.2 : 5)/Math.sqrt(k) + 3/k).attr("y", p => proj([p.lon,p.lat])[1] + 4/k)
+    .style("font-size", `${11/k}px`).style("stroke-width", `${3/k}px`).text(p => p.zh.replace(/國$/,""));
 }
 
 function list() {
