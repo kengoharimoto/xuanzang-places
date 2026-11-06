@@ -86,3 +86,5 @@
 - **Coordinates not moved** for 01.38.03 (Tapa Skandar) and 01.38.03a (Khair Khana): these are alternatives; the
   map keeps the old points.
 - **Stein, MASI 37 (1929)**: the Internet Archive OCR (in.ernet.dli.2015.35549) stops at about p. 64, before the Tor-dherai stūpa description and Konow's appendix on its Kharoṣṭhī inscriptions. Other scans (in.ernet.dli.2015.70429, in.gov.ignca.21977) may be complete.
+- **The Life's distances and bearings** differ from the Xiyu ji in many places. The reviewers list them in `data/text/life_review_*.tsv` (`issues`) and the agents' notes are in `life_anchors_*.tsv` (`note`). Examples: Kapilavastu 800 li from Śrāvastī (Xiyu ji 500); Rāmagrāma 500 (200); Viśoka E 500 from Kauśāmbī; Karṇasuvarṇa SE 900+ from Puṇḍravardhana; Andhra SE 900+; Coḷa W 1000+. Only the Sindh stretch has been route-tested on the Life's legs (`route/chain_scores_life.tsv`).
+- **04.15.02 (Sāṃkāśya's stairs)**: a reviewer reports that the Life has the stairs east of the city, and that the Taishō text of the Xiyu ji reads east where CBETA has west. Not verified here.

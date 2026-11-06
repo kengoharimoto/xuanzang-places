@@ -62,7 +62,10 @@ check.
   Daoxuan's 釋迦方志 (T2088) and Huili's *Life* (T2053) were also used (`route/`).
 - **The *Life* (T2053), place by place.** 260 places have the Life's parallel passage, cut by agents following
   `data/LIFE_INSTRUCTIONS.md` (`data/text/life_anchors_*.tsv`, `life_passages.tsv`). Each has a DharmaMitra
-  translation (`life_translation_dm.tsv`). These translations are not yet checked against the Chinese.
+  translation (`life_translation_dm.tsv`). The translations were then checked against the Chinese by agents following
+  `data/LIFE_REVIEW_INSTRUCTIONS.md`, with Beal's 1911 translation as an aid only (`data/text/life_review_*.tsv`):
+  187 ok, 59 corrected (minor), 14 corrected (major). The corrections include Mokṣagupta (not "Prajñāgupta"), Kharbanda
+  (not Kashgar), and hearsay restored at Malakūṭa (聞).
 - **Mizutani**, 『大唐西域記』 (平凡社 中国古典文学大系 22, 1971). A 488-page scan, OCR'd with Google Vision and
   kept locally because the book is in copyright. His notes are the backbone of the table.
 - **Authorities.** Julien and Vivien de Saint-Martin (1857–58); Cunningham, *Ancient Geography* (1871), in Majumdar
@@ -221,7 +224,7 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 - **Places tied to several ids.** A passage coded to several places shows its one identification under each in
   `places.tsv`. The notes are the reliable reading.
 - **Translations.** They are checked and corrected but not a published translation; quote them with that caveat. The
-  Life translations are machine output only.
+  Life translations are checked in the same way.
 - **Affiliation.** It records what the passage says, plus Mizutani's identification of sect names. The code
   `Pasupata` stands for the text's 塗灰/塗炭 ("ash-smearing") 外道; the map shows it as "ash-smearers", since
   Xuanzang never names the Pāśupatas. Legend-only

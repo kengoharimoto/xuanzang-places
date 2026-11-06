@@ -62,7 +62,7 @@ for r in rd("data/places.tsv"):
         "change": u.get("change", ""), "proposed": u.get("proposed", ""), "basis": u.get("basis", ""), "conf": u.get("confidence", ""),
         "note": notes.get(r["id"]),
         "kh": OBS.get(r["id"], []),
-        "lref": r.get("life_ref", ""), "lzh": r.get("life_text", ""), "len": r.get("life_translation", ""), "lnote": r.get("life_note", ""),
+        "lref": r.get("life_ref", ""), "lzh": r.get("life_text", ""), "len": r.get("life_translation", ""), "lchk": r.get("life_translation_check", ""), "lnote": r.get("life_note", ""),
         "alt": ALT.get(r["id"], []), "mzz": MZS.get(r["id"], {}).get("mean_abs_z", ""), "mzb": MZS.get(r["id"], {}).get("mean_bearing_off", ""),
         "best": BEST.get(r["id"], ""),
     })

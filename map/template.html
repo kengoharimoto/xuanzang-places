@@ -267,7 +267,7 @@ function panel(p) {
     </details>` : ""}
     ${p.lzh ? `<details class="text"><summary>The Life (慈恩傳)</summary>
       <p class="zhp">${esc(p.lzh)}</p><p class="src">Huili and Yancong, 大唐大慈恩寺三藏法師傳, Taishō 50, no. 2053, ${esc(p.lref.replace("T50:", "p. "))}${p.lnote ? ". " + esc(p.lnote) : ""}</p>
-      ${p.len ? `<p class="enp">${esc(p.len)}</p><p class="src">Machine translation: DharmaMitra (not yet checked against the Chinese).</p>` : `<p class="src">Translation pending.</p>`}
+      ${p.len ? `<p class="enp">${esc(p.len)}</p><p class="src">${p.lchk === "ok" ? "Machine translation (DharmaMitra), checked against the Chinese (Beal 1911 as an aid)." : p.lchk ? "Machine translation (DharmaMitra), corrected against the Chinese (Beal 1911 as an aid)." : "Machine translation: DharmaMitra (not yet checked against the Chinese)."}</p>` : `<p class="src">Translation pending.</p>`}
     </details>` : ""}
     ${p.kh && p.kh.length ? `<div class="note kh"><b>K. Harimoto's notes</b>${p.kh.map(o => `<p>${esc(o.obs)} <span class="sub">(${esc(o.src)})</span>${o.as ? `<br><span class="sub">Assessment: ${esc(o.as)}</span>` : ""}</p>`).join("")}</div>` : ""}
     ${p.note ? `<div class="note"><b>${esc(p.note.head)}</b>${p.note.body}</div>` : ""}`;

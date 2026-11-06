@@ -66,7 +66,7 @@ def asr_tag(r):
     v = r.get("file", "").replace(".txt", "").replace("asr", "ASR ").replace("mukherji1901_tarai", "Mukherji 1901")
     return f'{r.get("author","")}, {v}' + (f' p. {r["page"]}' if r.get("page") else "")
 cols = ["id", "juan", "level", "parent", "name_zh", "name_ja", "original_name", "visit", "mz_identification",
-        "mz_other_views", "mz_status"] + AUTH + ["gaz_n", "gaz_argues", "gaz_volumes", "gaz_local_evidence", "asr", "asr_n", "asr_evidence", "ar", "ar_n", "ar_evidence", "epig", "epig_n", "epig_evidence", "iar", "iar_n", "iar_evidence", "t2087_ref", "t2087_text", "translation", "translation_source", "translation_check", "translation_issues"] + RELCOLS + ["user_obs", "user_obs_assessment", "life_ref", "life_text", "life_translation", "life_note"]
+        "mz_other_views", "mz_status"] + AUTH + ["gaz_n", "gaz_argues", "gaz_volumes", "gaz_local_evidence", "asr", "asr_n", "asr_evidence", "ar", "ar_n", "ar_evidence", "epig", "epig_n", "epig_evidence", "iar", "iar_n", "iar_evidence", "t2087_ref", "t2087_text", "translation", "translation_source", "translation_check", "translation_issues"] + RELCOLS + ["user_obs", "user_obs_assessment", "life_ref", "life_text", "life_translation", "life_translation_check", "life_translation_issues", "life_note"]
 def _load(path, key="id"):
     try: return {r[key]: r for r in rd(path)}
     except FileNotFoundError: return {}
@@ -78,6 +78,8 @@ for f in sorted(glob.glob("data/text/life_passages_*.tsv")): LPASS.update(_load(
 LANC = {}
 for f in sorted(glob.glob("data/text/life_anchors_*.tsv")): LANC.update(_load(f))
 LTRAN = _load("data/text/life_translation_dm.tsv")
+LREV = {}
+for f in sorted(glob.glob("data/text/life_review_*.tsv")): LREV.update(_load(f))
 REV, REL = {}, {}
 for f in sorted(glob.glob("data/text/review_[0-9]*.tsv")): REV.update(_load(f))
 try: STALE = set(open("data/text/review_stale_ids.txt").read().split())   # passages re-cut with notes; old reviews no longer apply
@@ -123,6 +125,9 @@ for m in master:
     lp = LPASS.get(m["id"], {})
     row["life_ref"] = lp.get("t_ref", ""); row["life_text"] = lp.get("zh", "")
     row["life_translation"] = LTRAN.get(m["id"], {}).get("en", "") if lp else ""; row["life_note"] = LANC.get(m["id"], {}).get("note", "")
+    lr = LREV.get(m["id"], {}) if lp else {}
+    if lr.get("en_revised", "").strip() and lr.get("verdict") in ("minor", "major"): row["life_translation"] = lr["en_revised"]
+    row["life_translation_check"] = lr.get("verdict", ""); row["life_translation_issues"] = lr.get("issues", "")
     row["user_obs_assessment"] = " || ".join(o["assessment"] for o in OBS[m["id"]])
     for col, store in (("epig", epg), ("iar", iar)):
         a = store[m["id"]]
