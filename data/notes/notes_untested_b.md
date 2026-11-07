@@ -240,8 +240,9 @@ route through the stone gate.
 perhaps including dependencies; he reports Chavannes' equation of the Han 罽賓 with Kaspeiria (pp. 321–322).
 **Route along the Jhelum.** Stein's *Memoir* (1899, pp. 24–25, 85–86) gives the road: about 39 miles from the Mansahra
 area to Muzaffarabad (from Albiruni), 84 road miles on to Baramula (Drew; six marches), and two marches to Srinagar.
-That is about 157 miles or 253 km for the 1000 li (0.25 km per li, the normal value; the Baramula–Srinagar mileage is
-our estimate), and about 11½ marches, some 87 li a march (route/README.md §10, Test 4).
+Drew's route table (*Jummoo and Kashmir Territories*, 1875, App. IV, route 8) gives the whole road from Abbottabad by
+Muzaffarabad and Baramula to Srinagar as 156½ miles in 11 marches. That is 252 km for the 1000 li (0.25 km per li, the
+normal value), about 91 li a march (route/README.md §10, Test 4).
 **Assessment.** Name and agreement, and the distance normal along the Jhelum road; no site evidence in these files.
 Mizutani stands (medium).
 
@@ -275,9 +276,9 @@ short of the 2,000-li circuit (pp. 348–349).
 **Stein's route.** Stein (*Memoir*, 1899, pp. 17, 81, 400) thinks Xuanzang "in all probability" took the Toṣamaidān
 pass. He reckons that road at "about sixty English miles" from Loharin to Srinagar and marched it himself in 1892 in
 about 2½ days (*Rājataraṅgiṇī* ii, Note E on iv. 177, pp. 293–298); Loharin to Punch down the Loharin river and the
-Tohi adds about 16 miles (our reckoning from his figures). About 76 miles, or Cunningham's 100 road miles via Baramula
-and Uri, give 0.175–0.23 km per li, at the low end of the normal range, against 0.10 in a straight line
-(route/README.md §10, Test 4).
+Tohi adds about 16 miles (our reckoning from his figures). The other road, by Baramula, Uri and the Haji pass, is 88
+miles in 7 marches in Drew's route table (1875, App. IV, route 6). That gives 0.175–0.20 km per li, at the low end of
+the normal range, against 0.10 in a straight line (route/README.md §10, Test 4).
 **Assessment.** Name and agreement; the distance is short in a straight line but near normal along the passes.
 Mizutani stands (medium).
 
@@ -287,10 +288,12 @@ Mizutani stands (medium).
 281), Majumdar (p. 683) and Dey agree.
 **Evidence.** Cunningham (ASR XIV, pp. 72, 106) traces Rājapura of the *Rājataraṅgiṇī* to Rajaori. IAR 1985–86 (p.
 35) reports Kushan red ware 1.5 km above Rajouri. Route test: 48 km SE of Punch for "400+ li" (predicted 96 km),
-20° off.
+20° off. Along the road the leg is normal: Drew's route table (1875, App. IV, route 5) gives Punch – Suran – Thanna –
+Rajaori as 44 miles in 3 marches, 0.18 km per li (route/README.md §10, Test 4).
 **Ji Xianlin et al. (1985).** Ji agrees: Rajaori, after Cunningham, whose circuit (c. 300 miles) is about half
 Xuanzang's 4,000 li (p. 350).
-**Assessment.** Name continuity and agreement; no site evidence for the 7th-century town. Mizutani stands (medium).
+**Assessment.** Name continuity and agreement; no site evidence for the 7th-century town; the distance fits along
+the road. Mizutani stands (medium).
 
 ### 04.01.x4 闍耶補羅城 (Jayapura) — Hafizabad (Cunningham); the Life only
 

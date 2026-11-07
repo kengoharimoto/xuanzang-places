@@ -120,8 +120,8 @@
   in 1809. Check Mizutani's own wording.
 - **Stein's Kashmir stage counts** (route/README §10 Test 4): his *Rājataraṅgiṇī* notes and the 1895 Pīr Pantsāl
   paper are now read (`data/ref/stein/`; rows in `route/stein_routes_j3.tsv`). They give the Toṣamaidān road to Punch
-  and the Kashmir march counts, but no road length for Punch → Rajauri (03.08), Rajauri → Ṭakka (04.01) or Srinagar →
-  Baramula in miles; Drew's *Jummoo and Kashmir Territories* (1875) route tables would. Sunigram's coordinates for
+  and the Kashmir march counts. Drew's *Jummoo and Kashmir Territories* (1875, App. IV) then gave the remaining road
+  lengths (Punch → Rajauri, Rajauri → Bhimbar → Gujrat, Punch → Srinagar, Abbottabad → Srinagar). Sunigram's coordinates for
   03.01.06 are approximate (placed from Stein's bearing and map distance). MASI 42's OCR reads "500 li or approximately
   80 miles" for Ilam where the 1898 report has "400 li, or approximately 66 miles".
 - **Resolved 2026-11-07**:

@@ -50,6 +50,11 @@ Chenāb (p. 353). For the capital he gives Cunningham's Asarur, 2 miles S of the
 large bricks and Kushan coins show an old town (pp. 353–354). He does not say how Asarur stands to Śākala, which he
 leaves open (04.01.02), so his Asarur keeps the dependence on Sanglawala Tibba noted below.
 
+**The road from Rajauri.** Drew's route table (1875, App. IV, route 4) gives Rajaori to Bhimbar as 56 miles and
+Bhimbar to Gujrat on the plain as 30 (OCR "80"), about 86 road miles over the hills. Measured on to Sialkot the 700
+li come to about 181 km (0.26 km per li), on to Asarur about 223 km (0.32): both in the normal range, so the distance
+does not choose between them (route/README.md §10, Test 4).
+
 **Assessment.** The survey shows that a large early town lay at Asarur and that Takka was a real district name, but
 its placing of the capital still depends on Cunningham's Sangala (Sanglawala Tibba) and on an emended distance. If
 Śākala is Sialkot, as Mizutani holds, Asarur loses its anchor and Majumdar's site near Sialkot follows. Mizutani's

@@ -139,7 +139,7 @@ check.
    The li does not behave as a fixed ground measure. In India the figures look like day stages (yojanas, which
    Xuanzang defines as 一日軍行) converted at a set rate: rough and forest legs give far fewer km per li (§10). Along modelled walking routes, walking time fits the li a
    little better than route length (about 19 li per walking hour), but neither explains the forest legs. The
-   Gandhāra–Kashmir legs, short against the model, are normal along Stein's actual roads (0.19–0.30 km per li).
+   Gandhāra–Kashmir legs, short against the model, are normal along the real roads of Stein and Drew (0.175–0.30 km per li).
 6. **Text and translation** (`data/text/`).
    - **The passages:** T2087 is cut into one passage per place (`anchors_*.tsv`, `scripts/extract_passages.py`;
      country passages open with the arrival sentence).
