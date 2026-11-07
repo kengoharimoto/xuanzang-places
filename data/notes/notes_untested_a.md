@@ -282,7 +282,9 @@ Kunduz. Beal (p. 43): Baghlan, c. 34 miles S of Kunduz.
 **Name.** Bactrian: no Baghlān in BDNA I–II. Sims-Williams has a city Lan (λαναγγο "of (the city) Lan", = Chin. Lan, a
 city of Tokharistan, Chavannes 1903, p. 69 n.) and calls Chavannes' identification of Lan with Baghlan (ibid., p. 275)
 "hardly correct" (BDNA II p. 225). Lan is therefore no evidence for Baghlan, and 縛伽浪 is not Lan; the identification
-rests on the continuous name as before (data/names/bactrian.tsv).
+rests on the continuous name as before (data/names/bactrian.tsv). The Baghlān–Ghōrī plain was the centre of the
+Bactrian region Kadagstan, with the town Warlu (the Tang 活路城, seat of the Hephthalite 大汗都督府) (Yoshida 2003 and
+Grenet 2006, after Miyamoto, Tōhō gakuhō 87, 2012, and 90, 2015; data/ref/kyoto/).
 **Assessment.** Secure as a district on the name. Mizutani stands.
 
 ### 01.31 忽懍國 (Khulm) — Khulm, ruins N of Tashkurgan

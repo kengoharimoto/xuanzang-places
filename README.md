@@ -199,7 +199,9 @@ check.
      覩貨邏 = *Tuxwār (Toxwār-, with the w that Skt. Tukhāra lacks); Tarmid, Waxš, Baxl, Gōzgān, Bamyan, Khwast
      confirmed; Sar-i Pul's Bactrian name Amber does not fit 鋭秣陀. 揭職 is not Gaz but *Garčig, Bactrian γαρσιγο
      "mountain land" (Gharchistan), the mountain zone S of Tokharistan (Yoshida 1998, "Sino-Iranica", 西南アジア研究 48;
-     Sims-Williams, CRAI 2002 [2004], both in `data/ref/simswilliams/`); Yoshida also confirms 活 = war = Kunduz.
+     Sims-Williams, CRAI 2002 [2004], both in `data/ref/simswilliams/`); Yoshida also confirms 活 = war = Kunduz;
+     Kuwayama (2002) and Miyamoto (2015) put the capital town and Tang seat 阿緩 at Qal'a-ye Zāl instead, and 活路 at
+     Warlu in the Baghlān plain (open papers from the Kyoto repository, `data/ref/kyoto/`).
    - **In the data:** `data/names/proposed.tsv` (`scripts/names_proposed.py`) → the `name_study` columns of
      `places.tsv` and the map's place panel; "Name." paragraphs in the notes, which say where a name moves an
      identification. A name match is a lead, not site evidence: it never raises a rating to high on its own.
