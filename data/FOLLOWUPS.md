@@ -118,9 +118,10 @@
   Ji names the hill, not Shotorak, as the site; 01.25 Stavisky's title.
 - **07.01.02**: the note's summary of Mizutani dates the riot that destroyed the Lat Bhairon pillar to 1908; the riot was
   in 1809. Check Mizutani's own wording.
-- **Stein's Kashmir stage counts** (route/README §10 Test 4): the *Memoir* refers them to his *Rājataraṅgiṇī* notes
-  (v. 217, v. 226, vii. 140, vii. 658, Note E on iv. 177) and his 1895 JASB paper on the Pir Panjal route, not on disk;
-  they would give road lengths for Punch → Rajauri (03.08) and Rājapura → Ṭakka (04.01). Sunigram's coordinates for
+- **Stein's Kashmir stage counts** (route/README §10 Test 4): his *Rājataraṅgiṇī* notes and the 1895 Pīr Pantsāl
+  paper are now read (`data/ref/stein/`; rows in `route/stein_routes_j3.tsv`). They give the Toṣamaidān road to Punch
+  and the Kashmir march counts, but no road length for Punch → Rajauri (03.08), Rajauri → Ṭakka (04.01) or Srinagar →
+  Baramula in miles; Drew's *Jummoo and Kashmir Territories* (1875) route tables would. Sunigram's coordinates for
   03.01.06 are approximate (placed from Stein's bearing and map distance). MASI 42's OCR reads "500 li or approximately
   80 miles" for Ilam where the 1898 report has "400 li, or approximately 66 miles".
 - **Resolved 2026-11-07**:

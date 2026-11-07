@@ -404,8 +404,8 @@ Asia* i).
 | Swat capital → Mount Ilam (03.01.05) | 400 | about 62 road miles, read as Stein's roundabout itinerary via Mahāvana and the Karakar pass | 0.25 (direct: 0.06) |
 | Swat capital → Mahāvana (03.01.06) | 200 | Stein's site at Panjkotai near Sunigram, Buner: 26 map miles + ¼ ≈ 32.5 miles | 0.26 (Mizuno's Kukrai: 0.06) |
 | Swat → Darel (03.01.16) | 1000 | 140 miles down the Indus on the survey maps; Stein adds at least ⅓ | 0.23, or 0.30 with the addition (model 0.19) |
-| Uraśā → Kashmir (03.06) | 1000 | 39 miles to Muzaffarabad (Albiruni) + 84 road miles to Baramula (Drew) + about 34 (2 marches, our estimate) to Srinagar | about 0.25 (model 0.21) |
-| Kashmir capital → Punch (03.07) | 700 | Toṣamaidān route, 69 miles to Loharin, short of Punch; Cunningham about 100 road miles | 0.16–0.23 (model 0.12) |
+| Uraśā → Kashmir (03.06) | 1000 | 39 miles to Muzaffarabad (Albiruni) + 84 road miles to Baramula (Drew) + about 34 (2 marches; Stein gives no mileage, our estimate) to Srinagar; 11½–12 marches in all (Abbottabad → Buliāsa 6, → Baramula 3½–4, → Srinagar 2) | about 0.25 (model 0.21) |
+| Kashmir capital → Punch (03.07) | 700 | Toṣamaidān route: Stein's "about sixty" road miles Srinagar → Loharin (*Rājataraṅgiṇī* ii, Note E), which he marched in 2½ days, + about 16 miles down the Loharin and Tohi to Punch (our sum) ≈ 76 miles; Cunningham about 100 road miles via Uri | 0.175–0.23 (model 0.12) |
 | Taxila → Siṃhapura (03.04) | 700 | Cunningham: "not more than 85 miles"; hearsay in the Life | 0.20 |
 
 - **Juan 3 is not anomalous.** Along Stein's roads the legs give 0.19–0.30 km per li, the normal range (India's median
@@ -419,11 +419,17 @@ Asia* i).
   hills and nearer ⅓ in difficult country (1898, p. 58), at 1/6 to 1/5 mile per li (0.27–0.32 km), and for Hund → Swat,
   Mahāvana and Darel he adds that allowance rather than measuring a road. Only the Kashmir figures (Drew, Albiruni) are
   independent. He never says the li are counted in marches or exaggerated in the hills.
-- **Day marches.** Where days are known, the li come to roughly 70–90 a march: Kashmir about 11½ marches for 1000 li
-  (about 87), Faxian's 15 days Darel → Swat for 1000+ (about 67), the Life's 7 days Prayāga → Kauśāmbī for 500 (about
+- **Day marches.** Where days are known, the li come to roughly 70–90 a march: Kashmir 11½–12 marches for 1000 li
+  (about 85), Faxian's 15 days Darel → Swat for 1000+ (about 67), the Life's 7 days Prayāga → Kauśāmbī for 500 (about
   71). Stein's "six marches" for Hund → Swat (100 a march) is his paraphrase. Too few legs to test.
-- **Not found:** road lengths for Punch → Rajauri, Rājapura → Ṭakka and the Mahāsāṃghika convent. The *Memoir* refers
-  its stage counts to Stein's *Rājataraṅgiṇī* notes and his 1895 JASB paper on the Pir Panjal route, not on disk.
+- **Stein's other works.** His *Rājataraṅgiṇī* translation (1900; notes on v. 141, v. 225–226, vii. 140, vii. 568,
+  Note E on iv. 177) and "Notes on the ancient topography of the Pīr Pantsāl route" (JASB 64.1, 1895) add the
+  Toṣamaidān figures above and the Kashmir march counts. He calibrates the li only inside the Kashmir capital (12–13 li
+  = 2½ miles, 10 li = 2 miles: about 1/5 mile per li) and never comments on the long legs' 1000, 700 or 400 li.
+- **Still without a road length:** Punch → Rajauri (03.08), Rajauri → Ṭakka (04.01; only map distances: Bhimbhar →
+  Gujrat 28 miles, Stein; Rajauri → Asarur 112 miles in a direct line, Cunningham, about 0.26 km per li), Srinagar →
+  Baramula in miles (two marches, Patan half-way), and the Pir Panjal stages beyond the pass (Pusiana, Bahramgala,
+  Ratan Pir: named, no miles).
 
 **Reading.** The li is not a fixed ground measure. In India especially, the figures look like day stages (yojanas)
 converted at a set rate. That fits the inflated forest legs, the gap between India and Central Asia, and the Life's

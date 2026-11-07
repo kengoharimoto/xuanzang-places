@@ -272,10 +272,12 @@ Rajouri–Poonch (Kushan ware, Kashmiri coins, temple ruins at Panjnara), withou
 70 km from the Kashmir point for "700+ li SW" (predicted 167 km), flagged short; the road via Baramula is longer.
 **Ji Xianlin et al. (1985).** Ji agrees: Punch, between the Jhelum and the Pir Panjal, noting that its area falls far
 short of the 2,000-li circuit (pp. 348–349).
-**Stein's route.** Stein (*Memoir*, 1899, pp. 17, 81) thinks Xuanzang "very probably" took the Toṣamaidān pass; that
-road is a little under 69 miles from Srinagar to Loharin (from Albiruni), still short of Punch. Cunningham reckons
-about 100 road miles via Baramula and Uri. That gives 0.16–0.23 km per li, at the low end of the normal range, against
-0.10 in a straight line (route/README.md §10, Test 4).
+**Stein's route.** Stein (*Memoir*, 1899, pp. 17, 81, 400) thinks Xuanzang "in all probability" took the Toṣamaidān
+pass. He reckons that road at "about sixty English miles" from Loharin to Srinagar and marched it himself in 1892 in
+about 2½ days (*Rājataraṅgiṇī* ii, Note E on iv. 177, pp. 293–298); Loharin to Punch down the Loharin river and the
+Tohi adds about 16 miles (our reckoning from his figures). About 76 miles, or Cunningham's 100 road miles via Baramula
+and Uri, give 0.175–0.23 km per li, at the low end of the normal range, against 0.10 in a straight line
+(route/README.md §10, Test 4).
 **Assessment.** Name and agreement; the distance is short in a straight line but near normal along the passes.
 Mizutani stands (medium).
 
