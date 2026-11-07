@@ -17,13 +17,13 @@ Five kinds of evidence were set against him:
 
 **What they show.** 442 of the 480 places have a note (Mizutani's 419 and 61 added ones). The 38 without a note are
 minor sites that have no point either. Against Mizutani's identifications, the evidence:
-- supports his identification for 97 places, 56 of them with high confidence, many with an inscription or seal
+- supports his identification for 99 places, 56 of them with high confidence, many with an inscription or seal
   naming the place;
-- weakens it for 10;
-- supports a different site for 59;
+- weakens it for 11;
+- supports a different site for 60;
 - offers a candidate no standard authority records for 12.
 
-On the map the study's confidence comes out as 105 places secure, 165 probable and 103 open. These are the ratings
+On the map the study's confidence comes out as 105 places secure, 163 probable and 105 open. These are the ratings
 after a quality check of 30 notes and an audit of every "high" rating without site evidence (both in `data/notes/`).
 Another 56 minor sites are placed approximately from Xuanzang's own bearing and distance, without an identification
 (`scripts/place_from_text.py`). 51 have no point.
@@ -185,6 +185,12 @@ check.
      *Palola for Bolor (the Gilgit kings' title; Gilgit becomes an alternative to Baltistan). The key also chooses among the forms Mizutani gives for 12 more places: for 9 he lists
      the fitting form himself, usually first (vakṣu, Goviṣāṇa, Dvārapati, the vernacular Tāmalitti, …), and for 3
      his form does not fit (Uraśā only, Licchava, Lampa).
+   - **Afghanistan and Central Asia** (`test_ca_a.tsv`, `test_ca_b.tsv`): the other 45 forms, mostly Iranian, Saka,
+     Turkic or Gāndhārī, tested with the key's consonant mapping and searched in the *Ḥudūd al-ʿĀlam* (Minorsky
+     1937), Le Strange (1905), Barthold (1928) and Marquart's *Ērānšahr* (1901) (`data/ref/iran/`, gitignored), Ji,
+     Stein and Foucher. 23 stand; 13 better, 4 alternatives, 5 doubtful: Khamdādh (= Khandūd) for 昏馱多, Sutrūšna,
+     Agni for 阿耆尼, Parghar, Andrāb, Xwast (Khost), *War (the base of Warwālīz, Kunduz) for 活, Kurān, Khaṣa for 佉沙;
+     瞢健 is Munjān itself; 鶴悉那 hardly fits Ghazna, and 阿路猱 cannot be aruṇa (Xuanzang's own fanqie gives 猱 nau).
    - **In the data:** `data/names/proposed.tsv` (`scripts/names_proposed.py`) → the `name_study` columns of
      `places.tsv` and the map's place panel; "Name." paragraphs in the notes, which say where a name moves an
      identification. A name match is a lead, not site evidence: it never raises a rating to high on its own.
@@ -283,9 +289,10 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 - **Later scholarship.** Mizutani is the 1971 state of the question; Ji (1985) brings it to about 1980. Work since then
   is not in these sources, and post-1971 work that Ji cites (e.g. Ahmed on Mahasthan, Belenitskii) is known only
   through him. *Indian Archaeology* is in them up to 2000–01.
-- **Original names.** Only India and the North-West have been tested (47 forms). The 45 asterisked forms of
-  Afghanistan and Central Asia need Iranian, Bactrian and Tocharian sources not on disk. Middle Chinese is itself a
-  reconstruction, and two-character names match by chance easily.
+- **Original names.** All 92 asterisked or queried forms have been tested, but only those; the 267 "secure" forms
+  were used to build the key, not tested. Bactrian, Khotanese and Sogdian forms known from scholarship but not in
+  these files are marked "reported" and never rated above medium. Middle Chinese is itself a reconstruction, and
+  two-character names match by chance easily.
 - **OCR.** Quotes match the OCR verbatim, errors included.
 - **Index coverage.** The indexes miss arguments that use neither the pilgrim's name, a listed site, nor a listed
   Sanskrit name. The known gaps are in `data/FOLLOWUPS.md`.

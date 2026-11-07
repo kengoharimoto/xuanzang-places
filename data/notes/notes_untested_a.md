@@ -37,7 +37,7 @@ is). The Purāṇic cakṣu is therefore not what Xuanzang wrote; he follows the
 vaṅkṣu (Raghuvaṃśa 4, vaṅkṣutīra). The form is secure, and the identification is unaffected (data/names/).
 **Assessment.** Secure.
 
-### 01.05 阿耆尼國 (Argi) — the Karashahr oasis
+### 01.05 阿耆尼國 (Agni) — the Karashahr oasis
 
 **Identifications.** Mizutani: Karashahr region where the Yulduz enters Bagrash-kul. Vivien (p. 264), Beal (p. 17),
 Watters (p. 47): Karashahr (= Yanqi).
@@ -46,6 +46,11 @@ spring and the king's grudge against Gaochang. No site evidence in these sources
 **Ji Xianlin et al. (1985).** Ji agrees: Yanqi (Karashahr), bounded at Yushugou on the E and through the Tieguan
 valley to Korla on the SW (Huang Wenbi 1958); he adds the later Uighur name Solmi (Geng Shimin and Zhang Guangda,
 唆里迷考, 1980) (p. 49).
+**Name.** 阿耆尼 is a-gi-ni by the key, with no r: Xuanzang writes a pre-consonantal r with a -t coda (伐 var, 達 dhar), so
+the local Saka Argiña, Tocharian *Arkeñe and the old 焉耆 (Argi) are not what he wrote. The characters give Skt. Agni, a
+learned Sanskritisation of the local name; the Uighur Maitrisimit colophon's Aknidiš < Agnideśa for Yanqi (Müller and
+Henning, reported by Ji p. 51) shows the Sanskrit name in Buddhist use. Medium confidence; the identification is
+unaffected (data/names/).
 **Assessment.** Probable to secure on the name and the Tang equation; the authorities agree. Mizutani stands.
 
 ### 01.05a 阿耆尼國大都城 — Stein's Bagdad-shahr south of Karashahr; only one proposal
@@ -130,7 +135,7 @@ Watters (p. 88): Ferghana.
 **Ji Xianlin et al. (1985).** Ji agrees (p. 85).
 **Assessment.** Secure as a region on the name. Mizutani stands.
 
-### 01.11 窣堵利瑟那國 (Usrūshana) — Usrūshana; capital Shahristan or Ura-tyube
+### 01.11 窣堵利瑟那國 (Sutrūšna) — Usrūshana; capital Shahristan or Ura-tyube
 
 **Identifications.** Mizutani: Usrūshana, capital Bunjikath = Shahristan or Ura-tyube itself. Vivien (p. 279), Beal
 (p. 31), Watters (p. 88): Ura-tyube.
@@ -140,6 +145,11 @@ range. The Life counts the 1,000 li from Chāch.
 gives its chief town Bunjikath as Panjikent, 60 km E of Samarkand, and reports Barthold's old town at Ura-Tübe (pp.
 86–87). Bunjikath of Usrūshana and Panjikent in Sogd are different towns; the Mug documents and wall paintings Ji
 cites belong to Panjikent and do not bear on Usrūshana.
+**Name.** The characters write s-t-r-š-n: 窣堵 is stu/sutu, 利 ri/ru, and 瑟 the closed š (生) before 那 na. Of the Arabic
+forms only Sutrūshana/Sutrūshnah has the t (Le Strange p. 474; Barthold "Ushrusana or Sutrūshana"); Surūshna and
+Usrūshana lack it, as does Minorsky's *Surushna (Ḥudūd comm. p. 354). The Sui 蘇對沙那 and Tang 率都沙那 agree. Mizutani's
+"Skt. sutṛṣṇa" is a pseudo-Sanskrit reading, and Ji's "Sutrena" is unsupported. Sutrūšna is secure (high confidence
+for the form); the identification is unaffected (data/names/).
 **Assessment.** The country is secure; the capital is open between Shahristan and Ura-tyube, c. 20 km apart.
 Mizutani stands.
 
@@ -313,8 +323,13 @@ Beal (p. 48): near Sir-i-pul (tentative). Vivien (p. 290): no synonym; a small m
 **Evidence.** The original name is unknown. The Life (T50:0228b, 銳末陀) has Xuanzang visit it at its king's
 invitation, with Gūzgān, SW of Balkh. No figures.
 **Ji Xianlin et al. (1985).** Ji leaves the site open, giving only Marquart's restoration Zumathān (pp. 125–126).
-**Assessment.** Open: the position (SW of Balkh) is agreed, but Sar-i-pul rests on one tentative suggestion and no
-name. Mizutani stands as the working site.
+**Name.** 鋭秣陀 gives *Yu-mar-dha: 鋭 is y- (以), 秣 mar/mat (明 + -t, as in 颯秣建 Samarkand), 陀 d/dh. Marquart's Zumathān
+(Ērānšahr p. 227, reported by Ji p. 125; the Arabic is unreadable in the OCR of Ērānšahr) fits -math- and the position
+on the Hindu Kush slopes S of the Oxus, but y- for z breaks the key (z is 習 or 寔), and the final -ān is not written.
+No *Yumar- or *Zumar- was found in the Ḥudūd, Barthold or Le Strange. Zumathān is a weak alternative, low confidence;
+the name gives no support to Sar-i-pul (data/names/).
+**Assessment.** Open: the position (SW of Balkh) is agreed, but Sar-i-pul rests on one tentative suggestion, and the
+name gives it no support (Marquart's Zumathān is weak and unlocated). Mizutani stands as the working site.
 
 ### 01.36 揭職國 (Gaz) — Darrah Gaz S of Balkh; the mapped point is too far south
 

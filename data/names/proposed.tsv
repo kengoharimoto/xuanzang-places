@@ -1,6 +1,13 @@
 id	name_study	verdict	confidence	basis	source
 01.01c	vakṣu	key	medium	Mizutani lists this form among his alternatives; the key selects it: 縛 is v-	data/names/key_notes.md §8
+01.04a	"Pers. *Siyāh-kōh ""black mountain"" (translation equivalent, not a transcription)"	better	low	Hori via Ji 1985 p. 46 (Siyahkoh range); Watters: native Siah-koh	data/names/test_ca_a.tsv
+01.05	Skt. Agni (as Agnideśa)	better	medium	Uighur Maitrisimit colophon, Aknidiš < Agnideśa = Yanqi (Müller, Henning, reported by Ji 1985 p. 51)	data/names/test_ca_a.tsv
+01.07.08	*Koṅgo / *Kaṅk(r)āq ?	alternative	low	Kankiyāq / Kankrāq, a town on the left bank of the Chirchik one farsakh from Khudaynkath (Barthold, Turkestan p. 173; Iṣṭakhrī K.nk.rak among the towns of Shāsh, Minorsky, Ḥudūd comm. p. 357)	data/names/test_ca_a.tsv
+01.11	Sutrūšna (Arab. Sutrūshana, Sutrūshnah)	better	medium	"Arabic forms Sutrūshnah, Surūshnah, Usrūshanah (Le Strange p. 474); Sutrūshana preferred by Minorsky (Ḥudūd p. 354) per Ji; Barthold ""Ushrusana or Sutrūshana""; Sui 蘇對沙那, Tang 率都沙那"	data/names/test_ca_a.tsv
 01.20.02	Tukhāra	key	medium	Mizutani lists this form among his alternatives; the key selects it: 貨 is kh, not ṣ	data/names/key_notes.md §8
+01.33	Zumathān (Marquart)	alternative	low	Marquart, Ērānšahr p. 227 (an Arabic district name, garbled in the OCR), reported by Ji 1985 p. 125	data/names/test_ca_a.tsv
+01.38.03a	*Arunau / *Aruno (unattested)	doubtful	low	阿=a ok; 路=ru/lu ok (來 模 u; key ru 2); 猱=nau (泥 + 豪 au; XZ's own fanqie 奴高反): MISMATCH for ṇa (key: ṇ = 拏, final a = 歌-rhyme 那)	data/names/test_ca_a.tsv
+01.38.07	"*Pīla-sāra (Pers. pīl + Skt. sāra) ""elephant-firm"""	better	medium	"Gloss 唐言象堅 fixes the meaning; Skt. pīlu ""elephant"" in the kośas (the Skt. word is the loan of Pers. pīl); Ji: Pers. pilu + Skt. sāra"	data/names/test_ca_a.tsv
 02.02	Lampa	key	medium	Xuanzang's transcription: only lampa is transcribed	data/names/key_notes.md §8
 02.04.14	*Bharuṣa / *Baluṣa	doubtful	low	跋=b/bh ok (並 + -t; key bha 7, ba 1, never va: v is 伐/婆/縛/毘) but v- not attested for 跋; 虜=ru/lu ok (來 模, not in key; u/o); 沙=ṣa ok (生, ṣ 5/5)	data/names/test_nw_a.tsv
 02.04.15	*dantalaka (unattested)	doubtful	low	彈=dan ok (定 d dental + -n; key dha(n) 2); 多=ta ok (端 t, dental); 落=la(k) MISMATCH for -lo- (鐸 rhyme -ak gives a; o is written with 模/虞 characters, e.g. 盧 ro); 迦=ka ok	data/names/test_nw_a.tsv
@@ -34,3 +41,18 @@ id	name_study	verdict	confidence	basis	source
 11.12	Ujjayana	key	medium	Mizutani lists this form among his alternatives; the key selects it: 那 gives -na	data/names/key_notes.md §8
 11.16	*Mūlasāmbapura (vernacular *Mūlasāmbūr)	better	medium	Sāmbapura, the sun-city founded by Sāmba on the Candrabhāgā (Bhaviṣyapurāṇa, adhyāya 140 of this e-text and elsewhere); al-Bīrūnī lists Sāmbapura among Multan's names (via Cunningham AGI p. 266)	data/names/test_nw_b.tsv
 11.18	*Atemba-śila / *Atemba-kila	doubtful	low	阿=a ok; 點=tem/tim (端 t, -m before labial; not in key); 婆=ba/va/bha ok; 翅=śi (書 ś, 施智; not in key; Buddhist transcription also uses it for ki/ke, cf. 倶翅羅 kokila) — MISMATCH for Mizutani's s; 羅=la/ra ok	data/names/test_nw_b.tsv
+12.01	Jāguḍa (attested; the characters read *Dzaukuṭa)	doubtful	medium	"Mbh 3.48.21 jāguḍān ramaṭhān ...; Mārkaṇḍeya P. 57.40 (northern peoples, with Lampāka); kośas: jāguḍa = kuṅkuma (saffron); Ji p. 148: Jāguda ""saffron"""	data/names/test_ca_a.tsv
+12.01a	Ghazna / Ghaznīn (attested; fit poor)	doubtful	low	Ḥudūd §24.19 GHAZNIN (spelt Ghazaq); Marquart p. 39: Ho-si-na = Ghazn/Gazna (older *Ganzak); Pelliot (in Foucher II p. 240 n. 35): equivalence unresolved	data/names/test_ca_a.tsv
+12.01b	*γasar(a) / *γasra (unattested)	doubtful	low	鶴=γa(k) (匣 + -k); 薩=sa(t)/sar (心 + -t; key s 3, sar 2); 羅=ra/la	data/names/test_ca_a.tsv
+12.01c	*Rāma-indu / *Ram-hind (unattested)	doubtful	low	羅=ra/la; 摩=ma ok; 印=in (影, -n; key in 1): a mid-name 印 signals a vowel-initial member (key §5); 度=du/dhu ok (定 模)	data/names/test_ca_a.tsv
+12.03	Andrāb / Andarāb (Arm. Andrap)	better	medium	Ps.-Moses Xorenacʿi, Arm. Andrap = Andarāb (Marquart, Ērānšahr p. 81); Ḥudūd §23.77, 80 Andarāb	data/names/test_ca_a.tsv
+12.04	Xwast / Khwāst (Pers.; Arm. West); mod. Khost	better	medium	Marquart, Ērānšahr p. 81: Ps.-Moses West = Pers. Xwast or Xust, the Kʿwoh-si-to of XZ; Ḥudūd comm. p. 341: Khost valley	data/names/test_ca_a.tsv
+12.05	*War (Bactrian Warnu, reported, not in files)	better	medium	Marquart, Ērānšahr p. 85: Hwo and Tang 阿緩 *Awan = *War/Awar, the base of Arab.-Pers. Warwālīz (Valvālij of the Ḥudūd §23.73, = Kunduz); Bactrian Warnu (Sims-Williams), reported, not in files	data/names/test_ca_a.tsv
+12.10	Parghar	better	medium	Parghar (var. Parkhar, Farghar), Ḥudūd al-ʿĀlam §6.7-8 (between Badhakhshan and Parghar; the Kulab river reaches Parghar and falls into the Jayhun); village Parkhar still exists (Minorsky)	data/names/test_ca_b.tsv
+12.12	*Padakšāna (p-; = Badhakhshān)	better	medium	Badhakhshān: Ḥudūd al-ʿĀlam §24.24 and passim; p- also in the older 波多叉拏 of the Gaoseng zhuan (Ji)	data/names/test_ca_b.tsv
+12.14	Kurān (*Kurāṇa)	better	medium	Kurān: Iṣṭakhrī (Karrān/Kurān with the infidel lands Wakhān and Shiqinān); Ibn Khurdādhbih p. 37 Karrān; Marquart: Kut-lang-na = *Kurāna	data/names/test_ca_b.tsv
+12.15.02	Khamdādh (*Xundād)	better	high	Khamdādh, Ḥudūd al-ʿĀlam §26.15 (10th c.): a place with the idol-temples of the Wakhis; = modern Khandūd (Minorsky)	data/names/test_ca_b.tsv
+12.18.05	puṇyaśālā	better	high	puṇyaśālā 'hospice': Asaṅga, Śrāvakabhūmi (deśavastu list); gloss 唐言福舍 in the text	data/names/test_ca_b.tsv
+12.19	*Ušar / *Oṣar	alternative	low	Uighur translation of the Life: ušar (Tugusheva 1980, reported by Ji)	data/names/test_ca_b.tsv
+12.20	Khaṣa (= local Kaš, as in Kāšγar)	better	medium	Ji: 竭石/竭叉/佉沙 from *Khaṣa, the name of the Himalayan Khaśa people; Uighur Käš (Life), Kāšγar (Kāšγarī); Skt. khaṣa (var. of khaśa) as a people in the Mahābhārata tribute list (Sabhāparvan 2.48.20*475)	data/names/test_ca_b.tsv
+12.22.17	*Navāp (nava + āp 'new water'; Sogd. *nawāp) > Tib. Nob > Lop	alternative	low	Tib. Nob (Nob-chen, Nob-chung) in the Miran documents (Stein, Serindia; Ji); Uighur Nop; Marco Polo Lop	data/names/test_ca_b.tsv

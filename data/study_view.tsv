@@ -49,7 +49,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 01.26	probable	Mizutani	37.84	68.78	district	Wakhsh valley, Kurgan-tyube (Bokhtar) plain	medium	none		Wakhsh valley (Kurgan-tyube)
 01.27	open	Mizutani	37.8	69.6	town	Khuttal; capital Hulbuk (Kurbanshaid), Tajikistan	medium	alternative	yes	Khuttal; capital Hulbuk (Mizutani) or Kulab (Ji)
 01.28	probable	Mizutani	38.46	70.79	town	Darwaz; capital Kala-i-khum (Qalai Khumb)	medium	none		Darwaz (or Rasht valley)
-01.28a	probable	Mizutani	36.73	68.86	town	Kunduz	medium	none		Kunduz
+01.28a	probable	Mizutani	36.73	68.86	town	Kunduz	medium	strengthened		Kunduz
 01.29	probable	Mizutani	36.13	68.7	town	Baghlan, Afghanistan	medium	none		Baghlan
 01.30	probable	Mizutani	36.27	68.02	town	Haibak (Samangan), Khulm valley	medium	none		Rūb + Simingān; capital Haibak
 01.31	probable	Mizutani	36.73	67.69	site	Khulm ruins N of Tashkurgan (Kholm)	medium	none		Khulm ruins N of Tashkurgan
@@ -433,13 +433,13 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 12.02b	probable	Mizutani	35.667	69.833	site	Khawak pass, Hindu Kush	medium	none		Khawak pass
 12.03	probable	Mizutani	35.63	69.27	district	Andarab valley	medium	strengthened		Andarāb
 12.04	probable	Mizutani	35.85	69.1	district	Khost (Khost-o-Fereng) valley, Baghlan	medium	none		Khost (Baber's Khost)
-12.05	probable	Mizutani	36.73	68.86	town	Kunduz	medium	none		Kunduz
+12.05	probable	Mizutani	36.73	68.86	town	Kunduz	medium	strengthened		Kunduz
 12.05a	probable	Mizutani	38.0	73.5	district	Pamir mountains	medium	none		the Pamir system
-12.06	probable	Mizutani	36.68	69.11	town	Near Khanabad	medium	none		Taliqan–Khanabad area
-12.07	probable	Mizutani	37.17	68.9	site	Arhang ferry near Imam Sahib, on the Amu Darya	medium	none		Arhang ferry near Hazrat Imam
+12.06	open	Mizutani	36.68	69.11	town	Near Khanabad	low	alternative	yes	Taliqan–Khanabad area as the lower part of a larger Mungān district (Marquart); or the Munjān valley itself
+12.07	open	Mizutani	37.17	68.9	site	Arhang ferry near Imam Sahib, on the Amu Darya	low	weakened		Arhang ferry near Hazrat Imam
 12.08	probable	Mizutani	37.65	70.65	district	Ragh plateau, N Badakhshan	medium	none		Rāgh N of Faizabad
 12.09	probable	Mizutani	36.8	70.1	town	Kishm, Badakhshan	medium	none		Kishm on the Kokcha
-12.10	unlocated						low	alternative	yes	unidentified: Parghar N of the Oxus (Markwart, Ji) or Farkhar (Beal), both weak
+12.10	unlocated						low	alternative	yes	unidentified: Parghar N of the Oxus (name fits; position against juan 1) or Farkhar (Beal; name fits worse)
 12.11	probable	Mizutani	36.9	70.45	district	Darayim, Badakhshan	medium	none		Darāim near the Khwaja Muhammad massif
 12.12	probable	Mizutani	37.0	71.0	country	Badakhshan	medium	none		Badakhshan
 12.12a	probable	Mizutani	37.12	70.58	town	Faizabad, Badakhshan	medium	none		Faizabad (Kokcha valley)

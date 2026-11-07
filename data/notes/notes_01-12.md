@@ -69,7 +69,7 @@ not observe the place himself. All three readings put it on the upper Yellow Riv
 only in how they map a traditional name onto modern relief. Mizutani's Amne Machin is the most specific and is not
 contradicted.
 
-### 01.04a 黑嶺 (Paropamisos?) — the "Black Range" between Bamiyan and Kapiśa; a general range name
+### 01.04a 黑嶺 (*Siyāh-kōh, a translation) — the "Black Range" between Bamiyan and Kapiśa; a general range name
 
 **Identifications.** Mizutani: the range crossing central Afghanistan east–west and joining the Hindu Kush to the
 ENE, crossed between 梵衍那 and 迦畢試; perhaps Greek Paropamisos (uncertain). "Black" means not snow-capped in
@@ -82,6 +82,12 @@ summer (Takata). Beal: the Hindu Kush (p. 54). Watters: the non-snowy ranges bou
 note at Kapiśa (p. 137; see 01.37.03a) instead describes Mizutani's E–W range of central Afghanistan joining the Hindu
 Kush to the NE, and again calls it Siyah-Koh, so the gloss at p. 46 is contradicted by Ji himself and has the weakness
 of Beal's "Hindu Kush".
+
+**Name.** 黑嶺 is not a transcription: 黑 and 嶺 are the Chinese words "black range", so the key has nothing to test, and
+Mizutani's Greek Paropamisos, which is no equivalent, should go. The meaning-equivalent is Persian *Siyāh-kōh "black
+mountain" (Hori, via Ji p. 46; Watters' native Siah-koh). In the files, however, Siyāh-kōh also names other ranges
+(the range S of the Herat river in Minorsky's Ḥudūd commentary on §5; one in Mangyshlaq), so it is a generic range
+name and cannot fix this one. Low confidence (data/names/).
 
 **Assessment.** All three describe the same belt of mountains. Watters' "Siah-koh" (= black mountain) is the closest
 to the Chinese name. Beal's flat "Hindu Kush" is too broad. Mizutani stands; for the crossing itself see 01.37.03a.
@@ -254,8 +260,14 @@ ascertained (p. 29). Watters: none.
 basins), but "the excavations do not yet suffice to fix" it (Belenitskii et al. 1973) (pp. 80–81). This narrows the
 region without a site.
 
+**Name.** 恭御 is Koṅgo by the key (as in 恭御陀 Koṅgoda), so the town was *Koṅgo or *Kuŋgu. The only name of that shape in
+the town lists of Shāsh and Īlāq is Kankiyāq/Kankrāq, on the left bank of the Chirchik one farsakh from Khudaynkath
+(Barthold, *Turkestan* p. 173; Iṣṭakhrī's K.nk.rak, Minorsky, Ḥudūd comm. p. 357), in the right district near Nujkath.
+But the vowels differ, the -rāq is not written, two characters match by chance easily, and Kankiyāq is itself not
+located. An alternative lead, low confidence (data/names/).
+
 **Assessment.** No authority offers more than a guess from distance, and Mizutani shows that the distances are
-corrupt. The place remains unidentified.
+corrupt. Kankiyāq/Kankrāq on the Chirchik is a name lead without a site (see Name). The place remains unidentified.
 
 ### 01.08 笯赤建國 (Nujkath) — Nujkath of the Islamic geographers; exact site probable only
 
@@ -466,11 +478,13 @@ of one month, in his route chronology (p. 645).
 **Ji Xianlin et al. (1985).** Ji agrees: at the confluence of the Doshi and Talaqan rivers near Kunduz (his note at
 12.05, p. 964), with a reference to the Kyoto University surveys of its Buddhist sites (Mizuno).
 
-**Assessment.** Kunduz is supported by Beal, Watters and Mizutani, and by the Tang name 遏換/阿緩. Vivien's Ghori lies in
-the same river system, south of Kunduz. Cunningham's "Khulm" is a single word in a chronology table and conflicts with
-01.31 忽懍, which is Khulm. Mizutani stands. Confidence medium: the name 活 is not continuous with Kunduz, and the
-identification rests on the Tang name and the authorities' agreement. No excavation, inscription or document naming
-the place is cited.
+**Name.** 活 renders *War, which Marquart (Ērānšahr p. 85) makes the base of Warwālīz, the Valvālij of the Ḥudūd
+(§23.73), i.e. Kunduz; see 12.05 (data/names/).
+
+**Assessment.** Kunduz is supported by Beal, Watters and Mizutani, by the Tang name 遏換/阿緩, and by the name 活 (*War),
+the base of Warwālīz = Kunduz (see Name). Vivien's Ghori lies in the same river system, south of Kunduz. Cunningham's
+"Khulm" is a single word in a chronology table and conflicts with 01.31 忽懍, which is Khulm. Mizutani stands,
+strengthened. Confidence medium: no excavation, inscription or document naming the place is cited.
 
 ### 01.30 紇露悉泯健國 — Rūb + Simingān (Haibak) in the Khulm valley
 
@@ -733,7 +747,7 @@ stūpa but no Śaiva evidence either. Tapa Skandar has the Śaiva sculpture that
 for, but lies c. 50 km away, long for 40 li. The study keeps the map point at Tatarānzar and leaves the choice open,
 low confidence.
 
-### 01.38.03a 阿路猱山 (aruṇa) — Khair Khana N of Kabul (Kuwayama), against the Chehel Dukhtaran peak (Cunningham, Beal)
+### 01.38.03a 阿路猱山 (*Arunau?, not aruṇa) — Khair Khana N of Kabul (Kuwayama), against the Chehel Dukhtaran peak (Cunningham, Beal)
 
 **Identifications.** Mizutani: no location (unknown); he discusses the name and the legend only. Cunningham: the
 north end of the Siah-koh, called Chehel Dukhtaran, 3–6 miles S of Begram (p. 30, tentative). Beal: perhaps the
@@ -753,9 +767,16 @@ god's later temple in Jāguḍa, where the Helmand leaves the mountains (II, p. 
 Aruṇācala, a mountain W of the Kailāsa range (p. 148). That is a Himalayan homonym and cannot be the mountain the text
 puts 30 li from the Śaiva town of Kapiśa; it touches neither Khair Khana nor Chehel Dukhtaran.
 
-**Assessment.** Khair Khana is the first candidate with a matching cult (sun worship for 'Aruṇa') and excavated
-temples; it depends on Kuwayama's Tapa Skandar for 01.38.03, from which it lies south as the text requires but at c. 20
-km, long for 30 li (the same stretch as 01.38.03). Alternative, medium-low confidence; Chehel Dukhtaran rests on the bearing alone.
+**Name.** 阿 a and 路 ru/lu fit, but Xuanzang fixes the last character with his own fanqie 奴高反: 猱 is nau, a dental n
+with an au/o vowel. Aruṇa would need 拏 for ṇ and the 歌-rhyme 那 for the final a, so aruṇa does not fit. The characters
+give *Arunau or *Aruno; a vernacular -o ending (Bactrian or Gāndhārī) would explain 猱, but the key has no -o < -aḥ
+case and no such form is attested. The Sanskrit library has no mountain Aruṇa (giri, parvata, śaila, acala) that could
+be this one; Ji's Aruṇācala is a Himalayan homonym. Doubtful, low confidence (data/names/).
+
+**Assessment.** Khair Khana is the first candidate with excavated temples, but its cult link (sun worship for 'Aruṇa')
+rested on reading 阿路猱 as aruṇa, and the characters do not give aruṇa (see Name). It also depends on Kuwayama's Tapa
+Skandar for 01.38.03, from which it lies south as the text requires but at c. 20 km, long for 30 li (the same stretch
+as 01.38.03). Alternative, low confidence; Chehel Dukhtaran rests on the bearing alone.
 
 ### 01.38.04 大雪山 (龍池・迦膩色迦王伽藍) — Kanishka's monastery: Top-Darrah near Charikar
 
@@ -832,11 +853,18 @@ Kelat-é-Ghilzai, and doubts that Ghazni belonged to the country (II, pp. 231, 2
 **Ji Xianlin et al. (1985).** Ji agrees: Zābulistān, the Kabul–Kandahar region held by the Hephthalites, = 謝䫻 of the
 *Xin Tang shu* (pp. 955–956).
 
+**Name.** Jāguḍa is attested both as a north-western people (Mbh 3.48.21, with the Ramaṭhas; Mārkaṇḍeya P. 57.40, with
+the Lampākas) and as "saffron" in the kośas (Rājanighaṇṭu 12.39), which suits the text's 宜鬱金香; Ji (p. 148) has the
+same. The characters, however, give *Dzaukuṭa: 漕 dz- (從, unattested in the key for Indic j), the au, and the voiceless
+ṭ of 吒 (ḍ would be 荼 or 擇) all depart from the key, which suggests a local form behind the Sanskrit one. Marquart's
+link with Zābul (Ērānšahr p. 39) suits dz- but not -kuṭa. The name thus points to Foucher's Jaghuri (upper Arghandāb)
+as much as to the Ghazni region. Medium confidence for Jāguḍa (data/names/).
+
 **Assessment.** The country is the Ghazni–upper Arghandāb–Helmand region on any view; Vivien, Cunningham and Mizutani
-differ only in the label (Ghazna, Arachosia, Zābulistān). Foucher's Jaghuri adds a name match and puts the core in the
-upper Arghandāb W of Ghazni, where the map point already lies; the route test's Ghazni and Foucher's doubts about it
-(12.01a) leave open whether the country reached that far east. Beal's Sewistan is an outlier he corrects himself.
-Mizutani stands for the region; Jaghuri is an alternative core.
+differ only in the label (Ghazna, Arachosia, Zābulistān). Foucher's Jaghuri adds a name match, as good as any the
+region offers (see Name), and puts the core in the upper Arghandāb W of Ghazni, where the map point already lies; the
+route test's Ghazni and Foucher's doubts about it (12.01a) leave open whether the country reached that far east.
+Beal's Sewistan is an outlier he corrects himself. Mizutani stands for the region; Jaghuri is an alternative core.
 
 ### 12.01b 鶴薩羅城 (*ghasala) — Guzar on the Helmand vs Vivien's Hazara localities
 
@@ -853,8 +881,14 @@ this capital A-so-ni (*Asani).
 
 **Ji Xianlin et al. (1985).** Ji agrees: in the Helmand basin, perhaps Guzar (p. 956).
 
-**Assessment.** Cunningham's Guzar has the better sound match and is followed by Beal and Mizutani. Vivien's
-suggestion is a guess from the name only. Mizutani stands, with "Guzar" itself only vaguely localised.
+**Name.** 鶴 is γa(k), 薩 sa(t) or sar, 羅 ra/la: Mizutani's *ghasala is the literal reading, and with 薩's -t for r the
+form could be *γasar(a) or *γasra. Nothing of this shape was found near Zābulistān in the Ḥudūd, Le Strange or
+Barthold; Cunningham's Guzar is a vague modern name not in the files, and the *Tang shu* calls this capital A-so-ni.
+Doubtful, low confidence (data/names/).
+
+**Assessment.** Cunningham's Guzar has the closer sound, though only loosely (*γasar against Guzar, with s for z and a
+for u; see Name), and is followed by Beal and Mizutani. Vivien's suggestion is a guess from the name only. Mizutani
+stands, with "Guzar" itself only vaguely localised.
 
 ### 12.01c 羅摩印度川 (*ramaindu) — the Helmand
 
@@ -869,6 +903,12 @@ prétexte" (II, p. 235), yet he places the Śuna temple of Jāguḍa "vers l'end
 montagnes" (II, p. 258).
 
 **Ji Xianlin et al. (1985).** Ji agrees: perhaps the Helmand (p. 956).
+
+**Name.** 羅 ra/la, 摩 ma, 印 in, 度 du: a mid-name 印 marks a vowel-initial member, so *Rāma-indu or the like, but no such
+form is attested (Sanskrit library and Iranian files searched; Barthold's Rāmīdh is the Kafirnihan, far away). The
+Islamic Helmand spellings Hindmand/Hidmand (Le Strange p. 339) share the *ind- but not in this order, and 印度 is also
+Xuanzang's own word for India, so the name may be half-translated. Doubtful, low confidence; the Helmand rests on
+geography only (data/names/).
 
 **Assessment.** Vivien, Cunningham, Watters and Mizutani give the Helmand on geographical grounds (Vivien and Watters
 tentatively, Mizutani uncertain); Beal gives no site, and the name remains unexplained. Mizutani stands.
@@ -944,7 +984,7 @@ left Xuanzang, near Paghman (II, p. 234).
 (12.03). No rival pass is proposed, but nothing on the ground fixes the crossing: agreement only. Mizutani stands
 (medium).
 
-### 12.04 闊悉多國 (*khasta) — Khost (Baber's Khost), NE Afghanistan
+### 12.04 闊悉多國 (Xwast) — Khost (Baber's Khost), NE Afghanistan
 
 **Identifications.** Mizutani: Khost, the valley of an upper Oxus tributary (uncertain). Vivien: the territory of
 Khost, next to Andarab (p. 417). Beal: Khost, between Talikan and Indarab, after Yule (I p. 43). Watters: the old
@@ -957,12 +997,18 @@ Khost of Baber (p. 269).
 
 **Ji Xianlin et al. (1985).** Ji agrees: the Khost river valley in NE Afghanistan (p. 962).
 
+**Name.** 闊悉多 is khwa-s-ta: 闊 keeps the w (溪, rounded), and 悉 + 多 write the cluster -st- in the key's way. This is
+Persian Xwast/Khwāst (Marquart, Ērānšahr p. 81: Ps.-Moses' West = Pers. Xwast or Xust, the Kʿwoh-si-to of Xuanzang),
+modern Khost (Ḥudūd comm. p. 341: the Khost valley); *khasta loses the w. Only the initial departs from Xuanzang's
+practice, 溪 where he usually writes Iranian x with 曉. Medium confidence; the identification is unaffected
+(data/names/).
+
 **Assessment.** The authorities agree unanimously, and the name match is good. Mizutani's hesitation concerns the
 exact valley only. Mizutani stands. Confidence medium: a small district identified by name and the authorities'
 agreement, and Mizutani himself is uncertain of the valley. No excavation, inscription or document naming the place is
 cited.
 
-### 12.05 活國 (*γwar) — Kunduz; Julien's Ghūr and Vivien's Ghori rejected
+### 12.05 活國 (*War) — Kunduz; Julien's Ghūr and Vivien's Ghori rejected
 
 **Identifications.** Mizutani: Kunduz near the Oxus (agreed); he rejects Julien's Ghūr. Beal: Kunduz (I p. 39).
 Watters: Kunduz, after Yule (p. 271). Vivien: a territory under the Turkish chief of Ghour (Ghori), NE of Andarab,
@@ -977,9 +1023,16 @@ not the town of Ghour (p. 419, tentative).
 the *Ḥudūd al-ʿālam* and Bīrūnī, capital of Tukhāristān), with a reference to the Kyoto University surveys of its
 Buddhist sites (Mizuno, *Bunmei no jūjiro*) (pp. 963–964).
 
-**Assessment.** As for 01.28a: Kunduz is supported by Beal, Watters, Mizutani and the Tang 遏換/阿緩. Vivien's Ghori is a
-neighbouring district on the Kunduz river. Mizutani stands. Confidence medium, as for 01.28a: the name is not
-continuous with Kunduz and no site evidence is cited.
+**Name.** 活 is ɣwat: the ɣw- is Xuanzang's initial for Iranian w (as 和 = wā in 鞠和衍那), and the -t coda his usual
+rendering of r (秣 mar, 呾 tar), so the name he heard is *War. Marquart (Ērānšahr p. 85) takes *War/Awar, with the Tang
+阿緩 *Awan, as the base of the Arabic-Persian Warwālīz, the Valvālij of the Ḥudūd (§23.73), which is Kunduz. A Bactrian
+town Warnu identified with Warwālīz and 活 is reported (Sims-Williams), not in the files. Medium confidence
+(data/names/).
+
+**Assessment.** As for 01.28a: Kunduz is supported by Beal, Watters, Mizutani and the Tang 遏換/阿緩, and now by the name,
+since 活 renders *War, which Marquart makes the base of Warwālīz, the early Islamic name of Kunduz (see Name). Vivien's
+Ghori is a neighbouring district on the Kunduz river. Mizutani stands, strengthened. Confidence medium, as for 01.28a:
+no site evidence is cited.
 
 ### 12.06 瞢健國 (*mungan) — near Khanabad/Taliqan vs Beal's Munjan
 
@@ -996,8 +1049,18 @@ tentative). Watters: perhaps Taliqan (Yule), not Mungan/Minjan (p. 271, tentativ
 **Ji Xianlin et al. (1985).** Ji agrees: not modern Mungān/Munjān but the Khānābād–Taliqan area, after Markwart (p.
 965).
 
-**Assessment.** The sound match points to Munjān in S Badakhshan (Vivien), but distance and sequence point to the
-Taliqan–Khanabad area (Beal's text, Watters, Mizutani). The authorities favour the latter. Mizutani stands.
+**Name.** 瞢健 is muṅ-gān: 瞢 with its -ŋ before a velar, and 健 the -gān of Iranian names (胡寔健 Gūzgān, 呾剌健 Tālaqān). The
+name is Mungān/Munjān (Marquart, Ērānšahr p. 226, with Bīrūnī's Mundajān; Ḥudūd comm. p. 367, Sanglichi Mandežān), so
+Mizutani's "no matching place name" is wrong. The modern Munjān lies far up the Kokcha in Badakhshan; Marquart (after
+Yule), followed by Ji, extends the old district down the Bangi valley to the Tāliqān and Khānābād plains, which saves
+the route. Medium confidence for the name (data/names/).
+
+**Assessment.** The name is Mungān/Munjān (see Name), so the question is no longer a sound match against the route but
+the extent of the district: the Munjān valley itself in S Badakhshan (Vivien, Beal's heading), or Marquart's larger
+Mungān district reaching down the Bangi to the Taliqan–Khanabad plain, where distance and sequence point (Beal's text,
+Watters, Mizutani; the route test takes Taliqan). Mizutani's area survives only through Marquart's extension of the
+district, which no source here documents for the 7th century. The Taliqan–Khanabad area stays the working point, low
+confidence, with the Munjān valley as the alternative.
 
 ### 12.07 阿利尼國 (*alini) — the Arhang crossing near Hazrat Imam vs Vivien's Walwalij
 
@@ -1010,9 +1073,12 @@ Moungan on both banks of the Oxus, perhaps Walwalij, though this seems too far W
 **Ji Xianlin et al. (1985).** Ji agrees: the Oxus ferry Ārhan, which Minorsky, from Iṣṭakhrī, puts near, not at,
 Hazrat Imam (p. 966).
 
-**Assessment.** Arhang/Ahreng is both a sound match and a known crossing. Vivien doubts his own alternative. Mizutani
-stands. Confidence medium: a small district identified by name and the authorities' agreement. No excavation,
-inscription or document naming the place is cited.
+**Assessment.** The characters give a-ri-ni (or a-li-ni), and Arhan/Arhang fits only the a-r-: there is no character
+for the h, and 尼 gives -ni, not -han (data/names/). The identification therefore rests on the ford rather than the
+name: Arhang/Ahreng is a known Oxus crossing that suits a country on both banks of the river, and Ji, after Minorsky,
+puts it near Hazrat Imam. Vivien doubts his own alternative. Mizutani stands. Confidence low: a small district placed
+by a crossing and the authorities' agreement, with a loose name; no excavation, inscription or document naming the
+place is cited.
 
 ### 12.08 曷邏胡國 (rāgh) — Rāgh N of Faizabad vs Vivien's Roshan
 
@@ -1052,7 +1118,7 @@ reads 東西千餘里 (pp. 967–968).
 border (cf. 12.16a). Mizutani stands. Confidence medium: a small district identified by name and the authorities'
 agreement, and the route test prefers Ishkashim. No excavation, inscription or document naming the place is cited.
 
-### 12.10 鉢利曷國 (*parighar) — unidentified; Parghar (Markwart, Ji) and Farkhar both weak; Bolor and Parika fail
+### 12.10 鉢利曷國 (Parghar) — unidentified; Parghar (Markwart, Ji) and Farkhar both weak; Bolor and Parika fail
 
 **Identifications.** Mizutani: no identification; he considers and rejects Beal's Bolor/Parika and the place names
 Parkhar (N of the Oxus) and Farkhar (SE of Taliqan) (unknown). Beal: near the Varsakh, a tributary of the Kokcha,
@@ -1068,12 +1134,20 @@ the Jōō print of 1653 (route/README.md §9). The text gives no distance, so th
 Barthold places it on the N bank of the Oxus due N of Taliqan, where the Parghar (Kchi-Surkhab) river joins it (pp.
 968–969). He reads 北至 with the Korean edition.
 
-**Assessment.** Two names now have a sound match, and both have a problem of position. Parghar (Markwart, Ji) is
-attested in the *Ḥudūd al-ʿālam* and lies roughly N of Kishm, as the Korean reading 北 requires, but on the N bank of
-the Oxus in Khuttal, whereas juan 1 lists 鉢利曷 among the countries reached by crossing the Oxus southward from Kumedh.
-Farkhar lies S of the river but SW of Kishm, against both 北 and 東北; Mizutani rejects both without reasons in the
-extract here. Vivien's Bolor is too far east. The place stays unidentified, with Parghar and Farkhar as weak
-alternatives.
+**Name.** 鉢利曷 fits Parghar in all three characters: 鉢 p (幫), 利 r (as in 貨利習彌伽 Khwārizm), 曷 γar (匣 ɣ- with -t for r).
+Parghar (var. Parkhar, Farghar) is in the Ḥudūd (§6.7–8), where the Kulab river "flows into the Jayhun between
+Badhakhshan and Parghar"; the village Parkhar (Farkhor) stands on the N bank of the Panj at the mouth of the Kulab
+river (Minorsky; Barthold via Ji). Farkhar SE of Taliqan fits worse, since Xuanzang writes Iranian x with 曉 (喝, 貨, 忽),
+not 匣. Medium confidence for the form (data/names/).
+
+**Assessment.** Two names have been proposed, and both have a problem of position. Parghar (Markwart, Ji) fits all
+three characters (see Name) and lies roughly N of Kishm, as the Korean reading 北 requires, but on the N bank of the
+Oxus in Khuttal, whereas juan 1 lists 鉢利曷 among the countries reached by crossing the Oxus southward from Kumedh;
+Minorsky (Ḥudūd comm. on §6.8) holds that the *Ḥudūd* "very rightly" places Parghar N of the river. Either the juan 1
+grouping is loose and this is the N-bank Parkhar, or a S-bank place of the same name is meant; the name alone cannot
+decide. Farkhar fits the characters worse and lies SW of Kishm, against both 北 and 東北; Mizutani rejects both without
+reasons in the extract here. Vivien's Bolor is too far east. The place stays unidentified, with Parghar the better
+name and Farkhar a weak alternative.
 
 ### 12.11 呬摩呾羅國 (himatala) — Darāim near the Khwaja Muhammad massif
 
@@ -1110,9 +1184,14 @@ NE for SE (p. 424).
 
 **Ji Xianlin et al. (1985).** Ji agrees: Yamgān/Hamakān, the Kokcha above Jurm (p. 972).
 
-**Assessment.** Yamgān is an exact name match on the correct bearing from Badakhshan, while Vivien has to emend the
-direction. Mizutani stands. Confidence medium: a small district identified by name and bearing with the authorities'
-agreement. No excavation, inscription or document naming the place is cited.
+**Name.** 淫薄健 (yam-bak-gān) renders the Y.nb.qān of Ibn Khurdādhbih's revenue list of 211/827 (p. 37), which Marquart
+(Ērānšahr p. 222) restores as *Yanbaqān > Yamgān; the 侵 rhyme of 淫 also allows Minorsky's Yumgān. An attested
+9th-century form in the right place fits all three characters (data/names/).
+
+**Assessment.** Yamgān is an exact name match, now with a 9th-century form that 淫薄健 renders closely (see Name), on the
+correct bearing from Badakhshan, while Vivien has to emend the direction. Mizutani stands. Confidence medium: a small
+district identified by name and bearing with the authorities' agreement. No excavation, inscription or document naming
+the place is cited.
 
 ### 12.15 達摩悉鐵帝國 (dharmasthiti; 鑊侃 = Wakhan) — Wakhan; Vivien's Matotch rests on the name only
 
@@ -1179,6 +1258,11 @@ reports Stein's Chichiklik NE of Tashkurghan (disputed). No other authority give
 **Ji Xianlin et al. (1985).** Ji says only that the hospice is to be sought SE of Tashkurghan, from the text's
 bearing, and names neither Kandar Punin nor Chichiklik (p. 990).
 
+**Name.** 奔穰舍羅 is puṇyaśālā in every character, including ś for 舍 (書) and the echo coda of 奔 before ṇy; Mizutani's
+Prakritised *pu(m)ñasala breaks the sibilant (s would be 娑 or 薩). The word is attested (Asaṅga, Śrāvakabhūmi, in the
+list of deśavastu) and glossed 福舍 in the text, but it is a common noun and does not help locate the hospice. High
+confidence for the form (data/names/).
+
 **Assessment.** Stein's Chichiklik lies on the actual route from Tashkurghan to Kashgar/Yarkand. Shiratori's Kandar
 Punin follows the text's "SE" and "300 li" (12.18.04). Mizutani prefers the text, while the route favours Stein. The
 sources here leave the two equally weighted.
@@ -1194,6 +1278,12 @@ a restoration only (II p. 288). Watters: none.
 **Ji Xianlin et al. (1985).** Ji prefers Yarkand (莎車), with Shiratori and Herrmann, against Stein's (and Pelliot's)
 site between Yangi Hissar and Yarkand; he adds the Uighur form ušar (Tugusheva 1980, p. 14) but no new argument (pp.
 991–992).
+
+**Name.** 烏 is u/o; 鎩 has three readings, and the usual 所八 (with -t) gives ṣar, since -t is Xuanzang's coda for r (秣
+mar, 喝 khar). That yields *Ušar or *Oṣar, which the 10th-century Uighur version of the Life writes ušar (Tugusheva,
+reported by Ji); but the Uighur translators transcribed the Chinese, so this is not independent evidence. No place
+name of this shape was found in the Ḥudūd or *Serindia*. Low confidence; the name does not decide between Yarkand and
+Yangi Hissar (data/names/).
 
 **Assessment.** The text says the country lies south of the Sītā (Yarkand river) and produces jade. Mizutani argues
 that none of the road stations fits "south of the Sītā", and that Yarkand fits the jade and the farming. Vivien's
@@ -1288,6 +1378,10 @@ and 捍麼 between the two ruins; he puts Song Yun's 捍麼 temple at Ulugh-Ziā
 adds that Hedin's Khotanese–Chinese bilingual document no. 24 makes 媲摩 very probably the Tang 坎城 (Bailey, *Khotanese
 Texts* IV, 1961, pp. 135–137) (pp. 1028–1029).
 
+**Name.** 媲 is a voiceless aspirate (滂 pʰ-), which fits Khotanese phimmāṃna and Tibetan Phye-ma (Ji, after Thomas and
+Konow) exactly and rules out Watters' and Hori's Skt. Bhīmā (bh would be 婆, 毘 or 跋). The name confirms the chain to
+Pein but does not decide between the two ruins (data/names/).
+
 **Assessment.** Beal, Stein and Mizutani agree on the area between Khotan and Keria. Vivien's Pialma contradicts the
 text's direction (it lies W). Within the area, the allocation of the two ruins is Mizutani's own reversal of Stein,
 and the sources here do not settle it. The area stands; the ruin is open.
@@ -1301,6 +1395,10 @@ Prejevalsky's map (II p. 325, tentative). Vivien and Watters: no site.
 
 **Ji Xianlin et al. (1985).** Ji agrees: Cherchen at the present county seat, the majority view, against Xie Bin's
 ruins 15 li S, Tao Baolian's old town NW and Grenard's Tatrang 120 li NE (p. 1033).
+
+**Name.** 折摩馱那 is Calmadana exactly, the -t coda of 折 rendering the l of the cluster lm; the form is attested in a
+Kharoṣṭhī deed from Lou-lan (L.A. IV: "Camaka, a man of Kroraina settled at Calmadana", Stein, *Serindia*)
+(data/names/).
 
 **Assessment.** The name chain calmadana = 沮末/且末 = Charchan is direct. Beal's Sorghak was a map-based guess for
 the same ancient state. Mizutani stands.

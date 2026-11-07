@@ -14,11 +14,16 @@ Ghaznī"; the *Tang shu* copies Hao-si-na but calls the second capital A-so-ni (
 **Ji Xianlin et al. (1985).** Ji agrees: Ghazni, noting that the *Xin Tang shu* has the king of 謝䫻 live at 鶴悉那 (p.
 956). That is the Tang form of the capital's name, not evidence for Ghazni, and leaves Pelliot's phonetic doubt
 standing.
-**Assessment.** Possible but now doubtful. The name match was the main ground, and Pelliot finds it unresolved;
-Foucher adds that his Jāguḍa need not have included Ghazni. The route fit still supports the Ghazni area, and no other
-site has been proposed. Ghazni stays on the map, low confidence.
+**Name.** The characters give *γak-s-na: 鶴 is γa with an unexplained -k (匣 + -k), 悉 a voiceless s (心), where Xuanzang
+writes Iranian z with 習 or 寔, and 那 na. Ghazna/Ghaznīn (Ḥudūd §24.19, spelt Ghazaq; Marquart, Ērānšahr p. 39: Gazna,
+from an older *Ganzak) is the attested candidate, but it fits poorly, as Pelliot's *γâk-sĭet-nâ already showed. No
+better form was found. Doubtful, low confidence (data/names/).
+**Assessment.** Possible but doubtful. The name was the main ground, and it hardly fits: Pelliot found it unresolved,
+and the key confirms the voiceless s and the unexplained -k (see Name). Foucher adds that his Jāguḍa need not have
+included Ghazni. What remains is the route fit for 12.01 and the *Tang shu*'s capital 鶴悉那, which only repeats
+Xuanzang's name; no other site has been proposed. Ghazni stays on the map, low confidence.
 
-### 12.03 安呾羅縛國 (*antarava) — Andarāb
+### 12.03 安呾羅縛國 (Andrāb) — Andarāb
 
 **Identifications.** Mizutani: Andarāb, the Doshi valley W of the Khawak pass (agreed; Barthold, Minorsky). Vivien
 (p. 417; Greek Adrapsa), Beal (I p. 43), Watters (p. 269, "Andarab of Baber") and Cunningham's route chronology
@@ -31,6 +36,11 @@ governor's house near Banu: its cliffs show substructures of river pebbles, old 
 size matches Xuanzang's 14–15 li. The Kishnabād spur 3–4 km downstream has only a qaleh, and the valley below is too
 narrow for a town (I, pp. 22, 136). He also takes the pass for the Khāvak (II, p. 234).
 **Ji Xianlin et al. (1985).** Ji agrees: Andarāb, the Doshi valley W of the Khawak pass (p. 961).
+**Name.** Read with the key's cluster rule (呾羅 = tra), 安呾羅縛 is an-trā-b(a), a three-syllable *Andrāb, not Mizutani's
+four-syllable *antarava. The Armenian Andrap of Ps.-Moses Xorenacʿi (Marquart, Ērānšahr p. 81) has exactly this
+cluster; the Ḥudūd's Andarāb (§23.77, 80) has the anaptyctic vowel. 呾 t for d after n is the only departure, and the
+Armenian p for b shows the voicing wavering in this name. Medium confidence for the form; the identification is
+unaffected (data/names/).
 **Assessment.** Probable on the name and agreement, and Foucher's plateau at Banu gives a plausible, unexcavated
 capital site. The short Andarāb–Khost leg is a problem of the figures, not of the identification.
 
@@ -43,7 +53,7 @@ Karakoram (p. 271).
 **Assessment.** A region-scale range, agreed in substance; Watters' wording differs only in extent. Probable; there
 is nothing to test.
 
-### 12.12 鉢鐸創那國 (*badakšana) — Badakhshan
+### 12.12 鉢鐸創那國 (*Padakšāna) — Badakhshan
 
 **Identifications.** Mizutani: Badakhshan (agreed; Minorsky). Vivien (p. 423), Beal (I p. 42), Watters (p. 277) and
 Cunningham's chronology (p. 649) agree.
@@ -52,10 +62,15 @@ Cunningham's chronology (p. 649) agree.
 **Ji Xianlin et al. (1985).** Ji agrees: the upper Panj and Kokcha basins. He reports Chavannes' town of Badakhshān E
 of Faizabad (= 跋底延 of the *Wei shu*) and Uchida Gimpū's reading of 拔底延 as Padiyan, "capital" (吐火羅國史, 1972, pp. 96–97)
 (pp. 971–972).
+**Name.** 鐸創那 is -dak-kṣā-na by the key (鐸 closed with -k before 創 kṣ, the -ŋ of 創 an echo before 那), so the name is
+Badhakhshān (Ḥudūd §24.24) except for the initial: 鉢 is a voiceless p (幫), whereas Xuanzang writes Iranian b- with 縛
+(Balkh, Baghlān) or 捕 (Bukhārā). The older 波多叉拏 of the *Gaoseng zhuan* (Ji) also has p-, so two transcriptions heard
+*Padaxšān, presumably the local pronunciation of the 7th century. Medium confidence; the identification is unaffected
+(data/names/).
 **Assessment.** The name match is direct and the distances fit. Probable by the study's rule (no site evidence),
 secure in substance.
 
-### 12.14 屈浪拏國 (*kuranna) — Kuran on the upper Kokcha
+### 12.14 屈浪拏國 (Kurān) — Kuran on the upper Kokcha
 
 **Identifications.** Mizutani: the Kuran (Karan) valley, upper Kokcha (agreed; 新唐書 倶蘭). Beal: Kuran about
 Lajward (I p. 42). Watters: Kuran, after Yule (p. 279). Vivien: perhaps Garana, the lapis-lazuli district (p. 424,
@@ -63,10 +78,15 @@ tentative), the same area.
 **Evidence.** No site evidence. Route test: from Yamgān 67 km for 300 li (z −0.07), bearing off 49°.
 **Ji Xianlin et al. (1985).** Ji agrees: Kurān, the lapis-lazuli district of the upper Kokcha, after Wood (pp.
 973–974).
+**Name.** 屈浪拏 is ku-ra(ṅ)-ṇa: the -ŋ of 浪 is an echo of the following nasal, not a second n, so Mizutani's *kuranna
+with a double n is excluded by the key. Kurān with a single nasal fits, attested in Iṣṭakhrī (Karrān/Kurān, with the
+infidel lands Wakhān and Shiqinān) and Ibn Khurdādhbih (p. 37, Karrān); Marquart (Ērānšahr) reads *Kurāna. 拏 is
+retroflex, so Xuanzang heard or Indianised -āṇa. The *Xin Tang shu* 倶蘭/倶爛那 agree. Medium confidence; the
+identification is unaffected (data/names/).
 **Assessment.** Probable: name and Tang form agree, Vivien's Garana is the same mining district, and the distance
 fits.
 
-### 12.15.02 昏馱多城 (*khandata) — Khandūd in Wakhan
+### 12.15.02 昏馱多城 (Khamdādh) — Khandūd in Wakhan
 
 **Identifications.** Mizutani: Khandūd, the largest village of Wakhan, on the S bank of the Ab-i-Panja (agreed;
 Ḥudūd al-ʿĀlam §26.15; Stein, *Serindia* I pp. 60–71); he rejects the earlier Ishkashim. Vivien: Kandat, seat of a
@@ -75,7 +95,13 @@ Wakhan chief (p. 425).
 there in the 10th century. The Life tells of the floating canopy over the stone Buddha.
 **Ji Xianlin et al. (1985).** Ji agrees: Khandūd on the alluvial fan S of the Āb-i Panja, after Stein, with the *Ḥudūd
 al-ʿālam*'s idol temple at Khamdādh (pp. 977–978).
-**Assessment.** Probable: the name survives and Vivien and Mizutani agree; no site evidence for the monastery.
+**Name.** 昏 is the Iranian x- (曉) with a rounded vowel and a nasal coda before d, and 馱多 render -dādh with the final
+consonant written out, as in 拘謎陀 Kumēdh. This is Khamdādh of the Ḥudūd (§26.15), "a place where the idol-temples of
+the Vakhis are", which Minorsky takes to be Khandūd; Mizutani's *khandata, with an Indic kh and a final -a, is
+unattested. The 10th-century form with its Buddhist temples matches both the characters and Xuanzang's monastery. High
+confidence for the name (data/names/).
+**Assessment.** Probable: the name runs from the Ḥudūd's Khamdādh, with its idol-temples, to modern Khandūd (see
+Name), and Vivien and Mizutani agree; no site evidence for the monastery.
 
 ### 12.16 尸棄尼國 (*šikini) — Shighnan
 
@@ -83,6 +109,9 @@ al-ʿālam*'s idol temple at Khamdādh (pp. 977–978).
 (I p. 41; after Cunningham and Yule) and Watters (p. 281) agree.
 **Evidence.** None; a hearsay country, named only in the Life.
 **Ji Xianlin et al. (1985).** Ji agrees: Shighnān (p. 979).
+**Name.** 尸棄尼 (ši-khi-ni) fits the early Arabic Shikinān/Shiqinān, with k/q rather than the later γ of Shughnān: Ibn
+Khurdādhbih (revenue list of 211/827, Shiqinān 40,000 dirhams) and Iṣṭakhrī's al-Sh.qīna (Ḥudūd comm.); 棄 (溪 kʰ) is
+the expected choice for q (data/names/).
 **Assessment.** Probable on the name and unanimous agreement. Its capital (12.16a) remains open.
 
 ### 12.17 商彌國 (*śami) — Chitral–Mastuj
@@ -129,7 +158,7 @@ Cīnadevagotra claim.
 Stein's report as cited by Mizutani. Confidence medium: the match is the legend and a local name reported by Stein
 (via Mizutani); the text gives no position or measurement to test the ruin against.
 
-### 12.20 佉沙國 (khāsa) — Kashgar
+### 12.20 佉沙國 (Khaṣa) — Kashgar
 
 **Identifications.** Mizutani: Kashgar (agreed; Shiratori, Jarring). Vivien (p. 427), Beal (II p. 306), Watters
 (p. 291), Dey (after Stein) and Cunningham's chronology agree.
@@ -137,6 +166,11 @@ Stein's report as cited by Mizutani. Confidence medium: the match is the legend 
 sources. Route test: from 烏鎩 (disputed) 162 km N for 500 li, bearing off 42°; the onward leg to Karghalik is a
 calibration leg.
 **Ji Xianlin et al. (1985).** Ji agrees: Kashgar; Uighur Käš (Tugusheva 1980, p. 12) (pp. 996–997).
+**Name.** 沙 is ṣ (生, 13 of 13 in the key), also Xuanzang's letter for Iranian š (鑊沙 Wakhsh), so Mizutani's khāsa, with
+a dental s, does not fit. The characters give Khaṣa, the local Kaš of Kāšγar (Uighur Käš; Ji, after Pelliot) or its
+Sanskritised form; Skt. khaṣa in the tribute list of the Sabhāparvan (Mbh 2, App.) attests the spelling only, since
+that people is Himalayan. The "correct" name 室利訖栗多底 fits *Śrīkṛtatī by the key but is unattested. Medium confidence;
+the identification is unaffected (data/names/).
 **Assessment.** Secure in substance on the text's gloss and the name; medium by the study's rule, since these
 sources give no site evidence.
 
@@ -260,6 +294,11 @@ after Stein (*Serindia* I pp. 318ff), Thomas, Huang Wenbi (agreed). Vivien (p. 4
 292 km NE for 1000 li (z +0.2, bearing off 20°).
 **Ji Xianlin et al. (1985).** Ji agrees on the Lop region (Charqliq = Nob-chen, Mirān = Nob-chung), but reads the name
 as Navāp (nava + āp, "new water") rather than nava-pura (pp. 1033–1035).
+**Name.** 納縛波 is na-va-pa (納 closed before v, as in 納縛 nava; 故 is "old", not part of the name). Kingsmill's *navapura
+is excluded, since nothing writes -ura. Mizutani's *navapa fits but has no meaning; Ji's *Navāp (nava + āp "new
+water"; the Sogdian etymology is reported, not in the files) fits as well, a final -p being spelled with a full
+syllable, and links to the Tibetan Nob of the Miran documents (Stein, *Serindia*) and Marco Polo's Lop. Both are
+unattested as such; low confidence, and the region is unaffected (data/names/).
 **Assessment.** Secure as a region: text, authorities, sites and distance agree. Only the name is unexplained.
 
 ### 12.22a 瞿薩旦那國王城 — Yōtkan

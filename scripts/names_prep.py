@@ -11,7 +11,7 @@ import csv, re, collections
 import tshet_uinh as T
 rd = lambda f: list(csv.DictReader(open(f, encoding="utf-8"), delimiter="\t"))
 P = rd("data/places.tsv")
-def core(z): return re.sub(r"[（(].*?[)）]|・.*|國$|城$|山$|河$|川$|伽藍$|窣堵波$", "", z).strip()
+def core(z): return re.sub(r"[（(].*?[)）]|・.*|僧伽藍$|故國$|國$|城$|山$|河$|川$|伽藍$|窣堵波$", "", z).strip()
 tg, sc, chars = [], [], set()
 for p in P:
     f = p["original_name"].strip()
