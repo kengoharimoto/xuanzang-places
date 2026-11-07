@@ -491,7 +491,7 @@ the note already records.
 give the Tirath–Kalam distance, so whether the spring is at Kalam itself or short of it is open. Mizutani doubts
 that the 250–260 li from the capital reach Kalam. The Tirath fix supports the upper Swat towards Kalam as the area.
 
-### 03.01.06 摩訶伐那伽藍 (mahāvana) — Shināsi stūpa at Kukrai (Mizuno), Mahaban (Cunningham) or Pinjkotai (Stein)
+### 03.01.06 摩訶伐那伽藍 (mahāvana) — Pinjkotai near Sunigram (Stein) or the Shināsi stūpa at Kukrai (Mizuno); Mahaban (Cunningham) weaker
 
 **Identifications.** Mizutani: the Shināsi stūpa at Kukrai, on the way to Ilām, after Mizuno (uncertain).
 Cunningham (p. 71): the Mahaban mountain in Buner, with the monastery on its top. Dey (after Stein): Pinjkotai near
@@ -511,9 +511,17 @@ of Mahaban, where remains survive on the lower slopes and the upper part of the 
 too far from Xuanzang's figures and proposed Pinjkotai in Sunigram (pp. 280–281). He does not mention Mizuno's
 Shināsi. Deane's remains give Mahaban more than its name, but Stein's objection from the distance stands against it.
 
-**Assessment.** There are three candidates and no decisive evidence among them. Cunningham's Mahaban rests on the
-name alone, and Stein's Pinjkotai is a field identification reported only at second hand (Dey). Mizutani's
-tentative view stands, with low confidence.
+**Stein (1898).** Stein's Buner report (pp. 31–32 for the stūpa, 60–61 for the route), now read directly, puts Mahāvana at the ruins of
+Panjkotai near Sunigram, where he surveyed a large ruined stūpa, and notes that Sunigram lies "almost due south" of
+Manglaur, "exactly in the position indicated for the Mahāvana monastery". The nearest route, over the Khalil pass and
+by Gokand, Padshah and Elai, is about 26 map miles; adding a quarter for the road he gets 192 li against the text's
+200. Measured so, the leg gives 0.26 km per li, the normal value, while Mizuno's Kukrai, 11 km away, gives 0.06
+(route/README.md §10, Test 4). Stein's own chain also fits the next stages: 6 miles = 36 li for the 30–40 li to
+Mo-yü, 10 miles = 60 li to the Śibi stūpa.
+**Assessment.** Stein's Panjkotai has a monument, the bearing and the distance; Kukrai has a stūpa on the way to Ilam
+but is far too close for 200 li; Mahaban rests on the name and is too far (Stein: at least 50 road miles, 300 li).
+Stein's site is now the better supported, though the ruin carries no inscription. Proposed: Panjkotai near Sunigram,
+with Kukrai as the alternative; low to medium, taken as low.
 
 ### 03.01.07 摩愉伽藍 — Gōg-dara (Mizuno) or Sura in the Chumla valley (Cunningham)
 

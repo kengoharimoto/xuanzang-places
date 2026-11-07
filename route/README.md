@@ -16,6 +16,7 @@ Two checks on the identifications, using only the texts:
 | `chains.py` → `chain_scores.tsv` | Scores whole alternative routes, each leg measured between one scheme's own sites (§5). |
 | `li_regions.py` → `li_regions.tsv`, `li_schemes.tsv` | The li by juan, visit and leg length; each scheme's best-fitting scale and the scatter left over (§8). |
 | `dem_fetch.py`, `li_paths.py` → `li_paths.tsv` | Least-cost walking routes over the Copernicus GLO-90 DEM for the same legs: li against route length and walking time (§10, Test 3). |
+| `stein_routes_j3.tsv` | Stein's (and Cunningham's) road lengths and marches for the juan 3 legs, with verbatim quotes (§10, Test 4). |
 | `li_terrain.py` → `li_terrain.tsv`, `elev_cache.json` | Each leg's km per li against its relief (SRTM) and the terrain words of its route sentence: was the li a measure of time? (§10). |
 | `../data/coords_study.tsv` | Coordinates for the study's own proposed sites, scored as the scheme "Study (proposed sites)" in §6–8. |
 | `apparatus_variants.py` → `apparatus_variants.tsv` | The Taishō apparatus notes of T2087, flagged where a reading touches a direction or numeral (§9). |
@@ -384,19 +385,51 @@ steadiest figure and should not depend on relief; if it measured time, hours per
 - **Time fits a little better than distance, everywhere.** Walking time reduces the scatter by about 6% against route
   length (bootstrap: in 98–99% of resamples, in each region), and it removes most of the relief effect in Central
   Asia. The overall rate is about 19 li per walking hour (median; 0.26 km of route per li).
-- **Winding roads do not explain India's rough legs.** The terrain forces only small detours at this resolution
-  (median 1.05 on flat legs, 1.13 on rugged ones), not the 1.5–2 assumed in Test 1, and the relief effect in India
-  survives both route length (ρ −0.39) and walking time (ρ −0.34). The grid misses switchbacks under about 370 m, so
-  real detours are larger, but not by enough to close a 30% gap.
+- **The model under-measures mountain roads.** It forces only small detours (median 1.05 on flat legs, 1.13 on
+  rugged ones), and the relief effect in India survives both route length (ρ −0.39) and walking time (ρ −0.34). But
+  where real road lengths are known (Test 4) the tracks in the hills run 1.2–1.6 times the modelled paths, because
+  they follow gorges the model cuts across. So winding roads may explain much of the remaining effect after all.
 - **Most of India's relief effect is juan 3.** Without the Gandhāra–Kashmir legs, ρ falls to −0.23 (route) and −0.20
-  (time). The juan 3 legs give 0.17 km of route per li, about two-thirds of the norm, by either measure. A regional
-  unit, a different informant, or doubtful sites (Mount Ilam and Mahāvana give 0.06) are as likely as slow
-  going.
+  (time). The juan 3 legs give 0.17 km of modelled route per li, about two-thirds of the norm. Test 4 shows that this
+  comes from the measurement and two sites, not from the li.
+
+**Test 4: juan 3 along Stein's routes.** Stein walked or described most of the juan 3 roads. His road lengths, and
+Cunningham's where Stein gives none, are in `stein_routes_j3.tsv` (35 rows, verbatim quotes checked against the OCR in
+`data/ref/stein/`: the Buner report 1898, MASI 42 Upper Swat 1930, the Kashmir *Memoir* 1899, *Serindia* i, *Innermost
+Asia* i).
+
+| Leg | li | Road used | km per li |
+|---|---|---|---|
+| Hund → Swat (03.01) | 600 | 57 map miles; road only by Stein's assumed +¼–⅓ | 0.15 on the map, 0.19–0.20 with it (model 0.18) |
+| Swat capital → Mount Ilam (03.01.05) | 400 | about 62 road miles, read as Stein's roundabout itinerary via Mahāvana and the Karakar pass | 0.25 (direct: 0.06) |
+| Swat capital → Mahāvana (03.01.06) | 200 | Stein's site at Panjkotai near Sunigram, Buner: 26 map miles + ¼ ≈ 32.5 miles | 0.26 (Mizuno's Kukrai: 0.06) |
+| Swat → Darel (03.01.16) | 1000 | 140 miles down the Indus on the survey maps; Stein adds at least ⅓ | 0.23, or 0.30 with the addition (model 0.19) |
+| Uraśā → Kashmir (03.06) | 1000 | 39 miles to Muzaffarabad (Albiruni) + 84 road miles to Baramula (Drew) + about 34 (2 marches, our estimate) to Srinagar | about 0.25 (model 0.21) |
+| Kashmir capital → Punch (03.07) | 700 | Toṣamaidān route, 69 miles to Loharin, short of Punch; Cunningham about 100 road miles | 0.16–0.23 (model 0.12) |
+| Taxila → Siṃhapura (03.04) | 700 | Cunningham: "not more than 85 miles"; hearsay in the Life | 0.20 |
+
+- **Juan 3 is not anomalous.** Along Stein's roads the legs give 0.19–0.30 km per li, the normal range (India's median
+  along modelled routes is 0.235).
+- **The model cuts across the gorges.** Where independent road figures exist, the real tracks run 1.2–1.6 times the
+  modelled paths: Kashmir 253 km against 210, Darel at least 225 against 185, Punch more than 111 against 83.
+- **Two short legs are about sites, not the li.** Mahāvana at Stein's Panjkotai, where he surveyed a large ruined
+  stūpa "almost due south" of Manglaur, gives a normal 0.26; Mizuno's Kukrai gives 0.06. At Ilam the 400 li fits only
+  Stein's roundabout itinerary, which he reconstructed to fit the figure, so that evidence is weak.
+- **Stein's view is partly circular.** He holds that the li is a road measure, at least ¼ over the map distance in the
+  hills and nearer ⅓ in difficult country (1898, p. 58), at 1/6 to 1/5 mile per li (0.27–0.32 km), and for Hund → Swat,
+  Mahāvana and Darel he adds that allowance rather than measuring a road. Only the Kashmir figures (Drew, Albiruni) are
+  independent. He never says the li are counted in marches or exaggerated in the hills.
+- **Day marches.** Where days are known, the li come to roughly 70–90 a march: Kashmir about 11½ marches for 1000 li
+  (about 87), Faxian's 15 days Darel → Swat for 1000+ (about 67), the Life's 7 days Prayāga → Kauśāmbī for 500 (about
+  71). Stein's "six marches" for Hund → Swat (100 a march) is his paraphrase. Too few legs to test.
+- **Not found:** road lengths for Punch → Rajauri, Rājapura → Ṭakka and the Mahāsāṃghika convent. The *Memoir* refers
+  its stage counts to Stein's *Rājataraṅgiṇī* notes and his 1895 JASB paper on the Pir Panjal route, not on disk.
 
 **Reading.** The li is not a fixed ground measure. In India especially, the figures look like day stages (yojanas)
 converted at a set rate. That fits the inflated forest legs, the gap between India and Central Asia, and the Life's
 seven days for 500 li. Where Xuanzang travelled himself in Central Asia, the figures behave more like distances: the
 Pamir legs are not stretched as slow travel would stretch them. Modelled walking routes (Test 3) favour time over
 distance only slightly, but consistently. Walking time does not explain the inflated forest legs of the Doab and the
-Deccan, nor the juan 3 legs: there something other than terrain (forest, halts, a different source for the figures)
-is at work.
+Deccan: there something other than terrain (forest, halts, a different source for the figures) is at work. The
+juan 3 legs, short against the model, are normal along Stein's actual roads (Test 4): there the model, not the li, was
+at fault.

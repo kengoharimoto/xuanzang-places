@@ -118,6 +118,11 @@
   Ji names the hill, not Shotorak, as the site; 01.25 Stavisky's title.
 - **07.01.02**: the note's summary of Mizutani dates the riot that destroyed the Lat Bhairon pillar to 1908; the riot was
   in 1809. Check Mizutani's own wording.
+- **Stein's Kashmir stage counts** (route/README §10 Test 4): the *Memoir* refers them to his *Rājataraṅgiṇī* notes
+  (v. 217, v. 226, vii. 140, vii. 658, Note E on iv. 177) and his 1895 JASB paper on the Pir Panjal route, not on disk;
+  they would give road lengths for Punch → Rajauri (03.08) and Rājapura → Ṭakka (04.01). Sunigram's coordinates for
+  03.01.06 are approximate (placed from Stein's bearing and map distance). MASI 42's OCR reads "500 li or approximately
+  80 miles" for Ilam where the 1898 report has "400 li, or approximately 66 miles".
 - **Resolved 2026-11-07**:
   - Foucher's Rāhula passage (01.38.02), lost in the Toyo Bunko OCR, was recovered by a Vision re-OCR of V-1 pdf 0151.
     It confirms Kâfir-Qaleh, though Foucher writes "Sud-Ouest" where the text has 東南.

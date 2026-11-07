@@ -20,7 +20,7 @@ minor sites that have no point either. Against Mizutani's identifications, the e
 - supports his identification for 95 places, 55 of them with high confidence, many with an inscription or seal
   naming the place;
 - weakens it for 10;
-- supports a different site for 56;
+- supports a different site for 57;
 - offers a candidate no standard authority records for 12.
 
 On the map the study's confidence comes out as 105 places secure, 166 probable and 102 open. These are the ratings
@@ -138,7 +138,8 @@ check.
    road. Every leg is tested, rival sites are scored, and the figures are compared across T2087, T2088 and the *Life*.
    The li does not behave as a fixed ground measure. In India the figures look like day stages (yojanas, which
    Xuanzang defines as 一日軍行) converted at a set rate: rough and forest legs give far fewer km per li (§10). Along modelled walking routes, walking time fits the li a
-   little better than route length (about 19 li per walking hour), but neither explains the forest legs.
+   little better than route length (about 19 li per walking hour), but neither explains the forest legs. The
+   Gandhāra–Kashmir legs, short against the model, are normal along Stein's actual roads (0.19–0.30 km per li).
 6. **Text and translation** (`data/text/`).
    - **The passages:** T2087 is cut into one passage per place (`anchors_*.tsv`, `scripts/extract_passages.py`;
      country passages open with the arrival sentence).

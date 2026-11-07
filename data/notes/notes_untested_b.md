@@ -136,8 +136,13 @@ the name means "bone" (haḍḍa) and points to Songyun's mountain with the 收�
 qielan ji 5), whose distance and setting roughly match, but finds the evidence insufficient. Songyun's mountain is the
 place of the body-offering to the tigress, which Xuanzang puts beyond the Indus (03.04.05), not the half-verse jātaka
 told here, so the parallel is weak.
-**Assessment.** Stein's fieldwork matches the description and the cult, and no rival exists, but the 400 li is far
-too long for any capital in the Swat valley. Mizutani stands, medium.
+**Stein's route.** Stein (MASI 42, pp. 102–103) calls the 400 li, read as a direct distance, "certainly wrong", and
+reads it as the total of a roundabout itinerary: Manglaur – Mahāvana – Mo-yü – Girarai (Barandu valley) – Karakar
+pass – Ilam, about 62 road miles (0.25 km per li, the normal value; route/README.md §10, Test 4). He reconstructed
+that itinerary to fit the figure, so it explains the distance without confirming it.
+**Assessment.** Stein's fieldwork matches the description and the cult, and no rival exists. The 400 li is far too
+long for the direct way from any capital in the Swat valley, but fits Stein's roundabout itinerary. Mizutani stands,
+medium.
 
 ### 03.01.09 薩裒殺地僧伽藍（珊尼羅闍川） — the Saniraja valley = Adinzai (Deane); the monastery unlocated
 
@@ -180,7 +185,12 @@ valley, more probably Darel.
 1° off. The Life gives it as hearsay.
 **Ji Xianlin et al. (1985).** Ji agrees: Darel, the valley on the W bank of the Indus; with Stein (on Rājataraṅgiṇī
 ii.435) he puts the Dards' old capital Daratpurī at Gurez, and cites Faxian's 陀歷 (p. 297).
-**Assessment.** Name and agreement, with the route bearing exact; no site evidence. Mizutani stands (medium).
+**Stein's route.** Stein (*Serindia* i, p. 6 n. 8) measures the route Darel – Mankial – down the Indus – Besham –
+Ghorband – Manglaur at about 140 miles on the survey maps, to be increased by at least a third for the ground, and
+finds the 1000 li "agrees well". On the map length alone the leg gives 0.23 km per li, the normal value; the route
+test's shortfall comes from the straight line (route/README.md §10, Test 4). Faxian took 15 days over it.
+**Assessment.** Name and agreement, with the route bearing exact and the distance normal along the Indus road; no
+site evidence. Mizutani stands (medium).
 
 ### 03.02 鉢露羅國 (balūra) — Baltistan; Chitral was once proposed
 
@@ -228,7 +238,12 @@ the better-supported alternative.
 route through the stone gate.
 **Ji Xianlin et al. (1985).** Ji agrees: Kashmir, the oval Jhelum valley c. 85 × 25 miles, the 7,000-li circuit
 perhaps including dependencies; he reports Chavannes' equation of the Han 罽賓 with Kaspeiria (pp. 321–322).
-**Assessment.** Name and agreement; no site evidence in these files. Mizutani stands (medium).
+**Route along the Jhelum.** Stein's *Memoir* (1899, pp. 24–25, 85–86) gives the road: about 39 miles from the Mansahra
+area to Muzaffarabad (from Albiruni), 84 road miles on to Baramula (Drew; six marches), and two marches to Srinagar.
+That is about 157 miles or 253 km for the 1000 li (0.25 km per li, the normal value; the Baramula–Srinagar mileage is
+our estimate), and about 11½ marches, some 87 li a march (route/README.md §10, Test 4).
+**Assessment.** Name and agreement, and the distance normal along the Jhelum road; no site evidence in these files.
+Mizutani stands (medium).
 
 ### 03.06.01a 迦濕彌羅國大都城 — Srinagar (Pravarapura)
 
@@ -248,7 +263,7 @@ Mizutani stands (medium).
 banks (p. 323).
 **Assessment.** Name and agreement; no excavation is reported here. Mizutani stands (medium).
 
-### 03.07 半笯嗟國 (parṇotsa) — Punch; name survives, distance short
+### 03.07 半笯嗟國 (parṇotsa) — Punch; name survives, distance short in a straight line
 
 **Identifications.** Mizutani: Punch, reached W via Baramula and Uri (agreed). Julien (p. 187), Vivien (p. 322),
 Cunningham (p. 147), Beal (p. 163), Watters (p. 281), Majumdar (p. 680) and Dey agree.
@@ -257,7 +272,12 @@ Rajouri–Poonch (Kushan ware, Kashmiri coins, temple ruins at Panjnara), withou
 70 km from the Kashmir point for "700+ li SW" (predicted 167 km), flagged short; the road via Baramula is longer.
 **Ji Xianlin et al. (1985).** Ji agrees: Punch, between the Jhelum and the Pir Panjal, noting that its area falls far
 short of the 2,000-li circuit (pp. 348–349).
-**Assessment.** Name and agreement. Mizutani stands (medium).
+**Stein's route.** Stein (*Memoir*, 1899, pp. 17, 81) thinks Xuanzang "very probably" took the Toṣamaidān pass; that
+road is a little under 69 miles from Srinagar to Loharin (from Albiruni), still short of Punch. Cunningham reckons
+about 100 road miles via Baramula and Uri. That gives 0.16–0.23 km per li, at the low end of the normal range, against
+0.10 in a straight line (route/README.md §10, Test 4).
+**Assessment.** Name and agreement; the distance is short in a straight line but near normal along the passes.
+Mizutani stands (medium).
 
 ### 03.08 曷邏闍補羅國 (rājapura) — Rajauri
 

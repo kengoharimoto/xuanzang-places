@@ -110,7 +110,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 03.01.04	secure	Mizutani	35.05	72.47	site	Tirat village, upper Swat	high	none		footprint stone at Tirat, upper Swat
 03.01.04a	probable	Mizutani	35.0	72.45	site	Rock on the road towards Tirat	medium	none		rock on the road from lower Swat to Tirat (Stein)
 03.01.05	probable	Mizutani	34.64	72.48	site	Mount Ilam, S of Mingora	medium	none		Mount Ilam, S of Mingora
-03.01.06	open	Mizutani	34.7	72.43	site	Shinasi stupa at Kukrai, on the way to Ilam	low	none		Shinasi stupa at Kukrai (Mizuno); rivals Mahaban (Cunningham), Pinjkotai (Stein via Dey)
+03.01.06	open	study	34.42	72.42	approx	Mahāvana = Panjkotai near Sunigram, Buner (Stein 1898)	low	alternative		Pinjkotai near Sunigram, Buner (Stein 1898), or Shinasi stupa at Kukrai (Mizuno)
 03.01.07	open	Mizutani	34.75	72.31	site	Gogdara stupa, near Udegram	low	none		Gog-dara (Mizuno); rival Sura, Chumla valley (Cunningham)
 03.01.08	text	text	34.7499	72.14	from the text	placed from the text: 西 60-70 from 03.01.07	low	none		unlocated (Cunningham: NW foot of Mahaban, by his chain)
 03.01.09	open	Mizutani	34.7	72.0	district	Adinzai valley above Chakdara	low	none		Adinzai valley (Deane); monastery unlocated
