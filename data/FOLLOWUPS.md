@@ -124,8 +124,9 @@
   lengths (Punch → Rajauri, Rajauri → Bhimbar → Gujrat, Punch → Srinagar, Abbottabad → Srinagar). Sunigram's coordinates for
   03.01.06 are approximate (placed from Stein's bearing and map distance). MASI 42's OCR reads "500 li or approximately
   80 miles" for Ilam where the 1898 report has "400 li, or approximately 66 miles".
-- **Original names** (`data/names/`, README method 8a): all 92 forms tested. Still to obtain: Sims-Williams'
-  Bactrian documents (Warnu for 活, and other Bactrian forms marked "reported"); Bailey's Khotanese (Ditkabani for
+- **Original names** (`data/names/`, README method 8a): all 92 forms tested. Sims-Williams' Bactrian
+  documents are now read (`data/names/bactrian.tsv`). Still to obtain: for the location of Gaz (揭職, "in the district
+  of Andar" in doc R) Yoshida 2003 p. 158 and Sims-Williams 2004 pp. 1052–4; Bailey's Khotanese (Ditkabani for
   地迦婆縛那); Marquart's Arabic in the Ērānšahr, unreadable in the OCR (Zumathān for 鋭秣陀); von Hinüber's reading "Palola" of the Gilgit kings' title (2004), cited from memory in the 03.02 test;
   Ji's Coliya from the Mahākūṭa pillar (IA 19), not on disk; the library's `7_inscriptions/maitraka` folder is empty.
   The key's weak readings to recheck: 伽 = k (bhāviveka only), 摩 = mi (mihirakula only).

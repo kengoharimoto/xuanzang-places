@@ -40,9 +40,13 @@ narrow for a town (I, pp. 22, 136). He also takes the pass for the Khāvak (II, 
 four-syllable *antarava. The Armenian Andrap of Ps.-Moses Xorenacʿi (Marquart, Ērānšahr p. 81) has exactly this
 cluster; the Ḥudūd's Andarāb (§23.77, 80) has the anaptyctic vowel. 呾 t for d after n is the only departure, and the
 Armenian p for b shows the voicing wavering in this name. Medium confidence for the form; the identification is
-unaffected (data/names/).
+unaffected (data/names/). Bactrian: Andar (ανδαρο, "a district", BDNA II p. 192), in which doc. R puts the fortress
+Gaz (c. 675), is a different name: it has no -āb for 縛, its -dar- does not suit the cluster 呾羅, and Sims-Williams
+compares it, doubtfully, with Dar-i Andara near Maimana, not with Andarāb. BDNA has nothing on Andarāb, and Andrāb
+stands (data/names/bactrian.tsv).
 **Assessment.** Probable on the name and agreement, and Foucher's plateau at Banu gives a plausible, unexcavated
-capital site. The short Andarāb–Khost leg is a problem of the figures, not of the identification.
+capital site. The short Andarāb–Khost leg is a problem of the figures, not of the identification. The Bactrian
+district Andar is a different place (see Name).
 
 ### 12.05a 葱嶺 — the Pamir system
 

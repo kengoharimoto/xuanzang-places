@@ -51,12 +51,12 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 01.28	probable	Mizutani	38.46	70.79	town	Darwaz; capital Kala-i-khum (Qalai Khumb)	medium	none		Darwaz (or Rasht valley)
 01.28a	probable	Mizutani	36.73	68.86	town	Kunduz	medium	strengthened		Kunduz
 01.29	probable	Mizutani	36.13	68.7	town	Baghlan, Afghanistan	medium	none		Baghlan
-01.30	probable	Mizutani	36.27	68.02	town	Haibak (Samangan), Khulm valley	medium	none		Rūb + Simingān; capital Haibak
+01.30	probable	Mizutani	36.27	68.02	town	Haibak (Samangan), Khulm valley	medium	strengthened		Rūb (Bactr. Rob) + Simingān: the realm of the khars of Rob with its district Samingan; capital Haibak (unproven)
 01.31	probable	Mizutani	36.73	67.69	site	Khulm ruins N of Tashkurgan (Kholm)	medium	none		Khulm ruins N of Tashkurgan
 01.32	secure	Mizutani	36.76	66.9	town	Balkh	high	strengthened		Balkh
 01.32.01	probable	Mizutani	36.75	66.89	site	Top-i-Rustam, Balkh	medium	strengthened		Nau-bahār at Balkh; stupa probably Top-i-Rustam
 01.32.02	text	text	36.9219	66.8049	from the text	placed from the text: 西北 50+ + 北 40+ from 01.32	low	none		unlocated
-01.33	open	Mizutani	36.22	65.93	town	Sar-i-pul, Afghanistan	low	none		Sar-i-pul (tentative)
+01.33	open	Mizutani	36.22	65.93	town	Sar-i-pul, Afghanistan	low	weakened		open: Sar-i-pul (tentative; its Bactrian name Amber does not fit) or Marquart's Zumathān (weak)
 01.34	probable	Mizutani	36.6	65.8	country	Guzgan/Jowzjan district	medium	none		Jūzjān district; capital unknown
 01.35	probable	Mizutani	35.93	64.6	district	Talaqan of Khurasan, near Maimana	medium	none		Ṭālaqān of Khurāsān near Maimana; ruin disputed
 01.36	probable	study	36.49	66.95	approx	Darrah Gaz, c. 30 km S of Balkh	medium	none		Darrah Gaz at the valley mouth c. 30 km S of Balkh (Beal's 20 mi)

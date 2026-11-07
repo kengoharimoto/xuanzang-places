@@ -462,10 +462,15 @@ Ferghana (p. 291).
 (Belenitskii et al. 1973), where Mizutani has Halāward (p. 110). Both lie in the Kurgan-tyube plain; the difference
 concerns the capital, not the country.
 
+**Name.** Bactrian: Waxš (οαχϸο) is the deified river Oxus and its god (BDNA II p. 243); doc. L (year 379 = c. 602) is
+written "with the cognizance of the god Wakhsh whom we worship here in Warnu" (BDNA I p. 64). 鑊沙 wax-š renders it
+exactly. In Bactrian the word names the river, not a district, so the country takes its name from the Wakhsh river;
+this confirms the form, not the location (data/names/bactrian.tsv).
+
 **Assessment.** Osh lies far to the NE, beyond the Alai, and would break the sequence of small states on the northern
 Oxus tributaries. Wakhsh fits both the name and the route. Mizutani stands. Confidence medium: a small state,
 identified by name and route sequence with the authorities' agreement. No excavation, inscription or document naming
-the place is cited.
+the country is cited (the Bactrian Waxš is the river and its god).
 
 ### 01.28a 活國 — Kunduz; Vivien's Ghori and Cunningham's Khulm are slips
 
@@ -479,12 +484,19 @@ of one month, in his route chronology (p. 645).
 12.05, p. 964), with a reference to the Kyoto University surveys of its Buddhist sites (Mizuno).
 
 **Name.** 活 renders *War, which Marquart (Ērānšahr p. 85) makes the base of Warwālīz, the Valvālij of the Ḥudūd
-(§23.73), i.e. Kunduz; see 12.05 (data/names/).
+(§23.73), i.e. Kunduz; see 12.05 (data/names/). Bactrian: the city Warnu (οαρνο, *Warnu-), "probably the later
+Warwaliz (modern Qunduz)" in Sims-Williams' glossary (BDNA II p. 242), is where doc. L was written in year 379 = c.
+602, with its citizens and the cult of the god Wakhsh (BDNA I p. 64). 活 ɣwat writes its first syllable War-, and
+Sims-Williams himself reads 活 as War- in 活路 Huolu (EMC ɣwat-lo), a Hephthalite city, which he takes (after Yoshida
+2003, p. 158b) for the base *Warl- of the people-name Warlogan (BDNA II p. 242); see 12.05 (data/names/bactrian.tsv).
 
-**Assessment.** Kunduz is supported by Beal, Watters and Mizutani, by the Tang name 遏換/阿緩, and by the name 活 (*War),
-the base of Warwālīz = Kunduz (see Name). Vivien's Ghori lies in the same river system, south of Kunduz. Cunningham's
-"Khulm" is a single word in a chronology table and conflicts with 01.31 忽懍, which is Khulm. Mizutani stands,
-strengthened. Confidence medium: no excavation, inscription or document naming the place is cited.
+**Assessment.** Kunduz is supported by Beal, Watters and Mizutani, by the Tang name 遏換/阿緩, and by the name: 活 renders
+*War, which Marquart makes the base of Warwālīz = Kunduz, and the Bactrian documents give the town of Xuanzang's time
+as Warnu, which Sims-Williams takes as probably Warwaliz/Qunduz (see Name). Vivien's Ghori lies in the same river
+system, south of Kunduz. Cunningham's "Khulm" is a single word in a chronology table and conflicts with 01.31 忽懍,
+which is Khulm. Mizutani stands, strengthened. Confidence medium: doc. L (c. 602) attests the city of Warnu and its
+name, documentary evidence of the town, not of a site, and Warnu = Kunduz is Sims-Williams' "probably"; no excavation
+or inscription at Kunduz is cited.
 
 ### 01.30 紇露悉泯健國 — Rūb + Simingān (Haibak) in the Khulm valley
 
@@ -502,10 +514,22 @@ through Haibak (I, pp. 49, 124).
 **Ji Xianlin et al. (1985).** Ji agrees: two places counted as one, Rub (Rui) and Simingān (Haibak), after Marquart
 (p. 114).
 
-**Assessment.** Beal already joins Rui and Samangan/Haibak, so Mizutani's hypothesis has older support, and Vivien
-agrees on Samangan. Foucher's rock-cut stūpa and caves show a Buddhist centre at Haibak; that Xuanzang's road missed
-it fits a country he describes without visiting. The area is secure and the double-name explanation is plausible.
-Mizutani stands.
+**Name.** Bactrian: Rob (ρωβο, "a city, modern Rui", BDNA II p. 260) and Samingan (σαμιγγανο, "a district, modern
+Samingan/Siminjan", p. 262) belong to one polity. Documents are dated "in the district of Samingan, at Sandaran, the
+court of the khars of Rob" (doc. N, year 407 = c. 630, BDNA I p. 74) and at Marogan, "the market of the khars of Rob"
+(P, c. 669; Q, c. 672; BDNA I pp. 82, 88), so in Xuanzang's years the khars (rulers) of Rob held the Samingan
+district, which explains a compound name Rōb-Simingān. 露 renders rō (the final -b unwritten) and 悉泯健 Simingān, whose i
+suits Islamic Simingān/Siminjān better than Bactrian Samingan; the remaining step is 紇 as a prefix before initial r-,
+as 曷 in 曷邏胡 Rāgh (data/names/bactrian.tsv).
+
+**Assessment.** Mizutani's double name (after Marquart; Beal already joins Rui and Samangan/Haibak, Vivien has
+Samangan) was a conjecture; the Bactrian documents now make it well supported. About 630 the khars of Rob held court
+at Sandaran in the district of Samingan (see Name), so 紇露悉泯健 names one realm, Rōb with Samingān, not two places run
+together by error. Foucher's rock-cut stūpa and caves show a Buddhist centre at Haibak; that Xuanzang's road missed it
+fits a country he describes without visiting. The documents attest the polity and its district, not a site: the court
+was at Sandaran, which is unlocated, so Haibak as the capital remains Mizutani's assumption, and the 紇 prefix is the
+open step in the name. Mizutani stands, strengthened. Confidence medium: documentary evidence of the polity, no site
+evidence for the capital.
 
 ### 01.32.02 提謂城・波利城 (Trapuṣa, Bhallika) — towns of the first two lay disciples near Balkh; unlocated
 
@@ -532,6 +556,11 @@ Merv-er-Roud district (p. 289, tentative). Beal: Juzgan (p. 48). Watters: none.
 **Gazetteers.** No gazetteer passage.
 
 **Ji Xianlin et al. (1985).** Ji agrees: a district between Merv and Balkh (p. 126).
+
+**Name.** Bactrian: Gozgan (γωζογανο, var. γωζαγανο, "a region", NP Gōzgān, Arabic Jūzjān; BDNA II p. 207), with "the
+lords of Gozgan" (doc. O, c. 663, BDNA I p. 80) and "the ser of Gozgan" (doc. R, c. 675, p. 92) as its rulers. 胡寔健
+gō-z-gān fits it throughout, the 模 of 胡 covering Bactrian ō at least as well as MP Gūzgān; the identification is
+unaffected (data/names/bactrian.tsv).
 
 **Assessment.** The district is unanimous. Only the capital is open, and no authority here names it. Mizutani
 stands.
@@ -858,7 +887,11 @@ the Lampākas) and as "saffron" in the kośas (Rājanighaṇṭu 12.39), which s
 same. The characters, however, give *Dzaukuṭa: 漕 dz- (從, unattested in the key for Indic j), the au, and the voiceless
 ṭ of 吒 (ḍ would be 荼 or 擇) all depart from the key, which suggests a local form behind the Sanskrit one. Marquart's
 link with Zābul (Ērānšahr p. 39) suits dz- but not -kuṭa. The name thus points to Foucher's Jaghuri (upper Arghandāb)
-as much as to the Ghazni region. Medium confidence for Jāguḍa (data/names/).
+as much as to the Ghazni region. Medium confidence for Jāguḍa (data/names/). Bactrian: the country name is not in BDNA
+I–II, but the chapter's 計多外道 is: Sims-Williams equates 計多 jiduo, EMC kej-ta, "designation of the worshippers of the
+god Zhun in Zabulistan", with Bactrian κηδο kēd, a title "approximately 'priest'" (< *kaita-, MP kēd "magician"; BDNA
+II p. 222). 計多 is then a transcription naming the kēd priests of 䅳那天 (Zhun), not a sect name; it bears on the cult,
+not on the place (data/names/bactrian.tsv).
 
 **Assessment.** The country is the Ghazni–upper Arghandāb–Helmand region on any view; Vivien, Cunningham and Mizutani
 differ only in the label (Ghazna, Arachosia, Zābulistān). Foucher's Jaghuri adds a name match, as good as any the
@@ -1001,12 +1034,15 @@ Khost of Baber (p. 269).
 Persian Xwast/Khwāst (Marquart, Ērānšahr p. 81: Ps.-Moses' West = Pers. Xwast or Xust, the Kʿwoh-si-to of Xuanzang),
 modern Khost (Ḥudūd comm. p. 341: the Khost valley); *khasta loses the w. Only the initial departs from Xuanzang's
 practice, 溪 where he usually writes Iranian x with 曉. Medium confidence; the identification is unaffected
-(data/names/).
+(data/names/). Bactrian: Khwastu (*χοαστο < *hu-wastu-, "good place", cf. OInd. Suvāstu-), in χοασταοιγο "(inhabitant)
+of Khwastu" (BDNA II p. 279); doc. P (year 446 = c. 669, BDNA I p. 82) has inhabitants of Khwastu present in the
+district of Samingan. 闊悉多 writes Xwast with the stem vowel -u unwritten, and the link with Samingan suits Khost within
+reach of the Rob realm (data/names/bactrian.tsv).
 
 **Assessment.** The authorities agree unanimously, and the name match is good. Mizutani's hesitation concerns the
 exact valley only. Mizutani stands. Confidence medium: a small district identified by name and the authorities'
-agreement, and Mizutani himself is uncertain of the valley. No excavation, inscription or document naming the place is
-cited.
+agreement, and Mizutani himself is uncertain of the valley. Doc. P (c. 669) names inhabitants of Khwastu: documentary
+evidence of the district and its name, not of a site. No excavation or inscription is cited.
 
 ### 12.05 活國 (*War) — Kunduz; Julien's Ghūr and Vivien's Ghori rejected
 
@@ -1025,14 +1061,20 @@ Buddhist sites (Mizuno, *Bunmei no jūjiro*) (pp. 963–964).
 
 **Name.** 活 is ɣwat: the ɣw- is Xuanzang's initial for Iranian w (as 和 = wā in 鞠和衍那), and the -t coda his usual
 rendering of r (秣 mar, 呾 tar), so the name he heard is *War. Marquart (Ērānšahr p. 85) takes *War/Awar, with the Tang
-阿緩 *Awan, as the base of the Arabic-Persian Warwālīz, the Valvālij of the Ḥudūd (§23.73), which is Kunduz. A Bactrian
-town Warnu identified with Warwālīz and 活 is reported (Sims-Williams), not in the files. Medium confidence
-(data/names/).
+阿緩 *Awan, as the base of the Arabic-Persian Warwālīz, the Valvālij of the Ḥudūd (§23.73), which is Kunduz. Medium
+confidence (data/names/). Bactrian: the city Warnu (οαρνο, a u-stem *Warnu-, cf. OInd. Varnu-; Arrian's Aornos),
+"probably the later Warwaliz (modern Qunduz)" (BDNA II p. 242), where doc. L was written in year 379 = c. 602, with
+its citizens and the cult of the god Wakhsh (BDNA I p. 64). 活 ɣwat writes War-, the first syllable, as one-character
+names do, and Sims-Williams himself reads 活 as War- in 活路 Huolu (EMC ɣwat-lo), a Hephthalite city, which he takes
+(after Yoshida 2003, p. 158b) for the base *Warl- of the people-name Warlogan (BDNA II p. 242). His glossary thus
+links 活 *War, Warnu and Warwaliz/Qunduz (data/names/bactrian.tsv).
 
-**Assessment.** As for 01.28a: Kunduz is supported by Beal, Watters, Mizutani and the Tang 遏換/阿緩, and now by the name,
-since 活 renders *War, which Marquart makes the base of Warwālīz, the early Islamic name of Kunduz (see Name). Vivien's
-Ghori is a neighbouring district on the Kunduz river. Mizutani stands, strengthened. Confidence medium, as for 01.28a:
-no site evidence is cited.
+**Assessment.** As for 01.28a: Kunduz is supported by Beal, Watters, Mizutani and the Tang 遏換/阿緩, and by the name: 活
+renders *War, which Marquart makes the base of Warwālīz, the early Islamic name of Kunduz, and which is the first
+syllable of the Bactrian city Warnu, probably Warwaliz/Qunduz in Sims-Williams' view (see Name). Vivien's Ghori is a
+neighbouring district on the Kunduz river. Mizutani stands, strengthened. Confidence medium, as for 01.28a: doc. L (c.
+602) attests the city of Warnu and its name, documentary evidence of the town, not of a site, and Warnu = Kunduz is a
+"probably"; no site evidence is cited.
 
 ### 12.06 瞢健國 (*mungan) — near Khanabad/Taliqan vs Beal's Munjan
 

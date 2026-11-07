@@ -17,9 +17,9 @@ Five kinds of evidence were set against him:
 
 **What they show.** 442 of the 480 places have a note (Mizutani's 419 and 61 added ones). The 38 without a note are
 minor sites that have no point either. Against Mizutani's identifications, the evidence:
-- supports his identification for 99 places, 56 of them with high confidence, many with an inscription or seal
+- supports his identification for 100 places, 56 of them with high confidence, many with an inscription or seal
   naming the place;
-- weakens it for 11;
+- weakens it for 12;
 - supports a different site for 60;
 - offers a candidate no standard authority records for 12.
 
@@ -191,6 +191,13 @@ check.
      Stein and Foucher. 23 stand; 13 better, 4 alternatives, 5 doubtful: Khamdādh (= Khandūd) for 昏馱多, Sutrūšna,
      Agni for 阿耆尼, Parghar, Andrāb, Xwast (Khost), *War (the base of Warwālīz, Kunduz) for 活, Kurān, Khaṣa for 佉沙;
      瞢健 is Munjān itself; 鶴悉那 hardly fits Ghazna, and 阿路猱 cannot be aruṇa (Xuanzang's own fanqie gives 猱 nau).
+   - **Bactrian** (`bactrian.tsv`): the Afghan names checked against Sims-Williams, *Bactrian Documents from
+     Northern Afghanistan* I (2000) and II (2007) (Internet Archive OCR, `data/ref/simswilliams/`, gitignored; the
+     uploads state no licence, the uploader calls them open). 50 places: 10 confirmed, 1 better, 2 no fit. 活 = Warnu (the study's
+     equation), "probably the later Warwaliz (modern Qunduz)" (II p. 242), a city with a Wakhsh cult in a contract of c. 602;
+     紇露悉泯健 = Rōb + Samingān, the court of the khars of Rob in the district of Samingan (docs. N, c. 630, to Q, c. 672);
+     覩貨邏 = *Tuxwār (Toxwār-, with the w that Skt. Tukhāra lacks); Tarmid, Waxš, Baxl, Gōzgān, Bamyan, Khwast
+     confirmed; Sar-i Pul's Bactrian name Amber does not fit 鋭秣陀; Gaz (揭職) lay "in the district of Andar".
    - **In the data:** `data/names/proposed.tsv` (`scripts/names_proposed.py`) → the `name_study` columns of
      `places.tsv` and the map's place panel; "Name." paragraphs in the notes, which say where a name moves an
      identification. A name match is a lead, not site evidence: it never raises a rating to high on its own.

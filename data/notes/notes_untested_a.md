@@ -221,7 +221,10 @@ Vivien (p. 285), Beal (p. 37), Watters (p. 105), Dey: Tokharistan of the Arab ge
 states (p. 102).
 **Name.** 貨 is 曉 (x/kh), not ṣ, so of Mizutani's forms Tukhāra fits and the epic Tuṣāra does not; Xuanzang follows the
 Bactrian pronunciation with x, as in his other Iranian names (Indic kh would be 佉). The form is secure, and the
-identification is unaffected (data/names/).
+identification is unaffected (data/names/). Bactrian: Sims-Williams' τοχοαραστανο "Tukhwarastan" (BDNA II p. 270)
+rests on *Toxwār- "Tocharian" (Sogd. ʾtxwʾrk), and 貨 is 合口 (xwā, as in 貨利習彌伽 Khwārizm), so 覩貨邏 writes *Tu-xwā-ra with
+the w that Skt. Tukhāra lacks. Xuanzang heard the Iranian *Tuxwār, and Tukhāra is the Sanskritised form; this concerns
+the name only (data/names/bactrian.tsv).
 **Assessment.** The region is secure; its exact extent varies by authority. Mizutani stands.
 
 ### 01.21 呾蜜國 (Tarmidh) — Termez; hearsay
@@ -233,6 +236,9 @@ Oxus.
 **Ji Xianlin et al. (1985).** Ji agrees and adds site evidence: the excavations of 1964–66 at Old Termez, near the
 mouth of the Surkhan, found a Greek fort, Kushan stūpas, the rock-cut cave monastery of Kara-Tepe and sherds with
 Brāhmī and Kharoṣṭhī inscriptions; he cites Knobloch, *Beyond the Oxus* (1972) (p. 104).
+**Name.** Bactrian: Tarmid, in ταρμιδδιγο "(inhabitant) of Tarmid" (BDNA II p. 269), with "a native of Tarmid" in doc.
+Q (year 449 = c. 672; BDNA I p. 88). 呾蜜 tar-mid matches it syllable for syllable, closer than Arabic Tirmidh; the
+identification is unaffected (data/names/bactrian.tsv).
 **Assessment.** Secure: the name is continuous, and the Buddhist monasteries excavated at Old Termez (Kara-Tepe, the
 Kushan stūpas) match the text's "more than ten monasteries". Mizutani stands.
 
@@ -273,6 +279,10 @@ to the S, which suits Darwaz.
 Kunduz. Beal (p. 43): Baghlan, c. 34 miles S of Kunduz.
 **Evidence.** Name continuous; hearsay; SW of Kunduz fits.
 **Ji Xianlin et al. (1985).** Ji agrees: the middle Doshi, c. 60 km SW of Kunduz (p. 113).
+**Name.** Bactrian: no Baghlān in BDNA I–II. Sims-Williams has a city Lan (λαναγγο "of (the city) Lan", = Chin. Lan, a
+city of Tokharistan, Chavannes 1903, p. 69 n.) and calls Chavannes' identification of Lan with Baghlan (ibid., p. 275)
+"hardly correct" (BDNA II p. 225). Lan is therefore no evidence for Baghlan, and 縛伽浪 is not Lan; the identification
+rests on the continuous name as before (data/names/bactrian.tsv).
 **Assessment.** Secure as a district on the name. Mizutani stands.
 
 ### 01.31 忽懍國 (Khulm) — Khulm, ruins N of Tashkurgan
@@ -296,6 +306,9 @@ Prajñākara. Route test: the 100 li S to Gaz gives z +2.8 only because of where
 the Greek Basileion and "la « ville royale » des pèlerins chinois", with the artisans' town to its south (I, p. 60).
 **Ji Xianlin et al. (1985).** Ji agrees: the Bala Hissar ruins (c. 150 ha) 23 km W of Mazar-i Sharif, after
 Schlumberger (1949); he cites Stavisky (1977) and Uchida Gimpū's reading of 拔底延 as Patiyan, "royal city" (p. 116).
+**Name.** Bactrian: βαχλο Baxl, "a city, modern Balkh" < *baxδri- (BDNA II p. 202). 縛喝 ba-xl writes x before l as the
+Bactrian does, so Xuanzang heard Baxl, not the later Balkh, whose l-x order is post-Bactrian; the identification is
+unaffected (data/names/bactrian.tsv).
 **Assessment.** Secure on the name, and Foucher's survey places the walled royal city of Xuanzang's time in the
 Bālā-Hisār. Mizutani stands.
 
@@ -327,9 +340,15 @@ invitation, with Gūzgān, SW of Balkh. No figures.
 (Ērānšahr p. 227, reported by Ji p. 125; the Arabic is unreadable in the OCR of Ērānšahr) fits -math- and the position
 on the Hindu Kush slopes S of the Oxus, but y- for z breaks the key (z is 習 or 寔), and the final -ān is not written.
 No *Yumar- or *Zumar- was found in the Ḥudūd, Barthold or Le Strange. Zumathān is a weak alternative, low confidence;
-the name gives no support to Sar-i-pul (data/names/).
-**Assessment.** Open: the position (SW of Balkh) is agreed, but Sar-i-pul rests on one tentative suggestion, and the
-name gives it no support (Marquart's Zumathān is weak and unlocated). Mizutani stands as the working site.
+the name gives no support to Sar-i-pul (data/names/). Bactrian: the city at Sar-i Pul was Amber (αμβηρο, "Amber in
+early Islamic sources (modern Sar-i Pul)", BDNA II p. 191; doc. Ss, not edited in BDNA I–II), Mizutani's Islamic
+Anbār, a name with an initial vowel and -mb- that 鋭秣陀 cannot render. So either Xuanzang names a different unit or
+Sar-i Pul is wrong. 秣陀 might render Bactrian Madr (μαλρο/μαδδρο, "a city and district, modern Madr", BDNA II p. 230,
+home of a servant of the khars of Rob in doc. N), but 鋭 stays unexplained and the look-alike is not adopted
+(data/names/bactrian.tsv).
+**Assessment.** Open, and Sar-i-pul is weakened: the position (SW of Balkh) is agreed, but Sar-i-pul rests on one
+tentative suggestion, and its own 7th-century name, Bactrian Amber (Islamic Anbār), is not what 鋭秣陀 transcribes (see
+Name). Marquart's Zumathān is weak and unlocated. Mizutani's site is kept as the working point only.
 
 ### 01.36 揭職國 (Gaz) — Darrah Gaz S of Balkh; the mapped point is too far south
 
@@ -343,8 +362,19 @@ and Kie-tche is the Darrah-Gāz ("Vallée des Tamaris"), with the "ten monasteri
 of them (I, pp. 124, 129).
 **Ji Xianlin et al. (1985).** Ji: some put it at Darrah Gaz, but "there is as yet no strong evidence" (p. 128). He
 adds doubt, not a rival.
-**Assessment.** Probable: Darrah Gaz is agreed. The 100 li puts it near the valley mouth c. 30 km S of Balkh, where
-Beal has it, not 94 km up the valley. Same place, better point.
+**Name.** Bactrian: Gaz (γαζο, "name of a fortress", BDNA II p. 205) is where docs. R (year 452 = c. 675) and S (470 =
+c. 693) were written, with a treasurer and a Turkish tudun of Gaz and, in S, a kulah of Rob (BDNA I pp. 92, 94): the
+reading Gaz is confirmed against *Gachi, though 職 (voiceless 章 + -k) for Bactrian z remains a weak point. But doc. R
+puts Gaz "in the district of Andar", which Sims-Williams compares, doubtfully, with Dar-i Andara near Maimana (BDNA II
+p. 192), and makes its fines payable to the treasury of the ser of Gozgan; that would place this Gaz in Gozgan, far W
+of a Darrah Gaz 100 li S of Balkh. Gaz ("tamarisk") is a common name, the archive is that of the khars of Rob, and
+Sims-Williams' discussions of the location (Yoshida 2003, p. 158; Sims-Williams 2004, pp. 1052–4) are not in the
+files, so whether the two are one place is open (data/names/bactrian.tsv).
+**Assessment.** Probable: Darrah Gaz is agreed, and a 7th-century fortress Gaz is attested in Bactrian. The 100 li
+puts it near the valley mouth c. 30 km S of Balkh, where Beal has it, not 94 km up the valley. Same place, better
+point. The tension: if the Bactrian Gaz "in the district of Andar", paying fines to the ser of Gozgan, lay near
+Maimana, as Sims-Williams doubtfully suggests, it is not Xuanzang's Gaz S of Balkh, and the Bactrian evidence then
+supports the reading of the name, not the site (see Name).
 
 ### 01.37 梵衍那國 (Bāmiyān) — the Bamiyan valley
 
@@ -356,6 +386,9 @@ road.
 **Foucher (1942–47).** Visits of 1922 and 1923: the old town began c. 1.5 km before the 53 m Buddha, astride the road
 and the river, with the Buddha cliff to its NE (I, pp. 132, 134).
 **Ji Xianlin et al. (1985).** Ji agrees: Bamiyan town, c. 150 miles W of Kabul (p. 130).
+**Name.** Bactrian: Bamyan (βαμοιανο, "a city and district, modern Bamiyan", BDNA II p. 201), named beside Rob as a
+neighbouring power ("of Rob or of Bamyan", doc. U, BDNA I p. 110) and as a captured "fortress Bamyan" in a letter. Its
+-y- is that of 衍 in 梵衍那 bam-yan-a, against MP Bāmikān; the identification is unaffected (data/names/bactrian.tsv).
 **Assessment.** Secure. Mizutani stands.
 
 ### 01.37.01 立佛石像 — the western (53 m) Buddha at Bamiyan
