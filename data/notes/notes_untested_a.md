@@ -383,15 +383,16 @@ of them (I, pp. 124, 129).
 **Ji Xianlin et al. (1985).** Ji: some put it at Darrah Gaz, but "there is as yet no strong evidence" (p. 128). He
 adds doubt, not a rival.
 **Name.** The name is not Gaz. 揭 has the -t coda that renders r, and 職 is tɕik, so the characters give *Garčig
-(Pelliot: *Karcik or *Kacik). Sims-Williams (CRAI 2002 [2004], p. 1054 n. 21) calls the equation with Gaz
-"impossible phonologiquement" and accepts Yoshida's identification of 揭職 with Bactrian γαρσιγο, the base of
-γαρσιγοστανο "Gharchistan" (Yoshida 1998, pp. 35–36, n. 11). The word means "mountain land", and in the Bactrian
-documents ("the judge of Tukharistan and Gharchistan") it seems to name the whole mountain zone south of Tokharistan,
-which fits Xuanzang's own description of 揭職 as 覩貨邏國南鄙; Gharchistan proper lay further west, as Yoshida admits.
-Ji (1985, p. 128) had already reported Pelliot's doubt. The Bactrian fortress Gaz (docs. R, c. 675, and S, c. 693,
-BDNA I pp. 92, 94) is a different name: Sims-Williams places it "in the district of Andar", either near Dar-i Andara
-by Maymana or at the Darra Gaz / Jazzah of the Islamic sources, a fort on Guzgan's eastern edge 30 miles S of Balkh
-(CRAI pp. 1053–54). Data: data/names/bactrian.tsv; texts in data/ref/simswilliams/.
+(Pelliot: *Karcik or *Kacik). Sims-Williams (CRAI 2002 [2004], p. 1054 n. 21) calls the equation with Gaz "impossible
+phonologiquement" and accepts Yoshida's identification of 揭職 with Bactrian γαρσιγο, the base of γαρσιγοστανο
+"Gharchistan" (Yoshida 1998, pp. 35–36, n. 11). The word means "mountain land", and in the Bactrian documents ("the
+judge of Tukharistan and Gharchistan") it seems to name the whole mountain zone south of Tokharistan, which fits
+Xuanzang's placing of 揭職 at the southern edge of Tokharistan (600 li beyond it he 出都貨邏國境; Yoshida's "southern border
+of Tokharistan" paraphrases this, it is not the text's wording); Gharchistan proper lay further west, as Yoshida
+admits. Ji (1985, p. 128) had already reported Pelliot's doubt. The Bactrian fortress Gaz (docs. R, c. 675, and S, c.
+693, BDNA I pp. 92, 94) is a different name: Sims-Williams places it "in the district of Andar", either near Dar-i
+Andara by Maymana or at the Darra Gaz / Jazzah of the Islamic sources, a fort on Guzgan's eastern edge 30 miles S of
+Balkh (CRAI pp. 1053–54). Data: data/names/bactrian.tsv; texts in data/ref/simswilliams/.
 **Assessment.** The place is the mountain country S of Balkh on the road to Bāmiyān, as all agree, and the 100 li
 puts Xuanzang's halt near the valley mouth c. 30 km S of Balkh, where Beal has it, not 94 km up the valley. The name,
 however, is *Garčig, "mountain land" (Yoshida, Sims-Williams), a district name, not the village name Gaz, so the

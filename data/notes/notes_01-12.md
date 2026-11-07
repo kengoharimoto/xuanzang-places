@@ -762,12 +762,12 @@ Mizutani follows, for Xiang Da's Luoyang: Pelliot's 娑囉誐 = 洛 of the Sansk
 Sarag of the Nestorian stele, cited via Xia Nai (1965); Xuanzang knew Kashgar as 佉沙 and would not have named it
 otherwise (pp. 139, 141–142).
 
-**Kuwayama (1990, 2002).** The Life's 沙落迦寺, "大城の東三、四里の北山の麓にある大伽藍" (1990, pp. 1134–35), on Koh-i Pahlawan
-E of Begram; he chooses no ruin among the hill's sites (two ruined stūpas on its W foot; Shotorak, Qol-i Nader and a
-third site on its N foot above the Panjshir; p. 1157). With Mizutani, against Ji, the hostage is Kashgarian (沙落迦 =
-疏勒, the 臣磐 of the 後漢書 疏勒國傳; 2002, p. 200: "the Shaluojia monastery built in honour of the Kashgarian hostage";
-p. 277 n. 8 repeats the Life's "hostage from the Chinese emperor"). His English "at the northern foot of a hill"
-renders 北山下 in the sense that would suit Shotorak.
+**Kuwayama (1990, 2002).** The Life's 沙落迦寺, "大城の東三、四里の北山の麓にある大伽藍" (1990, pp. 1134–35), on Koh-i Pahlawan E of Begram;
+he chooses no ruin among the hill's sites (two ruined stūpas on its W foot; Shotorak, Qol-i Nader and a third site on
+its N foot above the Panjshir; p. 1157). With Mizutani, against Ji, the hostage is Kashgarian (沙落迦 = 疏勒, the 臣磐 of the
+後漢書 疏勒國傳; 2002, p. 200: "the Shaluojia monastery built in honour of the Kashgarian hostage"; pp. 277–78 n. 8 repeats
+the Life's "hostage from the Chinese emperor"). His English "at the northern foot of a hill" renders 北山下 in the sense
+that would suit Shotorak.
 
 **Assessment.** Beal's site rests only on the Charikar = Shalaka name echo and assumes the capital lay near Charikar
 (see 01.38a). The hill E of Begram follows from the Begram capital, and Kuwayama agrees. The text puts the monastery
@@ -1205,19 +1205,20 @@ names do, and Sims-Williams himself reads 活 as War- in 活路 Huolu (EMC ɣwat
 (after Yoshida 2003, p. 158b) for the base *Warl- of the people-name Warlogan (BDNA II p. 242). His glossary thus
 links 活 *War, Warnu and Warwaliz/Qunduz (data/names/bactrian.tsv). Yoshida (1998, pp. 36–37) independently confirms that 活 renders war "accurately" and that Markwart's Kunduz is "basically right"; the 滑國 of the Liangshu is the same name. He notes one difficulty: the Tang 阿緩/遏換城, long equated with 活, and 活路城 both occur in the Tang geography, which he resolves by taking 阿緩 as Kuwayama's Qal'a-ye Zāl, c. 50 km NW, and 活 (with 活路) as Kunduz. Enoki (1992, pp. 415–17) instead puts 活 at Ghar in the middle Surkhāb valley (not in the files); see the next paragraph.
 
-**The capital: Qal'a-ye Zāl rather than Kunduz.** The Life (T50, 0252) says of the return journey: 至活國，居縛芻河側，
-即覩貨羅東界，都城在河南岸, "the country lies beside the Oxus …; the capital is on the south bank of the river"; on the
-way out Xuanzang reached 活國 after crossing the Oxus (渡縛芻河，至活國). Modern Kunduz lies c. 60 km S of the Amu and
-is a town of the 19th–20th centuries; its Bālā Ḥiṣār, test-excavated by the Kyoto team in 1963 (Onoyama 1966), gave
-5th-century red ware in its lowest street levels, "probably not ancient 活". Kuwayama (*Across the Hindukush*, 2002,
-ch. "Towns in Tokharistan"; 「トハーラの境域と，藍市城と活国都城」, 西南アジア研究 91, 2020, pp. 119–132) therefore puts
-the capital at the large town site N of Qal'a-ye Zāl, on the S bank of the Amu at the Kunduz confluence, where sherds
-collected after 1967 are of a 7th-century type; he takes it also as Warwālij, the Ḥudūd's capital of Tokharistan, the
-seat of the Tang 月支都督府 at 阿緩城 (遏換), and the Han 藍市. The site is unexcavated. Miyamoto (Tōhō gakuhō 90, 2015)
-follows him for 阿緩城 and, after Yoshida 2003 and Grenet 2006, puts the Hephthalite seat 活路城 at Bactrian Warlu in
-the Baghlān–Ghōrī plain, a different place from 活; Enoki's Ghar on the Surkhāb concerns 活路. Sims-Williams (1997,
-2008) derives Warwāliz from *War(a)wā(ng)-liz, "the fortress of Warnu", and places it at Kunduz; the name War/Warnu
-fits the district either way. Texts: data/ref/kyoto/.
+**The capital: Qal'a-ye Zāl rather than Kunduz.** The Life (T50, 0250a) says of the return journey: 至活國，居縛芻河側，
+即覩貨羅東界，都城在河南岸, "the country lies beside the Oxus …; the capital is on the south bank of the river"; on the way out
+Xuanzang reached 活國 after crossing the Oxus (渡縛芻河，至活國). Modern Kunduz lies c. 60 km S of the Amu and is a town of the
+19th–20th centuries; its Bālā Ḥiṣār, test-excavated by the Kyoto team in 1963 (Onoyama 1966), gave 5th-century red
+ware in its lowest street levels, "probably not ancient 活". Kuwayama (*Across the Hindukush*, 2002, ch. VII, p. 133;
+「トハーラの境域と，藍市城と活国都城」, 西南アジア研究 91, 2020, pp. 119–132) therefore puts the capital at the large town site N of Qal'a-ye
+Zāl, on the S bank of the Amu at the Kunduz confluence, where a few sherds collected after 1967 are of a jar type of
+the latest Chaqalak Tepe level, "possibly 7th century" (2020, pp. 127–28); he takes it also as Warwālij, the Ḥudūd's
+capital of Tokharistan, the seat of the Tang 月支都督府 at 阿緩城 (遏換), and the Han 藍市. The site is unexcavated. Miyamoto
+(Tōhō gakuhō 90, 2015) follows him for 阿緩城 and, after Yoshida 2003 and Grenet 2006, puts the Hephthalite seat 活路城 at
+Bactrian Warlu in the Baghlān–Ghōrī plain, a different place from 活; Enoki's Ghar in the middle Surkhāb valley (see
+Name) lies in that plain and so would suit 活路 rather than 活. Sims-Williams (1997, 2008) derives Warwāliz from
+*War(a)wā(ng)-liz, "the fortress of Warnu", and places it at Kunduz; the name War/Warnu fits the district either way.
+Texts: data/ref/kyoto/.
 
 **Assessment.** The country is the lower Kunduz–Surkhāb plain, as all agree, supported by the name: 活 renders
 *War, the base of Warwālīz (Marquart) and the first syllable of the Bactrian city Warnu (Sims-Williams; see Name).

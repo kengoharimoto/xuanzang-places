@@ -51,9 +51,10 @@ large bricks and Kushan coins show an old town (pp. 353–354). He does not say 
 leaves open (04.01.02), so his Asarur keeps the dependence on Sanglawala Tibba noted below.
 
 **The road from Rajauri.** Drew's route table (1875, App. IV, route 4) gives Rajaori to Bhimbar as 56 miles and
-Bhimbar to Gujrat on the plain as 30 (OCR "80"), about 86 road miles over the hills. Measured on to Sialkot the 700
-li come to about 181 km (0.26 km per li), on to Asarur about 223 km (0.32): both in the normal range, so the distance
-does not choose between them (route/README.md §10, Test 4).
+Bhimbar to Gujrat on the plain as "80" in the OCR, which Stein's 28 map miles show to be 30: about 86 road miles over
+the hills. Measured on to Sialkot the 700 li come to about 181 km (0.26 km per li, the normal value), on to Asarur
+about 223 km (0.32, just above the 0.175–0.30 found along the other juan 3 roads), so the distance leans slightly to
+Sialkot but does not decide between them (route/README.md §10, Test 4).
 
 **Name.** 磔 has a retroflex initial (知) with a -k coda, so the characters give Ṭakka, not the dental Takka of
 Mizutani's romanisation, which is probably a dropped diacritic. The Sanskrit sources have the retroflex: Ṭakkadeśa in

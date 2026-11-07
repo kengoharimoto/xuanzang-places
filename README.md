@@ -24,7 +24,8 @@ minor sites that have no point either. Against Mizutani's identifications, the e
 - offers a candidate no standard authority records for 12.
 
 On the map the study's confidence comes out as 105 places secure, 161 probable and 110 open. These are the ratings
-after a quality check of 30 notes and an audit of every "high" rating without site evidence (both in `data/notes/`).
+after a quality check of 30 notes and an audit of every "high" rating without site evidence, and a second check of
+27 paragraphs added later (Ji, names, Bactrian, Stein/Drew, Kuwayama: 19 ok, 8 minor, all fixed; `data/notes/qc2_*.tsv`).
 Another 54 minor sites are placed approximately from Xuanzang's own bearing and distance, without an identification
 (`scripts/place_from_text.py`). 50 have no point.
 

@@ -169,10 +169,12 @@ the name means "bone" (haḍḍa) and points to Songyun's mountain with the 收�
 qielan ji 5), whose distance and setting roughly match, but finds the evidence insufficient. Songyun's mountain is the
 place of the body-offering to the tigress, which Xuanzang puts beyond the Indus (03.04.05), not the half-verse jātaka
 told here, so the parallel is weak.
-**Stein's route.** Stein (MASI 42, pp. 102–103) calls the 400 li, read as a direct distance, "certainly wrong", and
-reads it as the total of a roundabout itinerary: Manglaur – Mahāvana – Mo-yü – Girarai (Barandu valley) – Karakar
-pass – Ilam, about 62 road miles (0.25 km per li, the normal value; route/README.md §10, Test 4). He reconstructed
-that itinerary to fit the figure, so it explains the distance without confirming it.
+**Stein's route.** Stein (MASI 42, pp. 102–103) calls the distance, read as a direct one, "certainly wrong" (he writes
+"500 li or approximately 80 miles" there, a slip for the "above 400 li" of the translation he quotes on the same
+page), and reads it as the total of a roundabout itinerary: Manglaur – Mahāvana – Mo-yü – Girarai (Barandu valley) –
+Karakar pass – Ilam, about 62 road miles by the sum of his stage figures (0.25 km per li, the normal value;
+route/README.md §10, Test 4). He reconstructed that itinerary to fit the figure, so it explains the distance without
+confirming it.
 **Assessment.** Stein's fieldwork matches the description and the cult, and no rival exists. The 400 li is far too
 long for the direct way from any capital in the Swat valley, but fits Stein's roundabout itinerary. Mizutani stands,
 medium.

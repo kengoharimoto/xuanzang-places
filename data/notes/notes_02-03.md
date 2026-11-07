@@ -280,9 +280,11 @@ conjecture, which he later dropped.
 **Gazetteers.** Peshawar 1883 and 1899 echo ASR II ("survived as Gor Khatri"), with the Babur, Akbar and Vīra Deva
 references.
 
-**Kuwayama (2002).** Agrees that the monastery lay W of the stūpa: the 6-m "Monastery Mound" where Crompton dug, with
-three superimposed buildings (two of brick, the last of brick and stone) with square pillar bases and walls faced with
-round or semicircular towers (pp. 69–70).
+**Kuwayama (2002).** W of the stūpa lay the 6-m mound where Crompton dug most of his trenches, Hargreaves' "Monastery
+Mound" (p. 69); a little W of the stūpa the excavators exposed three superimposed buildings (two of brick, the last of
+brick and stone) with square pillar bases and walls faced with round or semicircular towers, which they took for
+monastic buildings (p. 70). He does not discuss Kaniṣka's monastery as such, but what he reports fits a monastery W of
+the stūpa, as the text requires.
 
 **Assessment.** Gor Khatri rested on the name and later fame of the place, argued before the stūpa was found, and
 its author dropped it. The excavated stūpa, the inscription naming Kaniṣka's vihāra, and the great monastic mound
@@ -524,7 +526,7 @@ where Xuanzang crossed both ways and the king of Kapiśa wintered (I, p. 40; II,
 **Ji Xianlin et al. (1985).** Ji agrees: Ohind, NE of the Kabul–Indus confluence, 16 miles above Attock (p. 261).
 
 **Kuwayama (2002).** Udabhāṇḍapura is Hund, on the N bank of the Indus above Attock, with Stein and against Caroe's
-tepe near Lahor (p. 245); the winter seat of the 6th–7th-century Kāpiśī kings (p. 209). Agrees.
+tepe near Lahor (p. 245); the winter seat of the 6th–7th-century Kāpiśī kings (p. 210). Agrees.
 
 **Assessment.** The name runs unbroken from Udabhāṇḍa to Hund, and the remains and coins show a large town in use
 from the Indo-Greeks to the Shahis whose extent fits the 20 li circuit. Nothing found names it, but Watters' doubt
@@ -890,8 +892,8 @@ the Kunāla monastery (Guide, pp. 150–151), but notes that its bearing differs
 the identification undecided (p. 307). This is the note's own doubt, reached without Yamamoto's argument from Sirsukh.
 
 **Kuwayama (2002).** The Kunāla stūpa and monastery on the hill S of Sirkap belong to his Period V, built when Sirkap
-was "already an old story", and were renovated in Period VI, the period Xuanzang saw (p. 7). That puts the monument in
-use in his day; it says nothing of the bearing from Sirsukh.
+was "already an old story", and were renovated in Period VI, the period Xuanzang saw (pp. 7–8). That puts the monument
+in use in his day; it says nothing of the bearing from Sirsukh.
 
 **Assessment.** The survey's two sites, measured from the Bir mound, yielded nothing (Karmal) or need the bearing
 altered (Meri). Marshall's site has a large stūpa with an older core, but from Sirsukh, Mizutani's own capital, the
