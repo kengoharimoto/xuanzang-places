@@ -488,15 +488,13 @@ of one month, in his route chronology (p. 645).
 Warwaliz (modern Qunduz)" in Sims-Williams' glossary (BDNA II p. 242), is where doc. L was written in year 379 = c.
 602, with its citizens and the cult of the god Wakhsh (BDNA I p. 64). 活 ɣwat writes its first syllable War-, and
 Sims-Williams himself reads 活 as War- in 活路 Huolu (EMC ɣwat-lo), a Hephthalite city, which he takes (after Yoshida
-2003, p. 158b) for the base *Warl- of the people-name Warlogan (BDNA II p. 242); see 12.05 (data/names/bactrian.tsv). Yoshida (1998, pp. 36–37) independently confirms 活 = war = Kunduz; Kuwayama (2002) puts the capital town at Qal'a-ye Zāl, c. 50 km NW (see 12.05).
+2003, p. 158b) for the base *Warl- of the people-name Warlogan (BDNA II p. 242); see 12.05 (data/names/bactrian.tsv). Yoshida (1998, pp. 36–37) independently confirms 活 = war = Kunduz; Kuwayama (2002, 2020) puts the capital town at Qal'a-ye Zāl on the Oxus (see 12.05).
 
-**Assessment.** Kunduz is supported by Beal, Watters and Mizutani, by the Tang name 遏換/阿緩, and by the name: 活 renders
-*War, which Marquart makes the base of Warwālīz = Kunduz, and the Bactrian documents give the town of Xuanzang's time
-as Warnu, which Sims-Williams takes as probably Warwaliz/Qunduz (see Name). Vivien's Ghori lies in the same river
-system, south of Kunduz. Cunningham's "Khulm" is a single word in a chronology table and conflicts with 01.31 忽懍,
-which is Khulm. Mizutani stands, strengthened. Confidence medium: doc. L (c. 602) attests the city of Warnu and its
-name, documentary evidence of the town, not of a site, and Warnu = Kunduz is Sims-Williams' "probably"; no excavation
-or inscription at Kunduz is cited.
+**Assessment.** The country is the lower Kunduz–Surkhāb plain (Beal, Watters, Mizutani), supported by the name: 活
+renders *War, the base of Warwālīz, and the Bactrian city Warnu is probably Warwaliz (see Name). The capital, by the
+Life (都城在河南岸), lay on the south bank of the Oxus: the town site N of Qal'a-ye Zāl (Kuwayama 2002, 2020), not
+Kunduz, 60 km inland; see 12.05. Cunningham's "Khulm" is a single word in a chronology table and conflicts with 01.31
+忽懍, which is Khulm. Confidence medium: text and surface survey, no excavation.
 
 ### 01.30 紇露悉泯健國 — Rūb + Simingān (Haibak) in the Khulm valley
 
@@ -1069,22 +1067,26 @@ names do, and Sims-Williams himself reads 活 as War- in 活路 Huolu (EMC ɣwat
 (after Yoshida 2003, p. 158b) for the base *Warl- of the people-name Warlogan (BDNA II p. 242). His glossary thus
 links 活 *War, Warnu and Warwaliz/Qunduz (data/names/bactrian.tsv). Yoshida (1998, pp. 36–37) independently confirms that 活 renders war "accurately" and that Markwart's Kunduz is "basically right"; the 滑國 of the Liangshu is the same name. He notes one difficulty: the Tang 阿緩/遏換城, long equated with 活, and 活路城 both occur in the Tang geography, which he resolves by taking 阿緩 as Kuwayama's Qal'a-ye Zāl, c. 50 km NW, and 活 (with 活路) as Kunduz. Enoki (1992, pp. 415–17) instead puts 活 at Ghar in the middle Surkhāb valley (not in the files); see the next paragraph.
 
-**The capital: Kunduz or Qal'a-ye Zāl.** Kuwayama (*Across the Hindukush*, 2002, ch. "Towns in Tokharistan") accepts
-活 = Warwaliz and the 活 district as the Tokhara capital district, seat of the Tang 月支都督府 at 阿緩城 (遏換 in the
-Jiu Tangshu), but denies that the town was Kunduz: the Chinese sources put the main town on the south bank of the
-river, and "the only candidate ... may be Bala Hisar not at Kunduz but at Qal'a-ye Zal", at the confluence of the
-Kunduz river with the Amu, c. 50 km NW. Miyamoto (Tōhō gakuhō 90, 2015) follows him for 阿緩城 = Qal'a-ye Zāl (after
-Kuwayama 1985) and, after Yoshida 2003 and Grenet 2006, puts the Hephthalite seat 活路城 at Bactrian Warlu in the
-Baghlān–Ghōrī plain, a different place from 活; Enoki's Ghar on the Surkhāb concerns 活路. Sims-Williams (1997, 2008)
-derives Warwāliz from *War(a)wā(ng)-liz, "the fortress of Warnu", and places it at Kunduz. Texts: data/ref/kyoto/.
+**The capital: Qal'a-ye Zāl rather than Kunduz.** The Life (T50, 0252) says of the return journey: 至活國，居縛芻河側，
+即覩貨羅東界，都城在河南岸, "the country lies beside the Oxus …; the capital is on the south bank of the river"; on the
+way out Xuanzang reached 活國 after crossing the Oxus (渡縛芻河，至活國). Modern Kunduz lies c. 60 km S of the Amu and
+is a town of the 19th–20th centuries; its Bālā Ḥiṣār, test-excavated by the Kyoto team in 1963 (Onoyama 1966), gave
+5th-century red ware in its lowest street levels, "probably not ancient 活". Kuwayama (*Across the Hindukush*, 2002,
+ch. "Towns in Tokharistan"; 「トハーラの境域と，藍市城と活国都城」, 西南アジア研究 91, 2020, pp. 119–132) therefore puts
+the capital at the large town site N of Qal'a-ye Zāl, on the S bank of the Amu at the Kunduz confluence, where sherds
+collected after 1967 are of a 7th-century type; he takes it also as Warwālij, the Ḥudūd's capital of Tokharistan, the
+seat of the Tang 月支都督府 at 阿緩城 (遏換), and the Han 藍市. The site is unexcavated. Miyamoto (Tōhō gakuhō 90, 2015)
+follows him for 阿緩城 and, after Yoshida 2003 and Grenet 2006, puts the Hephthalite seat 活路城 at Bactrian Warlu in
+the Baghlān–Ghōrī plain, a different place from 活; Enoki's Ghar on the Surkhāb concerns 活路. Sims-Williams (1997,
+2008) derives Warwāliz from *War(a)wā(ng)-liz, "the fortress of Warnu", and places it at Kunduz; the name War/Warnu
+fits the district either way. Texts: data/ref/kyoto/.
 
-**Assessment.** As for 01.28a: Kunduz is supported by Beal, Watters, Mizutani and the Tang 遏換/阿緩, and by the name: 活
-renders *War, which Marquart makes the base of Warwālīz, the early Islamic name of Kunduz, and which is the first
-syllable of the Bactrian city Warnu, probably Warwaliz/Qunduz in Sims-Williams' view (see Name). Vivien's Ghori is a
-neighbouring district on the Kunduz river. Mizutani stands, strengthened, for the district (the lower
-Kunduz–Surkhāb plain). Confidence medium, as for 01.28a: doc. L (c. 602) attests the city of Warnu and its name,
-documentary evidence of the town, not of a site, and Warnu = Kunduz is a "probably"; no site evidence is cited. The
-capital is open between Kunduz (the name) and Qal'a-ye Zāl (Kuwayama: the south-bank town and the Tang seat 阿緩).
+**Assessment.** The country is the lower Kunduz–Surkhāb plain, as all agree, supported by the name: 活 renders
+*War, the base of Warwālīz (Marquart) and the first syllable of the Bactrian city Warnu (Sims-Williams; see Name).
+Its capital, however, was on the south bank of the Oxus by the Life's own words (都城在河南岸), which Kunduz, 60 km
+inland, does not fit, and the Kyoto test trench at Kunduz found nothing earlier than the 5th century. Proposed: the
+town site N of Qal'a-ye Zāl (Kuwayama 2002, 2020), with Kunduz the alternative. Confidence medium: the text and a
+surface survey support the site, which is unexcavated, and no inscription names it.
 
 ### 12.06 瞢健國 (*mungan) — near Khanabad/Taliqan vs Beal's Munjan
 

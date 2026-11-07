@@ -128,8 +128,9 @@
   documents are now read (`data/names/bactrian.tsv`). Sims-Williams 2004 (CRAI, Persée) and Yoshida 1998
   (Kyoto repository) are read: 揭職 = *Garčig, not Gaz. Not obtainable here and dropped (paywalled; logins fail): Yoshida's review of BD I (BAI XIV,
   2000 [2003], pp. 154–9) and his reviews in BSOAS 76 (2013) and IIJ 68 (2025); their 活路 = Warlu point is known
-  through Miyamoto 2015 and BDNA II p. 242. Still to obtain: Enoki 1992, pp. 415–17 (his Ghar concerns 活路); Kuwayama 1985/1986 in Japanese
-  (his English 2002 collection and Miyamoto 2015 are read, `data/ref/kyoto/`); 活's capital: Kunduz or Qal'a-ye Zāl; Bailey's Khotanese (Ditkabani for
+  through Miyamoto 2015 and BDNA II p. 242. Still to obtain: nothing more for 活: Enoki 1951/1992 and Kuwayama 1985 are not online (dropped); Kuwayama 2002 and 2020 and
+  Miyamoto 2015 are read (`data/ref/kyoto/`). Kuwayama 1990, 『カーピシー＝ガンダーラ史研究』 (Kyoto repository,
+  `data/ref/kyoto/kuwayama1990_*`), is on disk for a later pass over the Kāpiśī and Gandhāra notes; Bailey's Khotanese (Ditkabani for
   地迦婆縛那); Marquart's Arabic in the Ērānšahr, unreadable in the OCR (Zumathān for 鋭秣陀); von Hinüber's reading "Palola" of the Gilgit kings' title (2004), cited from memory in the 03.02 test;
   Ji's Coliya from the Mahākūṭa pillar (IA 19), not on disk; the library's `7_inscriptions/maitraka` folder is empty.
   The key's weak readings to recheck: 伽 = k (bhāviveka only), 摩 = mi (mihirakula only).

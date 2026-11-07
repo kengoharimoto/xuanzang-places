@@ -17,10 +17,10 @@ Five kinds of evidence were set against him:
 
 **What they show.** 442 of the 480 places have a note (Mizutani's 419 and 61 added ones). The 38 without a note are
 minor sites that have no point either. Against Mizutani's identifications, the evidence:
-- supports his identification for 100 places, 56 of them with high confidence, many with an inscription or seal
+- supports his identification for 98 places, 56 of them with high confidence, many with an inscription or seal
   naming the place;
 - weakens it for 12;
-- supports a different site for 60;
+- supports a different site for 62;
 - offers a candidate no standard authority records for 12.
 
 On the map the study's confidence comes out as 105 places secure, 163 probable and 105 open. These are the ratings
@@ -200,8 +200,9 @@ check.
      confirmed; Sar-i Pul's Bactrian name Amber does not fit 鋭秣陀. 揭職 is not Gaz but *Garčig, Bactrian γαρσιγο
      "mountain land" (Gharchistan), the mountain zone S of Tokharistan (Yoshida 1998, "Sino-Iranica", 西南アジア研究 48;
      Sims-Williams, CRAI 2002 [2004], both in `data/ref/simswilliams/`); Yoshida also confirms 活 = war = Kunduz;
-     Kuwayama (2002) and Miyamoto (2015) put the capital town and Tang seat 阿緩 at Qal'a-ye Zāl instead, and 活路 at
-     Warlu in the Baghlān plain (open papers from the Kyoto repository, `data/ref/kyoto/`).
+     but the capital lay on the south bank of the Oxus by the *Life* (都城在河南岸), and Kuwayama (2002, 2020) puts it,
+     with the Tang seat 阿緩, at the town site N of Qal'a-ye Zāl, where the map now places it; Miyamoto (2015) puts 活路
+     at Warlu in the Baghlān plain (open papers from the Kyoto repository, `data/ref/kyoto/`).
    - **In the data:** `data/names/proposed.tsv` (`scripts/names_proposed.py`) → the `name_study` columns of
      `places.tsv` and the map's place panel; "Name." paragraphs in the notes, which say where a name moves an
      identification. A name match is a lead, not site evidence: it never raises a rating to high on its own.
