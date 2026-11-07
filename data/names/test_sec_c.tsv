@@ -1,0 +1,58 @@
+id	name_zh	translit	current_form	key_fit	verdict	proposed_form	attestation	source_file	quote	site_lead	confidence	note
+01.01a	殑伽河	殑伽	Skt. gaṅgā; Pa. gaṅgā; Khot. ggaṃgā	殑=gaṅ ok (fanqie 巨勝反); 伽=gā ok	keep						high	In the key.
+01.01b	信度河	信度	Skt. sindhu; Pkt. siṃdhu	信=sin ok; 度=dhu ok	keep						high	In the key.
+01.01c	縛芻河	縛芻	Altiran. waxšu; Ind. cakṣu, sucakṣu, vakṣu	縛=va ok; 芻=kṣu ok (初 tʂʰ, key kṣ 6/6). Ind. cakṣu/sucakṣu MISMATCH (縛 is v-, no su-)	better	vakṣu (Skt.); Iran. waxšu	Abhidharmakośa-mūla III (the four rivers of Anavatapta); also Bhaiṣajyavastu, Mahāmāyūrī	4_rellit/bauddha/vasubandhu/vasubandhu_abhidharmakosa-mula.txt	yataś catasro nadyaḥ sravanti gaṅgā (20) sindhuḥ śītā vakṣuś ca		high	Drop cakṣu/sucakṣu (Purāṇic forms; key_notes §8). XZ corrects old 博叉 as 訛, i.e. to vakṣu. The Kośa list is exactly XZ's four rivers.
+01.01d	徙多河	徙多	Skt. sītā; Pa. sītā	徙=sī ok (心 s); 多=tā ok	keep						high	Kośa writes śītā (ś), Bhaiṣajyavastu/Mahāmāyūrī sītā; 徙 (心) supports sītā. XZ corrects old 私陀 (d) to 多 (t).
+01.01e	香山	香	Skt. gandhamādana-giri	香 = translation of gandha-; no transcription	keep						high	Translation.
+01.04b	高昌	高昌	Turk. Qočo, Khočo	Chinese name 高昌; Qočo is the Turkic form of the Chinese	keep						high	Not a transcription.
+01.06	屈支國	屈支	kuči; Skt. Kuci (Lüders)	屈=ku(t) ok; 支=či ok (Toch.)	keep						high	Non-Indic; in key_notes §10.
+01.06.04	阿奢理貳伽藍	阿奢理貳	Skt. āścarya > Toch. B aśari	阿奢理貳 = Toch. B aśari(ye) ok	keep						high	Non-Indic; in key_notes §10.
+01.07	跋祿迦國	跋祿迦	old 姑墨 < Turk. kumak 'sand'; Skt. bāluka/vāluka 'sand'	跋=bā ok; 祿=lu ok; 迦=ka ok	keep						medium	bāluka fits; the Turk. kumak etymology of 姑墨 concerns the old name only.
+01.07.02	大清池	大清池	Kirg. Issyk-kul 'warm lake'; Tuz-kul; Han 闐池	大清池 translation	keep						high	Translation.
+01.07.03	素葉水城	素葉水	Suyab (Sūy river)	素=sū ok (心); 葉=yāb ok (以 y- + -p)	keep						high	
+01.07.04	窣利	窣利	Soghd. suɣδ; Avesta suɣδa; Greek Sogdiane	窣=su(ɣ) ok (心, -t coda); 利=li for Sogd. δ (Chinese l for δ)	keep						high	δ > l is the usual Chinese rendering of Sogdian δ.
+01.07.05	千泉	千泉	屏聿 (Life) = Turk. bing gyul (Watters) / ming bulaq	千泉 translation of Turk. bing köl	keep						high	Translation.
+01.07.06	呾邏私城	呾邏私	Talas; Han 都頼	呾=ta ok; 邏=la ok; 私=s ok	keep						high	
+01.07.07	白水城	白水	Ispījāb/Isfījāb ('white water'); later Sayram	白水 translation of Ispījāb	keep						high	Translation.
+01.09	赭時國	赭時	Mid. Pers. chāch, Arab. shāsh 'stone'	赭=ča ok (章); 時=č/ǰ ok (常)	keep						high	Chāch fits; Shāsh is the Arabic form.
+01.10	㤄捍國	㤄捍	Ferghāna, Farghāna; old 大宛; Tang 寧遠	㤄=phar ok (XZ fanqie 敷發反, -t coda = r); 捍=ghān ok	keep						high	
+01.12	颯秣建國	颯秣建	Greek Maracanda; Samarkand; 康 = kand	颯=sa(m) ok; 秣=mar ok; 建=kan(d) ok	keep						high	
+01.13	弭秣賀國	弭秣賀	Maymurgh	弭=mi/mai (支 i; e/ai overlap); 秣=mur ok; 賀=gh ok	keep						high	
+01.14	劫布呾那國	劫布呾那	Kapūtâna (Tomaschek); Kabūdhanjakath; 伽不単	劫=ka(p) ok; 布=pū ok; 呾=ta(t) ok; 那=na ok	keep						medium	Kabūdhan(jakath) without -jakath; Kapūtāna is Tomaschek's restoration.
+01.15	屈霜你迦國	屈霜你迦	Kushāniya, Kushāni; 貴霜匿	屈=ku(t) ok; 霜=šā(ŋ) ok (生 ṣ/š); 你=ni ok; 迦=ka ok	keep						high	Reads *Kušānik(a).
+01.16	喝捍國	喝捍	Kharghānkath	喝=khar ok (曉 x); 捍=ghān ok	keep						high	
+01.17	捕喝國	捕喝	Türk. Bugaraq; NPers. Buchārā; old 忸密 Nümijkath	捕=bu ok; 喝=khār ok; final -ā unwritten	keep						high	
+01.18	伐地國	伐地	unknown (variants 戊地, 戍地)	伐=va(t)/var, b-; 地=di (定 d); short name, chance match easy	alternative	Bitik / Betik (Narshakhī, via Ji); or Wardān (Marquart, Sogd. wrδʾn)	Ji 1985 p. 96, citing Narshakhī's History of Bukhara (Frye tr. p. 6)	ji1985.txt	Bitik 及 Farab 兩村。(弗萊《布哈拉史》譯注,頁6)。Bitik 與Fa-		low	"Current form ""unknown"". Bitik fits 伐 b + t-coda and 地 i-vowel, -k unwritten; Wardān fits 伐 var + 地 δ but lies N of Bukhara (Ji). Variant 戊地 (Dunhuang, Xin Tang shu) is unexplained by either. Narshakhī not in files."
+01.19	貨利習彌伽國	貨利習彌伽	Chorasmia; Khwārizm	貨=xwā ok; 利=ri ok; 習=z ok; 彌=mi ok; 伽=g ok	keep						high	Reads *Xwārizmīg.
+01.20	羯霜那國	羯霜那	Arab. Kassārin, Kassabin; Pers. Kazurān; Kish/Kesh	羯=ka(t) ok; 霜=šā(ŋ) (生); 那=na. Kassārin/Kassabin/Kazurān MISMATCH (no r, no b; 那 n final)	better	Kišš / Kiss (Kish, Kesh); 羯霜那 writes an n-extended *Kašan(a) (unattested)	Iṣṭakhrī Kiss, Muqaddasī Kishsh (Minorsky, Ḥudūd); Marquart: Wei shu 迦色尼, XZ 羯霜那 = Kišš	iran/Eranshahr.txt	das Specat bereits richtig mit Hian-čuangs Kat-siang-na d.i. Kišš gleichgesetzt hat	Shahr-i Sabz	medium	Kassārin, Kassabīn and Kazurān are not Kesh: they are the canal Nahr al-Kassārīn / Rūd-i Kazurān (Barthold, Turkestan, in.ernet.dli.2015.2380.txt line 10575; Le Strange, b2935321x.txt line 25368, at Samarkand). Drop them. Ji cites Marquart for *Kasanna/*Kuśāna (conjecture). Identification unaffected.
+01.20.01	鐵門	鐵門	Türk. Tämir qapïɣ; Arab. Bāb al-Ḥadīd; Pers. Dar-i Āhanīn; local Buzgala	鐵門 translation	keep						high	Translation.
+01.20.02	覩貨邏國	覩貨邏	Skt. Tukhāra, Tuṣāra; Greek Tochari; Tib. Tho-gar; Sogd. 'tw'rk	覩=tu ok; 貨=xwā (曉 合口); 邏=ra ok. Tuṣāra MISMATCH (貨 not ṣ)	better	Tukhāra; Iran. *Tuxwār (Bactr. τοχοαρ- in τοχοαραστανο)	BDNA II glossary s.v. τοχοαραστανο	simswilliams/bdna2.txt	τοχοαραστανο place-name “Tukhwarastan,		high	As key_notes §8 and bactrian.tsv: drop Tuṣāra.
+01.21	呾蜜國	呾蜜	Tarmidh	呾=tar ok; 蜜=mid ok	keep						high	Bactr. Tarmid fits best (bactrian.tsv).
+01.23	忽露摩國	忽露摩	Kharūn, Akharūn	忽=xu(t)/xar ok (曉); 露=rū ok; 摩=ma MISMATCH (Kharūn/Akharūn end in -n; 摩 is m-)	doubtful		Marquart (Ērānšahr p. 226) and Barthold equate it with Axrūn/Xarūn without addressing the final	iran/in.ernet.dli.2015.2380.txt	find in the Middle Ages the provinces of Akharun or Kharun,		medium	No -m form found in Ḥudūd, Barthold, Marquart, Le Strange or BDNA. Arabic -n and -m are not confusable in script, so a different local form *Xurūm or a Chinese error is possible. Identification (with 愉漫 Shūmān beside it) stands on context.
+01.24	愉漫國	愉漫	Shumān, Shūmān	愉=šu ok by XZ fanqie 朔倶反 (生 ṣ/š; Guangyun 羊朱 y- does not apply); 漫=mān ok	keep			t2087_joined.txt	東至愉（朔倶反）漫國。		high	The fanqie overrides the dictionary reading; Xin Tang shu 數瞞 confirms š-.
+01.26	鑊沙國	鑊沙	Wakhsh; Islamic Baxšu	鑊=wax ok (匣合 + -k); 沙=š ok (生)	keep						high	Bactr. οαχϸο Waxš.
+01.27	珂咄羅國	珂咄羅	Khuttal, Khuttalān	珂=khu (溪 kh, not 曉); 咄=tt ok; 羅=l ok	keep						high	珂 溪 for Iranian x is unusual but harmless.
+01.28	拘謎陀國	拘謎陀	Ptolemy Komēdōn oreinē; Islamic Kumādh	拘=ku ok; 謎=mē (齊 e); 陀=dh ok. Kumādh MISMATCH in vowel (謎 is e, not ā)	better	Kumēdh (Minorsky's restoration from Yaʿqūbī and Ibn Rusta); Ptolemy Komēdai	Ḥudūd al-ʿĀlam, Minorsky's commentary §26	iran/in.ernet.dli.2015.281514.txt	I.R. (v.s. 9.) certainly places the Kumedh downstream of Rasht.		medium	Barthold writes Kumadh (Arabic script leaves the vowel open); 謎 (齊) fixes ē, as Ji (p. 112) and notes_untested_d already read. Identification unaffected.
+01.29	縛伽浪國	縛伽浪	Bāghlān, Baghlān	縛=ba ok; 伽=gh ok; 浪=lān ok	keep						high	
+01.30	紇露悉泯健國	紇露悉泯健	Rūb + Simingān (conjecture)	紇露=(h)rō(b) (-b unwritten); 悉泯=simin ok; 健=gān ok	keep						high	"""Conjecture"" can be dropped: Bactr. ρωβο Rob + σαμιγγανο Samingan confirm it (bactrian.tsv)."
+01.31	忽懍國	忽懍	Khulm	忽=xu(l) ok; 懍=lm ok	keep						high	
+01.32	縛喝國	縛喝	Bactria; Bāxtri, bāxδī, Bākhl, Balkh; Tib. bag-la	縛=ba ok; 喝=xl/khl (-t coda for l)	keep						high	Bactr. Baxl fits (bactrian.tsv).
+01.32.01	納縛僧伽藍	納縛	Skt. nava-saṃghārāma; Nau-vihār, Nū-bahār	納=na(v) ok; 縛=va ok	keep						high	
+01.32.02	提謂城・波利城	提謂城	Skt. Trapuṣa, Bhallika (personal names)	提謂 is the old established transcription (提謂經), not XZ's; does not render trapuṣa by the key	keep						medium	Names of the merchants, not of the towns; XZ uses the traditional Chinese names without correction.
+01.34	胡寔健國	胡寔健	Mid.Pers. Gūzgān, Gūzgānān; Arab. Jūzjān	胡=γu/gō ok; 寔=z ok; 健=gān ok	keep						high	Bactr. γωζογανο Gōzgān.
+01.35	呾剌健國	呾剌健	Mid.Pers. Talagān; Islamic Ṭālaqān of Khurasan	呾=ta ok; 剌=la ok; 健=gān ok	keep						high	
+01.36	揭職國	揭職	Gachi; Gaz (Ghaz)	揭=gar (-t = r); 職=čik (章 + -k). Gaz/Gachi MISMATCH (no r, 職 is č + k)	better	*Garčig (Bactr. γαρσιγο, base of γαρσιγοστανο Gharchistan)	BDNA II glossary; Sims-Williams CRAI 2002 [2004] n. 21 (after Yoshida 1998)	simswilliams/bdna2.txt	γαρσιγοστανο place-name “Gharchistan”, lit. “land of		high	"As bactrian.tsv and the 01.36 note: Sims-Williams calls the Gaz equation ""impossible phonologiquement"" (sw2004_crai.txt). The targets file still carries Gachi/Gaz."
+01.38	迦畢試國	迦畢試	Kāpiśī (Pāṇini IV.2.99); Kāpisa; Kavisiye nagara (coin of Eucratides)	迦=kā ok; 畢=pi ok; 試=śī ok (書)	keep						high	
+01.38.01	質子伽藍	質子	沙落迦 (Life) = Kashgar	質子 translation; 沙落迦 from the Life	keep						medium	Translation.
+01.38.02	曷邏怙羅僧伽藍	曷邏怙羅	Skt. Rāhula	曷邏=r(pre)+ā ok; 怙=hu ok; 羅=la ok	keep						high	In the key.
+01.38.03	霫蔽多伐剌祠城	霫蔽多伐剌祠	Sphitavaras (Julien); Svetavāras (St. Martin, Beal); Saptavarṣa (Cunningham); Svetavatālaya (Watters)	霫=s(p) (邪/心 + -p pre-labial); 蔽=pē (幫 p, 祭 e); 多=ta; 伐=va(r); 剌=ra; 祠=s(i). Śveta-/Svetavāras/Śvetāśvatara MISMATCH (śv- would be 濕吠, 蔽 is p- not v-); Saptavarṣa MISMATCH (no ṣ)	better	"*Spētavarās (Iranian spēt ""white""; Julien's Sphītavaras with Foucher's reading)"	Foucher II p. 365 (Pahlavi spêt); Julien I (Sphîtavaras?)	foucher/foucher_vieille_route.txt	iranienne (cf. pehlvi spêt) que du sanskrit çvêta		low	Of the listed forms only Julien's Sphitavaras fits the characters; Foucher explains its first member as Iranian spēt. The Śaiva readings (Kuwayama Svetavara, Harimoto Śvetāśvatara) break the key at 霫 and 蔽 unless a local Iranian spēt- stands for Skt. śveta-. Second member (-varās/-vara) unattested.
+01.38a	迦畢試國大都城	迦畢試國大都	Begrām = Bāgh-i Alam	迦畢試國大都: no transcription beyond 迦畢試	keep						high	Begrām is the modern site, not a name equation.
+12.02	弗栗恃薩儻那國	弗栗恃薩儻那	Skt. vṛjisthāna [Julien]; alt. Portasthana = Ortostana / Urddhasthana (白鳥)	弗=vṛ ok (key 弗 for vṛ- ×2); 栗=ri; 恃=ji ok (常); 薩=s; 儻=thā ok; 那=na	keep						medium	vṛjisthāna fits every character; Ortospana/Urddhasthana MISMATCH at 弗 and 恃.
+12.02b	婆羅犀那大嶺	婆羅犀那大嶺	varasena [Julien]	婆=va ok; 羅=ra ok; 犀=se ok; 那=na ok	keep						medium	Same spelling as -sena (犀那 ×5).
+12.08	曷邏胡國	曷邏胡	Iran. rāgh	曷邏=r(pre)+ā ok; 胡=gh ok	keep						high	In key_notes §10.
+12.11	呬摩呾羅國	呬摩呾羅	Skt. himatala	呬=hi ok; 摩=ma ok; 呾=ta ok; 羅=la ok; gloss 唐言雪山下 = hima-tala	keep						high	Gloss confirms.
+12.15	達摩悉鐵帝國	達摩悉鐵帝	Skt. dharmasthiti; alias 鑊侃 = Iran. wakhan; 護蜜 < yamit	達=dhar ok; 摩=ma; 悉=s; 鐵=thi ok; 帝=ti	keep						high	In the key (悉鐵 sthi).
+12.22.03	毗盧折那伽藍	毗盧折那	Buddh. Skt. virocana; 贊摩寺 (魏書); Tib. tsar-ma	毗=vi ok; 盧=ro ok; 折=ca ok; 那=na ok	keep						high	
+12.22.04	瞿室[m44209]伽山	瞿室[m44209]伽	Skt. go-śṛṅga; Tib. ri-Glan-ru	瞿=go ok; 室=ś ok (before ṛ); 𩜁=ṛṅ ok; 伽=ga; gloss 唐言牛角	keep						high	Gloss confirms.
+12.22.06	勃伽夷城	勃伽夷	Bhagai [Julien, Beal] or Bhāgya [Watters] (unconfirmed)	勃=bha(t) ok; 伽=ga ok; 夷=yi/i (以)	keep						low	Fits the key, but Bhagai/Bhāgya is unattested; three short syllables match by chance easily.
+12.22.09	麻射僧伽藍	麻射	Tib. ma-ża	麻=ma ok; 射=ža/ya (以/船)	keep						medium	Two characters; chance match easy.

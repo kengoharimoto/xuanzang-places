@@ -203,6 +203,12 @@ check.
      but the capital lay on the south bank of the Oxus by the *Life* (都城在河南岸), and Kuwayama (2002, 2020) puts it,
      with the Tang seat 阿緩, at the town site N of Qal'a-ye Zāl, where the map now places it; Miyamoto (2015) puts 活路
      at Warlu in the Baghlān plain (open papers from the Kyoto repository, `data/ref/kyoto/`).
+   - **The "secure" forms** (`test_sec_a/b/c.tsv`): the 267 forms that built the key, checked against it. 238 stand;
+     21 better, 1 alternative, 7 doubtful: e.g. Ṭakka (磔 is retroflex), kukkuṭārāma and kukkuṭapāda (屈屈 has no r),
+     telāḍhaka, śrīkṣetra, *raktamaṭṭi, oḍḍa, vakṣu, Kumēdh, Kišš for 羯霜那, Kīkān for 稽疆那, Lambura for 藍勃盧,
+     Upagupta for 鄔波毱多 (Mizutani's Uruṇḍa names another object), and *Spēt- "white" for 霫蔽多 (Iranian, not
+     Skt. śveta-, which weakens the Śaiva reading of 01.38.03). In all, 359 forms: 289 stand, 44 better, 9
+     alternatives, 17 doubtful.
    - **In the data:** `data/names/proposed.tsv` (`scripts/names_proposed.py`) → the `name_study` columns of
      `places.tsv` and the map's place panel; "Name." paragraphs in the notes, which say where a name moves an
      identification. A name match is a lead, not site evidence: it never raises a rating to high on its own.
@@ -301,8 +307,8 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 - **Later scholarship.** Mizutani is the 1971 state of the question; Ji (1985) brings it to about 1980. Work since then
   is not in these sources, and post-1971 work that Ji cites (e.g. Ahmed on Mahasthan, Belenitskii) is known only
   through him. *Indian Archaeology* is in them up to 2000–01.
-- **Original names.** All 92 asterisked or queried forms have been tested, but only those; the 267 "secure" forms
-  were used to build the key, not tested. Bactrian, Khotanese and Sogdian forms known from scholarship but not in
+- **Original names.** All 359 forms have been tested: the 92 asterisked or queried ones, and the 267 "secure" ones
+  that built the key (a consistency check, so they are not independent of it). Bactrian, Khotanese and Sogdian forms known from scholarship but not in
   these files are marked "reported" and never rated above medium. Middle Chinese is itself a reconstruction, and
   two-character names match by chance easily.
 - **OCR.** Quotes match the OCR verbatim, errors included.

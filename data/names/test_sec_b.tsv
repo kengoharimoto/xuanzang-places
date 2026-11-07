@@ -1,0 +1,106 @@
+id	name_zh	translit	current_form	key_fit	verdict	proposed_form	attestation	source_file	quote	site_lead	confidence	note
+07.03	吠舍釐國	吠舍釐	Skt. Vaiśālī, Pa. Vesālī	吠=vai ok; 舍=śā ok; 釐=lī ok	keep						high	vaiśālī; Pa. Vesālī rejected by 吠 (vai) and 舍 (ś)
+07.03.12	栗呫婆子別如來處	栗呫婆子別如來處	Skt. Licchavi	栗=li ok; 呫=ccha ok (昌葉反); 婆=va MISMATCH for -vi (key: 婆 is va/ba/bha, never vi; vi is 毘); 子 = putra/sons (translation)	doubtful						low	The characters give a-stem *licchava, not Licchavi. Searched the library for licchava (a-stem): only the locative licchavau (i-stem, Vimalakīrtinirdeśa); inscriptions (Nepal, Gupta) have licchavi- throughout. Likely XZ wrote the stem without its final -i (cf. dropped finals in key §2), so the object is right and Licchavi is the attested name.
+07.03.15	濕吠多補羅僧伽藍	濕吠多補羅	Skt. Śvetapura	濕=ś ok; 吠=ve ok; 多=ta ok; 補=pu ok; 羅=ra ok	keep						high	
+07.03.x1	獼猴池	獼猴池	tank dug by the monkeys for the Buddha, S of the Aśoka pillar	translation (no transcription)	keep						high	translation
+07.03.x2	獼猴取蜜・奉蜜窣堵波	獼猴取蜜	stūpas W and S of the monkey tank where the monkeys took the bowl and offered honey	translation (no transcription)	keep						high	translation
+07.04	弗栗恃國	弗栗恃	Skt. Vṛji, Pa. Vajji; 三伐恃 = Pa. saṃvajji (United Vajjis)	弗=v ok; 栗=ṛ ok; 恃=ji ok	keep						high	Skt. vṛji (弗=v of vṛ-); 三伐恃 saṃvajji Pkt in the same note
+07.05	尼波羅國	尼波羅	Skt. Nepāla, Pkt. Nevāla, originally Newâr	尼=ne ok; 波=pā ok; 羅=la ok	keep						high	Nepāla; 尼=ne
+08.00	摩掲陀國	摩掲陀	Skt. Pa. magadha; Pkt. māgadha	摩=ma ok; 掲=ga ok; 陀=dha ok	keep						high	
+08.02.01	波吒釐子城	波吒釐子	Skt. pāṭali; pāṭaliputra; Kusumapura (拘蘇摩補羅); Gk. Palibothra (Arrian, Strabo)	波=pā ok; 吒=ṭa ok; 釐=li ok	keep						high	pāṭali; 子 = putra (translation)
+08.02.x1	無憂王地獄	無憂王地獄	"Aśoka's ""hell"", marked by a pillar N of the old palace"	translation (no transcription)	keep						high	translation
+08.02.x2	佛足石精舍	佛足石精舍	vihāra with the stone bearing the Buddha's last footprints	translation (no transcription)	keep						high	translation
+08.02.x3	摩醯因陀羅大石室	摩醯因陀羅大石室	great stone house built by Aśoka for his brother Mahendra, N of the old palace	摩=ma ok; 醯=he ok; 因=in ok; 陀=d ok; 羅=ra ok	keep						high	mahendra (摩醯·因陀羅, sandhi undone); 大石室 translation
+08.02.x4	小石山・故臺	小石山	small rocky hill with stone cells for Upagupta and others SW of the old palace, with an old terrace	translation (no transcription)	keep						high	translation
+08.02.x5	聖水池	聖水池	"pond of ""holy water"" beside the old terrace"	translation (no transcription)	keep						high	translation
+08.02.x6	五窣堵波	五	five stūpas SW of the small rocky hill	translation (no transcription)	keep						high	translation
+08.03.01	屈屈吒阿濫摩僧伽藍	屈屈吒阿濫摩	Skt. kurkuṭa-ārāma; Pa. kukkuṭa-ārāma	屈=kuk ok; 屈=ku ok; 吒=ṭa ok; 阿=ā ok; 濫=rā(m) ok; 摩=ma ok; 屈屈 = kuk-ku: kurkuṭa MISMATCH (no r)	better		Aśokāvadāna (Skt.), repeatedly; also Guṇakāraṇḍavyūha, Svayambhūpurāṇa	4_rellit/bauddha/avadana/unknown_asokavadana.txt	tataḥ sa caṇḍagirikaḥ kukkuṭārāmaṃ gataḥ		high	屈屈 = kuk-ku (assimilated kk); the current form leads with Skt. kurkuṭa-, which the characters do not show (no r). kukkuṭārāma is not only Pāli: the Sanskrit Aśokāvadāna uses it (Divyāvadāna has kurkuṭārāma). Same object.
+08.04.01	鞮羅擇迦伽藍	鞮羅擇迦	Skt. teladhaka (Telāḍhaka)	鞮=te ok; 羅=lā ok; 擇=ḍha ok (澄 retroflex); teladhaka MISMATCH (dental dh); 迦=ka ok	better		door-jamb inscription at the Sangin Masjid, Tillāra, read Teladaka by Cunningham (Beglar, ASR VIII); Pāla inscription naming Tailadhaka (Patna 1907, per updates_08-09)	asr/asr08.txt	The identification of Teladaka is thus established beyond	Tillāra/Telāṛā (Telada), Nalanda district (ASR VIII, XI)	high	擇 is 澄 (retroflex ḍ/ḍh), so -āḍhaka, not dental -adhaka; key_notes §8 already flags this. The first element of the current form (teladhaka) should give way to telāḍhaka; the modern Telāṛā (ḍh > ṛ) supports the retroflex.
+08.04.02	大山 (佛入定山)	大山	Skt. pravaragiri	translation (no transcription)	keep						high	translation; pravaragiri is an editorial Sanskrit for 大山, not a transcription
+08.05.01	伽耶城	伽耶	Skt. gayā	伽=ga ok; 耶=yā ok	keep						high	
+08.05.01a	伽耶山	伽耶	Skt. gayā-śīrṣa (gaya-śira); Pa. gayā-sīsa; 象頭山	伽=ga ok; 耶=yā ok	keep						high	only gayā transcribed; 山 translation of -śīrṣa/hill
+08.05.03	鉢羅笈菩提山	鉢羅笈菩提	Skt. prāg-bodhi	鉢=p ok; 羅=rā ok; 笈=g ok; 菩=bo ok; 提=dhi ok	keep						high	
+08.06.01	菩提樹 (垣內)	菩提樹	Mahā-bodhi (Yijing 莫訶菩提 / 大覚寺)	translation (no transcription)	keep						high	translation; Mahābodhi belongs to the temple/monastery (08.06.30), not the tree
+08.06.18	目支鄰陀龍王池	目支鄰陀龍王池	Skt. mucilinda; Pa. mucalinda	目=mu ok; 支=ci ok; 鄰=lin ok; 陀=da ok	keep						high	mucilinda; Pa. mucalinda rejected by 支 ci
+08.06.30	摩訶菩提僧伽藍	摩訶菩提	Mahā-bodhi (Yijing 莫訶菩提, 大覚寺)	摩=ma ok; 訶=hā ok; 菩=bo ok; 提=dhi ok	keep						high	
+08.06.x1	佛經行處（菩提樹北）	佛經行處	the Buddha's promenade N of the Bodhi tree	translation (no transcription)	keep						high	translation
+08.06.x2	婆羅門兄弟鑿池	婆羅門兄弟鑿池	great tank outside the S gate of the Bodhi enclosure, dug by the brahmin brothers	translation (no transcription)	keep						high	translation
+08.06.x3	帝釋化池	帝釋化池	tank made by Indra for the Buddha to wash his robe, S of 08.06.x2	translation (no transcription)	keep						high	translation
+08.06.x4	度迦葉波三兄弟窣堵波	度迦葉波三兄弟	stūpa where the Buddha converted the three Kāśyapa brothers	迦=kā ok; 葉=śya ok; 波=pa ok	keep						high	迦葉波 kāśyapa; rest translation
+09.01.01	香象池・窣堵波	香象池	Skt. gandha-hastin (香象)	translation (no transcription)	keep						high	translation
+09.01.02a	莫訶河	莫訶	Skt. mahā	莫=ma ok; 訶=hā ok	keep						high	mahā; identification Mohana river not tested by the name
+09.01.03	屈屈吒播陀山 (窶盧播陀山)	屈屈吒播陀山	Skt. kurkuṭapāda, Pa. kukkuṭapāda; Skt. gurupāda (尊足)	屈=kuk ok; 屈=ku ok; 吒=ṭa ok; 播=pā ok; 陀=da ok; kurkuṭa MISMATCH (no r)	better		Schøyen Brāhmī fragment (Skt.); Pāli kukkuṭapāda; the second name 窶盧播陀 = gurupādaka in Divyāvadāna 37	4_rellit/bauddha/gilgit-fragments/unknown_schoyen-brahmi.txt	.ātraś ca kukkuṭapādaḥ		high	屈屈吒播陀 = kuk-ku-ṭa-pā-da: assimilated kk, no r, so the current lead form kurkuṭapāda does not fit. Divyāvadāna 037.017 has gurupādakaḥ parvataḥ for the alternative name (窶盧播陀 gurupāda fits, -ka dropped).
+09.02.01	佛陀伐那山	佛陀伐那	Skt. buddha-vana	佛=bud ok; 陀=dha ok; 伐=va ok; 那=na ok	keep						high	
+09.02.02	洩瑟知林	洩瑟知林	Skt. yaṣṭi, Pa. yaṭṭhi, Khar. yaṭhi, Pkt. jaṭṭhi	洩=ya ok; 瑟=ṣ ok; 知=ṭi ok	keep						high	yaṣṭi; 瑟 ṣ (生) supports Skt. ṣṭ against Pkt. ṭṭh; 林 translation
+09.02.03	二溫泉 (杖林西南)	二溫泉	Pa. Tapodārāma (温泉林/温泉精舎)	translation (no transcription)	keep						high	translation
+09.02.03b	孤山 (廣博仙人)	孤山	Skt. vyāsa (広博仙人)	translation (no transcription)	keep						high	translation; vyāsa names the sage, not the hill
+09.02.03c	小孤山 (石室・阿素洛宮)	小孤山	Skt. asura (阿素洛宮)	translation (no transcription)	keep						high	translation; asura names the palace, not the hill
+09.02.04	矩奢掲羅補羅城 (上茅宮城)	矩奢掲羅補羅城	Skt. kuśāgra-pura; old name Skt. girivraja, Pa. giribbaja	矩=ku ok; 奢=śā ok; 掲=g ok; 羅=ra ok; 補=pu ok; 羅=ra ok	keep						high	城 translation
+09.02.08	時縛迦說法堂 (菴婆羅園)	時縛迦說法堂	Skt. jīvaka(-kaumārabhṛtya); Pa. jīvakambavana	時=jī ok; 縛=va ok; 迦=ka ok	keep						high	jīvaka; 說法堂 translation
+09.02.09	姞栗陀羅矩吒山	姞栗陀羅矩吒	Skt. gṛdhrakūṭa, Pa. gijjhakūṭa	姞=g ok; 栗=ṛ ok; 陀=dh ok; 羅=ra ok; 矩=kū ok; 吒=ṭa ok	keep						high	gṛdhrakūṭa; Pa. gijjha- rejected (XZ 舊曰耆闍崛訛)
+09.02.11	毘布羅山	毘布羅	Skt. vipula, Pa. vepulla	毘=vi ok; 布=pu ok; 羅=la ok	keep						high	vipula; Pa. vepulla rejected by 毘 vi
+09.02.11a	卑鉢羅石室 (阿素洛宮)	卑鉢羅石室	Skt. pippala; asura	卑=pi ok; 鉢=ppa ok; 羅=la ok	keep						high	pippala; 石室 translation
+09.02.13	迦蘭陀竹園	迦蘭陀竹園	Skt. Pa. kalandaka; Skt. veṇuvana-kalandakanivāpa, Pa. veḷuvana-kalandakanivāpa	迦=ka ok; 蘭=lan ok; 陀=da ok	keep						high	kalanda(ka): only kalanda transcribed (final -ka dropped, key §2); kalanda alone not attested in the library, so keep kalandaka; 竹園 translation
+09.02.14	阿闍多設咄路王舍利塔	阿闍多設咄路王舍利塔	Skt. ajātaśatru, Pa. ajātasattu	阿=a ok; 闍=jā ok; 多=ta ok; 設=śa ok; 咄=t ok; 路=ru ok	keep						high	
+09.02.16	大石室 (第一結集)	大石室	Skt. dakṣiṇa-giri (南山); Pa. sattapaṇṇa-guhā, Skt. sapta-parṇa-guhā (七葉窟); 法顕 車帝石室	translation (no transcription)	keep						high	translation; the forms name the cave/hill, 大石室 is a description
+09.02.16a	大衆部結集處堵波	大衆部結集處堵波	Skt. mahāsāṃghika	translation (no transcription)	keep						high	translation
+09.02.17	迦蘭陀池	迦蘭陀池	Skt. Pa. kalandaka	迦=ka ok; 蘭=lan ok; 陀=da ok	keep						high	as 09.02.13: -ka not transcribed; 池 translation
+09.02.18	曷羅闍姞利呬城 (王舍城)	曷羅闍姞利呬城	Skt. rājagṛhī (usually rājagṛha), Pa. rājagaha	曷=r(pre) ok; 羅=rā ok; 闍=ja ok; 姞=g ok; 利=ṛ ok; 呬=hī ok	keep						high	rājagṛhī fits 呬 hī; 曷 r- prefix
+09.02.x1	下乘・退凡窣堵波	下乘	two small stūpas half-way up Bimbisāra's road to Gṛdhrakūṭa	translation (no transcription)	keep						high	translation
+09.03.06	精舍 (如來三月說法處, 那爛陀伽藍西)	精舍	Skt. mūla-gandha-kuṭī (Yijing 根本香殿)	translation (no transcription)	keep						high	translation
+09.03.08	拘理迦邑	拘理迦邑	Skt. kolika (拘離迦)	拘=ko ok; 理=li ok; 迦=ka ok	keep						high	kolika; 邑 translation
+09.03.11	因陀羅勢羅窶訶山	因陀羅勢羅窶訶	Skt. indra-śaila-guhā	因=in ok; 陀=d ok; 羅=ra ok; 勢=śai ok; 羅=la ok; 窶=gu ok; 訶=hā ok	keep						high	
+09.03.13	迦布徳迦伽藍	迦布徳迦	Skt. kapotaka	迦=ka ok; 布=po ok; 徳=ta ok; 迦=ka ok	keep						high	kapotaka; 徳 t with -k coda (anticipatory)
+09.03.14	孤山 (觀自在菩薩像)	孤山	Skt. Pa. tāla (多羅林)	translation (no transcription)	keep						high	translation; current form tāla names the 多羅 grove, not 孤山 (different object)
+09.03.x1	那爛陀龍池	那爛陀龍池	the nāga Nālanda's pond in the mango grove S of the monastery	那=nā ok; 爛=lan ok; 陀=da ok	keep						high	nālanda; 龍池 translation
+09.03.x2	觀自在菩薩立像	觀自在菩薩立像	standing Avalokiteśvara image S of the vihāra W of the monastery	translation (no transcription)	keep						high	translation
+09.03.x3	如來剃剪髮爪窣堵波	如來剃剪髮爪	stūpa of the hair and nails cut during three months	translation (no transcription)	keep						high	translation
+09.03.x4	婆羅阿迭多王大精舍	婆羅阿迭多王大精舍	Bālāditya's great vihāra (300+ ft, like the Bodh Gayā temple)	婆=bā ok; 羅=la ok; 阿=ā ok; 迭=di ok; 多=tya ok	keep						high	bāla-āditya; 王大精舍 translation
+09.03.x5	滿冑王銅佛像	滿冑王銅佛像	Pūrṇavarman's 80-ft copper Buddha in a six-storeyed pavilion	translation (no transcription)	keep						high	translation
+09.03.x6	帝釋窟東峯伽藍・亘娑窣堵波	帝釋窟東峯伽藍	monastery on the E peak of Indraśailaguhā and the Haṃsa (goose) stūpa	translation (no transcription)	keep						high	translation
+10.02	瞻波國	瞻波	Skt. Pa. campā (Aṅga)	瞻=cam ok; 波=pā ok	keep						high	
+10.02.x1	牧牛人石孔	牧牛人石孔	rock cleft where the cowherd who ate the magic fruit turned to stone, in the forest S of Campā	translation (no transcription)	keep						high	translation
+10.05	迦摩縷波國	迦摩縷波	Skt. kāmarūpa	迦=kā ok; 摩=ma ok; 縷=rū ok; 波=pa ok	keep						high	
+10.05.x1	大河（迦摩縷波國西）	大河	great river crossed on the way from Puṇḍravardhana to Kāmarūpa	translation (no transcription)	keep						high	translation
+10.06	三摩呾吒國	三摩呾吒	Skt. samataṭa	三=sa(m) ok; 摩=ma ok; 呾=ta ok; 吒=ṭa ok	keep						high	
+10.06.02a	室利差呾羅國	室利差呾羅	Skt. śrī-kṣatra (Śrīkṣetra, Burm. Thare Khettara)	室=ś ok; 利=rī ok; 差=kṣe ok (佳/皆 rhyme e); kṣatra MISMATCH (vowel a); 呾=t ok; 羅=ra ok	better		Śrīkṣetra (Pali Sirikhetta, Burm. Thare Khettara), name of Old Prome in Burmese tradition and survey reports	asr_annual/ar1922-23.txt	an  end,  the  seat  of  government  being  then  shifted  to  Prome  or  Srikshetra..  As  it  is,	Old Prome (Hmawza), Burma	high	差 is 初 with 佳/皆 rhymes (-ɛ), the key value kṣe; -kṣatra would want an a-vowel (叉/刹). The current form leads with śrī-kṣatra: replace with the attested Śrīkṣetra already given in brackets.
+10.06.02b	迦摩浪迦國	迦摩浪迦	Skt. kāmalaṅkā (梁書 狼牙脩, 郎迦戍)	迦=kā ok; 摩=ma ok; 浪=laṅ ok; 迦=kā ok	keep						high	probable; 浪 laṅ before k
+10.06.02c	墮羅鉢底國	墮羅鉢底	Skt. dvārapati (Dvāravatī); 杜和鉢底	墮=dvā ok; 羅=ra ok; 鉢=pa ok; 底=tī ok	keep						high	dvārapati fits (鉢 never va); the attested name is Dvāravatī (coin legends), so XZ heard or wrote -pati
+10.06.02d	伊賞那補羅國	伊賞那補羅	Skt. īśānapura	伊=ī ok; 賞=śā ok; 那=na ok; 補=pu ok; 羅=ra ok	keep						high	
+10.06.02e	摩訶瞻波國	摩訶瞻波	Skt. mahā campā; = 林邑	摩=ma ok; 訶=hā ok; 瞻=cam ok; 波=pā ok	keep						high	
+10.06.02f	閻摩那洲國	閻摩那洲	Skt. yamanadvīpa; or yavanadvīpa/yavadvīpa	閻=ya(m) ok; 摩=ma ok; 那=na ok	keep						high	yamana-; 閻 ya(m) echo coda; 洲 = dvīpa (translation); yavana/yava would want 婆/伐 for va: weak
+10.07	耽摩栗底國	耽摩栗底	tamalitti (Skt. tāmralipti, Pa. tāmalitti); Ptolemy Tamalites	耽=tā(m) ok; 摩=ma ok; 栗=lit ok; 底=ti ok	keep						high	Pkt. tāmalitti (栗 lit) fits; Skt. tāmralipti does not
+10.08	羯羅拏蘇伐剌那國	羯羅拏蘇伐剌那	Skt. karṇasuvarṇa (金耳)	羯=ka ok; 羅=r ok; 拏=ṇa ok; 蘇=su ok; 伐=va ok; 剌=r ok; 那=ṇa ok	keep						high	
+10.08.02	絡多末知僧伽藍	絡多末知	Pkt. rakta-matti (Skt. rakta-mṛttikā)	絡=rak ok; 多=ta ok; 末=maṭ ok; 知=ṭi ok (知 retroflex); matti MISMATCH (dental)	better		Raktamṛttikā (mahā)vihāra on seals from Rajbadidanga near Karṇasuvarṇa (IAR 1966-67, 1968-69)	iar/iar1968-69.txt	Raktamrittika-vihara of Hiuen Tsang's accounts, which stood in the neighbourhood of Karnasuvarna	Rajbadidanga (Rāṅgāmāṭi), Murshidabad (IAR 1966-69)	high	知 is 知 initial = retroflex ṭ (key ṭi 2/2) and 末 has -t coda: maṭ-ṭi, so Pkt. -maṭṭi (< mṛttikā), not dental -matti as in the current form. The Prakrit compound is not attested as such; the Sanskrit is, on the site seals.
+10.09	烏荼國	烏荼	Skt. uḍra, oḍra, oḍḍa (Telugu oḍhrulu, Kanarese oḍḍaru)	烏=o ok; 荼=ḍḍa ok; uḍra/oḍra MISMATCH (no character for r)	better		Odda-viṣaya = Orissa in the Tirumalai inscription of Rājendra Cōḷa (ASR AR 1911-12); Kanarese oḍḍaru	asr_annual/ar1911-12.txt	Odda-vishaya is the name of Orissa		high	烏荼 = o-ḍḍa: no character for r (cf. 達羅 dra, 呾羅 tra), so the vernacular oḍḍa/uḍḍa, not Skt. uḍra/oḍra which the current form lists first. oḍḍa is already in the current form; the change is only the order.
+10.09.02	補澁波祇釐僧伽藍	補澁波祇釐	Skt. puṣpagiri	補=pu ok; 澁=ṣ ok; 波=pa ok; 祇=gi ok; 釐=ri ok	keep						high	
+10.09.03	折利呾羅城	折利呾羅	Skt. caritra (發行)	折=ca ok; 利=ri ok; 呾=t ok; 羅=ra ok	keep						high	caritra, matches gloss 發行
+10.10	恭御陀國	恭御陀	Skt. koṅgoda	恭=koṅ ok; 御=go ok; 陀=da ok	keep						high	
+10.11	羯𩜁伽國	羯𩜁伽	Skt. kaliṅga	羯=ka ok; 𩜁=liṅ ok; 伽=ga ok	keep						high	
+10.12	憍薩羅國	憍薩羅	Skt. kosala; Life 南憍薩羅 Dakṣiṇa-kosala	憍=ko ok; 薩=sa ok; 羅=la ok	keep						high	kosala (憍 ko/kau; 薩 s)
+10.12.05	跋邏末羅耆釐山	跋邏末羅耆釐	Skt. bhramaragiri (黒蜂)	跋=bh ok; 邏=ra ok; 末=ma ok; 羅=ra ok; 耆=gi ok; 釐=ri ok	keep						high	bhramaragiri; 黒蜂 gloss fits
+10.13	案達羅國	案達羅	Skt. āndhra	案=ān ok; 達=dh ok; 羅=ra ok	keep						high	
+10.14.02a	弗婆勢羅僧伽藍	弗婆勢羅	Skt. pūrvaśaila	弗=pūr ok; 婆=va ok; 勢=śai ok; 羅=la ok	keep						high	
+10.14.02b	阿伐羅勢羅僧伽藍	阿伐羅勢羅	Skt. avaraśaila	阿=a ok; 伐=va ok; 羅=ra ok; 勢=śai ok; 羅=la ok	keep						high	
+10.16	達羅毘荼國	達羅毘荼	Skt. draviḍa	達=d ok; 羅=ra ok; 毘=vi ok; 荼=ḍa ok	keep						high	
+10.17.03	秣剌耶山	秣剌耶	Skt. malaya	秣=ma ok; 剌=la ok; 耶=ya ok	keep						high	
+10.17.04	布呾洛迦山	布呾洛迦	Skt. potalaka	布=po ok; 呾=ta ok; 洛=la ok; 迦=ka ok	keep						high	
+11.01	僧伽羅國	僧伽羅	Pkt. siṃghala, Skt. siṃhala, Pa. sīhala (執師子國); also Tāmraparṇī, Ratnadvīpa, Laṅkā etc.	僧=siṃ ok; 伽=gha ok; 羅=la ok	keep						high	Pkt. siṃghala (伽 gh) fits; Skt. siṃhala does not
+11.01.04a	摩訶毘訶羅	摩訶毘訶羅	Skt. mahāvihāra	摩=ma ok; 訶=hā ok; 毘=vi ok; 訶=hā ok; 羅=ra ok	keep						high	
+11.01.04b	阿跋耶祇釐	阿跋耶祇釐	Skt. abhayagiri	阿=a ok; 跋=bha ok; 耶=ya ok; 祇=gi ok; 釐=ri ok	keep						high	
+11.01.08a	那羅稽羅洲	那羅稽羅洲	Skt. nārikela-dvīpa (coconut island)	那=nā ok; 羅=ri ok; 稽=ke ok; 羅=la ok	keep						high	nārikela; 洲 translation
+11.01.09	䮚迦山	䮚迦	Skt. laṅkā	䮚=laṅ ok; 迦=kā ok	keep						high	
+11.03	摩訶剌侘國	摩訶剌侘	Pkt. mahāraṭṭha, Skt. mahārāṣṭra	摩=ma ok; 訶=hā ok; 剌=raṭ ok; 侘=ṭha ok	keep						high	Pkt. mahāraṭṭha fits; Skt. mahārāṣṭra does not
+11.04	跋祿羯呫婆國	跋祿羯呫婆	Skt. bharukacchapa; Greek Barygaza	跋=bha ok; 祿=ru ok; 羯=ka ok; 呫=ccha ok; 婆=pa ok	keep						high	bharukacchapa (Bṛhatsaṃhitā 5.40 v.l. bharukacchapāṃś); the only 婆=pa in the key
+11.08	伐臘毘國	伐臘毘	Skt. valabhī, vallabhī; also 北羅羅國 (should be 南羅羅 per Mizutani)	伐=va ok; 臘=la ok; 毘=bhī ok	keep						high	
+11.09	阿難陀補羅國	阿難陀補羅	Skt. ānandapura	阿=ā ok; 難=nan ok; 陀=da ok; 補=pu ok; 羅=ra ok	keep						high	
+11.10	蘇剌侘國	蘇剌侘	Pkt. suraṭṭha (Skt. surāṣṭra); Greek Syrastrene	蘇=su ok; 剌=raṭ ok; 侘=ṭha ok	keep						high	Pkt. suraṭṭha fits; Skt. surāṣṭra does not
+11.12	鄔闍衍那國	鄔闍衍那	ujjayana (Skt. ujjayanī, ujjainī, Pa. ujjenī); Greek Ozene	鄔=u ok; 闍=jja ok; 衍=ya(n) ok; 那=na ok	keep						high	ujjayana fits (衍那 = yana); ujjayinī does not
+11.13	擲枳陀國	擲枳陀	original unknown; Jejākabhukti (Bundelkhand) or Chitor proposed	擲=ḍ(y)e(k) (澄 retroflex, 昔 rhyme; not in key); 枳=ki (見 reading; key ki 1) or ci (章 reading); 陀=da/dha ok	doubtful						low	Original unknown. The proposed Jejāka(bhukti) breaks the key: j is 常/章 (23/24), never 澄; 擲 wants ḍ/ḍh. Library search for jejak- gives only editorial notes; Jejākabhukti/Jejabhuktika is attested in inscriptions (EI 1, Mahoba and Madanpur, per notes_10-11.md), so the name is real for Bundelkhand, but its initial does not match 擲. No fitting form found.
+11.14	摩醯濕伐羅補羅國	摩醯濕伐羅補羅	Skt. maheśvarapura	摩=ma ok; 醯=he ok; 濕=ś ok; 伐=va ok; 羅=ra ok; 補=pu ok; 羅=ra ok	keep						high	
+11.15	信度國	信度	Skt. sindhu	信=sin ok; 度=dhu ok	keep						high	
+11.17	鉢伐多國	鉢伐多	Skt. parvata	鉢=par ok; 伐=va ok; 多=ta ok	keep						high	
+11.20.02a	拂懍國	拂懍	MPers./Sogd. From, Hrom, Hrum (Rome)	拂=f(h)r ok; 懍=ōm ok	keep						high	Iranian (MPers. Hrōm/From); outside the Indic key
+11.21	臂多勢羅國	臂多勢羅	Skt. pitaśaila (yellow-white hill)	臂=pī ok; 多=ta ok; 勢=śai ok; 羅=la ok	keep						high	pīta- (length unmarked, so pita/pīta both fit; Skt. is pīta)
+11.23	伐剌拏國	伐剌拏	varaṇa, varṇa; Pāṇini Varṇu; Faxian 跋那	伐=va ok; 剌=r ok; 拏=ṇa ok	keep						high	varṇa/varaṇa both fit (剌 r or ra); 拏 ṇ retroflex
+11.23.02	稽疆那國	稽疆那	Skt. kokaṅkaṇa (Kūrmavibhāga)	稽=ke (見 齊; key ke 1) ok; 疆=kaṅ/kā (見 陽, -ŋ) ok; 那=na/ṇa ok; kokaṅkaṇa MISMATCH: four syllables for three characters, o for 稽 e	better		Arab historians' Qīqān/Kīkān (al-Balādhurī, raid of 664-65 with Banna), as Stein reads it for Waziristan	asr_annual/ar1926-27.txt	Waziristan, and the Qiqan of early Arab history, clearly shows that in his	Kikani village, Quetta-Pishin (Baluchistan gaz. B052); Nal in Jhalawan (Arab Kīkān, Baluchistan gazetteers)	medium	Not a Sanskrit form: Kūrmavibhāga kokaṅkaṇa does not fit. The Arab name of the same period fits ke-kaṅ-na (疆 -ŋ before nasal echoes). It does not decide between Waziristan and Kalat (see notes_10-11.md 11.23.02). Searched library for kekan/kaikan/kikan: nothing.
