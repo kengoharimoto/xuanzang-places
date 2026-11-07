@@ -136,6 +136,8 @@ check.
 4. **Gazetteers** (`data/coded/gaz_batch*`). 1,128 relevant passages.
 5. **Route tests** (`route/README.md`). The li is calibrated at about 0.24 km in a straight line, or 0.29–0.32 km by
    road. Every leg is tested, rival sites are scored, and the figures are compared across T2087, T2088 and the *Life*.
+   The li does not behave as a fixed ground measure. In India the figures look like day stages (yojanas, which
+   Xuanzang defines as 一日軍行) converted at a set rate: rough and forest legs give far fewer km per li (§10).
 6. **Text and translation** (`data/text/`).
    - **The passages:** T2087 is cut into one passage per place (`anchors_*.tsv`, `scripts/extract_passages.py`;
      country passages open with the arrival sentence).

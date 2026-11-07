@@ -15,6 +15,7 @@ Two checks on the identifications, using only the texts:
 | `candidates.py` → `candidate_scores.tsv` | Scores each candidate against its incoming and outgoing legs. |
 | `chains.py` → `chain_scores.tsv` | Scores whole alternative routes, each leg measured between one scheme's own sites (§5). |
 | `li_regions.py` → `li_regions.tsv`, `li_schemes.tsv` | The li by juan, visit and leg length; each scheme's best-fitting scale and the scatter left over (§8). |
+| `li_terrain.py` → `li_terrain.tsv`, `elev_cache.json` | Each leg's km per li against its relief (SRTM) and the terrain words of its route sentence: was the li a measure of time? (§10). |
 | `../data/coords_study.tsv` | Coordinates for the study's own proposed sites, scored as the scheme "Study (proposed sites)" in §6–8. |
 | `apparatus_variants.py` → `apparatus_variants.tsv` | The Taishō apparatus notes of T2087, flagged where a reading touches a direction or numeral (§9). |
 | `sixi_check.py` → `sixi_apparatus.tsv`, `sixi_route.tsv` | Those Song readings and the route sentences checked against the Sixi edition's scan (§9). |
@@ -36,8 +37,8 @@ That figure is close to Hori Kentoku's 320 m and Cunningham's working "1/6 mile"
 440 m that Mizutani adopts from Mori Shikazō's Tang small li (補注二, pdf 435).
 
 The difference does not mean that 440 m is the wrong length for a Tang li. It means Xuanzang's stated li do not
-behave like Tang official li on the ground. India's shorter figure fits a conversion from yojanas or from days'
-marches at a fixed rate. That reading is an inference and is not tested here.
+behave like Tang official li on the ground. India's shorter figure fits a conversion from yojanas, which Xuanzang himself
+defines as a day's march, at a fixed rate. §10 tests this against the terrain.
 
 The two hearsay legs in the calibration run far shorter on the ground than stated (0.11 km per li). Hearsay figures
 overstate.
@@ -320,3 +321,55 @@ writes `joo_apparatus.tsv` and `joo_route.tsv`.
   several Song-group readings. At 12.09 Kishm (訖栗瑟摩) it reads 東西千餘里, against the Korean 十餘里, which is
   implausible for a country. At 12.10 Parghar it reads 東北至, against the Korean 北至.
 
+
+## 10. Was the li a measure of time?
+
+**The question.** If Xuanzang's li were days' marches converted at a fixed rate, rather than measured distance, a li
+should cover less ground where travel is slow.
+
+**The text's own definition.** Juan 2 defines the Indian unit of distance as a day's march:
+
+> 踰繕那者。自古聖王一日軍行也。舊傳一踰繕那四十里矣。印度國俗乃三十里。聖教所載唯十六里。
+
+"A yojana is, since the sage kings of old, one day's march of an army. The old tradition makes a yojana 40 li; Indian
+custom, 30 li; the scriptures only 16 li." So the distances given to him in India would have come as day stages, with
+three rival rates of conversion. The ratio between India's li on the ground and Central Asia's (0.231 / 0.288 = 0.80,
+§1) is close to what converting at the "old" 40 li, where Indian custom counted 30, would produce (0.75). This is
+suggestive only, since the Central Asian li is not a true Tang li either.
+
+**Test 1: relief.** `li_terrain.py` takes the 92 legs of 100 li or more between located places (§8's legs, hearsay
+legs left out, both ends at town, site or district precision). For each it measures the relief along the straight line
+from SRTM 90 m elevations (api.opentopodata.org, 40 points per leg, cached in `elev_cache.json`), and tags the
+terrain from the leg's own route sentence (山 嶺 谷 磧 沙 雪 林 險 棧 崖 峻 踰 越 渉 = rough). Results
+(`li_terrain.tsv`; Spearman correlation, permutation p):
+
+| Legs | n | ρ (relief, km per li) | Flattest third | Most rugged third |
+|---|---|---|---|---|
+| India | 57 | −0.43 (p ≈ 0.001) | 0.239 | 0.169 |
+| Central Asia and Afghanistan (juans 1, 2, 12) | 35 | −0.26 (p ≈ 0.13) | 0.277 | 0.223 |
+
+In India the legs the text itself calls rough give 0.169 km per li against 0.233 for the rest. A li covers about 30%
+less ground on rough legs. This does not settle the question. Mountain roads run about 1.5–2 times the straight line,
+plains roads about 1.2 times, and that alone predicts about the same 30%. With straight-line distances, travel time
+and winding roads cannot be told apart.
+
+**Test 2: flat legs, where winding roads are no explanation.**
+- **For time:**
+  - Two of the three most inflated flat legs run through forest. Prayāga → Kauśāmbī (05.05), 入大林中…行五百餘里,
+    covers about 48 km, or 0.095 km per li. The Life gives the same leg as 大林野中，行七日: 500 li for seven days, about
+    70 li and 7 km a day. Into Koṅgoda (10.10), 大林中。行千二百餘里, covers about 110 km (0.091).
+  - The Deccan legs found inflated two to four times in §8 are the 山林 legs.
+  - In Central Asia the desert legs (磧, 沙) come out long, 0.32–0.43 km per li, as fast caravan going on flat ground
+    would.
+- **Against time:**
+  - The high Pamir legs (12.15–12.18), surely the slowest of the journey, give an ordinary 0.29–0.36.
+  - Some forest legs are normal: 11.03 大林野 gives 0.24 and 06.03 荒林 gives 0.41.
+  - Some flat legs without forest are very short (Prayāga 0.116, Kapitha 0.131). These may be wrong identifications.
+- **The figures themselves:** 151 of the 164 figures of 100 li or more are round hundreds, which hides any pattern of
+  multiples of a 30- or 40-li stage.
+
+**Reading.** The li is not a fixed ground measure. In India especially, the figures look like day stages (yojanas)
+converted at a set rate. That fits the inflated forest legs, the gap between India and Central Asia, and the Life's
+seven days for 500 li. Where Xuanzang travelled himself in Central Asia, the figures behave more like distances: the
+Pamir legs are not stretched as slow travel would stretch them. The way to settle it is to compare each leg with the
+real road length rather than the straight line, along old roads or a least-cost path over the terrain.
