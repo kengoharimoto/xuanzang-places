@@ -125,8 +125,10 @@
   03.01.06 are approximate (placed from Stein's bearing and map distance). MASI 42's OCR reads "500 li or approximately
   80 miles" for Ilam where the 1898 report has "400 li, or approximately 66 miles".
 - **Original names** (`data/names/`, README method 8a): all 92 forms tested. Sims-Williams' Bactrian
-  documents are now read (`data/names/bactrian.tsv`). Still to obtain: for the location of Gaz (揭職, "in the district
-  of Andar" in doc R) Yoshida 2003 p. 158 and Sims-Williams 2004 pp. 1052–4; Bailey's Khotanese (Ditkabani for
+  documents are now read (`data/names/bactrian.tsv`). Sims-Williams 2004 (CRAI, Persée) and Yoshida 1998
+  (Kyoto repository) are read: 揭職 = *Garčig, not Gaz. Still to obtain: Yoshida's review of BD I (BAI XIV, 2000
+  [2003], pp. 154–9; JSTOR only); Enoki 1992, pp. 415–17 (活 = Ghar on the Surkhāb); Kuwayama 1986/1987 on 阿緩 =
+  Qal'a-ye Zāl; Bailey's Khotanese (Ditkabani for
   地迦婆縛那); Marquart's Arabic in the Ērānšahr, unreadable in the OCR (Zumathān for 鋭秣陀); von Hinüber's reading "Palola" of the Gilgit kings' title (2004), cited from memory in the 03.02 test;
   Ji's Coliya from the Mahākūṭa pillar (IA 19), not on disk; the library's `7_inscriptions/maitraka` folder is empty.
   The key's weak readings to recheck: 伽 = k (bhāviveka only), 摩 = mi (mihirakula only).

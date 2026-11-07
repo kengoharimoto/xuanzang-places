@@ -197,7 +197,9 @@ check.
      equation), "probably the later Warwaliz (modern Qunduz)" (II p. 242), a city with a Wakhsh cult in a contract of c. 602;
      紇露悉泯健 = Rōb + Samingān, the court of the khars of Rob in the district of Samingan (docs. N, c. 630, to Q, c. 672);
      覩貨邏 = *Tuxwār (Toxwār-, with the w that Skt. Tukhāra lacks); Tarmid, Waxš, Baxl, Gōzgān, Bamyan, Khwast
-     confirmed; Sar-i Pul's Bactrian name Amber does not fit 鋭秣陀; Gaz (揭職) lay "in the district of Andar".
+     confirmed; Sar-i Pul's Bactrian name Amber does not fit 鋭秣陀. 揭職 is not Gaz but *Garčig, Bactrian γαρσιγο
+     "mountain land" (Gharchistan), the mountain zone S of Tokharistan (Yoshida 1998, "Sino-Iranica", 西南アジア研究 48;
+     Sims-Williams, CRAI 2002 [2004], both in `data/ref/simswilliams/`); Yoshida also confirms 活 = war = Kunduz.
    - **In the data:** `data/names/proposed.tsv` (`scripts/names_proposed.py`) → the `name_study` columns of
      `places.tsv` and the map's place panel; "Name." paragraphs in the notes, which say where a name moves an
      identification. A name match is a lead, not site evidence: it never raises a rating to high on its own.

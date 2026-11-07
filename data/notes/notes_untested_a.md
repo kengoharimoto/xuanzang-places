@@ -350,7 +350,7 @@ home of a servant of the khars of Rob in doc. N), but 鋭 stays unexplained and 
 tentative suggestion, and its own 7th-century name, Bactrian Amber (Islamic Anbār), is not what 鋭秣陀 transcribes (see
 Name). Marquart's Zumathān is weak and unlocated. Mizutani's site is kept as the working point only.
 
-### 01.36 揭職國 (Gaz) — Darrah Gaz S of Balkh; the mapped point is too far south
+### 01.36 揭職國 (*Garčig, "mountain land") — the mountains S of Balkh (Darrah Gaz); the mapped point is too far south
 
 **Identifications.** Mizutani: Darrah Gaz (Tamaris valley), S of Balkh up the Darrah Yusuf (Beal, Watters, Foucher).
 Beal (p. 48): Gaz or Darah-Gaz, c. 20 miles S of Balkh. Vivien (p. 293), Watters (p. 115): none.
@@ -362,19 +362,21 @@ and Kie-tche is the Darrah-Gāz ("Vallée des Tamaris"), with the "ten monasteri
 of them (I, pp. 124, 129).
 **Ji Xianlin et al. (1985).** Ji: some put it at Darrah Gaz, but "there is as yet no strong evidence" (p. 128). He
 adds doubt, not a rival.
-**Name.** Bactrian: Gaz (γαζο, "name of a fortress", BDNA II p. 205) is where docs. R (year 452 = c. 675) and S (470 =
-c. 693) were written, with a treasurer and a Turkish tudun of Gaz and, in S, a kulah of Rob (BDNA I pp. 92, 94): the
-reading Gaz is confirmed against *Gachi, though 職 (voiceless 章 + -k) for Bactrian z remains a weak point. But doc. R
-puts Gaz "in the district of Andar", which Sims-Williams compares, doubtfully, with Dar-i Andara near Maimana (BDNA II
-p. 192), and makes its fines payable to the treasury of the ser of Gozgan; that would place this Gaz in Gozgan, far W
-of a Darrah Gaz 100 li S of Balkh. Gaz ("tamarisk") is a common name, the archive is that of the khars of Rob, and
-Sims-Williams' discussions of the location (Yoshida 2003, p. 158; Sims-Williams 2004, pp. 1052–4) are not in the
-files, so whether the two are one place is open (data/names/bactrian.tsv).
-**Assessment.** Probable: Darrah Gaz is agreed, and a 7th-century fortress Gaz is attested in Bactrian. The 100 li
-puts it near the valley mouth c. 30 km S of Balkh, where Beal has it, not 94 km up the valley. Same place, better
-point. The tension: if the Bactrian Gaz "in the district of Andar", paying fines to the ser of Gozgan, lay near
-Maimana, as Sims-Williams doubtfully suggests, it is not Xuanzang's Gaz S of Balkh, and the Bactrian evidence then
-supports the reading of the name, not the site (see Name).
+**Name.** The name is not Gaz. 揭 has the -t coda that renders r, and 職 is tɕik, so the characters give *Garčig
+(Pelliot: *Karcik or *Kacik). Sims-Williams (CRAI 2002 [2004], p. 1054 n. 21) calls the equation with Gaz
+"impossible phonologiquement" and accepts Yoshida's identification of 揭職 with Bactrian γαρσιγο, the base of
+γαρσιγοστανο "Gharchistan" (Yoshida 1998, pp. 35–36, n. 11). The word means "mountain land", and in the Bactrian
+documents ("the judge of Tukharistan and Gharchistan") it seems to name the whole mountain zone south of Tokharistan,
+which fits Xuanzang's own description of 揭職 as 覩貨邏國南鄙; Gharchistan proper lay further west, as Yoshida admits.
+Ji (1985, p. 128) had already reported Pelliot's doubt. The Bactrian fortress Gaz (docs. R, c. 675, and S, c. 693,
+BDNA I pp. 92, 94) is a different name: Sims-Williams places it "in the district of Andar", either near Dar-i Andara
+by Maymana or at the Darra Gaz / Jazzah of the Islamic sources, a fort on Guzgan's eastern edge 30 miles S of Balkh
+(CRAI pp. 1053–54). Data: data/names/bactrian.tsv; texts in data/ref/simswilliams/.
+**Assessment.** The place is the mountain country S of Balkh on the road to Bāmiyān, as all agree, and the 100 li
+puts Xuanzang's halt near the valley mouth c. 30 km S of Balkh, where Beal has it, not 94 km up the valley. The name,
+however, is *Garčig, "mountain land" (Yoshida, Sims-Williams), a district name, not the village name Gaz, so the
+name no longer points to Darrah Gaz in particular. Probable for the region; the point near the mouth of the Darrah
+Gaz stays as an approximation.
 
 ### 01.37 梵衍那國 (Bāmiyān) — the Bamiyan valley
 

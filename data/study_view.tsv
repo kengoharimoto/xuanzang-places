@@ -59,7 +59,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 01.33	open	Mizutani	36.22	65.93	town	Sar-i-pul, Afghanistan	low	weakened		open: Sar-i-pul (tentative; its Bactrian name Amber does not fit) or Marquart's Zumathān (weak)
 01.34	probable	Mizutani	36.6	65.8	country	Guzgan/Jowzjan district	medium	none		Jūzjān district; capital unknown
 01.35	probable	Mizutani	35.93	64.6	district	Talaqan of Khurasan, near Maimana	medium	none		Ṭālaqān of Khurāsān near Maimana; ruin disputed
-01.36	probable	study	36.49	66.95	approx	Darrah Gaz, c. 30 km S of Balkh	medium	none		Darrah Gaz at the valley mouth c. 30 km S of Balkh (Beal's 20 mi)
+01.36	probable	study	36.49	66.95	approx	Darrah Gaz, c. 30 km S of Balkh	medium	none		the mountain country S of Balkh (*Garčig, Bactr. γαρσιγο 'mountain land'); halt near the mouth of the Darrah Gaz c. 30 km S of Balkh
 01.37	secure	Mizutani	34.82	67.83	district	Bamiyan valley	high	none		Bamiyan valley
 01.37.01	secure	Mizutani	34.833	67.819	site	Western (53 m) Buddha, Bamiyan	high	none		Western (53 m) Buddha, Bamiyan
 01.37.01a	secure	Mizutani	34.831	67.828	site	Eastern (35 m) Buddha, Bamiyan	high	none		The 35 m Buddha at Bamiyan

@@ -488,7 +488,7 @@ of one month, in his route chronology (p. 645).
 Warwaliz (modern Qunduz)" in Sims-Williams' glossary (BDNA II p. 242), is where doc. L was written in year 379 = c.
 602, with its citizens and the cult of the god Wakhsh (BDNA I p. 64). 活 ɣwat writes its first syllable War-, and
 Sims-Williams himself reads 活 as War- in 活路 Huolu (EMC ɣwat-lo), a Hephthalite city, which he takes (after Yoshida
-2003, p. 158b) for the base *Warl- of the people-name Warlogan (BDNA II p. 242); see 12.05 (data/names/bactrian.tsv).
+2003, p. 158b) for the base *Warl- of the people-name Warlogan (BDNA II p. 242); see 12.05 (data/names/bactrian.tsv). Yoshida (1998, pp. 36–37) independently confirms 活 = war = Kunduz; Enoki (1992) puts it at Ghar on the Surkhāb (see 12.05).
 
 **Assessment.** Kunduz is supported by Beal, Watters and Mizutani, by the Tang name 遏換/阿緩, and by the name: 活 renders
 *War, which Marquart makes the base of Warwālīz = Kunduz, and the Bactrian documents give the town of Xuanzang's time
@@ -1067,7 +1067,7 @@ confidence (data/names/). Bactrian: the city Warnu (οαρνο, a u-stem *Warnu-
 its citizens and the cult of the god Wakhsh (BDNA I p. 64). 活 ɣwat writes War-, the first syllable, as one-character
 names do, and Sims-Williams himself reads 活 as War- in 活路 Huolu (EMC ɣwat-lo), a Hephthalite city, which he takes
 (after Yoshida 2003, p. 158b) for the base *Warl- of the people-name Warlogan (BDNA II p. 242). His glossary thus
-links 活 *War, Warnu and Warwaliz/Qunduz (data/names/bactrian.tsv).
+links 活 *War, Warnu and Warwaliz/Qunduz (data/names/bactrian.tsv). Yoshida (1998, pp. 36–37) independently confirms that 活 renders war "accurately" and that Markwart's Kunduz is "basically right"; the 滑國 of the Liangshu is the same name. He notes one difficulty: the Tang 阿緩/遏換城, long equated with 活, and 活路城 both occur in the Tang geography, which he resolves by taking 阿緩 as Kuwayama's Qal'a-ye Zāl, c. 50 km NW, and 活 (with 活路) as Kunduz. Enoki (1992, pp. 415–17) instead puts 活 at Ghar in the middle Surkhāb valley (not in the files).
 
 **Assessment.** As for 01.28a: Kunduz is supported by Beal, Watters, Mizutani and the Tang 遏換/阿緩, and by the name: 活
 renders *War, which Marquart makes the base of Warwālīz, the early Islamic name of Kunduz, and which is the first
@@ -1118,7 +1118,9 @@ Hazrat Imam (p. 966).
 **Assessment.** The characters give a-ri-ni (or a-li-ni), and Arhan/Arhang fits only the a-r-: there is no character
 for the h, and 尼 gives -ni, not -han (data/names/). The identification therefore rests on the ford rather than the
 name: Arhang/Ahreng is a known Oxus crossing that suits a country on both banks of the river, and Ji, after Minorsky,
-puts it near Hazrat Imam. Vivien doubts his own alternative. Mizutani stands. Confidence low: a small district placed
+puts it near Hazrat Imam. Vivien doubts his own alternative. Yoshida (1998, p. 37) notes that Arhan closely resembles
+遏換, the Tang seat of the Yuezhi commandery; if so, Arhan's Chinese name is 遏換, not 阿利尼, which loosens the name
+link further. Mizutani stands. Confidence low: a small district placed
 by a crossing and the authorities' agreement, with a loose name; no excavation, inscription or document naming the
 place is cited.
 
