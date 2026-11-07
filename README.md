@@ -23,10 +23,10 @@ minor sites that have no point either. Against Mizutani's identifications, the e
 - supports a different site for 62;
 - offers a candidate no standard authority records for 12.
 
-On the map the study's confidence comes out as 105 places secure, 163 probable and 105 open. These are the ratings
+On the map the study's confidence comes out as 105 places secure, 161 probable and 110 open. These are the ratings
 after a quality check of 30 notes and an audit of every "high" rating without site evidence (both in `data/notes/`).
-Another 56 minor sites are placed approximately from Xuanzang's own bearing and distance, without an identification
-(`scripts/place_from_text.py`). 51 have no point.
+Another 54 minor sites are placed approximately from Xuanzang's own bearing and distance, without an identification
+(`scripts/place_from_text.py`). 50 have no point.
 
 **Settled by inscriptions or seals found on the site:**
 - Kuśinagara at Kasia: the Haribala plate in the Nirvāṇa stūpa.

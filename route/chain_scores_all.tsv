@@ -1,6 +1,6 @@
 juan	scheme	places_changed	n_legs	mean_abs_z	mean_bearing_off	legs_z_over_1_5	total
 01	Mizutani	0	23	1.17	25	7	39.7
-01	Study (proposed sites)	1	23	1.09	25	6	37.9
+01	Study (proposed sites)	4	25	1.2	27	7	44.8
 01	Cunningham	3	24	1.34	28	8	47.0
 01	Vivien	7	25	1.5	46	9	63.1
 01	Beal	8	24	1.41	36	7	53.1
@@ -8,13 +8,14 @@ juan	scheme	places_changed	n_legs	mean_abs_z	mean_bearing_off	legs_z_over_1_5	to
 01	Dey	2	23	1.49	33	9	51.3
 01	best-fitting combination	7	23	0.83	20	4	29.4
 02	Mizutani	0	10	1.08	21	1	15.5
+02	Study (proposed sites)	1	10	1.07	21	1	15.5
 02	Cunningham	3	11	1.7	42	2	29.0
 02	Beal	2	10	1.12	37	1	19.4
 02	Watters	2	10	1.13	47	1	21.7
 02	Dey	2	10	1.32	29	1	19.7
 02	best-fitting combination	0	10	1.08	21	1	15.5
 03	Mizutani	0	15	1.16	24	4	25.2
-03	Study (proposed sites)	1	15	1.17	23	4	25.4
+03	Study (proposed sites)	2	15	1.0	22	3	22.1
 03	Cunningham	7	18	1.09	42	5	36.4
 03	Vivien	2	15	1.46	33	5	32.8
 03	Watters	2	16	1.17	21	4	26.4
@@ -79,6 +80,7 @@ juan	scheme	places_changed	n_legs	mean_abs_z	mean_bearing_off	legs_z_over_1_5	to
 11	Lambrick	6	18	0.57	36	2	24.8
 11	best-fitting combination	6	18	0.52	31	2	21.6
 12	Mizutani	0	19	0.69	23	2	22.7
+12	Study (proposed sites)	1	19	0.73	22	2	23.2
 12	Cunningham	2	19	0.77	28	2	26.4
 12	Vivien	6	19	1.05	31	4	33.0
 12	Beal	3	19	1.02	28	4	31.0

@@ -281,7 +281,14 @@ figures were scaled, the scheme would show an unusual scale with little scatter.
   grounds.
 
 **The study's own proposals** (`data/coords_study.tsv`), scored as a scheme (§6 tables, `chain_scores_all*.tsv`):
-- **Better than Mizutani** in juan 6 (Piprahwa for Kapilavastu; mean |z| 0.53 against 0.73) and juan 5 (Newal).
+- **Better than Mizutani** in juan 6 (Piprahwa for Kapilavastu; mean |z| 0.53 against 0.73), juan 5 (Newal) and juan 3
+  (1.00 against 1.16: Stein's Panjkotai for Mahāvana).
+- **Slightly worse** in juan 1 (1.20 against 1.17) and juan 12 (0.73 against 0.69), from two moves:
+  - 活's capital at Qal'a-ye Zāl: Khost → 活, 300 li (72 km predicted), is 100 km to Kunduz but 143 km to Qal'a-ye Zāl;
+    活 → 瞢健, 東行百餘里 (24 km), is 23 km from Kunduz but 69 km from Qal'a-ye Zāl. The figures favour Kunduz, the Life's
+    都城在河南岸 favours the Oxus bank; the note leaves the capital open.
+  - 揭職 at the mouth of the Darrah Gaz: the leg from Balkh improves (30 km against 24 predicted, from 94), but the leg on
+    to Bāmiyān lengthens (202 km against 143, from 138).
 - **Worse** in juan 10 (Koṅgoda at the Chilka, Arang and Cuddapah lengthen the misfits, though bearings improve) and
   juan 11. There, Mālava in central Gujarat lies only 121 km from Bharukaccha for a stated 2000 li.
 - **What this means.** The revisions rest on inscriptions, and the figures do not support them. In the Deccan this is

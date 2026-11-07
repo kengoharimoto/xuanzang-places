@@ -493,8 +493,9 @@ Sims-Williams himself reads 活 as War- in 活路 Huolu (EMC ɣwat-lo), a Hephth
 **Assessment.** The country is the lower Kunduz–Surkhāb plain (Beal, Watters, Mizutani), supported by the name: 活
 renders *War, the base of Warwālīz, and the Bactrian city Warnu is probably Warwaliz (see Name). The capital, by the
 Life (都城在河南岸), lay on the south bank of the Oxus: the town site N of Qal'a-ye Zāl (Kuwayama 2002, 2020), not
-Kunduz, 60 km inland; see 12.05. Cunningham's "Khulm" is a single word in a chronology table and conflicts with 01.31
-忽懍, which is Khulm. Confidence medium: text and surface survey, no excavation.
+Kunduz, 60 km inland; see 12.05, where the route figures, which favour Kunduz, leave the capital open. Cunningham's
+"Khulm" is a single word in a chronology table and conflicts with 01.31 忽懍, which is Khulm. Confidence low for the
+capital: text against figures, no excavation.
 
 ### 01.30 紇露悉泯健國 — Rūb + Simingān (Haibak) in the Khulm valley
 
@@ -1085,8 +1086,11 @@ fits the district either way. Texts: data/ref/kyoto/.
 *War, the base of Warwālīz (Marquart) and the first syllable of the Bactrian city Warnu (Sims-Williams; see Name).
 Its capital, however, was on the south bank of the Oxus by the Life's own words (都城在河南岸), which Kunduz, 60 km
 inland, does not fit, and the Kyoto test trench at Kunduz found nothing earlier than the 5th century. Proposed: the
-town site N of Qal'a-ye Zāl (Kuwayama 2002, 2020), with Kunduz the alternative. Confidence medium: the text and a
-surface survey support the site, which is unexcavated, and no inscription names it.
+town site N of Qal'a-ye Zāl (Kuwayama 2002, 2020), with Kunduz the alternative. But the route figures favour Kunduz:
+Khost → 活, 300 li (72 km predicted), is 100 km to Kunduz and 143 km to Qal'a-ye Zāl, and 活 → 瞢健, 東行百餘里 (24 km),
+is 23 km from Kunduz and 69 km from Qal'a-ye Zāl (route/README.md §8). The text and the figures pull apart, so the
+capital is left open: the map point stays at Qal'a-ye Zāl on the Life's words, confidence low; no excavation or
+inscription decides it.
 
 ### 12.06 瞢健國 (*mungan) — near Khanabad/Taliqan vs Beal's Munjan
 
