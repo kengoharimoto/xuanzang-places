@@ -15,6 +15,7 @@ Two checks on the identifications, using only the texts:
 | `candidates.py` → `candidate_scores.tsv` | Scores each candidate against its incoming and outgoing legs. |
 | `chains.py` → `chain_scores.tsv` | Scores whole alternative routes, each leg measured between one scheme's own sites (§5). |
 | `li_regions.py` → `li_regions.tsv`, `li_schemes.tsv` | The li by juan, visit and leg length; each scheme's best-fitting scale and the scatter left over (§8). |
+| `dem_fetch.py`, `li_paths.py` → `li_paths.tsv` | Least-cost walking routes over the Copernicus GLO-90 DEM for the same legs: li against route length and walking time (§10, Test 3). |
 | `li_terrain.py` → `li_terrain.tsv`, `elev_cache.json` | Each leg's km per li against its relief (SRTM) and the terrain words of its route sentence: was the li a measure of time? (§10). |
 | `../data/coords_study.tsv` | Coordinates for the study's own proposed sites, scored as the scheme "Study (proposed sites)" in §6–8. |
 | `apparatus_variants.py` → `apparatus_variants.tsv` | The Taishō apparatus notes of T2087, flagged where a reading touches a direction or numeral (§9). |
@@ -349,9 +350,8 @@ terrain from the leg's own route sentence (山 嶺 谷 磧 沙 雪 林 險 棧 �
 | Central Asia and Afghanistan (juans 1, 2, 12) | 35 | −0.26 (p ≈ 0.13) | 0.277 | 0.223 |
 
 In India the legs the text itself calls rough give 0.169 km per li against 0.233 for the rest. A li covers about 30%
-less ground on rough legs. This does not settle the question. Mountain roads run about 1.5–2 times the straight line,
-plains roads about 1.2 times, and that alone predicts about the same 30%. With straight-line distances, travel time
-and winding roads cannot be told apart.
+less ground on rough legs. With straight-line distances this cannot separate travel time from winding roads, so
+Test 3 measures the legs along modelled walking routes.
 
 **Test 2: flat legs, where winding roads are no explanation.**
 - **For time:**
@@ -368,8 +368,35 @@ and winding roads cannot be told apart.
 - **The figures themselves:** 151 of the 164 figures of 100 li or more are round hundreds, which hides any pattern of
   multiples of a 30- or 40-li stage.
 
+**Test 3: least-cost walking routes.** `li_paths.py` routes each of the 92 legs over the Copernicus GLO-90 DEM
+(`dem_fetch.py`: 463 tiles from AWS open data, kept as the 1/4 overview, about 370 m cells, in `data/ref/dem/`,
+gitignored). Cost is walking time by Tobler's hiking function (6 exp(−3.5 |slope + 0.05|) km/h, 5 km/h on the flat),
+on an 8-neighbour grid; sea is impassable; rivers, forest, snow and halts are not modelled. Each leg gets the route's
+length and its walking time (`li_paths.tsv`). If the li measured distance, km per li along the route should be the
+steadiest figure and should not depend on relief; if it measured time, hours per li should be steadier.
+
+| Legs | n | Scatter, sd of log: straight km / li | route km / li | walking hours / li | ρ with relief: route km / li | hours / li |
+|---|---|---|---|---|---|---|
+| All | 92 | 0.577 | 0.565 | 0.533 | −0.19 (p ≈ 0.07) | −0.12 (p ≈ 0.24) |
+| India | 57 | 0.525 | 0.513 | 0.482 | −0.39 (p ≈ 0.003) | −0.34 (p ≈ 0.01) |
+| Central Asia and Afghanistan | 35 | 0.625 | 0.609 | 0.566 | −0.18 (p ≈ 0.30) | −0.08 (p ≈ 0.67) |
+
+- **Time fits a little better than distance, everywhere.** Walking time reduces the scatter by about 6% against route
+  length (bootstrap: in 98–99% of resamples, in each region), and it removes most of the relief effect in Central
+  Asia. The overall rate is about 19 li per walking hour (median; 0.26 km of route per li).
+- **Winding roads do not explain India's rough legs.** The terrain forces only small detours at this resolution
+  (median 1.05 on flat legs, 1.13 on rugged ones), not the 1.5–2 assumed in Test 1, and the relief effect in India
+  survives both route length (ρ −0.39) and walking time (ρ −0.34). The grid misses switchbacks under about 370 m, so
+  real detours are larger, but not by enough to close a 30% gap.
+- **Most of India's relief effect is juan 3.** Without the Gandhāra–Kashmir legs, ρ falls to −0.23 (route) and −0.20
+  (time). The juan 3 legs give 0.17 km of route per li, about two-thirds of the norm, by either measure. A regional
+  unit, a different informant, or doubtful sites (Mount Ilam and Mahāvana give 0.06) are as likely as slow
+  going.
+
 **Reading.** The li is not a fixed ground measure. In India especially, the figures look like day stages (yojanas)
 converted at a set rate. That fits the inflated forest legs, the gap between India and Central Asia, and the Life's
 seven days for 500 li. Where Xuanzang travelled himself in Central Asia, the figures behave more like distances: the
-Pamir legs are not stretched as slow travel would stretch them. The way to settle it is to compare each leg with the
-real road length rather than the straight line, along old roads or a least-cost path over the terrain.
+Pamir legs are not stretched as slow travel would stretch them. Modelled walking routes (Test 3) favour time over
+distance only slightly, but consistently. Walking time does not explain the inflated forest legs of the Doab and the
+Deccan, nor the juan 3 legs: there something other than terrain (forest, halts, a different source for the figures)
+is at work.
