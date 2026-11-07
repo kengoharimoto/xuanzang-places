@@ -1,0 +1,239 @@
+char	mc_position	mc_reading	values	values_norm	n_tokens	n_names	example_ids	note
+羅	來開一歌平	l-	ra 52; la 29; rā 8; lā 4; ḍḍa 1; r 1; ri 1	ra 60; la 33; ḍa 1; r 1; ri 1	96	85	01.38.02, 02.03, 02.03.05, 03.01.03, 03.03, 03.03.02	AMBIGUOUS r/l: 來 l- serves both ra and la (ra 60 : la 33 incl. long); also ḍḍa once (local Hidda); level-tone twin of 邏, interchangeable (補羅 ~ 補邏, 布邏)
+那	泥開一歌平 / 泥開一歌上 / 泥開一歌去	n-	na 31; nā 5; ṇa 3	na 36; ṇa 3	39	38	02.03, 03.01, 03.01.06, 04.02, 04.09, 04.12	n (泥); usually dental na/nā, but also ṇa 3× (guṇamati, goviṣāṇa, karṇasuvarṇa): not proof of a dental; after a char with -n coda (衍那, 繕那, 旦那) it is the same single n
+摩	明一歌平 / 明一歌去	m-	ma 28; mā 6; mi 1	ma 34; mi 1	35	34	02.04.17, 03.01.06, 04.10.05, 04.11, 06.03, 08.00	m (明); ma/mā; 摩醯 = mahe (maheśvara, mahendra); one anomalous mi (摩醯邏矩羅 mihirakula)
+多	端開一歌平	t-	ta 25; tya 3; t 2; tā 1; tyā 1	ta 26; tya 4; t 2	32	31	01.01d, 03.01.12, 04.05, 06.01.04, 06.04.03a, 07.03.15	t (端) + -a; ta/tā; also tya (āditya, kātyāyana) and the -ta of -pta/-tta after a closed char (毱多 gupta, 達多 datta, 答多 tapta); final -t of prasenajit
+迦	見開三C歌平 / 見開二麻平	k-	ka 23; kā 9	ka 32	32	29	01.07, 01.38, 03.01.11, 03.06, 04.01, 06.02.05a	k (見); ka/kā; never g
+陀	定開一歌平	d-	da 11; d 7; dha 6; dhyā 1; ddha 1; dh 1; dā 1	da 12; dha 7; d 7; dhya 1; dh 1	28	28	05.02, 07.02.02, 08.00, 08.02.x3, 08.06.18, 09.01.03	AMBIGUOUS d/dh: 定 d- renders da, dha, ddha and the d of dr (陀羅 = dra); also dhyā once; voiced aspiration is not marked
+婆	並一歌平	b-	va 16; bhā 3; vā 2; bha 2; b 1; bā 1; pa 1	va 18; bha 5; b 1; ba 1; pa 1	26	26	04.11, 05.01.09, 07.01, 07.03.12, 09.03.x4, 10.14.02a	AMBIGUOUS v/b/bh: 並 b- renders va (16), bha/bhā (5), ba/bā, b of br (婆羅吸摩), once pa (bharukacchapa)
+伐	並三C元入	b- -t	va 20; var 5	va 20; var 5	25	25	02.04.09, 03.01.06, 04.08, 04.11.02, 06.01, 06.02	v (並 + -t): va 20, var 5 (the -t coda = r before a consonant: 伐摩 varma, 伐彈那 vardhana); the commonest v-character in place names (伐底 -vatī, 伐那 -vana, 濕伐羅 -śvara)
+阿	影開一歌平	ʔ-	a 18; ā 7	a 25	25	25	03.01.03, 05.02, 05.03, 06.04.03a, 07.02.02, 08.03.01	initial vowel a/ā (影); also begins the second member of a compound written without vowel sandhi (阿迭多 āditya, 阿濫摩 ārāma)
+呾	端開一寒入 / 影開二刪入	t- -t / ʔ- -t	t 13; ta 7	t 13; ta 7	20	19	03.01.11, 03.03, 03.03.02, 04.06, 04.11.02, 10.06	t + -t coda: t as first member of tr (呾羅 tra 13×) and ta (7×, e.g. 呾叉 takṣa, 三摩呾吒); NOT used for ṭ (吒)
+波	幫一歌平	p-	pā 10; pa 9	pa 19	19	19	02.02, 03.01.03, 04.06, 07.05, 08.02.01, 08.06.x4	p (幫); pa/pā; dental vs retroflex irrelevant
+毘	並三A脂平	b-	vi 14; bhī 2; bi 1; bhi 1	vi 14; bhi 3; bi 1	18	18	02.04.17, 04.12, 09.02.11, 10.16, 11.01.04a, 11.08	v/b/bh (並) + i: vi 13, bhī/bhi 3, bi 1; the regular vi- character; counts include the variant 毗
+邏	來開一歌去	l-	ra 10; rā 4; lā 4	ra 14; la 4	18	18	01.20.02, 01.38.02, 02.04, 02.04.01a, 02.04.09, 03.01.03	AMBIGUOUS r/l like 羅 (ra/rā 14 : lā 4); after 曷/鉢/跋 it is the r of an initial cluster or of r-
+訶	曉開一歌平	x-	hā 12; ha 4	ha 16	16	15	03.01.06, 03.04, 08.06.30, 09.01.02a, 09.03.11, 10.06.02e	h (曉) + a: hā/ha
+剌	來開一寒入	l- -t	r 8; ra 4; raṭ 2; la 1	r 8; ra 4; raṭ 2; la 1	15	15	03.05, 04.11.02, 07.02.02, 10.08, 10.17.03, 11.03	r (來 + -t): r as first member of rṇ, rtha, ra; raṭ in Pkt. raṭṭha (剌侘); la once (秣剌耶 malaya); 曷剌/閼剌 = (a)r
+伽	羣開三C歌平	g-	ga 7; gā 2; gha 2; ghā 1; ka 1	ga 9; gha 3; ka 1	13	13	01.01a, 05.04, 08.05.01, 10.11, 11.01, 12.22.04	AMBIGUOUS g/gh: 羣 g- renders ga/gā and gha/ghā (siṃgha, saṃghāṭī); once ka (bhāviveka, Pkt. -g-?)
+利	來開三脂去	l-	rī 5; ri 2; li 2; ṛ 1; riya 1; r 1	ri 7; li 2; ṛ 1; riya 1; r 1	12	12	09.02.18, 10.06.02a, 10.09.03, G.014, G.020, G.030	r/l + i: rī/ri, li, ṛ (gṛhī), r of krī/śrī
+底	端開四齊上	t-	ti 7; tī 5	ti 12	12	12	02.04.09, 04.02, 06.01, 06.04.03a, 10.06.02c, 10.07	t + i (端 齊四): ti/tī; -vatī, -pati endings
+提	常開三支平 / 定開四齊平	ʑ- / d-	de 9; dhi 2	de 9; dhi 2	11	11	05.01.09, 08.05.03, 08.06.30, G.004, G.078, G.080	d/dh + e/i: de 9 (提婆 deva), dhi 2 (菩提 bodhi)
+蘇	心一模平	s-	su 10; sā 1	su 10; sa 1	11	11	04.11.02, 10.08, 11.10, G.001, G.017, G.037	s + u: su 10 (never 須, which XZ rejects in old forms); sā once
+補	幫一模上	p-	pu 10; pū 1	pu 11	11	11	03.04, 03.08, 04.11, 07.03.15, 09.02.04, 10.06.02d	p + u: the -pura character (補羅/補邏, 10×)
+鉢	幫一寒入	p- -t	p 6; pa 2; pat 1; ppa 1; par 1	p 6; pa 3; pat 1; par 1	11	10	03.03.02, 05.04, 08.05.03, 09.02.11a, 10.06.02c, 11.17	p + -t coda: p of pr (鉢邏/鉢羅/鉢剌 6×), par (parvata), pat (pattra), pa, ppa
+闍	端一模平 / 常開三麻平	t- / ʑ-	ja 5; jā 3; jja 1; j 1; jya 1	ja 9; j 1; jya 1	11	11	03.08, 04.03, 05.01, 09.02.14, 09.02.18, 11.12	j (常 reading ʑja): ja/jā, jja, jya, j of jr
+耶	以開三麻平	j-	ya 6; yā 4	ya 10	10	10	05.03, 05.04, 08.05.01, 10.17.03, 11.01.04b, G.028	y (以): ya/yā
+達	透開一寒入 / 定開一寒入	tʰ- -t / d- -t	dhar 4; d 2; dat 2; dha 1; dh 1	dhar 4; d 2; dat 2; dha 1; dh 1	10	10	04.03, 10.13, 10.16, 12.15, G.018, G.043	d/dh + -t: dhar (達磨 dharma), dat (datta), d/dh of dr/dhr (達羅)
+濕	書開三侵入 / 透開一覃入	ɕ- -p / tʰ- -p	ś 9	ś 9	9	9	03.06, 04.08, 07.03.15, 11.14, G.024, G.056	ś + -p coda: ś before v or m only (濕伐/濕吠/濕縛/濕婆 śv, 濕彌 śm) 9/9
+瞿	羣合三C虞平 / 見合三C虞去	g- / k-	go 6; gu 2; gho 1	go 6; gu 2; gho 1	9	9	04.11.02, 04.12, 12.22.04, G.006, G.057, G.078	g + o/u: go 6, gu 2, gho 1
+縛	並三C歌去 / 並三C陽入	b- / b- -k	va 7; vā 2	va 9	9	9	01.01c, 01.32.01, 05.01.09, 09.02.08, G.010, G.011	v (並): va/vā; also used for Iranian b/w
+羯	見開三C元入	k- -t	ka 9	ka 9	9	9	02.04.09, 04.01.02, 05.01, 07.02.02, 10.08, 10.11	k + -t: ka 9 (kar-, kal-, kan-, -kara)
+跋	並一寒入	b- -t	bha 7; bā 1; bh 1	bha 7; ba 1; bh 1	9	9	01.07, 10.12.05, 11.01.04b, 11.04, G.048, G.058	bh/b + -t: bha 7, bh of bhr (跋邏), bā
+拘	見合三C虞平	k-	ku 5; ko 3	ku 5; ko 3	8	8	06.04, 09.03.08, G.007, G.066, G.067, G.069	k + u/o: ku 5, ko 3
+曷	匣開一寒入	ɣ- -t	r(pre) 5; hār 1; a 1; ha 1	r(pre) 5; har 1; a 1; ha 1	8	8	01.38.02, 02.03, 03.08, 09.02.18, G.052, G.082	AMBIGUOUS: (1) prefix before initial r- with no sound of its own (曷邏/曷羅 + 怙羅/闍) 5×; (2) ha(r) / hā(r) (曷利沙 harṣa, 那揭羅曷 -hār); (3) a(r) in 曷剌他 -artha; read 曷+邏/羅/剌 at word start as r-
+盧	來一模平	l-	ru 4; ro 2; lo 1; rū 1	ru 5; ro 2; lo 1	8	8	03.01.11, 04.05, 09.01.03b, 12.22.03, G.001, G.007	l/r + u/o: ru 4, ro 2, lo, rū
+室	書開三真入	ɕ- -t	ś 7	ś 7	7	7	06.01, 10.06.02a, 12.22.04, G.036, G.061, G.067	ś + -t coda: ś before r/ṛ only (室羅, 室利, 室縷, 室𩜁) 7/7
+布	幫一模去	p-	pu 4; po 2; pū 1	pu 5; po 2	7	6	02.04.01a, 02.04.09, 09.02.11, 09.03.13, 10.17.04, G.032	p + u/o: pu, po, pū
+拏	孃開二麻平	ɳ-	ṇa 7	ṇa 7	7	7	04.11.02, 07.02.02, 10.08, 11.23, G.032, G.059	ṇ (孃 retroflex): ṇa 7/7 — reliable retroflex marker
+鄔	影一模平 / 影一模上 / 影開三C魚去	ʔ-	u 7	u 7	7	7	11.12, G.027, G.033, G.040, G.109, G.110	u- (影模): XZ's u-character, replacing old 優
+僧	心開一登平	s- -ŋ	siṃ 3; saṃ 2; saṅ 1	siṃ 3; saṃ 2; saṅ 1	6	6	03.04, 11.01, G.009, G.091, G.101, G.102	s + ŋ: siṃ/saṃ/saṅ (anusvāra or ṅ before h/gh/g); 僧伽藍 = saṃghārāma abbreviated
+吒	知開二麻去	ʈ-	ṭa 6	ṭa 6	6	6	08.02.01, 08.03.01, 09.01.03, 09.02.09, 10.06, G.076	ṭ (知): ṭa 6/6 — reliable retroflex marker
+弗	幫三C文入	p- -t	pu 3; v 2; pūr 1	pu 3; v 2; pur 1	6	6	07.04, 10.14.02a, 12.02, G.032, G.077, G.094	p + -t: pu (putra) 3, v of vṛ (弗栗) 2, pūr (pūrva)
+末	明一寒入	m- -t	ma 5; maṭ 1	ma 5; maṭ 1	6	6	10.08.02, 10.12.05, G.025, G.057, G.082, G.123	m + -t: ma, maṭ
+栗	來開三真入	l- -t	ṛ 3; li 1; lit 1; r 1	ṛ 3; li 1; lit 1; r 1	6	6	07.03.12, 07.04, 09.02.09, 10.07, 12.02, G.083	r/l + -t: ṛ 3 (vṛ, gṛ), r (pārśva), lit (Pkt. tāmalitti)
+薩	心開一寒入	s- -t	s 3; sar 2; sa 1	s 3; sar 2; sa 1	6	6	03.01.09, 04.08, 10.12, 12.02, G.052, G.117	s + -t: s of st/sth (a-coloured) 3, sar 2, sa
+釐	來開三之平	l-	ri 3; li 2; lī 1	li 3; ri 3	6	6	07.03, 08.02.01, 10.09.02, 10.12.05, 11.01.04b, G.033	r/l + i: ri/li/lī (-giri 祇釐/耆釐)
+他	透開一歌平	tʰ-	thā 3; tha 2	tha 5	5	5	04.08, G.021, G.052, G.064, G.082	
+吠	並三C廢去	b-	ve 3; vai 2	ve 3; vai 2	5	5	07.03, 07.03.15, G.013, G.015, G.072	v + e/ai (廢韻): ve 3, vai 2
+尸	書開三脂平	ɕ-	śi 2; śī 2; śā 1	śi 4; śa 1	5	5	03.05, 06.04, G.022, G.058, G.100	ś + i: śi/śī; śā once (uraśā)
+恃	常開三之上	ʑ-	ji 4; jit 1	ji 4; jit 1	5	5	06.04.03a, 07.04, 12.02, G.041, G.060	
+揭	溪開三B祭去 / 見開三C元入 / 羣開三C元入 / 羣開三B仙入 / 溪開三B仙入 / 見開三B仙入	kʰ- / k- -t / g- -t / kʰ- -t	ga 4; g 1	ga 4; g 1	5	5	02.03, 06.04, 08.00, 09.02.04, G.064	counts include the variant 掲
+沙	生開二麻平 / 生開二麻去	ʂ-	ṣa 4; ṣā 1	ṣa 5	5	5	02.04.01a, G.056, G.088, G.097, G.114	
+犀	心開四齊平	s-	se 5	se 5	5	5	12.02b, G.041, G.073, G.105, G.111	s + e: se 5/5 (-sena 犀那)
+醯	曉開四齊平	x-	hi 3; he 2	hi 3; he 2	5	5	02.03.05, 03.01.11, 08.02.x3, 11.14, G.093	h + e/i: he (摩醯 mahe-), hi
+佛	並三C文入	b- -t	bud 4	bud 4	4	4	09.02.01, G.063, G.092, G.102	
+勢	書開三祭去	ɕ-	śai 4	śai 4	4	4	09.03.11, 10.14.02a, 10.14.02b, 11.21	
+娑	心開一歌平 / 心開一歌上	s-	sā 2; sa 2	sa 4	4	4	06.04.03, 09.03.x6, G.011, G.070	
+尼	孃開三脂平	ɳ-	ni 1; ne 1; nī 1; ṇī 1	ni 2; ne 1; ṇi 1	4	4	06.02.05a, 07.05, G.006, G.032	
+屈	見合三C文入 / 溪合三C文入	k- -t / kʰ- -t	kuk 2; ku 2	kuk 2; ku 2	4	2	08.03.01, 09.01.03	
+毱	羣三C東入	g- -k	gup 4	gup 4	4	4	G.061, G.063, G.064, G.124	g + -k: gu(p) in -gupta 4/4
+矩	見合三C虞上	k-	ku 3; kū 1	ku 4	4	4	05.01.09, 09.02.04, 09.02.09, G.093	
+磨	明一歌平 / 明一歌去	m-	ma 4	ma 4	4	4	G.018, G.074, G.096, G.115	
+窶	羣合三C虞上	g-	gu 3; gho 1	gu 3; gho 1	4	4	09.01.03b, 09.03.11, G.044, G.056	
+至	章開三脂去	tɕ-	cī 4	ci 4	4	4	04.02, G.078, G.094, G.095	
+舍	書開三麻上 / 書開三麻去	ɕ-	śā 4	śa 4	4	4	07.03, G.030, G.079, G.121	
+衍	以開三仙上 / 以開三仙去	j- -n	ya(n) 3; ya(ṇ) 1	ya 4	4	4	11.12, G.029, G.032, G.040	y + -n: ya(n) before 那 (single n), ya(ṇ)
+設	書開三仙入	ɕ- -t	śa 4	śa 4	4	4	04.05, 09.02.14, G.067, G.099	
+叉	初開二佳平 / 初開二麻平	tʂʰ-	kṣa 3	kṣa 3	3	3	03.03, G.023, G.080	kṣ (初): kṣa 3; also 芻 kṣu, 差 kṣe, 刹 kṣa
+地	定開四脂去	d-	dhi 2; dī 1	dhi 2; di 1	3	3	03.01.09, G.092, G.118	
+奢	書開三麻平	ɕ-	śā 2; śya 1	śa 2; śya 1	3	3	04.01.02, 09.02.04, G.015	
+度	定一模去 / 定開一唐入	d- / d- -k	dhu 2; du 1	dhu 2; du 1	3	3	01.01b, G.038, G.116	
+悉	心開三真入	s- -t	s 2; sid 1	s 2; sid 1	3	3	06.01, 12.15, G.052	s + -t (i-coloured): s of st/sth before i (悉底 sti, 悉鐵 sthi), sid
+折	定開四齊平 / 章開三仙入 / 常開三仙入	d- / tɕ- -t / ʑ- -t	ca 2; cā 1	ca 3	3	3	10.09.03, 12.22.03, G.071	
+泥	泥開四齊平 / 泥開四齊去	n-	ni 2; ne 1	ni 2; ne 1	3	3	04.08, G.010, G.050	
+烏	影一模平	ʔ-	u 2; o 1	u 2; o 1	3	3	03.01, 03.05, 10.09	
+祿	來一東入	l- -k	ru 2; lu 1	ru 2; lu 1	3	3	01.07, 04.09, 11.04	
+秣	明一寒入	m- -t	ma 3	ma 3	3	3	04.07, 10.17.03, G.119	
+窣	心合一魂入	s- -t	s 3	s 3	3	3	04.09, 06.02, G.008	s + -t (u-coloured): s of st/sr when the next vowel is u (窣堵 stu/stū, 窣祿 sru) 3/3
+答	端開一覃入	t- -p	ta 2; tap 1	ta 2; tap 1	3	3	G.002, G.049, G.119	
+縷	來合三虞上	l-	ru 2; rū 1	ru 3	3	3	10.05, G.067, G.075	
+胝	知開三脂平	ʈ-	ṭi 2; ṭī 1	ṭi 3	3	3	G.009, G.066, G.067	ṭ (知): ṭi/ṭī 3/3 (koṭi, saṃghāṭī)
+賞	書開三陽上	ɕ- -ŋ	śā 1; śām 1; śāṅ 1	śa 1; śam 1; śaṅ 1	3	3	10.06.02d, G.039, G.099	
+迭	定開四先入	d- -t	di 3	di 3	3	3	09.03.x4, G.084, G.100	
+部	並一模上 / 並一侯上	b-	bhu 1; bu 1; bhū 1	bhu 2; bu 1	3	3	03.01.12, G.005, G.037	
+伊	影開三A脂平	ʔ-	ī 2	i 2	2	2	10.06.02d, G.085	
+佉	溪開三C歌平	kʰ-	kha 1; khā 1	kha 2	2	2	05.03, G.121	
+侘	徹開二麻平 / 徹開二麻去	ʈʰ-	ṭha 2	ṭha 2	2	2	11.03, 11.10	ṭh (徹): ṭha in Pkt. raṭṭha 2/2
+史	生開三之上	ʂ-	ṣi 2	ṣi 2	2	2	05.05.03, G.026	
+呫	透開四添入	tʰ- -p	ccha 2	cha 2	2	2	07.03.12, 11.04	cch (annotated 昌葉反; 透 in Guangyun): ccha 2/2
+呬	曉開三B脂去	x-	hī 1; hi 1	hi 2	2	2	09.02.18, 12.11	
+商	書開三陽平	ɕ- -ŋ	śā(ṇ) 1; śyā 1	śa 1; śya 1	2	2	G.011, G.019	
+因	影開三A真平	ʔ- -n	in 2	in 2	2	2	08.02.x3, 09.03.11	
+堵	端一模上 / 章開三麻上	t- / tɕ-	tu 1; tū 1	tu 2	2	2	06.02, G.008	
+姞	羣開三B真入	g- -t	g 2	g 2	2	2	09.02.09, 09.02.18	g + -t (i-coloured): g of gṛ (姞栗, 姞利) 2/2
+帝	端開四齊去	t-	ti 1; t 1	ti 1; t 1	2	2	12.15, G.014	
+彈	定開一寒平 / 定開一寒去	d- -n	dha(n) 2	dha 2	2	2	G.097, G.098	
+彌	明三A支平	m-	mī 1; bī 1	mi 1; bi 1	2	2	03.06, G.039	
+怙	匣一模上	ɣ-	hu 2	hu 2	2	2	01.38.02, G.035	
+憍	見開三B宵平	k-	ko 1; kau 1	ko 1; kau 1	2	2	10.12, G.039	
+播	幫一歌去	p-	pā 2	pa 2	2	2	09.01.03, 09.01.03b	
+擇	澄開二庚入	ɖ- -k	ḍha 2	ḍha 2	2	2	08.04.01, G.045	ḍh (澄 + -k): ḍha 2/2 (virūḍhaka, telāḍhaka)
+支	章開三支平	tɕ-	ci 2	ci 2	2	2	08.06.18, G.075	
+斯	心開三支平	s-	sī 1; si 1	si 2	2	2	07.01, G.110	
+梅	明一灰平	m-	mai 2	mai 2	2	2	G.032, G.051	
+洛	來開一唐入	l- -k	la 1; ra 1	la 1; ra 1	2	2	10.17.04, G.112	
+濫	匣開二銜上 / 來開一談去	ɣ- -m / l- -m	lam 1; rā(m) 1	lam 1; ra 1	2	2	02.02, 08.03.01	
+爛	來開一寒去	l- -n	laṃ 1; lan 1	laṃ 1; lan 1	2	2	04.03, 09.03.x1	
+理	來開三之上	l-	ri 1; li 1	ri 1; li 1	2	2	04.06, 09.03.08	
+瞻	章開三鹽平	tɕ- -m	cam 2	cam 2	2	2	10.02, 10.06.02e	
+知	知開三支平	ʈ-	ṭi 2	ṭi 2	2	2	09.02.02, 10.08.02	ṭ (知): ṭi 2/2
+祇	羣開三A支平	g-	gi 2	gi 2	2	2	10.09.02, 11.01.04b	
+納	泥開一覃入	n- -p	na 2	na 2	2	2	01.32.01, 05.01.09	
+索	心開一唐入 / 生開三庚入 / 生開二耕入	s- -k / ʂ- -k	sa 2	sa 2	2	2	G.003, G.109	
+色	生開三蒸入	ʂ- -k	ṣ 2	ṣ 2	2	2	02.04.09, G.062	ṣ + -k: ṣ before k (puṣkala, jyotiṣka)
+荼	定一模平 / 船開三麻平 / 澄開二麻平	d- / dʑ- / ɖ-	ḍḍa 1; ḍa 1	ḍa 2	2	2	10.09, 10.16	ḍ (澄 reading): ḍa/ḍḍa 2/2
+莫	明一唐入	m- -k	ma 2	ma 2	2	2	09.01.02a, G.019	
+菩	並一模平 / 並一灰上 / 並三C尤上 / 並一登入	b- / b- -k	bo 2	bo 2	2	2	08.05.03, 08.06.30	
+葉	以開三鹽入 / 書開三鹽入	j- -p / ɕ- -p	śya 2	śya 2	2	2	08.06.x4, G.118	ś (書 reading) + -p: śya before p (kāśyapa) 2/2
+蜜	明三A真入	m- -t	mi 2	mi 2	2	2	G.017, G.123	
+覩	端一模上	t-	tu 2	tu 2	2	2	01.20.02, G.026	
+訖	見開三C殷入	k- -t	k 2	k 2	2	2	G.084, G.089	k + -t (i-coloured): k of kr (訖利 krī, 訖羅 kra)
+諾	泥開一唐入	n- -k	na 1; ṇa 1	na 1; ṇa 1	2	2	06.02.05a, G.011	
+路	來一模去	l-	ru 2	ru 2	2	2	02.04.01a, 09.02.14	
+踰	以合三虞平	j-	yo 2	yo 2	2	2	05.02, G.012	
+輸	書合三虞平	ɕ-	śo 1; śu 1	śo 1; śu 1	2	2	G.054, G.107	
+難	泥開一寒平 / 泥開一寒去	n- -n	nan 2	nan 2	2	2	11.09, G.034	
+鴦	影開三陽平	ʔ- -ŋ	aṅ 1; aṃ 1	aṅ 1; aṃ 1	2	2	G.044, G.107	
+麗	來開三支平 / 來開四齊去	l-	rā 1; re 1	ra 1; re 1	2	2	G.032, G.051	
+𩜁	來開三蒸平 / 來開三蒸去	l- -ŋ	liṅ 1; ṛṅ 1	liṅ 1; ṛṅ 1	2	2	10.11, 12.22.04	
+䮚	? (not in Guangyun; cf. 楞 來開一登平)	? (not in Guangyun; cf. 楞 來開一登平)	laṅ 1	laṅ 1	1	1	11.01.09	
+三	心開一談平 / 心開一談去	s- -m	sa(m) 1	sa 1	1	1	10.06	s + -m: sa(m) before 摩
+亘	曉開一登去	x- -ŋ	haṃ 1	haṃ 1	1	1	09.03.x6	
+些	心開三麻平 / 心開四齊去	s-	sa 1	sa 1	1	1	G.010	
+仗	澄開三陽上 / 澄開三陽去	ɖ- -ŋ	ḍḍiyā 1	ḍiya 1	1	1	03.01	ḍ (澄 + -ŋ): ḍḍiyā (uḍḍiyāna)
+低	端開四齊平	t-	te 1	te 1	1	1	G.024	
+你	孃開三之上	ɳ-	nī 1	ni 1	1	1	G.095	
+信	心開三真去	s- -n	sin 1	sin 1	1	1	01.01b	
+健	羣開三C元去	g- -n	gan 1	gan 1	1	1	02.04	
+僕	並一東入 / 並一冬入	b- -k	bhuk 1	bhuk 1	1	1	04.02	
+儻	透開一唐上 / 透開一唐去	tʰ- -ŋ	thā 1	tha 1	1	1	12.02	
+具	羣合三C虞去	g-	gho 1	gho 1	1	1	05.05.03	
+准	章合三真上	tɕ- -n	cun 1	cun 1	1	1	G.047	
+刹	初開二刪入	tʂʰ- -t	kṣa 1	kṣa 1	1	1	G.014	
+劫	見開三C嚴入	k- -p	ka 1	ka 1	1	1	06.02	
+勤	羣開三C殷平	g- -n	gh 1	gh 1	1	1	04.09	g + -n: gh of ghn (窣祿勤那 srughna)
+卑	幫三A支平	p-	pi 1	pi 1	1	1	09.02.11a	
+印	影開三A真去	ʔ- -n	in 1	in 1	1	1	G.116	
+吸	曉開三B侵入	x- -p	h 1	h 1	1	1	04.11	h + -p: h of hm (婆羅吸摩 brahma)
+咄	端合一魂入 / 端合一寒入	t- -t	t 1	t 1	1	1	09.02.14	t + -t (u-coloured): t of tru (設咄路 śatru)
+喬	羣開三B宵平	g-	gau 1	gau 1	1	1	G.049	
+嗢	影合一魂入 / 影合二山入	ʔ- -t	ut 1	ut 1	1	1	G.073	
+圖	定一模平	d-	d 1	d 1	1	1	04.05	d + u: d of dru (圖盧)
+塞	心開一登入 / 心開一咍去	s- -k / s-	s 1	s 1	1	1	G.068	
+墮	曉合三A支平 / 定合一歌上 / 透合一歌上	x- / d- / tʰ-	dvā 1	dva 1	1	1	10.06.02c	
+夜	以開三麻去	j-	yā 1	ya 1	1	1	04.06	
+奈	泥開一泰去	n-	na 1	na 1	1	1	G.028	
+奔	幫一魂平 / 幫一魂去	p- -n	pu(ṇ) 1	pu 1	1	1	G.079	
+始	書開三之上	ɕ-	śi 1	śi 1	1	1	03.03	
+差	初開三支平 / 初開二佳平 / 初開二皆平 / 初開二麻平 / 初開二佳去	tʂʰ-	kṣe 1	kṣe 1	1	1	10.06.02a	
+延	以開三仙平 / 以開三仙去	j- -n	yaṇa 1	yaṇa 1	1	1	07.02.03a	
+徙	心開三支上	s-	sī 1	si 1	1	1	01.01d	
+御	疑開三C魚去	ŋ-	go 1	go 1	1	1	10.10	
+德	端開一登入	t- -k	ta 1	ta 1	1	1	09.03.13	counts include the variant 徳
+恭	見三C鍾平	k- -ŋ	koṅ 1	koṅ 1	1	1	10.10	
+愼	常開三真去	ʑ- -n	ji(n) 1	ji 1	1	1	G.077	
+戍	書合三虞去	ɕ-	śū 1	śu 1	1	1	G.016	
+戰	章開三仙去	tɕ- -n	can 1	can 1	1	1	G.086	
+捺	泥開一寒入	n- -t	na 1	na 1	1	1	G.118	
+旦	端開一寒去	t- -n	ta(n) 1	ta 1	1	1	G.117	
+時	常開三之平	ʑ-	jī 1	ji 1	1	1	09.02.08	
+曼	明一寒去	m- -n	mañ 1	mañ 1	1	1	G.036	
+木	明一東入	m- -k	mo 1	mo 1	1	1	G.080	
+杜	定一模上	d-	dh 1	dh 1	1	1	G.076	dh + u: dh of dhru (杜魯)
+枳	章開三支上 / 見開三A支上	tɕ- / k-	ki 1	ki 1	1	1	G.024	
+案	影開一寒去	ʔ- -n	ān 1	an 1	1	1	10.13	
+樹	常合三虞上 / 常合三虞去	ʑ-	ju 1	ju 1	1	1	G.055	
+殊	常合三虞平	ʑ-	ju 1	ju 1	1	1	G.036	
+殑	羣開三C蒸平 / 羣開三C蒸上 / 羣開三C蒸去	g- -ŋ	gaṅ 1	gaṅ 1	1	1	01.01a	
+殺	生開二皆去 / 生開二山入	ʂ- / ʂ- -t	ṣa 1	ṣa 1	1	1	03.01.09	
+比	並三A脂平 / 幫三A脂上 / 並三A脂去 / 幫三A脂去 / 並三A真入	b- / p- / b- -t	pi 1	pi 1	1	1	06.02	
+沒	明一魂入	m- -t	mau 1	mau 1	1	1	G.031	
+沓	定開一覃入	d- -p	dha 1	dha 1	1	1	G.120	
+洩	以開三祭去	j-	ya 1	ya 1	1	1	09.02.02	
+浪	來開一唐平 / 來開一唐去	l- -ŋ	laṅ 1	laṅ 1	1	1	10.06.02b	
+澁	生開三侵入	ʂ- -p	ṣ 1	ṣ 1	1	1	10.09.02	ṣ + -p: ṣ before p (puṣpa)
+牟	明三C尤平	m-	mu 1	mu 1	1	1	06.02.05a	
+特	定開一登入	d- -k	d 1	d 1	1	1	G.031	
+珠	章合三虞平	tɕ-	jyo 1	jyo 1	1	1	G.062	
+瑟	生開三臻入	ʂ- -t	ṣ 1	ṣ 1	1	1	09.02.02	ṣ + -t: ṣ before ṭ (yaṣṭi)
+田	定開四先平	d- -n	dhyān 1	dhyan 1	1	1	G.025	
+畔	並一寒去	b- -n	ban 1	ban 1	1	1	G.038	
+畢	幫三A真入	p- -t	pi 1	pi 1	1	1	01.38	
+痆	孃開二山入	ɳ- -t	ṇa 1	ṇa 1	1	1	07.01	ṇ (孃): ṇa (vārāṇasī; annotated 女黠反)
+目	明三C東入	m- -k	mu 1	mu 1	1	1	08.06.18	
+磔	知開二庚入	ʈ- -k	ṭak 1	ṭak 1	1	1	04.01	
+私	心開三脂平	s-	si 1	si 1	1	1	G.122	
+稽	見開四齊平 / 溪開四齊上	k- / kʰ-	ke 1	ke 1	1	1	11.01.08a	
+穆	明三C東入	m- -k	mu 1	mu 1	1	1	05.03	
+穰	日開三陽平 / 日開三陽上	ɲ- -ŋ	ṇya 1	ṇya 1	1	1	G.079	
+笈	羣開三B侵入 / 羣開三B鹽入 / 初開二咸入 / 羣開三C嚴入	g- -p / tʂʰ- -p	g 1	g 1	1	1	08.05.03	g + -p: g of gb (鉢羅笈菩提 prāgbodhi)
+第	定開四齊去	d-	de 1	de 1	1	1	G.027	
+笯	泥一模平 / 孃開二麻平 / 泥一模去	n- / ɳ-	no 1	no 1	1	1	G.082	
+素	心一模去	s-	su 1	su 1	1	1	G.112	
+絡	來開一唐入	l- -k	rak 1	rak 1	1	1	10.08.02	
+繕	常開三仙去	ʑ- -n	ja(n) 1	ja 1	1	1	G.012	
+耆	羣開三A脂平	g-	gi 1	gi 1	1	1	10.12.05	
+耽	端開一覃平 / 端開一覃上	t- -m	tā(m) 1	ta 1	1	1	10.07	t + -m: tā(m) before 摩
+臂	幫三A支去	p-	pī 1	pi 1	1	1	11.21	
+臘	來開一談入	l- -p	la 1	la 1	1	1	11.08	
+芻	初合三虞平	tʂʰ-	kṣu 1	kṣu 1	1	1	01.01c	
+若	日開三麻平 / 日開三麻上 / 日開三陽入	ɲ- / ɲ- -k	nya 1	nya 1	1	1	05.01	
+菟	定一模平 / 透一模去	d- / tʰ-	thu 1	thu 1	1	1	04.07	
+藍	來開一談平	l- -m	rā(m) 1	ra 1	1	1	06.03	l/r + -m: rā(m) before 摩 — the -m only anticipates m
+藥	以開三陽入	j- -k	ya 1	ya 1	1	1	G.023	
+蘭	來開一寒平	l- -n	lan 1	lan 1	1	1	09.02.13	
+裒	並一侯平	b-	pau 1	pau 1	1	1	03.01.09	
+裕	以合三虞去	j-	yū 1	yu 1	1	1	04.10.05	
+試	書開三之去	ɕ-	śī 1	śi 1	1	1	01.38	
+詰	溪開三A真入	kʰ- -t	kīrti 1	kirti 1	1	1	G.053	
+貨	曉合一歌去	x-	khā 1	kha 1	1	1	01.20.02	x (曉): khā in tukhāra (Iranian-style x for kh)
+贍	常開三鹽去	ʑ- -m	jam 1	jam 1	1	1	G.005	
+迷	明開四齊平	m-	me 1	me 1	1	1	G.001	
+逝	常開三祭去	ʑ-	je 1	je 1	1	1	06.01.04	
+遏	影開一寒入	ʔ- -t	ad 1	ad 1	1	1	03.01.12	
+避	並三A支去	b-	vi 1	vi 1	1	1	07.02.02	
+鄰	來開三真平	l- -n	lin 1	lin 1	1	1	08.06.18	
+醫	影開三C之平	ʔ-	e 1	e 1	1	1	03.03.02	
+鐵	透開四先入	tʰ- -t	thi 1	thi 1	1	1	12.15	
+鐸	定開一唐入	d- -k	da 1	da 1	1	1	G.046	
+鑠	書開三陽入	ɕ- -k	śa 1	śa 1	1	1	G.027	
+閻	以開三鹽平	j- -m	ya(m) 1	ya 1	1	1	10.06.02f	y + -m: ya(m) before 摩
+閼	影開一寒入 / 影開二夬去	ʔ- -t / ʔ-	a 1	a 1	1	1	G.055	
+闡	昌開三仙上	tɕʰ- -n	chan 1	chan 1	1	1	G.046	
+霜	生開三陽平	ʂ- -ŋ	ṣā 1	ṣa 1	1	1	04.12	
+鞠	見三C東入 / 溪三C東入 / 羣三C東入	k- -k / kʰ- -k / g- -k	kub 1	kub 1	1	1	05.01	
+鞮	端開四齊平	t-	te 1	te 1	1	1	08.04.01	
+頻	並三A真平	b- -n	viṃ 1	viṃ 1	1	1	G.067	
+馱	定開一歌平 / 定開一歌去	d-	dhā 1	dha 1	1	1	02.04	
+魯	來一模上	l-	ru 1	ru 1	1	1	G.076	
+𢫫	來合一魂入	l- -t	rud 1	rud 1	1	1	G.050	

@@ -8,7 +8,7 @@ inscription rows in `coded/epig_batch*.tsv` (EI = Epigraphia Indica, CII = Corpu
 page), and the post-1953 excavation rows in `coded/iar_batch*.tsv` (IAR = Indian Archaeology – A Review; year and page).
 Gazetteer volumes are counted once, even when two scans exist. The hit numbers (G#) point to `gaz_hits.tsv`.
 
-### 10.01 伊爛拏鉢伐多國 (Hiraṇyaparvata) — Monghyr; secure
+### 10.01 伊爛拏鉢伐多國 (*Iraṇaparvata) — Monghyr; secure
 
 **Identifications.** Mizutani: capital Monghyr (Mudgagiri) (agreed). Vivien (p. 386), Cunningham (pp. 545–6),
 Beal (p. 186), Watters (p. 179, tentative), Majumdar (p. 722) and Dey all give Monghyr. They differ only over the
@@ -23,6 +23,11 @@ Mudgalāśrama and Mudgalagiri, and from the Pāla inscriptions' Mudgagiri (G#26
 at Kashtaharini ghat "is still a Hindu pilgrimage place" (G#270/1584). Bengal 1902 repeats the identification.
 
 **Ji Xianlin et al. (1985).** Ji agrees: Monghyr (p. 779).
+
+**Name.** 伊 is a bare vowel (影), while h is 曉 in 25 of 29 cases, and 拏 is ṇa without -y- (ṇya is 穰), so Hiraṇya- fails
+twice; the characters give Iraṇaparvata, the second of Mizutani's two forms. Cunningham's local Harana-Parvata (ASR
+XV) also fails on the h. The compound is not attested as a place name; medium confidence for the form, with no bearing
+on Monghyr (data/names/).
 
 **Assessment.** Nobody contests the site. The survey's Harana etymology and the gazetteers' local names bear only
 on the name, and Mizutani stands.
@@ -137,6 +142,11 @@ hills", has "at least as good a claim as Rajmahal to represent the capital". He 
 Rajmahal" (G#1). Hooghly 1972 and Howrah 1972 repeat Majumdar's "territory around Rajmahal".
 
 **Ji Xianlin et al. (1985).** Ji agrees: Rajmahal, formerly Kankjol (pp. 789–90).
+
+**Name.** 朱 is c (章), not j, so the formal name fits the Sanskrit Buddhist Kacaṅgalā (Avadānaśataka 78: the town, its
+Kācaṅgalīya grove and the old woman Kacaṅgalā) better than Pali Kajaṅgalā, and the "popular name" 羯蠅揭羅 renders the
+Prakrit Kayaṅgala exactly (j > y). 嗢 and the i of 祇 in the formal name stay unexplained, and Mizutani's kacughira has
+a gh that 祇 cannot show. Medium confidence; the continuity Kajaṅgala > Kankjol is unaffected (data/names/).
 
 **Assessment.** Dey's Kajra lies in the wrong direction from Campā. The Kajeri of Vivien and Beal rests only on a
 name on a map. The survey leaves the choice between Rajmahal and Kankjol open within the same district, and Mizutani
@@ -320,6 +330,11 @@ sound of the name.
 takes for the Sanskrit name of Ayutthaya (p. 804). Ayutthaya was founded only in 1351, so the equation, his as
 Mizutani's, can be one of name only.
 
+**Name.** 鉢 never renders va in the key (-vatī is 伐底, -pati 鉢底), so 墮羅鉢底 gives dvārapati, Mizutani's first form, not
+Dvāravatī. The equation with the Mon kingdom of Dvāravatī rests on the other Chinese forms (杜和鉢底, the Tang histories'
+墮和羅), not on this one: Xuanzang, writing from report, has -pati where the kingdom's name has -vatī. The identification
+is unaffected (data/names/).
+
 **Assessment.** The reading Dvāravatī, the Mon kingdom of Siam, is the best supported. The Tippera guess adds
 nothing. Mizutani's equation with Ayutthaya specifically is a precision issue, not a rival site. Mizutani stands.
 
@@ -384,6 +399,10 @@ other Bengal volumes repeat the identification.
 
 **Ji Xianlin et al. (1985).** Ji agrees: Tamluk. He credits Lal Gupta (JBTS v) with settling it against Fergusson's
 Satgaon (p. 806).
+
+**Name.** 耽摩栗底 renders the Prakrit tāmalitti (Mizutani's first form; Pali tāmalitti, Ptolemy's Tamalites), not the
+Sanskrit tāmralipti: 摩 is a plain ma with no r, and 栗底 is lit-ti with no p. It is one of the vernacular forms Xuanzang
+kept for eastern names. The identification is unaffected (data/names/).
 
 **Assessment.** The gazetteers explain why an inland town could be Xuanzang's seaport, and so strengthen Mizutani.
 
@@ -858,6 +877,11 @@ Penner, on the coastal road between Dhānyakaṭaka and Kāñcī, which suits th
 Cuddapah weaker. He adds the Mahākūṭa pillar inscription (IA 19, p. 7), whose list of Kīrtivarman's conquests (c. 590)
 includes a Colya, as the name behind 珠利耶.
 
+**Name.** 珠利耶 is three syllables, co/cu-li-ya, so Mizutani's culya drops one; the form is Coḷiya, the -iya stem used
+by the Cāḷukyas, Xuanzang's contemporaries in the neighbouring kingdom: Colya/Coliya in Maṅgaleśa's Mahākūṭa pillar
+(reported by Ji) and the Cholika-viṣaya of a grant of Vikramāditya I (EI 10). Sanskrit literature has only Coḍa/Cola.
+Medium confidence; the form does not decide between Nellore and Cuddapah (data/names/).
+
 **Assessment.** Bearing and inscriptions agree on a Telugu Coḷa country in Cuddapah and S Kurnool, with Smith,
 Majumdar and in part Cunningham. The plates postdate Xuanzang by over a century, and none names Chuliye or a capital.
 Ji's Nellore rests on the road and the distances: it lies due S of Dharanikota, which suits the Life's "S" better than
@@ -1159,7 +1183,7 @@ of the same weight as Mizutani's guess. Neither rests on remains, and confidence
 reached "three days NW from Mālava" makes Aṭali a country known by report, which lowers the weight of any placement
 from its bearing.
 
-### 11.07 契吒國 (Kiṭa) — Cutch (majority) or Kaira
+### 11.07 契吒國 (Kheṭa) — Kaira (Kheda) on name and distance, or Cutch (majority)
 
 **Identifications.** Mizutani: undecided. He doubts Cutch (disputed). Julien, Vivien (p. 404), Watters (p. 245,
 tentative) and Beal (p. 266): Cutch. Cunningham (p. 564) and Dey: Kaira (Kheda), reading 1300 li. Fergusson: near
@@ -1171,8 +1195,19 @@ Cambay.
 **Ji Xianlin et al. (1985).** Ji agrees: undecided (pp. 909–10). He rejects Cunningham's Kaira, which needs 1300 li,
 and doubts the majority's Cutch, marshy and without historical finds.
 
-**Assessment.** The gazetteers only repeat. Cutch is the majority view, but Cunningham's Kaira requires an emended
-distance, and Mizutani's doubts are reasonable. Undecided.
+**Name.** 契 is kh (溪) with e (齊) and 吒 is ṭ, so the characters give khe-ṭa: Kaccha/Cutch fails on both (契 is kh+e, 吒
+is ṭ, not cch), and Mizutani's *kaṭṭa on the vowel and the aspirate. Kheṭaka is the Maitraka-period town and district
+(Kheṭaka-āhāra) of the Valabhī grants in CII 3, named with Ānandapura (11.09), and Daṇḍin's Daśakumāracarita has a
+Kheṭakapura reached from Valabhī; it survives as Kheda (Kaira). Medium confidence: a two-character name, but kh+e+ṭ is
+specific (data/names/).
+
+**Assessment.** The gazetteers only repeat. The name now favours Kaira: the characters give Kheṭa(ka), the Maitraka
+town that survives as Kheda, and exclude Cutch. The distance, so far the objection to Kaira, depends on where Mālava
+lay: Cunningham needed 1,300 li because he put Mālava at Dhār, but with this study's Mālava in central Gujarat SE of
+the Mahī (11.05), the "three days" NW of all three texts reaches Kheda without emendation (c. 75 km NW of Baroda),
+while Cutch lies some 375 km to the W; a dependency "with the same customs" as Mālava also suits a neighbour. That
+Mālava is itself low-confidence, and the onward bearing to Valabhī (N, 1,000+ li) fits neither candidate. Kaira is the
+better-supported candidate and Cutch the alternative; low confidence, since nothing on the ground is known.
 
 ### 11.09 阿難陀補羅國 (Ānandapura) — Vadnagar; the city's own praśasti names it Ānandapura
 
@@ -1366,7 +1401,7 @@ be "A-lo-lo". He puts the capital on the right bank between Pano Akil and Kandhk
 **Assessment.** Branfill's Vijnot gives a closer sound for Pi-chen-po-pu-lo, but these sources offer no evidence
 beyond the name. Alor, the historical capital of Upper Sindh, stands.
 
-### 11.16 茂羅三部盧國 (Mūlasthānapura) — Multan
+### 11.16 茂羅三部盧國 (*Mūlasāmbapura) — Multan
 
 **Identifications.** Mizutani: Multan (agreed). He notes that the direction is NE, not E. Cunningham (pp. 265, 268),
 Vivien (p. 410), Beal (p. 274), Dey and Smith: Multan. Watters (p. 253) calls Mūlasthānapura "an impossible
@@ -1384,8 +1419,17 @@ image and 30-li circuit (G#1170/1173) echo the survey.
 
 **Ji Xianlin et al. (1985).** Ji agrees: Multan (p. 932).
 
-**Assessment.** The sun temple is diagnostic, and the circuit fits, though it was measured on later walls. The
-objection from bearing is real but weaker. Mizutani stands.
+**Name.** 三 is sa with a nasal coda before the labial 部, which gives sāmb-; Mūlasthānapura cannot be read from 三部 (no
+t or th, and a nasal coda) and has six syllables to the transcription's five. The characters fit *Mūlasāmbapura: Mūla-
+(the Mūlasthāna sun) with Sāmbapura, the sun-city Sāmba founded on the Candrabhāgā in the Bhaviṣyapurāṇa, which
+al-Bīrūnī lists among Multan's names (via Cunningham), with -pura reduced to -ūr(u) in the vernacular (部盧). The
+compound is not attested, so medium confidence; but it answers Watters' "impossible restoration" and ties the name to
+the sun image Xuanzang describes (data/names/).
+
+**Assessment.** The sun temple is diagnostic, and the circuit fits, though it was measured on later walls. The name
+now fits too: Watters was right that the characters cannot give Mūlasthānapura, but they give *Mūlasāmbapura, after
+Sāmba's sun-city, one of Multan's names in al-Bīrūnī. The objection from bearing is real but weaker. Mizutani is
+strengthened.
 
 ### 11.17 鉢伐多國 (Parvata) — Harappa; Shorkot abandoned by its proposer
 
@@ -1428,7 +1472,7 @@ and Sialkot c. 380 km from Multan, about twice the 700 li. Mizutani's Harappa st
 recorded as an alternative, low confidence (later work, not in these sources, assigns Clark's seal to the Indus
 civilization).
 
-### 11.18 阿點婆翅羅國 (Atyanabakela) — lower Sindh/Cutch; capital Karachi, Banbhore (Debal) or Kotesar
+### 11.18 阿點婆翅羅國 (*Atembaśila or *Atembakila) — lower Sindh/Cutch; capital Karachi, Banbhore (Debal) or Kotesar
 
 **Identifications.** Mizutani: lower Sind, capital Karachi (agreed). Vivien (p. 411) and Lassen: Karachi. Cunningham
 (pp. 346–8) and Dey: Cutch, capital Koṭeśvara on the Kori mouth. Majumdar (p. 696): Lower Sindh, not Cutch, since the
@@ -1476,6 +1520,12 @@ Cutch/Koṭeśvara on the transcription (p. 148).
 
 **Ji Xianlin et al. (1985).** Ji agrees: lower Sind at the Indus mouth, the Audumbara country, capital 朅䳢濕伐羅 =
 Kaccheśvara = Karachi, following Lassen's restoration (pp. 935–6).
+
+**Name.** No published restoration fits the five characters: 點 is t with an -m coda before the labial, 婆 b/v/bh, and 翅
+ś (書) or, in Buddhist usage, ki/ke (倶翅羅 kokila), so the form is *Atembaśila or *Atembakila. Audumbara (Cunningham,
+Lassen, Ji) has the wrong vowels and no syllable for 翅, Beal's Atyanabakela and Julien's Adhyavakila do not fit
+either, and the Chachnāma's Armābel does not match, as Mirchandani admits. Nothing is attested; low confidence, and
+the name does not help choose among the sites (data/names/).
 
 **Assessment.** These sources split between Karachi or the delta (Debal/Banbhore) and Koṭeśvara in Kutch. 朅 (*khjat)
 suits Kacch- better than Koṭi-. A great Śiva shrine at the Indus mouth served by ash-smearers fits this country's
@@ -1753,6 +1803,11 @@ Gedrosia, Arachosia, A-p'o-kien, Fa-la-na and Sind, and the horse- and sheep-bre
 
 **Ji Xianlin et al. (1985).** Ji leaves the country open, as one known by report (p. 950): Reinaud's and Elliot's
 Kykānān of the Arab historians (Kykan, at Chal) and Stein's Waziristan are "only possibilities".
+
+**Name.** 稽 is ke (見 + 齊) and 疆 ka(ṅ), so 稽疆那 has three syllables, *Kekaṅna or *Kekāṇa (Mizutani's MC note *kekanna).
+His Sanskrit kokaṅkaṇa (Kūrmavibhāga) has four syllables and o for e, and the key cannot accommodate it: unresolved.
+The Arab Kīkān/Qīqān fits the characters better, but Stein's Waziristan and the Kalat placements both rest on that
+name, so it does not choose between them (data/names/).
 
 **Assessment.** Cunningham's Pishin rested on the Arab Kīkān. Stein places that Qīqān in Waziristan, and his field tour
 fits the description, as Bannu (11.23) does. Most others who use the Arab name put it in or near the Brāhūī highland of

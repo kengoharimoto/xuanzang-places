@@ -32,6 +32,9 @@ wide.
 **Ji Xianlin et al. (1985).** Ji agrees on the Oxus, but says that strictly 縛芻 is the Vakhsh and should be
 distinguished from the Amu Darya formed by the Panj and the Vakhsh (p. 42). Xuanzang's usage is wider: the Pamir
 lake's western stream joins the 縛芻 at Wakhan (12.17.02a), i.e. on the Panj.
+**Name.** Of Mizutani's forms (Ind. cakṣu, sucakṣu, vakṣu), only vakṣu fits: 縛 is v-, and 芻 is kṣu (初, as kṣ always
+is). The Purāṇic cakṣu is therefore not what Xuanzang wrote; he follows the vakṣu/waxšu form, which Sanskrit has as
+vaṅkṣu (Raghuvaṃśa 4, vaṅkṣutīra). The form is secure, and the identification is unaffected (data/names/).
 **Assessment.** Secure.
 
 ### 01.05 阿耆尼國 (Argi) — the Karashahr oasis
@@ -206,6 +209,9 @@ Vivien (p. 285), Beal (p. 37), Watters (p. 105), Dey: Tokharistan of the Arab ge
 **Evidence.** Name continuous (Tochari, Tukhāra). Xuanzang gives its bounds himself.
 **Ji Xianlin et al. (1985).** Ji agrees: Tukhāra under the Western Turkish yabghu, in which Xuanzang describes 29
 states (p. 102).
+**Name.** 貨 is 曉 (x/kh), not ṣ, so of Mizutani's forms Tukhāra fits and the epic Tuṣāra does not; Xuanzang follows the
+Bactrian pronunciation with x, as in his other Iranian names (Indic kh would be 佉). The form is secure, and the
+identification is unaffected (data/names/).
 **Assessment.** The region is secure; its exact extent varies by authority. Mizutani stands.
 
 ### 01.21 呾蜜國 (Tarmidh) — Termez; hearsay

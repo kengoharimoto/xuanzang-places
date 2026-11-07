@@ -122,7 +122,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 03.01.13	unlocated						low	none		unlocated
 03.01.14	open	Mizutani	35.25	72.0	district	Head of the Aushiri (Usheri) valley near Darora, Dir	low	none		head of the Aushiri valley near Darora (Deane)
 03.01.16	probable	Mizutani	35.62	73.45	district	Darel valley	medium	none		Darel valley, right bank of the Indus
-03.02	probable	Mizutani	35.3	75.6	country	Baltistan	medium	none		Baltistan
+03.02	open	Mizutani	35.3	75.6	country	Baltistan	low	alternative	yes	Baltistan, or Gilgit (the Palola Ṣāhis' kingdom)
 03.03	secure	Mizutani	33.75	72.82	district	Taxila	high	strengthened		Taxila ruins near Shah-dheri/Sarai-kala
 03.03.01a	probable	Mizutani	33.76	72.84	site	Sirsukh, Taxila	medium	strengthened		Sirsukh (Marshall)
 03.03.02	secure	Mizutani	33.82	72.69	site	Panja Sahib spring, Hasan Abdal	high	none		Baba Wali (Panja Sahib) spring, Hasan Abdal
@@ -162,7 +162,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 04.02.03	open	Mizutani	31.21	75.2	town	Sultanpur (Lodhi), SE of Amritsar	low	none		Sultanpur (Lodhi)
 04.03	secure	Mizutani	31.33	75.58	town	Jalandhar	high	none		Jalandhar (kingdom incl. low hills Ravi–Simla)
 04.04	open	Mizutani	32.13	77.17	town	Kulu; old capital Nagar	low	new-candidate		Kulu; capital Nagar or Jagatsukh (Nast)
-04.04a	probable	Mizutani	32.57	76.97	district	Lahul	medium	none		Lahul
+04.04a	probable	Mizutani	32.57	76.97	district	Lahul	medium	strengthened		Lahul
 04.04b	probable	Mizutani	34.16	77.58	country	Ladakh	medium	none		Ladakh
 04.05	open	Mizutani	30.64	76.39	town	Sarhind	low	new-candidate		Sarhind tract; capital perhaps Sanghol (excavated Kushan stupas and 27-cell monastery) rather than Sarhind
 04.06	open	Mizutani	27.45	76.18	town	Bairat (Viratnagar), Rajasthan	medium	weakened		Bairat, the only candidate; Xuanzang's monasteries not found there
@@ -201,7 +201,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 05.05.06	open	Mizutani	26.26	82.07	town	Sultanpur on the Gomati	low	weakened		open: Sultanpur (distance only) or Bihar, tahsil Kunda (vihara name, remains; but c. 30 miles from Kosam and claimed for Hayamukha)
 05.05.x1	unlocated									Cunningham: chamber in the Tikri mound near Garauli and Gopsahsa, SE of the Kosam fort (two rooms measured, wall of a lower storey)
 05.05.x2	text	text	25.3271	81.3757	from the text	placed from the text: 城西南八九里 (from 05.05)				Cunningham, Führer: the cave in Pabhosa (Prabhāsa) hill, c. 3 miles NW of Kosam (local nāga legend; 2nd–1st c. BC inscriptions); both note the bearing is NW, not SW
-05.06	text	text	26.6361	82.07	from the text	placed from the text: 北 170-180 from 05.05.06	low	none		unidentified; Ajodhya (Saketa) the only argued candidate
+05.06	text	text	26.6361	82.07	from the text	placed from the text: 北 170-180 from 05.05.06	low	none		unidentified; Ajodhya (Saketa) the only argued candidate, without the Viśākhā name link
 06.01	secure	Mizutani	27.51	82.04	site	Sahet-Mahet (Sravasti ruins), Uttar Pradesh	high	strengthened		Sahet-Mahet
 06.01.04	text	text	27.4982	82.04	from the text	placed from the text: 城南五六里 (from 06.01)	high	strengthened		Sahet (Saheth), the excavated monastery SW of Mahet
 06.01.13	text	text	27.5035	82.034	from the text	placed from the text: 伽藍西北三四里 (from 06.01.04)	low	alternative		Rajgarh Gulariya grove, c. 2/3 mile NW of the Jetavana (Cunningham), tentative
@@ -402,7 +402,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 11.05	open	study	22.75	72.68	district	central Gujarat SE of the Mahī	low	alternative		central Gujarat SE of the Mahi (Malavaka-ahara of the Maitrakas); capital undecided
 11.05.03	text	text	22.7804	72.647	from the text	placed from the text: 大城西北二十餘里 (from 11.05)	low	none		unidentified
 11.06	open	Mizutani	22.6	70.3	district	N coast of the Kathiawar peninsula	low	alternative	yes	open: Vadali (Idar), Cunningham's Vadari/Eder, or Kathiawar
-11.07	unlocated						low	none		undecided (Cutch majority, Kaira)
+11.07	unlocated						low	alternative		Kaira (Kheda); Cutch the alternative
 11.08	secure	Mizutani	21.87	71.88	town	Vala (Valabhi), near Bhavnagar	high	strengthened		Vala (Valabhī), near Bhavnagar
 11.09	secure	Mizutani	23.78	72.64	town	Vadnagar	high	strengthened		Vadnagar
 11.10	secure	Mizutani	21.52	70.46	town	Junagadh	high	strengthened		S Kathiawar, capital Junagadh (Girinagara)
@@ -412,7 +412,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 11.13	text	text	24.6909	77.4526	from the text	placed from the text: 東北 1000+ from 11.12	medium	strengthened		Bundelkhand (Jejakabhukti); capital Khajuraho or Eran
 11.14	probable	Mizutani	26.22	78.18	town	Gwalior	medium	none		Gwalior
 11.15	probable	Mizutani	27.6	68.97	town	Aror (Alor), near Sukkur	medium	none		capital Alor
-11.16	secure	Mizutani	30.2	71.47	town	Multan	high	none		Multan
+11.16	secure	Mizutani	30.2	71.47	town	Multan	high	strengthened		Multan
 11.17	probable	Mizutani	30.63	72.86	site	Harappa	medium	none		Harappa
 11.18	open	Mizutani	24.86	67.01	town	Karachi	low	none		lower Sindh; capital Karachi, Banbhore (Debal) or Kotesar
 11.19	open	Mizutani	28.4	66.5	town	Lakorian (Lakura), between Khuzdar and Kalat	low	alternative	yes	Makran; capital Sthūleśvara by name, site open: western (Persian) Makran by the Xiyu ji's figures (Kasarkand a candidate), nearer Las Bela by the Life's; Lākoriān weakened

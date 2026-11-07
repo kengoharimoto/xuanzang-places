@@ -1,0 +1,36 @@
+id	name_study	verdict	confidence	basis	source
+01.01c	vakṣu	key	medium	Mizutani lists this form among his alternatives; the key selects it: 縛 is v-	data/names/key_notes.md §8
+01.20.02	Tukhāra	key	medium	Mizutani lists this form among his alternatives; the key selects it: 貨 is kh, not ṣ	data/names/key_notes.md §8
+02.02	Lampa	key	medium	Xuanzang's transcription: only lampa is transcribed	data/names/key_notes.md §8
+02.04.14	*Bharuṣa / *Baluṣa	doubtful	low	跋=b/bh ok (並 + -t; key bha 7, ba 1, never va: v is 伐/婆/縛/毘) but v- not attested for 跋; 虜=ru/lu ok (來 模, not in key; u/o); 沙=ṣa ok (生, ṣ 5/5)	data/names/test_nw_a.tsv
+02.04.15	*dantalaka (unattested)	doubtful	low	彈=dan ok (定 d dental + -n; key dha(n) 2); 多=ta ok (端 t, dental); 落=la(k) MISMATCH for -lo- (鐸 rhyme -ak gives a; o is written with 模/虞 characters, e.g. 盧 ro); 迦=ka ok	data/names/test_nw_a.tsv
+02.04.19	Sālātura	better	medium	Bhāmaha, Kāvyālaṅkāra 6.62 (sālāturīya = Pāṇini)	data/names/test_nw_a.tsv
+03.01	Uḍḍiyāna	key	medium	Mizutani lists this form among his alternatives; the key selects it: 仗 is retroflex	data/names/key_notes.md §8
+03.01.16	*Darela (= modern Darel)	alternative	medium	modern name Darel (Ji 1985, citing Ji's paper on the transcription of ḍ)	data/names/test_nw_a.tsv
+03.02	*Palola	alternative	medium	Paṭola-/Palola-ṣāhi, dynastic name of the kings of Gilgit: Hatun rock inscription (EI 30 no. 38) and Gilgit manuscript colophons (e.g. Mahāsannipātaratnaketudhāraṇī: śrīpaṭolaṣāhi)	data/names/test_nw_a.tsv
+03.05	Uraśā	key	medium	Xuanzang's transcription: 尸 is ś	data/names/key_notes.md §8
+04.02.03	Tamasāvana	better	high	tamasāvana: Mūlasarvāstivāda Vinaya, Bhaiṣajyavastu (MSV I 3, the Buddha's northern journey, with Rohitaka and Apalāla); Divyāvadāna 256.5 (beside Kāśmīrapura); Kulakalpa	data/names/test_nw_a.tsv
+04.04a	Lāhula	better	medium	Abhinavagupta, Tantrāloka 15.90: kulūtā lāhulā tathā (an upakṣetra named beside Kulūta)	data/names/test_nw_a.tsv
+04.08.04	*Kohuṇḍa / *Kuhuṇḍa (unattested)	doubtful	low	倶=ku/ko ok (見 k; g would be 羣); 昏=huṇ (曉 h + -n; XZ marks 去聲) — MISMATCH for kh (溪 佉), for m of Gominda, v of Govinda, k of Gokaṇṭha; 荼=ḍa ok (retroflex)	data/names/test_nw_a.tsv
+04.12	Goviṣāṇa	key	medium	Mizutani lists this form among his alternatives; the key selects it: 霜 is ṣ	data/names/key_notes.md §8
+04.14	*Vilaṣaṇa	alternative	low	毘=vi/bhi ok; 羅=ra/la ok; 刪=ṣaṇ ok for ṣ (生 ʂ-, ṣ 13/13), MISMATCH for s of Virasana and ś of Julien's Viraśāna; 拏=ṇa ok (孃, ṇa 7/7): -ṇa not -na	data/names/test_nw_a.tsv
+05.02	Ayodhā	key	medium	Mizutani lists this form among his alternatives; the key selects it: no character for -y-	data/names/key_notes.md §8
+05.06	*Viṣaka (unattested)	doubtful	low	鞞=vi/be ok (幫/並; not in key); 索=ṣa(k) per XZ's own 山格反 (生 ʂ-): MISMATCH for ś of Viśākha (書) and for s (索 = s without the fanqie, in sahā, upāsaka); 迦=ka MISMATCH for kh (aspirates are marked: 佉)	data/names/test_nw_a.tsv
+06.01.14	Toyikā	better	high	Divyāvadāna 47-50 and 301-306 (Toyikāmahāvadāna); MSV Bhaiṣajyavastu (MSV I 74); MSV Cīvaravastu (Prasenajit of Kosala holds the Toyikāmaha): at Toyikā lies Kāśyapa's unbroken skeleton	data/names/test_nw_a.tsv
+06.02.05	Krakutsunda	better	medium	Mūlasarvāstivāda Vinaya, Śayanāsanavastu; Prātimokṣasūtra (var. krakutsanda); Mañjuśrīmūlakalpa (krakutsanda)	data/names/test_nw_a.tsv
+07.02.03	Mahāsāra	better	medium	Jain inscriptions in the Pārśvanātha temple at Masar (7 records, c. 15th c.), reported by Cunningham ASR III pp. 64-72	data/names/test_nw_b.tsv
+07.03.12	Licchava	key	medium	Xuanzang's transcription: 婆 is never vi	data/names/key_notes.md §8
+07.04.01a	*Caṃśuṇa / *Cañśuṇa	doubtful	low	占=cam (章 c, -m coda) not in key: -m coda before ś is irregular (key §4: -n before ś, -m before labials) — no character for -ri-; 戍=śu ok (書 ś); 拏=ṇa ok (retroflex 7/7)	data/names/test_nw_b.tsv
+08.04.01	Telāḍhaka	key	medium	Mizutani lists this form among his alternatives; the key selects it: 擇 is retroflex	data/names/key_notes.md §8
+09.03.10	*Kālapiṇāka	better	low	迦=ka ok; 羅=la/ra ok; 臂=pi ok; 拏=ṇa MISMATCH with -nā- (key: 拏 is ṇ 7/7, retroflex); 迦=ka ok	data/names/test_nw_b.tsv
+09.03.15b	*Ro(h)iṇīla (Yuan/Ming 落殷膩羅)	alternative	low	no Sanskrit attestation; Akbar-period mahal 'Rowhenny' of Sarkār Monghyr (Ain-i-Akbari, Gladwin) at the site, and Rennell's 'Roynallah'	data/names/test_nw_b.tsv
+10.01	*Iraṇaparvata	better	medium	伊=i ok (影: no h; key h = 曉 25/29) — MISMATCH for hiraṇya-; 爛=lan/ran (-n coda echo before ṇ) ok; 拏=ṇa ok, but no -y- (key: ṇya = 穰) — MISMATCH for -ṇya; 鉢=par ok (stock parvata, -t coda = r); 伐=va ok;	data/names/test_nw_b.tsv
+10.03	Kacaṅgalā (Skt.; Pali Kajaṅgalā; vernacular Kayaṅgala = 羯蠅揭羅)	better	medium	Avadānaśataka 78 (Kacaṅgalā, the town, its Kācaṅgalīya grove and the old woman Kacaṅgalā)	data/names/test_nw_b.tsv
+10.04.02	*Bhāśiva / *Bhāśibha	better	low	modern village name Bhāsu Bihār (Bengali s = [ś]) beside the ruins	data/names/test_nw_b.tsv
+10.06.02c	Dvārapati	key	medium	Mizutani lists this form among his alternatives; the key selects it: 鉢 never renders va	data/names/key_notes.md §8
+10.07	Tāmalitti	key	medium	Mizutani lists this form among his alternatives; the key selects it: Pkt.; Xuanzang writes the vernacular form	data/names/key_notes.md §8
+10.15	Coḷiya	better	medium	Ji (1985): Colya/Coliya in Maṅgaleśa's Mahākūṭa pillar (602, IA 19, not in these files); cf. Cholika-viṣaya in a grant of Vikramāditya I (EI 10)	data/names/test_nw_b.tsv
+11.07	Kheṭa(ka)	better	medium	Kheṭaka in the Maitraka grants of Valabhī found at Alīṇā (Kaira dist.); Kheṭakapura in Daṇḍin's Daśakumāracarita (story set in Valabhī)	data/names/test_nw_b.tsv
+11.12	Ujjayana	key	medium	Mizutani lists this form among his alternatives; the key selects it: 那 gives -na	data/names/key_notes.md §8
+11.16	*Mūlasāmbapura (vernacular *Mūlasāmbūr)	better	medium	Sāmbapura, the sun-city founded by Sāmba on the Candrabhāgā (Bhaviṣyapurāṇa, adhyāya 140 of this e-text and elsewhere); al-Bīrūnī lists Sāmbapura among Multan's names (via Cunningham AGI p. 266)	data/names/test_nw_b.tsv
+11.18	*Atemba-śila / *Atemba-kila	doubtful	low	阿=a ok; 點=tem/tim (端 t, -m before labial; not in key); 婆=ba/va/bha ok; 翅=śi (書 ś, 施智; not in key; Buddhist transcription also uses it for ki/ke, cf. 倶翅羅 kokila) — MISMATCH for Mizutani's s; 羅=la/ra ok	data/names/test_nw_b.tsv

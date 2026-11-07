@@ -56,7 +56,7 @@ for r in rd("data/places.tsv"):
     except (KeyError, ValueError): lat = lon = None
     out.append({
         "id": r["id"], "juan": int(r["juan"]) if r["juan"].isdigit() else 0, "level": r["level"], "parent": r["parent"],
-        "zh": r["name_zh"], "ja": r["name_ja"], "orig": r["original_name"], "visit": r["visit"],
+        "zh": r["name_zh"], "ja": r["name_ja"], "orig": r["original_name"], "nst": r.get("name_study", ""), "nstb": r.get("name_study_basis", ""), "visit": r["visit"],
         "mz": r["mz_identification"], "mzOther": r["mz_other_views"], "mzstatus": r["mz_status"],
         "status": sv.get("cls", "unlocated"), "sid": sv.get("identification", ""), "sfrom": sv.get("point_from", ""),
         "slabel": sv.get("label", ""), "sprec": sv.get("precision", ""), "sopen": sv.get("open_alternative", ""),

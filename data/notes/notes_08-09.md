@@ -128,7 +128,7 @@ past Buddhas. The survey is silent too.
 **Assessment.** Unidentified. No source here offers a candidate, and a distance of 200 li with no other landmark
 leaves nothing to test.
 
-### 08.04.01 鞮羅擇迦伽藍 (Teladhaka) — Tillara, named in an inscription found there
+### 08.04.01 鞮羅擇迦伽藍 (Telāḍhaka) — Tillara, named in an inscription found there
 
 **Identifications.** Mizutani: Tillāra, 21 miles W of Nālandā; the place-name derives from the monastery's, and
 inscriptions confirm it (agreed). Cunningham (1871, p. 523), Beal (p. 102) and Dey agree on Tillara. Majumdar
@@ -148,6 +148,11 @@ with its graves, and a mosque platform built of Buddhist pillars. It follows the
 
 **Ji Xianlin et al. (1985).** Ji agrees: Tillara, 21 miles W of Nālandā, the name Teladhaka confirmed by inscriptions
 found there, after Cunningham (p. 651).
+
+**Name.** 擇 is a retroflex (澄), so 鞮羅擇迦 gives telāḍhaka, Mizutani's bracketed form, not teladhaka with a dental; the
+Life's 低羅磔迦 also has a retroflex. The inscriptions are read Telâdaka (Beglar, ASR VIII) and Tailadhaka (Patna 1907) in
+transcriptions that do not mark retroflexes, so they do not decide the point. The identification is unaffected
+(data/names/).
 
 **Assessment.** This is one of the few places in Magadha named on the spot by an inscription. Mizutani's
 identification is confirmed, and the survey is the source of his "confirmed by inscriptions".
@@ -887,7 +892,7 @@ Cunningham's mound and adds no evidence.
 **Assessment.** The survey shows a Buddhist site in the right place, but nothing ties it to Maudgalyāyana's
 birthplace. Mizutani's reserve is reasonable. No change.
 
-### 09.03.10 迦羅臂拏迦邑 (Kālapināka) — = Faxian's Nāla; no site
+### 09.03.10 迦羅臂拏迦邑 (*Kālapiṇāka) — = Faxian's Nāla; no site
 
 **Identifications.** Mizutani: probably another name for Faxian's 那羅聚落 (Nāla), Śāriputra's birthplace
 (uncertain). Watters (p. 171) and Beal (p. lviii) agree. Cunningham (1871, p. 538; ASR I, pp. 28–29) and Dey place it
@@ -898,6 +903,11 @@ about 4 miles SE of Nālandā without naming a village. Vivien (p. 384) separate
 **Ji Xianlin et al. (1985).** Ji accepts the equation with Faxian's Nāla and names the site as Sarichak "according to
 research" (p. 765), citing no one; he adds Hirananda Sastri's point that the *Mahāvastu*'s Nālandāgrāmaka, Śāriputra's
 birthplace, is another name of Nālandā (p. 766). Sarichak appears nowhere in the survey files used here.
+
+**Name.** 拏 is retroflex ṇ in every certain case (7 of 7), so Mizutani's Kālapināka should be *Kālapiṇāka; the other
+characters fit. No village of this or a similar name is attested; Śāriputra's village is Nāladagrāmaka in the MSV
+Pravrajyāvastu and Nālandagrāmaka in the Mahāvastu, which supports the equation with Faxian's 那羅 but is a different
+name. Low confidence (data/names/).
 
 **Assessment.** The equation with Nāla has wide support, but no site has been found, in the survey or elsewhere.
 
@@ -1024,8 +1034,17 @@ miles. This is the ASR XV case.
 read 殷 for 般 (hence Julien's Rohinila), while Watters followed the Song 般 (Lavanila, Lavananila). He reports
 Cunningham's later Rajjāna (ASR XV), the note's site, but calls the question hard to decide.
 
+**Name.** The Song reading 般 gives *La(k)paṇila, which nothing attests (Watters' Lavananila needs an extra syllable);
+the Yuan and Ming reading 殷 gives *Ro-iṇi-la, close to Julien's Rohiṇīla with the h unwritten (殷 is 影, not 曉), a
+vernacular form. A Ro(h)iṇī-like name is recorded at the site, the mahal "Rowhenny" of Akbar's Ain, but Cunningham
+(ASR XV) took it for a misreading of Rajaoni, and in Persian script the two differ by little; Rennell's Roynallah,
+Vivien's village, is not shown to be the same place. Low confidence: the 殷 reading may tie the name to Rajaona, but
+not securely (data/names/).
+
 **Assessment.** Only Rajaona has features matching the text: the lake to the N, Buddhist remains and the onward
-distance. Cunningham's earlier proposals and the absence of an inscription keep the confidence at medium.
+distance. The name may point there too, if the Ain's Rowhenny is a genuine Ro(h)iṇī- name rather than Cunningham's
+misreading of Rajaoni; then Vivien's Rohinila and Cunningham's Rajjana would be one place, not rivals. Cunningham's
+earlier proposals and the absence of an inscription keep the confidence at medium.
 
 ## New places (rows coded `xz_id = new` in juan 8–9)
 

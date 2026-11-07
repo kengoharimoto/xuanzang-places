@@ -23,6 +23,8 @@ passing. Route test: Kapiśa to Laghman 95 km for "600+ li E" (predicted 143 km)
 Xuanzang's (I, pp. 34, 36).
 **Ji Xianlin et al. (1985).** Ji agrees: Laghman, on the N bank of the Kabul river between the Alingar and the Kunar
 (p. 219).
+**Name.** 濫波 renders only lampa (濫 lam, with -m before the labial; 波 pa): Xuanzang drops the suffix of lampāka, as he
+does in kalanda(-ka) and kapittha(-ka). The Sanskrit form and the identification are unaffected (data/names/).
 **Assessment.** Name, position between Kapiśa and Nagarahāra, and route agree; there is no site evidence. Mizutani
 stands with medium confidence.
 
@@ -73,7 +75,7 @@ place", reached from the Khyber by Takkal (I, p. 44).
 **Assessment.** It depends on the town at Shahbaz Garhi (02.04.14, which stands) and on Foucher alone; nothing in
 these files describes the remains. Mizutani stands, with low confidence.
 
-### 02.04.19 娑羅覩邏邑 (śalātura) — Lahor near Hund; name and distance fit, bearing disputed in the sources
+### 02.04.19 娑羅覩邏邑 (Sālātura) — Lahor near Hund; name and distance fit, bearing disputed in the sources
 
 **Identifications.** Mizutani: Lahor (Lavor) near Ohind, after Cunningham (agreed). Cunningham (p. 67): Lahor, 4
 miles NE of Ohind; Beal (p. 114) and Dey: NW of Ohind; Vivien (p. 312): c. 20 li NE, no site; Watters: none.
@@ -82,6 +84,10 @@ miles NE of Ohind; Beal (p. 114) and Dey: NW of Ohind; Vivien (p. 312): c. 20 li
 used here: 6.8 km at 289° from Hund for "20+ li NW" (predicted 4.8 km, 26° off), so the site lies W–NW, as the
 text and Beal have it.
 **Ji Xianlin et al. (1985).** Ji agrees: Lahor (Lavor) near Ohind, after Cunningham (p. 263).
+**Name.** 娑 is s (心), never ś, so Mizutani's śalātura, the grammarians' form (Kāśikā on Pāṇini 4.3.94), does not
+match; 羅覩邏 fits la-tu-ra. Bhāmaha's sālāturīya, "the one from Sālātura" (= Pāṇini; Kāvyālaṅkāra 6.62), has the dental
+s that 娑 requires: Xuanzang heard the local s-form, as the Gāndhārī merger of the sibilants would lead one to expect.
+Medium confidence; the identification is unaffected (data/names/).
 **Assessment.** Name, coins and distance agree; there is no inscription or monument. Mizutani stands (medium).
 
 ### 03.01 烏仗那國 (uḍḍiyāna) — the Swat valley; its sites are confirmed on the ground
@@ -92,6 +98,9 @@ text and Beal have it.
 Beal. Sites within it are confirmed on the ground: the inscribed footprint stone at Tirat (03.01.04) and Mount Ilam
 (03.01.05). Route test: Hund to Swat 99 km for "600+ li N" (predicted 143 km), 2° off.
 **Ji Xianlin et al. (1985).** Ji agrees: the Swat country, taking in Panjkora, Bajaur, Swat and Buner (p. 271).
+**Name.** 仗 is a retroflex (澄), so the characters give uḍḍiyāna/oḍḍiyāna, the first of Mizutani's forms, and exclude
+udyāna "garden", his etymology; 烏荼 oḍḍa (10.09) has the same vernacular ḍḍ. Oḍḍiyāna is the form of the tantric texts
+(e.g. the Sādhanamālā). Secure; the identification is unaffected (data/names/).
 **Assessment.** Agreement, the river name and inscribed site evidence inside the country. Secure.
 
 ### 03.01.01b 蘇婆伐窣堵河 (subhavastu) — the Swat river; name continuity
@@ -189,6 +198,10 @@ ii.435) he puts the Dards' old capital Daratpurī at Gurez, and cites Faxian's �
 Ghorband – Manglaur at about 140 miles on the survey maps, to be increased by at least a third for the ground, and
 finds the 1000 li "agrees well". On the map length alone the leg gives 0.23 km per li, the normal value; the route
 test's shortfall comes from the straight line (route/README.md §10, Test 4). Faxian took 15 days over it.
+**Name.** 達麗 fits da(r)-re, but 羅 is la/ra and gives the -da of Darada only if ḍ was heard as l, as Ji argues (羅
+renders ḍḍ once, in Hiḍḍa). Read as they stand, the characters give *Darela, the modern valley name Darel (Faxian's 陀歷
+also has l); no Sanskrit *Darela is attested, and the Sanskrit sources have only Darad/Darada (Kalhaṇa, Jonarāja).
+Either reading leads to the same valley; medium confidence (data/names/).
 **Assessment.** Name and agreement, with the route bearing exact and the distance normal along the Indus road; no
 site evidence. Mizutani stands (medium).
 
@@ -200,7 +213,19 @@ site evidence. Mizutani stands (medium).
 (Klaproth) or Baltistan (Cunningham). The text puts Bolor 500 li E of Darel, which rules out Chitral to the W.
 Route test: 198 km for "500+ li E" (predicted 120 km), 10° off. Hearsay; the Life names it only on the return.
 **Ji Xianlin et al. (1985).** Ji agrees, following Mizutani: Baltistan, probably known by report only (pp. 299–300).
-**Assessment.** Agreement and bearing; no site evidence. Mizutani stands (medium).
+**Name.** 鉢 is p (幫), not b, so Mizutani's balūra/balōra does not fit; 露 is lo/lu and 羅 la/ra. The characters give
+*Palola, the dynastic name of the Ṣāhis of Gilgit: printed Paṭola in the Hatun rock inscription (EI 30 no. 38) and in
+a Gilgit manuscript colophon (śrīpaṭolaṣāhi, Mahāsannipātaratnaketudhāraṇī), and reported to have been read Palola by
+von Hinüber (2004), who linked it with Bolor; Xuanzang's 露 (l) agrees with that reading. Medium confidence for the
+form, with the von Hinüber reading as reported, not checked here; what it means for the site is weighed in the
+assessment (data/names/).
+**Assessment.** Agreement and bearing; no site evidence. The name (*Palola) is that of the Palola Ṣāhis, whose
+7th-century inscriptions and manuscripts come from Gilgit and Hatun, which points to the Gilgit side of their kingdom.
+Ji, however, takes 鉢露羅 for the Tang histories' Great Bolor (大勃律), distinct from Little Bolor in the Gilgit–Yasin
+valleys, and the route does not decide: Skardu lies at the text's bearing but at twice the distance (198 km for 500+
+li), Gilgit at the distance (c. 82 km) but 24° off to the NE. The name identifies the kingdom rather than its seat.
+Baltistan stands, with Gilgit as an alternative; low confidence, since the country is hearsay and the Palola reading
+is reported, not checked here.
 
 ### 03.03.02 醫羅鉢呾羅龍王池 (elāpattra) — the Baba Wali (Panja Sahib) spring at Hasan Abdal
 
@@ -326,8 +351,14 @@ for "140–150 li NE" (predicted 35 km). The best-fitting chain takes Vivien's c
 **Ji Xianlin et al. (1985).** Ji agrees: Cunningham's Sultānpur (Raghunathpura), reading the Life's 50 li with Hori
 against Adachi's 150 li (pp. 369–370). He places it "50 li and more SE of Amritsar", which Sultanpur, c. 55 km away,
 is not.
+**Name.** The characters give Tamasāvana: 蘇 is usually su but also sā in the key, so Mizutani's *tamasu- is not
+needed, and the gloss 闇林 is tamas + vana. The form is attested in the MSV Bhaiṣajyavastu (the Buddha's northern
+journey, with Rohitaka and Apalāla) and the Divyāvadāna (256), which names Tamasāvana beside Kāśmīrapura: the
+Sarvāstivāda tradition to which Xuanzang assigns this monastery. High confidence for the name; neither text fixes a
+site (data/names/).
 **Assessment.** Sultanpur fits the leg to Jalandhar, but neither the 50 li nor the 500 li from Chiniyari. Low;
-Mizutani stands for want of better.
+Mizutani stands for want of better. The monastery's name is now attested (Tamasāvana, in the MSV and the Divyāvadāna),
+but those texts place it only in the north-west, beside Kashmir, and give no site.
 
 ### 04.08.x1 城西北窣堵波 — the Madrasa mound NW of Thanesar (Cunningham)
 

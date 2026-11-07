@@ -177,8 +177,15 @@ Watters (p. 299), Majumdar (p. 684) and Vivien (p. 334): Lahul (Lho-yul).
 **Ji Xianlin et al. (1985).** Ji agrees: Lāhul, the Tibetans' Lho-yul ("southern land"), noting Jäschke's objection
 and that the country was known by report (p. 374).
 
+**Name.** 洛護羅 fits la-hu-la exactly (護 is 匣 for h, as 怙 hu is twice in the key). Lāhula is attested in Abhinavagupta's
+Tantrāloka (15.90, "kulūtā lāhulā tathā"), an Indian list that names it beside Kulūta (04.04), so Xuanzang transcribes
+an Indian name and the Tibetan Lho-yul is not needed; the Nīlamata's Lāhulā is a Kashmir river, a homonym. Medium
+confidence (data/names/).
+
 **Assessment.** The gazetteers repeat Cunningham and add nothing on the linguistic objection Mizutani reports
-(Jäschke: Lāhul is the Indian, not the Tibetan, name).
+(Jäschke: Lāhul is the Indian, not the Tibetan, name). The Tantrāloka's Lāhula beside Kulūta meets the objection:
+Xuanzang transcribes the Indian name, and Lho-yul is not needed. Lahul is strengthened, at medium confidence, since
+the entry is hearsay and the placement rests on direction.
 
 ### 04.04b 秣邏娑國 (Tib. mar-sa) — Ladakh; the gazetteers add nothing
 
@@ -305,6 +312,10 @@ pilgrim's account", reading "west" for "east" and "built of stone" for "cut in t
 **Ji Xianlin et al. (1985).** Ji gives no site; he notes that some take the text's 山伽藍 for Upagupta's Naṭabhaṭa
 monastery (p. 381).
 
+**Name.** Mizutani's original name for this entry, Uruṇḍa (優留曼陀山), belongs to the hill, not to the monastery: 鄔波毱多
+transcribes Upagupta (鄔 u, 波 pa, 毱多 the stock -gupta). The entry's name is Upagupta, secure; the mismatch is one of
+labelling and does not bear on the site (data/names/).
+
 **Assessment.** Each proposal follows from a view of where the city lay, and the survey's own shift shows how
 loose they are. The Katra is named epigraphically for another monastery and Kankali is Jain. Vogel's ground for
 rejecting them, a wrong city site, has since lapsed (the Katra lies within the Dhulkot rampart, 04.07), but no
@@ -371,7 +382,7 @@ place called Asthipur still in Thānesar's W suburb (pp. 390–391).
 the plain circumference. At Asthipur the survey's own excavation found a large building, not a battlefield, and the
 later finds weaken it as the ancient spot.
 
-### 04.08.04 倶昏荼僧伽藍 (*Gokaṇṭha / Govinda monastery) — unknown; Cunningham's Gunana with Karnal 1884's Sita Mai is the only candidate
+### 04.08.04 倶昏荼僧伽藍 (*Kohuṇḍa monastery) — unknown; Cunningham's Gunana with Karnal 1884's Sita Mai is the only candidate
 
 **Identifications.** Mizutani: no site, only rival restorations of the name (unknown). Cunningham (p. 395,
 tentative): probably Gunana, 17 miles SSW of Thanesar. Beal (p. 186) and Watters (p. 315): no site.
@@ -385,8 +396,14 @@ monastery only in passing in its Srughna passage (see the data remarks).
 
 **Ji Xianlin et al. (1985).** Ji leaves the name (Gominda, Gokaṇṭha, Govinda) and the site undecided (p. 392).
 
+**Name.** None of the restorations fits: 倶 is k (g would be 羣), 昏 is h-u-n (曉 h, with Xuanzang's tone mark) and 荼 a
+retroflex ḍa, so the characters give *Kohuṇḍa or *Kuhuṇḍa; Gokaṇṭha, Govinda and Gominda all lose the h of 昏 and need
+other characters for their consonants. Nothing of this form is attested in the Sanskrit library. Cunningham's Gunana
+shares no sound with it; low confidence (data/names/).
+
 **Assessment.** Gunana or Sita Mai is a tentative candidate, resting on Cunningham's reading of the route and a
-surviving monastic site. It is better than nothing but far from secure.
+surviving monastic site. It is better than nothing but far from secure. The name gives Gunana no support (it shares no
+sound with *Kohuṇḍa), so the candidate rests on the route alone.
 
 ### 04.09 窣祿勤那國 (Skt. Srughna) — Sugh near Jagadhri (Ambala district), not Kalsi; a sealing reading "Sugha" names the site
 
@@ -553,7 +570,7 @@ Francke independently narrows the location to Guge and Rudok, which lie within A
 the text's borders. This strengthens Mizutani against Watters. The archaeology is only an analogy of custom, and
 Francke's Brahmapura in the upper Ravi does not match Mizutani's Garhwal.
 
-### 04.12 瞿毘霜那國 (Govisana) — Kashipur (Ujain fort, Bhim-gada mound); excavation shows a long-lived town with a temple of Xuanzang's age, but no Buddhist remains
+### 04.12 瞿毘霜那國 (Goviṣāṇa) — Kashipur (Ujain fort, Bhim-gada mound); excavation shows a long-lived town with a temple of Xuanzang's age, but no Buddhist remains
 
 **Identifications.** Mizutani: ruins 1 mile east of Kashipur (agreed). Cunningham (pp. 409, 412) and Beal: the
 Ujain fort near Kashipur. Majumdar (p. 704) reports Führer: the capital is Vairāṭpattan. Vivien: a compass plot
@@ -579,6 +596,10 @@ and a fill running from PGW to early medieval. The excavators accept the identif
 
 **Ji Xianlin et al. (1985).** Ji agrees: the old fort near Ujain, 1 mile E of Kashipur, after Cunningham, with the
 country taking in Kashipur, Rampur and Pilibhit (pp. 410–411). He prints Kashipur's latitude and longitude transposed.
+
+**Name.** 霜 has the ṣ-initial (生, 13 of 13 for ṣ), so of Mizutani's two forms Goviṣāṇa fits and Govisana does not; 瞿毘
+go-vi and 那 na/ṇa are regular. The form rests on the key alone, not on an attestation of the place name, and the
+identification is unaffected (data/names/).
 
 **Assessment.** Kashipur keeps the stronger measured fit, and the excavation now shows a town occupied from PGW
 times through Xuanzang's century, with a large temple of about his date (he notes deva temples here). Its Buddhist
@@ -615,7 +636,7 @@ Bareilly district, after Cunningham and Hodgson's report of the ruins (p. 413).
 **Assessment.** Name, measured circuit and excavation agree, and nothing counts against them. Mizutani is
 strengthened.
 
-### 04.14 毘羅刪拏國 (*Vilaśana) — Bilsar (Etah), where Cunningham himself moved from Atranji-Khera
+### 04.14 毘羅刪拏國 (*Vilaṣaṇa) — Bilsar (Etah), where Cunningham himself moved from Atranji-Khera
 
 **Identifications.** Mizutani: Bilsar or Bilsad, Etah district (agreed). Majumdar (p. 705): Bilsar; Cunningham
 himself later dropped Atranji-Khera. Cunningham (1871, p. 420) and Beal (p. 201): Atranji-Khera. Vivien (p. 343):
@@ -654,9 +675,16 @@ fits; the route model uses it (route/README.md §9). The passage shown follows C
 (Bilasand), Etah district, and Ji finds the evidence insufficient (p. 415). He does not cite the Kumāragupta pillars
 or Sahni's sealing with the Buddhist creed, which decide the question here.
 
-**Assessment.** The survey abandoned Atranji-Khera on its own evidence. Bilsar has name, size, distance, Gupta
-temple sites for the five deva temples, and now an excavated Buddhist sealing, though no inscription names the
-town and the stupa and monasteries are unlocated. Mizutani's Bilsar is secure.
+**Name.** 刪 is ṣ (生) with an -n coda and 拏 is ṇa (7 of 7), so Mizutani's *Virasana / *Bhiraṣana and Julien's Viraśāna
+break the key on the sibilant or the nasal; the characters give *Vi/Bhi-la/ra-ṣaṇa. Cunningham (ASR XI) records the
+place's name as Bilsanḍ, with a cerebral ḍ (Minhāj's Bilsanda), which keeps the l and a retroflex nasal cluster, so
+*Vilaṣaṇa fits both the characters and the modern name. Not attested in Sanskrit; low confidence for the form, but it
+adds the name to Bilsar's evidence (data/names/).
+
+**Assessment.** The survey abandoned Atranji-Khera on its own evidence. Bilsar has name, size, distance, Gupta temple
+sites for the five deva temples, and now an excavated Buddhist sealing, though no inscription names the town and the
+stupa and monasteries are unlocated. Mizutani's Bilsar is secure. The characters (*Vilaṣaṇa) also fit the local name
+Bilsanḍ.
 
 ### 04.15 劫比他國 (Kapitha / Sāṅkāśya) — Sankisa; measured ramparts, staircase seals and Harṣa's camp at Kapitthikā settle it
 
@@ -806,6 +834,11 @@ Fatehpur (Cunningham ASR XI) here, not Mizutani's Aphui, 29 miles SE of Fatehpur
 **Ji Xianlin et al. (1985).** Ji leaves the site open: he reports St. Martin's and Watters' Oudh, Cunningham's Kakupur
 (reading 60 li for 600) and Führer's Aphui, 29 miles SE of Fatehpur, followed by Smith and Hori, and asks for further
 research (pp. 449–450).
+
+**Name.** No character renders the -y- of Ayodhyā (阿踰陀 a-yo/yu-dha), so Xuanzang heard Ayodhā or Ayudhā, the first of
+Mizutani's forms, not the Sanskrit Ayodhyā. Bajpai's coin from Ayodhya with the legend Ajudhe shows the same form
+without y at Faizabad in the 1st century BC. It does not locate Xuanzang's city, since any Ayodhyā would take this
+form in the vernacular (data/names/).
 
 **Assessment.** The text's crossing of the Ganges to the south, and Ajodhya's lack of Buddhist remains, count
 against Oudh; Cunningham's field reasoning converges on the Fatehpur stretch where Mizutani puts Aphui. But none
@@ -966,12 +999,13 @@ Misrikh.
 **Ji Xianlin et al. (1985).** Ji agrees with Cunningham's Sultānpur on the Gomatī (old Kuśabhavanapura) only roughly:
 Xuanzang did not go there, and the exact site needs research (p. 474).
 
-**Assessment.** Partabgarh's Bihar is evidently the town Cunningham described in ASR XI as Tusaran Bihar and
-proposed for Hayamukha (05.03), so the same remains are claimed for two places. It lies c. 30 miles NW of
-Allahabad, far short of 700 li from Kauśāmbī. Sultanpur keeps the distance but has no remains and a weak name.
-Mizutani is weakened, with no better candidate.
+**Assessment.** Partabgarh's Bihar is evidently the town Cunningham described in ASR XI as Tusaran Bihar and proposed
+for Hayamukha (05.03), so the same remains are claimed for two places. It lies c. 30 miles NW of Allahabad, far short
+of 700 li from Kauśāmbī. Sultanpur keeps the distance but has no remains and a weak name. Mizutani is weakened, with
+no better candidate. The key removes the name argument as well: 迦 is never ku, so Xuanzang's Kāśapura excludes
+Cunningham's Kuśabhavanapura, as it does the gazetteer's Kāśipura (data/names/).
 
-### 05.06 鞞索迦國 (*Viśākha) — unidentified; Ajodhya (Sāketa) is the only argued candidate, and its monuments are disputed
+### 05.06 鞞索迦國 (*Viṣaka) — unidentified; Ajodhya (Sāketa) is the only argued candidate, and its monuments are disputed
 
 **Identifications.** Mizutani: no decision (disputed). Cunningham (1871, pp. 459–64) and Beal: Sāketa = Faxian's
 Sha-chi = Ayodhyā. Watters (p. 374): perhaps Sāketa, but not Sha-chi. Vivien (p. 354): Bisvah or Biseipur. Smith:
@@ -993,9 +1027,16 @@ Buddhist Sāketa, "but [it] was not identical with our Ayodhya". Unao 1903 repor
 **Ji Xianlin et al. (1985).** Ji reports Cunningham's Sāketa in Oudh, Watters' objection, St. Martin's Biseipur and V.
 Smith's Nimkhar on the Gomatī, 20 miles S of Sitapur, and accepts none (p. 476).
 
+**Name.** Xuanzang's own fanqie 山格反 gives 索 the ṣ-initial (生), not s, and 迦 is unaspirated k (the repeat 索伽國 has g),
+so the characters give *Viṣaka or *Veṣaga; Viśākha fails on both the sibilant (ś would be 書) and the aspirate (kh is
+佉). No *Viṣaka is attested in the Buddhist, epic, Purāṇic or inscriptional texts searched. Low confidence; the name no
+longer supports the link with Viśākhā, and through her with Sāketa (data/names/).
+
 **Assessment.** The survey gives Ajodhya its best case (coins and legend), but the distance rests on Sultanpur
-(05.05.06), and the mounds are disputed and unexcavated. If Ayodhyā (05.02) lay on the Ganges, Ajodhya is free for
-Viśākha. Mizutani's agnosticism stands, with Ajodhya the leading candidate.
+(05.05.06), and the mounds are disputed and unexcavated. Part of the case rested on the name: the Viśākhā link and the
+Viśākhadatta coins assume a Viśākha- name, which Xuanzang's characters (*Viṣaka) do not give. If Ayodhyā (05.02) lay
+on the Ganges, Ajodhya is free for this country, but little beyond Faxian's tooth-brush legend now ties it here.
+Mizutani's agnosticism stands; Ajodhya remains the only argued candidate, weaker than before.
 
 ## Places missing from the master table (`xz_id = new`)
 

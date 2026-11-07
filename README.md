@@ -17,13 +17,13 @@ Five kinds of evidence were set against him:
 
 **What they show.** 442 of the 480 places have a note (Mizutani's 419 and 61 added ones). The 38 without a note are
 minor sites that have no point either. Against Mizutani's identifications, the evidence:
-- supports his identification for 95 places, 55 of them with high confidence, many with an inscription or seal
+- supports his identification for 97 places, 56 of them with high confidence, many with an inscription or seal
   naming the place;
 - weakens it for 10;
-- supports a different site for 57;
+- supports a different site for 59;
 - offers a candidate no standard authority records for 12.
 
-On the map the study's confidence comes out as 105 places secure, 166 probable and 102 open. These are the ratings
+On the map the study's confidence comes out as 105 places secure, 165 probable and 103 open. These are the ratings
 after a quality check of 30 notes and an audit of every "high" rating without site evidence (both in `data/notes/`).
 Another 56 minor sites are placed approximately from Xuanzang's own bearing and distance, without an identification
 (`scripts/place_from_text.py`). 51 have no point.
@@ -169,6 +169,25 @@ check.
 
    Then comes a short assessment. The matching `updates_*.tsv` gives the proposed identification, the kind of change
    and a confidence.
+8a. **Original names** (`data/names/`, `data/NAMES_INSTRUCTIONS.md`). The original forms of the names (Mizutani's,
+   often reconstructions) were tested against Xuanzang's own transcription practice.
+   - **The key** (`key.tsv`, `align.tsv`, `key_notes.md`): 262 Indic names of certain form, 138 place names and 124
+     names or terms fixed by his 唐言 glosses and 舊曰…訛 corrections, aligned syllable by syllable over 238
+     characters, with each character's Middle Chinese position (Qieyun, via the tshet_uinh library;
+     `scripts/names_prep.py`). He marks retroflexes, voiceless aspirates and the sibilants ś/ṣ/s, but not vowel
+     length, r/l, v/b/bh or voiced aspiration; clusters take -p/-t/-k characters; compounds are written member by
+     member; he mostly gives Sanskrit forms, with some regional Prakrit ones.
+   - **The pilot test** (`test_nw_a.tsv`, `test_nw_b.tsv`): the 47 asterisked or queried forms of India and the
+     North-West, checked against the key and searched for attested forms in the Sanskrit e-text library
+     (/mnt2/kengo/E-texts/1_sanskr, through a diacritic-free copy: `scripts/skt_norm.py`, `scripts/skt_search.py`), the
+     inscriptions and Stein's Kashmir material. 24 forms stand; 13 better forms, 4 alternatives and 6 doubtful,
+     among them Tamasāvana, Toyikā, Kheṭa(ka) for 契吒, Mūla-Sāmbapura for 茂羅三部盧, Mahāsāra, Kacaṅgalā, Lāhula and
+     *Palola for Bolor (the Gilgit kings' title; Gilgit becomes an alternative to Baltistan). The key also chooses among the forms Mizutani gives for 12 more places: for 9 he lists
+     the fitting form himself, usually first (vakṣu, Goviṣāṇa, Dvārapati, the vernacular Tāmalitti, …), and for 3
+     his form does not fit (Uraśā only, Licchava, Lampa).
+   - **In the data:** `data/names/proposed.tsv` (`scripts/names_proposed.py`) → the `name_study` columns of
+     `places.tsv` and the map's place panel; "Name." paragraphs in the notes, which say where a name moves an
+     identification. A name match is a lead, not site evidence: it never raises a rating to high on its own.
 9. **Findings page** (`FINDINGS.html`, https://claude.ai/artifact/2H5yngbhmdj9pKEp5imP7e): a short readable summary
    of what the study found.
 10. **Joined table** (`data/places.tsv`, `scripts/build_places.py`) and **map**
@@ -264,6 +283,9 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 - **Later scholarship.** Mizutani is the 1971 state of the question; Ji (1985) brings it to about 1980. Work since then
   is not in these sources, and post-1971 work that Ji cites (e.g. Ahmed on Mahasthan, Belenitskii) is known only
   through him. *Indian Archaeology* is in them up to 2000–01.
+- **Original names.** Only India and the North-West have been tested (47 forms). The 45 asterisked forms of
+  Afghanistan and Central Asia need Iranian, Bactrian and Tocharian sources not on disk. Middle Chinese is itself a
+  reconstruction, and two-character names match by chance easily.
 - **OCR.** Quotes match the OCR verbatim, errors included.
 - **Index coverage.** The indexes miss arguments that use neither the pilgrim's name, a listed site, nor a listed
   Sanskrit name. The known gaps are in `data/FOLLOWUPS.md`.
@@ -286,6 +308,7 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 - `data/places_mizutani.tsv`: the master table.
 - `data/places_added.tsv`: 61 places missing from Mizutani's numbering (ids `.xN`), added from the sources. Mappings
   for the coded rows are in `data/coded/new_resolved.tsv`; coordinates are in `data/coords_added.tsv`.
+- `data/names/`: the transcription key, the pilot tests of the original names and the study's proposed forms (method 8a).
 - `data/coords_study.tsv`: coordinates for the study's own proposed sites (the map's "study's proposals" layer).
 - `data/coded/`: coding by source (`mz_juan*`, `auth_*`, `asr_batch*`, `ar_batch*`, `iar_batch*`, `epig_batch*`,
   `gaz_batch*`).

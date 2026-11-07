@@ -124,6 +124,11 @@
   lengths (Punch → Rajauri, Rajauri → Bhimbar → Gujrat, Punch → Srinagar, Abbottabad → Srinagar). Sunigram's coordinates for
   03.01.06 are approximate (placed from Stein's bearing and map distance). MASI 42's OCR reads "500 li or approximately
   80 miles" for Ilam where the 1898 report has "400 li, or approximately 66 miles".
+- **Original names, after the pilot** (`data/names/`, README method 8a): test the remaining 45 asterisked forms of
+  Afghanistan and Central Asia (Bactrian: Sims-Williams' documents; Khotanese; Sogdian; the Arabic geographers);
+  obtain von Hinüber's reading "Palola" of the Gilgit kings' title (2004), cited from memory in the 03.02 test;
+  Ji's Coliya from the Mahākūṭa pillar (IA 19), not on disk; the library's `7_inscriptions/maitraka` folder is empty.
+  The key's weak readings to recheck: 伽 = k (bhāviveka only), 摩 = mi (mihirakula only).
 - **Resolved 2026-11-07**:
   - Foucher's Rāhula passage (01.38.02), lost in the Toyo Bunko OCR, was recovered by a Vision re-OCR of V-1 pdf 0151.
     It confirms Kâfir-Qaleh, though Foucher writes "Sud-Ouest" where the text has 東南.

@@ -145,9 +145,16 @@ mound of 800 × 300 ft; Bahraich 1921 notes that it "depends … on the acceptan
 **Ji Xianlin et al. (1985).** Ji names no site; he cites the Mahāsāṅghika Vinaya (都夷聚落) and Faxian's Duwei (都維), "50
 li W of the city" (p. 505), a third figure beside the 60 and 16 li discussed here, closer to the majority 60.
 
+**Name.** Xuanzang names no town, but Faxian's 都維 and the Mahāsāṃghika Vinaya's 都夷 render Toyi-, and Toyikā is
+attested as the place where Kāśyapa's unbroken skeleton lies: Divyāvadāna (47–50, and the Toyikāmahāvadāna, 301–306),
+MSV Bhaiṣajyavastu and MSV Cīvaravastu, where Prasenajit of Kosala holds the Toyikā festival. The whole-body relic
+answers Xuanzang's 全身舍利 stūpa, and Prasenajit's festival ties the town to Śrāvastī. High confidence for the name; no
+modern survival was found (Tandwa is only a sound-alike) (data/names/).
+
 **Assessment.** With Śrāvastī fixed, Tandwa fits the 60 li of most texts and has a stupa and town mound in the right
-relation; Bhitti has an early stupa in the right relation but fits only the minority reading. Nothing inscribed
-names either. Tandwa remains the better answer, with Bhitti as the rival.
+relation; Bhitti has an early stupa in the right relation but fits only the minority reading. Nothing inscribed names
+either. Tandwa remains the better answer, with Bhitti as the rival. The town's name, Toyikā, is now known from the
+Divyāvadāna and the MSV, and its tie to Prasenajit's Śrāvastī suits both candidates; it decides neither.
 
 ### 06.02 劫比羅伐窣堵國 (Kapilavastu) — Piprahwa–Ganwaria, named on Kushan sealings; Tilaurakot the rival for Xuanzang's city
 
@@ -217,6 +224,11 @@ lower part" of an Aśokan pillar, as Smith had held.
 **Gazetteers.** None.
 
 **Ji Xianlin et al. (1985).** Ji gives the name only (Krakucchanda, Pāli Kakusandha; p. 514).
+
+**Name.** 村 is ts (清) with u (魂 -un), which fits the Mūlasarvāstivāda form Krakutsunda (MSV Śayanāsanavastu;
+Krakutsanda in the Prātimokṣasūtra and the Mañjuśrīmūlakalpa), not Krakucchanda, whose ch would need 昌 and the vowel
+a; 迦羅 is kra. Only the second 迦, never ku in the key, stays unexplained. Medium confidence; the form names the Buddha
+and does not bear on the site (data/names/).
 
 **Assessment.** Carlleyle's Nagra falls with Bhuila. Gutiva has the field evidence Xuanzang describes, a relic stupa
 with an Aśokan pillar beside it still in place, but only at an emended distance and only if Tilaurakot is the
@@ -425,6 +437,11 @@ Gorakhpur 1987 places Pippalivana in Gorakhpur district without a site.
 
 **Ji Xianlin et al. (1985).** Ji names no site; his note is textual (the Vinaya's ash stupa of the Pippala people; p.
 535).
+
+**Name.** Mizutani's original name, Pippalavana, belongs to the Moriyas' country, not to the transcribed name: 尼拘盧陀
+renders nyagrodha/nigrodha, the banyan grove. The name of the grove is secure; the mismatch is one of labelling.
+Carlleyle's bar (banyan) forest round Rajdhani rests on the meaning of nyagrodha, not on a surviving name
+(data/names/).
 
 **Assessment.** Rajdhani belongs to Carlleyle's chain from Bhuila, and Nandangarh to Smith's Nepal-side scheme. Neither
 is tied to the Moriyas by anything found. Later work, not in these sources, excavated a stupa at Nandangarh. Here
@@ -727,7 +744,7 @@ know Carlleyle's mounds.
 Ghauspur fits only Oldham's western capital (07.02). Mizutani's locality stands at low confidence; Bikapur itself is
 gone.
 
-### 07.02.03 摩訶娑羅邑 (Mahāsāla) — Masar, confirmed by inscriptions
+### 07.02.03 摩訶娑羅邑 (Mahāsāra) — Masar, confirmed by inscriptions
 
 **Identifications.** Mizutani, Vivien (p. 363), Cunningham (p. 504), Beal (p. 63), Watters (p. 61), Majumdar (p. 716)
 and Dey: Masar, 6 miles W of Arrah (agreed).
@@ -743,8 +760,13 @@ town of Brahmins. Ghazipur 1909 alone floats Chaunsa ("possibly").
 
 **Ji Xianlin et al. (1985).** Ji agrees: Masar, 6 miles W of Arrah, on Cunningham's inscription (p. 584).
 
-**Assessment.** The inscriptions name the place and the old bank answers Xuanzang's "near the Ganges". Mizutani is
-strengthened.
+**Name.** 摩訶 is the stock mahā-, and 娑 is s (心), which excludes mahāśāla; 羅 cannot separate r from l. The place's own
+seven Jain inscriptions in the Pārśvanātha temple write Mahāsāra (Cunningham, ASR III), and Masār(h) continues it, so
+the form is Mahāsāra rather than Mizutani's *Mahāsāla. Medium confidence for the form; the identification is
+unaffected (data/names/).
+
+**Assessment.** The inscriptions name the place, as Mahāsāra, a form the characters allow, and the old bank answers
+Xuanzang's "near the Ganges". Mizutani is strengthened.
 
 ### 07.02.03a 那羅延天祠 (Nārāyaṇa temple) — opposite Masar, not at Revelganj; Narainpur the survey's site
 
@@ -904,6 +926,9 @@ next site (07.03.13); Xuanzang's parting place lies only 50–60 li NW of the ci
 
 **Gazetteers.** None.
 
+**Name.** 婆 never renders vi in the key (vi is 毘), so 栗呫婆 gives licchava, not Mizutani's licchavi; 呫 is ch by
+Xuanzang's own fanqie 昌葉反. The name is that of the people, not the place, and does not bear on the site (data/names/).
+
 **Assessment.** It remains unidentified. Faxian's inscribed pillar would be the thing to look for.
 
 ### 07.03.13 吠舍釐城西北故城 (the old city NW of Vaiśālī, Mahādeva jātaka) — Kesariya, confirmed by local tradition and a pre-7th-century stupa
@@ -1007,6 +1032,10 @@ and that Wang Xuance did.
 
 **Ji Xianlin et al. (1985).** Ji leaves it open between Julien's Janakpur and Smith's Baligarh, 16 miles N of
 Madhubani: "which is right is unknown" (p. 609).
+
+**Name.** The characters give *Caṃśuṇa (占 c with an -m coda, 戍 ś, 拏 retroflex ṇa): Julien's Carisuna has an -ri- they
+lack and s for ś. Nothing of this form is attested, and no modern name near Bāligarh or Janakpur matches. Low
+confidence; the name does not help choose the site (data/names/).
 
 **Assessment.** The gazetteers only echo Janakpur with a question mark. Neither site has evidence assembled here, so Mizutani's
 preference stands at low confidence.

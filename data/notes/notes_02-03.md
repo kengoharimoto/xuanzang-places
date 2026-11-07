@@ -301,6 +301,12 @@ Puruṣapura–Puṣkarāvatī–Po-lu-sha–Udabhāṇḍa (I, p. 42).
 
 **Ji Xianlin et al. (1985).** Ji agrees: Shahbaz Garhi, 65 km ENE of Peshawar, after Foucher and Dani (p. 257).
 
+**Name.** The forms in use break the key at the first syllable: 跋 is voiced (並) and renders bha or ba, never p and
+never v in the counted names, so Watters' Paluṣa fails and Julien's Varuṣa survives only because v and b share
+characters elsewhere; 虜 is ru/lu and 沙 is ṣa (生). The characters give *Bharuṣa or *Baluṣa, which is not attested in
+the Sanskrit library, the inscriptions or the survey reports. Low confidence; Cunningham's "Palo" argument for
+Palodheri rested on the p-form and falls with it (data/names/).
+
 **Assessment.** Palodheri was Cunningham's view of 1863–64, carried into the *Ancient Geography*; he had moved to
 Shahbaz Garhi by 1872–73. The Annual Reports repeat Shahbaz Garhi without new evidence. Mizutani stands.
 
@@ -315,7 +321,7 @@ Mizutani reports this without concluding. No other authority names a site.
 **Assessment.** The only proposed site has been weakened by excavation, and no alternative appears in these
 sources. The stūpa is effectively unlocated.
 
-### 02.04.15 彈多落迦山 (daṇḍaloka) — Mekha-Sanda vs the Kashmir Smast cave vs the cave near the Shahbazgarhi edicts
+### 02.04.15 彈多落迦山 (*dantalaka) — Mekha-Sanda vs the Kashmir Smast cave vs the cave near the Shahbazgarhi edicts
 
 **Identifications.** Mizutani: Mekha-Sanda, at the N end of the hills running NE from Shahbaz Garhi (Foucher;
 excavated by Kyoto University in 1962–67; two rock-cut caves) (agreed). Cunningham (p. 60): the great cave of
@@ -346,6 +352,12 @@ error for 塗灰, the ash-smearing worshippers of Śiva (p. 201). He also notes 
 
 **Ji Xianlin et al. (1985).** Ji agrees: the Mekha-Sanda hill NE of Shahbaz Garhi (p. 259). He does not mention the
 Kyoto excavations.
+
+**Name.** Mizutani's *daṇḍaloka does not fit the characters: 彈多 is dental danta- (a retroflex would need 擇, 荼 or 拏),
+and 落, with the rhyme -ak, gives la, not lo. The characters give *dantalaka, which is unattested; no mountain of this
+name appears in the Viśvantara versions searched (Jātakamālā, Saṅghabhedavastu, Viśvantarāvadāna), and Xuanzang's note
+that the old 檀特 is corrupt implies a longer form than daṇḍaka. Low confidence; the name does not bear on the site
+(data/names/).
 
 **Assessment.** Cunningham's Kashmir Smast was fixed from Palodheri, which he gave up, and lies far from Shahbaz
 Garhi. Majumdar's cave and Mizutani's Mekha-Sanda both sit in the hills NE of Shahbaz Garhi, fitting the text's "20
@@ -977,6 +989,10 @@ St. Martin's emendation to 東北, since the Life and the Fangzhi also read 東�
 500 li SE from the isolated hill E of the body-offering site (03.04.07), not from Taxila. From the Mahaban–Banj area
 (03.04.05) Haripur and Mangali both lie roughly SE and Rash lies E to NE, so Ji's conclusion against Rash holds on the
 corrected reading. He does not know Hargreaves' Mangali or the Bedadi ladle, and adds no evidence for Haripur.
+
+**Name.** 尸 is ś (書, 49 of 49 cases), so of Mizutani's three forms only uraśā (Pāṇini 4.3.93) fits; urasā
+(Rājataraṅgiṇī) and uragā (Mahābhārata) do not. The Bedadi ladle's Uraśaraje (CII 2.1) has the same ś, so inscription
+and transcription agree. Secure (data/names/).
 
 **Assessment.** The country, agreed by all, is now attested by an inscription naming the Uraśa kingdom, found (by
 report) in the Siran valley of Hazara; a portable ladle cannot fix the capital. Cunningham's Mangali has a site of

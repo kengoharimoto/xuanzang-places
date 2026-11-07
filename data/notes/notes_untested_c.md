@@ -281,7 +281,7 @@ stūpa "Jarasandh-ka-baithak" (28 ft across). Patna 1907: the stūpa, reservoir 
 goose (ASR I, pp. 16–22); the stūpa is the only one on the hill. The hill is secure (09.03.11).
 **Assessment.** The single stūpa, the goose imagery and the monastery terrace match. Secure, without an inscription.
 
-### 10.04.02 跋始婆僧伽藍 (Vāśibhā monastery) — Bhasu Bihar, 4 miles W of Mahasthan, where the name survives
+### 10.04.02 跋始婆僧伽藍 (*Bhāśiva monastery) — Bhasu Bihar, 4 miles W of Mahasthan, where the name survives
 
 **Identifications.** Mizutani: the ruins at Bihar and Vasu-Bihar, 4 miles NW of Mahāsthān. Majumdar (pp. 724–25):
 Bhasu Bihar, 4 miles W.
@@ -293,6 +293,10 @@ it; Dikshit visited (EC 1920–21, p. 23). The city is settled by the Mahasthan 
 and adds that the site has been excavated, with many Gupta-period finds, and that the Aśoka stūpa and the
 Avalokiteśvara vihāra both have traces, citing N. Ahmed's preliminary report on the Mahasthangarh excavations (p. 62;
 Ji pp. 792–93). L. Joshi reads the name as *bhasuā*.
+**Name.** 跋 is bh (並) and 始 is ś (書), so Julien's vāsibha fails on the sibilant and is weak on the initial; the
+characters give *Bhāśiva or *Bhāśibha. The village name Bhāsu Bihār beside the ruins (ASR XV) keeps bh- and the
+sibilant (ś in Bengali), so the name does survive, as the heading says. Low confidence for the form, which is not
+attested in Sanskrit; the Life's 跋姞婆 looks like a graphic error for 始 (data/names/).
 **Assessment.** Name, distance and a monastery–stūpa–temple group as described, and an excavation with Gupta-period
 finds (reported by Ji from Ahmed). Secure, without an inscription; the excavation report itself is not seen here.
 
@@ -354,6 +358,9 @@ Majumdar (p. 726) and Dey agree; Watters (p. 250): "generally supposed".
 test: 2,800 li SE from Bhinmal gives 410 km at 16° off, unflagged. The Life gives the same distance and the Aśoka "hell"
 stūpa.
 **Ji Xianlin et al. (1985).** Ji agrees: Ujjain, capital of N Avanti (p. 923).
+**Name.** 那 gives a final -na, so 鄔闍衍那 renders ujjayana, the first of Mizutani's forms, not the Sanskrit ujjayanī of
+the heading (which names the city and stands); gemination is not marked. The identification is unaffected
+(data/names/).
 **Assessment.** Probable; no site evidence in these sources.
 
 ### 11.20.02a 拂懍國 (Hrom, Rome) — the Eastern Roman empire

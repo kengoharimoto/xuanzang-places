@@ -196,7 +196,7 @@ AFF.forEach(([k, lab]) => { const n = P.filter(p => p.tags.has(k)).length;
 const state = {status: new Set(["secure","probable","open","text","untested","unlocated"]), visit: new Set(["visited","hearsay","unclear"]), aff: new Set(), kh:false, alt:false, sp:false, change:false, juan:0, level:"", q:"", sel:null};
 const visible = p => (!state.kh || (p.kh && p.kh.length)) && state.status.has(p.status) && state.visit.has(p.visitEff) && (!state.aff.size || [...state.aff].some(a => p.tags.has(a))) && (!state.change || BIG.has(p.change) || p.change === "strengthened")
   && (!state.juan || p.juan === state.juan) && (!state.level || p.level === state.level || (state.level === "country" && p.level === "region"))
-  && (!state.q || [p.zh,p.ja,p.orig,p.mz,p.modern,p.proposed,p.id].join(" ").toLowerCase().includes(state.q));
+  && (!state.q || [p.zh,p.ja,p.orig,p.nst,p.mz,p.modern,p.proposed,p.id].join(" ").toLowerCase().includes(state.q));
 
 function draw() {
   const vis = P.filter(p => visible(p) && p.lat != null);
@@ -254,7 +254,7 @@ function panel(p) {
   if (!p) { el.innerHTML = `<h2>Choose a place</h2><p class="empty">Click a point on the map or a row in the list. The dossier shows the study's identification and confidence, then Mizutani's, each authority's view, the survey, excavation, inscription and gazetteer evidence, the texts and translations, and the note on the place where there is one.</p>`; return; }
   const par = p.parent ? P.find(x => x.id === p.parent) : null;
   const auth = Object.entries(p.auth).map(([a,v]) => `<dt>${esc(AUTHN[a]||a)}</dt><dd>${esc(v)}</dd>`).join("");
-  el.innerHTML = `<h2><span class="zh">${esc(p.zh)}</span>${p.orig ? " · " + esc(p.orig) : ""}</h2>
+  el.innerHTML = `<h2><span class="zh">${esc(p.zh)}</span>${p.orig ? " · " + esc(p.orig) : ""}</h2>${p.nst ? `<p class="sub"><b>Name (the study):</b> ${esc(p.nst)} <span class="sub">(${esc(p.nstb)})</span></p>` : ""}
     <div class="sub">${p.id} · juan ${p.juan} · ${esc(p.level)}${par ? ` in <span class="zh">${esc(par.zh)}</span>` : ""}${p.ja && p.ja !== p.zh ? ` · Mizutani: ${esc(p.ja)}` : ""}</div>
     <div class="badges"><span class="badge" style="color:${col(p.status)}">${esc(p.status)}${p.status === "untested" ? (p.mzstatus === "added" ? " (sources)" : " (Mizutani)") : ""}</span>${p.mzstatus && p.mzstatus !== "added" ? `<span class="badge" style="color:var(--muted)">Mizutani: ${esc(p.mzstatus)}</span>` : p.mzstatus === "added" ? `<span class="badge" style="color:var(--muted)">added place</span>` : ""}
       ${p.visit ? `<span class="badge" style="color:var(--muted)">${esc(p.visit)}</span>` : ""}

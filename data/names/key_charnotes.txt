@@ -1,0 +1,78 @@
+羅	AMBIGUOUS r/l: 來 l- serves both ra and la (ra 60 : la 33 incl. long); also ḍḍa once (local Hidda); level-tone twin of 邏, interchangeable (補羅 ~ 補邏, 布邏)
+邏	AMBIGUOUS r/l like 羅 (ra/rā 14 : lā 4); after 曷/鉢/跋 it is the r of an initial cluster or of r-
+那	n (泥); usually dental na/nā, but also ṇa 3× (guṇamati, goviṣāṇa, karṇasuvarṇa): not proof of a dental; after a char with -n coda (衍那, 繕那, 旦那) it is the same single n
+摩	m (明); ma/mā; 摩醯 = mahe (maheśvara, mahendra); one anomalous mi (摩醯邏矩羅 mihirakula)
+多	t (端) + -a; ta/tā; also tya (āditya, kātyāyana) and the -ta of -pta/-tta after a closed char (毱多 gupta, 達多 datta, 答多 tapta); final -t of prasenajit
+迦	k (見); ka/kā; never g
+陀	AMBIGUOUS d/dh: 定 d- renders da, dha, ddha and the d of dr (陀羅 = dra); also dhyā once; voiced aspiration is not marked
+婆	AMBIGUOUS v/b/bh: 並 b- renders va (16), bha/bhā (5), ba/bā, b of br (婆羅吸摩), once pa (bharukacchapa)
+伐	v (並 + -t): va 20, var 5 (the -t coda = r before a consonant: 伐摩 varma, 伐彈那 vardhana); the commonest v-character in place names (伐底 -vatī, 伐那 -vana, 濕伐羅 -śvara)
+阿	initial vowel a/ā (影); also begins the second member of a compound written without vowel sandhi (阿迭多 āditya, 阿濫摩 ārāma)
+呾	t + -t coda: t as first member of tr (呾羅 tra 13×) and ta (7×, e.g. 呾叉 takṣa, 三摩呾吒); NOT used for ṭ (吒)
+波	p (幫); pa/pā; dental vs retroflex irrelevant
+毘	v/b/bh (並) + i: vi 13, bhī/bhi 3, bi 1; the regular vi- character
+訶	h (曉) + a: hā/ha
+剌	r (來 + -t): r as first member of rṇ, rtha, ra; raṭ in Pkt. raṭṭha (剌侘); la once (秣剌耶 malaya); 曷剌/閼剌 = (a)r
+伽	AMBIGUOUS g/gh: 羣 g- renders ga/gā and gha/ghā (siṃgha, saṃghāṭī); once ka (bhāviveka, Pkt. -g-?)
+利	r/l + i: rī/ri, li, ṛ (gṛhī), r of krī/śrī
+底	t + i (端 齊四): ti/tī; -vatī, -pati endings
+提	d/dh + e/i: de 9 (提婆 deva), dhi 2 (菩提 bodhi)
+蘇	s + u: su 10 (never 須, which XZ rejects in old forms); sā once
+補	p + u: the -pura character (補羅/補邏, 10×)
+鉢	p + -t coda: p of pr (鉢邏/鉢羅/鉢剌 6×), par (parvata), pat (pattra), pa, ppa
+闍	j (常 reading ʑja): ja/jā, jja, jya, j of jr
+耶	y (以): ya/yā
+達	d/dh + -t: dhar (達磨 dharma), dat (datta), d/dh of dr/dhr (達羅)
+濕	ś + -p coda: ś before v or m only (濕伐/濕吠/濕縛/濕婆 śv, 濕彌 śm) 9/9
+瞿	g + o/u: go 6, gu 2, gho 1
+縛	v (並): va/vā; also used for Iranian b/w
+羯	k + -t: ka 9 (kar-, kal-, kan-, -kara)
+跋	bh/b + -t: bha 7, bh of bhr (跋邏), bā
+拘	k + u/o: ku 5, ko 3
+曷	AMBIGUOUS: (1) prefix before initial r- with no sound of its own (曷邏/曷羅 + 怙羅/闍) 5×; (2) ha(r) / hā(r) (曷利沙 harṣa, 那揭羅曷 -hār); (3) a(r) in 曷剌他 -artha; read 曷+邏/羅/剌 at word start as r-
+盧	l/r + u/o: ru 4, ro 2, lo, rū
+室	ś + -t coda: ś before r/ṛ only (室羅, 室利, 室縷, 室𩜁) 7/7
+布	p + u/o: pu, po, pū
+拏	ṇ (孃 retroflex): ṇa 7/7 — reliable retroflex marker
+鄔	u- (影模): XZ's u-character, replacing old 優
+僧	s + ŋ: siṃ/saṃ/saṅ (anusvāra or ṅ before h/gh/g); 僧伽藍 = saṃghārāma abbreviated
+吒	ṭ (知): ṭa 6/6 — reliable retroflex marker
+弗	p + -t: pu (putra) 3, v of vṛ (弗栗) 2, pūr (pūrva)
+末	m + -t: ma, maṭ
+栗	r/l + -t: ṛ 3 (vṛ, gṛ), r (pārśva), lit (Pkt. tāmalitti)
+薩	s + -t: s of st/sth (a-coloured) 3, sar 2, sa
+釐	r/l + i: ri/li/lī (-giri 祇釐/耆釐)
+吠	v + e/ai (廢韻): ve 3, vai 2
+尸	ś + i: śi/śī; śā once (uraśā)
+犀	s + e: se 5/5 (-sena 犀那)
+醯	h + e/i: he (摩醯 mahe-), hi
+窣	s + -t (u-coloured): s of st/sr when the next vowel is u (窣堵 stu/stū, 窣祿 sru) 3/3
+悉	s + -t (i-coloured): s of st/sth before i (悉底 sti, 悉鐵 sthi), sid
+毱	g + -k: gu(p) in -gupta 4/4
+衍	y + -n: ya(n) before 那 (single n), ya(ṇ)
+叉	kṣ (初): kṣa 3; also 芻 kṣu, 差 kṣe, 刹 kṣa
+色	ṣ + -k: ṣ before k (puṣkala, jyotiṣka)
+澁	ṣ + -p: ṣ before p (puṣpa)
+瑟	ṣ + -t: ṣ before ṭ (yaṣṭi)
+姞	g + -t (i-coloured): g of gṛ (姞栗, 姞利) 2/2
+訖	k + -t (i-coloured): k of kr (訖利 krī, 訖羅 kra)
+咄	t + -t (u-coloured): t of tru (設咄路 śatru)
+杜	dh + u: dh of dhru (杜魯)
+圖	d + u: d of dru (圖盧)
+吸	h + -p: h of hm (婆羅吸摩 brahma)
+笈	g + -p: g of gb (鉢羅笈菩提 prāgbodhi)
+勤	g + -n: gh of ghn (窣祿勤那 srughna)
+侘	ṭh (徹): ṭha in Pkt. raṭṭha 2/2
+擇	ḍh (澄 + -k): ḍha 2/2 (virūḍhaka, telāḍhaka)
+荼	ḍ (澄 reading): ḍa/ḍḍa 2/2
+痆	ṇ (孃): ṇa (vārāṇasī; annotated 女黠反)
+知	ṭ (知): ṭi 2/2
+胝	ṭ (知): ṭi/ṭī 3/3 (koṭi, saṃghāṭī)
+仗	ḍ (澄 + -ŋ): ḍḍiyā (uḍḍiyāna)
+藍	l/r + -m: rā(m) before 摩 — the -m only anticipates m
+三	s + -m: sa(m) before 摩
+閻	y + -m: ya(m) before 摩
+耽	t + -m: tā(m) before 摩
+呫	cch (annotated 昌葉反; 透 in Guangyun): ccha 2/2
+貨	x (曉): khā in tukhāra (Iranian-style x for kh)
+葉	ś (書 reading) + -p: śya before p (kāśyapa) 2/2
