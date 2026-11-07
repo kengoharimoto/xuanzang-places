@@ -402,11 +402,17 @@ Darganata district (Watters 1904) here, not Mizutani's Near Chardzhou (Türkmena
 stand on the Amu Darya facing Amol/Charjui, c. 400 li SW of Bukhara as the text says; Marquart's Wardān lies N of
 Bukhara and fails (p. 96).
 
+**Name.** 伐 is va(t)/var or b-, 地 di (定 d), so the name is short and a chance match easy. Narshakhī's Bitik/Betik (via
+Ji) fits 伐 with b- and the t-coda and 地 with its i, the final -k unwritten; Marquart's Wardān (Sogd. wrδʾn) fits 伐 var
++ 地 δ but lies N of Bukhara, as Ji objects. Neither explains the Tang variant 戊地. Bitik is the better of the two on
+position; as a name, an alternative, low confidence (data/names/).
+
 **Assessment.** Betik (Julien, Vivien, Beal, Ji) and Mizutani's "near Chardzhou" are the same crossing; Watters'
 Darganata lies further downstream. Ji supplies what the note lacked: the Tang form 戊地 (Dunhuang manuscript, *Xin Tang
 shu*) and a 10th-century Bitik on the Amu Darya opposite Charjui (Narshakhī) at the text's 400 li from Bukhara. The
-name equation is now probable, not unknown. Mizutani stands, strengthened; medium confidence, on the name and the
-authorities' agreement, with no site evidence.
+name equation is possible rather than unknown, but the characters fit it only loosely and leave 戊地 unexplained (see
+Name). Mizutani stands, strengthened by Bitik's position; medium confidence, on the authorities' agreement and the
+distance, with no site evidence.
 
 ### 01.22 赤鄂衍那國 (Chaghāniyān) — Denau vs Beal's Hissar
 
@@ -431,8 +437,15 @@ geographers (p. 25).
 
 **Ji Xianlin et al. (1985).** Ji agrees: Kharūn, near Dushanbe (pp. 106–107).
 
+**Name.** 忽 xu(t)/xar and 露 rū fit Kharūn/Akharūn, but 摩 is ma, and the Islamic forms end in -n. Marquart (Ērānšahr p.
+226) and Barthold make the equation without addressing the final, and no -m form was found in the Ḥudūd, Barthold,
+Marquart, Le Strange or BDNA. Arabic n and m are not confused in the script, so a local *Xurūm or an error in the
+Chinese is possible. Doubtful as a name; the identification rests on the context, with 愉漫 Shūmān beside it, medium
+confidence (data/names/).
+
 **Assessment.** Beal's Garm is a sound match (Garm/Kharūn) placed in the wrong valley. Vivien's Hissar–Shadman lies
-inside Mizutani's Denau–Dushanbe zone. Mizutani follows Chavannes and Barthold. Mizutani stands.
+inside Mizutani's Denau–Dushanbe zone. Mizutani follows Chavannes and Barthold. The final 摩 against Kharūn's -n is
+unexplained (see Name), but the context holds. Mizutani stands.
 
 ### 01.25 鞠和衍那國 (Kubādhiyān) — Kabadian vs Vivien's Karategin
 
@@ -521,6 +534,8 @@ district, which explains a compound name Rōb-Simingān. 露 renders rō (the fi
 suits Islamic Simingān/Siminjān better than Bactrian Samingan; the remaining step is 紇 as a prefix before initial r-,
 as 曷 in 曷邏胡 Rāgh (data/names/bactrian.tsv).
 
+**Kuwayama (2002).** Agrees: 紇露悉泯健 is Rui and Samangan in the upper and middle Khulm valley, after Minorsky (p. 133).
+
 **Assessment.** Mizutani's double name (after Marquart; Beal already joins Rui and Samangan/Haibak, Vivien has
 Samangan) was a conjecture; the Bactrian documents now make it well supported. About 630 the khars of Rob held court
 at Sandaran in the district of Samingan (see Name), so 紇露悉泯健 names one realm, Rōb with Samingān, not two places run
@@ -596,8 +611,17 @@ sheathing over the stucco-finished stone in 630 (I, p. 134).
 
 **Ji Xianlin et al. (1985).** Ji agrees: the 35 m Buddha, 400 m from the 53 m one, 鍮石 being a brass coating (p. 131).
 
+**Kuwayama (1990, 2002).** The East Buddha (38 m by his measure), on the image with Mizutani. But 鍮石 is an error:
+the figure is clay over a carved conglomerate core like the West Buddha, and gold paint survives over its left cheek
+and neck, which a brass sheathing would have made needless (東大佛は…金色（黄）を一面に塗った彩色が残っていて、鍮石製というの
+は誤りである); 分身別鑄，總合成立 is then a method "imagined at the desk" when the Xiyu ji was written (1990, p. 1438, n. 98
+pp. 1611–12; 2002, p. 159: "no trace of metal casting on the 38 m Buddha"). Like the West Buddha it belongs after the
+mid-6th-century opening of the Bāmiyān road (see 01.37.01).
+
 **Assessment.** Watters and Mizutani identify the second colossus by the distance from the first. Beal does not
-point to a different extant object; he takes the material at face value. Mizutani stands.
+point to a different extant object; he takes the material at face value. Kuwayama's survey evidence (clay surface,
+gold paint) tells against Foucher's and Ji's metal sheathing: 鍮石 is probably Xuanzang's (or his editor's) error.
+The identification is unaffected. Mizutani stands.
 
 ### 01.37.02 佛入涅槃臥像伽藍 — the reclining-Buddha monastery at Bamiyan: E end of the Buddha cliff (Foucher 1942) vs the Ajdahā rock W
 
@@ -614,10 +638,21 @@ Pelliot's translation he sought it c. 1 km E of the monastery between the two st
 l'extrémité orientale de la « falaise des grands Buddhas » vient mourir" on the mouth of a large ravine from the
 north. The image, he thinks, was built of river pebbles bound with clay (I, p. 133).
 
+**Kuwayama (1990, 2002).** The reclining Buddha lay inside the monastery built by the 先王 between the two colossi (E
+of the West Buddha, W of the East Buddha), now vanished: the Life's 像東有伽藍，伽藍東有鍮石釋迦立像…伽藍內有佛入涅槃臥像
+names it "inside the monastery" just described, and of the three images only this one is said to be indoors
+(先代王建立の臥像伽藍は東西二大立佛の中間にあった; 1990, p. 1444; 2002, p. 154: "Between two standing colossi is a monastery
+which housed a huge lying Buddha"). Daoxuan's 釋迦方志 has 涅槃臥素佛, 素 for 塑, so the image was of clay (1990, pp.
+1436–37), housed in a building as at Tapa Sardar (Ghazni) and Adjina Tepa (pp. 1444–53). The 先王 is the king just
+before Xuanzang's host, late 6th c., not "a former king" (p. 1444; 2002, pp. 154–55). He reads the Xiyu ji's 城東二三里
+as the distance of this same monastery from the city and does not discuss Foucher's eastern site.
+
 **Assessment.** With Foucher's withdrawal the western rock loses its main support, and Watters' Azdaha contradicts his
-own reading "E". The text's E 2–3 li points to the eastern end of the Buddha cliff, where Foucher looks for a built
-image. Nothing has been found there in these sources: a new candidate, low confidence. Foucher still takes the Ajdahā
-rock for a Buddhist pilgrimage place, but not for Xuanzang's.
+own reading "E". Two eastern sites remain. Kuwayama's middle monastery follows the Life's wording, where 伽藍內 most
+naturally refers back to the monastery E of the stone Buddha, and the Xiyu ji's 城東二三里 fits it if the city lay SW
+of the West Buddha. Foucher's eastern end of the cliff, c. 1 km further E, reads the Xiyu ji's separate sentence as a
+separate monastery. Nothing has been found at either. Alternatives, low confidence; the Life's wording slightly
+favours Kuwayama's. Foucher still takes the Ajdahā rock for a Buddhist pilgrimage place, but not for Xuanzang's.
 
 ### 01.37.03 臥像伽藍東南僧伽藍 — monastery SE of the reclining Buddha: upper Helmand vs Fondukistan
 
@@ -688,9 +723,25 @@ the city (II, p. 212; see 01.38.07).
 excavations from 1927 found coins of the 1st–5th c. and many art objects in the Kushan palace, and French and Japanese
 work continued into the 1970s (p. 137).
 
+**Kuwayama (1990, 2002).** Kāpiśī, with Mizutani, and the Sui 漕國 is this country, not 漕矩吒 (12.01): Pei Ju's 西域圖記
+(606) puts 漕 last on the southern route before 北婆羅門 (…忛延、漕、至北婆羅門), and only Kāpiśī, through Lampāka, touched
+North India; the *Suishu* has 帆延 700 li to its N; the *Tongdian* sets it 葱嶺之西南 and the *Tang shu* says 罽賓。隋漕國也;
+early Tang usage never shortens 漕矩吒 to 漕; and the Sui 罽賓 that alone sent no envoy (唯罽賓不至) is Kashmir, while 漕
+sent one in 616 (1990, pp. 677–711; 2002, pp. 203–5; Kuwayama 1975). The *Suishu* chapter thus describes Kāpiśī c.
+580–620: the Zhun cult on 葱嶺山 (01.38.03a) and a king whose crown, read 金牛頭冠 with the *Tongdian* against the
+*Suishu*'s 金魚頭冠, is the bull's-head crown of the "Napki Malka" coins (1990, pp. 722–30; 2002, ch. XIII); the
+昭武/康國 pedigree is probably a confusion with Sogdian 曹國 (pp. 719–22). Earlier, Jinagupta spent a year in Kāpiśī
+(c. 555) at the king's request, and Dharmagupta stayed in a 王寺 built by a king of Kashgar outside the city and then
+two years 於國城中 (Xu gaoseng zhuan; 1990, pp. 665–76; see 01.38.05). He finds the Buddhist monuments round and N of
+the capital and the Brahmanical ones (Tapa Skandar, Khair Khana, Hindu marbles near Sarai Khwaja) in the S, a division
+the archaeology confirms (1990, pp. 1155–64; 2002, pp. 200–1). Of 比羅娑洛山 (01.38.07, no note) he says that since the
+mountain god, not the mountain, takes the elephant form, Gaṇeśa was worshipped there (山神の形が象だというのであるから、こ
+の山岳にガネーシャがまつられていたとみられる, 1990, p. 1149).
+
 **Assessment.** The authorities differ on the extent of Kapiśa (whether Kafiristan belongs to it), but all centre it
 on the Panjshir–Ghorband plain. The gazetteers add nothing. The Annual Report takes Foucher's Begram as established
-and adds an early record from the site, but no proof of the name. Mizutani stands. For the capital see 01.38a.
+and adds an early record from the site, but no proof of the name. Kuwayama adds the Sui name 漕國 and 6th-century
+visitors, which date Kāpiśī's rise but do not move it. Mizutani stands. For the capital see 01.38a.
 
 ### 01.38.01 質子伽藍 (沙落迦) — the hostage monastery: Koh-i-Pahlvan/Shotorak, E of Begram
 
@@ -711,17 +762,26 @@ Mizutani follows, for Xiang Da's Luoyang: Pelliot's 娑囉誐 = 洛 of the Sansk
 Sarag of the Nestorian stele, cited via Xia Nai (1965); Xuanzang knew Kashgar as 佉沙 and would not have named it
 otherwise (pp. 139, 141–142).
 
-**Assessment.** Beal's site rests only on the Charikar = Shalaka name echo and assumes the capital lay near Charikar
-(see 01.38a). The hill E of Begram follows from the Begram capital. The text puts the monastery 北山下, at the foot of a
-mountain to its north, with stone chambers on the ridge N of it (伽藍北嶺上有數石室): Foucher's stūpa on the S spur fits this
-better than Shotorak at the N foot, which Ji, like Mizutani, only lists among the hill's sites. Ji's Luoyang reading
-of 沙落迦 suits the Life's "son of the Han emperor" better than Kashgar but does not bear on the site. Mizutani stands,
-with Foucher's ruin the better candidate.
+**Kuwayama (1990, 2002).** The Life's 沙落迦寺, "大城の東三、四里の北山の麓にある大伽藍" (1990, pp. 1134–35), on Koh-i Pahlawan
+E of Begram; he chooses no ruin among the hill's sites (two ruined stūpas on its W foot; Shotorak, Qol-i Nader and a
+third site on its N foot above the Panjshir; p. 1157). With Mizutani, against Ji, the hostage is Kashgarian (沙落迦 =
+疏勒, the 臣磐 of the 後漢書 疏勒國傳; 2002, p. 200: "the Shaluojia monastery built in honour of the Kashgarian hostage";
+p. 277 n. 8 repeats the Life's "hostage from the Chinese emperor"). His English "at the northern foot of a hill"
+renders 北山下 in the sense that would suit Shotorak.
 
-### 01.38.02 曷邏怙羅僧伽藍 (Rāhula) — Kafir Qaleh SE of Begram
+**Assessment.** Beal's site rests only on the Charikar = Shalaka name echo and assumes the capital lay near Charikar
+(see 01.38a). The hill E of Begram follows from the Begram capital, and Kuwayama agrees. The text puts the monastery
+北山下, at the foot of a mountain to its north, with stone chambers on the ridge N of it (伽藍北嶺上有數石室): Foucher's
+stūpa on the S spur fits this better than Shotorak at the N foot, which Ji and Kuwayama, like Mizutani, only list
+among the hill's sites. On 沙落迦 the authorities divide (Kashgar: Hatani, Feng, Mizutani, Kuwayama; Luoyang: Xiang
+Da, Ji); the Luoyang reading suits the Life's "son of the Han emperor" better, the Kashgar one Dharmagupta's 王寺 built
+by a king of Kashgar (01.38.05), and neither bears on the site. Mizutani stands, with Foucher's ruin the better
+candidate.
+
+### 01.38.02 曷邏怙羅僧伽藍 (Rāhula) — Kafir Qaleh SE of Begram vs Kuwayama's Borj-e Kafir near Sarai Khwaja
 
 **Identifications.** Mizutani: Kafir Qaleh SE of Begram, which has a stupa base and fits the direction and distance
-(uncertain). No other authority gives a site.
+(uncertain). Kuwayama: Borj-e Kafir E of Sarai Khwaja, a different site (below).
 
 **Gazetteers.** No gazetteer passage.
 
@@ -730,7 +790,11 @@ scale 30 li is c. 7–10 km; Mes Aynak is c. 82 km from Begram, and Xuanzang nam
 
 **Kuwayama.** Kuwayama (2000, p. 26) identifies the Rāhula monastery with "a still standing stupa called Borj‑e
 Kafir", "the one and only site" of the Buddhist group south of the capital. He places Kabul and its southern valleys
-in 弗栗恃薩儻那, not Kapiśa (p. 57).
+in 弗栗恃薩儻那, not Kapiśa (p. 57). The thesis and the 2002 collection say where it is: on the hills E of Sarai Khwaja (Mir
+Bacha Kot), "極端にベグラームからかけはなれて存在する" (1990, pp. 1157–58), "Borji Kafir near Tapa Skandar" (2002, p. 187), i.e. c. 40–50
+km S of Begram. He chose it because Xuanzang sets the Rāhula monastery apart from the northern Buddhist group and
+Borj-e Kafir is the only Buddhist site standing in the south (2002, p. 200); he quotes 大城東南三十餘里 without reconciling
+the distance. This is not Foucher's and Mizutani's Kafir Qaleh, c. 10 km SE of Begram (below).
 
 **Foucher (1942–47), p. 141 (recovered).** Foucher found at Kâfir-Qaleh, about 10 km from the "Bêgrâm" of Kapiça, a
 fortified quadrangle of 170 × 280 m and, 200 m north of it, a monastery with a stūpa mound 30 m across and a cell
@@ -740,8 +804,11 @@ text's.
 
 **Ji Xianlin et al. (1985).** Ji puts the monastery SE of Begram without naming a ruin (p. 145).
 
-**Assessment.** Mizutani's Kafir Qaleh and Kuwayama's Borj-e Kafir are probably the same standing stūpa SE of Begram;
-the identification is strengthened, and Mes Aynak is excluded by distance. Medium confidence.
+**Assessment.** Two rival sites, not one stūpa under two names. Kafir Qaleh, c. 10 km SE of Begram, fits the text's SE
+30-odd li (c. 15 km at Kuwayama's own 10 li ≈ 5 km) and has Foucher's stūpa mound and monastery court. Kuwayama's
+Borj-e Kafir has a standing stūpa and suits his north–south division of Kapiśa, but lies c. 40–50 km S, three times
+the distance, and he does not explain the figure. Kafir Qaleh is the better fit to the text; Borj-e Kafir is the
+rival. Mes Aynak is excluded by distance. Mizutani stands, medium confidence.
 
 ### 01.38.03 霫蔽多伐剌祠城 — Tatarānzar S of Begram, or Kuwayama's Tapa Skandar (Śvetāśvatara?)
 
@@ -758,7 +825,14 @@ is disputed). Cunningham: Begram, and the name may survive in Tatarangzar at the
 base of the Śaiva ash-smearers of Kapiśa (2000, p. 27; 1972, p. 46). He identifies it with Tapa Skandar (Bala Hisar)
 near Sarai Khwaja, "about thirty kilometers to the north of Kabul and some fifty kilometers south of Begram" (2000, p.
 27; 1972, p. 54), where the Kyoto mission found in 1970 the marble Umā-Maheśvara seated on Nandin with Skanda (2000,
-p. 26).
+p. 26). The thesis gives the argument for the name: 霫 is 胥立反 (tsiəp, as Mizutani noted), and since the Tapa Skandar
+pedestal hymn is in a Siddhamātṛkā with archaic forms and many errors, Xuanzang wrote the local pronunciation; the god
+is Śveta[s]va[ta]ra, founder of an ash-smearing Śaiva school (after Hara Minoru 1961), and the town can only be Tapa
+Skandar, "城壁で五角形にかこむ町" (1990, pp. 1223–29). He rejects Tatarānzar as too far north, Foucher's identifications
+leaning to the north in general (pp. 1152–55), and counts Paitāvā, "ベグラームの南方七キロほど", among the northern
+Buddhist sites (p. 1157). His distances do not agree: Begram–Tapa Skandar c. 40 km against the text's 四十餘里 (p.
+1152), c. 50 km elsewhere (p. 1230; 2002, p. 201). Tapa Skandar II began by the very early 7th c. at the latest (2002,
+p. 181). He also records Marquart and de Groot's *Spen-varas, "white hair" (2002, p. 278 n. 10).
 
 **Foucher (1942–47).** Mizutani's Tatarānzar is Foucher's view of 1923: the ruins on the dasht of Tataranzar, 40 li S
 of the city (I, p. 142). After a visit in October 1925 he put the town at "tertres importants de Paitâvâ et de
@@ -769,11 +843,23 @@ syllables of the name as Iranian (Pahlavi *spêt*, "white") rather than Sanskrit
 **Ji Xianlin et al. (1985).** Ji follows Mizutani's site c. 12 km S of Begram and doubts Watters' restoration on the
 syllable count; the name is probably NW Prakrit (p. 148).
 
+**Name.** By the key the characters give *Spētavarās: 霫 is s- with a -p coda before the labial, 蔽 pē (幫, a p, not v),
+then ta-va-ra and 祠 for the shrine. Of the forms proposed only Julien's Sphītavaras fits, and Foucher explains its
+first member as Iranian spēt "white"; Marquart and de Groot's *Spen-varas (via Kuwayama 2002, p. 278 n. 10) is of the
+same kind. Śveta- would be written 濕吠 with a v, and Śvetāśvatara also lacks a member for -śva-ta-; Cunningham's
+Saptavarṣa has no ṣ. The second member (-varās/-vara) is unattested. Better: *Spētavarās, low confidence
+(data/names/).
+
 **Assessment.** Three candidates. Tatarānzar fits 40 li from Begram but has nothing Śaiva, and its author moved away
 from it. Foucher's Paitāvā/Bulandi mounds, in the Koh-daman beyond Qarabagh, mark a town with an excavated Buddhist
-stūpa but no Śaiva evidence either. Tapa Skandar has the Śaiva sculpture that the name and Kuwayama's reading call
-for, but lies c. 50 km away, long for 40 li. The study keeps the map point at Tatarānzar and leaves the choice open,
-low confidence.
+stūpa but no Śaiva evidence either, and Kuwayama counts Paitāvā with the Buddhist north. Tapa Skandar has the Śaiva
+sculpture that Kuwayama's reading of the name calls for, but his own figures for it (40 or 50 km) are two or more
+times the text's 40 li (c. 20 km at 10 li ≈ 5 km). The name test cuts against his reading as he gives it: the
+characters write an Iranian *Spēt-, "white", not Sanskrit Śvetāśvatara. Kuwayama's own argument from 霫 is that
+Xuanzang wrote a local pronunciation, and a local Iranian form of a name meaning "white" could still stand for a
+Śaiva Śveta- name; but that is an extra step, and the second member does not give -āśvatara. The Śaiva link thus
+rests on Tapa Skandar's sculpture and on Xuanzang's ash-smearers, not on the name. The study keeps the map point at
+Tatarānzar and leaves the choice open, low confidence.
 
 ### 01.38.03a 阿路猱山 (*Arunau?, not aruṇa) — Khair Khana N of Kabul (Kuwayama), against the Chehel Dukhtaran peak (Cunningham, Beal)
 
@@ -786,7 +872,18 @@ Chehel Dukhtarin peak (p. 61, tentative). Vivien: no site.
 **Kuwayama.** Kuwayama (2000, pp. 27, 29, 36) takes 阿路猱 as Mount Aruṇa, a Sūrya cult place, and identifies it with the
 'Trois Sanctuaires' of Khair Khana, the Sūrya temple excavated N of Kabul. On his reading of the 漕矩吒 story, the 䅳那 god
 first held the mountain and left for Zābulistān before Xuanzang's visit (12.01). K. Harimoto's sketch notes only the
-30 li from 霫蔽多伐剌祠城.
+30 li from 霫蔽多伐剌祠城. The thesis and the 2002 collection spell out the argument (1990, pp. 1229–68; 2002, pp.
+200–7). Hackin's excavation at Khair Khana found two superimposed shrines: a lower 'Ancien Sanctuaire' of three rooms
+with a large central room and thick white plaster, and above it the 'Trois Sanctuaires', three equal cells of 38 × 38
+× 9 cm bricks with a round-bastioned building H, which yielded a Sūrya with Aruṇa as charioteer, a second Sūrya
+(found 1980) and sockets for nine images. Since the Sui 漕國 is Kāpiśī (01.38), the *Suishu*'s 葱嶺山有順天神 is this
+mountain under its earlier name: the lower shrine was the Zhun (順 = 稿那) temple, the upper the Sūrya temple of Mount
+Aruṇa, and the change fell between Pei Ju's 西域圖記 (606) and 629; the upper shrine is of the time of the last Begram
+III (2002, pp. 204–6). The Khair Khana pass was Kāpiśī's southern border (1990, pp. 1262–66). The reading Aruṇa comes
+from Hori Kentoku (解説西域記, 1912, p. 100) and is not argued phonetically (1990, pp. 1258–61). His distances are
+Khair Khana c. 10 km from Kabul and c. 30 km from Tapa Skandar, Tapa Skandar c. 50 km from Begram, which he finds
+"ほぼ照合する" with the text's 40 and 30 li as a proportion (p. 1230); it assumes his long Begram–Tapa Skandar stretch
+(01.38.03), and the absolute figures are about twice the text's.
 
 **Foucher (1942–47).** Mount Aruṇa was shown to Xuanzang "de loin" at Kāpiśī; Foucher reads Śuna as Śiva and puts the
 god's later temple in Jāguḍa, where the Helmand leaves the mountains (II, p. 258). He gives no site for the mountain.
@@ -801,10 +898,12 @@ give *Arunau or *Aruno; a vernacular -o ending (Bactrian or Gāndhārī) would e
 case and no such form is attested. The Sanskrit library has no mountain Aruṇa (giri, parvata, śaila, acala) that could
 be this one; Ji's Aruṇācala is a Himalayan homonym. Doubtful, low confidence (data/names/).
 
-**Assessment.** Khair Khana is the first candidate with excavated temples, but its cult link (sun worship for 'Aruṇa')
-rested on reading 阿路猱 as aruṇa, and the characters do not give aruṇa (see Name). It also depends on Kuwayama's Tapa
-Skandar for 01.38.03, from which it lies south as the text requires but at c. 20 km, long for 30 li (the same stretch
-as 01.38.03). Alternative, low confidence; Chehel Dukhtaran rests on the bearing alone.
+**Assessment.** Khair Khana is the first candidate with excavated temples, and Kuwayama's two shrines fit the legend
+of a god displaced from the mountain. But its cult link (sun worship for 'Aruṇa') rested on reading 阿路猱 as aruṇa,
+which Kuwayama took from Hori without a phonetic argument, and the characters do not give aruṇa (see Name). The
+Zhun side of the argument (順 = 稿那, Sui 漕 = Kāpiśī) does not depend on the name and stands. Khair Khana also depends
+on Kuwayama's Tapa Skandar for 01.38.03, from which it lies south as the text requires but at c. 20 km, long for 30
+li (the same stretch as 01.38.03). Alternative, low confidence; Chehel Dukhtaran rests on the bearing alone.
 
 ### 01.38.04 大雪山 (龍池・迦膩色迦王伽藍) — Kanishka's monastery: Top-Darrah near Charikar
 
@@ -826,8 +925,13 @@ descriptions du pèlerin" (I, p. 142).
 citing Mizutani, but gives the distance from Begram as 26 km where Mizutani has 12 km (p. 153); Charikar lies c. 12 km
 W of Begram, so the figure is probably a slip.
 
+**Kuwayama (1990).** No site. He equates the monastery with the 罽膩吒王伐龍宮沙彌寺 that Wukong lists in Kāpiśī, so
+it was still standing after 751 (pp. 1141–42, 1210–18); Top Darra appears only as the southern end of the Buddhist
+sites along the E foot of the Paghman (p. 1157).
+
 **Assessment.** Cunningham identifies only the mountain, Mizutani the monastery. The two do not conflict. Top-Darrah
-is the only site proposed and fits the distance but not the direction. Mizutani stands.
+is the only site proposed and fits the distance but not the direction; Kuwayama adds a later record of the monastery,
+not a site. Mizutani stands.
 
 ### 01.38a 迦畢試國大都城 — the capital of Kapiśa: Begram vs Opian vs Kushan vs Nijrao/Tagao
 
@@ -846,9 +950,21 @@ door jamb; above all, the hostage monastery 3 li E fixes the site (I, p. 140).
 
 **Ji Xianlin et al. (1985).** Ji agrees: Begram, 62 km N of Kabul (p. 137).
 
+**Kuwayama (1990, 2002).** Begram, the "new royal city" on the terrace S of the Panjshir. The rival he answers is
+Ghirshman's: having ended Begram III with the Chionite/Hephthalite invasion (late 4th–5th c.), Ghirshman put
+Xuanzang's capital at Gunde Paisa (Ghunde Peisa), a low mound c. 5 km SE of Begram (Ghirshman 1946, p. 41), a view
+ignored rather than refuted (1990, pp. 736–44). Kuwayama's answer is from the text: the 舊王伽藍 lies 王城西北大河南岸, with
+a second 舊王伽藍 and the 舊王妃伽藍 to its SE, all without distances, so the city stood close to the S bank of the
+Panjshir; Gunde Paisa, 5 km (c. 10 li) from the river, would have needed a figure (王城の遺跡としてはベグラーム以外にないの
+である, 1990, pp. 745–50; 2002, p. 162, p. 278 n. 9). He then re-dates Begram III by its round bastions and stamped
+pottery, linked with Tapa Skandar II and Khair Khana: "Begram III existed in the second quarter of the seventh
+century" (2002, chs. X–XI, p. 172).
+
 **Assessment.** None of the older authorities (Vivien, Cunningham, Beal, Dey) chose Begram; they offer four different
 sites. Foucher chose it. Mizutani's Begram rests on Foucher's 1923 survey, the French excavations Mizutani notes, and
-the consistency of the dependent sites (01.38.01–03a). The gazetteer passages only echo Cunningham's classical
+the consistency of the dependent sites (01.38.01–03a). Ghirshman's Gunde Paisa, the one rival proposed on excavation
+grounds, depended on his early end for Begram III; Kuwayama's argument from the riverside monasteries and his
+7th-century date for Begram III remove the conflict. The gazetteer passages only echo Cunningham's classical
 identifications. Mizutani stands, with the excavated site carrying more weight than the older guesses.
 
 ### 12.01 漕矩吒國 (*jaukuta) — Zābulistān (Ghazni region) vs Arachosia vs Sewistan
@@ -864,7 +980,12 @@ Majumdar: no site (p. 673).
 **K. Harimoto's notes.** "Nobody appears to know who 䅳那天 is."
 
 **Kuwayama.** Kuwayama (2000, pp. 29–33) equates 䅳那天 with the Zhun 順 whose statue the *Suishu* places on 葱嶺 in 漕國, and
-argues that the Zhun cult left Mount Aruṇa (01.38.03a) for Zābulistān between 606 and 629.
+argues that the Zhun cult left Mount Aruṇa (01.38.03a) for Zābulistān between 606 and 629. The *Suishu*'s 漕國 is
+Kāpiśī, not this country (01.38): 漕矩吒 lay S of the Hindu Kush beyond 弗栗恃薩儻那, early Tang sources call it 漕矩, 漕利
+(Daoxuan Zaoli) but never 漕 alone, and the *Tang shu*'s 謝䫻 (本曰漕矩吒，或曰漕矩。顯慶時謂訶達羅支。武后改今號) is the same country (1990, pp.
+686–97; 2002, pp. 203–4, 278 n. 13). So the *Suishu*'s 順天神, 金魚頭冠 and 昭武 king belong to Kāpiśī, not to Zābulistān.
+稿那呬羅山 is the Jabal az-Zūr of Yāqūt, whose idol Zūr = Zūn stood in Zamīn Dāwar on the right bank of the Helmand NE of
+Girishk (Balādhurī: taken by Ibn Samura); "シュナ神とズーン神とが同一であるかぎり、ザーブリス ターンの南界はギリシク附近にあったものとみてよい" (1990, pp. 1262–66).
 
 **Route test (whole juan).** The combination of candidates that best fits juan 12's distances and bearings takes
 Ghazni (Vivien 1858) here, not Mizutani's Zabulistan (SE Afghanistan) (route/README.md §6). The figures are one kind
@@ -896,7 +1017,10 @@ not on the place (data/names/bactrian.tsv).
 differ only in the label (Ghazna, Arachosia, Zābulistān). Foucher's Jaghuri adds a name match, as good as any the
 region offers (see Name), and puts the core in the upper Arghandāb W of Ghazni, where the map point already lies; the
 route test's Ghazni and Foucher's doubts about it (12.01a) leave open whether the country reached that far east.
-Beal's Sewistan is an outlier he corrects himself. Mizutani stands for the region; Jaghuri is an alternative core.
+Kuwayama's Zūn of Zamīn Dāwar puts the southern border, which Xuanzang marks by 稿那呬羅山, on the Helmand near
+Girishk, where Foucher too put the Śuna temple; it fixes a border, not the core. The *Suishu* 漕國 material belongs to
+Kāpiśī and is not evidence for this country. Beal's Sewistan is an outlier he corrects himself. Mizutani stands for
+the region; Jaghuri is an alternative core.
 
 ### 12.01b 鶴薩羅城 (*ghasala) — Guzar on the Helmand vs Vivien's Hazara localities
 
@@ -968,12 +1092,21 @@ the Life says, to the borders of Kapiśa (II, p. 232).
 **Ji Xianlin et al. (1985).** Ji gives no location: the meaning of the name is unclear and the position undecided (p.
 959).
 
+**Kuwayama (2002).** The district round Kabul, "from Maidan, or even Wardak, in the west to the Lataband Pass in the
+east", = the *Tang shu*'s 護時健 (N of Zābulistān, SE of Bāmiyān) (p. 198); the name perhaps *Ūrdhasthāna, "high
+region" (p. 258). Its Turkish king was a local minor power under Kāpiśī's hegemony, whose line later took the
+Kāpiśī throne at Kabul (Huichao; Bīrūnī) (pp. 198, 264). He sets Kāpiśī's southern border at the Khair Khana pass
+(1990, pp. 1262–66, see 01.38.03a), so the Koh-daman belongs to Kāpiśī, not to this country.
+
 **Assessment.** Everyone puts the country in or near the upper Kabul basin. The question is whether it centred on
-Kabul (Cunningham, Shiratori), on the Koh-daman north of it (Vivien's capital, Beal), or SW of Kabul in Wardak and the
-upper Logar (Foucher; close to Vivien's Vardak country and to Kuwayama's Kabul with its southern valleys, 01.38.02).
+Kabul (Cunningham, Shiratori, Kuwayama), on the Koh-daman north of it (Vivien's capital, Beal), or SW of Kabul in
+Wardak and the upper Logar (Foucher; close to Vivien's Vardak country, and within Kuwayama's district).
 Foucher's route weighs: the Life takes Xuanzang from the country NE and then E to the borders of Kapiśa, which a
 country in the Koh-daman, itself part of Kapiśa, would not need. The Koh-daman reading rests mainly on Opian (12.02a).
-The gazetteer repeats Cunningham. Wardak/upper Logar and the Koh-daman are alternatives, low confidence.
+Kuwayama's Kabul district, reaching W to Maidan and Wardak, joins Cunningham's and Foucher's readings rather than
+choosing between them, and his southern border of Kāpiśī at Khair Khana tells against the Koh-daman. The gazetteer
+repeats Cunningham. Kabul with Wardak/upper Logar is the better reading and the Koh-daman the alternative, low
+confidence.
 
 ### 12.02a 護苾那 (*hübina) — Hupian/Opian N of Charikar vs Cunningham's Kophene (not a town)
 
@@ -1037,6 +1170,10 @@ practice, 溪 where he usually writes Iranian x with 曉. Medium confidence; the
 of Khwastu" (BDNA II p. 279); doc. P (year 446 = c. 669, BDNA I p. 82) has inhabitants of Khwastu present in the
 district of Samingan. 闊悉多 writes Xwast with the stem vowel -u unwritten, and the link with Samingan suits Khost within
 reach of the Rob realm (data/names/bactrian.tsv).
+
+**Kuwayama (2002).** Agrees: 闊悉多 is the Khost–Nahrin districts on the highland E of the middle Surkhāb, one of the
+three countries Xuanzang says were subject to the Turks (with 瞢健 and 安呾羅縛); on his return Xuanzang crossed the Khawak
+to the upper Andarāb and went 300 li N to Khost–Nahrin, then on to 活 (pp. 132–33, 194).
 
 **Assessment.** The authorities agree unanimously, and the name match is good. Mizutani's hesitation concerns the
 exact valley only. Mizutani stands. Confidence medium: a small district identified by name and the authorities'
@@ -1113,12 +1250,16 @@ Mizutani's "no matching place name" is wrong. The modern Munjān lies far up the
 Yule), followed by Ji, extends the old district down the Bangi valley to the Tāliqān and Khānābād plains, which saves
 the route. Medium confidence for the name (data/names/).
 
+**Kuwayama (2002).** 瞢健 is "modern Talaqan", one of the three countries subject to the Turks (p. 132; "west of
+Kunduz" there is a slip, p. 194 has "Talaqan to the east of Khanabad"); Xuanzang reached it from 活 in two days, as
+the Islamic Warwālīz is two days' march from Tāliqān (p. 133). On the Tāliqān side, with Watters and the route test.
+
 **Assessment.** The name is Mungān/Munjān (see Name), so the question is no longer a sound match against the route but
 the extent of the district: the Munjān valley itself in S Badakhshan (Vivien, Beal's heading), or Marquart's larger
 Mungān district reaching down the Bangi to the Taliqan–Khanabad plain, where distance and sequence point (Beal's text,
-Watters, Mizutani; the route test takes Taliqan). Mizutani's area survives only through Marquart's extension of the
-district, which no source here documents for the 7th century. The Taliqan–Khanabad area stays the working point, low
-confidence, with the Munjān valley as the alternative.
+Watters, Mizutani, Kuwayama; the route test takes Taliqan). Mizutani's area survives only through Marquart's extension
+of the district, which no source here documents for the 7th century. The Taliqan–Khanabad area stays the working
+point, low confidence, with the Munjān valley as the alternative.
 
 ### 12.07 阿利尼國 (*alini) — the Arhang crossing near Hazrat Imam vs Vivien's Walwalij
 
@@ -1220,6 +1361,12 @@ name and Farkhar a weak alternative.
 **Ji Xianlin et al. (1985).** Ji gives no site. With Markwart he reads the name as perhaps Hematāla, a form of
 Hephthal, and takes the women's horned headdress for a Hephthalite custom (pp. 969–970).
 
+**Kuwayama (2002).** No site. He reads Xuanzang's account (a first king of Śākya stock, the people dispersed under
+many chiefs in fortified towns, living in felt tents) as the Hephthalites' fate after the Turks took 活: Himatala, "at
+the gateway to Badakhshan", became their summer pasture while their winter seat stayed in the Baghlān–Ghōrī plain (pp.
+132–33, 138). He rejects Funaki's placing of the Hephthalite capital badiyan in Himatala: royal towns lay in the river
+plains, not in the mountains (p. 137). This supports Ji's Hephthalite reading, not a site.
+
 **Assessment.** Beal (after Yule) and Mizutani agree, and the meaning of the name matches. No rival has been
 proposed. Mizutani stands as probable.
 
@@ -1230,6 +1377,10 @@ Vivien: the old town of Badakhshan on the Kokcha, 7 days from Taliqan; the capit
 to Jerm (p. 423).
 
 **Gazetteers.** No gazetteer passage.
+
+**Kuwayama (2002).** In 726 Huichao, who uses 王住城 for royal towns, gives none for Badakhshan although the Tokhara
+yabghu had fled there; Kuwayama infers that it had no major royal town (p. 134). That concerns the 8th century and the
+term, not Xuanzang's 大都城; no site.
 
 **Assessment.** All three put the capital in the Kokcha valley at or near Faizabad. Vivien distinguishes an older
 town but places it in the same area. Mizutani stands.

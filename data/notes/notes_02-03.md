@@ -75,6 +75,15 @@ referring to Watters. That concerns the name only, not the site.
 **Ji Xianlin et al. (1985).** Ji agrees: the Jalalabad region on the S bank of the Kabul river, from the Jagdalak pass
 to the Khyber (p. 221).
 
+**Kuwayama (1990, 2002).** Jalalabad, as Mizutani. For the Chinese pilgrims of the 4th–5th centuries Nagarahāra was
+the western end of Buddhist India, reached as a step beyond Gandhāra (1990, pp. 232–262; 2002, pp. 145–146). He takes
+several 5th-century names for it: Tanwujie's 月氏國 across the 辛頭那提河 to the west, where he worshipped the 佛肉髻骨 (a western
+月氏國, as against Gandhāra); the 「北天竺月氏國那竭呵城」 of Huiyuan's informant on the shadow; Buddhabhadra's birthplace, 「北天竺那呵利城」
+in the 出三藏記集 and 迦維羅衛 in his biographies (against Tsukamoto's Kapilavastu); and Zhimeng's 迦維羅衛國, 1,300 li SW of
+Gandhāra, where he saw the Buddha's hair, tooth, uṣṇīṣa bone and shadow. That last he reads as a copyist's corruption
+of a name beginning 那迦… (Nagara-), the 那 lost and the rest assimilated to Kapilavastu, which had none of these relics
+(1990, pp. 245–251, 328–330, n. 7).
+
 **Assessment.** Every authority agrees. Mizutani's "uncertain" reflects his hedged phrasing rather than any
 competing site.
 
@@ -97,9 +106,24 @@ site (I, p. 152). He gives the result as provisional.
 **Ji Xianlin et al. (1985).** Ji reports Cunningham's Dasht-i-Begram, c. 2 miles SW of Jalalabad, and Simpson's
 tableland a little W of it at the Kabul–Surkhab confluence, and chooses neither (p. 221).
 
-**Assessment.** The authorities split between Begram (Cunningham, Vivien, Mizutani) and Simpson's junction site (Beal,
-Watters). Foucher's argument from Hadda and the shadow cave, both secure, favours Begram, though nothing has been dug
-there. Mizutani is strengthened, medium confidence.
+**Kuwayama (1990, 2002).** The city is "probably" Shāh Naṣr Ghundai at Chahār-bāgh, c. 10 km SW of the town of
+Jalalabad, with many monastery sites on the hill-foots and terraces round it (1990, n. 28, pp. 1490–1491, from the
+Kyoto University distribution survey, Mizuno ed. 1970, fig. 24). In 2002 he puts it "some 10 kilometers to the west of
+modern Jalalabad bazaar" and reports fragments of Mathura sandstone sculpture he collected there in 1964 and 1972 (p.
+90); red-ware imports from the same mound occur in Tapa Skandar Period I (p. 177). He gives no argument from the text.
+The mound lies in Mizutani's "Dasht-i-Begrām near Chahār-bāgh", but it is not Cunningham's point: Cunningham's Begram
+lay "about 2 miles to the west of Jalalabad, and 5 or 6 miles to the W.N.W. of Hidda" (p. 51), at the near end of
+Masson's plain of tumuli. On the round figures alone (Hadda c. 8 km S of Jalalabad), Hadda would lie c. 9 km due E of
+a mound 10 km SW of the town, and c. 14 km SE of one 10 km W: the first fits the text's 30+ li but not its SE
+(城東南三十餘里至醯羅城), the second the bearing but not the distance. From Cunningham's spot Hadda lies c. 9 km SSE, which fits
+both.
+
+**Assessment.** The authorities split between the Begram plain (Cunningham, Vivien, Mizutani, Kuwayama) and Simpson's
+junction site (Beal, Watters). Foucher's argument from Hadda and the shadow cave, both secure, favours Begram, though
+nothing has been dug there. Kuwayama names a mound, Shāh Naṣr Ghundai, inside Mizutani's area, on survey and surface
+finds rather than excavation or the text; on the round distances it fits the bearing to Hadda less well than
+Cunningham's nearer spot, and his own two statements (10 km SW, 10 km W) differ. The capital stays on the Begram plain
+W/SW of Jalalabad; which mound is open. Mizutani is strengthened, medium confidence.
 
 ### 02.03.02 燃燈佛受記窣堵波 — Ahin-Posh (Higuchi) or the "Nagara Goondee" tope (Masson, Simpson)
 
@@ -112,6 +136,9 @@ there. Mizutani is strengthened, medium confidence.
 hypothesis. Measured from his Begram, the Life's SE suits it better than the Xiyu ji's E; the dome, over 75 m round on
 the cliff edge, resembles the Dharmarājikā at Taxila; and Simpson's coins of 1879 (Domitian, Trajan, early Kushans)
 show a rebuilding in the 2nd century (I, p. 152).
+
+**Kuwayama (1990).** Only the texts: Faxian's 受記處 2 li E of the city and the Life's 城東二里 (pp. 258–260). He names no
+site.
 
 **Assessment.** Each candidate depends on where its proponent puts the capital (02.03.01a): Foucher and Higuchi
 measure from Begram, Watters from Simpson's rock. With Begram now favoured, Ahin-Pōsh is the better candidate, but it
@@ -133,9 +160,20 @@ cave itself is lost in the collapsing conglomerate, but half a dozen monasteries
 **Ji Xianlin et al. (1985).** Ji agrees: among the black rock hills S of Chahār-bāgh, in the cliffs S of Jalalabad,
 after Higuchi (p. 227).
 
+**Kuwayama (1990, 2002).** No site on the ground. He sets Xuanzang's route (20+ li SW of the city to a small rocky
+ridge with a monastery; SW of it a gorge with a waterfall; the cave in the E cliff) beside Faxian's half yojana S of
+the city, facing SW, and beside the setting given in the 觀佛三昧海經 (T15 no. 643): 「那乾訶羅國古仙山薝蔔華林毒龍池側青蓮華泉北羅刹穴中阿那斯山巖南」
+(1990, pp. 270–273). He argues that the long shadow narrative in that sūtra is an insertion composed by its translator
+Buddhabhadra, a native of Nagarahāra, from his own knowledge, and that Buddhabhadra with Faxian informed Huiyuan's
+painted copy of the shadow at Lushan (412) (1990, pp. 311–337; 2002, pp. 117–118, 146). The cave is for him a local
+creation on the pattern of the Apalāla story of Uḍḍiyāna. Daofu, Baoyun, Zhimeng and Daoyao (440s) saw the shadow; by
+Xuanzang's time it was rarely visited (2002, pp. 118–119, after the Life). He doubts Mustamandi's reading of chapel H
+at Tapa Shotor (Hadda) as the Gopāla story (2002, pp. 94–95).
+
 **Assessment.** Watters, Higuchi and Foucher put the cave in the same range of hills south-west of the city, and
 Foucher's count of monasteries and stūpas round the Syāh-sang gap marks the holy place. None can point to the cave
-itself. Mizutani is strengthened as to the place.
+itself. Kuwayama's sūtra topography is a 5th-century description of the setting, not a location, and leaves the area
+as it is. Mizutani is strengthened as to the place.
 
 ### 02.04.02 卑鉢羅樹 — the pipal tree: just N of Shāh-ji-ki-Dheri, where a Hindu shrine now stands; the tree is gone
 
@@ -156,9 +194,25 @@ small octagonal temple still the scene of Hindu worship". Nothing was dug there.
 1½ mile, to the south-east of the city"), with the Babur and Abul Fazl dating. They also note that no remains of
 the stūpa beside it survive.
 
+**Kuwayama (1990, 2002): the bowl's 寶臺.** Mizutani's section covers the bowl as well as the tree (仏鉢および卑鉢羅樹). Xuanzang
+saw only its base: 「王城內東北有一故基，昔佛鉢之寶臺也」 (the Life: 王城東北有置佛鉢寶臺). Kuwayama makes the 寶臺 a building other than a stūpa in
+the northern part of Puruṣapura. Xuanzang always writes 窣堵波 for a stūpa, and Daoxuan's biography of Xuanzang calls it
+a 鉢廟. Faxian, who saw the bowl here in 402 (403 in 2002, p. 144), says that a Yuezhi king built a 塔 and a 僧伽藍 for 700
+monks where the bowl could not be moved, and that the monks brought it out at midday and in the evening, which a solid
+stūpa would not allow. Zhu Fawei and Zhi Sengzai (*Shuijing zhu* 2; *Yiwen leiju* 73) describe a 浮圖 of seven storeys
+with the bowl, hung on gold chains, in the middle of the second storey, and life-size gold and silver images on the
+four walls (1990, pp. 161–175; 2002, pp. 21–26). Dao'an's *Shishi Xiyu ji* put the bowl NW of the 揵陀越王城 (1990, p.
+173), against Xuanzang's NE; the 2002 version is less sure of that reading (pp. 25–26) and leaves it "either NE or NW"
+(p. 120). He rejects Rosenfield's view that the bowl was kept in the Kaniṣka stūpa, which all the pilgrims put E or SE
+outside the city (1990, p. 174, n. 17; 2002, p. 26). He dates the bowl in Gandhāra to before 310, through Fotudeng and
+Dao'an (1990, pp. 189–191), and doubts Xuanzang's report that it was then in Persia (1990, p. 602; 2002, p. 37). He
+proposes no site for the base.
+
 **Assessment.** The site of the tree follows from the excavated stūpa (02.04.03): it stood immediately north of
-Shāh-ji-ki-Dheri, c. 1½ miles SE of Peshawar. The Hindu shrine on that spot may carry on its sanctity, as Foucher
-and Spooner suggest, but that is an inference, and nothing of the tree remains.
+Shāh-ji-ki-Dheri, c. 1½ miles SE of Peshawar. The Hindu shrine on that spot may carry on its sanctity, as Foucher and
+Spooner suggest, but that is an inference, and nothing of the tree remains. The bowl's base, the other object of
+Mizutani's section, stood inside the old city in its northern part (NE in both the Xiyu ji and the Life), not at the
+Kaniṣka stūpa outside it; it is unlocated under Peshawar.
 
 ### 02.04.03 迦膩色迦大窣堵波 — Shāh-ji-ki-Dheri, settled by Kaniṣka's inscribed casket (Spooner 1908–09)
 
@@ -185,9 +239,25 @@ Kanishka's Vihara, in Mahasena's Samgharama, in the acceptance of the Sarvastiva
 **Gazetteers.** Peshawar 1883 and 1899 echo ASR II: no remains. A footnote in the Thana volume of the Bombay
 Gazetteer (1882) says "This is perhaps the great Mânikyâla tope", without argument.
 
-**Assessment.** An inscription naming Kaniṣka's foundation, in the relic chamber, settles the stūpa. The survey's
-"no remains" was hearsay, and the gazetteers copying it are overturned; the Thana footnote carries no weight.
-Mizutani is confirmed.
+**Kuwayama (2002).** In "Shah-ji-ki Dheri before Kanishka" (ch. V, pp. 69–89), re-reading Spooner's and Hargreaves'
+reports with unpublished Frontier Circle photographs, he accepts the mound as the stūpa the pilgrims ascribe to
+Kaniṣka, by its size and position (pp. 69–70), but splits its history. The radial walls on the natural soil are the
+foundation of a first, circular stūpa (Period I), no later than Kujula Kadphises by comparison with the Dharmarājikā
+at Taxila (pp. 85, 88–89); it was destroyed to its foundation, and a square stūpa, later made cruciform, was raised
+over it. The relic chamber was built against the broken ends of the radial walls, so the "Kanishka casket" belongs to
+the rebuilding, not to the first stūpa (p. 83). He reports Fussman's re-reading of the casket (1987), which makes the
+monks Mahāsena and Saṃgharakṣita the donors, recognises Kaniṣka neither as founder nor as donor, and finds no secure
+date in his reign (p. 70). The front-view stucco Buddhas in the photographs are of a post-Gandhāran style (p. 71), and
+he groups the cruciform plan, with round towers at the corners, with stūpas of the 7th–8th century (pp. 7, 58). He
+reads Xuanzang's legend of Kaniṣka's stūpa rising over the boy's small one as the memory of Kaniṣka covering an older,
+damaged circular stūpa (p. 89).
+
+**Assessment.** The great stūpa is settled by its size, its position E/SE of the city and an inscribed casket in its
+relic chamber that names Kaniṣka (Konow: Kaniṣka's vihāra). Fussman's re-reading, as Kuwayama reports it, removes
+Kaniṣka as founder and donor, and Kuwayama puts the casket in a rebuilding over an older circular stūpa; that sequence
+agrees with the legend Xuanzang tells, and on his dating parts of the excavated cruciform monument may be later than
+Xuanzang. Neither point moves the site. The survey's "no remains" was hearsay, and the gazetteers copying it are
+overturned; the Thana footnote carries no weight. Mizutani is confirmed.
 
 ### 02.04.06 迦膩色迦伽藍 — Kaniṣka's monastery: the W mound at Shāh-ji-ki-Dheri (Spooner), not Gor Khattri
 
@@ -209,6 +279,10 @@ conjecture, which he later dropped.
 
 **Gazetteers.** Peshawar 1883 and 1899 echo ASR II ("survived as Gor Khatri"), with the Babur, Akbar and Vīra Deva
 references.
+
+**Kuwayama (2002).** Agrees that the monastery lay W of the stūpa: the 6-m "Monastery Mound" where Crompton dug, with
+three superimposed buildings (two of brick, the last of brick and stone) with square pillar bases and walls faced with
+round or semicircular towers (pp. 69–70).
 
 **Assessment.** Gor Khatri rested on the name and later fame of the place, argued before the stūpa was found, and
 its author dropped it. The excavated stūpa, the inscription naming Kaniṣka's vihāra, and the great monastic mound
@@ -242,6 +316,10 @@ distance from Peshawar and Ptolemy's Peukelaotis.
 
 **Ji Xianlin et al. (1985).** Ji agrees: Charsadda, 17 miles NE of Peshawar, on the E bank of the Swat a little above
 its junction with the Kabul river (p. 251).
+
+**Kuwayama (2002).** Charsadda, the mounds of Bala Hisar or Shaikhan Dheri (p. 177). He takes Faxian's 揵陀衛
+(*Gandhavatī) for Puṣkalāvatī (p. 23), but elsewhere equates it with Songyun's 佛沙伏 at Shahbaz Garhi (p. 112;
+02.04.14). The two statements do not agree; the site of the town is not in question.
 
 **Assessment.** Garrick's survey adds field evidence to Cunningham's reckoning, and the Palatu Dheri excavation
 (behind Majumdar's "certain after excavation") shows Buddhist remains among the villages. Vivien's Nisatta, made
@@ -306,6 +384,9 @@ never v in the counted names, so Watters' Paluṣa fails and Julien's Varuṣa s
 characters elsewhere; 虜 is ru/lu and 沙 is ṣa (生). The characters give *Bharuṣa or *Baluṣa, which is not attested in
 the Sanskrit library, the inscriptions or the survey reports. Low confidence; Cunningham's "Palo" argument for
 Palodheri rested on the p-form and falls with it (data/names/).
+
+**Kuwayama (2002).** Songyun's 佛沙伏 (Boshafu) is Varuṣapura, Shahbaz Garhi, three days W of the Indus; Faxian and
+Songyun both took six days from Taxila to it (p. 112). Agrees.
 
 **Assessment.** Palodheri was Cunningham's view of 1863–64, carried into the *Ancient Geography*; he had moved to
 Shahbaz Garhi by 1872–73. The Annual Reports repeat Shahbaz Garhi without new evidence. Mizutani stands.
@@ -442,6 +523,9 @@ where Xuanzang crossed both ways and the king of Kapiśa wintered (I, p. 40; II,
 
 **Ji Xianlin et al. (1985).** Ji agrees: Ohind, NE of the Kabul–Indus confluence, 16 miles above Attock (p. 261).
 
+**Kuwayama (2002).** Udabhāṇḍapura is Hund, on the N bank of the Indus above Attock, with Stein and against Caroe's
+tepe near Lahor (p. 245); the winter seat of the 6th–7th-century Kāpiśī kings (p. 209). Agrees.
+
 **Assessment.** The name runs unbroken from Udabhāṇḍa to Hund, and the remains and coins show a large town in use
 from the Indo-Greeks to the Shahis whose extent fits the 20 li circuit. Nothing found names it, but Watters' doubt
 has no evidence behind it. Mizutani is strengthened.
@@ -462,6 +546,9 @@ capital".
 **Ji Xianlin et al. (1985).** Ji takes Mingora, c. 5 miles SW of Manglaor, after the Italian mission, whose
 excavations exposed the remains of a city and of monasteries; he reports Cunningham, Hori and Stein for Manglaor (p.
 273). He cites no report or date, so this adds nothing to Mizutani's own source.
+
+**Kuwayama (2002).** Mengjieli is "tentatively" Mingora, and the road north runs Mingora–Khwaja Khela–Shang on the
+Indus (p. 145). He gives no argument for Mingora over Manglaor.
 
 **Assessment.** Mizutani rests on the Italian excavations around Mingora and Butkara. The older authorities rest on
 the name Manglaor and on Stein. Both places lie in the same stretch of the Swat valley, 5 miles apart, and nothing
@@ -549,6 +636,12 @@ described.
 **Ji Xianlin et al. (1985).** Ji discusses only the name: Watters and Hori take mayū for mayūkha 'light', Julien reads
 masūra 'lentil' to fit the gloss 唐言豆 (pp. 281–282). He gives no site.
 
+**Name.** The characters fit none of the three restorations well. 摩 is ma and 愉 yu (以 y-, 虞 u), so Watters' and Hori's
+mayū[kha] "light" fits as far as it goes but needs a dropped syllable and does not fit the gloss 唐言豆 "bean"; Julien's
+masūra "lentil" and Mizutani's Iranian maš "bean" fit the gloss but not 愉 (s would need a 心 initial, and maš has no
+vowel for 愉). No Indic word for a pulse of the shape *mayu- is known (māṣa, mudga, masūra and kalāya all break 愉). Two
+characters give easy chance matches; low confidence, and the name does not bear on the site (data/names/).
+
 **Assessment.** Each candidate depends on where its proponent puts Mahāvana (03.01.06): Cunningham measures from
 Mahaban, Mizuno from Shināsi. The question cannot be settled from these sources.
 
@@ -622,6 +715,14 @@ between the Chitral river and the Tal valley, 450 li NE of Manglavor. Beal and W
 **Ji Xianlin et al. (1985).** Ji agrees: the head of the Aushiri valley near Darora, draining to the Panjkora, with a
 lake a mile long, after Deane, who doubted how Xuanzang measured the distance (p. 290).
 
+**Name.** The Taishō text has 藍勃廬 (CBETA 盧): 藍 lam (with -m before the labial), 勃 b(u)r, 廬/盧 ru or ro. That gives
+Lambura, the name of a nāga king listed with Apalāla (03.01.03) in the *Mahāmeghasūtra* ("apalālena ca lambureṇa ca"),
+and as Lamburaka beside Elāpattra (03.03.02) in the *Mahāmāyūrī* and the Bower manuscript. The text says the mountain
+has a nāga lake on its ridge (山嶺有龍池), so a mountain named after its nāga is what one expects. This replaces the
+unexplained Lamboura (Julien), Lanpolu (Beal, Watters) and Rābora (Hori). Medium confidence, since 廬 for a final -ra
+is irregular unless 勃 is bur and 廬 -ru; the form helps to place the lake among the Swat nāga cults but does not locate
+it (data/names/).
+
 **Assessment.** Deane's lake matches the dragon-lake story. Vivien's Laspur is a map reckoning. The gazetteers do
 not touch the question, so Mizutani stands, with low confidence.
 
@@ -691,6 +792,9 @@ This concerns the city of the plate's date (1st c. BC/AD), not directly the capi
 **Foucher (1942–47).** Sirsukh is the Kushan city, about as old as Puruṣapura (I, pp. 42–3). He does not say which
 city Xuanzang saw.
 
+**Kuwayama (2002).** Without soundings inside Sirsukh its building sequence is "guesswork"; parts of its fortification
+may be diaper work carried on from Sirkap (p. 4). He says nothing of occupation in the 7th century.
+
 **Assessment.** The Bir mound rests on surface finds and on a circular argument with a head-gift stūpa that Marshall
 has since put elsewhere. The Annual Reports show Sirsukh to be the walled Kushan city, the latest of the three,
 still occupied in the 3rd–4th century. That supports Mizutani, though nothing here proves occupation in the 7th
@@ -747,10 +851,17 @@ place-name.
 
 **Ji Xianlin et al. (1985).** Ji agrees: the Bhallar stūpa at the W end of Sarda hill, 8 miles N of Taxila (p. 304).
 
+**Kuwayama (2002).** He puts Bhallar among the new foundations of Taxila's last building period (VI), with a stūpa of
+gigantic size in huge dressed limestone blocks, a technique he matches in 7th–8th-century Kashmir, and makes Xuanzang
+an eyewitness of the revival in the early decades of that period (pp. 6–7). On his scheme the stūpa Xuanzang saw at
+Bhallar was new or newly rebuilt.
+
 **Assessment.** Cunningham's 12–13 li N is measured from the Bir mound; from Sirsukh, which lies at the NE corner of
 Babar-khana on his own plan, the Jhandiala stūpa is not to the north. Marshall's dating objection decides nothing,
-since by his own account Bhalar is no older and the "Aśoka" is legend either way. With Sirsukh as the city
-(03.03.01a), Bhallar stands, on the excavator's word rather than a published argument.
+since by his own account Bhalar is no older and the "Aśoka" is legend either way. Kuwayama's late date for Bhallar
+(his Period VI, Xuanzang's time) agrees with Mizutani's "early medieval" against Marshall's 3rd century, so the stūpa
+Xuanzang saw there would have been recent. With Sirsukh as the city (03.03.01a), Bhallar stands, on the excavator's
+word rather than a published argument.
 
 ### 03.03.06 拘浪拏太子窣堵波 — Kunāla stūpa: Marshall's excavated stūpa on the Hathiāl ridge; the bearing from Sirsukh still contested
 
@@ -777,6 +888,10 @@ scroll does not mention Kunāla.
 **Ji Xianlin et al. (1985).** Ji reports Marshall's Kunāla stūpa on the Hathiāl ridge running NE from Sirkap, beside
 the Kunāla monastery (Guide, pp. 150–151), but notes that its bearing differs from Faxian's and Xuanzang's and leaves
 the identification undecided (p. 307). This is the note's own doubt, reached without Yamamoto's argument from Sirsukh.
+
+**Kuwayama (2002).** The Kunāla stūpa and monastery on the hill S of Sirkap belong to his Period V, built when Sirkap
+was "already an old story", and were renovated in Period VI, the period Xuanzang saw (p. 7). That puts the monument in
+use in his day; it says nothing of the bearing from Sirsukh.
 
 **Assessment.** The survey's two sites, measured from the Bir mound, yielded nothing (Karmal) or need the bearing
 altered (Meri). Marshall's site has a large stūpa with an older core, but from Sirsukh, Mizutani's own capital, the
@@ -815,6 +930,10 @@ in the plain that does not fit 依山據嶺 (pp. 313–314). He argues that Xuan
 ("heard of"), the next stage of the Xiyu ji starts again from the northern border of Taxila, which would be a strange
 detour after 700 li to the SE, and the Jaina passage reads as hearsay (03.04.x1). He puts the distance mismatch down
 to this. The Life does read 聞 (T50:0231a), but 復還 by itself would fit a return from a detour just as well.
+
+**Kuwayama (2002).** In passing, Siṃhapura is in the Salt Range: he argues that Songyun's Hephthalite king camped near
+Jhelum to control the Kashmiri salt trade from the Salt Range, "where, as Xuanzang stated …, Singhapura was located"
+(p. 112). Agrees.
 
 **Assessment.** The country is the Salt Range round Ketas and Malot, 9 miles apart, on every view; the praśasti
 confirms the dynasty but not its location. Watters' "abandoned" refers to ASR V's Malot. Stein's later fieldwork

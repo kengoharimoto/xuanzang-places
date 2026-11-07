@@ -39,8 +39,22 @@ Masson's jar with an ink Kharoṣṭhī inscription from one of the Hidda stūpa
 1923 in a quadrangle by the Teppeh-Kalān found small stūpas and stucco sculpture (I, pp. 152–3).
 **Ji Xianlin et al. (1985).** Ji agrees: Hadda, c. 5 miles S of Jalalabad, from haḍḍa "bone", after Cunningham, with
 the French excavations in support (p. 230).
-**Assessment.** The name (Haḍḍa/Hidda), the distance and a large excavated Buddhist site agree, and no one proposes
-another place. Secure.
+**Kuwayama (1990, 2002).** Hadda: Faxian's 醯羅城 on Nagarahāra's border, with the 佛頂骨精舍. His point is the movement of
+relics. Faxian (c. 400) has the parietal bone at Hadda but the robe and staff in a valley 1 yojana NE of the city and
+the tooth stūpa in the city; Daoyao (440s; the 道榮 of the 洛陽伽藍記) has robe and staff in the 耆賀濫寺; Xuanzang finds the
+tooth stūpa a ruin and the parietal bone, eyeball, robe and staff all in Hadda's two-storeyed building. The relics
+were therefore moved to Hadda between the mid-5th century and 629 (1990, pp. 253–257; 2002, pp. 119–120). His Hadda
+chapter (2002, ch. VI, pp. 90–106) compares the stūpa courts of Tapa Shotor and Lalma but ties no excavated building
+to the skull-bone building. He also suggests (2002, p. 26) that Dao'an's 鉢吐羅越 may hide a *醯羅越, "the royal city of the
+Buddha's robe", close to 醯羅; that would put the robe at Hadda in the 4th century, which sits ill with his own
+relocation argument.
+**Name.** 醯 is hi or he (曉, 齊 rhyme) and never renders a, so haḍḍa "bone", the etymology Ji and others repeat, breaks
+the first syllable; 羅 for ḍḍ is exceptional (the key otherwise has ra/la, with ḍ in 荼, 擇 and 仗). The characters give
+*Hiḍa or *Hiḷa (Prakrit ḍ > ḷ), which matches the i of the modern Hidda and Cunningham's "Hida" (p. 52). No ancient
+form of the place name has been found: CII 2.1 has only the modern "Hidda inscription". Low confidence for the form;
+the identification is unaffected (data/names/).
+**Assessment.** The name (modern Hidda; Xuanzang's *Hiḍa/*Hiḷa, not haḍḍa), the distance and a large excavated
+Buddhist site agree, and no one proposes another place. Secure.
 
 ### 02.04 健馱邏國 (gandhāra) — the Peshawar valley; capital fixed by Kaniṣka's inscribed casket
 
@@ -54,6 +68,13 @@ Shāh-ji-ki-Dheri (see 02.04.03). Route test: Hadda to Gandhāra 144 km for "500
 **Ji Xianlin et al. (1985).** Ji agrees on the Kabul-river basin between the Kunar and the Indus, but adds the
 Rawalpindi district (p. 234). For Xuanzang's time that is too wide: the text treats Takṣaśilā, in the Rawalpindi
 district, as a separate country subject to Kashmir (03.03).
+**Kuwayama (1990, 2002).** The 罽賓 of the 4th–5th-century Buddhist sources (the *Gaoseng zhuan* and *Chu sanzang jiji*)
+is Gandhāra, with its capital at Puruṣapura, not Kashmir. The bowl that Faxian saw at Puruṣapura in 402 and that
+Zhimeng (after 404), Tanwujie (Dharmodgata, after 420) and Huilan saw "in 罽賓" is one object by its description (dark
+purple-blue, the four rims visible); their routes, by Bolor and the Indus, are Faxian's; 乾陀羅 and 揵陀越 do not occur in
+those two books; and Kashmir has no Buddhist remains older than the 7th century except Harwan (1990, pp. 115–200, esp.
+121–123, 161–166, 188–189; 2002, pp. 22, 142–146). He limits the claim to Huijiao's usage (1990, n. 13, pp.
+1480–1481). It adds to the history of the name, not to the extent of the country.
 **Assessment.** Agreement, the inscribed casket at the capital and the route make it secure.
 
 ### 02.04.01a 布路沙布邏 (puruṣapura) — Peshawar; name and the Kaniṣka stūpa settle it
@@ -66,6 +87,9 @@ outside the Ganj Gate (02.04.03), anchors the city. Pargiter (EI 12, p. 302) tak
 **Foucher (1942–47).** Agrees: the old city lies under Peshawar City, which "ne nous a pas semblé avoir changé de
 place", reached from the Khyber by Takkal (I, p. 44).
 **Ji Xianlin et al. (1985).** Ji agrees: the NW part of Peshawar city, on the S side of the Kabul river (p. 235).
+**Kuwayama (1990, 2002).** Peshawar. He equates Faxian's 弗樓沙, the 佛律婆[娑]越 of Zhi Sengzai's *Waiguo shi* ("the royal
+city of the devaputra") and the 揵陀越王城 of Dao'an's *Shishi Xiyu ji* with it, and puts the bowl's building inside the
+city (1990, pp. 162, 170–175; 2002, pp. 24–26; see 02.04.02). Agrees.
 **Assessment.** Continuous name and an inscription at the city's chief monument. Secure.
 
 ### 02.04.14b 跋虜沙城東門外窣堵波 — But Shahri E of Shahbaz Garhi (Foucher); a single proposal
@@ -202,6 +226,8 @@ test's shortfall comes from the straight line (route/README.md §10, Test 4). Fa
 renders ḍḍ once, in Hiḍḍa). Read as they stand, the characters give *Darela, the modern valley name Darel (Faxian's 陀歷
 also has l); no Sanskrit *Darela is attested, and the Sanskrit sources have only Darad/Darada (Kalhaṇa, Jonarāja).
 Either reading leads to the same valley; medium confidence (data/names/).
+**Kuwayama (2002).** Faxian's 陀歷 and Xuanzang's valley are the same; he places it where the Indus turns from W to SW,
+"or around Chilas" (p. 145). Agrees.
 **Assessment.** Name and agreement, with the route bearing exact and the distance normal along the Indus road; no
 site evidence. Mizutani stands (medium).
 
@@ -219,6 +245,9 @@ a Gilgit manuscript colophon (śrīpaṭolaṣāhi, Mahāsannipātaratnaketudhā
 von Hinüber (2004), who linked it with Bolor; Xuanzang's 露 (l) agrees with that reading. Medium confidence for the
 form, with the von Hinüber reading as reported, not checked here; what it means for the site is weighed in the
 assessment (data/names/).
+**Kuwayama (1990, 2002).** 鉢露羅 is Zhimeng's 波倫, Bolor or Palur (2002, p. 145), reached by the 5th-century pilgrims
+from Tashkurghan over the Naizatash, Ishkoman or Darkot passes (p. 146), which puts it at Gilgit (1990, p. 149). This
+is the 5th-century Bolor on the pilgrims' road; he does not discuss Baltistan or the 500 li E of Darel.
 **Assessment.** Agreement and bearing; no site evidence. The name (*Palola) is that of the Palola Ṣāhis, whose
 7th-century inscriptions and manuscripts come from Gilgit and Hatun, which points to the Gilgit side of their kingdom.
 Ji, however, takes 鉢露羅 for the Tang histories' Great Bolor (大勃律), distinct from Little Bolor in the Gilgit–Yasin
@@ -268,6 +297,11 @@ area to Muzaffarabad (from Albiruni), 84 road miles on to Baramula (Drew; six ma
 Drew's route table (*Jummoo and Kashmir Territories*, 1875, App. IV, route 8) gives the whole road from Abbottabad by
 Muzaffarabad and Baramula to Srinagar as 156½ miles in 11 marches. That is 252 km for the 1000 li (0.25 km per li, the
 normal value), about 91 li a march (route/README.md §10, Test 4).
+**Kuwayama (1990).** Xuanzang's note on the name, 「迦濕彌羅國（舊曰罽賓，訛也）」, shows that 罽賓 = Kashmir was the translators'
+equation (Enomoto: the *Divyāvadāna*'s Kaśmīrapura is 罽賓 in the 阿育王傳), not a geographical fact for the 4th–5th
+century, when the Buddhist 罽賓 was Gandhāra (02.04) (pp. 119–121). In the Sui period 罽賓 was Kashmir (the one country
+that did not answer Yangdi's summons, 唯罽賓不至), and in the Tang it was Kāpiśī (pp. 702–711). This adds to Chavannes' Han
+罽賓 = Kaspeiria, reported by Ji, without bearing on the identification.
 **Assessment.** Name and agreement, and the distance normal along the Jhelum road; no site evidence in these files.
 Mizutani stands (medium).
 

@@ -439,9 +439,11 @@ Gorakhpur 1987 places Pippalivana in Gorakhpur district without a site.
 535).
 
 **Name.** Mizutani's original name, Pippalavana, belongs to the Moriyas' country, not to the transcribed name: 尼拘盧陀
-renders nyagrodha/nigrodha, the banyan grove. The name of the grove is secure; the mismatch is one of labelling.
-Carlleyle's bar (banyan) forest round Rajdhani rests on the meaning of nyagrodha, not on a surviving name
-(data/names/).
+renders nyagrodha/nigrodha, the banyan grove. The spelling is not Xuanzang's own: 拘 has k for g and 尼 ni for nya-, so
+it is the conventional pre-Xuanzang, Prakritic form (Pa. nigrodha; cf. his own 尼拘律樹 elsewhere). No Sanskrit text found
+names the ash stūpa at a nyagrodhavana (searched nyagrodhavan-, nigrodhavan-, pippal(i)vana, aṅgārastūpa). The name of
+the grove is secure; the mismatch is one of labelling. Carlleyle's bar (banyan) forest round Rajdhani rests on the
+meaning of nyagrodha, not on a surviving name (data/names/).
 
 **Assessment.** Rajdhani belongs to Carlleyle's chain from Bhuila, and Nandangarh to Smith's Nepal-side scheme. Neither
 is tied to the Moriyas by anything found. Later work, not in these sources, excavated a stupa at Nandangarh. Here
@@ -927,7 +929,10 @@ next site (07.03.13); Xuanzang's parting place lies only 50–60 li NW of the ci
 **Gazetteers.** None.
 
 **Name.** 婆 never renders vi in the key (vi is 毘), so 栗呫婆 gives licchava, not Mizutani's licchavi; 呫 is ch by
-Xuanzang's own fanqie 昌葉反. The name is that of the people, not the place, and does not bear on the site (data/names/).
+Xuanzang's own fanqie 昌葉反. No a-stem *licchava is attested: the library has only the i-stem locative licchavau
+(Vimalakīrtinirdeśa), and the Nepal and Gupta inscriptions write licchavi- throughout. Most likely Xuanzang dropped
+the final -i, as he drops other finals, so Licchavi remains the name, with low confidence in the form. The name is
+that of the people, not the place, and does not bear on the site (data/names/).
 
 **Assessment.** It remains unidentified. Faxian's inscribed pillar would be the thing to look for.
 

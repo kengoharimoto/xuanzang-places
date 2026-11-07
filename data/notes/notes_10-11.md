@@ -291,6 +291,11 @@ Chittagong, "anciently called Sri-Chattala". Both rest on a name; neither cites 
 Bhattacharya's local identifications of all six countries (JRAS 1920: Sylhet, Comilla, Tipperah, Manipur, Bhamo, and
 Tambudeepa S of Ava) and sides with Finot's rebuttal in the same volume (pp. 804–5).
 
+**Name.** 差 has the e-rhyme (佳/皆), the key's kṣe; a -kṣatra would want 叉 or 刹. So 室利差呾羅 is śrīkṣetra, the form
+Mizutani gives in brackets, not his lead śrī-kṣatra. Śrīkṣetra (Pa. Sirikhetta, Burm. Thare Khettara) is the name of
+Old Prome in Burmese tradition and in the survey reports (AR 1922–23: "Prome or Srikshetra"). The name supports Prome,
+but it is the chronicles' name for the city, not a find (data/names/).
+
 **Assessment.** Prome has the matching name but not the direction; Sylhet has the direction, Chittagong the emended
 direction, and both only a looser name. Bhattasali's emendation to SE is the same correction Mizutani's Prome needs.
 The excavations give Hmawza a large walled Buddhist city of Xuanzang's time, which no Bengal candidate shows. Mizutani
@@ -469,6 +474,10 @@ described by the Chinese pilgrim" (IAR 1966–67, p. 47).
 **Ji Xianlin et al. (1985).** Ji agrees: the monastery named for the red soil, tied to the Rajbadidanga sealing of
 10.08 (pp. 808, 810).
 
+**Name.** 知 is a retroflex (知 initial, key ṭi) and 末 has a -t coda, so 絡多末知 is rak-ta-maṭ-ṭi: Prakrit *raktamaṭṭi (<
+mṛttikā) with a retroflex, not the dental -matti of Mizutani's form. The Prakrit compound is not attested as such; the
+Sanskrit Raktamṛttikā is, on the Rajbadidanga sealings (data/names/).
+
 **Assessment.** A monastery named on its own sealings, in levels of Xuanzang's century, on the site Mizutani gives:
 the identification is settled, and the 1914 objection to the place-name no longer matters. Mizutani is strengthened,
 with high confidence.
@@ -489,6 +498,11 @@ the river.
 **Ji Xianlin et al. (1985).** Ji takes 高桑駒吉's capital at Dhauli, the ancient Tosali, 7 miles S of Bhubaneswar, on the
 strength of the Aśokan rock edict there and the text's "stūpas built by Aśoka" (p. 813). He rejects Cunningham's
 Cuttack (too late a city), Fergusson's Midnapur (misled by the juan's order) and Watters' Yajapur (not well argued).
+
+**Name.** 烏荼 is o-ḍḍa: 荼 is a retroflex (澄) and there is no character for r (compare 達羅 dra, 呾羅 tra). So the form is
+the vernacular oḍḍa/uḍḍa (Kanarese oḍḍaru; Odda-viṣaya for Orissa in Rājendra Cōḷa's Tirumalai inscription, AR
+1911–12), not the Sanskrit uḍra/oḍra that Mizutani lists first. oḍḍa is already among his forms; only the order
+changes, and the country is unaffected (data/names/).
 
 **Assessment.** The country is not in doubt; the capital remains open, with Jajpur, north of the Mahānadī, the most
 widely held candidate. If Chakravarti's boundary held in Xuanzang's time, Dhauli/Tosalī and Bhubaneswar on the south
@@ -1329,9 +1343,16 @@ Chitor (pp. 925–6). Bundelkhand lies about twice the stated distance from Ujja
 km N of Ujjain, though it does not look an old city. He notes that the Fangzhi has "E 1000 li" for the Xiyu ji's and
 the Life's "NE".
 
-**Assessment.** The inscriptions and caste names fix the country in Bundelkhand, against Chitor and Chedi; the
-epigraphic names are 11th–12th-century. The capital stays open: Khajuraho has the circuit and a Buddhist pedestal but
-needs the kos reading; Eran fits the distances.
+**Name.** The original is unknown. 擲 has a retroflex initial (澄) with the 昔 rhyme, roughly ḍ(y)ek; 枳 is ki or ci; 陀
+da/dha. The key renders j by 常/章 (23 of 24), never by 澄, so Jejāka(bhukti) or Jajhoti does not fit the first
+character, and 陀 does not give -ka or -ti. Jejākabhukti is a real name for Bundelkhand in the inscriptions, but its
+match with 擲枳陀 is loose. No form that fits the characters has been found (data/names/).
+
+**Assessment.** The inscriptions and caste names show that Jejākabhukti/Jajhoti was Bundelkhand's name in the
+11th–12th centuries, and most authorities take 擲枳陀 for it, against Chitor and Chedi. But the link between that name
+and the characters is loose (擲 is a retroflex, not the j of Jejāka; see Name), and Bundelkhand lies about twice the
+stated distance from Ujjain, so the country is probable rather than fixed. The capital stays open: Khajuraho has the
+circuit and a Buddhist pedestal but needs the kos reading; Eran fits the distances.
 
 ### 11.14 摩醯濕伐羅補羅國 (Maheśvarapura) — Gwalior; Mandla and Seronj lapse, Maheswar is a name only
 
@@ -1464,6 +1485,12 @@ AD". He declines to blame a burnt layer on the Hūṇas. None of the reports men
 **Ji Xianlin et al. (1985).** Ji agrees: Harappa, rejecting Jammu as c. 250 miles from Multan against 700 li ("about
 117 miles") (p. 933). He wrongly gives Jammu to Cunningham as well as Smith; Cunningham proposed Shorkot and then
 Harappa.
+
+**Kuwayama (1990, 2002).** In passing, Kuwayama identifies the 波羅鉢多 to which the broken bowl goes in the *Lianhuamian
+jing* (蓮華面經) with 鉢伐多國 (*parvata), a dependency of Takkadeśa, and calls "Cunningham's" Jammu "正鵠をえている", since parvata
+'mountain' points that way (Kuwayama 1990, p. 618, n. 51). He does not argue it further, and the 2002 English leaves
+Boluoboduo unidentified (*parvata, *pravada or *paravata; Kuwayama 2002, p. 41). It is one more voice for Jammu,
+resting on the meaning of the name; like Ji he gives Jammu to Cunningham, where it is Smith's.
 
 **Assessment.** Shorkot fails on the measured circuit and needs an emended name; Harappa rests on size and position.
 The Bandhogarh Pavata does not bear on the site. Bakker's Parvatikā at Akhnūr revives Smith's Jammu with a real
@@ -1805,9 +1832,10 @@ Gedrosia, Arachosia, A-p'o-kien, Fa-la-na and Sind, and the horse- and sheep-bre
 Kykānān of the Arab historians (Kykan, at Chal) and Stein's Waziristan are "only possibilities".
 
 **Name.** 稽 is ke (見 + 齊) and 疆 ka(ṅ), so 稽疆那 has three syllables, *Kekaṅna or *Kekāṇa (Mizutani's MC note *kekanna).
-His Sanskrit kokaṅkaṇa (Kūrmavibhāga) has four syllables and o for e, and the key cannot accommodate it: unresolved.
-The Arab Kīkān/Qīqān fits the characters better, but Stein's Waziristan and the Kalat placements both rest on that
-name, so it does not choose between them (data/names/).
+His Sanskrit kokaṅkaṇa (Kūrmavibhāga) has four syllables and o for e, and the key cannot accommodate it. The Arab name
+of the same period, Qīqān/Kīkān (al-Balādhurī's raid of 664–65, which names it with Banna), fits ke-kaṅ-na better, the
+-ṅ of 疆 echoing the following nasal; a search of the library for kekan-, kaikan-, kikan- found nothing. Stein's
+Waziristan and the Kalat placements both rest on that Arab name, so it does not choose between them (data/names/).
 
 **Assessment.** Cunningham's Pishin rested on the Arab Kīkān. Stein places that Qīqān in Waziristan, and his field tour
 fits the description, as Bannu (11.23) does. Most others who use the Arab name put it in or near the Brāhūī highland of

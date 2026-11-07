@@ -34,7 +34,9 @@ distinguished from the Amu Darya formed by the Panj and the Vakhsh (p. 42). Xuan
 lake's western stream joins the 縛芻 at Wakhan (12.17.02a), i.e. on the Panj.
 **Name.** Of Mizutani's forms (Ind. cakṣu, sucakṣu, vakṣu), only vakṣu fits: 縛 is v-, and 芻 is kṣu (初, as kṣ always
 is). The Purāṇic cakṣu is therefore not what Xuanzang wrote; he follows the vakṣu/waxšu form, which Sanskrit has as
-vaṅkṣu (Raghuvaṃśa 4, vaṅkṣutīra). The form is secure, and the identification is unaffected (data/names/).
+vaṅkṣu (Raghuvaṃśa 4, vaṅkṣutīra). The Abhidharmakośa (III) names exactly Xuanzang's four rivers of Anavatapta,
+gaṅgā sindhuḥ śītā vakṣuś ca, and Xuanzang marks the older 博叉 as 訛, i.e. corrects it to vakṣu. The form is secure,
+and the identification is unaffected (data/names/).
 **Assessment.** Secure.
 
 ### 01.05 阿耆尼國 (Agni) — the Karashahr oasis
@@ -198,6 +200,11 @@ Beal (p. 26), Watters (p. 100): Kesh/Shahr-i-sabz.
 **Evidence.** Name continuous (Kish/Kesh). Route test: from Samarkand SW 300 li to 67 km (predicted 72 km), within range
 on distance (a calibration segment), but bearing 35° off. The Life chains it from Khwarizm.
 **Ji Xianlin et al. (1985).** Ji agrees: Shahr-i Sabz, 75 km S of Samarkand (p. 98).
+**Name.** 羯 ka(t), 霜 šā(ŋ), 那 na. Of Mizutani's forms, Kassārin, Kassabīn and Kazurān do not fit (no r or b, and 那 is
+an n-final syllable) and are not Kesh at all: they are the canal Nahr al-Kassārīn / Rūd-i Kazurān at Samarkand
+(Barthold, *Turkestan*; Le Strange). The name is Kišš/Kiss (Iṣṭakhrī Kiss, Muqaddasī Kishsh), which Marquart already
+equated with 羯霜那 (Ērānšahr, after Specht); the characters write an n-extended *Kašan(a), not attested. Medium
+confidence; the identification is unaffected (data/names/).
 **Assessment.** Secure on the name. Mizutani stands.
 
 ### 01.20.01 鐵門 (Tämir qapïɣ) — the Buzgala defile W of Derbent
@@ -225,6 +232,9 @@ identification is unaffected (data/names/). Bactrian: Sims-Williams' τοχοα�
 rests on *Toxwār- "Tocharian" (Sogd. ʾtxwʾrk), and 貨 is 合口 (xwā, as in 貨利習彌伽 Khwārizm), so 覩貨邏 writes *Tu-xwā-ra with
 the w that Skt. Tukhāra lacks. Xuanzang heard the Iranian *Tuxwār, and Tukhāra is the Sanskritised form; this concerns
 the name only (data/names/bactrian.tsv).
+**Kuwayama (2002).** In Sui and early Tang usage 吐火羅 was a district within the wider Tokharistan of the Arab
+geographers, the lower Kunduz–Surkhāb plain round 活, the Turkish yabghu's winter seat, which Xuanzang rightly calls 活
+(pp. 133, 135). Xuanzang's 覩貨邏國 with its own bounds is the wider region, so the two usages differ in extent only.
 **Assessment.** The region is secure; its exact extent varies by authority. Mizutani stands.
 
 ### 01.21 呾蜜國 (Tarmidh) — Termez; hearsay
@@ -271,6 +281,10 @@ valley. Julien: eastern Keldiya (p. 27, tentative). Vivien: right side of the Pa
 to the S, which suits Darwaz.
 **Ji Xianlin et al. (1985).** Ji gives no location; he only equates Kumedh with Ptolemy's Komēdai, after Minorsky (p.
 112).
+**Name.** 拘 ku, 謎 mē (齊 rhyme, e), 陀 dh: the vowel is ē, so the form is Kumēdh, Minorsky's restoration from Yaʿqūbī
+and Ibn Rusta (Ḥudūd comm. §26), with Ptolemy's Komēdai, rather than Barthold's Kumādh (the Arabic script leaves the
+vowel open). Ji (p. 112) reads the same. Better, medium confidence; Minorsky's note that Ibn Rusta places the Kumēdh
+below Rasht bears on the district, not on the name (data/names/).
 **Assessment.** Probable: the name is agreed, the district (Darwaz or Rasht) less firmly. Mizutani stands.
 
 ### 01.29 縛伽浪國 (Baghlān) — Baghlan in the Kunduz river valley
@@ -285,6 +299,9 @@ city of Tokharistan, Chavannes 1903, p. 69 n.) and calls Chavannes' identificati
 rests on the continuous name as before (data/names/bactrian.tsv). The Baghlān–Ghōrī plain was the centre of the
 Bactrian region Kadagstan, with the town Warlu (the Tang 活路城, seat of the Hephthalite 大汗都督府) (Yoshida 2003 and
 Grenet 2006, after Miyamoto, Tōhō gakuhō 87, 2012, and 90, 2015; data/ref/kyoto/).
+**Kuwayama (2002).** The Baghlān–Ghōrī plain on the middle Surkhāb was the Hephthalites' homeland and winter seat, not
+under the Turks in Xuanzang's time; their Tang seat 活路 (Huoluo) was a town there, not 活 (pp. 132, 135, 138). Agrees on
+the district.
 **Assessment.** Secure as a district on the name. Mizutani stands.
 
 ### 01.31 忽懍國 (Khulm) — Khulm, ruins N of Tashkurgan
@@ -296,6 +313,7 @@ Tashkurgan. Beal (p. 43): Khulm.
 **Foucher (1942–47).** Notes the nearly abandoned ruins of old Khulm near Tāsh-Qurghān as proof of the town's
 antiquity, without argument from Xuanzang (I, p. 49).
 **Ji Xianlin et al. (1985).** Ji agrees: ruins on the N outskirts of Tash-Qurghan (p. 114).
+**Kuwayama (2002).** Agrees: 忽懍 is Khulm (Tashkurghan), placed between 活 and Balkh as the Xiyu ji requires (p. 133).
 **Assessment.** Secure on the name. Mizutani stands.
 
 ### 01.32 縛喝國 (Bākhl) — Balkh
@@ -393,7 +411,17 @@ and the river, with the Buddha cliff to its NE (I, pp. 132, 134).
 **Name.** Bactrian: Bamyan (βαμοιανο, "a city and district, modern Bamiyan", BDNA II p. 201), named beside Rob as a
 neighbouring power ("of Rob or of Bamyan", doc. U, BDNA I p. 110) and as a captured "fortress Bamyan" in a letter. Its
 -y- is that of 衍 in 梵衍那 bam-yan-a, against MP Bāmikān; the identification is unaffected (data/names/bactrian.tsv).
-**Assessment.** Secure. Mizutani stands.
+**Kuwayama (1990, 2002).** Bāmiyān; Xuanzang's 東西二千餘里，南北三百餘里 is the basin closed by the Hazārajāt (W), the Shibar pass
+(E), the Tokharan states (N) and the Koh-i-Baba (S) (1990, p. 1442). The first Chinese record is the 帆延 of the
+*Suishu* and of Pei Ju's 西域圖記 (c. 606); the 范陽 of the *Weishu*/*Beishi* 吐火羅 chapter, long taken for Bāmiyān, is a Tang
+name in Badakhshan (the 范湯州 of the 月氏都督府 at 拔特山城, Huichao's 蒲特山), so nothing on Bāmiyān reached China before the
+mid-6th c. (1990, pp. 1425–30; 2002, p. 149; p. 157 explains the slip differently). If the two standing colossi are
+Xuanzang's, the royal city lay SW of the West Buddha, and nothing there is worth a capital (現存西大佛の西南には都城に値する遺迹は何もない,
+1990, p. 1435); the Islamic geographers' town on a hill could be Shahr-e Gholghola or Shahr-e Zuhak if Xuanzang's
+bearing is set aside (2002, pp. 157–58).
+**Assessment.** Secure for the country. The capital's site is open: Foucher put the old town astride the road and
+river SW of the colossi, Kuwayama finds nothing of a capital's size there, and Ghulghula and Zuhak are the other
+candidates. Mizutani stands.
 
 ### 01.37.01 立佛石像 — the western (53 m) Buddha at Bamiyan
 
@@ -403,7 +431,14 @@ neighbouring power ("of Rob or of Bamyan", doc. U, BDNA I p. 110) and as a captu
 matches in form, position and size. Later work (not in these sources): destroyed in 2001.
 **Foucher (1942–47).** Agrees: the 53 m Buddha, NE of the town (I, pp. 132, 134).
 **Ji Xianlin et al. (1985).** Ji agrees: the 53 m Buddha, after Godard and Hackin (p. 131).
-**Assessment.** Secure: a standing monument matching the description, with all authorities agreeing.
+**Kuwayama (1990, 2002).** Agrees: the West Buddha (55 m by his measure), NE of the royal city, a rough core cut in
+the conglomerate and coated with straw-tempered clay, the drapery modelled on pegs and ropes (1990, pp. 1437–38; 2002,
+p. 159). Date: no text records the making; the colossi belong to Bāmiyān's prosperity on the road over the western
+Hindu Kush, opened around the mid-6th c., and the 先王's reclining-Buddha monastery between them (01.37.02) to the king
+just before Xuanzang's host, late 6th c. (1990, pp. 1417–25, 1439–44, 1452–53; 2002, pp. 155, 159). He reports and
+sets aside Carter's view (1985) that the 55 m Buddha was made after Xuanzang (2002, p. 159).
+**Assessment.** Secure: a standing monument matching the description, with all authorities agreeing. Kuwayama's
+date (after the mid-6th c.) concerns the monument, not the identification.
 
 ### 01.38.05 舊王伽藍 — the Old Royal monastery: Burj-i-Abdallah at the N end of Begram
 
@@ -413,4 +448,12 @@ matches in form, position and size. Later work (not in these sources): destroyed
 Ghorband position matches Beal's reading. Mizutani locates the area, not a monastery ruin; no excavation here
 identifies it.
 **Ji Xianlin et al. (1985).** Ji agrees: the 100 × 200 m enclosure at the N end of the Begram town site (p. 155).
-**Assessment.** Probable as an area, dependent on Begram; the building itself is not identified. Mizutani stands.
+**Kuwayama (1990, 2002).** NW of the city on the S bank of the Panjshir and close to it, since Xuanzang gives no
+distance (1990, p. 749; 2002, p. 162, p. 278 n. 9); no ruin chosen. He takes it for the 王寺 "built by the king of
+Kashgar" (沙勒王之所造也) outside the capital where Dharmagupta first stayed (Xu gaoseng zhuan): the royal monastery had
+become the "old king's" by 629, perhaps after a change of dynasty (1990, pp. 1518–19, ch. 3 n. 1). The skull-bone
+relic that the Xiyu ji places in the second 舊王伽藍 is in a temple inside the city for Daoxuan's 西國志 and in the city's
+沙糸寺 for Huichao; it may have been moved in (1990, p. 1195).
+**Assessment.** Probable as an area, dependent on Begram; the building itself is not identified. Kuwayama's reading of
+the text (S bank, close to the city) supports the area, and his link with Dharmagupta's 王寺 gives the monastery a
+6th-century history, not a site. Mizutani stands.

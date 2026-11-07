@@ -44,6 +44,8 @@ unaffected (data/names/). Bactrian: Andar (ανδαρο, "a district", BDNA II p
 Gaz (c. 675), is a different name: it has no -āb for 縛, its -dar- does not suit the cluster 呾羅, and Sims-Williams
 compares it, doubtfully, with Dar-i Andara near Maimana, not with Andarāb. BDNA has nothing on Andarāb, and Andrāb
 stands (data/names/bactrian.tsv).
+**Kuwayama (2002).** Agrees: 安呾羅縛 "is definitely phonetically equal to Andarab", one of the three countries Xuanzang
+says were subject to the Turks; on his return he came down the upper Andarāb from the Khawak (pp. 132–33).
 **Assessment.** Probable on the name and agreement, and Foucher's plateau at Banu gives a plausible, unexcavated
 capital site. The short Andarāb–Khost leg is a problem of the figures, not of the identification. The Bactrian
 district Andar is a different place (see Name).
@@ -71,6 +73,10 @@ Badhakhshān (Ḥudūd §24.24) except for the initial: 鉢 is a voiceless p (�
 (Balkh, Baghlān) or 捕 (Bukhārā). The older 波多叉拏 of the *Gaoseng zhuan* (Ji) also has p-, so two transcriptions heard
 *Padaxšān, presumably the local pronunciation of the 7th century. Medium confidence; the identification is unaffected
 (data/names/).
+**Kuwayama (1990, 2002).** Agrees. The Tang 拔特山城, seat of the 范湯州 of the 月氏都督府 (*Tang huiyao* 73), and Huichao's 蒲特山,
+a month E of the Tokhara king's town, are Badakhshan; there the yabghu fled from the Arabs before 726 (1990, pp.
+1426–28; 2002, pp. 133–34, 149). He takes Badakhshan for the summer pasture of the Turks of 活, and before them of the
+Hephthalites (2002, pp. 133, 138).
 **Assessment.** The name match is direct and the distances fit. Probable by the study's rule (no site evidence),
 secure in substance.
 

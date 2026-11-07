@@ -91,6 +91,10 @@ destroyed in the riot of 1908 (as summarised; the Lat Bhairon riot was in 1809);
 were found and are now kept inside a mosque (Mookerji, *Asoka*, p. 85; Ji p. 561); he names no site. Mookerji's
 fragments are those of the Lat Bhairon pillar, so Ji's "surviving fragments" qualifies the note's "destroyed" without
 moving the place.
+**Name.** 痆 is a retroflex ṇ (孃, 女黠反), so 婆羅痆 is va-ra-ṇa: the Sanskrit river name Varaṇā, which the Bālamanoramā
+glosses "varaṇā nāma nadī kāśyā utarataḥ [sic] prasiddhā" and the Kṛtyakalpataru (Tīrthavivecana) also names;
+Mizutani's Barnā is its modern Hindi form. 婆羅痆 could also be a short form of Vārāṇasī's name, but the river reading is
+the natural one, and the site is unaffected (data/names/).
 **Assessment.** Probable on Mizutani's authority and the position NE of the city by the Barnā; untested here.
 
 ### 07.03.03 吠舍釐王所建舍利窣堵波 (the Licchavis' relic stūpa) — Altekar's mud stūpa NW of Basarh, with a casket a quarter full

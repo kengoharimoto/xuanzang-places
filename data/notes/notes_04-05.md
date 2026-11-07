@@ -55,6 +55,11 @@ Bhimbar to Gujrat on the plain as 30 (OCR "80"), about 86 road miles over the hi
 li come to about 181 km (0.26 km per li), on to Asarur about 223 km (0.32): both in the normal range, so the distance
 does not choose between them (route/README.md §10, Test 4).
 
+**Name.** 磔 has a retroflex initial (知) with a -k coda, so the characters give Ṭakka, not the dental Takka of
+Mizutani's romanisation, which is probably a dropped diacritic. The Sanskrit sources have the retroflex: Ṭakkadeśa in
+the *Rājataraṅgiṇī* (v.150, with Stein's note) and ṭakkaja horses in the *Mahāsubhāṣitasaṃgraha* (7232). High
+confidence for the form; the identification is unaffected (data/names/).
+
 **Assessment.** The survey shows that a large early town lay at Asarur and that Takka was a real district name, but
 its placing of the capital still depends on Cunningham's Sangala (Sanglawala Tibba) and on an emended distance. If
 Śākala is Sialkot, as Mizutani holds, Asarur loses its anchor and Majumdar's site near Sialkot follows. Mizutani's
@@ -84,6 +89,8 @@ from Sagala") and Bhandarkar (CII 3, p. 24). Neither publishes an inscription th
 **Ji Xianlin et al. (1985).** Ji leaves the site open between Cunningham's Sānglawala Tiba (31°43′N 73°27′E) W of the
 Ravi and Sialkot, for which he cites Fleet's note in the Proceedings of the Fourteenth Oriental Congress (p. 355); in
 his note on Mihirakula he gives Sialkot as "one view" (p. 360). Fleet's argument is not reproduced.
+
+**Kuwayama (2002).** In passing, "Sagala (present Sialkot)" (pp. 1, 109), without argument.
 
 **Assessment.** The survey measured the hill but found nothing that names it; the case is still name and
 itinerary, and the ruins (1.5 miles round) are small for a great city. Neither survey nor gazetteers weaken
@@ -314,7 +321,9 @@ monastery (p. 381).
 
 **Name.** Mizutani's original name for this entry, Uruṇḍa (優留曼陀山), belongs to the hill, not to the monastery: 鄔波毱多
 transcribes Upagupta (鄔 u, 波 pa, 毱多 the stock -gupta). The entry's name is Upagupta, secure; the mismatch is one of
-labelling and does not bear on the site (data/names/).
+labelling and does not bear on the site. Xuanzang's own gloss 唐言近護 translates upa-gupta, and the *Aśokāvadāna* places
+the monk at Mathurā ("upagupto nāma … buddho 'dya dharmaṃ deśayiṣyati"); the monastery of the legend there is the
+Naṭabhaṭikā, the second name in Mizutani's entry (data/names/).
 
 **Assessment.** Each proposal follows from a view of where the city lay, and the survey's own shift shows how
 loose they are. The Katra is named epigraphically for another monastery and Kankali is Jain. Vogel's ground for
@@ -348,6 +357,10 @@ Harsha". No Buddhist monument of the period was found.
 **Ji Xianlin et al. (1985).** Ji accepts Cunningham's Thānesar only provisionally, because its direction and distance
 from Mathurā do not fit the text; he reports V. Smith in agreement, Watters against, and Majumdar Sastri's Thūṇa of
 the Mahāvagga (pp. 388–389). His doubt is Watters', and he does not know Sahni's or Pande's excavations.
+
+**Name.** The characters give Sthāneśvara (泥 ne). The *Harṣacarita*'s Sthāṇvīśvara, the form Bühler uses for the
+seat of Harṣa's family (above), does not fit 泥 (no ṇv, no ī). Xuanzang heard the form in -e-, the one nearer to the
+modern Thanesar. The identification is unaffected (data/names/).
 
 **Assessment.** The measured circuit, twice confirmed, and a fortified town with a palatial building of Harṣa's
 dynasty answer Watters' objection, which rests on distances alone. Nothing names the place on the site, but the
@@ -870,6 +883,13 @@ is the editor's, not the plates'.
 
 **Ji Xianlin et al. (1985).** Ji agrees: roughly the Rae Bareli–Pratapgarh area NW of Allahabad, the exact site
 unknown; Cunningham's Daundia-khera is "mere conjecture" (pp. 457–458). He does not mention Tusaran Bihar.
+
+**Name.** 阿 has the zero initial (影) and never renders h, so Julien's Hayamukha does not fit; 耶 is ya (麻 rhyme) and
+never yo (that would need 踰 or 喻), so Cunningham's Ayomukha does not fit either. The characters give *Ayamukha, which
+is unattested, while Ayomukha is attested (Mahābhārata; ayomukhī in the Kāśikā) and is the form of the Kahla plates'
+country of c. 700. A Middle Indic aya- "iron" for Sanskrit ayas- could account for Xuanzang's form as the vernacular
+of Ayomukha; that is a suggestion, not an attestation. Low confidence for the form; the location does not depend on it
+(data/names/).
 
 **Assessment.** Daundia Khera is eliminated by its own proposer. Survey and gazetteers put the kingdom on the
 Ganges in Partabgarh, inside Mizutani's area, and Bihar has a Buddhist name and railing-type bricks. The Kahla

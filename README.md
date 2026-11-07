@@ -17,7 +17,7 @@ Five kinds of evidence were set against him:
 
 **What they show.** 442 of the 480 places have a note (Mizutani's 419 and 61 added ones). The 38 without a note are
 minor sites that have no point either. Against Mizutani's identifications, the evidence:
-- supports his identification for 98 places, 56 of them with high confidence, many with an inscription or seal
+- supports his identification for 97 places, 56 of them with high confidence, many with an inscription or seal
   naming the place;
 - weakens it for 12;
 - supports a different site for 62;
@@ -98,6 +98,13 @@ check.
 - **Foucher, *La vieille route de l'Inde de Bactres à Taxila*** (1942–47). The OCR comes from the Toyo Bunko Digital
   Silk Road scans (`data/ref/foucher/`). It is coded as F001–F045 in `data/coded/ar_batch12.tsv` and folded into 48 notes
   for Afghanistan and the Northwest.
+- **Kuwayama Shōshin:** *Across the Hindukush of the First Millennium* (Kyoto 2002, his English papers) and his
+  thesis 『カーピシー＝ガンダーラ史研究』 (1986; Kyoto University repository), a handwritten manuscript read from the page
+  images: ch. 1 (罽賓, the Buddha's bowl, Nagarahāra), ch. 3 (the Sui 漕國 = Kāpiśī), ch. 4 §1 (Begram), ch. 6 §§1–3
+  and 6 (the Kāpiśī holy sites, Khair Khana and Zhun, the Bāmiyān colossi). Summaries with manuscript pages and verbatim
+  Japanese in `data/ref/kyoto/k1990/summary_*.md` (gitignored with the scans); folded into the Bāmiyān, Kāpiśī,
+  Nagarahāra, Gandhāra and 漕矩吒 notes (`data/KUWAYAMA_FOLD_INSTRUCTIONS.md`). Also his 2020 note on 活's capital and
+  Miyamoto 2015 (Kyoto repository).
 - **Stein's survey memoirs:** *An Archaeological Tour in Waziristan and Northern Baluchistan* (MASI 37, 1929) and
   *An Archaeological Tour in Gedrosia* (MASI 43, 1931). They are Internet Archive OCR in `data/ref/stein/`, coded as
   S001–S020 in `data/coded/ar_batch11.tsv`.

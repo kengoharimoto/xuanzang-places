@@ -114,6 +114,11 @@ Pokhar SE of the Panch-Pahari stūpa mound.
 
 **Ji Xianlin et al. (1985).** Ji gives the name only (Kukkuṭārāma, "cock garden") and no site (p. 640).
 
+**Name.** 屈屈吒 is kuk-ku-ṭa, with the assimilated kk and no r, so 屈屈吒阿濫摩 gives kukkuṭārāma, not the Sanskrit
+kurkuṭa-ārāma that Mizutani leads with. kukkuṭārāma is not only Pāli: the Sanskrit Aśokāvadāna uses it repeatedly
+(tataḥ sa caṇḍagirikaḥ kukkuṭārāmaṃ gataḥ), as do the Guṇakāraṇḍavyūha and the Svayambhūpurāṇa, while the Divyāvadāna
+has kurkuṭārāma. The object is the same; the site is unaffected (data/names/).
+
 **Assessment.** Still unidentified. Beglar's unnamed mound is in the direction Mizutani gives, but it is no more than
 a direction, and Cunningham did not find the monastery. The only other point in these files is Beal's warning against
 confusing it with Kukkuṭapāda (09.01.03).
@@ -453,6 +458,11 @@ hill (Banerji (via Majumdar 1924, Dey 1927)) here, not Mizutani's Hill N of Kurk
 **Ji Xianlin et al. (1985).** Ji follows Cunningham for the three peaks 1 mile N of Kurkihār against Stein's Sobhnāth,
 on the three-peaked shape and the Buddha images and stūpa remains found nearby (pp. 708–709). He does not discuss
 Gurpa or the Gurupāda inscription, and finds near Kurkihār (a Pāla site) do not name the hill.
+
+**Name.** 屈屈吒播陀 is kuk-ku-ṭa-pā-da, with the assimilated kk and no r, so the form is kukkuṭapāda, not Mizutani's lead
+form kurkuṭapāda. kukkuṭapāda is Sanskrit as well as Pāli: a Schøyen Brāhmī fragment has kukkuṭapādaḥ. The second name
+窶盧播陀 is gurupāda(ka), the Divyāvadāna's gurupādakaḥ parvataḥ (37), with -ka dropped, and the form on Chhabra's
+pedestal. The names do not move the site (data/names/).
 
 **Assessment.** The inscription shows that Gurupāda, Xuanzang's own alternative name (窶盧播陀), was the hill's name in
 Pāla Magadha. That is the premise of Banerji's derivation, though the pedestal says nothing of where the hill lay, and
