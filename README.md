@@ -63,6 +63,20 @@ stretch Foucher's *La vieille route* (1942–47) now fills the gap.
 All assessments are provisional. Each rests on the coded quotes listed below; the user's reading of the notes is the
 check.
 
+**Public repository:** https://github.com/kengoharimoto/xuanzang-places. It leaves out two kinds of file, removed
+from every commit:
+- **Mizutani's notes verbatim:** `data/places_mizutani.tsv` and `data/coded/mz_*.tsv`. His translation (1971) is in
+  copyright. His identifications, status and references are kept, coded in English in `data/places.tsv`. Short
+  quotations used in the discussion (e.g. `route/variants_*.tsv`, `translation_issues`) are kept.
+- **Long extracts from *Indian Archaeology – A Review* (1953–2001) and *Epigraphia Indica*:**
+  `data/iar_hits.tsv`, `data/iar_batches/`, `data/epig_hits.tsv`, `data/epig_batches/` and the work queue
+  `data/coded/split/todo_*.tsv`. The coded results (`data/coded/iar_batch*.tsv`, `epig_batch*.tsv`), with short
+  quotations, are kept.
+
+The Annual Reports, ASR and gazetteer extracts are public domain and included. Paths under `../gazetteer-vedanta/`
+and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-studies. Licence: `LICENSE.md` (CC BY
+4.0 for the study's own text and data, MIT for the scripts; the Chinese text from CBETA stays under CBETA's licence).
+
 ## Sources
 
 - **Text.** T2087, from the CBETA TEI XML (`scripts/build_t2087_xml.py`, `data/ref/t2087_cb_joined.txt`): the printed
