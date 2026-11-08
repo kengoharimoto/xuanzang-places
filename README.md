@@ -16,7 +16,7 @@ Five kinds of evidence were set against him:
 - the district gazetteers.
 
 **What they show.** 442 of the 480 places have a note (Mizutani's 419 and 61 added ones). The 38 without a note are
-minor sites that have no point either. Against Mizutani's identifications, the evidence:
+minor sites that have no point either. Taking Mizutani's identifications as the starting point (his translation covers every place), the evidence:
 - supports his identification for 97 places, 56 of them with high confidence, many with an inscription or seal
   naming the place;
 - weakens it for 12;
