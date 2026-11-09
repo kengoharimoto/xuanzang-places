@@ -283,7 +283,6 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 | 10.02.02a | islet east of Campā | not given | rock islets at Kahalgaon | ASR XV |
 | 10.10 | Koṅgoda | Jaugada | Koṅgoda-maṇḍala, Mahānadī to north Ganjam; capital on the Sālimā near the Chilka | Śailodbhava plates (EI) |
 | 10.15 | Coḷa | Nellore | Telugu Coḷa country, Cuddapah–Kurnool | Venkayya; Cuddapah 1915 |
-| 11.05 | Mālava | Malwa or Gujarat | central Gujarat, SE of the Mahī | Bhandarkar (CII 3), Sircar (EI 34) |
 
 **From K. Harimoto's notes and the sources they led to:**
 - **Kapiśa** (01.38.02–03a). Kuwayama 2000 confirms the Rāhula monastery as the Borj-e Kafir stūpa SE of Begram;
