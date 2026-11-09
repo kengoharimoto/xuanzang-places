@@ -33,7 +33,7 @@ Another 54 minor sites are placed approximately from Xuanzang's own bearing and 
 - Kuśinagara at Kasia: the Haribala plate in the Nirvāṇa stūpa.
 - Śrāvastī and the Jetavana: the Govindachandra plate, and the Bodhisattva inscribed "in the Jetavana of Śrāvastī".
 - Kauśāmbī at Kosam: the Kara, Meohar and pillar inscriptions, and the Ghoṣitārāma excavation.
-- Puṇḍravardhana at Mahasthan: the inscription naming Pundranagara.
+- Puṇḍravardhana at Mahasthan: the inscription naming Pudanagara (Puṇḍranagara).
 - Nālandā: the monastery's sealings, and the Bālāditya inscription.
 - Taxila: four inscriptions naming Takṣaśilā.
 - Karṇasuvarṇa and the Raktamṛttikā monastery at Rajbadidanga: the monastery's own sealings.
@@ -48,7 +48,8 @@ Another 54 minor sites are placed approximately from Xuanzang's own bearing and 
 - **Kanishka's monastery** (02.04.06): the mound beside the stūpa at Shah-ji-ki-Dheri.
 - **Kosala's capital** (10.12): Śrīpura, now Sirpur.
 - **Koṅgoda** (10.10): the Chilka coast, from the Śailodbhava plates.
-- **Mālava** (11.05): central Gujarat.
+- **Mālava** (11.05): central Gujarat, now an open alternative to Malwa (low confidence; Ji's case for Malwa
+  with Dhār and the route figures both weigh against it).
 - **Kukkuṭapāda** (09.01.03): Gurpa, the "Gurupāda" of an inscription.
 
 The survey reports and the gazetteers do not reach juans 1 and 12 (Central Asia and Afghanistan). For the Afghan
