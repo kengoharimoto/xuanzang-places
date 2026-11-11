@@ -84,7 +84,7 @@ for r in rd("data/places.tsv"):
         "alt": ALT.get(r["id"], []), "mzz": MZS.get(r["id"], {}).get("mean_abs_z", ""), "mzb": MZS.get(r["id"], {}).get("mean_bearing_off", ""),
         "best": BEST.get(r["id"], ""),
         "std": STD.get(r["id"], {}).get("standard", ""), "stdsrc": STD.get(r["id"], {}).get("standard_source", ""),
-        "rel": STD.get(r["id"], {}).get("relation", ""), "relev": STD.get(r["id"], {}).get("evidence", ""), "relnote": STD.get(r["id"], {}).get("note", ""),
+        "srel": STD.get(r["id"], {}).get("relation", ""), "relev": STD.get(r["id"], {}).get("evidence", ""), "relnote": STD.get(r["id"], {}).get("note", ""),
     })
 t = open("map/template.html", encoding="utf-8").read()
 t = t.replace("/*PLACES*/[]", json.dumps(out, ensure_ascii=False, separators=(",", ":")))
