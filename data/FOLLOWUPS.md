@@ -167,3 +167,7 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
 - **Li Rongxi's translation** (1996, BDK; `data/ref/lit/C/li1996_great_tang_record.txt`) is in hand but not coded; it
   could be added to the authorities like Beal and Watters.
 - **Rows marked "to verify"/"from memory"** in `data/literature.tsv` need checking against a catalogue before citing.
+- **Kolhua pillar point** (07.03.04): Mizutani's point (26.006, 85.11) lies c. 2 km W of the tank point (07.03.x1,
+  25.999, 85.131), but IAR 1990–91 puts the tank 20 m S of the pillar; check the pillar's position and move the point.
+- **Ujjayinī (11.12) and Bharukaccha (11.04)** were raised to high on excavation of the agreed site plus an unbroken
+  name; neither has a dated 7th-century find or an inscription naming the place. Revisit if the rule is read strictly.

@@ -74,6 +74,9 @@ Route test: from Karashahr 900 li to 301 km (0.335 km/li), within range. The Lif
 by the king and Mokṣagupta.
 **Ji Xianlin et al. (1985).** Ji agrees, and adds the capital (Han 延城, Tang 伊邏廬城): probably the 皮朗 old city near
 Kucha, without evidence given (p. 56).
+**Recent scholarship.** Zhang and Zhu (2019, p. 146) take the capital for the Pilang old city (皮朗古城), citing the brief
+report on the 2016 excavation of the Kucha old city (*Xinjiang wenwu* 2017(2), not read here); they give no evidence
+of their own.
 **Assessment.** Secure as a district on the name; no site evidence for the capital in these files. Mizutani stands.
 
 ### 01.06.02 昭怙釐伽藍 — the twin Subashi monasteries astride the river NNE of Kucha
@@ -85,14 +88,24 @@ the paired standing ruins on either bank. The Chinese name is explained from Toc
 **Ji Xianlin et al. (1985).** Ji agrees: ruins on both banks of the 銅廠河 at Subashi, N of Kucha (p. 61).
 **Assessment.** Secure: standing ruins matching the description, with no rival proposal.
 
-### 01.06.04 阿奢理貳伽藍 (āścarya) — Duldur-Aqur opposite Kumtura
+### 01.06.04 阿奢理貳伽藍 (āścarya) — Duldur-Aqur opposite Kumtura, or the Kizilgaha caves NW of Kucha (open)
 
 **Identifications.** Mizutani: Duldur-Aqur, opposite Kumtura (Akiyama). Beal (p. 22), Watters (p. 63): none.
 **Evidence.** Pelliot found a library of Tocharian B documents there (Mizutani's note); nothing in these files ties
 the ruin to the name. The Life (T50:0226c, 阿奢理兒寺) puts it NW of the city, consistent with the Xiyu ji.
 **Ji Xianlin et al. (1985).** Ji agrees: Douldour-agour across the Kumtura river W of Kucha, after Pelliot (p. 64).
-**Assessment.** Probable: the position fits and no rival is offered, but the identification rests on position
-alone. Mizutani stands.
+**Recent scholarship.** Zhang and Zhu (2019, pp. 146–148), from the third national survey of immovable relics and
+their own fieldwork, put the monastery at the Kizilgaha caves (克孜尔尕哈石窟, the place of worship) with the Bozkhana temple
+site (博其罕那佛寺, the living quarters), c. 10 km NW of the Pilang old city, Kucha's capital. Shahetur (夏合吐尔, the
+Duldur-Aqur ruin) lies 30 km SW of the capital, against the Xiyu ji's NW of the assembly place and the Life's NW of
+the city; the river crossed is the Kucha river, and the king's visit before noon and the send-off by the whole city
+want a monastery near the capital. At Kizilgaha a Kuchean inscription in cave 25 records a visit by king Suvarṇadeva
+(苏伐叠, r. 624–646) in his 19th year, and caves 11, 13 and 14 show the royal family (p. 147): royal worship in
+Xuanzang's time, but not the monastery's name.
+**Assessment.** Open between two candidates, each argued from position: Duldur-Aqur across the Muzat W of Kucha
+(Pelliot, Akiyama, Mizutani, Ji), where Pelliot found a Tocharian B library, and the Kizilgaha caves with Bozkhana NW
+of the city (Zhang and Zhu 2019), which fits the bearing better and has royal inscriptions of Xuanzang's time. Neither
+site has an inscription naming the monastery. Duldur-Aqur stays on the map, open.
 
 ### 01.07.02 大清池 (熱海) — Issyk-kul
 

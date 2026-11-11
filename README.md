@@ -15,18 +15,18 @@ Five kinds of evidence were set against him:
 - *Epigraphia Indica* and the *Corpus Inscriptionum Indicarum*;
 - the district gazetteers.
 
-A sixth, added in November 2026, is the scholarship since Ji (1985): 384 items listed, 60 read and coded so far, and
+A sixth, added in November 2026, is the scholarship since Ji (1985): 454 items listed, 64 read and coded so far, and
 *Indian Archaeology – A Review* extended to 2013–14 ("Recent scholarship" below; `data/LITERATURE.md`).
 
 **What they show.** 442 of the 480 places have a note (Mizutani's 419 and 61 added ones). The 38 without a note are
 minor sites that have no point either. Taking Mizutani's identifications as the starting point (his translation covers every place), the evidence:
-- supports his identification for 97 places, 56 of them with high confidence, many with an inscription or seal
+- supports his identification for 100 places, 59 of them with high confidence, many with an inscription or seal
   naming the place;
-- weakens it for 15;
-- supports a different site, or leaves the place open between his and another, for 69;
-- offers a candidate no standard authority records for 24.
+- weakens it for 16;
+- supports a different site, or leaves the place open between his and another, for 71;
+- offers a candidate no standard authority records for 25.
 
-On the map the study's confidence comes out as 103 places secure, 158 probable and 119 open. These are the ratings
+On the map the study's confidence comes out as 105 places secure, 154 probable and 121 open. These are the ratings
 after a quality check of 30 notes and an audit of every "high" rating without site evidence, and a second check of
 27 paragraphs added later (Ji, names, Bactrian, Stein/Drew, Kuwayama: 19 ok, 8 minor, all fixed; `data/notes/qc2_*.tsv`).
 Another 50 minor sites are placed approximately from Xuanzang's own bearing and distance, without an identification
@@ -133,15 +133,17 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
   Internet Archive OCR, in `data/ref/baluch/` (gitignored). The identifiers are listed in
   `../yoga-gazetteers/regions/data/selection.tsv` (BAL*). They are coded as B001–B055 in `data/coded/gaz_batch10.tsv`.
 - **Recent scholarship, 1985–2026** (`data/LITERATURE.md`, `data/literature.tsv`, `data/LIT_INSTRUCTIONS.md`). A
-  bibliography of 384 items built region by region in English, Japanese, Chinese and European languages; 60
-  open-access items read and coded (`data/coded/lit_batch1-6.tsv`, 135 relevant rows, quotes checked; Tsuchiya 2010 OCR'd with Google Vision), shown on the map
+  bibliography of 454 items built region by region in English, Japanese, Chinese and European languages; 64
+  open-access items read and coded (`data/coded/lit_batch1-7.tsv`, 142 relevant rows, quotes checked; Tsuchiya 2010 OCR'd with Google Vision), shown on the map
   as "Recent scholarship (since 1985)" and folded into the notes as **Recent scholarship.** paragraphs. Among them:
   Falk 2017 and Davis et al. 2016 (Kapilavastu, Rāmagrāma), Kuwayama's papers of 1985–99 and Miyamoto 2012–18
   (Afghanistan, Tokharistan), Naiki 2015 and 2021 (Chanaka Dheri, Taxila), Dar & Hameed 2018 (Siṃhapura), Verardi 2012
   and Filigenzi 2015 (Kashmir Smast, Swat), Shimada 2013 (Amarāvatī), Ambekar et al. 2023 (Vadnagar), Talati 2024 and
   Zhang 2016 (Khotan), the Ak-Beshim reports, and Deepak Anand's field reports from Magadha (a blog, cited as such and
   never the sole ground for a rating). *Indian Archaeology – A Review* 2007–08 and 2009–10 to 2013–14 (ASI
-  Aurangabad Circle PDFs, text by pdftotext) were added to the IAR index (passages 729–803, `iar_batch11-12.tsv`).
+  Aurangabad Circle PDFs, text by pdftotext) were added to the IAR index, with 1990–91 and 1993–94 (missing from the study's scans) and a pass over all
+  volumes for sites the index had lacked (Banavasi, Valabhī, Ujjain, Kanchipuram, the Odisha and Andhra sites, Tamluk,
+  Broach): passages 729–1043, `iar_batch11-18.tsv`.
 - **K. Harimoto's notes** (`data/Archive/`). Earlier working notes:
   - a country-by-country extraction of what the text says about non-Buddhists, with letter codes;
   - notes on Songyun's 善特山, on Faxian's 波羅越 against Bhramaragiri, on Mahārāṣṭra and on Pāṇini;
@@ -274,7 +276,7 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      and Life passages with translations, and the note.
 ## What the recent scholarship changes
 
-The pass over the literature since 1985 (November 2026; `data/LITERATURE.md`) changed 60 updates rows. Most add
+The pass over the literature since 1985 (November 2026; `data/LITERATURE.md`) changed 79 updates rows. Most add
 evidence or candidates; these change the picture:
 
 - **Kapilavastu** (06.02) is open again between Piprahwa–Ganwaria and Tilaurakot (low): see above. Its dependent
@@ -304,6 +306,14 @@ evidence or candidates; these change the picture:
 - **Magadha:** a BHU survey (IAR 2013–14) and Anand's field reports give candidates where the study had none: Ayer
   for Buddhavana (09.02.01), Nanan for Kālapināka (09.03.10), Juafardih and Kool beside Jagdishpur for Kolika (09.03.08),
   all low. A sealing naming Śakrāditya was found 1 km N of Nālandā (IAR 2007–08). The Gurpa point was corrected.
+- **Oḍra:** Puṣpagiri (10.09.02) is open between Mizutani's Udayagiri–Khandagiri, where the only excavation found a
+  Jaina shrine and D. Mitra saw no other faith (IAR 1958–59), and the Assia hills N of the Mahānadī (Lalitgiri;
+  Langudi claimed). The sealings of Ratnagiri and of the Jajpur Udayagiri ("Madhavapura") name other monasteries.
+- **Kucha:** the Ashliji monastery (01.06.04) is open between Duldur-Aqur and the Kizilgaha caves with Bozkhana,
+  10 km NW of the capital, which fit the text's bearing (Zhang and Zhu 2019).
+- **Strengthened by excavation:** Ujjayinī (Garh-Kalika, 11.12) and Bharukaccha (Broach, 11.04), both occupied through
+  Xuanzang's century, now high; Kāñcīpura (10.16) gains its first site evidence. Banavasi is occupied through the 7th
+  century and tied by its excavators to Xuanzang's stūpas, but Koṅkaṇapura (11.02) stays open.
 
 ## Main proposed revisions to Mizutani
 
@@ -374,7 +384,7 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 ## Limits
 
 - **Later scholarship.** Mizutani is the 1971 state of the question; Ji (1985) brings it to about 1980. Of the work
-  since then, 60 open-access items have been read (`data/LITERATURE.md`); the searches ran out of budget part way, so
+  since then, 64 open-access items have been read (`data/LITERATURE.md`); the searches ran out of budget part way, so
   coverage is uneven, and the key books and paywalled reports (Coningham et al. 2018 on Tilaurakot, Srivastava 1996,
   the Rissho and Kansai reports, Kuwayama's Rinsen volumes, Errington 1993, Saran 2008 on Juafardih, the Telhara
   report) are listed there as wanted. Works cited at second hand are marked "not read" in the notes. *Indian

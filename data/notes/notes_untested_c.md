@@ -128,6 +128,8 @@ tank E of Bakhra.
 62–64; XVI, pp. 13–15). Bloch found the pillar, the stūpa N of it and the Rām-kund tank S of it "tally exactly" with the
 account (AR 1903–04, pp. 81–86; EC 1903–04, pp. 14–15); Muzaffarpur 1907 repeats. Clearance exposed a brick stūpa 24.5 m
 across in front of the pillar (IAR 1973–74, pp. 67–68), and Sita Ram Roy two mud stūpas by it (1959–60, pp. 14–16).
+L. C. Singh's season of 1990–91 (IAR 1990–91, pp. 3–4) exposed the āyakas of the main stūpa's last phase and votive
+stūpas packed round the pillar on a Gupta lime floor, and S of the stūpa a shrine and caitya later turned into rooms.
 **Ji Xianlin et al. (1985).** Ji agrees on the pillar: the lion-capital pillar near Bakhra, lower half buried
 (p. 591). He takes the stūpa beside it as Altekar's, with Aśoka's re-buried casket (after 世界考古學大系 8, p. 97, figs
 157–58); that confuses Altekar's stūpa by Basarh (07.03.03) with the brick stūpa at the pillar.
@@ -138,8 +140,10 @@ across in front of the pillar (IAR 1973–74, pp. 67–68), and Sita Ram Roy two
 **Identifications.** Cunningham (ASR I, pp. 62–63; XVI, pp. 15–16) and Muzaffarpur 1907: the brick-faced tank S of the
 pillar, now Ram-kund, which "evidently is the monkey tank".
 **Evidence.** Bloch (AR 1903–04, p. 84) measured it at 200 × 100 ft: "As to their location no possible doubt exists."
-The Survey exposed a Kushan brick-lined tank in seven tiers with two ghats, S of the pillar (IAR 1991–92, pp. 4–5; L. C.
-Singh, 1992–93, pp. 5–6).
+The Survey exposed a Kushan brick-lined tank in seven tiers with two ghats, S of the pillar: first partly, 20 m S of
+the pillar, with a drain running into it from the votive stūpas (L. C. Singh, IAR 1990–91, pp. 3–4), then further (IAR
+1991–92, pp. 4–5; 1992–93, pp. 5–6), and in 1993–94 completely: c. 65 × 33 m, with bathing ghats on the W and S arms
+and a retaining wall all round (IAR 1993–94, pp. 10–11), close to Bloch's 200 × 100 ft. No report names Xuanzang.
 **Ji Xianlin et al. (1985).** Ji gives no site (Ram-kund is not mentioned); he cites the 玄應音義 (the tank beside
 Āmrapālī's garden), the Vinaya and the relief of the monkey's gift on the N gate at Sanchi (p. 591).
 **Assessment.** An excavated tank in the position Xuanzang gives, beside a secure pillar (07.03.04). Secure.
@@ -314,14 +318,19 @@ attested in Sanskrit; the Life's 跋姞婆 looks like a graphic error for 始 (d
 **Assessment.** Name, distance and a monastery–stūpa–temple group as described, and an excavation with Gupta-period
 finds (reported by Ji from Ahmed). Secure, without an inscription; the excavation report itself is not seen here.
 
-### 10.09.02a 西北山伽藍 (monastery on the hill NW of Puṣpagiri) — Udayagiri, paired with Khandagiri
+### 10.09.02a 西北山伽藍 (monastery on the hill NW of Puṣpagiri) — open; Udayagiri (Bhubaneswar) by analogy only, Jaina on excavation
 
 **Identifications.** Mizutani: Udayagiri (Bhubaneswar). Cunningham (1871, p. 587): the Udayagiri and Khandagiri hills;
 Beal (p. 205): tentative.
-**Evidence.** None. It stands or falls with Puṣpagiri (10.09.02, Khandagiri/Udayagiri, medium), and the Oḍra boundary
-N of the Mahānadī may exclude Bhubaneswar (10.09).
+**Evidence.** It stands or falls with Puṣpagiri (10.09.02, now open between Udayagiri–Khandagiri and the Assia hills
+N of the Mahānadī), and the Oḍra boundary N of the Mahānadī may exclude Bhubaneswar (10.09). The one building
+excavated on the top of Udayagiri, an apsidal laterite shrine, D. Mitra judged Jaina, "as the Udayagiri and the
+adjacent Khandagiri hills contain monuments of no other faith" (IAR 1958–59, pp. 38–40); nothing Buddhist was found.
+The Udayagiri of the Assia hills (Jajpur) is another site, whose monastery its sealings name Madhavapura (IAR
+1988–89, p. 67); the shared modern name proves nothing.
 **Ji Xianlin et al. (1985).** Ji agrees: Udayagiri (p. 815).
-**Assessment.** A pairing by analogy. Open.
+**Assessment.** A pairing by analogy, now without Buddhist remains on the hill. Open; if Puṣpagiri lies in the Assia
+hills, the NW hill must be sought there.
 
 ### 11.01 僧伽羅國 (Siṃhala) — Sri Lanka, capital Anurādhapura
 
@@ -349,16 +358,23 @@ Agreement only; nothing in these sources.
 **Identifications.** Mizutani: Broach. Julien (p. 154), Vivien (p. 400), Cunningham (1871, p. 374), Beal (p. 259),
 Watters (p. 241), Majumdar (pp. 699–700) and Dey agree.
 **Evidence.** Bombay 1909 repeats it with the local Bhṛgu legend. Route test: from Nasik (11.03) Broach lies at 336°,
-66° off the Xiyu ji's "west" (flagged); the Life (T50:0243a) says NW, which fits. Distance fits.
+66° off the Xiyu ji's "west" (flagged); the Life (T50:0243a) says NW, which fits. Distance fits. Soundara Rajan dug
+the town-mound at Broach, "the ancient Bharukachchha" (IAR 1959–60, pp. 18–19): a walled town from c. the 3rd c. BC,
+its Period II (Kṣatrapa coins, a brick-revetted rampart, a 6th–7th-c. caturmukha-liṅga) lasting "without break almost
+to the seventh-eighth century A.D.". No Buddhist find.
 **Ji Xianlin et al. (1985).** Ji agrees: Broach, and he too prefers the Life's NW (pp. 898–99).
-**Assessment.** Probable to secure; the Life's bearing removes the only difficulty.
+**Assessment.** Agreement, the Life's bearing (which removes the only difficulty) and an excavated town occupied into
+Xuanzang's time. Secure as the city; none of his monasteries is identified.
 
 ### 11.08 伐臘毘國 (Valabhī) — Vala near Bhavnagar
 
 **Identifications.** Mizutani: Valabhī, capital at Vala. Cunningham (1871, pp. 363, 370), Majumdar (p. 697) and Dey: the
 ruins at Vala. Vivien (p. 404): E Kathiawar. Watters (p. 246) rejects only Bhaonagar.
 **Evidence.** Bombay 1909: "the buried city at Vala". Route test: mean |z| 0.5, bearing 29° off over three segments
-(`candidate_scores.tsv`). The Life (T50:0243b) has the same 1,000 li N.
+(`candidate_scores.tsv`). The Life (T50:0243b) has the same 1,000 li N. The M. S. University, Baroda, dug at Vala
+(Sonawane, Parekh and Momin, IAR 1979–80, p. 24): at Maya-no-Khado a Phase III of the 5th–8th centuries, covering the
+Maitraka capital of Xuanzang's day, but with only beaten-earth floors and walls of reused bricks; no monastery and no
+inscription naming the place.
 **Ji Xianlin et al. (1985).** Ji agrees on Vala (18 miles NW of Bhavnagar, 21°52′N 71°57′E) and adds that
 inscriptions, sealings and sculpture from the site, now in the Prince of Wales Museum, Bombay, prove an old city whose
 description in the inscriptions matches Xuanzang's (p. 913).
@@ -370,12 +386,17 @@ description in the inscriptions matches Xuanzang's (p. 913).
 Majumdar (p. 726) and Dey agree; Watters (p. 250): "generally supposed".
 **Evidence.** Rajputana 1908 and Jhalawar 1964 repeat it; Sircar (EI 34) keeps Ujjayinī distinct from Mālava. Route
 test: 2,800 li SE from Bhinmal gives 410 km at 16° off, unflagged. The Life gives the same distance and the Aśoka "hell"
-stūpa.
+stūpa. N. R. Banerjee dug the Garh-Kalika mound on the N outskirts of Ujjain, "representing the ancient Ujjayini", and
+found occupation without a break from before 600 BC to the 14th century (IAR 1956–57, p. 20), with a citadel rampart
+and moat of the earliest period (1957–58, pp. 32–33) and a terracotta casket-lid of the 1st c. AD inscribed
+"Nagabudhisa pravajitasa", of a Buddhist monk (pp. 34–36). The post-Gupta deposit (Period IV) was much disturbed and
+gave nothing specific of Xuanzang's time, nor his monasteries or the "hell" stūpa.
 **Ji Xianlin et al. (1985).** Ji agrees: Ujjain, capital of N Avanti (p. 923).
 **Name.** 那 gives a final -na, so 鄔闍衍那 renders ujjayana, the first of Mizutani's forms, not the Sanskrit ujjayanī of
 the heading (which names the city and stands); gemination is not marked. The identification is unaffected
 (data/names/).
-**Assessment.** Probable; no site evidence in these sources.
+**Assessment.** Agreement, a name in continuous use, and an excavated city on the site occupied through Xuanzang's
+time, with Buddhists there from the 1st c. AD. Secure as the city; his monuments are not identified.
 
 ### 11.20.02a 拂懍國 (Hrom, Rome) — the Eastern Roman empire
 

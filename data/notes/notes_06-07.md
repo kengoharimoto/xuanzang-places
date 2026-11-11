@@ -53,7 +53,9 @@ of Śrāvastī" (Bühler, EI 1, pp. 71–72; Kielhorn, EI 7, p. 137): the name w
 **Later excavations.** Sinha's trench across Mahet's N rampart (IAR 1958–59, p. 50) found Painted Grey Ware
 occupation before the defences. The Survey–Kansai University seasons (IAR 1986–2001) exposed the Kandbhari gate, a
 rammed road of pre-Mauryan or Mauryan date, and Kushan and Gupta houses inside Mahet, taking Mahet = Śrāvastī as
-settled; nothing new names the city.
+settled; nothing new names the city. Near the Surajkund (L. C. Singh, IAR 1993–94, pp. 104–5) the sequence ends in a
+late Gupta Period III "with a Shrunk settlement", in keeping with the largely deserted city Xuanzang describes,
+though the report does not say so.
 
 **Gazetteers.** Gonda 1905 reports Bloch's answer; Gonda 1989 adds Kushana inscriptions and seals; Oudh N–Z 1878
 maps the city onto Mahet's mounds (see "New").

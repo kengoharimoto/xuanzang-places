@@ -3,12 +3,12 @@
 The study's sources stop at Ji (1985) for the commentary and at *Indian Archaeology – A Review* 2000–01 for excavation.
 This file tracks the later literature: what has been found, what has been read and coded, and what is still wanted.
 
-- **Bibliography:** `data/literature.tsv`, one row per item: key, group (A juan 1 and 12; B juan 2–3; C juan 4–7;
+- **Bibliography:** `data/literature.tsv`, one row per item (454 in all): key, group (A juan 1 and 12; B juan 2–3; C juan 4–7;
   D juan 8–9; E juan 10–11; X general), the place ids it bears on, citation, access, URL, the local text
   (`data/ref/lit/<group>/<key>.txt`, gitignored), relevance and status. Status: `have` (text in hand), `in study` (already
   used under another name), `oa, not fetched` (free online but blocked for scripts), `wanted` (book or paywall),
   `not sought` (low relevance). Built by agents searching in English, Japanese, Chinese and European languages in
-  November 2026; the searches ran out of budget part way, so coverage is uneven (see "Gaps"). Rows whose citation says
+  November 2026, with a second round for the gaps; the searches ran out of budget part way, so coverage is uneven (see "Gaps"). Rows whose citation says
   "to verify" or "from memory" were not checked against a catalogue.
 - **Coding:** `data/LIT_INSTRUCTIONS.md`; coded rows in `data/coded/lit_batch*.tsv` (1 A, 2 C, 3 D, 4 E, 5 B), quotes
   checked with `scripts/check_quotes_asr.py`. They appear in `places.tsv` (`lit`, `lit_n`, `lit_evidence`) and on the map
@@ -22,6 +22,20 @@ This file tracks the later literature: what has been found, what has been read a
 - **Funayama Tōru:** no map or place project by him was found (Kyoto Zinbun joint research, KAKEN, the web). The
   closest Kyoto resource is the 西域行記データベース (text search). Other maps found: Hou Yangfang's Silk Road GIS (the
   return route), a GIS paper from FIU (2019) and hobby maps; none tests identifications.
+
+## Gaps
+
+What the searches could not reach, for a later pass (or a library):
+- **Chinese journals (CNKI):** web search does not index them. Only titles found through footnotes and OpenAlex are
+  listed; Karashahr (Shikchin, Boghda-qin), Aksu, Karghalik, the 公主堡 fort, Kashgar's Mor temple and the Tashkurgan
+  Stone City have no formal reports in the list.
+- **Russian, Uzbek and Tajik excavation literature:** Chach/Tashkent, Nujkath, Ispijab, Kesh, Chaghāniyān, Shumān,
+  Kobadian, Kumādh; Badakhshan (Rāgh, Kishm, Yamgān, Kurān) and the Wakhan forts.
+- **India:** nothing new was found for Kuśinagara, Kannauj, Kulūta/Jālandhara/Lakhanpur, Viśoka, Vṛji, Mahārāṣṭra's
+  capital, Jejākabhukti, Bhramaragiri, Cōḷa, Bharukaccha, or Rajbadidanga after S. R. Das; no Japanese or Chinese work
+  on Magadha or South India beyond what is listed.
+- **IAR:** 2001–02 to 2006–07, 2008–09 and 2014– are not online. 1990–91 and 1993–94, missing from the study's own
+  scans, were added from the ASI Aurangabad Circle PDFs (`data/ref/iar/`).
 
 ## Wanted
 
@@ -41,6 +55,7 @@ Please put the files in `data/ref/lit/<group>/` named `<key>.pdf` (the key is th
 - [high] `yamauchi2018_akbeshim2017`: Yamauchi Kazuya, Kushihara Kōichi & Mochizuki Hidekazu, 「2017年度アク・ベシム遺跡発掘調査報告」, 帝京大学文化財研究所研究報告 17 (2018): 121-168. — https://teikyo-u.repo.nii.ac.jp/
 - [high] `yamauchi2022_akbeshim2016_2017`: Yamauchi Kazuya, Kushihara Kōichi, D. Sorokin, Nakayama Chieko & Mochizuki Hidekazu, アク・ベシム（スイヤブ）2016・2017 (帝京大学シルクロード学術調査団調査研究報告1). 帝京大学文化財研究所 / キルギス共和国国立科学アカデミー, 2022. 235 pp. (English/Russian ed.: Amanbaeva & Yamauchi (eds.), Ak-Beshim (Suyab) 2016-2017, 2023, 242 pp.) — https://teikyo-u.repo.nii.ac.jp/record/2003927/files/2016-2017s.pdf
 - [high] `yamauchi2025_suiye_construction`: Yamauchi Kazuya, 「砕葉鎮城の建設とアク・ベシム遺跡シャフリスタン1の都市プランの変化」, 帝京大学文化財研究所研究報告 23 (2025): 255-296. — https://teikyo-u.repo.nii.ac.jp/
+- [high] `zhangzhu2019_ashliji`: 张弛、朱竑《“阿奢理贰伽蓝”地理方位与玄奘西行“跋禄迦”的交通路线》,《历史地理研究》39卷2期 (2019年第2期): 145–148 (札记) — https://www.lsdlyj.com.cn/CN/Y2019/V39/I2/145
 - [medium] `bernard2006_bactres`: Paul Bernard, Roland Besenval, Philippe Marquis, "Du « mirage bactrien » aux réalités archéologiques: nouvelles fouilles de la DAFA à Bactres (2004–2005)", CRAI 150(2) (2006): 1175–1248. — https://doi.org/10.3406/crai.2006.87126
 - [medium] `jokura2018_akbeshim_part1`: Jokura Masayoshi et al., [Ak-Beshim (Suyab) archaeological study, Part 1], WASEDA RILAS JOURNAL 6 (2018): 205-257. [title not verified; file name 205-257_Masayoshi-JOKURA_Part1.pdf] — https://www.waseda.jp/flas/rilas/assets/uploads/2018/10/205-257_Masayoshi-JOKURA_Part1.pdf
 - [medium] `kyzlasov2023_akbeshim_trans`: L. R. Kyzlasov, 「クズラソフによるアク・ベシム遺跡の発掘」, trans. Yamauchi Kazuya, 帝京大学文化財研究所研究報告 21 (2023): 157-252. (Japanese translation of Kyzlasov 1959.) — https://teikyo-u.repo.nii.ac.jp/
@@ -51,6 +66,8 @@ Please put the files in `data/ref/lit/<group>/` named `<key>.pdf` (the key is th
 - [medium] `rissho2021_buddhist_heritage_uz`: Rissho University, 『ウズベキスタンにおける仏教文化遺産の調査と保護』. Tokyo: Rissho University (Agency for Cultural Affairs project), 2021. — https://rissho.repo.nii.ac.jp/record/11464/files/
 - [medium] `saito2022_suiye_texts`: Saitō Shigeo 齊藤茂雄, 「文献史料から見た砕葉城」, 帝京大学文化財研究所研究報告 21 (2022): 25-37. — https://teikyo-u.repo.nii.ac.jp/
 - [medium] `stanco2022_irongate_hellenistic`: Ladislav Stančo et al., 'The Iron Gate and its environs in the Hellenistic period: preliminary report', Studia Hercynia 26.2 (2022): 91-114. — https://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.desklight-b795c538-bfcc-4c14-9bbb-2716e96682c4/c/Ladislav_Stanco_et_al_91-114.pdf
+- [medium] `xiao2025_mor`: 肖小勇 (leader), 中央民族大学 & 新疆维吾尔自治区文物考古研究所, 'Kashgar Mor temple site (新疆喀什莫尔寺遗址)', 《中国文物报》2025年5月2日 (feature); also National Cultural Heritage Administration entry, 2024 (http://www.ncha.gov.cn/art/2024/3/25/art_2760_187828.html). No formal excavation report found — http://www.zhongguowenwubao.com/portal/DigitPager/paperDetail/publishdate/2025-05-02/paperId/21468/id/107842
+- [medium] `xjicra2017_shitoucheng`: 新疆文物考古研究所, '2017年新疆考古新进展：葱岭传奇—塔什库尔干石头城遗址' (field-season summary; excavations 2015–2020, field staff 艾涛 et al.), silkroads.org.cn. No formal report found — https://www.silkroads.org.cn/portal.php?mod=view&aid=12458
 - [medium] `yamauchi2019_shahristan1_plan`: Yamauchi Kazuya, 「アク・ベシム遺跡第1シャフリスタンの都市プランの変化」, 帝京大学文化財研究所研究報告 18 (2019): 1-17. — https://teikyo-u.repo.nii.ac.jp/
 - [medium] `yamauchi2025_dayunsi`: Yamauchi Kazuya, 「砕葉鎮城の大雲寺の位置と伽藍配置に関する試論」, 帝京大学文化財研究所研究報告 23 (2025): 167-190. — https://teikyo-u.repo.nii.ac.jp/
 
@@ -65,18 +82,23 @@ Please put the files in `data/ref/lit/<group>/` named `<key>.pdf` (the key is th
 - [high] `tsuchiya_faxian_route_darel`: Tsuchiya, Haruko. 'Fa-hsien's route from Pamir to the Darel valley on the Indus: field research in Northern Pakistan 2003–2006.' Conference paper published by Atatürk Kültür Merkezi (AYK), Ankara [year and volume to verify] — https://www.ayk.gov.tr/wp-content/uploads/2015/01/TSUCHIYA-Haruko-FA-HSIEN%E2%80%99S-ROUTE-FROM-PAM%C4%B0R-TO-THE-DAREL-VALLEY-ON-THE-INDUS-FIELD-RESEARCH-IN-NORTHERN-PAKISTAN-2003-2006.pdf
 - [medium] `anp3_fussman1994`: Fussman, Gérard (ed.). Antiquities of Northern Pakistan 3. Mainz: von Zabern, 1994 (Shatial stupa triptych, Chilas-Thalpan and Tibetan art, Kuberavāhana stupas, Helor Das, Nokkono Ghwand in Swat) — https://digi.hadw-bw.de/view/anp3
 - [medium] `baums_glass_cgt`: Baums, Stefan and Andrew Glass. Catalog of Gāndhārī Texts (online database). 2002– — https://gandhari.org/catalog
+- [medium] `hassan2026_zehanpore`: Bilal Hassan, Mohammad Ajmal Shah & Mumtaz A. Yatoo, 'Assessing the Impact of Soil Erosion on the Zehanpore Buddhist Archaeological Site in Baramulla (Kashmir, India): A Remote Sensing and GIS Analysis', Ancient Asia 17.1 (2026): 87–101, doi:10.47509/aa.2026.v17i.06 — https://doi.org/10.47509/aa.2026.v17i.06
+- [medium] `niklasson2025_palola`: Agneta Niklasson, The Buddhist Sculptures of the Palola Ṣāhi, PhD thesis, SOAS University of London, 2025, doi:10.25501/soas.00821294 — https://doi.org/10.25501/soas.00821294
 - [medium] `olivieri_filigenzi2018_chronology`: Olivieri, Luca M. and Anna Filigenzi. 'On Gandhāran sculptural production from Swat: recent archaeological and chronological data.' In W. Rienjang and P. Stewart (eds), Problems of Chronology in Gandhāran Art. Oxford: Archaeopress, 2018, 71–92 — https://www.carc.ox.ac.uk/GandharaConnections/
 - [medium] `rienjang_stewart2019_geography`: Rienjang, Wannaporn and Peter Stewart (eds). The Geography of Gandhāran Art. Proceedings of the Second International Workshop of the Gandhāra Connections Project, Oxford, 2018. Oxford: Archaeopress, 2019 — https://www.carc.ox.ac.uk/GandharaConnections/
+- [medium] `yatoo2012_nwkashmir`: Mumtaz A. Yatoo, Characterising Material Culture to Determine Settlement Patterns in North West Kashmir, PhD thesis, University of Leicester, 2012 (institution from memory; verify) (Figshare) — https://figshare.com/articles/thesis/Characterising_Material_Culture_to_Determine_Settlement_Patterns_in_North_West_Kashmir/10107209
 
 **North India, Kapilavastu, Nepal (juan 4–7)**
 
 - [high] `coningham2013_sacred_garden`: Coningham, R.A.E. and K.P. Acharya, 'Re-discovering Lumbini: archaeology and site interpretation', in K. Weise (ed.), The Sacred Garden of Lumbini: Perceptions of Buddha's Birthplace (Paris: UNESCO), pp. 50-103 [chapter pages as given in Durham record] — https://unesdoc.unesco.org/ark:/48223/pf0000223986
 - [high] `coningham2018_tilaurakot`: Coningham, R.A.E., K.P. Acharya, M.J. Manuel, C.E. Davis, R.B. Kunwar, I.A. Simpson, K.M. Strickland, E. Smaghur, J. Tremblay, A. Lafortune-Bernard, 'Archaeological investigations at Tilaurakot-Kapilavastu, 2014-2016', Prācīna Nepāla / Ancient Nepal 197-198, pp. 5-59 (Kathmandu: Department of Archaeology) — https://dro.dur.ac.uk/26943
+- [high] `coningham2019_handigaon`: Coningham, R.A.E., K.P. Acharya, R.B. Kunwar, C.E. Davis, D. Hale, M.J. Manuel, R. Villis and L. Watson, 'Pilot Geophysical Survey in Handigaon, Kathmandu', Ancient Nepal 201 (2019): 19-37 — https://durham-repository.worktribe.com/output/1259738
 - [high] `coningham2019_ramagrama`: Coningham, R.A.E., K.P. Acharya, et al., 'Geophysical investigations at Ramagrama, Nepal: results from new surveys undertaken in January 2018', Ancient Nepal 201, pp. 5-17 — https://durham-repository.worktribe.com/output/1295952
 - [high] `coningham2020_ramagrama`: Coningham, R.A.E., K.P. Acharya, C.E. Davis, R.B. Kunwar, et al., 'Geophysical investigations at Ramagrama: results from new surveys undertaken in November 2019 and February 2020', Ancient Nepal (issue no. as listed in Durham record), pp. 5-28 — https://durham-repository.worktribe.com/output/1295952
-- [high] `iar_online_2006_2014`: Archaeological Survey of India, Indian Archaeology - A Review, volumes 2006-07, 2007-08, 2009-10, 2010-11, 2011-12, 2012-13, 2013-14 (published 2015-16), hosted by ASI Aurangabad Circle — https://asiaurangabadcircle.com/assets/files/publications/
+- [medium] `coningham2016_bhandarkhal`: Coningham, R.A.E., K.P. Acharya, C.E. Davis, M.J. Manuel, R.B. Kunwar, D. Hale, J. Tremblay, D. Gautam and N. Mirnig, 'Exploring Ancient Pashupati: Preliminary Results of Archaeological Surveys and Excavations at Bhandarkhal, Kathmandu Valley UNESCO World Heritage Property (Nepal)', Ancient Nepal 191-192 (2016): 93-112 — https://durham-repository.worktribe.com/output/1375401
 - [medium] `coningham2020_dohani_karma`: Coningham, R.A.E., K.P. Acharya, et al., 'Preliminary results of geophysical survey, mapping and auger coring at Dohani and Karma, two fortified enclosures in Kapilbastu District, Nepal', Ancient Nepal 204, pp. 25-57 — https://durham-repository.worktribe.com/output/1294406
 - [medium] `coningham2020_lumbini_routeway`: Coningham, R.A.E., K.P. Acharya, et al., 'Lumbini's nursery well and the evidence for an ancient routeway through Rupandehi and Kapilbastu districts, Nepal', Ancient Nepal 204, pp. 5-24 — https://durham-repository.worktribe.com/output/1263529
+- [medium] `coningham_satyanarayan_handigaon`: Coningham, R.A.E. et al., 'Geophysical Investigations at the Satya Narayan Temple, Handigaon, Kathmandu (Nepal)', Ancient Nepal 207 [year not seen; verify] — https://durham-repository.worktribe.com/output/1191349
 - [medium] `digitalhimalaya_ancient_nepal`: Ancient Nepal (Prācīna Nepāla), journal of the Department of Archaeology, Nepal, 1967-: digitised back issues (Digital Himalaya; Nepal in Data) — https://digitalhimalaya.com/collections/journals/ancientnepal
 - [medium] `hartel1993_sonkh`: Härtel, Herbert, Excavations at Sonkh: 2500 Years of a Town in Mathura District (Monographien zur indischen Archäologie, Kunst und Philologie 9; Berlin: Dietrich Reimer); open-access reissue CrossAsia-eBooks 2021, doi:10.11588/xabooks.934 — https://doi.org/10.11588/xabooks.934
 - [medium] `kaken_maheth_1994_96`: Aboshi Yoshinori (PI), 'A study of Maheth (Sravasti) site in India', KAKEN Grant 06041110, final research report summary FY1994-1996 — https://kaken.nii.ac.jp/en/report/KAKENHI-PROJECT-06041110/060411101996kenkyu_seika_hokoku_gaiyo
@@ -87,6 +109,8 @@ Please put the files in `data/ref/lit/<group>/` named `<key>.pdf` (the key is th
 
 **Magadha (juan 8–9)**
 
+- [high] `amar2009_bodhgaya_thesis`: Amar, Abhishek Singh, 'Contextualising the navel of the earth: the emergence, sustenance and religious transformation of Buddhism in the Bodhgaya region (circa 300 BCE-1200 CE)', PhD thesis, SOAS, University of London, 2009 (DOI 10.25501/SOAS.00029300) — https://eprints.soas.ac.uk/29300/
+- [medium] `azad2020_pataliputra_seals`: Azad, Uma Shankar, 'Seals and Sealings of Pataliputra (From the Maurya Period up to the Gupta Period)', Heritage: Journal of Multidisciplinary Studies in Archaeology 8.2 (2020): 632-647 — https://www.heritageuniversityofkerala.com/JournalPDF/Volume8.2/37.pdf
 - [medium] `deeg2025_week_interview`: Deeg, Max (interviewed). "'Xuanzang's work has certain bias that calls for careful interpretation': Max Deeg". The Week, 18 July 2025 (cover story) — https://www.theweek.in/theweek/cover/2025/07/18/xuanzangs-work-has-certain-bias-that-calls-for-careful-interpretation-max-deeg.html
 - [medium] `mani2012_rajgir_slides`: Mani, B. R. "Magadha and Mahabharata: Archaeological Indications from Rajgir Area" (conference presentation, uploaded to SlideShare c. 2012) — https://www.slideshare.net/slideshow/magadhaandmahabharataarchaeologicalindicationsfromrajgirareabybrmani/15597057
 - [medium] `pti2024_mahabodhi_satellite`: PTI. "Satellite images suggest architectural wealth beneath Mahabodhi temple in Bodh Gaya: Officials". The Week (wire), 13 July 2024 (BHDS–Cardiff project "Archaeology on the footsteps of the Chinese traveller Xuanzang"; M. B. Rajni, NIAS) — https://www.theweek.in/wire-updates/national/2024/07/13/cal14-bh-mahabodhi-temple-study.html
@@ -95,6 +119,7 @@ Please put the files in `data/ref/lit/<group>/` named `<key>.pdf` (the key is th
 
 - [high] `deeg2025_andhra`: Deeg, Max (with an appendix by Peter Zieme), 'Chinese Reports about Buddhism in Early Āndhra', in Griffiths, Tournier & Shimada (eds.), Early Āndhradeśa, vol. II. Leiden: Brill, 2025, pp. 565–591. DOI 10.1163/9789004744097_015. Open access (CC BY-NC). — https://orca.cardiff.ac.uk/id/eprint/182757/1/9789004744097-BP000009.pdf
 - [high] `griffiths2025_earlyandhradesa`: Griffiths, Arlo, Vincent Tournier & Akira Shimada (eds.), Early Āndhradeśa: Historical Studies around the Epigraphic Corpus. 2 vols (I: Inventory; II: Studies). Gonda Indological Studies 25. Leiden: Brill, 2025. Open access. — https://brill.com/edcollbook-oa/title/73131
+- [medium] `suvrathan2013_banavasi_brahmi`: Suvrathan, Uthara, 'A Fragmentary Brahmi Inscription from Banavasi', Purātattva 43 (2013): 247-251 — https://zenodo.org/records/3934027
 
 ### Books and paywalled articles, high relevance
 
@@ -110,15 +135,21 @@ Please put the files in `data/ref/lit/<group>/` named `<key>.pdf` (the key is th
 - `kuwayama2023_bamiyan` [book]: 桑山正進『新興バーミヤーンの時代』(ヒンドゥークシュ南北歴史考古学樷攷 2) 臨川書店, 2023. — https://ci.nii.ac.jp/ncid/BD00522431
 - `kuwayama2023_xuanzang` [book]: 桑山正進『玄奘三蔵の形而下』(ヒンドゥークシュ南北歴史考古学樷攷 3) 臨川書店, 2023. 494 pp. — https://ci.nii.ac.jp/ncid/BD02378008
 - `li1998_kancheng` [book]: 李吟屏《古于阗坎城考》, 马大正、杨镰编《西域考察与研究续编》, 乌鲁木齐: 新疆人民出版社, 1998, 236–262
+- `liu2017_talagan` [paywall]: 刘振玉《〈大唐西域记〉所记“呾剌健国”考》,《西域研究》2017年第3期: 82–96
 - `niya_reports_1996_2007` [book]: 中日・日中共同尼雅遺跡学術調査隊『日中共同尼雅遺跡学術調査報告書』第1–3巻, 京都, 1996, 1999, 2007 (Chinese ed. 《中日日中共同尼雅遗迹学术调查报告书》) — https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-09041035
 - `rapin2022_irongates_wall` [book]: Claude Rapin, Mutalib Khasanov & Shapulat Rakhmanov, 'The Iron Gates Wall near Derbent (Uzbekistan) from Alexander the Great to the 19th century', in Ch. Baumer, M. Novák & S. Rutishauser (eds.), Cultures in Contact: Central Asia as Focus of Trade, Cultural Exchange and Knowledge Transmission (Schriften zur Vorderasiatischen Archäologie). Wiesbaden: Harrassowitz, 2022, 57-85. ISBN 978-3-447-11880-4. — https://www.harrassowitz-verlag.de/
+- `sakai2000_pamir` [book]: 酒井敏明 Sakai Toshiaki『旅人たちのパミール：玄奘、マルコ・ポーロはどの道を通ったか』, 東京: 春風社, 2000 (first published as 「旅人たちのパミール」, 帝塚山大学教養学部紀要 45 (1996): 1–82) — https://cir.nii.ac.jp/crid/1970023484858787246
 - `semenov2002_suyab` [book]: G. L. Semenov (ed.), Суяб. Ак-Бешим [Suyab. Ak-Beshim] (Археологические экспедиции Государственного Эрмитажа). St Petersburg: State Hermitage & Institute of History NAS KR, 2002. 174 pp. (incl. E. I. Lubo-Lesnichenko, 'Сведения китайских письменных источников о Суябе', 115-127.) — https://www.old.archeo.ru/izdaniya-1/archaeological-news/annotations-of-issues/arheologicheskie-vesti-spb.-2002.-vypusk-10.-annotaciya
 - `simswilliams2000_bd` [book]: Nicholas Sims-Williams, Bactrian Documents from Northern Afghanistan I: Legal and Economic Documents (Oxford 2000; rev. ed. London: Nour/Khalili 2012); II: Letters and Buddhist Texts (London 2007); III: Plates (2012). — https://www.khalilicollections.org/
+- `song2025_songyun` [paywall]: 宋立州《〈宋云行纪〉与6–7世纪丝绸之路南道葱岭东段路线》,《史林》2025年第3期: 94–100 — https://search.napstic.cn/literature/periodical/010shilin202503009
+- `xjicra2025_subashi` [paywall]: 新疆维吾尔自治区文物考古研究所、兰州大学考古与文化遗产研究院《新疆库车苏巴什佛寺遗址考古新发现》,《文物》2025年第2期 (2023–2024 excavation of the East Temple; authors and pages not captured) — https://www.aksxw.com/sy/rdxw/aks/202509/t20250909_30530466.html
 - `xjicra2025_yotkan_survey` [book]: 新疆维吾尔自治区文物考古研究所等《新疆和田约特干遗址考古勘探报告(2022–2024年)》(launched at the Nov. 2025 symposium 约特干遗址与古于阗国都城研究; publisher not confirmed) — https://www.cssn.cn/lsx/slcz/202511/t20251121_5950773.shtml
+- `xu2015_tang_silkroad` [book]: 许序雅《唐代丝绸之路与中亚史地丛考——以唐代文献为研究中心》 (publisher and year from memory: 北京: 商务印书馆, 2015; verify). Abstract read at https://appbook.qq.com/read/1024905837/4 (citation from memory; verify) — https://appbook.qq.com/read/1024905837/4
 - `yamauchi2016_chu_heritage` [unknown]: Yamauchi Kazuya & Bakit Amanbaeva (eds.), キルギス共和国チュー川流域の文化遺産の保護と研究 アク・ベシム遺跡、ケン・ブルン遺跡 2011～2014年度. Bishkek/Tokyo: Institute of Cultural Heritage, NAS Kyrgyz Republic & Tokyo National Research Institute for Cultural Properties, 2016. 108 pp. — https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15H05166/
 - `yamauchi2020_akbeshim2019` [unknown]: Yamauchi Kazuya & Bakit Amanbaeva (eds.), Ak-Beshim (Suyab) 2019. Teikyo University Research Institute of Cultural Properties & National Academy of Sciences of the Kyrgyz Republic, 2020. — https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21H04984/
 - `yamauchi2024_akbeshim2022_2023` [unknown]: Yamauchi Kazuya, Yoshida Yutaka, Uetsuki M., Fujisawa A. et al., アク・べシム（スイヤブ）2022・2023 / Ak-Beshim (Suyab) 2022-2023 (帝京大学シルクロード学術調査団調査研究報告4). 帝京大学文化財研究所・キルギス共和国国立科学アカデミー, 2024. 381 pp. — https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-21H04984/
 - `yoshida2023_xuanzang_sogdians` [book]: Yoshida Yutaka 吉田豊, 「玄奘とソグド人」, in Chikamoto Kensuke 近本謙介 & Kageyama Etsuko 影山悦子 (eds.), 玄奘三蔵がつなぐ中央アジアと日本. Kyoto: Rinsen, 2023, 33-66. — https://www.rinsen.com/
+- `zhangping2015_ashliji` [paywall]: 张平《龟兹阿奢理贰伽蓝遗址新证》,《西域研究》2015年第1期 (cited in Zhang & Zhu 2019, n. 8; pages not captured)
 - `zhu2012_prophecy` [paywall]: 朱丽双《〈于阗国授记〉译注》(上)(下),《中国藏学》2012年增刊1: 223–268; 2014年增刊1: 121–131 — https://www.cnki.net/
 
 **Gandhāra, Swat, Taxila, Kashmir (juan 2–3)**
@@ -158,7 +189,7 @@ Please put the files in `data/ref/lit/<group>/` named `<key>.pdf` (the key is th
 - `asher1986_rajaona` [paywall]: Asher, Frederick M. "Sculptures from Rajaona, Valgudar and Jaynagar: Evidence for an Urban Center". East and West 36, no. 1–3 (1986): 227–246 — https://www.jstor.org/stable/29756765
 - `asher2000_lakhiserai` [paywall]: Asher, Frederick M. "An Image at Lakhi Serai and Its Implications". Artibus Asiae 59, no. 3/4 (2000): 296–302. doi:10.2307/3249882 — https://doi.org/10.2307/3249882
 - `choudhary2023_telhara` [book]: Choudhary, Bijoy Kumar; Arun Kumar; Oishi Roy; Amit Ranjan. Sri Prathamasivapura Mahavihara: Excavating an Early Medieval Buddhist Monastery at Telhara in Magadh (Eastern India) 2020–2022. Patna: Bihar Heritage Development Society, c. 2023. ISBN 978-81-961222-4-9 — https://en.wikipedia.org/wiki/Telhara_monastery
-- `iar2006_juafardih` [book]: Tewari, Rakesh (ed.). "Excavation at Juafardih, District Nalanda". Indian Archaeology 2006–07 – A Review. New Delhi: Archaeological Survey of India (published 2016)
+- `desimone_bodhgaya_excavations` [unknown]: De Simone, Daniela (with Abhishek Singh Amar and Vishi Upadhyay), Excavations at Bodhgaya, the Site of the Buddha's Enlightenment: The Mahabodhi Temple, Taradih Monastery and Bakraur Stupa (book project; Harvard White-Levy programme; status unverified) — https://whitelevy.fas.harvard.edu/excavations-bodhgaya-site-buddha%E2%80%99s-enlightenment-mahabodhi-temple-taradih-monastery-and
 - `kumar2011_krimila` [paywall]: Kumar, Anil. "Kṛimilā: A Forgotten Adhiṣṭhāna of Early Medieval Eastern India". Indian Historical Review 38, no. 1 (2011): 23–50 — https://journals.sagepub.com/home/ihr
 - `kumar2018_lalpahari` [book]: Kumar, Anil. "The Excavated Remains of a Buddhist Nunnery (Matha) at Lal Pahari (Jainagar), District Lakhisarai, Bihar: 2017–18". Bharati (Bulletin of the Dept. of AIHC & Archaeology, BHU) 42 (2018): 107–131 — https://bhu.ac.in/
 - `kumar2019_lalpahari` [book]: Kumar, Anil. "Excavation at Lalpahari (Lakhisarai, Bihar) 2018–2019". In Interrogating Early India: Evolving Perspectives, 26–48. Kolkata, 2019 — https://www.visvabharati.ac.in/
@@ -174,8 +205,10 @@ Please put the files in `data/ref/lit/<group>/` named `<key>.pdf` (the key is th
 - `cohen2006_ajantainscr` [paywall]: Cohen, Richard S., 'Appendix: Ajanta's Inscriptions', in Walter M. Spink, Ajanta: History and Development, vol. 2. Leiden: Brill, 2006, pp. 273–339. — https://brill.com/display/title/12396
 - `hikosaka1989_tamilnadu` [book]: Hikosaka, Shu, Buddhism in Tamil Nadu: A New Perspective. Madras: Institute of Asian Studies, 1989. — https://search.worldcat.org/search?q=Buddhism%20in%20Tamil%20Nadu%3A%20A%20New%20Perspective%20Hikosaka
 - `langudi_excavations` [unknown]: Pradhan, Debraj [and colleagues], reports on the Langudi hill excavations (Kayama/Deuli/Langudi, Jajpur), Orissa Institute of Maritime and South East Asian Studies / Odisha State Archaeology, c. 1996–2006 (incl. inscribed stupa fragments read as Aśokan). [exact titles to verify] (citation from memory; verify) — https://search.worldcat.org/search?q=Langudi%20excavation%20Pushpagiri%20Pradhan
+- `pradeep2025_valabhi` [paywall]: Pradeep, A.S. and M.B. Rajani, 'Ancient Valabhi: A Remote Sensing Perspective', Journal of the Indian Society of Remote Sensing 53 (2025): 1765-1783, doi:10.1007/s12524-024-02087-7 — https://doi.org/10.1007/s12524-024-02087-7
 - `prusty1993_langudi` [paywall]: Prusty, Harish Chandra & Pradeep Mohanty, 'Langudi: A Unique Rock-cut Buddhist Site in Orissa', Bulletin of the Deccan College Research Institute 53 (1993): 325–327. JSTOR 42936452. — https://www.jstor.org/stable/42936452
 - `sharma_sirpur` [book]: Sharma, Arun Kumar, Excavations at Sirpur, Chhattisgarh 2000–2012: Antiquities (and associated reports on Sirpur). New Delhi: Aryan Books International, c. 2014. [year to verify] (citation from memory; verify) — https://www.exoticindiaart.com/book/details/excavations-at-sirpur-2000-2012-antiquities-uap796/
 - `spink2005_ajanta` [paywall]: Spink, Walter M., Ajanta: History and Development. 7 vols. Handbook of Oriental Studies 2.18. Leiden: Brill, 2005–2017. — https://brill.com/display/serial/HO2-18
+- `suvrathan2014_banavasi_sacred` [paywall]: Suvrathan, Uthara, 'Spoiled for Choice? The Sacred Landscapes of Ancient and Early Medieval Banavasi', South Asian Studies 30.2 (2014): 206-229, doi:10.1080/02666030.2014.962317 — https://doi.org/10.1080/02666030.2014.962317
 
-Medium-relevance books and paywalled items (136) are listed in `data/literature.tsv` (status `wanted`); get them after these.
+Medium-relevance books and paywalled items (154) are listed in `data/literature.tsv` (status `wanted`); get them after these.

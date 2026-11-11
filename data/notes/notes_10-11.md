@@ -402,6 +402,11 @@ Workers "come upon sea shells at a depth of from ten to twenty feet" in wells an
 name Ratnākar (G#337/359). Midnapore 1911, Howrah 1909, Howrah 1972 (with recent ASI excavations at Tamluk) and the
 other Bengal volumes repeat the identification.
 
+**Later excavations.** S. K. Mukherjee's two trenches behind the Munshif's bungalow (IAR 1973–74, p. 33) carried the
+sequence from a pre-NBP phase through NBP and Śuṅga levels to Rouletted and Red Polished Wares of the Roman trade; the
+deposits above were disturbed in medieval times, and "the remains of the ancient port" were not found. Nothing of
+Xuanzang's time.
+
 **Ji Xianlin et al. (1985).** Ji agrees: Tamluk. He credits Lal Gupta (JBTS v) with settling it against Fergusson's
 Satgaon (p. 806).
 
@@ -502,6 +507,13 @@ tentative): Jajpur on the Baitaraṇī. Watters (p. 194) and Dey: Orissa only.
 Khurda, Ganjam), concludes that Koṅgoda "extended from the southern bank of the Mahanadi" — which leaves Oḍra north of
 the river.
 
+**Later excavations.** The Assia hills N of the Mahānadī (Cuttack, now Jajpur district) hold three great monasteries.
+D. Mitra cleared two at Ratnagiri (IAR 1958–59, pp. 33–36; 1959–60, p. 38), Monastery 2 built over two earlier
+phases, with a bronze-casting workshop and hundreds of sealings, some reading "sri-Ratnagiri-mahavihariy-arya-bhikshu-
+samghasya". At Udayagiri B. K. Sinha's monastery had four enclosure phases and sealings naming it "Madhavapura";
+Chauley's Lalitgiri monastery, a catuḥśāla c. 36 m square, is post-Gupta (IAR 1988–89, pp. 66–68). None of the
+reports names Xuanzang or dates a phase to his visit.
+
 **Ji Xianlin et al. (1985).** Ji takes 高桑駒吉's capital at Dhauli, the ancient Tosali, 7 miles S of Bhubaneswar, on the
 strength of the Aśokan rock edict there and the text's "stūpas built by Aśoka" (p. 813). He rejects Cunningham's
 Cuttack (too late a city), Fergusson's Midnapur (misled by the juan's order) and Watters' Yajapur (not well argued).
@@ -526,10 +538,11 @@ grounds for Dhauli are weak: Aśoka stūpas are Xuanzang's formula in almost eve
 Puṣpagiri, "in the great mountains of the SW border", for Khandagiri, which lies only some 10 km NW of Dhauli.
 Patnaik's Tosalī at Radhanagar would part Tosalī from Dhauli, so that 高桑's equation of the capital with Tosalī, if
 kept, would point to Jajpur district rather than south of the Mahānadī; but his case is early historic, no inscription
-names the place, and Radhanagar has nothing of the 7th century, so it is not evidence for Xuanzang's capital. Mizutani
-stands.
+names the place, and Radhanagar has nothing of the 7th century, so it is not evidence for Xuanzang's capital. The
+excavated monasteries of the Assia hills put the region's great Buddhist houses N of the Mahānadī, near Jajpur, as
+Xuanzang's hundred monasteries in Oḍra would lead one to expect, but they do not locate the capital. Mizutani stands.
 
-### 10.09.02 補澁波祇釐僧伽藍 (Puṣpagiri) — Khandagiri/Udayagiri
+### 10.09.02 補澁波祇釐僧伽藍 (Puṣpagiri) — open: Khandagiri/Udayagiri (Jaina on excavation) or the Assia hills
 
 **Identifications.** Mizutani: Khandagiri, 4 miles W of Bhubaneswar (agreed). Cunningham (p. 587): the Udayagiri and
 Khandagiri hills. Dey (tentative): Udayagiri. Beal (p. 205, tentative): perhaps a stupa found near Aska, or else
@@ -538,17 +551,28 @@ Cunningham's hills.
 **Gazetteers.** The only coded row (Puri 1977, G#1528) concerns the route from Karṇasuvarṇa and says nothing of
 Puṣpagiri. It is miscoded here.
 
-**Later excavations.** G. C. Chauley (ASI, IAR 1985–86, pp. 62–63) found in a hill-top stūpa at Lalitgiri (Cuttack),
-N of the Mahānadī, three relic caskets, two holding gold caskets with bone relics, and suggested that "it might be
-the same stupa noticed by Hiuen-Tsang", without naming which; later Lalitgiri seasons (IAR 1986–87, 1989–90) do not
-repeat it.
+**Later excavations.** G. C. Chauley (ASI, IAR 1985–86, pp. 62–63) found in a hill-top stūpa at Lalitgiri (Cuttack), N
+of the Mahānadī, three relic caskets, two holding gold caskets with bone relics, and suggested that "it might be the
+same stupa noticed by Hiuen-Tsang", without naming which; later Lalitgiri seasons (IAR 1986–87, 1988–89, pp. 66–68,
+1989–90) do not repeat it, though they expose a post-Gupta monastery. On Udayagiri at Bhubaneswar D. Mitra dug an
+apsidal laterite shrine 78 ft long on the hill-top (IAR 1958–59, pp. 38–40), and judged it Jaina, perhaps of
+Khāravela's time: "There can be no doubt that it was a religious edifice of Jaina affiliation, as the Udayagiri and
+the adjacent Khandagiri hills contain monuments of no other faith." Of the Assia-hills monasteries that might stand
+for Puṣpagiri, Ratnagiri's sealings name it Ratnagiri (1958–59, p. 35) and those of Udayagiri (Jajpur) name it
+Madhavapura (1988–89, p. 67); Lalitgiri's own name is not attested in these reports. Langudi, which its excavators
+identify with Puṣpagiri from inscriptions, is known to the study only at second hand (its reports are wanted,
+data/literature.tsv).
 
 **Ji Xianlin et al. (1985).** Ji agrees: Khandagiri, about 4 miles W of Bhubaneswar, after Cunningham; he takes the
 caves to have been Buddhist originally (p. 815).
 
-**Assessment.** The difference between Udayagiri and Khandagiri is one of precision. Beal's Aska is a passing
-alternative. Lalitgiri is a passing suggestion, though it lies N of the Mahānadī, inside Oḍra on Chakravarti's
-boundary (10.09), where Khandagiri may not. Mizutani stands.
+**Assessment.** The difference between Udayagiri and Khandagiri is one of precision. But the one excavation on the
+twin hills reported here found a Jaina shrine and no Buddhist monument, Ji's Buddhist origin for the caves is
+unargued, and the hills lie S of the Mahānadī, outside Oḍra if Chakravarti's boundary held (10.09). The rival is the
+Assia hills N of the river: Lalitgiri, with its relic stūpa and a post-Gupta monastery, and Langudi, still to be read;
+Ratnagiri and the Jajpur Udayagiri are named otherwise by their own sealings, though a sealing gives a house's name in
+its own day, not necessarily in the 7th century. Beal's Aska is a passing alternative. Neither side has a decisive
+find, so the place is open between Udayagiri–Khandagiri (Mizutani) and the Assia hills.
 
 ### 10.09.03 折利呾羅城 (Caritra) — port unidentified; Puri doubted, the Prāchī mouth suggested
 
@@ -635,10 +659,16 @@ Dantapura of Pali literature (Prusti, Mohanty and Mishra 2000), though he prefer
 rampart with the planned fort at Dantapuram on the right bank of the Vaṃśadhārā in Srikakulam district. Both concern
 the early historic Kaliṅga of the tooth-relic legend, not the 7th-century capital.
 
+**Later excavations.** The Andhra Pradesh Department of Archaeology dug at Dantapuram, "the ancient capital city of
+Kalinga", a mud fort of 500 acres on the left bank of the Vaṃśadhārā in Srikakulam district (IAR 2000–01, p. 2): an
+early historic brick structure on stone foundations and another beneath a medieval stone temple, dated "from the
+second century BC to the fourth century AD". No 7th-century occupation is reported, and Xuanzang is not mentioned.
+
 **Assessment.** Salihundam gives Kalingapatnam a large Buddhist establishment, but one named in the 2nd century, not
 the capital; and the stone stupa Ramachandran matches stands on a ridge "in the north of the country" (10.11.02a),
 which a coastal hill near Kalingapatnam does not obviously suit. Mukhalingam keeps the attested name Kaliṅganagara.
-Kalingapatnam and Mukhalingam are the two serious candidates; Rajamahendri falls away. Mizutani's "undecided" is fair.
+Kalingapatnam and Mukhalingam are the two serious candidates; Rajamahendri falls away. Dantapuram, excavated as the
+early capital, shows nothing of the 7th century and so does not join them. Mizutani's "undecided" is fair.
 
 ### 10.11.02a 大山嶺上石窣堵波 — Mahendragiri
 
@@ -676,7 +706,9 @@ under Bālārjuna (IAR 1954–55, pp. 24–25; he dates the king to the 8th cent
 of "about the seventh century" with "large-scale structural activity" (IAR 1955–56, p. 26). Joshi and Sharma (IAR
 1999–2000, pp. 96–97) exposed inside the fortified area a Buddha temple with an attached vihāra (a nunnery, from the
 glass bangles), with 5th-century Brāhmī mason's marks. Sudevarāja's plates from Mahasamund, in box-headed Brāhmī,
-were "issued from Sirpura" (IAR 1979–80, Epigraphy), so Śrīpura was a royal seat before the Somavaṃśīs.
+were "issued from Sirpura" (IAR 1979–80, Epigraphy), so Śrīpura was a royal seat before the Somavaṃśīs. Clearance in
+2007–08 (IAR 2007–08, p. 43) assigned a stone structure at the Tīvaradeva vihāra and the fortification of the Sasai
+vihāra, a nunnery, to the 7th century, with a similar structure before the Harṣagupta vihāra.
 
 **Route test (whole juan).** The combination of candidates that best fits juan 10's distances and bearings takes
 Chanda (Cunningham 1871) here, not Mizutani's Sirpur, Chhattisgarh (route/README.md §6). The figures are one kind of
@@ -963,13 +995,20 @@ Beal): Nagapattinam.
 **Excavations.** None. Venkayya (AR 1906–07, p. 238) calls the Pallava country "Ta-lo pi-ch'a or Dravida", the later
 Toṇḍai-maṇḍalam, with Kāñcī as capital; a statement, not an argument.
 
+**Later excavations.** The University of Madras dug near the Kāmākṣī Amman and Ekāmbareśvara temples (IAR 1969–70, pp.
+34–35): c. 6 m of deposit, with brick structures "possibly of a Buddhist shrine" and a Brāhmī sherd read "pu ta la ti
+sa" (perhaps a monk's name) in Period IB (1st c. BC – 4th c. AD), and in Period II (4th–9th c.), which spans
+Xuanzang's visit, "a small circular structure, perhaps serving as the basement of a votive stupa". The excavators take
+the finds to confirm the city's antiquity and its early Buddhism; nothing bears on the Aśoka stūpa S of the city.
+
 **Gazetteers.** Malabar 1887 repeats "the Pallava kingdom" with Kāñcī (G#447).
 
 **Ji Xianlin et al. (1985).** Ji agrees: Kāñcīpura (Conjeeveram), rejecting Fergusson's Nagapattinam as one-sided (pp.
 854–5).
 
-**Assessment.** Kien-chi-pu-lo is phonetically Kāñcīpura, the Pallava capital. Fergusson's Nagapattinam rests only
-on his reconstruction of the route. Mizutani stands.
+**Assessment.** Kien-chi-pu-lo is phonetically Kāñcīpura, the Pallava capital, and the excavated city was occupied,
+with slight Buddhist traces, in Xuanzang's time. Fergusson's Nagapattinam rests only on his reconstruction of the
+route. Mizutani is strengthened.
 
 ### 10.17 秣羅矩吒國 (Malakūṭa) — far south; capital near Madurai
 
@@ -1108,9 +1147,13 @@ Buchanan's local derivation (G#1915–8). Ratnagiri 1962 discusses only the rout
 **Later excavations.** The University of Mysore with the State Department (IAR 1970–71, p. 29) dug at Banavasi on the
 Varadā, "probably visited by Hiuen Tsang": a brick fortification with moat, an apsidal brick caitya in the Donigudda
 mound — "Traditionally, the mound contained a chaitya, the existence of which was mentioned by Hiuen Tsang" — and a
-Kadamba pillar inscription. Poonacha (ASI, IAR 1995–96, p. 44) found Sātavāhana-level terracottas of Hārītī, a
-Buddha face and a Bodhisattva, "establishing for the first time the Buddhist antiquity of Banavasi", and states that
-Xuanzang "had visited Banavasi (ancient Vaijayanti)".
+Kadamba pillar inscription. Poonacha's trial trench inside the fortification (ASI, IAR 1994–95, pp. 40–41) gave the
+first stratified sequence: Cuṭu (lead and potin coins), Sātavāhana (a great enclosure wall, bullae with Roman
+emperors' heads), Kadamba, and a disturbed, undated post-Kadamba period. Continuing (IAR 1995–96, pp. 42–44), he found
+a fragment of a Kadamba box-headed inscription and Sātavāhana-level terracottas of Hārītī, a Buddha face and a
+Bodhisattva, "establishing for the first time the Buddhist antiquity of Banavasi", and states that Xuanzang "had
+visited Banavasi (ancient Vaijayanti) and had noticed many stupas towards the north of the township" — stūpas taken
+from the Xiyu ji, not found.
 
 **Route test (whole juan).** The combination of candidates that best fits juan 11's distances and bearings takes
 Golkonda (Beal 1884) here, not Mizutani's Anegundi on the Tungabhadra (route/README.md §6). The figures are one kind
@@ -1120,11 +1163,11 @@ of evidence; see the assessment.
 887–9). He reviews St. Martin's Banavāsi, Fergusson's Mysore, Yazdani's Kuntalapura (Kubattūr), Burgess's Kopal or
 Kokanūr, Fleet's Karnūl and Watters' doubts, and rejects 足立喜六's Khanapur.
 
-**Assessment.** Banavasi now has a fortified early city with Buddhist remains, on the Varadā that Mizutani includes
-in the country, and it was the Kadamba capital. But the IAR reports assert the Xuanzang link from tradition, without
-argument from the route, and the Buddhist finds are Sātavāhana, not 7th-century; nothing names Koṅkaṇapura.
-Annagundi has no excavated evidence in these sources. Vivien's Banavasi is therefore an equally supported alternative
-to Annagundi, with low confidence for either.
+**Assessment.** Banavasi now has a fortified early city with Buddhist remains, on the Varadā that Mizutani includes in
+the country, and it was the Kadamba capital, occupied through the Kadamba period into a post-Kadamba phase. But the
+IAR reports assert the Xuanzang link from tradition, without argument from the route, and the Buddhist finds are
+Sātavāhana, not 7th-century; nothing names Koṅkaṇapura. Annagundi has no excavated evidence in these sources. Vivien's
+Banavasi is therefore an equally supported alternative to Annagundi, with low confidence for either.
 
 ### 11.03 摩訶剌侘國 (Mahārāṣṭra) — capital Nasik, argued by the gazetteers and Mirashi
 
@@ -1140,14 +1183,17 @@ Paithan or Devagiri. Fergusson: Toka or Paithan. Beal (p. 255): near the Tapti o
 
 **Inscriptions.** Mirashi (CII 6) accepts that Xuanzang "seems to have met him at Nasik. As Fleet has shown, this
 city answers to the description of Pulakesin's capital", adducing the grant of Jayasiṃha Dharāśraya (653) from Nasik
-district.
+district. A three-plate charter of Pulakeśin II from Nalasopara (Thane), dated Śaka 554 (AD 632), grants a village
+"in Nasika-vishaya" (IAR 1996–97, Epigraphy, p. 181): the district was his some eight years before Xuanzang came,
+though the grant does not say where the king resided.
 
 **Ji Xianlin et al. (1985).** Ji differs on the capital (pp. 892–4). He takes Bādāmi (Vātāpipura), with "most present
 scholars" (after B. C. Law, p. 171), on the ground that the move to Nasik came after Xuanzang's visit; he cites
 nothing for the date of such a move. He grants that Fleet's and Burgess's Nasik fits Xuanzang's account except for the
 river on the west. He adds the Aihole inscription and Pulakeśin II's embassy to Khusrau II in 625–6 (Ṭabarī).
 
-**Assessment.** The bearing to Ajanta and the Chalukya grants from Nasik district support Nasik. Bādāmi was the
+**Assessment.** The bearing to Ajanta and the Chalukya grants from and for Nasik district (630, 632, 653) support
+Nasik. Bādāmi was the
 dynastic capital, and Ji argues for it, but from the dynasty's history alone: it lies some 500 km due S of Ajanta,
 which Xuanzang puts on the country's eastern border, and Ji gives no source for a later move to Nasik. Mizutani's
 preference is strengthened.

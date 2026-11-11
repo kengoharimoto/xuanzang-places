@@ -138,6 +138,10 @@ Halabake; the *Xiyu tuzhi*'s Yaha-arik; Li Guangting's Kara-yulgun; Ding Qian's 
 *Xin Tang shu*'s and Xuanzang's distances from Kucha and on Aksu's importance (pp. 66–67). He measures nothing; the
 route tests here prefer Kara-yulgun.
 
+**Recent scholarship.** Zhang and Zhu (2019, p. 147) take Xuanzang's road from Kucha for the Yanshui gully road (盐关道)
+by Qizil and Baicheng to Aksu, roughly today's provincial road 307, not the Zhejue pass road (柘厥关道) of the *Xin Tang
+shu*: Jia Dan gives that road as 420 li to Gumo against Xuanzang's 600+ li, and Qing travellers (Khoja Jahan's flight,
+Woren in 1851) used the Yanshui road as the main way west. They do not name the capital.
 **Assessment.** The country is securely the Aksu oasis. The dispute is only about which ruin was the capital, and
 the sources assembled here cannot settle it. Mizutani stands.
 

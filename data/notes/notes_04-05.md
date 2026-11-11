@@ -350,11 +350,13 @@ anterior to about the 7th century A.D." and were probably Harṣa's; he found a 
 **Inscriptions.** Bühler, editing Harṣa's grant (EI 1, pp. 68–69), takes Sthāṇvīśvara, the seat of Harṣa's
 ancestors, for Thanesar and the kingdom for the one "which Hiuen Tsiang describes".
 
-**Later excavations.** B. M. Pande dug the Harsh-ka-Tila, a mound 900 × 500 m and 15–23 m high, in 1987–90 (IAR
-1987–88, pp. 28–30; 1988–89, pp. 21–24; 1989–90, pp. 27–29). Above Kushan and Gupta levels, "the Pushyabhuti or Vardhana period (middle of the sixth to end of seventh century) was
-distinguished by a massive brick building" (a wall of 99+ courses), a renovated fortification, a stone
-inscription fragment in 7th-century characters and a head "vaguely recalling the figure … on the coins of
-Harsha". No Buddhist monument of the period was found.
+**Later excavations.** B. M. Pande dug the Harsh-ka-Tila, a mound 900 × 500 m and 15–23 m high, in 1987–91 (IAR
+1987–88, pp. 28–30; 1988–89, pp. 21–24; 1989–90, pp. 27–29; 1990–91, pp. 18–19). Above Kushan and Gupta levels, "the
+Pushyabhuti or Vardhana period (middle of the sixth to end of seventh century) was distinguished by a massive brick
+building" (a wall of 99+ courses), a renovated fortification, a stone inscription fragment in 7th-century characters
+and a head "vaguely recalling the figure … on the coins of Harsha". In 1990–91 the Vardhana deposits showed an earlier
+phase of the same building complex, with a terracotta seal and moulds, and a two-phase Kushan mud rampart was traced
+on the S slope. No Buddhist monument of the period was found.
 
 **Ji Xianlin et al. (1985).** Ji accepts Cunningham's Thānesar only provisionally, because its direction and distance
 from Mathurā do not fit the text; he reports V. Smith in agreement, Watters against, and Majumdar Sastri's Thūṇa of
@@ -439,7 +441,9 @@ Kalsi" follow ASR I.
 or an enclosure of some monastery". In 1965–66 (Chhabra and Suraj Bhan, IAR 1965–66, p. 36) Period II (c. 100 BC –
 AD 500) gave "inscribed clay sealings, one bearing the legend Vyagharaja and the other Sugha, both in the third
 century A.D. characters". Haryana's digs of 1995–99 (Malik and Acharya, IAR 1995–96, p. 25; 1998–99, pp. 23–24)
-take Srughna as given but found nothing of Xuanzang's pillar or monastery.
+take Srughna as given but found nothing of Xuanzang's pillar or monastery. Acharya's season of 1993–94 (IAR 1993–94,
+pp. 51–52) recalls Xuanzang's pillar and monastery but found only Period I (5th–1st c. BC, with NBP sherds) and
+Period II (1st c. BC – 3rd c. AD, Śuṅga–Kushan terracottas, brick walls) in 2.1 m of deposit: nothing of his time.
 
 **Ji Xianlin et al. (1985).** Ji reports Cunningham's Sugh, placing it near Kalsi with the coordinates 30°32′N
 77°53′E, as Mizutani does, and doubts it: apart from the name, neither the distance nor the size fits, since Sugh is

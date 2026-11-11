@@ -12,7 +12,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 01.06	probable	Mizutani	41.72	82.96	district	Kucha region, Xinjiang	medium	none		Kucha
 01.06.01	open	Mizutani	41.72	83.1	town	Ruined town slightly E of Kucha	low	none		Slightly E of Kucha (= 荒城)
 01.06.02	secure	Mizutani	41.86	83.04	site	Subashi temple ruins, NNE of Kucha	high	none		Subashi twin ruins on both banks of the river
-01.06.04	probable	Mizutani	41.69	82.7	site	Duldur-Aqur ruin, opposite Kumtura	medium	none		Duldur-Aqur
+01.06.04	open	Mizutani	41.69	82.7	site	Duldur-Aqur ruin, opposite Kumtura	low	alternative	yes	open: Duldur-Aqur, opposite Kumtura (Pelliot, Akiyama, Ji), or the Kizilgaha caves with the Bozkhana temple site, c. 10 km NW of the Pilang city (Zhang and Zhu 2019)
 01.07	probable	Mizutani	41.17	80.26	district	Aksu region (old Gumo), Xinjiang	medium	none		Aksu region; capital site undecided
 01.07.01	open	Mizutani	42.03	80.13	district	Tianshan main range N of Aksu (Pik Pobeda / Khan-Tengri)	medium	alternative	yes	Tianshan N of Aksu; Muzart or Bedel pass (open)
 01.07.02	secure	Mizutani	42.43	77.25	district	Issyk-kul lake, Kyrgyzstan	high	none		Issyk-kul
@@ -147,7 +147,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 03.06.08	open	Mizutani	33.92	75.01	town	Avantipur	low	none		around Avantipur (by distance)
 03.06.09	open	Mizutani	34.08	74.86	site	Valley NE of the hill S of the Palace Hotel, Srinagar	low	none		SE of Srinagar (by distance), unlocated
 03.06.10	text	text	34.3034	74.432	from the text	placed from the text: 王城西北行二百餘里 (from 03.06)	low	none		unlocated
-03.06.11	open	Mizutani	34.17	74.25	district	Baramula-Rampur stretch of the Jhelum	low	none		Baramula–Rampur stretch, no site
+03.06.11	open	Mizutani	34.17	74.25	district	Baramula-Rampur stretch of the Jhelum	low	new-candidate		Baramula–Rampur stretch; candidate: the Zehanpore stupa site on the N bank, c. 10 km from Baramula (position only)
 03.07	probable	Mizutani	33.77	74.09	town	Punch (Poonch)	medium	none		Punch (Poonch)
 03.08	probable	Mizutani	33.38	74.31	town	Rajauri	medium	none		Rajauri
 04.01	open	Mizutani	31.6	74.3	country	Punjab plain between Beas and Chenab	low	none		central Punjab; capital open (Asarur only if Sakala = Sanglawala Tibba; else near Sialkot, Majumdar)
@@ -368,8 +368,8 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 10.08	secure	Mizutani	24.03	88.24	site	Rangamati (Karnasuvarna), Murshidabad	high	strengthened		Rangamati (Rajbadidanga-Jadupur): capital beside the Raktamrittika monastery
 10.08.02	secure	Mizutani	24.03	88.24	site	Rangamati, Murshidabad	high	strengthened		Rajbadidanga at Rangamati
 10.09	probable	Mizutani	21.3	86.0	country	Northern Orissa	medium	none		N Orissa, N of the Mahanadi; capital most often Jajpur
-10.09.02	probable	Mizutani	20.26	85.78	site	Khandagiri, Bhubaneswar	medium	none		Udayagiri-Khandagiri hills
-10.09.02a	open	Mizutani	20.263	85.786	site	Udayagiri, Bhubaneswar	low	none		Udayagiri, paired with Khandagiri (by analogy only)
+10.09.02	open	Mizutani	20.26	85.78	site	Khandagiri, Bhubaneswar	low	alternative	yes	open: Udayagiri-Khandagiri hills (Mizutani) or the Assia hills N of the Mahanadi (Lalitgiri; Langudi claimed)
+10.09.02a	open	Mizutani	20.263	85.786	site	Udayagiri, Bhubaneswar	low	weakened		open: Udayagiri (Bhubaneswar) by analogy only; to be sought in the Assia hills if Puspagiri lies there
 10.09.03	open	Mizutani	19.81	85.83	town	Puri	low	new-candidate		unidentified; Nendra (Waddell) best argued; Prachi-mouth port suggested
 10.10	probable	study	19.78	85.17	district	Koṅgoda on the Sālimā near the Chilka	medium	alternative		Kongoda-mandala from the S bank of the Mahanadi (Cuttack, Khurda) into N Ganjam; capital the Sailodbhava town Kongoda on the Salima (perhaps the Salia near the Chilka)
 10.11	open	Mizutani	18.5	84.0	country	Kalinga (coast S of Ganjam)	low	none		capital undecided: Kalingapatnam (Salihundam) or Mukhalingam
@@ -383,7 +383,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 10.14.02b	open	Mizutani	16.573	80.34	site	Dharanikota	low	weakened		on a hill W of the Dharanikota town (unlocated)
 10.14.03	unlocated						low	new-candidate		unnamed hill c. 2 mi SE of Amaravati (Takakuwa via Ji), consistent with the Dharanikota capital; isolated rock S of Bezwada only if the capital were Bezwada
 10.15	probable	study	14.47	78.82	district	Telugu Coḷa country, Cuddapah	medium	alternative		Telugu Cola country (Renandu) in Cuddapah, with parts of Kurnool/Anantapur; capital open
-10.16	secure	Mizutani	12.83	79.7	town	Kanchipuram	high	none		Kancipura
+10.16	secure	Mizutani	12.83	79.7	town	Kanchipuram	high	strengthened		Kancipura
 10.17	probable	Mizutani	9.93	78.12	town	Madurai	medium	none		capital near Madurai
 10.17.03	probable	Mizutani	9.75	77.15	district	Cardamom hills	medium	none		southern Western Ghats
 10.17.04	open	Mizutani	8.71	77.37	site	Papanasam hills, Tirunelveli	low	none		Podiyil/Papanasam hill
@@ -398,7 +398,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 11.02	open	Mizutani	15.35	76.49	town	Anegundi on the Tungabhadra	low	alternative	yes	capital open: Annagundi or Banavasi
 11.03	probable	Mizutani	20.0	73.79	district	Nashik area	medium	strengthened		capital Nasik
 11.03.03	secure	Mizutani	20.55	75.7	site	Ajanta caves	high	strengthened		Ajanta caves
-11.04	probable	Mizutani	21.7	72.98	town	Bharuch	medium	none		Broach (Bharuch)
+11.04	secure	Mizutani	21.7	72.98	town	Bharuch	high	strengthened		Broach (Bharuch)
 11.05	open	study	22.75	72.68	district	central Gujarat SE of the Mahī	low	alternative		central Gujarat SE of the Mahi (Malavaka-ahara of the Maitrakas); capital undecided
 11.05.03	text	text	22.7804	72.647	from the text	placed from the text: 大城西北二十餘里 (from 11.05)	low	none		unidentified
 11.06	open	Mizutani	22.6	70.3	district	N coast of the Kathiawar peninsula	low	alternative	yes	open: Vadali (Idar), Cunningham's Vadari/Eder, or Kathiawar
@@ -408,7 +408,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 11.10	secure	Mizutani	21.52	70.46	town	Junagadh	high	strengthened		S Kathiawar, capital Junagadh (Girinagara)
 11.10.02	secure	Mizutani	21.495	70.53	site	Mount Girnar	high	strengthened		Mount Girnar
 11.11	secure	Mizutani	25.0	72.27	town	Bhinmal	high	strengthened		capital Bhinmal (Bhillamala/Srimala)
-11.12	probable	Mizutani	23.18	75.78	town	Ujjain	medium	none		Ujjain
+11.12	secure	Mizutani	23.18	75.78	town	Ujjain	high	strengthened		Ujjain
 11.13	text	text	24.6909	77.4526	from the text	placed from the text: 東北 1000+ from 11.12	medium	strengthened		Bundelkhand (Jejakabhukti); capital Khajuraho or Eran
 11.14	probable	Mizutani	26.22	78.18	town	Gwalior	medium	none		Gwalior
 11.15	probable	Mizutani	27.6	68.97	town	Aror (Alor), near Sukkur	medium	none		capital Alor

@@ -1363,7 +1363,14 @@ bank" (uncertain). Beal gives no site.
 
 **Gazetteers.** None.
 
-**Assessment.** The monastery is unlocated beyond the area, and nothing here changes that.
+**Recent scholarship.** Hassan, Shah and Yatoo (2026, pp. 89, 95), a study of bank erosion, describe the Zehanpore
+Buddhist site: three stupas in a line on the right (N) bank of the Jhelum, c. 10 km from Baramula (34°10′43″N
+74°15′20″E), with no date, excavation or inscription in their account. They do not connect it with this monastery;
+after Ray (1969) they link it with the Jayendra vihāra (p. 90), which the Life puts in the capital (至都，止闍耶因陀羅寺), so
+that link does not fit Xuanzang.
+**Assessment.** The monastery is unlocated beyond the area. Mizutani's "no monastery site on the N bank" no longer
+holds: the Zehanpore stupas stand on the N bank inside his stretch, a candidate on position alone, and c. 51 km from
+Srinagar in a straight line is long for 140–150 li. Untested; low.
 
 ---
 
