@@ -93,7 +93,7 @@ footer { margin-top: 18px; color: var(--muted); font-size: 12px; max-width: 90ch
 <div class="wrap">
 <header>
   <h1>Xuanzang's Places</h1>
-  <p>Every country and site of the <i>Da Tang Xiyu ji</i> (大唐西域記), placed where this study now puts it. The study starts from Mizutani Shinjō's identifications (1971) and tests them against Julien, Vivien de Saint-Martin, Cunningham, Majumdar, Beal, Watters and Dey; the Archaeological Survey's reports, Annual Reports and <i>Indian Archaeology – A Review</i>; <i>Epigraphia Indica</i> and the CII; the British Indian gazetteers; the <i>Life</i>; and route tests on Xuanzang's distances and bearings. Colour shows the study's confidence, taken from the notes' assessments: <b>secure</b>, <b>probable</b>, <b>open</b>, or <b>untested</b> where the study has not assessed Mizutani's view. A dark ring marks a place where the study revises or strengthens Mizutani; the "Mizutani's points" layer shows his sites where they differ.</p>
+  <p>Every country and site of the <i>Da Tang Xiyu ji</i> (大唐西域記) on one map. The points follow the standard identifications, those of 季羨林 et al., <i>Da Tang Xiyu ji jiaozhu</i> (1985), with Mizutani Shinjō's (1971) where Ji is silent, wherever the evidence agrees with them; a dark ring marks the places where the study departs from the standard (a different site, or open between the standard's and another), a light ring where it refines the standard or proposes a site the standard lacks. The evidence weighed: the earlier authorities (Julien, Vivien de Saint-Martin, Cunningham, Majumdar, Beal, Watters, Dey); the Archaeological Survey's reports, Annual Reports and <i>Indian Archaeology – A Review</i>; <i>Epigraphia Indica</i> and the CII; the British Indian gazetteers; the <i>Life</i>; route tests on Xuanzang's distances and bearings; and the scholarship since 1985. Colour shows the study's confidence, taken from the notes' assessments: <b>secure</b>, <b>probable</b>, <b>open</b>, or <b>untested</b> where the study has not assessed the standard view. The "Mizutani's points" layer shows his sites where the map's point differs.</p>
 </header>
 
 <div class="controls" role="group" aria-label="Filters">
@@ -102,7 +102,7 @@ footer { margin-top: 18px; color: var(--muted); font-size: 12px; max-width: 90ch
   <button class="chip" data-status="open" aria-pressed="true"><span class="dot" style="background:var(--open)"></span>Open</button>
   <button class="chip" data-status="text" aria-pressed="true" title="No site identified: placed approximately from Xuanzang's own bearing and distance"><span class="dot" style="background:var(--text)"></span>Placed from the text</button>
   <button class="chip" data-status="untested" aria-pressed="true" title="Not assessed by the study: Mizutani's identification, or the sources' for added places"><span class="dot" style="background:var(--untested)"></span>Untested</button>
-  <button class="chip" id="f-change" aria-pressed="false"><span class="ring"></span>Only where the notes change Mizutani's picture</button>
+  <button class="chip" id="f-change" aria-pressed="false"><span class="ring"></span>Only where the study departs from the standard</button>
   <label>Juan <select id="f-juan"><option value="0">all</option></select></label>
   <label>Level <select id="f-level"><option value="">all</option><option value="country">countries</option><option value="site">sites</option></select></label>
   <input type="search" id="f-q" placeholder="Search name or site" aria-label="Search places">
@@ -146,6 +146,9 @@ const GEO = /*GEO*/{};
 const AUTHN = {julien:"Julien", vivien:"Vivien de Saint-Martin", cunningham:"Cunningham (1871)", majumdar:"Majumdar (1924)", beal:"Beal (1884)", watters:"Watters (1904–05)", dey:"Dey (1927)", ji:"Ji Xianlin et al. (1985)"};
 const CHANGE = {strengthened:"Gazetteers support Mizutani", weakened:"Gazetteers weaken Mizutani", alternative:"Better-supported alternative", "new-candidate":"New candidate from the gazetteers", none:"Mizutani stands"};
 const BIG = new Set(["alternative","new-candidate","weakened"]);
+const REL = {agrees:"Agrees with the standard", refines:"Refines the standard", open:"Open: the standard or another site", differs:"Departs from the standard", candidate:"A site where the standard has none", none:"No identification"};
+const DEP = new Set(["differs","open"]), DEP2 = new Set(["refines","candidate"]);
+const SRC = {ji:"Ji et al. 1985", "ji+mz":"Ji et al. 1985 and Mizutani 1971", "ji≠mz":"Ji et al. 1985 (Mizutani differs)", mz:"Mizutani 1971", none:""};
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const col = s => `var(--${["secure","probable","open","text","untested","agreed","uncertain","disputed","unknown","added"].includes(s) ? s : "unknown"})`;
 
@@ -194,7 +197,7 @@ const affEl = document.getElementById("affchips");
 AFF.forEach(([k, lab]) => { const n = P.filter(p => p.tags.has(k)).length;
   affEl.insertAdjacentHTML("beforeend", `<button class="chip aff" data-aff="${k}" aria-pressed="false">${lab} <span class="sub">${n}</span></button>`); });
 const state = {status: new Set(["secure","probable","open","text","untested","unlocated"]), visit: new Set(["visited","hearsay","unclear"]), aff: new Set(), kh:false, alt:false, sp:false, change:false, juan:0, level:"", q:"", sel:null};
-const visible = p => (!state.kh || (p.kh && p.kh.length)) && state.status.has(p.status) && state.visit.has(p.visitEff) && (!state.aff.size || [...state.aff].some(a => p.tags.has(a))) && (!state.change || BIG.has(p.change) || p.change === "strengthened")
+const visible = p => (!state.kh || (p.kh && p.kh.length)) && state.status.has(p.status) && state.visit.has(p.visitEff) && (!state.aff.size || [...state.aff].some(a => p.tags.has(a))) && (!state.change || DEP.has(p.rel) || DEP2.has(p.rel))
   && (!state.juan || p.juan === state.juan) && (!state.level || p.level === state.level || (state.level === "country" && p.level === "region"))
   && (!state.q || [p.zh,p.ja,p.orig,p.nst,p.mz,p.modern,p.proposed,p.id].join(" ").toLowerCase().includes(state.q));
 
@@ -223,9 +226,9 @@ function draw() {
     .attr("cx", p => proj([p.lon,p.lat])[0]).attr("cy", p => proj([p.lon,p.lat])[1])
     .attr("r", r).attr("fill", p => col(p.status))
     .on("click", (e,p) => select(p.id)).selectAll("title").data(p => [p]).join("title").text(p => `${p.zh} ${p.orig ? "· "+p.orig : ""}`);
-  halos.selectAll("circle").data(vis.filter(p => BIG.has(p.change) || p.change === "strengthened"), p => p.id).join("circle")
+  halos.selectAll("circle").data(vis.filter(p => DEP.has(p.rel) || DEP2.has(p.rel)), p => p.id).join("circle")
     .attr("class","halo").attr("cx", p => proj([p.lon,p.lat])[0]).attr("cy", p => proj([p.lon,p.lat])[1])
-    .attr("r", p => r(p) + (BIG.has(p.change) ? 3.2 : 2.2) / Math.sqrt(k)).attr("stroke-width", p => BIG.has(p.change) ? 1.8 : 0.8);
+    .attr("r", p => r(p) + (DEP.has(p.rel) ? 3.2 : 2.2) / Math.sqrt(k)).attr("stroke-width", p => DEP.has(p.rel) ? 1.8 : 0.8);
   const lab = vis.filter(p => p.level !== "site" || k > 5);
   const u = unitPx(), fs = 12 / (k * u), sw = 3 / (k * u);   // 12 px text, 3 px halo on screen
   lbls.selectAll("text").data(k > 1.8 ? lab : [], p => p.id).join("text").attr("class","lbl")
@@ -239,7 +242,7 @@ function list() {
   document.getElementById("rows").innerHTML = vis.map(p => `<tr class="row${p.id===state.sel?" sel":""}" data-id="${p.id}" tabindex="0">
     <td class="id">${p.id}</td><td><span class="zh">${esc(p.zh)}</span>${p.orig ? `<br><span class="sub">${esc(p.orig)}</span>` : ""}</td>
     <td><span class="dot" style="background:${col(p.status)}"></span> ${esc(p.sid || p.mz || "—")}</td>
-    <td>${p.change && p.change !== "none" ? esc(CHANGE[p.change] || p.change) : (p.gazN ? p.gazN + " passages" : "")}</td></tr>`).join("");
+    <td>${p.rel && p.rel !== "agrees" ? esc(REL[p.rel] || p.rel) : ""}</td></tr>`).join("");
 }
 document.getElementById("rows").addEventListener("click", e => { const tr = e.target.closest("tr.row"); if (tr) select(tr.dataset.id, true); });
 document.getElementById("rows").addEventListener("keydown", e => { const tr = e.target.closest("tr.row"); if (tr && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); select(tr.dataset.id, true); } });
@@ -258,8 +261,9 @@ function panel(p) {
     <div class="sub">${p.id} · juan ${p.juan} · ${esc(p.level)}${par ? ` in <span class="zh">${esc(par.zh)}</span>` : ""}${p.ja && p.ja !== p.zh ? ` · Mizutani: ${esc(p.ja)}` : ""}</div>
     <div class="badges"><span class="badge" style="color:${col(p.status)}">${esc(p.status)}${p.status === "untested" ? (p.mzstatus === "added" ? " (sources)" : " (Mizutani)") : ""}</span>${p.mzstatus && p.mzstatus !== "added" ? `<span class="badge" style="color:var(--muted)">Mizutani: ${esc(p.mzstatus)}</span>` : p.mzstatus === "added" ? `<span class="badge" style="color:var(--muted)">added place</span>` : ""}
       ${p.visit ? `<span class="badge" style="color:var(--muted)">${esc(p.visit)}</span>` : ""}
-      ${p.change && p.change !== "none" ? `<span class="badge" style="color:var(--ink)">${esc(CHANGE[p.change]||p.change)}${p.conf ? " · " + esc(p.conf) : ""}</span>` : ""}</div>
-    <dl><dt>The study</dt><dd>${esc(p.sid || p.mz || "no identification")}${p.sopen ? ` <span class="sub">(left open between the candidates named)</span>` : ""}<br><span class="sub">${p.lat != null ? `On the map: ${esc(p.slabel || p.modern || "")}${p.sprec ? " (" + esc(p.sprec) + ")" : ""}; point from ${p.sfrom === "study" ? "the study's proposal" : p.sfrom === "added" ? "the sources (added place)" : p.sfrom === "text" ? "Xuanzang's own bearing and distance (approximate; no site identified)" : "Mizutani"}` : "Not located"}</span></dd>
+      ${p.rel ? `<span class="badge" style="color:var(--ink)">${esc(REL[p.rel]||p.rel)}</span>` : ""}</div>
+    <dl><dt>The standard</dt><dd>${esc(p.std || "no identification")}${SRC[p.stdsrc] ? ` <span class="sub">(${esc(SRC[p.stdsrc])})</span>` : ""}${p.relev ? `<br><span class="sub">The study: ${esc(p.relev)}</span>` : ""}${p.relnote ? `<br><span class="sub">${esc(p.relnote)}</span>` : ""}</dd>
+    <dt>The study</dt><dd>${esc(p.sid || p.mz || "no identification")}${p.sopen ? ` <span class="sub">(left open between the candidates named)</span>` : ""}<br><span class="sub">${p.lat != null ? `On the map: ${esc(p.slabel || p.modern || "")}${p.sprec ? " (" + esc(p.sprec) + ")" : ""}; point from ${p.sfrom === "study" ? "the study's proposal" : p.sfrom === "added" ? "the sources (added place)" : p.sfrom === "text" ? "Xuanzang's own bearing and distance (approximate; no site identified)" : "Mizutani"}` : "Not located"}</span></dd>
     <dt>Mizutani</dt><dd>${esc(p.mz || "no identification")}${p.mzOther ? `<br><span class="sub">Others he reports: ${esc(p.mzOther)}</span>` : ""}</dd>
     ${p.proposed && p.change && p.change !== "none" ? `<dt>Proposed</dt><dd>${esc(p.proposed)}${p.basis ? `<br><span class="sub">${esc(p.basis)}</span>` : ""}</dd>` : ""}
     ${auth}

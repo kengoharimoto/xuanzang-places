@@ -4,8 +4,21 @@
 what is agreed and what is disputed? What do the excavations, the inscriptions and the British Indian gazetteers add
 to the standard identifications?
 
-**Answer in brief.** Mizutani Shinjō's annotated translation (1971) identifies most of the 148 countries in the text
-with reasonable confidence. He marks 30 of them as disputed and 21 more as uncertain or unknown, and the same holds
+**The standard.** There is no single agreed list, but the commentary the field cites for "where is X" is 季羨林 et al.,
+*Da Tang Xiyu ji jiaozhu* 大唐西域記校注 (Zhonghua, 1985; "Ji"), which gathers the earlier authorities and the archaeology to
+about 1980. Japanese scholarship cites Mizutani Shinjō's annotated translation (1971), with which Ji agrees for most
+places; English-language work still goes back to Watters (1904–05) and Cunningham. The study takes Ji as the standard,
+with Mizutani where Ji is silent, and its map is a visualisation of that standard wherever the evidence agrees with it.
+
+**Against the standard** (`data/standard/compare_*.tsv`, `data/STANDARD_INSTRUCTIONS.md`): 365 of the 480 places have a
+standard identification. For 262 the study agrees, and for 28 it names a more exact site within it; for 75 it departs,
+putting 35 elsewhere and leaving 40 open between the standard's site and another. Among the 148 countries, 121 agree
+or refine. Of the 115 places without a standard identification, mostly minor sites, the study proposes a site for 54.
+Kapilavastu is not a departure: Ji already leaves it open between Piprahwa and Tilaurakot. On the map a dark ring
+marks a departure, a light ring a refinement or a site where the standard has none.
+
+**Answer in brief.** Mizutani Shinjō's annotated translation (1971), the study's working text because it covers every
+place, identifies most of the 148 countries in the text with reasonable confidence. He marks 30 of them as disputed and 21 more as uncertain or unknown, and the same holds
 for 139 of the 268 sites.
 
 Five kinds of evidence were set against him:
@@ -317,7 +330,8 @@ evidence or candidates; these change the picture:
 
 ## Main proposed revisions to Mizutani
 
-These are medium- or high-confidence proposals that move away from Mizutani. The full list is in
+These are medium- or high-confidence proposals that move away from Mizutani; how each stands to Ji's standard is in
+`data/standard/compare_*.tsv`. The full list is in
 `data/notes/updates_*.tsv`.
 
 | Id | Place | Mizutani | Proposed | Basis |
@@ -412,6 +426,7 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 ## Files
 
 - `data/places.tsv`: the joined table (start here).
+- `data/standard/compare_*.tsv`: each place's standard identification (Ji 1985, or Mizutani) and how the study stands to it.
 - `data/literature.tsv`, `data/LITERATURE.md`: the recent-scholarship bibliography, its status and the list of PDFs wanted.
 - `data/places_mizutani.tsv`: the master table.
 - `data/places_added.tsv`: 61 places missing from Mizutani's numbering (ids `.xN`), added from the sources. Mappings

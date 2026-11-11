@@ -38,6 +38,9 @@ SV = {r["id"]: r for r in rd("data/study_view.tsv")}   # the study's view: point
 SP = {r["id"]: r for r in rd("data/coords_study.tsv")}   # the study's proposed sites
 MZS = {r["id"]: r for r in rd("route/candidate_scores.tsv") if r["proposer"] == "Mizutani"}
 BEST = {r["id"]: r["best_fit"] for r in rd("route/chain_best.tsv")}
+STD = {}   # the standard identification (Ji 1985, with Mizutani 1971) and how the study stands to it (data/STANDARD_INSTRUCTIONS.md)
+for f in sorted(glob.glob("data/standard/compare_*.tsv")):
+    for r in rd(f): STD[r["id"]] = r
 notes = {}
 for f in sorted(glob.glob("data/notes/notes_*.md")):
     t = open(f, encoding="utf-8").read()
@@ -80,6 +83,8 @@ for r in rd("data/places.tsv"):
         "sp": ({"lat": float(SP[r["id"]]["lat"]), "lon": float(SP[r["id"]]["lon"]), "label": SP[r["id"]]["label"], "prec": SP[r["id"]]["precision"], "note": SP[r["id"]]["note"]} if r["id"] in SP else None),
         "alt": ALT.get(r["id"], []), "mzz": MZS.get(r["id"], {}).get("mean_abs_z", ""), "mzb": MZS.get(r["id"], {}).get("mean_bearing_off", ""),
         "best": BEST.get(r["id"], ""),
+        "std": STD.get(r["id"], {}).get("standard", ""), "stdsrc": STD.get(r["id"], {}).get("standard_source", ""),
+        "rel": STD.get(r["id"], {}).get("relation", ""), "relev": STD.get(r["id"], {}).get("evidence", ""), "relnote": STD.get(r["id"], {}).get("note", ""),
     })
 t = open("map/template.html", encoding="utf-8").read()
 t = t.replace("/*PLACES*/[]", json.dumps(out, ensure_ascii=False, separators=(",", ":")))
