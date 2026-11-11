@@ -11,7 +11,7 @@ Hits within 3,000 characters are merged; context = 800 chars before to 2,000 aft
 """
 import csv, glob, os, re, sys
 PILGRIM = (r"h\s*[iw]\s*[ou]?\s*[eu]?\s*[ae]?n\W{0,3}t?\s*h?\s*[st]\s*h?\s*[ai]?\s*a\s*n\s*g|hiouen|yuan\W{0,3}ch[wu]ang|"
-           r"hs[uü]an\W{0,3}tsang|hiuen|hieun|hiuan|y[iu]{1,2}an\W{0,3}ch|hwen\W{0,3}t|fa\W{0,2}h[ie]+a?n\b|chinese\W{1,3}pilgrim")
+           r"hs[uü]an\W{0,3}tsang|xuan\W{0,3}zang|hiuen|hieun|hiuan|y[iu]{1,2}an\W{0,3}ch|hwen\W{0,3}t|fa\W{0,2}h[ie]+a?n\b|chinese\W{1,3}pilgrim")
 SITES = (r"kasia|ku[sś]inaga?ra|matha.?kua?r|sahe?th?.?mahe?th?|[sś]r[aā]vast[iī]|jetavana|s[aā]rn[aā]th|dh[aā]mekh|"
          r"n[aā]land[aā]|r[aā]jgir|r[aā]jag[rṛ]iha|bodh.?gay[aā]|mah[aā]bodhi|basarh|vai[sś][aā]l[iī]|kosam|kau[sś][aā]mb[iī]|"
          r"taxila|sirkap|sirsukh|dharmar[aā]jik[aā]|kun[aā]la|charsadda|pushkal[aā]vat[iī]|shah.?ji.?ki.?dheri|"

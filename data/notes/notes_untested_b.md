@@ -258,9 +258,17 @@ found, though the upper Indus has abundant petroglyphs and Kharoṣṭhī and Br
 secondhand. Miyaji (1988, pp. 116–117) gathers the textual witnesses to the image (Faxian; Baoyun and Fasheng in the
 名僧伝, Fasheng seeing it "NE of Udyāna"; Xuanzang) and, after Kuwayama 1987, doubts that Xuanzang saw it. Bibi (2017, p.
 68) reports the gold ornament of c. 16 kg found at Pattan in Indus Kohistan, which Farooq Swati and Nasim Khan linked
-to the lost wooden Maitreya; Pattan lies downstream of Darel, not in it, and the link is conjecture.
+to the lost wooden Maitreya; Pattan lies downstream of Darel, not in it, and the link is conjecture. Tsuchiya (2010,
+pp. 126–128), writing on Faxian's 陀歷, proposes the Pouguch (Poguch) site, on a terrace above Pouguch village on the
+left bank of the Darel, 15.3 km above the Indus confluence, which Stein (1913) had called a fort (Lohilo Kot). Her
+surface survey of 1998 found an irregular enclosure of red-earth walls (98, 25, 79 and 43 m), a gate 17 m wide with a
+basin opposite, and a single mound of cut stones at the highest point, taken for the main temple; no barracks, so not
+a fort. Interviews with seven villagers (January 2009; pp. 131–136) gave a Buddhist temple with a great image, mostly
+"of gold", once "wooden", once 24 m high, which she takes for a tradition of Faxian's eight-zhang Maitreya, "a first
+step" (p. 136). Nothing was dug, and no image, inscription or datable find is reported.
 **Assessment.** Name and agreement, with the route bearing exact and the distance normal along the Indus road; no site
-evidence, and the shrine itself has not been found (Neelis 2011). Mizutani stands (medium).
+evidence, and the shrine itself has not been found (Neelis 2011). Tsuchiya's Pouguch enclosure is a candidate site for
+the shrine, unexcavated; the oral tradition is not site evidence. Mizutani stands (medium).
 
 ### 03.02 鉢露羅國 (balūra) — Baltistan; Chitral was once proposed
 

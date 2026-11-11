@@ -156,15 +156,14 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
   = Kolika, 09.03.08); Prasad 1988 (Nanan = Kālapināka, 09.03.10); Sinha 2000 (sealings reading "Sujātāgṛha" from the
   1973 Bakraur dig, 09.01.01, reported by Anand); Asher 2000 and Kumar 2011 (Lāvaṇīla, the large village, 09.03.15a–b);
   Tribedy 2021 (the Pachnā Vajratārā, 09.03.13); Coningham et al. 2018 and the Rissho reports (Tilaurakot, 06.02).
-- **IAR 2013–14 survey (passage 785) is undercoded:** Kool as Kolita (p. 19), Nanan as Nalakagama and a grotto named
-  "Indra-Shila" at Parvati (p. 20), inscribed images at Silao and Tetrawan (p. 22) were folded from the text but have
-  no coded row; IAR 2007–08 p. 115 (Bhuiladih, Basti; 06.02) and the Lathiya excavation near Ghazipur (2009–10; 07.02)
-  are not in the index. IAR gives the same coordinates for Nanan and Chandi Mau (one is wrong).
+- **Resolved 2026-11-11:** the rest of the IAR 2013–14 BHU survey (Kool, Nanan, Parvati, Silao, Tetrawan), Bhuiladih
+  (2007–08) and Lathiya (2009–10) were indexed as passages 791–803 (the index now also matches "Xuanzang"/"Xuan-zang")
+  and coded in `iar_batch12.tsv`; Tsuchiya 2010 was OCR'd (Google Vision) and coded in `lit_batch6.tsv`. IAR gives the
+  same coordinates for Nanan and Chandi Mau (one is wrong).
 - **Telhara:** check that the excavated "Bāladitya mound" is Cunningham's Bulandi mound (08.04.01).
 - **護時健:** Miyamoto 2015 takes the Xin Tangshu's 護時犍國 (seat 遏蜜城) for Gūzgān, against the 12.02 note's
   equation with 弗栗恃薩儻那; re-examine. Lead: the Tang 大秦州 at 叡蜜城 and 鋭秣陀 (01.33), untested.
 - **Baoti Pind point** (03.03.03): check it against Cunningham's "the bearing is east".
-- **Tsuchiya 2010** (Darel temple, Oriento 53.1) is a scan with no text layer: OCR it (Japanese) and code.
 - **Li Rongxi's translation** (1996, BDK; `data/ref/lit/C/li1996_great_tang_record.txt`) is in hand but not coded; it
   could be added to the authorities like Beal and Watters.
 - **Rows marked "to verify"/"from memory"** in `data/literature.tsv` need checking against a catalogue before citing.

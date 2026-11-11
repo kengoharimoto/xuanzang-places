@@ -1089,7 +1089,10 @@ the E end of the Sheikhpura range. He saw a brick mound about 12 ft high under a
 remains of a stūpa", and Buddha images in the village and at Pachnā, among them an inscribed Vajratārā of the
 11th–12th century dug up in 2020 (after Tribedy, *Journal of Bengal Art* 26, 2021, not yet checked here); no monastic
 remains. His case needs Pārbati to be Indraśailaguhā (09.03.11), and since Barui is only 27 km from Pārbati he
-measures the 150–160 li from Nālandā (about 45 km) instead; he calls it his "best-educated guess".
+measures the 150–160 li from Nālandā (about 45 km) instead; he calls it his "best-educated guess". G. K. Lama's
+survey records on the Parvati hill Red Ware and Kushan brickbats, and at the village a Buddha in dharmacakra-mudrā
+(IAR 2013–14, p. 20, G. K. Lama (BHU)); the hill's grotto, which the survey calls Indra-Shila, is weighed under
+09.03.11. Early occupation of the hill, nothing naming Kapotaka.
 
 **Assessment.** Both sites need the distance emended. Parbati has the bearing, a pigeon name, the right lie of hill
 and village, and a Buddhist saṅgha attested by a seal. Bihār has only the emended distance. The survey's final view

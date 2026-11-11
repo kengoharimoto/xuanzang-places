@@ -225,6 +225,12 @@ nothing later; Tola Salargarh, 1 km NE, a Kushan monastery, had only a short occ
 found. The Tilaurakot reports of Coningham et al. (2018) and of the Rissho University seasons, which hold Tilaurakot,
 are not yet in hand (`literature.tsv`).
 
+*Bhuila Dih.* The U.P. State Archaeology exploration round Gorakhpur (A. P. Singh, IAR 2007–08, p. 115) records "a
+mound known as Bhuiladih", about 6 km N of Babhanan station in Basti district, with red ware of the "Maurya, Sunga,
+Kusana, Gupta and medieval" periods; by name and position it is presumably Carlleyle's Kapilavastu. The report does
+not mention Kapilavastu, and nothing Buddhist or inscribed was found: an Early Historic mound, which does not revive
+Carlleyle's case.
+
 **Assessment.** The sealings are still the only inscriptions naming Kapilavastu on any site, and 31 from one verandah
 (about forty in all) are more likely the monastery's own than letters received. They place a Kapilavastu monks'
 community at Piprahwa in the Kushan period or, on Falk's reading of the script, somewhat later. The new work narrows
@@ -814,6 +820,13 @@ Saidpur, with "numerous remains of Buddhist and early Hindu times", "has been su
 identify it definitely". No gazetteer cites remains at Ghazipur town.
 
 **Ji Xianlin et al. (1985).** Ji agrees with Cunningham's Ghazipur (p. 581); he does not discuss Sayyidpur.
+
+**Recent scholarship.** B. R. Mani's excavation at Lathiya (IAR 2009–10, pp. 123–135), 2.5 km SE of Zamania and
+about 20 km SE of Ghazipur on the S bank, exposed four Gupta brick temples, each with sanctum and maṇḍapa, inside an
+enclosure round a standing stone pillar whose capital, with eight lions, was crowned by two Garuḍas back to back; a
+Śuṅga–Kushan settlement lies below, and terracotta sealings in Gupta Brāhmī are reported unread (p. 134). It is a
+Vaiṣṇava temple site of the kind Xuanzang counts as deva temples in this country, but the report does not mention him,
+and it lies far from both Ghazipur and Sayyidpur: it does not bear on the capital.
 
 **Assessment.** The extent of the country is not in doubt. For the capital, the only physical evidence here is at
 Sayyidpur, while Ghazipur rests on Cunningham's distance and name arguments. Oldham's scheme loses its Mahāsāla at Buxar

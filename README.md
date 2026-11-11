@@ -134,14 +134,14 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
   `../yoga-gazetteers/regions/data/selection.tsv` (BAL*). They are coded as B001–B055 in `data/coded/gaz_batch10.tsv`.
 - **Recent scholarship, 1985–2026** (`data/LITERATURE.md`, `data/literature.tsv`, `data/LIT_INSTRUCTIONS.md`). A
   bibliography of 384 items built region by region in English, Japanese, Chinese and European languages; 60
-  open-access items read and coded (`data/coded/lit_batch1-5.tsv`, 133 relevant rows, quotes checked), shown on the map
+  open-access items read and coded (`data/coded/lit_batch1-6.tsv`, 135 relevant rows, quotes checked; Tsuchiya 2010 OCR'd with Google Vision), shown on the map
   as "Recent scholarship (since 1985)" and folded into the notes as **Recent scholarship.** paragraphs. Among them:
   Falk 2017 and Davis et al. 2016 (Kapilavastu, Rāmagrāma), Kuwayama's papers of 1985–99 and Miyamoto 2012–18
   (Afghanistan, Tokharistan), Naiki 2015 and 2021 (Chanaka Dheri, Taxila), Dar & Hameed 2018 (Siṃhapura), Verardi 2012
   and Filigenzi 2015 (Kashmir Smast, Swat), Shimada 2013 (Amarāvatī), Ambekar et al. 2023 (Vadnagar), Talati 2024 and
   Zhang 2016 (Khotan), the Ak-Beshim reports, and Deepak Anand's field reports from Magadha (a blog, cited as such and
   never the sole ground for a rating). *Indian Archaeology – A Review* 2007–08 and 2009–10 to 2013–14 (ASI
-  Aurangabad Circle PDFs, text by pdftotext) were added to the IAR index (passages 729–790, `iar_batch11.tsv`).
+  Aurangabad Circle PDFs, text by pdftotext) were added to the IAR index (passages 729–803, `iar_batch11-12.tsv`).
 - **K. Harimoto's notes** (`data/Archive/`). Earlier working notes:
   - a country-by-country extraction of what the text says about non-Buddhists, with letter codes;
   - notes on Songyun's 善特山, on Faxian's 波羅越 against Bhramaragiri, on Mahārāṣṭra and on Pāṇini;
