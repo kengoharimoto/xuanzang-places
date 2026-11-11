@@ -159,6 +159,13 @@ Life's 低羅磔迦 also has a retroflex. The inscriptions are read Telâdaka (B
 transcriptions that do not mark retroflexes, so they do not decide the point. The identification is unaffected
 (data/names/).
 
+**Recent scholarship.** Anand 2012 (blog) reports the excavation by the Bihar Directorate of Archaeology, begun in
+December 2009 under A. K. Verma, of the "Bāladitya mound" at the W end of the village, apparently the mound Cunningham
+and Broadley describe there. More than 30 trenches found a Gupta-period (4th–6th c.) floor across the mound and a
+Gupta wall 6 ft wide, under 5.5 ft of debris and a Pāla floor and wall, with many sculptures, some inscribed, and a
+10th-century inscribed slab warning against harm to the monastery. If the dating holds, an establishment stood on the
+spot in Xuanzang's time; the excavator's report (Verma, Bihar Directorate) is not yet checked here.
+
 **Assessment.** This is one of the few places in Magadha named on the spot by an inscription. Mizutani's
 identification is confirmed, and the survey is the source of his "confirmed by inscriptions".
 
@@ -249,6 +256,9 @@ SE of Gaya". The survey reports coded here do not discuss the hill.
 **Ji Xianlin et al. (1985).** Ji agrees on Mora hill on the E bank of the Nairañjanā, after Cunningham (p. 667), but
 measures the 3 miles from Gayā town; Cunningham's 2.5 miles are from Bodh Gayā, so Ji's "Gayā" is a slip.
 
+**Recent scholarship.** Anand 2021 (blog) accepts Dungeshwari (Dhongra) and says the identification rests on
+circumstantial evidence, no inscription having been found. He adds nothing new.
+
 **Assessment.** The gazetteers strengthen Mizutani. They locate the shadow cave and the stūpas on a particular hill of
 his Mora range and give physical remains that match Xuanzang. Confidence medium: the remains (cave, image, terrace,
 stūpa traces) are surface observations, not excavation or an inscription naming the place; the volumes must explain
@@ -329,11 +339,15 @@ Buddha was sheltered by the snake-[king]". They note that Urel preserves the nam
 **Ji Xianlin et al. (1985).** Ji names no site, noting only that reliefs of the Mucilinda legend survive in India (pp.
 685–686).
 
+**Recent scholarship.** Anand 2024 (blog) takes the village of Mochārim, S of the Mahābodhi temple, with an old pond,
+for the Mucilinda tank on the name and the pond (citing O'Malley 1906, p. 46). This is the study's Muchharin option;
+it adds nothing beyond the name and does not decide among the three.
+
 **Assessment.** There are three candidates. Cunningham's own final choice, the Teskar Tal, needs an emended bearing.
 The Urel tank keeps Xuanzang's "east". Cunningham rejected it only because he gave it to Uruvilvā, and if Mizutani's
 map is pl. XL his label may be a slip for C. Muchharin rests on a modern cult. The identification is open.
 
-### 08.06.28 盲龍室 — unidentified
+### 08.06.28 盲龍室 — unidentified; Anand's Saraswati shrine too far
 
 **Identifications.** Mizutani: no identification; his note only gives the legend's source, the 仏所行讃 (unknown).
 No authority names a site.
@@ -341,7 +355,14 @@ No authority names a site.
 **Gazetteers.** Nothing. The Gaya volumes describe the Bodh Gayā precinct in detail but do not mention the blind
 nāga's dwelling 2–3 li from the east gate. Nor does Cunningham's survey of the sites S of the temple (ASR XI).
 
-**Assessment.** Unidentified.
+**Recent scholarship.** Anand 2021 (blog) places the blind nāga's shrine at Saraswati, a Hindu shrine and monastery on
+the bank of the Mohana about 2 km NE of Bakraur, where pilgrims have lately set a Buddha image under a banyan; he
+gives no find and no argument beyond the river bank. Xuanzang puts the dwelling 2–3 li outside the E gate of the
+Bodhi-tree enclosure; Saraswati, beyond Bakraur across the river, lies on Anand's description about 3 km from the
+temple.
+
+**Assessment.** Unidentified. Saraswati is recorded as a candidate, but only on Anand's word, and at two to three
+times Xuanzang's distance. Confidence low.
 
 ### 08.06.30 摩訶菩提僧伽藍 (Mahābodhi saṅghārāma) — buried under the plateau N and W of the temple; Taradih not shown to be it
 
@@ -396,12 +417,17 @@ No inscription names the stūpa, and the report does not mention Xuanzang.
 **Ji Xianlin et al. (1985).** Ji agrees, hedged ("或謂"): Cunningham's old stūpa and pillar at Bakror on the E bank of
 the Nairañjanā (p. 703). His "1 mile SE of Gayā city" is a slip for Bodh Gayā.
 
+**Recent scholarship.** Anand 2019 (blog) gives the mound's local names (Sujātāgaḍh, Sujātākuṭi; the 19th-century
+Koteni now names the threshing ground round it) and reports, from Sinha 2000 (p. 5), "many seals from 8th-9th CE
+reading Sujātāgriha" from the 1973 excavation. IAR 1973–74 mentions no seals, and Sinha 2000 is not yet checked here.
+
 **Assessment.** The excavation shows a major stūpa standing at Bakraur in Xuanzang's day: two stages precede the Pāla
 one. That supports Cunningham's equation, which rests on position across the river and the pillar Xuanzang mentions
 beside a stūpa. The local name ties it to Sujātā instead, a rival tradition the report records without arguing.
-Mizutani is strengthened, but nothing names the Gandhahastin.
+Mizutani is strengthened, but nothing names the Gandhahastin. If the sealings exist they name the monument as Sujātā's
+house, and the Gandhahastin would have to be sought elsewhere; until they are checked the equation stands as before.
 
-### 09.01.02 石柱 (欝頭藍子) — unidentified pillar in the forest beyond the Mohana
+### 09.01.02 石柱 (欝頭藍子) — unidentified pillar beyond the Mohana; Anand's Nāmā Dih and Gāfā Kalān candidates
 
 **Identifications.** Mizutani: no identification of the pillar (unknown). No authority gives a site.
 
@@ -412,8 +438,14 @@ it.
 **Gazetteers.** Nothing about this pillar. The only pillar E of Bodh Gayā in the Gaya volumes is the one at Bakror,
 which is on the near side of the river.
 
-**Assessment.** Unidentified. It can only be placed somewhere E of the Mohana on the road to Kukkuṭapāda, and so it
-depends on the answer to 09.01.03.
+**Recent scholarship.** Anand 2024 (blog) searched E of the Mohana, taking the next river, the Paimar, for the
+hermitage's river, and offers two mound villages about 6 km E of Bakraur: Gāfā Kalān (24°40′55″ N, 85°05′15″ E) and
+Nāmā (Nawān), with the Nāmā Dih mound of about 15 acres on the Paimar, 500 m E of the village, strewn with brickbats
+(24°42′04″ N, 85°04′33″ E). Both have mutilated Buddha and Bodhisattva images in village shrines, but he found no
+trace of the pillar and calls the choice a hunch.
+
+**Assessment.** Unidentified. Anand's two mounds lie where the text sends one, E of the Mohana, but without the pillar
+nothing ties either to Udraka; they are candidates on position alone. Confidence low.
 
 ### 09.01.02a 莫訶河 (Mahā) — the Mohana river
 
@@ -426,6 +458,8 @@ the Phalgu; Dey gives the Mahi (Mohana), a tributary of the Phalgu.
 **Ji Xianlin et al. (1985).** Ji reports Julien's Mahi, Cunningham's Mohana Nadī and Watters's *mahā* ("great"), and
 puts the river on the upper Pewar "from Cunningham's survey" (p. 705). Cunningham (1871) has the Mohana here and the
 Pewar Nadi only near Nidawat on the Dharawat road (08.04.03), so Ji's Pewar looks like a slip, not a rival.
+
+**Recent scholarship.** Anand 2024 (blog) agrees: the Mahā is the Mohana (Mohāne).
 
 **Assessment.** All the authorities agree. No change. Confidence medium: a minor river identified by name similarity
 and the authorities' agreement; Mizutani's hedge stands to that extent.
@@ -464,12 +498,20 @@ form kurkuṭapāda. kukkuṭapāda is Sanskrit as well as Pāli: a Schøyen Br�
 窶盧播陀 is gurupāda(ka), the Divyāvadāna's gurupādakaḥ parvataḥ (37), with -ka dropped, and the form on Chhabra's
 pedestal. The names do not move the site (data/names/).
 
+**Recent scholarship.** Anand 2011 and 2024 (blog) follow Banerji's Gurpa and describe the summit: remains of a stone
+stūpa, a votive stūpa, a Mahākāśyapa image, and footprints with a Pāla inscription, worshipped by Hindu pilgrims as
+Viṣṇupāda (citing Patil, *Antiquarian Remains in Bihar*, pp. 157, 164, 225, not yet checked here); the footprint
+inscription is not read. He retells from Banerji (JPASB n.s. 2, 1906) the stone-covered tank, 8 × 5 ft, in which a
+skeleton was found before 1905, which is hearsay at second hand. G. K. Lama's survey records an inscribed broken image
+of Mahākāśyapa at the Mahadeva Sthan of Silao (IAR 2013–14, p. 22, G. K. Lama (BHU)), perhaps Chhabra's pedestal or a
+companion piece.
+
 **Assessment.** The inscription shows that Gurupāda, Xuanzang's own alternative name (窶盧播陀), was the hill's name in
 Pāla Magadha. That is the premise of Banerji's derivation, though the pedestal says nothing of where the hill lay, and
 Chhabra's verdict is an opinion, not a find. With the name, the cleft and the three peaks, Gurpa is now the best
 supported; Hasra keeps the route and a summit stūpa; Kurkihar has only a weaker name-link and is set aside.
 
-### 09.02.01 佛陀伐那山 (Buddhavana) — still unidentified
+### 09.02.01 佛陀伐那山 (Buddhavana) — unidentified; Ayer proposed (Lama, IAR 2013–14; Anand 2012)
 
 **Identifications.** Mizutani: no accepted identification. He reports Cunningham's Buddhain hill NNE of Kurkihār as
 rejected by Majumdar (disputed). Cunningham (p. 528), Beal (p. 147, tentatively) and Dey all give Buddhain. Majumdar
@@ -484,8 +526,19 @@ are still cut there, but he found no Aśokan stūpa and no cave.
 **Ji Xianlin et al. (1985).** Ji gives Cunningham's Buddhain hill NE of Kukkuṭapāda as fact (p. 710), without a source
 and without meeting Majumdar's objection; it adds nothing.
 
-**Assessment.** Unidentified. The survey confirms that Budhain has no remains to match Xuanzang, and Majumdar's
-objection stands. If Kukkuṭapāda moves to Hasra or Gurpa, Buddhavana must be sought about 100 li NE of that site.
+**Recent scholarship.** G. K. Lama's survey of over 100 villages round Nālandā (IAR 2013–14, p. 13, G. K. Lama (BHU))
+records at Ayer, on the Nalanda–Gaya border 37 km SW of the Nālandā ruins, a hill SW of the village with two natural
+caverns, and Buddhist sculptures at the Devi Sthan, among them a Buddha panel inscribed with the creed *ye dharmā
+hetuprabhavā*; since Buddhavana lay about 10 km W of Jethian (Yaṣṭivana), "Ayer may be identified with Buddhavana".
+Anand 2012 (blog) had proposed Ayer: a rock shelter on the steep side of the hill ringed by brick stūpas, votive-stūpa
+fragments and sandstone Buddha images, some inscribed (the creed read by G. S. Rao, ASI), structures on the summit and
+a mound at the foot, with Jethian 9 km E in the same valley (Xuanzang's 30 li E). Neither dug, and no inscription
+names the hill. By Anand's own coordinates Ayer (24°55′18″ N, 85°14′22″ E) lies about 40 km N, slightly W, of Gurpa,
+where Xuanzang has more than 100 li NE.
+
+**Assessment.** Ayer is the first candidate with remains to match Xuanzang's stone chamber, and it fits the 30 li E to
+Jethian well; the creed panel shows a Buddhist site, not which one. The bearing from Gurpa (N, not NE) does not fit.
+Budhain stays rejected. A new candidate, low confidence.
 
 ### 09.02.03 二溫泉 (杖林西南) — Tapoban hot springs
 
@@ -678,6 +731,12 @@ small cells at its base.
 the N face of Vaibhāra, an old gold-mine working, with the Pippala chamber perhaps built before it and the shaft the
 Asura palace (p. 717).
 
+**Recent scholarship.** Anand 2021 (blog) agrees on the spot but takes the Pippala to be the cave W of the hot springs
+cleared by Broadley in 1871 (a brick-lined chamber 36 × 26 ft reached by brick steps, with a standing Buddha in the
+fill, after Broadley's *Buddhistic Remains of Bihar*, not yet checked here), not the small room in the stone platform
+shown to pilgrims. He reads 石室 as the cave, where the study follows Marshall's built stone house; whether Broadley's
+cave is Cunningham's 40-ft cave behind the platform he does not say.
+
 **Assessment.** The reports confirm Takakusu's and Mizutani's arrangement: a built stone house with the cave, the
 Asura palace, behind it, W of the hot springs on the N face of Vaibhāra. Cunningham, Beglar, Marshall and Page all
 agree on the spot. No inscription names it.
@@ -754,6 +813,10 @@ found a pebble-paved forecourt before a building set against the hill.
 
 **Ji Xianlin et al. (1985).** Ji agrees: the Saptaparṇa cave on the N side of Vaibhāra, which he here calls the
 "southern hill" S of Rājagṛha (p. 738). His p. 719 list instead makes Sonagiri the Saptaparṇa hill.
+
+**Recent scholarship.** Anand 2021 (blog) visited Marshall's spur and prefers it to Beglar's cave: a man-made platform
+with walling beneath, old foundations and an approach ramp, while Beglar's cave has no hall or foundation wall and
+could not hold 500 monks. He agrees with the study.
 
 **Assessment.** Marshall's spur is the only site with a built platform large enough for the hall, at the pilgrims'
 distance on the N side. With the Son Bhandar shown to be Jaina, Mizutani's Baibhāra stands. The object, though, is a
@@ -856,8 +919,22 @@ cells (IAR 1975–76, p. 3; 1978–79, p. 67; 1981–82, p. 12;
 from 1915 (p. 753), citing Hirananda Sastri (MASI 66), Ghosh (1950) and Raychaudhuri (1953). He holds that which
 excavated monasteries are Xuanzang's six cannot yet be decided.
 
+**Recent scholarship.** At Begampur, 1 km N of the ruins, the ASI's excavation (Excavation Branch III, P. K. Mishra)
+found a fragment of a terracotta sealing with three lines in Brāhmī "in characters of about the 7th century CE", read
+"Sri … Sakkraditya [kara saka] … Chaturddisaryya [danaya] …", with a running deer on its left (IAR 2007–08, p. 26, P.
+K. Mishra (ASI)). A small dig NW of Daman-khanda, in the same periphery, exposed a Buddhist brick temple with stucco
+like that of the Nālandā temples, so the monastic area reached about 1 km N of the excavated ruins (ibid.). The
+sealing names a Śakrāditya and, it seems, the community of the four quarters (cāturdiśa-ārya-); the report does not
+mention Xuanzang or discuss the reading. Deeg 2020 (pp. 239–240) reads Xuanzang's sequence of royal founders
+(Śakrāditya, Buddhagupta, Tathāgatagupta, Bālāditya, Vajra) as an idealized lineage, not a building record, and holds
+that the name (Śrī) Śakrāditya on a seal already known from Nālandā (Sastri, *Nalanda and its Epigraphic Material*, p.
+38) "definitely has nothing to do with Xuanzang's king" (p. 239 n. 31). The Begampur sealing thus shows the name in
+use round Nālandā in Xuanzang's century, not that the first king's foundation stood there; and Deeg's reading warns
+against using the sequence as a plan of the excavated blocks (09.03.06).
+
 **Assessment.** Settled. Sealings, plate and stone inscriptions found in place name Nālandā and Bālāditya's temple,
-and the Sarai mound adds a third monument of Xuanzang's.
+and the Sarai mound adds a third monument of Xuanzang's. Begampur adds a 7th-century sealing naming a Śakrāditya and a
+temple 1 km N of the ruins; neither bears on the identification.
 
 ### 09.03.06 精舍 (如來三月說法處, 那爛陀伽藍西) — in the W range; Site No. 3 is read two ways
 
@@ -885,7 +962,7 @@ two ways: Spooner's shrine of the three months' stay, or Sastri's hair-and-nails
 Sastri's reading the shrine lies elsewhere in the range. The general area is confirmed. Which mound it is remains
 open, so the confidence falls back to low.
 
-### 09.03.08 拘理迦邑 (Kolika) — unidentified; Cunningham's Jagdispur mound unconfirmed
+### 09.03.08 拘理迦邑 (Kolika) — unidentified; Jagdishpur, Juafardih or Kool proposed
 
 **Identifications.** Mizutani: no modern identification; he equates it with the 拘離迦 village of the 仏本行集経
 (unknown). Cunningham (1871, p. 538): a ruined mound near Jagdispur, 1¼ miles SW of Bargaon.
@@ -899,10 +976,22 @@ bearing and the 8–9 li.
 **Ji Xianlin et al. (1985).** Ji identifies the village as Jagdishpur outright (p. 763), with no source; this is
 Cunningham's mound and adds no evidence.
 
-**Assessment.** The survey shows a Buddhist site in the right place, but nothing ties it to Maudgalyāyana's
-birthplace. Mizutani's reserve is reasonable. No change.
+**Recent scholarship.** Anand 2009 and 2024 (blog), comparing Juafardih, Jagdishpur, Saure and Rukministhan, found
+NBPW in quantity on the surface only at Juafardih and Jagdishpur. He reports from Saran (*Purātattva* 38, 2008, pp.
+59–73, not yet checked here) the ASI's 2007 excavation of the 10-m-high mound at Juafardih (25°08′06″ N, 85°25′54″ E):
+a stūpa from the 5th century BCE with later rebuildings, a broken disc with two Brāhmī letters read "MUGA", and no
+relics; he keeps the unexcavated mound W of Jagdishpur, 1 km SW, for the relic stūpa. G. K. Lama's survey reports the
+115 × 65 m mound at Kool, 3 km SE of the ruins, and the claim that Kolita, Maudgalyāyana's village, survives in
+Kool ("perhaps Kool is its corrupt form", IAR 2013–14, p. 19, G. K. Lama (BHU)). By Anand's coordinates Juafardih lies
+about 1.2 km W of the ruins, short of Xuanzang's 8–9 li and W rather than SW; Jagdishpur fits the bearing better, and
+Kool lies SE, against it.
 
-### 09.03.10 迦羅臂拏迦邑 (*Kālapiṇāka) — = Faxian's Nāla; no site
+**Assessment.** Still unidentified, now with three candidates: Cunningham's Jagdishpur mound (bearing and distance),
+the excavated early stūpa at Juafardih (Saran 2008 through Anand; the "MUGA" disc, the only pointer to Maudgalyāyana,
+unverified here), and Kool (a name resemblance, against the bearing). None has an inscription naming Kolika.
+Confidence low; Saran 2008 and IAR 2006–07 should be checked.
+
+### 09.03.10 迦羅臂拏迦邑 (*Kālapiṇāka) — = Faxian's Nāla; Nanan proposed
 
 **Identifications.** Mizutani: probably another name for Faxian's 那羅聚落 (Nāla), Śāriputra's birthplace
 (uncertain). Watters (p. 171) and Beal (p. lviii) agree. Cunningham (1871, p. 538; ASR I, pp. 28–29) and Dey place it
@@ -919,7 +1008,19 @@ characters fit. No village of this or a similar name is attested; Śāriputra's 
 Pravrajyāvastu and Nālandagrāmaka in the Mahāvastu, which supports the equation with Faxian's 那羅 but is a different
 name. Low confidence (data/names/).
 
-**Assessment.** The equation with Nāla has wide support, but no site has been found, in the survey or elsewhere.
+**Recent scholarship.** G. K. Lama's survey records at Nanan, 7 km SE of the ruins, a 5-acre mound with Red and Black
+Ware and sculpture fragments, and proposes that "The name Nanan may be identified with ancient Nalakagama, where
+Sariputra was born and eventually passed away" (IAR 2013–14, p. 20, G. K. Lama (BHU)); its coordinates for Nanan
+repeat those for Chandi Mau, a slip. Anand 2024 (blog) also prefers Naṇand (25°05′27″ N, 85°30′11″ E), after Prasad
+(*East and West* 38, 1988, p. 175, not yet checked here), to Broadley's Chaṇdimau 3 km S: Naṇand is a large village on
+ancient remains with images and a votive stūpa, though no prominent mound survives. His deciding test is a large mound
+at Shobhāpur, 1.8 km E of Naṇand, for the stūpa of Śāriputra's disciples, which by his own coordinates lies E rather
+than SE. The survey reports that Chandi Mau was excavated in 2000–01 and "declared a single culture site of Pala
+period" (IAR 2013–14, p. 15), which tells against it.
+
+**Assessment.** The equation with Faxian's Nāla stands. Nanan is now a candidate, proposed in the IAR and by Prasad,
+on the likeness of Nanan to Nālaka- or Nāla- and on a position about 9 km ESE of the Jagdishpur mound, which fits
+Xuanzang's 3–4 li E and 20-odd li SE roughly. There is no excavation and no inscription. Low confidence.
 
 ### 09.03.11 因陀羅勢羅窶訶山 (Indraśailaguhā) — Giriyek, with the Haṃsa stūpa and the Gidhadwar cave
 
@@ -943,9 +1044,22 @@ the equation with Faxian's hill.
 **Ji Xianlin et al. (1985).** Ji gives Cunningham's Giriyek, 6 miles E of Rājagṛha, and leaves open only its equation
 with Faxian's small isolated hill, because Faxian's distance differs (p. 770). This is the note's own doubt.
 
+**Recent scholarship.** G. K. Lama's survey keeps the Indra Shila cave on the S face of Giriyak hill, 1 km E of the
+Ghorakatora mound (250 × 200 m), "mentioned by Fahien and Xuan-Zang", where Indra is said to have put 42 questions to
+the Buddha (IAR 2013–14, pp. 15, 17, G. K. Lama (BHU)). The same survey records at Parvati "a natural grotto named
+Indra-Shila" on the hill SW of the village, with Kushan brickbats (p. 20). Anand 2024 (blog) takes Pārbati for
+Indraśailaguhā after P. C. Chaudhari (*JBORS* 22, 1936, p. 302, not yet checked here), "now accepted" by authorities
+he does not name: Giriyak is the W end of the Rājgir range, not an isolated hill, and lies S, not E, of Nālandā. That
+moves the whole chain after it E (09.03.13–09.03.15b). The isolated hill is Faxian's (小孤石山); Xuanzang describes a hill
+with two peaks, the cave in the S cliff of the W peak and a monastery on the E peak, which is Giriyek's shape. The
+bearing objection is real but depends on an unlocated base: if Nanan is Kālapiṇāka (09.03.10), Giriyek lies about 7 km
+S of it and Pārbati about 15 km E, where Xuanzang has 30-odd li E from the disciples' stūpa.
+
 **Assessment.** The goose figures, the single stūpa, the monastery terrace and the cave strengthen Mizutani for
 Xuanzang. Cunningham's own concession leaves the equation with Faxian's hill, which Mizutani's note brings in, in
-doubt.
+doubt. Pārbati is recorded as an alternative (Chaudhari 1936, unchecked; Anand; a grotto locally named Indra-Shila, of
+unknown age). It has no counterpart to the goose figures and seals, and the two peaks fit Giriyek, so the
+identification is kept at high; the route from Kālapiṇāka should be tested again if Nanan is accepted.
 
 ### 09.03.13 迦布徳迦伽藍 (Kapotaka) — Parbati ("Ghar Pārāvat") rather than Bihār
 
@@ -970,9 +1084,18 @@ Beglar's sentence (ASR VIII, p. 108).
 **Ji Xianlin et al. (1985).** Ji follows Mizutani: Bihār, reading 五六十里 for 百五六十里 (p. 773). He does not consider
 Cunningham's later Parbati.
 
+**Recent scholarship.** Anand 2024 (blog) proposes Barui (25°09′12″ N, 85°54′39″ E), at the N foot of Pachnā hill at
+the E end of the Sheikhpura range. He saw a brick mound about 12 ft high under a mosque and graveyard, "like the
+remains of a stūpa", and Buddha images in the village and at Pachnā, among them an inscribed Vajratārā of the
+11th–12th century dug up in 2020 (after Tribedy, *Journal of Bengal Art* 26, 2021, not yet checked here); no monastic
+remains. His case needs Pārbati to be Indraśailaguhā (09.03.11), and since Barui is only 27 km from Pārbati he
+measures the 150–160 li from Nālandā (about 45 km) instead; he calls it his "best-educated guess".
+
 **Assessment.** Both sites need the distance emended. Parbati has the bearing, a pigeon name, the right lie of hill
-and village, and a Buddhist saṅgha attested by a seal. Bihār has only the emended distance. The survey's final
-view should replace Mizutani's. No inscription names Kapotaka.
+and village, and a Buddhist saṅgha attested by a seal. Bihār has only the emended distance. The survey's final view
+should replace Mizutani's. No inscription names Kapotaka. Anand's Barui is recorded as a further alternative; it needs
+Indraśailaguhā at Pārbati and a distance measured from Nālandā, where the text measures from the hill, and is not
+adopted.
 
 ### 09.03.14 孤山 (觀自在菩薩像) — the Parbati hill, site A (dargah of Haji Chandar)
 
@@ -987,8 +1110,14 @@ S of the monastery.
 
 **Gazetteers.** BG27 (Gaya 1906, pp. 213–214) and RV24 (1957) give the dargah site, following ASR XV and Beglar.
 
+**Recent scholarship.** Anand 2024 (blog) puts the isolated hill at Pachnā hill, S of his Barui (09.03.13), now
+largely quarried away: a "cave-like structure" and a flat top with brickbats, seen by Directorate staff in 2020
+(Tribedy 2021, p. 716, not yet checked here), were lost to mining in 2023. The proposal follows from Barui, and the
+hill can no longer be tested.
+
 **Assessment.** This follows 09.03.13. With Kapotaka at Parbati, the solitary hill is the Parbati hill, and site A is
-the survey's choice for the temple. The case is an inference from position and sanctity, with no image found.
+the survey's choice for the temple. The case is an inference from position and sanctity, with no image found. Anand's
+Pachnā hill is recorded with his Barui and stands or falls with it.
 
 ### 09.03.15 一伽藍 (孤山東南四十餘里) — Tetrawa or Aphsar, according to the base point
 
@@ -1006,11 +1135,16 @@ its name."
 **Gazetteers.** BG27 (Gaya 1906) "doubts" Aphsar on the ground of the pilgrims' silence. This is Cunningham's own
 caveat, repeated, not an independent objection.
 
+**Recent scholarship.** Anand 2024 (blog) measures 40 li SE from his Barui (09.03.13) and lists unsurveyed villages
+8–13 km away (Mahsaurā, Imādnagar, Bakiyābād, Asthāwan and others), without a site. G. K. Lama's survey notes at
+Tetrawan a huge Buddha in bhūmisparśa-mudrā, worshipped as Bhairava Baba, with inscriptions on the lotus petals and
+halo not yet deciphered (IAR 2013–14, p. 22, G. K. Lama (BHU)).
+
 **Assessment.** The survey makes the choice depend wholly on 09.03.13. Tetrawa fits the text unemended but only from
 Bihār. Aphsar follows from Parbati but needs a second emendation. It stays unidentified, with Aphsar the consequence
 of the better-supported Kapotaka.
 
-### 09.03.15a 大聚落 (殑伽河南) — Shekhpura (Cunningham's revised view)
+### 09.03.15a 大聚落 (殑伽河南) — Shekhpura (Cunningham's revised view) or Rajaonā–Chouki (Anand)
 
 **Identifications.** Mizutani: Shekhpur, 20 miles from the Ganges, after emending 70余里 to 170余里 (uncertain).
 Cunningham (1871, pp. 543–545): near Daryapur, 34 miles W of Monghyr. Beal (p. 184): Shekhpura, after ASR XV.
@@ -1022,8 +1156,19 @@ tank. No remains are tied to the village.
 **Gazetteers.** BG33 (Monghyr 1909) and RV27 (1960) repeat ASR XV, with "few ancient remains" and the Mathokar Tal
 2 miles W.
 
-**Assessment.** Mizutani follows the survey's revised view and the gazetteers echo it. It rests on route and
-landscape only, so it stays uncertain.
+**Recent scholarship.** Anand 2024 (blog) proposes the Rajaonā–Chouki–Valgūdar mound NE of Lakhisarai (Rajaonā 25°11′
+N, 86°05′ E), which he estimates at about 200 acres, with some 60 old tanks, Brahmanical and Buddhist sculptures, and
+farmers' reports of white Ganges sand at about 12 ft in wells and brick-kilns, which he reads as an old river bank
+(hearsay, not a section he saw). He cites Cunningham's Chouki pillars (ASR III, pp. 153–154), the Kṛmilā inscriptions
+from Valgūdar and Rajaonā (Sircar, EI 28, pp. 137–145), over 22 mounds within 5 km (Kumar 2011, not yet checked here)
+and NBPW (Chattopadhyay and Sanyal 2008). He puts the great stūpa SE of the village at a mound by the Banyāhi Pokhara,
+taking it for one of Cunningham's two mounds E of Rajaonā with a Buddha and a Padmapāṇi (ASR XV, p. 14). His chain
+starts from Barui (09.03.13) and Pārbati (09.03.11), and it gives this village the site the study gives to Lāvaṇīla
+(09.03.15b).
+
+**Assessment.** Mizutani follows the survey's revised view and the gazetteers echo it; it rests on route and landscape
+only. Rajaonā–Chouki is a large early site and Kṛmilā an inscribed ancient town there, but nothing names Xuanzang's
+village, and Anand's case depends on his Barui and Pārbati. Both are recorded; the place is open, confidence low.
 
 ### 09.03.15b 落般膩羅聚落 (Lo-in-ni-lo) — Rajjana (Rajaona), near Lakhisarai
 
@@ -1051,10 +1196,21 @@ vernacular form. A Ro(h)iṇī-like name is recorded at the site, the mahal "Row
 Vivien's village, is not shown to be the same place. Low confidence: the 殷 reading may tie the name to Rajaona, but
 not securely (data/names/).
 
+**Recent scholarship.** Anand 2024 (blog) rejects Rajaonā, which he takes for the big village (09.03.15a), and weighs
+Nōṇgaḍh and Indapegaḍh, 17 and 36 km SE of Rajaonā on the Kiul. At Nōṇgaḍh, which Asher accepts as Lāvaṇīla (Asher
+2000, p. 302, *Artibus Asiae* 59, not yet checked here), he found the "stūpa mound" under 30 ft and heard that yakṣī
+images came out of it; he reads it as a yakṣī shrine later encased as a stūpa, and cites a 12th-century pedestal
+inscription naming the place Ḍakā (Sircar 1970, pp. 41–42). He prefers Indapegaḍh (24°53′ N, 86°13′ E), with a stūpa
+mound (Beglar: 125 ft across, 35 ft high), a terrace 220 × 110 ft, terracotta Padmapāṇi medallions from the stūpa
+(Anderson 1883, p. 95) and 7th-century Buddha images, reading Xuanzang's E as SE. He finds no lake of 30 li N of
+either site and suspects that Xuanzang did not go to Lāvaṇīla.
+
 **Assessment.** Only Rajaona has features matching the text: the lake to the N, Buddhist remains and the onward
 distance. The name may point there too, if the Ain's Rowhenny is a genuine Ro(h)iṇī- name rather than Cunningham's
 misreading of Rajaoni; then Vivien's Rohinila and Cunningham's Rajjana would be one place, not rivals. Cunningham's
-earlier proposals and the absence of an inscription keep the confidence at medium.
+earlier proposals and the absence of an inscription keep the confidence at medium. Anand's Indapegaḍh and Asher's
+Nongarh are recorded as alternatives; neither has the lake, and both need the bearing read as SE. Anand's evidence
+against Nongarh (a yakṣī shrine; the name Ḍakā) agrees with the study in setting it aside.
 
 ## New places (rows coded `xz_id = new` in juan 8–9)
 
@@ -1081,19 +1237,24 @@ From the gazetteers (BG26, Patna 1907; RV24, Gaya 1957):
   I, pp. 34–35; BG26, hit 112). A stone inscription of Yaśovarman's time, found in the S verandah of Monastery 1,
   records gifts to "the temple of the Buddha which king Bāladitya had built at Nalanda" (AR 1925–26, pp. 131, 149).
   Hirananda Sastri's edition (EI 20, pp. 37 ff., p. 40) identifies this Bāladitya with the king "whom Hiuen Tsiang
-  eulogises as the subduer of Mihirakula and the founder" of the great temple.
-  Hirananda Sastri therefore looks for the temple at Site 1 "and not site No. II or elsewhere"; this is his inference
-  from the find-spot. Page (AR 1921–22, p. 20) tentatively ties the lowest pavement of Monastery 1 to the foundations
-  of Bāladitya and Buddhagupta.
-- **Pūrṇavarman's copper image of the Buddha (滿胄王銅佛像), Nālandā:** Xuanzang puts it 200-odd paces E of the
-  enclosure, over 80 ft high under a six-storeyed pavilion (in the 09.03.06 passage). The Sarai mound, E of the
-  excavated remains, yielded a fourteen-line praśasti in 7th–8th-century Nāgarī, composed by the sandhivigrahika
-  Durgadatta and engraved by Mādhava (IAR 1973–74, pp. 67–68), which records "probably the installation of an image of
-  Buddha by Prathamasiva also called Purnavarman" (IAR 1975–76, pp. 61–62). V. K. Misra cites it as "corroborated by
-  the description by Hieun Tsang" (IAR 1975–76, p. 3). The temple has a sanctum with a painted pedestal and, in front,
-  the feet of a standing Buddha of earth, brick and lime, estimated at 18–20 m (Bisht, IAR 1978–79, p. 67): of the order of
-  Xuanzang's height, but not of copper. Bearing, distance from the enclosure, height and a royal donor of the name
-  fit; the image may be a later replacement. A probable identification, the first for this monument.
+  eulogises as the subduer of Mihirakula and the founder" of the great temple. Hirananda Sastri therefore looks for
+  the temple at Site 1 "and not site No. II or elsewhere"; this is his inference from the find-spot. Page (AR 1921–22,
+  p. 20) tentatively ties the lowest pavement of Monastery 1 to the foundations of Bāladitya and Buddhagupta. Deeg
+  (2020, p. 242) translates the inscription's praise of the "large, magnificent and shiningly white temple" built for
+  the Buddha by Bālāditya (Sastri, *Nalanda and its Epigraphic Material*, p. 79, ll. 8–9), which, like Xuanzang,
+  likens its image to the one on the vajrāsana (l. 19); he links a seal naming a Bālāditya-gandhakuṭī (Sastri, p. 38)
+  with the pavilion where Xuanzang lodged (p. 243 n. 43). He does not locate the temple.
+- **Pūrṇavarman's copper image of the Buddha (滿胄王銅佛像), Nālandā:** Xuanzang puts it 200-odd paces E of the enclosure,
+  over 80 ft high under a six-storeyed pavilion (in the 09.03.06 passage). The Sarai mound, E of the excavated
+  remains, yielded a fourteen-line praśasti in 7th–8th-century Nāgarī, composed by the sandhivigrahika Durgadatta and
+  engraved by Mādhava (IAR 1973–74, pp. 67–68), which records "probably the installation of an image of Buddha by
+  Prathamasiva also called Purnavarman" (IAR 1975–76, pp. 61–62). V. K. Misra cites it as "corroborated by the
+  description by Hieun Tsang" (IAR 1975–76, p. 3). The temple has a sanctum with a painted pedestal and, in front, the
+  feet of a standing Buddha of earth, brick and lime, estimated at 18–20 m (Bisht, IAR 1978–79, p. 67): of the order
+  of Xuanzang's height, but not of copper. Bearing, distance from the enclosure, height and a royal donor of the name
+  fit; the image may be a later replacement. A probable identification, the first for this monument. Anand 2021 (blog)
+  takes the colossal feet on a lotus pedestal excavated in 1974 as showing an image of Xuanzang's height; he does not
+  name the mound, but these are presumably the feet in the Sarai mound temple.
 - **Haṃsa (goose) stūpa and saṅghārāma on Indraśailaguhā:** "Jarasandha's tower" and the terrace on the lower E peak
   at Giriak (Cunningham, ASR I, pp. 21–22; ASR III, pp. 145–148; BG26, hit 106; see 09.03.11).
 
@@ -1117,7 +1278,9 @@ From the survey (ASR) and the Annual Reports:
   the 1880–81 clearance. It has two rows of pillar bases, each marked with an Aśokan letter (Cunningham, ASR XVI, pp.
   iii–iv). It is probably RV24's "Jewel-walk" (08.06.01).
 - **Stūpas of the conversion of the three Kāśyapas, Uruvilvā:** at and NW of the village of Urel, sites L–N of
-  Cunningham's plan (ASR XI, p. 147).
+  Cunningham's plan (ASR XI, p. 147). Anand 2024 (blog) proposes instead the mound village of Khajawati (24°38′39″ N,
+  85°00′05″ E), on the W bank of the Nairañjanā 1 km S of Kāzichak, from its place in Xuanzang's sequence after his
+  Kāzichak (the dry pool); he calls it a "calculated guess", and names no find.
 - **Stūpa of the hair and nails cut during three months (如來三月剃髮剪爪窣堵波) and the standing Avalokiteśvara, Nālandā:** the
   great stūpa of Site No. 3 and the image in a small shrine at its NE corner (Hirananda Sastri, EC 1919–20, p. 36).
   This rivals Spooner's reading of the same stūpa as the shrine of the three months' stay (see 09.03.06).

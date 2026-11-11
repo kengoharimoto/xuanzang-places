@@ -235,7 +235,18 @@ the name only (data/names/bactrian.tsv).
 **Kuwayama (2002).** In Sui and early Tang usage 吐火羅 was a district within the wider Tokharistan of the Arab
 geographers, the lower Kunduz–Surkhāb plain round 活, the Turkish yabghu's winter seat, which Xuanzang rightly calls 活
 (pp. 133, 135). Xuanzang's 覩貨邏國 with its own bounds is the wider region, so the two usages differ in extent only.
-**Assessment.** The region is secure; its exact extent varies by authority. Mizutani stands.
+**Recent scholarship.** Iwai (2004, pdf pp. 6, 13) finds the pottery sequence changing in step N and S of the Amu
+(Chaqalak Tepe; Dalverzin Tepa) from the late 3rd century, archaeological support for Xuanzang's two-bank 覩貨邏;
+Sogdian-type wares appear only N of the river from the 7th century, so the Islamic south-bank Tokharistan reflects a
+later split. Kuwayama (2020, p. 125) counts Xuanzang's list as 8 territories N of the Amu (Termez to Kumedh) and 21 S
+of it, 29 in all; without the three W and SW of Balkh (鋭秣陀, 胡寔健, 呾剌健), which he puts outside Tokhāra, 26, near the 24
+or 25 州 of the Tang 月氏都督府. Miyamoto (2015, p. 314) instead takes Xuanzang's Tokharistan for the Bactrian-speaking area
+(the 25-letter script read left to right is Bactrian, and Bactrian documents were written in Gūzgān), reaching W of
+Balkh to Gūzgān. Miyamoto (2018, pp. 47, 53) identifies the 27 君長 with the Bactrian khar: one khar's domain is one
+"country" (see 01.30).
+**Assessment.** The region is secure, on both banks of the Amu as Xuanzang has it, now with Iwai's ceramic evidence
+for one area. Its western limit stays disputed: near Balkh (Kuwayama 2020) or including Gūzgān (Miyamoto 2015).
+Mizutani stands.
 
 ### 01.21 呾蜜國 (Tarmidh) — Termez; hearsay
 
@@ -249,6 +260,9 @@ Brāhmī and Kharoṣṭhī inscriptions; he cites Knobloch, *Beyond the Oxus* (
 **Name.** Bactrian: Tarmid, in ταρμιδδιγο "(inhabitant) of Tarmid" (BDNA II p. 269), with "a native of Tarmid" in doc.
 Q (year 449 = c. 672; BDNA I p. 88). 呾蜜 tar-mid matches it syllable for syllable, closer than Arabic Tirmidh; the
 identification is unaffected (data/names/bactrian.tsv).
+**Recent scholarship.** Kuwayama (2020, pp. 123–24) reads 順縛芻河北下流至呾蜜國 as the road from Derbent down the Surkhan Darya
+to Termez, but takes the Life, which omits Termez and has Xuanzang cross the Oxus and reach 活 several hundred li on,
+probably by boat, for the actual itinerary (12.05). The identification is unaffected.
 **Assessment.** Secure: the name is continuous, and the Buddhist monasteries excavated at Old Termez (Kara-Tepe, the
 Kushan stūpas) match the text's "more than ten monasteries". Mizutani stands.
 
@@ -302,6 +316,9 @@ Grenet 2006, after Miyamoto, Tōhō gakuhō 87, 2012, and 90, 2015; data/ref/kyo
 **Kuwayama (2002).** The Baghlān–Ghōrī plain on the middle Surkhāb was the Hephthalites' homeland and winter seat, not
 under the Turks in Xuanzang's time; their Tang seat 活路 (Huoluo) was a town there, not 活 (pp. 132, 135, 138). Agrees on
 the district.
+**Recent scholarship.** Miyamoto (2012, pp. 427, 431) reports Grenet's suggestion that Warlu/活路 is Qal'a-ye Ghūrī, an
+unexcavated walled town site S of Surkh Kotal, and widens Kadagstan to the Surkhāb basin, its centre perhaps moving N
+and S over time. This concerns the district round 縛伽浪, not its name.
 **Assessment.** Secure as a district on the name. Mizutani stands.
 
 ### 01.31 忽懍國 (Khulm) — Khulm, ruins N of Tashkurgan
@@ -314,6 +331,10 @@ Tashkurgan. Beal (p. 43): Khulm.
 antiquity, without argument from Xuanzang (I, p. 49).
 **Ji Xianlin et al. (1985).** Ji agrees: ruins on the N outskirts of Tash-Qurghan (p. 114).
 **Kuwayama (2002).** Agrees: 忽懍 is Khulm (Tashkurghan), placed between 活 and Balkh as the Xiyu ji requires (p. 133).
+**Recent scholarship.** Kuwayama (2020, p. 126), from his walks round Khulm in 1963, 1974, 1977 and 1978, thinks
+pre-10th-century Khulm probably lay N of the present town, with Mizutani's ruins; he adds that Aramaic documents of
+the 4th century BC name Khulm as a station of the satrap's governor (Naveh & Shaked 2012, pp. 19–20, 99). No
+excavation.
 **Assessment.** Secure on the name. Mizutani stands.
 
 ### 01.32 縛喝國 (Bākhl) — Balkh
@@ -366,9 +387,14 @@ Anbār, a name with an initial vowel and -mb- that 鋭秣陀 cannot render. So e
 Sar-i Pul is wrong. 秣陀 might render Bactrian Madr (μαλρο/μαδδρο, "a city and district, modern Madr", BDNA II p. 230,
 home of a servant of the khars of Rob in doc. N), but 鋭 stays unexplained and the look-alike is not adopted
 (data/names/bactrian.tsv).
+**Recent scholarship.** Miyamoto (2015, p. 315) leaves 鋭秣陀 unidentified, and puts the centre of Gūzgān (01.34) at
+Sar-i Pul, the Tang 遏蜜城 (pp. 312, 291), which adds to the case against Sar-i-pul here. The *Xin Tangshu* passage he
+quotes (p. 291 n. 66) sets the 大秦州 of the same Gūzgān commandery at a 叡蜜城; 叡 sounds like the 鋭 of 鋭秣陀, a lead not
+tested here.
 **Assessment.** Open, and Sar-i-pul is weakened: the position (SW of Balkh) is agreed, but Sar-i-pul rests on one
 tentative suggestion, and its own 7th-century name, Bactrian Amber (Islamic Anbār), is not what 鋭秣陀 transcribes (see
-Name). Marquart's Zumathān is weak and unlocated. Mizutani's site is kept as the working point only.
+Name). If Sar-i Pul was the seat of Gūzgān (Miyamoto 2015; 01.34), it is the less likely here. Marquart's Zumathān
+is weak and unlocated. Mizutani's site is kept as the working point only.
 
 ### 01.36 揭職國 (*Garčig, "mountain land") — the mountains S of Balkh (Darrah Gaz); the mapped point is too far south
 

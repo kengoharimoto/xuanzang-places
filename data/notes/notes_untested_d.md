@@ -110,6 +110,9 @@ consonant written out, as in 拘謎陀 Kumēdh. This is Khamdādh of the Ḥudū
 the Vakhis are", which Minorsky takes to be Khandūd; Mizutani's *khandata, with an Indic kh and a final -a, is
 unattested. The 10th-century form with its Buddhist temples matches both the characters and Xuanzang's monastery. High
 confidence for the name (data/names/).
+**Recent scholarship.** Kuwayama (1985, pp. 148–49) agrees: 昏馱多 was Wakhan's royal town when Xuanzang passed, now
+Khandūd on the S bank of the Ab-i Panja; the centre later moved to 塞迦審, which the *Tang shu* gives as the chief
+settlement, probably Ishkashim (see 12.16a). Text only, no site evidence.
 **Assessment.** Probable: the name runs from the Ḥudūd's Khamdādh, with its idol-temples, to modern Khandūd (see
 Name), and Vivien and Mizutani agree; no site evidence for the monastery.
 
@@ -320,6 +323,27 @@ Kum-i-Shahidān 5–6 li SE, Bowa-Kambar 10 li SW) fit Yōtkan as the centre. Th
 **Ji Xianlin et al. (1985).** Ji leaves the capital undecided between Yotkan, 20-odd li SW of Khotan (Stein,
 Chavannes, Pelliot, Feng Chengjun), and Huang Wenbi's Shisbir old town, c. 24 km SE of Khotan; the *Xin Tang shu* says
 only that the king lived in the "western mountain city" (王居西山城) (p. 1010).
-**Assessment.** Secure: excavated site, agreement, and consistent distances to the surrounding sites. Huang Wenbi's
-Shisbir (via Ji) is the one rival; it does not fit those distances, and the surviving name Somiya 5–6 li W of Yotkan
-(12.22.08) ties the monasteries, and so the royal city, to Yotkan.
+**Recent scholarship.** Talati (娃斯玛·塔拉提, 《故宫博物院院刊》 2024 no. 3, pp. 58–59, 63–66) argues from texts and murals, without
+fieldwork, that the royal city did not move between Han and Tang and that Yotkan is only its E or SE part, the core
+lying further W (约特干遗址只是于阗王城的东或东南部分，而王城的核心区则在更西处): the Northern-dynasty histories give a circuit of 8–9 li; Tibetan
+texts (Li yul lung bstan pa, Li yul chos kyi lo rgyus) name a N gate with a tower, a S gate, a N street, the
+Vaiśravaṇa temple by the N gate, a great bazaar and the 'sea-eye' temple, and put the sea-eye both at the centre of
+the land and inside the royal city; Mogao cave 454 paints a square walled city between two rivers; Gao Juhui (938) has
+the palaces face E, so the palace quarter lay W of the main N–S street. Yotkan has never been excavated: gold-washing
+from the late 1860s left a pit 8–9 m deep. She reports the rivals (pp. 58–59): Ilchi, the Qing seat (Qing sources);
+Yotkan (Grenard, Stein); Shirai (1933), for whom the capital moved, Yotkan serving under the Wei and the Five
+Dynasties and the Tang capital lying in the mountains S of the oasis; Huang Wenbi's Ak-sipil and later Shisbir
+(Melikawat); Yin Qing's (1983) and Li Yinping's Naghara-khāna mound and Alalbagh village a little E of Yotkan (the
+mound is the study's 12.22.10); and the royal palace at Birga (Birgaṃdara) in the Domoko river area of Chira, inferred
+from excavated Khotanese documents (Duan Qing 2013; Rong & Zhu 2013). Zhang (2016, pp. 467–68) treats Birgaṃdara as a
+town (auva) near Domoko, where the official pharṣa Sāṃdara whose archive came from it lived, inclining to Balawaste
+but calling the identification premature; that tells against a royal seat there.
+**Assessment.** Probable, not secure. Yotkan has the agreement of the authorities and the distances: the monasteries
+measured from the 王城 (Somiya 5–6 li W, Kum-i-Shahidān SE, Bowa-Kambar SW) fit it as the centre, and the surviving name
+Somiya (12.22.08) ties them, and so the royal city, to Yotkan. But Yotkan is not an excavated site: its finds came
+from gold-washing, and nothing found names the city (Talati 2024). The rivals are not decisive. Talati keeps Yotkan as
+part of the city and moves the core a little W, which would shift Xuanzang's reference point slightly, untested
+against his distances. Huang Wenbi's Shisbir (via Ji) does not fit the distances. Shirai's Tang capital in the
+southern mountains and the Naghara-khāna/Alalbagh proposal E of Yotkan rest on no site evidence here, and the Birga
+palace thesis concerns a town of the Domoko area (Zhang 2016), far from the monasteries Xuanzang measured from the
+city. Yotkan stays the point, confidence medium; whether the core lay W of it is open.

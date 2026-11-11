@@ -5,7 +5,8 @@ Places in juan 4–5 that meet at least one of the three criteria in `NOTES_INST
 inscriptions edited in Epigraphia Indica and the Corpus Inscriptionum Indicarum, and the excavations reported in
 *Indian Archaeology – A Review* (1953–2001). Gazetteer volumes are cited as `district year`. Annual Reports are
 cited as AR with the year and page, by author (Vogel, Sahni, Francke, Marshall). Inscriptions are cited by editor
-with EI or CII volume and page; excavations as IAR with the year and page, by excavator.
+with EI or CII volume and page; excavations as IAR with the year and page, by excavator. The IAR volumes 2007–14
+are cited from `coded/iar_batch11.tsv` under **Recent scholarship.**
 Survey reports are cited as ASR with volume and page, and are Cunningham's: I (1862–63), II (1863–65), III
 (1871–72), V (1872–73), IX, XI (1875–78), XIV (1878–79), XVII (1881–82), XX (1882–83), XXI (1883–85). "Atkinson"
 means the Himalayan Districts text, which exists as *Himalayan districts II 1884* and in the Cornell scan catalogued
@@ -646,6 +647,15 @@ period or his monasteries.
 
 **Ji Xianlin et al. (1985).** Ji agrees: Ahicchattra in E Rohilkhand, with the capital at Rāmnagar near Aonla,
 Bareilly district, after Cunningham and Hodgson's report of the ruins (p. 413).
+
+**Recent scholarship.** Dimri's seasons (IAR 2007–08, pp. 106–108, 115), dug to test a ground-penetrating radar survey
+(IIT Kanpur) and the settlement outside the W fortification, found a Kushan copper and pottery workshop (crucibles,
+ingots) on mound ACT-V, and on ACT-VA and ACT-IV brick structures of the later Gupta and post-Gupta periods, with a
+copper coin of the Pañcāla king Achyuta. On ACT-IVA, just outside the W gate, a brick platform with three chambers lay
+under a collapsed brick building of moulded and carved bricks, "probably of a temple", of the later Gupta period.
+Bhuvan Vikrama's season (IAR 2012–13, pp. 146–147) found settlement continuous from the OCP to the 12th century CE:
+PGW circular huts and adobe walls, and a "Mitra Panchal period" (250 BCE–320 CE) of brick houses with over 150 coins.
+Nothing names a monastery or the nāga-tank stūpa, but the town was occupied, and building, in Xuanzang's time.
 
 **Assessment.** Name, measured circuit and excavation agree, and nothing counts against them. Mizutani is
 strengthened.

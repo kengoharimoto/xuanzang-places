@@ -57,13 +57,13 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 01.32.01	probable	Mizutani	36.75	66.89	site	Top-i-Rustam, Balkh	medium	strengthened		Nau-bahār at Balkh; stupa probably Top-i-Rustam
 01.32.02	text	text	36.9219	66.8049	from the text	placed from the text: 西北 50+ + 北 40+ from 01.32	low	none		unlocated
 01.33	open	Mizutani	36.22	65.93	town	Sar-i-pul, Afghanistan	low	weakened		open: Sar-i-pul (tentative; its Bactrian name Amber does not fit) or Marquart's Zumathān (weak)
-01.34	probable	Mizutani	36.6	65.8	country	Guzgan/Jowzjan district	medium	none		Jūzjān district; capital unknown
+01.34	probable	Mizutani	36.6	65.8	country	Guzgan/Jowzjan district	medium	strengthened		Jūzjān district; capital perhaps Sar-i Pul (Bactr. Amber, Islamic Anbīr; Tang 遏蜜城?)
 01.35	probable	Mizutani	35.93	64.6	district	Talaqan of Khurasan, near Maimana	medium	none		Ṭālaqān of Khurāsān near Maimana; ruin disputed
 01.36	probable	study	36.49	66.95	approx	Darrah Gaz, c. 30 km S of Balkh	medium	none		the mountain country S of Balkh (*Garčig, Bactr. γαρσιγο 'mountain land'); halt near the mouth of the Darrah Gaz c. 30 km S of Balkh
 01.37	secure	Mizutani	34.82	67.83	district	Bamiyan valley	high	none		Bamiyan valley
 01.37.01	secure	Mizutani	34.833	67.819	site	Western (53 m) Buddha, Bamiyan	high	none		Western (53 m) Buddha, Bamiyan
 01.37.01a	secure	Mizutani	34.831	67.828	site	Eastern (35 m) Buddha, Bamiyan	high	none		The 35 m Buddha at Bamiyan
-01.37.02	open	study	34.83	67.835	approx	E end of the Buddha cliff, Bamiyan	low	new-candidate		inside the 先王's monastery between the two colossi (Kuwayama 1990, 2002), or the E end of the Buddha cliff c. 1 km further E (Foucher 1942); not found
+01.37.02	open	study	34.83	67.835	approx	E end of the Buddha cliff (Foucher 1942); Tarzi's excavated 'Eastern' monastery SE of the 38 m Buddha in the same sector	low	new-candidate		inside the 先王's monastery between the two colossi (Kuwayama 1985, 1990, 2002), or the E end of the Buddha cliff c. 1 km further E (Foucher 1942), where Tarzi excavated an 'Eastern' monastery SE of the 38 m Buddha (2002-03); reclining image not found; open
 01.37.03	text	text	34.5255	68.2039	from the text	placed from the text: 臥像伽藍東南行二百餘里 (from 01.37.02)	low	alternative	yes	upper Helmand below the Hajigak pass (Gardan-Diwal; Foucher), or Sar-e Cheshmeh at the Kabul-river source (Hackin); Fondukistan less likely
 01.37.03a	open	Mizutani	34.91	68.23	site	Shibar pass	low	alternative	yes	Hajigak/Unai side, off the Shibar highway (Foucher 1942, Vivien, Cunningham), or the Shibar (Mizutani)
 01.38	secure	Mizutani	35.0	69.25	district	Kapisa basin (Begram/Charikar), Afghanistan	high	none		Panjshir–Ghorband basin round Begram
@@ -91,12 +91,12 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 02.04.09	secure	Mizutani	34.17	71.73	site	Charsadda (Bala Hisar)	high	strengthened		Charsadda/Prang (Hashtnagar)
 02.04.12	text	text	34.246	71.6381	from the text	placed from the text: 梵、釋窣堵波西北行五十餘里 (from 02.04.09)	low	none		unlocated; candidate by distance only: Tarangzai (Cunningham ASR II)
 02.04.13	text	text	34.3534	71.6381	from the text	placed from the text: 化鬼子母北行五十餘里 (from 02.04.12)	low	none		unlocated; candidate by distance only: Tangi on the Swat (Cunningham ASR II)
-02.04.14	secure	Mizutani	34.24	72.16	site	Shahbaz Garhi	high	none		Shahbaz Garhi
-02.04.14a	unlocated						low	none		unlocated (Foucher's Chanaka Dheri shown by excavation to be a palace)
+02.04.14	open	Mizutani	34.24	72.16	site	Shahbaz Garhi	medium	alternative	yes	Shahbaz Garhi; rival Shahr-i Bahlol (Errington 1993, via Neelis 2011; not read here)
+02.04.14a	unlocated						low	none		unlocated (Foucher's Chanaka Dheri shown by excavation to be a palace, then a village)
 02.04.14b	open	Mizutani	34.24	72.19	site	But Shahri, E of Shahbaz Garhi	low	none		But Shahri, E of Shahbaz Garhi (Foucher)
 02.04.15	probable	Mizutani	34.27	72.19	site	Mekha-Sanda, NE of Shahbaz Garhi	medium	strengthened		Mekha-Sanda (hills NE of Shahbaz Garhi)
 02.04.16	text	text	34.4218	72.0058	from the text	placed from the text: 仙廬西北行百餘里 (from 02.04.15)	medium	alternative		ruined monastery and stupa at Butan, S foot of the Shahkot Pass above Palai (Stein); not Sahri-Bahlol
-02.04.17	probable	Mizutani	34.21	72.26	site	Karamar hill, ENE of Shahbaz Garhi	medium	none		Karamar hill
+02.04.17	open	study	34.21	72.26	approx	Karamar hill (open; Kashmir Smast the rival)	low	alternative		open: Karamar hill (Cunningham; Foucher's local cult) or Kashmir Smast (Nasim Khan 2006; Verardi 2012)
 02.04.18	secure	Mizutani	34.01	72.43	site	Hund (Ohind), on the Indus	high	strengthened		Hund (Ohind) on the Indus
 02.04.19	probable	Mizutani	34.03	72.36	town	Lahor near Hund	medium	none		Lahor (Lavor) near Hund
 02.04.x1	unlocated									Garrick: among the mounds of Shahr-i-Napursan, c. 3½ miles E by N of the Bala Hisar, Charsadda; a mound he trial-excavated near Charsadda (pl. XXII) put forward as its probable site
@@ -105,33 +105,33 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 03.01	secure	Mizutani	34.9	72.4	district	Swat valley	high	none		Swat valley
 03.01.01a	probable	Mizutani	34.78	72.36	town	Mingora	medium	none		Mingora (Italian mission); Manglaor (Cunningham, Stein, Watters, Majumdar) the rival
 03.01.01b	probable	Mizutani	34.75	72.33	district	Swat river (label point near Mingora)	medium	none		Swat river
-03.01.02	text	text	34.78	72.3718	from the text	placed from the text: 東 4-5 from 03.01.01a	low	none		unlocated (4–5 li E of the capital)
+03.01.02	text	text	34.78	72.3718	from the text	placed from the text: 東 4-5 from 03.01.01a	low	new-candidate		unlocated (4–5 li E of the capital); candidate Butkara I (Tucci 1958, via Bibi 2017), only with Mingora as capital
 03.01.03	text	text	35.1666	72.8341	from the text	placed from the text: 東北 250-260 from 03.01.01a	medium	none		head of the Swat at Kalam (Deane)
 03.01.04	secure	Mizutani	35.05	72.47	site	Tirat village, upper Swat	high	none		footprint stone at Tirat, upper Swat
 03.01.04a	probable	Mizutani	35.0	72.45	site	Rock on the road towards Tirat	medium	none		rock on the road from lower Swat to Tirat (Stein)
 03.01.05	probable	Mizutani	34.64	72.48	site	Mount Ilam, S of Mingora	medium	none		Mount Ilam, S of Mingora
 03.01.06	open	study	34.42	72.42	approx	Mahāvana = Panjkotai near Sunigram, Buner (Stein 1898)	low	alternative		Pinjkotai near Sunigram, Buner (Stein 1898), or Shinasi stupa at Kukrai (Mizuno)
-03.01.07	open	Mizutani	34.75	72.31	site	Gogdara stupa, near Udegram	low	none		Gog-dara (Mizuno); rival Sura, Chumla valley (Cunningham)
-03.01.08	text	text	34.7499	72.14	from the text	placed from the text: 西 60-70 from 03.01.07	low	none		unlocated (Cunningham: NW foot of Mahaban, by his chain)
-03.01.09	open	Mizutani	34.7	72.0	district	Adinzai valley above Chakdara	low	none		Adinzai valley (Deane); monastery unlocated
-03.01.09a	open	Mizutani	34.7	72.0	site	Suma stupa, Adinzai valley	low	none		Suma stupa, Adinzai valley (Deane)
-03.01.10	probable	Mizutani	34.68	72.24	site	Shankardar stupa, near Barikot	medium	none		Shankardar stupa, E bank of the Swat
+03.01.07	open	Mizutani	34.75	72.31	site	Gogdara stupa, near Udegram	low	new-candidate		Gog-dara (Mizuno); rival Sura, Chumla valley (Cunningham); Gumbatai stupa, Torwasak (Stein, via Rienjang 2012 and Bibi 2017)
+03.01.08	text	text	34.7499	72.14	from the text	placed from the text: 西 60-70 from 03.01.07	low	new-candidate		unlocated (Cunningham: NW foot of Mahaban, by his chain); candidates Girarai ruins (Stein) and the Chanai hills at Surkhavi / Naranji valley (Deane), both via Bibi 2017
+03.01.09	open	Mizutani	34.7	72.0	district	Adinzai valley above Chakdara	low	new-candidate		Adinzai valley (Deane); monastery unlocated; candidates Andan Dheri, Sapar (R. Khan 2014, via Bibi 2017)
+03.01.09a	open	Mizutani	34.7	72.0	site	Suma stupa, Adinzai valley	low	new-candidate		Suma stupa, Adinzai valley (Deane); Andan Dheri or Sapar (R. Khan 2014, via Bibi 2017)
+03.01.10	open	Mizutani	34.68	72.24	site	Shankardar stupa, near Barikot	low	alternative	yes	open: Shankardar stupa, E bank of the Swat (Deane, Stein), or Nawe-kalai / Barabru (Tucci 1958, via Filigenzi 2015)
 03.01.10a	open	Mizutani	34.69	72.24	site	Rock near Ghalagai, above Shankardar	low	none		rock near Ghalagai, upstream of the Shankardar stupa
 03.01.11	text	text	34.7799	72.2292	from the text	placed from the text: 西 50+ from 03.01.01a	low	none		stupa at Hazara village (Deane)
-03.01.12	text	text	34.8256	72.4155	from the text	placed from the text: 東北 30+ from 03.01.01a	low	none		unlocated (Deane's extant stupa doubted by Watters)
+03.01.12	open	study	34.817	72.483	approx	Shakhorai (Jahanabad), Ugad valley (candidate)	low	new-candidate		unlocated (Deane's extant stupa doubted by Watters); candidate Shakhorai (Jahanabad), Ugad valley (Tucci 1958, via Bibi 2017)
 03.01.13	unlocated						low	none		unlocated
 03.01.14	open	Mizutani	35.25	72.0	district	Head of the Aushiri (Usheri) valley near Darora, Dir	low	none		head of the Aushiri valley near Darora (Deane)
 03.01.16	probable	Mizutani	35.62	73.45	district	Darel valley	medium	none		Darel valley, right bank of the Indus
 03.02	open	Mizutani	35.3	75.6	country	Baltistan	low	alternative	yes	Baltistan, or Gilgit (the Palola Ṣāhis' kingdom)
 03.03	secure	Mizutani	33.75	72.82	district	Taxila	high	strengthened		Taxila ruins near Shah-dheri/Sarai-kala
-03.03.01a	probable	Mizutani	33.76	72.84	site	Sirsukh, Taxila	medium	strengthened		Sirsukh (Marshall)
+03.03.01a	probable	Mizutani	33.76	72.84	site	Sirsukh, Taxila	medium	strengthened		Sirsukh (Marshall); rival central Rawalpindi (Naiki 2021, unexcavated hypothesis)
 03.03.02	secure	Mizutani	33.82	72.69	site	Panja Sahib spring, Hasan Abdal	high	none		Baba Wali (Panja Sahib) spring, Hasan Abdal
-03.03.03	probable	Mizutani	33.73	72.8	site	Ridge above Baoti Pind, Taxila	medium	strengthened		the stupa on the NE peak of the Baoti ridge above Baoti Pind
-03.03.04	probable	Mizutani	33.8	72.87	site	Bhallar stupa, Sarda hill, Taxila	medium	none		Bhallar stupa, Sarda hill (Marshall)
-03.03.06	open	Mizutani	33.744	72.82	site	Kunala stupa, Hathial ridge, Taxila	low	none		large stupa on the plateau N of the Hathial ridge, with monastery (Marshall, excavated)
+03.03.03	open	Mizutani	33.73	72.8	site	Ridge above Baoti Pind, Taxila	low	alternative	yes	open: the stupa on the NE peak of the Baoti ridge above Baoti Pind (Cunningham) or the Dharmarajika (Naiki 2021)
+03.03.04	probable	Mizutani	33.8	72.87	site	Bhallar stupa, Sarda hill, Taxila	medium	none		Bhallar stupa, Sarda hill (Marshall); rival the tope 5 miles NW of Rawalpindi, now Islamabad (Naiki 2021; depends on his Rawalpindi capital)
+03.03.06	open	Mizutani	33.744	72.82	site	Kunala stupa, Hathial ridge, Taxila	low	alternative	yes	large stupa on the plateau N of the Hathial ridge, with monastery (Marshall, excavated); open: Thupi tope SE of Rawalpindi (Naiki 2021, destroyed, needs his capital), Dharmarajika (Boyer)
 03.04	secure	Mizutani	32.717	72.983	site	Ketas (Katas Raj), Salt Range	high	strengthened		Ketas locality, Salt Range
-03.04.01a	open	Mizutani	32.72	72.98	site	Kotera fort above Ketas	low	alternative	yes	field of ruins on the plain 1-2 miles N of Ketas (Stein); rival Malot hill-fort (Cunningham ASR II, V); not Kotera
-03.04.02	open	Mizutani	32.72	72.98	site	Foot of Kotera hill, Ketas	low	strengthened		large stupa before the E front of the Sat-Ghara temples, Ketas
+03.04.01a	open	Mizutani	32.72	72.98	site	Kotera fort above Ketas	low	alternative	yes	open: field of ruins N of Ketas (Stein 1907), with the Sheranwali Khanqah mounds 6-7 km N of Katas as a specific candidate (Dar & Hameed 2018, unexcavated); Malot hill-fort (Cunningham ASR II, V); not Kotera; not Dulmial
+03.04.02	probable	Mizutani	32.72	72.98	site	Foot of Kotera hill, Ketas	medium	strengthened		large stupa before the E front of the Sat-Ghara temples, Ketas
 03.04.03	open	Mizutani	32.717	72.983	site	Ketas sacred pools	low	alternative		Murti mound in the Gandhala valley (Stein)
 03.04.05	probable	Mizutani	34.333	72.667	site	Banj mountain, Mahaban spur, Buner	medium	strengthened		Mount Banj on the Mahaban spur, Buner (Stein)
 03.04.06	unlocated						low	none		unlocated (depends on 03.04.05)
@@ -211,12 +211,12 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 06.01.x3	unlocated									Benett: the long even line of buildings in Maheth (conjecture)
 06.01.x4	unlocated									Benett: one of the two principal mounds at the N end of the main street of Maheth; Cunningham (ASR I): Kachchi Kuti, which Vogel (1907–08) rejects as a Brahmanical temple
 06.01.x5	unlocated									Benett: the other principal mound at the N end of the main street (he dug 20 ft into it); Cunningham (ASR I): Pakki Kuti; Hoey: stūpa A on the N rampart of Maheth; Vogel 1907–08: no identification possible
-06.02	probable	study	27.443	83.128	site	Piprahwa–Ganwaria	medium	alternative		Piprahwa-Ganwaria (Basti, now Siddharthnagar), named Kapilavastu on Kushan-period sealings; Tilaurakot the rival for the city Xuanzang saw
-06.02.05	text	text	27.3355	83.128	from the text	placed from the text: 城南行五十餘里 (from 06.02)	low	alternative		Gutiva (Gotihawa): brick stupa with Aśoka-pillar stump (Mukherji 1901); Palta Devi on distance (Smith 1901)
+06.02	open	Mizutani	27.57	83.05	site	Tilaurakot, Nepal Tarai	low	alternative	yes	open: Piprahwa-Ganwaria (Siddharthnagar, formerly Basti; 'Kapilavastu' monks' sealings of the Kushan or, on Falk's palaeography, Gupta period; Faxian's Kapilavastu on Falk's distances) or Tilaurakot (Nepal; walled town from the 6th c. BCE; Xuanzang's 50 li S to the Gotihawa pillar)
+06.02.05	probable	study	27.53	83.05	approx	Gotihawa (Gutiva)	medium	new-candidate		Gotihawa (Gutiva): Mauryan relic stupa with Aśoka-pillar stump in situ (Mukherji 1901; Verardi 2007 via Falk 2017), the Nigali Sagar pillar 10 km NE as XZ's 30 li NE; Palta Devi (Smith 1901) on distance only
 06.02.05a	probable	Mizutani	27.6	83.15	site	Nigali Sagar Asoka pillar, Nepal	medium	none		near the Nigali Sagar pillar (if in situ: Araura-kot, Mukherji); else Sisania Panre (Smith)
-06.02.06	text	text	27.5038	83.1965	from the text	placed from the text: 城東北四十餘里 (from 06.02)	medium	none		unidentified (Mukherji: Jadi area on the Jamuar, by name and distance)
-06.02.08	text	text	27.4355	83.128	from the text	placed from the text: 城南三四里 (from 06.02)	low	alternative	yes	Gutiva (Smith 1901) or Lori-Kudan (Mukherji 1901); untested, Tilaurakot frame only
-06.02.10	text	text	27.3899	83.1794	from the text	placed from the text: 從此東南三十餘里 (from 06.02.08)	low	new-candidate		Birdpur mound, 9 km S of Piprahwa (Srivastava), if Piprahwa is Kapilavastu; Sisania (Mukherji) in the Tilaurakot frame
+06.02.06	text	text	27.6308	83.1186	from the text	placed from the text: 城東北四十餘里 (from 06.02)	medium	none		unidentified (Mukherji: Jadi area on the Jamuar, by name and distance; Tilaurakot frame only, nothing named from Piprahwa)
+06.02.08	text	text	27.5625	83.05	from the text	placed from the text: 城南三四里 (from 06.02)	low	alternative	yes	Tilaurakot frame only: Lori-Kudan (Mukherji 1901) or Gutiva (Smith 1901; unlikely now that Gutiva is Krakucchanda's town, 06.02.05); none named 3-4 li S of Piprahwa
+06.02.10	text	text	27.5169	83.1014	from the text	placed from the text: 從此東南三十餘里 (from 06.02.08)	low	alternative	yes	open: Birdpur mound, 9 km S of Piprahwa (Srivastava), in the Piprahwa frame, or Sisania (Mukherji) in the Tilaurakot frame
 06.02.11	secure	Mizutani	27.469	83.276	site	Lumbini (Rummindei), Nepal	high	strengthened		Rummindei
 06.02.12	secure	Mizutani	27.469	83.276	site	Rummindei pillar, Lumbini	high	strengthened		Rummindei pillar; Oil River = Tilar Nadi
 06.02.x1	open	added	27.577	83.055	approx	Tilaurakot	low	none		Mukherji's building before the E gate of Tilaurakot (only within the Tilaurakot frame)
@@ -230,9 +230,9 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 06.02.x9	unlocated									Führer, followed by Smith and Mukherji: the stūpas in the Sagarwa forest, c. 2 miles N of Tilaura-kot (17 small stūpas excavated by Führer); Carlleyle: Bhata (Kosahra), 1½ miles NW of Bhuila Dih (Basti district)
 06.02.x10	open	added	27.546	83.056	town	Taulihawa (Tauliva), Tauleshvara temple	low	none		Tauleshvara linga temple, Taulihawa (only within the Tilaurakot frame)
 06.02.x11	unlocated									Mukherji: one of the two stūpa-like mounds at Derwa, a furlong S of the citadel of Tilaura-kot
-06.03	open	Mizutani	27.433	83.867	town	Dharmauri, Nepal-Gorakhpur border	low	none		Dharmauli (unsettled); Rampur Deoriya the only surveyed stupa site, tied to the Bhuila frame
-06.03.03	unlocated						low	none		unidentified (Carlleyle: Kudawa nadi and mounds E of Sirsarao Tal; Cunningham Aumi; Smith Champaran; Mani: Nautanwa, on name only)
-06.03.04	unlocated						low	alternative		Lauriya-Nandangarh (tentative) vs Rajdhani-Upadhaolia (Carlleyle)
+06.03	open	study	27.4978	83.6811	site	Ramgram stūpa S of Parāsi Bazar (candidate Rāmagrāma)	low	new-candidate		Parāsi (Ramgram) stupa, Nawalparasi, Nepal (Falk 2017; excavated by S. R. Shrestha 1999-2006): c. 40 km E of Rummindei, as XZ's 200-odd li E; Dharmauli the alternative; Rampur Deoriya tied to the Bhuila frame
+06.03.03	unlocated						low	none		unidentified (Carlleyle: Kudawa nadi and mounds E of Sirsarao Tal; Cunningham Aumi; Smith Champaran; Mani: Nautanwa, on name only, and W of Parāsi, so excluded if Rāmagrāma is Parāsi)
+06.03.04	unlocated						low	alternative	yes	open: Lauriya-Nandangarh (Smith), Rajdhani-Upadhaolia (Carlleyle) or Rampurwa/Pipariyā (Falk 2017, on Faxian)
 06.04	secure	Mizutani	26.74	83.89	town	Kasia (Kushinagar)	high	strengthened		Kasia
 06.04.03	secure	Mizutani	26.741	83.888	site	Mahaparinirvana temple, Kasia	high	strengthened		Matha-kuar-ka-kot, Kasia
 06.04.03a	text	text	26.7453	83.884	from the text	placed from the text: 城西北三四里 (from 06.04)	medium	alternative		the river by the grove = Little (Chhota) Gandak / its old channel at Kasia
@@ -297,18 +297,18 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 08.06.01	open	Mizutani	24.696	84.991	site	Mahabodhi precinct, Bodh Gaya	medium	weakened		Bodh Gayā precinct; Xuanzang's enclosure a brick wall (untraced), not the stone railing
 08.06.04	secure	Mizutani	24.696	84.991	site	Mahabodhi temple, Bodh Gaya	high	strengthened		the Mahābodhi temple
 08.06.18	open	Mizutani	24.694	84.991	site	Mucalinda tank, S of the Mahabodhi temple	low	alternative	yes	open: Teskar Tal (Cunningham), Urel tank (Xuanzang's E bearing), or Muchharin
-08.06.21	open	Mizutani	24.69	84.995	site	Tika Bigha, S of Bodh Gaya	low	none		Tika Bigha on Cunningham's plan (label only)
-08.06.28	unlocated						low	none		unidentified
+08.06.21	open	Mizutani	24.69	84.995	site	Tika Bigha, S of Bodh Gaya	low	alternative	yes	open: Tika Bigha (Cunningham's plan, label only) or the E bank round Bakraur (Anand 2019, blog)
+08.06.28	unlocated						low	new-candidate		unidentified; candidate Saraswati shrine on the Mohana, c. 2 km NE of Bakraur (Anand 2021, blog), at two to three times the 2-3 li
 08.06.30	probable	Mizutani	24.697	84.991	site	Monastery mound N of the Mahabodhi temple	medium	strengthened		under the high plateau N and W of the temple; the Taradih monastery (SW on most reports) not shown to be it
 08.06.x1	secure	added	24.6962	84.9912	site	Bodh Gayā, N side of the Mahābodhi temple	high	none		the raised promenade N of the Mahābodhi temple
 08.06.x2	probable	added	24.694	84.991	approx	Bodh Gayā, Buddhapokhar S of the temple	medium	none		Budhokhar (Buddhapokhar) Tal, S of the temple
 08.06.x3	unlocated									Cunningham: the Mihap Tal, 350 ft SW of the Budhokhar Tal
 08.06.x4	unlocated									Cunningham: Uruvilvā Kāśyapa's stūpas at the village of Urel (Uruvilvā > Uruvelā > Urel)
 09.01.01	probable	Mizutani	24.693	85.003	site	Bakraur stupa, across the river from Bodh Gaya	medium	strengthened		Bakraur stūpa and pillar stump, E of the river opposite Bodh Gayā
-09.01.02	unlocated						low	none		unidentified
+09.01.02	unlocated						low	new-candidate		unidentified; candidates E of the Mohana: Nama Dih mound or Gafa Kalan, on the Paimar (Anand 2024, blog); no pillar found
 09.01.02a	probable	Mizutani	24.62	85.0	district	Mohana river (label point S of Bodh Gaya)	medium	none		Mohana river
-09.01.03	probable	study	24.65	85.32	approx	Gurpa hill	medium	alternative		Gurpa Hill (Gurupāda); Hasra Hill (Sobhnath) second; not Kurkihar
-09.02.01	text	text	24.8019	85.4874	from the text	placed from the text: 鷄足山東北行百餘里 (from 09.01.03)	medium	none		unidentified
+09.01.03	probable	study	24.549	85.304	approx	Gurpa hill	medium	alternative		Gurpa Hill (Gurupāda); Hasra Hill (Sobhnath) second; not Kurkihar
+09.02.01	open	study	24.9217	85.2394	approx	Ayer hill (candidate Buddhavana)	low	new-candidate		unidentified; candidate Ayer hill with two caverns (Lama IAR 2013-14; Anand 2012), which fits 30 li W of Jethian but lies N, not NE, of Gurpa
 09.02.02	probable	Mizutani	24.92	85.3	town	Jethian	medium	strengthened		Jeshtiban plateau, ¾ mile E of Jethian
 09.02.03	secure	Mizutani	24.91	85.35	site	Tapoban hot springs	high	strengthened		Tapoban hot springs
 09.02.03a	probable	Mizutani	24.93	85.35	site	Handia hill	medium	strengthened		Handia range SE of Jethian; stūpa at Sahudrasthan near the Saffi Ghat, with Bimbisāra's walled road (Stein)
@@ -331,13 +331,13 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 09.02.x1	secure	added	25.012	85.438	approx	Gṛdhrakūṭa, Rajgir (Bimbisāra road)	high	none		the two brick stūpas half-way up the Bimbisāra road, Chhatha-giri
 09.03.01	secure	Mizutani	25.136	85.443	site	Nalanda ruins	high	strengthened		Nālandā ruins at Bargaon
 09.03.06	open	Mizutani	25.136	85.443	site	Nalanda (caitya row)	low	none		in the W range of stūpas and temples; Site No. 3 (Cunningham's A) disputed
-09.03.08	text	text	25.1231	85.4287	from the text	placed from the text: 伽藍西南行八九里 (from 09.03.06)	low	none		unidentified (Cunningham: mound near Jagdispur, unconfirmed)
-09.03.10	text	text	25.0927	85.4623	from the text	placed from the text: 頻毘娑羅王迎佛東南行二十餘里 (from 09.03.08)	low	none		same, no site
+09.03.08	text	text	25.1231	85.4287	from the text	placed from the text: 伽藍西南行八九里 (from 09.03.06)	low	new-candidate		open: Jagdishpur mound (Cunningham), Juafardih stupa mound excavated 2007 (Saran 2008 via Anand, not checked), or Kool (Lama IAR 2013-14)
+09.03.10	open	study	25.0908	85.5031	approx	Nanan (candidate Kālapināka)	low	new-candidate		= Faxian's Nala; candidate Nanan, c. 7 km SE of Nalanda (Prasad 1988; Lama IAR 2013-14; Anand 2024); Chandimau (Broadley) second
 09.03.11	secure	Mizutani	25.025	85.52	site	Giriyek hill	high	strengthened		Giriyek hill; cave = Gidhadwar
 09.03.13	probable	Mizutani	25.2	85.52	town	Bihar Sharif	medium	alternative		"Parbati (Daryapur Parvati, ""Ghar Pārāvat"")"
 09.03.14	probable	Mizutani	25.2	85.52	town	Bihar Sharif	medium	alternative		Parbati hill, site A (dargah of Haji Chandar)
 09.03.15	text	text	24.8592	85.407	from the text	placed from the text: 東南 40+ from 09.02.03b	low	none		unidentified (Aphsar if Kapotaka = Parbati; Tetrawa if Bihār)
-09.03.15a	open	Mizutani	25.14	85.85	town	Sheikhpura	low	none		Shekhpura
+09.03.15a	open	Mizutani	25.14	85.85	town	Sheikhpura	low	alternative	yes	open: Shekhpura (Cunningham ASR XV) or Rajaona-Chouki-Valgudar NE of Lakhisarai (Anand 2024, blog)
 09.03.15b	probable	study	25.2	86.07	approx	Rajaona, NW of Lakhisarai	medium	alternative		Rajjana (Rajaona), 2 mi NW of Lakhisarai
 09.03.x1	unlocated									Cunningham: the small tank Kargidya Pokhar S of the monastery
 09.03.x2	open	added	25.135	85.442	approx	Nālandā, Site 3	low	none		Sastri's Avalokiteśvara at the NE corner of the Site 3 stūpa (one of two readings of Site 3)
@@ -379,7 +379,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 10.13	secure	Mizutani	16.81	81.11	town	Pedavegi near Eluru	high	strengthened		capital Vengi at Peddavegi
 10.13.03	text	text	16.7796	81.0783	from the text	placed from the text: 所行羅漢伽藍西南行二十餘里 (from 10.13)	low	none		unidentified
 10.14	probable	Mizutani	16.57	80.35	town	Dharanikota	medium	strengthened		capital Dharanikota
-10.14.02a	probable	Mizutani	16.575	80.358	site	Amaravati great stupa	medium	strengthened		Amaravati stupa site
+10.14.02a	open	Mizutani	16.575	80.358	site	Amaravati great stupa	low	weakened		Amaravati stupa site (bearing, distance) or an unlocated hill E of Dharanikota (text: 據山); open
 10.14.02b	open	Mizutani	16.573	80.34	site	Dharanikota	low	weakened		on a hill W of the Dharanikota town (unlocated)
 10.14.03	unlocated						low	new-candidate		unnamed hill c. 2 mi SE of Amaravati (Takakuwa via Ji), consistent with the Dharanikota capital; isolated rock S of Bezwada only if the capital were Bezwada
 10.15	probable	study	14.47	78.82	district	Telugu Coḷa country, Cuddapah	medium	alternative		Telugu Cola country (Renandu) in Cuddapah, with parts of Kurnool/Anantapur; capital open
@@ -448,7 +448,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 12.15	secure	Mizutani	36.95	72.3	district	Wakhan	high	none		Wakhan
 12.15.02	probable	Mizutani	36.95	72.32	town	Khandud, Wakhan	medium	none		Khandūd
 12.16	probable	Mizutani	37.49	71.55	district	Shighnan	medium	none		Shighnān
-12.16a	open	Mizutani	36.71	71.61	town	Ishkashim	low	none		perhaps Ishkashim (open)
+12.16a	open	Mizutani	36.71	71.61	town	Ishkashim	low	weakened		open: no site proposed; Ishkashim (塞迦審) is the later seat of Wakhan, not Shighnan (Kuwayama 1985)
 12.17	probable	Mizutani	35.85	71.79	district	Chitral-Mastuj	medium	none		Chitral–Mastuj
 12.17.02	probable	Mizutani	37.25	73.2	district	Pamir river valley	medium	none		Pamir river valley
 12.17.02a	probable	Mizutani	37.45	73.7	site	Lake Zorkul (Victoria)	medium	none		Lake Victoria (Zorkul)
@@ -472,10 +472,10 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 12.22.10	probable	Mizutani	37.04	79.86	site	Aiding-kul / Naghara-khana, SE of Yotkan	medium	none		Naghara-khāna mound, Aiding-kul
 12.22.10a	probable	Mizutani	37.05	79.98	district	Yurungkash river (label point E of Khotan)	medium	none		Yurung-kash
 12.22.11	text	text	37.1073	80.7385	from the text	placed from the text: 王城東三百餘里 (from 12.22)	low	none		unlocated (30 li W of 媲摩)
-12.22.12	probable	Mizutani	37.25	80.833	site	Ulugh-Ziarat (Uzun-Tati area), N of Chira	medium	none		Uzun-Tati/Ulugh-Ziārat area N of Chira; ruin allocation open
+12.22.12	probable	Mizutani	37.25	80.833	site	Ulugh-Ziarat (Uzun-Tati area), N of Chira	medium	strengthened		Uzun-Tati/Ulugh-Ziārat area N of Chira; the Fort of Phema (坎城) probably the Kanaqin fort by Ulugh-Ziārat, favouring Mizutani's allocation; the ruin of the town open
 12.22.12a	probable	Mizutani	40.52	89.91	site	Loulan (Krorayina)	medium	none		Krorayina (Loulan)
 12.22.13	secure	Mizutani	37.98	82.72	site	Niya site	high	none		Niya site
 12.22.15	probable	Mizutani	37.833	83.883	site	Endere ruins	medium	none		Endere ruins
 12.22.16	secure	Mizutani	38.133	85.533	town	Charchan (Qiemo)	high	none		Charchan (Cherchen)
 12.22.17	secure	Mizutani	39.2	88.6	district	Lop region (Miran / Charkhlik)	high	none		Loulan/Lop region
-12.22a	secure	Mizutani	37.06	79.82	site	Yotkan, W of Khotan	high	none		Yōtkan
+12.22a	open	Mizutani	37.06	79.82	site	Yotkan, W of Khotan	medium	weakened		Yōtkan (or a city of which Yōtkan is the E/SE part, core further W: Talati 2024)

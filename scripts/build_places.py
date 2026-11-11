@@ -81,6 +81,16 @@ for f in glob.glob("data/coded/ar_batch*.tsv"):
             if x in ids:
                 if (q := per_place(r, f, x, len(xids(r, f)))) is not None: arr[x].append(q)
             elif x: unknown_ids["ar:" + x] += 1
+lit = collections.defaultdict(list)   # recent scholarship, 1985-2026 (data/LIT_INSTRUCTIONS.md)
+for f in glob.glob("data/coded/lit_batch*.tsv"):
+    for r in rd(f):
+        if r.get("relevant") != "yes": continue
+        for x in xids(r, f):
+            x = x.strip()
+            if x in ids:
+                if (q := per_place(r, f, x, len(xids(r, f)))) is not None: lit[x].append(q)
+            elif x: unknown_ids["lit:" + x] += 1
+def lit_tag(r): return f'{r.get("author","")} {r.get("year","")}'.strip() + (f', {r["page"]}' if r.get("page") else "")
 for f in glob.glob("data/coded/asr_batch*.tsv"):
     for r in rd(f):
         if r.get("relevant") != "yes": continue
@@ -105,7 +115,7 @@ def asr_tag(r):
     v = r.get("file", "").replace(".txt", "").replace("asr", "ASR ").replace("mukherji1901_tarai", "Mukherji 1901")
     return f'{r.get("author","")}, {v}' + (f' p. {r["page"]}' if r.get("page") else "")
 cols = ["id", "juan", "level", "parent", "name_zh", "name_ja", "original_name", "name_study", "name_study_basis", "visit", "mz_identification",
-        "mz_other_views", "mz_status"] + AUTH + ["gaz_n", "gaz_argues", "gaz_volumes", "gaz_local_evidence", "asr", "asr_n", "asr_evidence", "ar", "ar_n", "ar_evidence", "epig", "epig_n", "epig_evidence", "iar", "iar_n", "iar_evidence", "t2087_ref", "t2087_text", "translation", "translation_source", "translation_check", "translation_issues"] + RELCOLS + ["user_obs", "user_obs_assessment", "life_ref", "life_text", "life_translation", "life_translation_check", "life_translation_issues", "life_note"]
+        "mz_other_views", "mz_status"] + AUTH + ["gaz_n", "gaz_argues", "gaz_volumes", "gaz_local_evidence", "asr", "asr_n", "asr_evidence", "ar", "ar_n", "ar_evidence", "epig", "epig_n", "epig_evidence", "iar", "iar_n", "iar_evidence", "lit", "lit_n", "lit_evidence", "t2087_ref", "t2087_text", "translation", "translation_source", "translation_check", "translation_issues"] + RELCOLS + ["user_obs", "user_obs_assessment", "life_ref", "life_text", "life_translation", "life_translation_check", "life_translation_issues", "life_note"]
 def _load(path, key="id"):
     try: return {r[key]: r for r in rd(path)}
     except FileNotFoundError: return {}
@@ -150,6 +160,10 @@ for m in master:
     row["ar"] = " | ".join(dict.fromkeys(f'{r["asr_identification"]} [{r["stance"]}; {asr_tag(r)}]' for r in a if r.get("asr_identification")))
     row["ar_n"] = len(a)
     row["ar_evidence"] = " || ".join(f'[{asr_tag(r)}] {r["evidence"]}' for r in a if r.get("evidence", "").strip())
+    a = lit[m["id"]]
+    row["lit"] = " | ".join(dict.fromkeys(f'{r["asr_identification"]} [{r["stance"]}; {lit_tag(r)}]' for r in a if r.get("asr_identification")))
+    row["lit_n"] = len(a)
+    row["lit_evidence"] = " || ".join(f'[{lit_tag(r)}] {r["evidence"]}' for r in a if r.get("evidence", "").strip())
     pz, tr = PASS.get(m["id"], {}), TRAN.get(m["id"], {})
     row["t2087_ref"] = pz.get("t_ref", ""); row["t2087_text"] = pz.get("zh", "")
     rv = REV.get(m["id"], {})

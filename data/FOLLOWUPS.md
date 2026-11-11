@@ -147,3 +147,24 @@
     It confirms Kâfir-Qaleh, though Foucher writes "Sud-Ouest" where the text has 東南.
   - Quality check of 30 agent-written notes (`data/notes/qc_2026-11-07.tsv`): 21 ok, 8 minor, 1 major, all fixed.
     The high ratings that name no excavation or inscription were then audited (`data/notes/high_audit_2026-11-07.tsv`).
+
+## Recent scholarship pass (2026-11-11)
+
+See `data/LITERATURE.md` for the wanted list. Points raised by the coding and folding:
+- **Read the primary sources behind second-hand claims:** Errington 1993 (Varuṣapura at Shahr-i Bahlol, 02.04.14);
+  Falk 2003 and Nasim Khan 2006 (Bhīmā inscriptions at Kashmir Smast, 02.04.17); Saran 2008, Purātattva 38 (Juafardih
+  = Kolika, 09.03.08); Prasad 1988 (Nanan = Kālapināka, 09.03.10); Sinha 2000 (sealings reading "Sujātāgṛha" from the
+  1973 Bakraur dig, 09.01.01, reported by Anand); Asher 2000 and Kumar 2011 (Lāvaṇīla, the large village, 09.03.15a–b);
+  Tribedy 2021 (the Pachnā Vajratārā, 09.03.13); Coningham et al. 2018 and the Rissho reports (Tilaurakot, 06.02).
+- **IAR 2013–14 survey (passage 785) is undercoded:** Kool as Kolita (p. 19), Nanan as Nalakagama and a grotto named
+  "Indra-Shila" at Parvati (p. 20), inscribed images at Silao and Tetrawan (p. 22) were folded from the text but have
+  no coded row; IAR 2007–08 p. 115 (Bhuiladih, Basti; 06.02) and the Lathiya excavation near Ghazipur (2009–10; 07.02)
+  are not in the index. IAR gives the same coordinates for Nanan and Chandi Mau (one is wrong).
+- **Telhara:** check that the excavated "Bāladitya mound" is Cunningham's Bulandi mound (08.04.01).
+- **護時健:** Miyamoto 2015 takes the Xin Tangshu's 護時犍國 (seat 遏蜜城) for Gūzgān, against the 12.02 note's
+  equation with 弗栗恃薩儻那; re-examine. Lead: the Tang 大秦州 at 叡蜜城 and 鋭秣陀 (01.33), untested.
+- **Baoti Pind point** (03.03.03): check it against Cunningham's "the bearing is east".
+- **Tsuchiya 2010** (Darel temple, Oriento 53.1) is a scan with no text layer: OCR it (Japanese) and code.
+- **Li Rongxi's translation** (1996, BDK; `data/ref/lit/C/li1996_great_tang_record.txt`) is in hand but not coded; it
+  could be added to the authorities like Beal and Watters.
+- **Rows marked "to verify"/"from memory"** in `data/literature.tsv` need checking against a catalogue before citing.

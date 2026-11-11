@@ -3,11 +3,10 @@ id	lat	lon	precision	label	note
 04.11	29.88	79.35	district	Lakhanpur / Vairatpattan (Ramganga, Kumaon)	capital, the Brahmapura of the Talesvara plates
 05.01.09	26.92	80.21	site	Newal, 2 miles N of Bangarmau	
 06.01.14	27.52	82.00	approx	Tandwa (Tandwa Mahant)	9 miles W of Sahet-Mahet
-06.02	27.443	83.128	site	Piprahwa–Ganwaria	Tilaurakot the rival
 06.04.11	26.74	83.90	site	Ramabhar stupa, Kasia	
 08.04.03	25.07	84.99	approx	Dharawat (Kunwa hill)	
 08.04.04	25.03	85.07	approx	Kauwa-dol hill	
-09.01.03	24.65	85.32	approx	Gurpa hill	Hasra hill second
+09.01.03	24.549	85.304	approx	Gurpa hill	Hasra hill second; point corrected to Anand 2024 (blog) 24°32′57″ N, 85°18′13″ E (the earlier point lay c. 11 km N of the hill)
 09.03.15b	25.20	86.07	approx	Rajaona, NW of Lakhisarai	
 10.02.02a	25.27	87.24	site	rocky islets at Kahalgaon (Colgong)	
 10.10	19.78	85.17	district	Koṅgoda on the Sālimā near the Chilka	capital; country from the Mahānadī to N Ganjam
@@ -15,7 +14,7 @@ id	lat	lon	precision	label	note
 10.15	14.47	78.82	district	Telugu Coḷa country, Cuddapah	capital open
 11.05	22.75	72.68	district	central Gujarat SE of the Mahī	capital undecided
 01.36	36.49	66.95	approx	Darrah Gaz, c. 30 km S of Balkh	moved from Mizutani's point in the Dara-i-Suf (94 km, too far for the text's 100 li S); Beal's "20 mi S of Balkh"
-01.37.02	34.830	67.835	approx	E end of the Buddha cliff, Bamiyan	reclining-Buddha monastery as Foucher 1942 places it (c. 1 km E of the monastery between the two Buddhas); not found
+01.37.02	34.830	67.835	approx	E end of the Buddha cliff (Foucher 1942); Tarzi's excavated 'Eastern' monastery SE of the 38 m Buddha in the same sector	reclining-Buddha monastery as Foucher 1942 places it (c. 1 km E of the monastery between the two Buddhas); not found
 01.07.03	42.80	75.20	site	Suyab = Ak-Beshim ruins, SW of Tokmak	Ak-Beshim, 8 km SW of Tokmak (Ji 1985 p. 72: Clauson 1961, Soviet excavations)
 03.01.06	34.42	72.42	approx	Mahāvana = Panjkotai near Sunigram, Buner (Stein 1898)	Stein: c. 26 map miles almost due S of Manglaur; point placed from that, approximate
 12.05	37.03	68.47	approx	活國 capital: town site N of Qal'a-ye Zāl, S bank of the Amu (Kuwayama 2002, 2020)	Life: 都城在河南岸; Kuwayama: large town site N of Qal'a-ye Zāl at the Kunduz confluence; point approximate
@@ -24,3 +23,9 @@ id	lat	lon	precision	label	note
 01.38.03a	34.590	69.125	site	Mount Aruṇa (candidate): Khair Khana, N of Kabul	note's single candidate (new-candidate, low); Kuwayama 1976/2002 ch. XII
 07.03.16	25.700	85.180	district	Sonepur region at the Gandak–Ganges confluence (tentative)	note's proposal; replaces a text-derived point that had fallen near Kanauj
 10.03.01a	25.230	87.550	approx	Teliagarhi (Cunningham, ASR)	note's proposal; position of the Teliagarhi pass/fort approximate
+09.02.01	24.9217	85.2394	approx	Ayer hill (candidate Buddhavana)	new candidate, low: caverns on the hill SW of Ayer village (Lama, IAR 2013–14 p. 13; Anand 2012, blog); N, not NE, of Gurpa
+09.03.10	25.0908	85.5031	approx	Nanan (candidate Kālapināka)	new candidate, low: Lama, IAR 2013–14 p. 20 (Nalakagama); Anand 2024 (blog), after Prasad 1988; Chandimau second
+06.03	27.4978	83.6811	site	Ramgram stūpa S of Parāsi Bazar (candidate Rāmagrāma)	Falk 2017 n. 10 (his reading); new candidate, low; Dharmauli the alternative
+06.02.05	27.53	83.05	approx	Gotihawa (Gutiva)	Mauryan stūpa and Aśokan pillar stump in situ (Verardi 2007 via Falk 2017); about 4 miles S of Tilaurakot
+02.04.17	34.21	72.26	approx	Karamar hill (open; Kashmir Smast the rival)	Karamar fails Xuanzang's NE bearing (ESE of Shahbaz Garhi); Kashmir Smast (c. 34.433, 72.233; excavated Śaiva complex, Bhīmā inscriptions reported) lies NNE but at about twice 50 li
+03.01.12	34.817	72.483	approx	Shakhorai (Jahanabad), Ugad valley (candidate)	new candidate, low: Tucci 1958 via Bibi 2017; coordinates from Filigenzi 2015 p. 212

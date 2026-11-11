@@ -15,18 +15,21 @@ Five kinds of evidence were set against him:
 - *Epigraphia Indica* and the *Corpus Inscriptionum Indicarum*;
 - the district gazetteers.
 
+A sixth, added in November 2026, is the scholarship since Ji (1985): 384 items listed, 60 read and coded so far, and
+*Indian Archaeology – A Review* extended to 2013–14 ("Recent scholarship" below; `data/LITERATURE.md`).
+
 **What they show.** 442 of the 480 places have a note (Mizutani's 419 and 61 added ones). The 38 without a note are
 minor sites that have no point either. Taking Mizutani's identifications as the starting point (his translation covers every place), the evidence:
 - supports his identification for 97 places, 56 of them with high confidence, many with an inscription or seal
   naming the place;
-- weakens it for 12;
-- supports a different site for 62;
-- offers a candidate no standard authority records for 12.
+- weakens it for 15;
+- supports a different site, or leaves the place open between his and another, for 69;
+- offers a candidate no standard authority records for 24.
 
-On the map the study's confidence comes out as 105 places secure, 161 probable and 110 open. These are the ratings
+On the map the study's confidence comes out as 103 places secure, 158 probable and 119 open. These are the ratings
 after a quality check of 30 notes and an audit of every "high" rating without site evidence, and a second check of
 27 paragraphs added later (Ji, names, Bactrian, Stein/Drew, Kuwayama: 19 ok, 8 minor, all fixed; `data/notes/qc2_*.tsv`).
-Another 54 minor sites are placed approximately from Xuanzang's own bearing and distance, without an identification
+Another 50 minor sites are placed approximately from Xuanzang's own bearing and distance, without an identification
 (`scripts/place_from_text.py`). 50 have no point.
 
 **Settled by inscriptions or seals found on the site:**
@@ -42,9 +45,11 @@ Another 54 minor sites are placed approximately from Xuanzang's own bearing and 
 - Kanishka's stūpa at Shah-ji-ki-Dheri.
 
 **Moved by the new evidence:**
-- **Kapilavastu** (06.02): now Piprahwa–Ganwaria, against Mizutani's Tilaurakot. The Piprahwa sealings name "the
-  community of Kapilavastu monks in the Devaputra vihāra". They are Kushan, about four centuries before Xuanzang,
-  so Tilaurakot remains the rival for the city he saw.
+- **Kapilavastu** (06.02): open between Piprahwa–Ganwaria and Mizutani's Tilaurakot. The Piprahwa sealings name "the
+  community of Kapilavastu monks in the Devaputra vihāra", but Falk (2017) dates them after the Kushans and takes them
+  for Faxian's city; the IAR 2012–13 trenches found no habitation at Piprahwa and nothing after the Kushan period at
+  Ganwaria. Tilaurakot is now dated as a walled town from the 6th century BCE (Davis et al. 2016), but nothing there
+  names it, and Xuanzang's own legs split between the two.
 - **Kanishka's monastery** (02.04.06): the mound beside the stūpa at Shah-ji-ki-Dheri.
 - **Kosala's capital** (10.12): Śrīpura, now Sirpur.
 - **Koṅgoda** (10.10): the Chilka coast, from the Śailodbhava plates.
@@ -127,6 +132,16 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
 - **Baluchistan District Gazetteers** (1906–08) and the *Imperial Gazetteer* Baluchistan volume (1908). These are
   Internet Archive OCR, in `data/ref/baluch/` (gitignored). The identifiers are listed in
   `../yoga-gazetteers/regions/data/selection.tsv` (BAL*). They are coded as B001–B055 in `data/coded/gaz_batch10.tsv`.
+- **Recent scholarship, 1985–2026** (`data/LITERATURE.md`, `data/literature.tsv`, `data/LIT_INSTRUCTIONS.md`). A
+  bibliography of 384 items built region by region in English, Japanese, Chinese and European languages; 60
+  open-access items read and coded (`data/coded/lit_batch1-5.tsv`, 133 relevant rows, quotes checked), shown on the map
+  as "Recent scholarship (since 1985)" and folded into the notes as **Recent scholarship.** paragraphs. Among them:
+  Falk 2017 and Davis et al. 2016 (Kapilavastu, Rāmagrāma), Kuwayama's papers of 1985–99 and Miyamoto 2012–18
+  (Afghanistan, Tokharistan), Naiki 2015 and 2021 (Chanaka Dheri, Taxila), Dar & Hameed 2018 (Siṃhapura), Verardi 2012
+  and Filigenzi 2015 (Kashmir Smast, Swat), Shimada 2013 (Amarāvatī), Ambekar et al. 2023 (Vadnagar), Talati 2024 and
+  Zhang 2016 (Khotan), the Ak-Beshim reports, and Deepak Anand's field reports from Magadha (a blog, cited as such and
+  never the sole ground for a rating). *Indian Archaeology – A Review* 2007–08 and 2009–10 to 2013–14 (ASI
+  Aurangabad Circle PDFs, text by pdftotext) were added to the IAR index (passages 729–790, `iar_batch11.tsv`).
 - **K. Harimoto's notes** (`data/Archive/`). Earlier working notes:
   - a country-by-country extraction of what the text says about non-Buddhists, with letter codes;
   - notes on Songyun's 善特山, on Faxian's 波羅越 against Bhramaragiri, on Mahārāṣṭra and on Pāṇini;
@@ -257,6 +272,39 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      with their route fit, Mizutani's points, juan and level.
    - **Place panel:** the study's identification first, then Mizutani, the authorities, every source, the Xiyu ji
      and Life passages with translations, and the note.
+## What the recent scholarship changes
+
+The pass over the literature since 1985 (November 2026; `data/LITERATURE.md`) changed 60 updates rows. Most add
+evidence or candidates; these change the picture:
+
+- **Kapilavastu** (06.02) is open again between Piprahwa–Ganwaria and Tilaurakot (low): see above. Its dependent
+  sites follow; Gotihawa stands on its own evidence as Krakucchanda's town (06.02.05, Mauryan stūpa and pillar stump in
+  situ, Verardi via Falk; medium).
+- **Rāmagrāma** (06.03): the brick stūpa S of Parāsi Bazar (Ramgram, Nepal), about 46 km E of Lumbinī at the study's
+  li, is a new candidate (Falk 2017; low); Dharmauli the alternative. The charcoal stūpa (06.03.04) is open between
+  Lauriya-Nandangarh, Rajdhani and Falk's Rampurwa, none fitting every leg.
+- **Gandhāra:** Varuṣapura (02.04.14) drops from high to medium: nothing at Shahbaz Garhi names it, and Errington's
+  Shahr-i Bahlol (1993, not yet read) is a rival. The Bhīmā shrine (02.04.17) is open between Karamar, which fails
+  Xuanzang's bearing, and Kashmir Smast, with an excavated Śaiva complex and reported Bhīmā inscriptions but twice
+  the distance. A slab "said to come from Hund" names Udabhāṇḍa (02.04.18; Kimmet 2021).
+- **Taxila:** Naiki (2021) puts the 7th-century city in Rawalpindi and the Treasure stūpa at the Dharmarājikā. His city
+  fails the 70 li from the dragon pool and is kept as a rival only; the Treasure stūpa (03.03.03) is open between Baoti
+  Pind and the Dharmarājikā, deserted after a massacre in the late 5th century as the text's 久絕僧徒 requires.
+- **Swat:** the Uttarasena stūpa (03.01.10) is open between Shankardar and Tucci's excavated Nawe-kalai; several sites
+  gain candidates reported by Bibi (2017; low).
+- **Andhra:** Pūrvaśaila (10.14.02a) is weakened and open: the Amarāvatī stūpa stands on a plain (Shimada 2013), the
+  text puts the convent on a mountain (據山). Vadnagar gains sealings reading "Anandpur" from the Kṣatrapa level
+  (11.09; Ambekar et al. 2023).
+- **Khotan:** the royal city (12.22a) drops to medium (Talati 2024: Yotkan was never excavated and may be only part of
+  the city); Phema's fort (12.22.12) is probably the Kanaqin fort by Ulugh-Ziyārat, from the document equating it with
+  坎城 (Zhang 2016, after Li Yinping).
+- **Tokharistan:** Miyamoto's Bactrian documents give Gūzgān's seat at Sar-i Pul (01.34, perhaps the Tang 遏蜜城) and
+  take Ishkashim for Wakhan's later seat, not Shighnan's (12.16a weakened, Kuwayama 1985). At Bāmiyān, Tarzi's
+  excavated Eastern monastery is a candidate for the reclining Buddha (01.37.02, open).
+- **Magadha:** a BHU survey (IAR 2013–14) and Anand's field reports give candidates where the study had none: Ayer
+  for Buddhavana (09.02.01), Nanan for Kālapināka (09.03.10), Juafardih and Kool beside Jagdishpur for Kolika (09.03.08),
+  all low. A sealing naming Śakrāditya was found 1 km N of Nālandā (IAR 2007–08). The Gurpa point was corrected.
+
 ## Main proposed revisions to Mizutani
 
 These are medium- or high-confidence proposals that move away from Mizutani. The full list is in
@@ -270,7 +318,6 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 | 04.06 | Pāriyātra | Bairat (agreed) | Bairat, weakened | Sahni AR 1935–36 |
 | 04.11 | Brahmapura | Srinagar (Garhwal) | Lakhanpur or nearby | Talesvara plates issued from Brahmapura (EI 13) |
 | 05.01.09 | Navadevakula | not given | Newal near Bangarmau | ASR XI; Unao 1903 |
-| 06.02 | Kapilavastu | Tilaurakot | Piprahwa–Ganwaria (Tilaurakot the rival) | Srivastava IAR 1972–73: sealings naming the Kapilavastu saṅgha (Kushan) |
 | 06.01.14 | Kāśyapa's birthplace | not given | Tandwa (Bhitti the rival) | ASR XI; Marshall AR 1910–11 |
 | 06.04.03a, 06.04.11 | Kuśinagara river, cremation stūpa | Gandak; "10 miles E" | Little Gandak; Ramabhar | Cunningham; AR 1910–11 |
 | 07.02 | 戰主國 capital | Ghazipur | Sayyidpur or Ghazipur | Oldham; the *Life*'s distance |
@@ -326,9 +373,12 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 
 ## Limits
 
-- **Later scholarship.** Mizutani is the 1971 state of the question; Ji (1985) brings it to about 1980. Work since then
-  is not in these sources, and post-1971 work that Ji cites (e.g. Ahmed on Mahasthan, Belenitskii) is known only
-  through him. *Indian Archaeology* is in them up to 2000–01.
+- **Later scholarship.** Mizutani is the 1971 state of the question; Ji (1985) brings it to about 1980. Of the work
+  since then, 60 open-access items have been read (`data/LITERATURE.md`); the searches ran out of budget part way, so
+  coverage is uneven, and the key books and paywalled reports (Coningham et al. 2018 on Tilaurakot, Srivastava 1996,
+  the Rissho and Kansai reports, Kuwayama's Rinsen volumes, Errington 1993, Saran 2008 on Juafardih, the Telhara
+  report) are listed there as wanted. Works cited at second hand are marked "not read" in the notes. *Indian
+  Archaeology* is in up to 2013–14, without 2001–07 and 2008–09.
 - **Original names.** All 359 forms have been tested: the 92 asterisked or queried ones, and the 267 "secure" ones
   that built the key (a consistency check, so they are not independent of it). Bactrian, Khotanese and Sogdian forms known from scholarship but not in
   these files are marked "reported" and never rated above medium. Middle Chinese is itself a reconstruction, and
@@ -352,6 +402,7 @@ These are medium- or high-confidence proposals that move away from Mizutani. The
 ## Files
 
 - `data/places.tsv`: the joined table (start here).
+- `data/literature.tsv`, `data/LITERATURE.md`: the recent-scholarship bibliography, its status and the list of PDFs wanted.
 - `data/places_mizutani.tsv`: the master table.
 - `data/places_added.tsv`: 61 places missing from Mizutani's numbering (ids `.xN`), added from the sources. Mappings
   for the coded rows are in `data/coded/new_resolved.tsv`; coordinates are in `data/coords_added.tsv`.

@@ -12,6 +12,8 @@ AR with the year and page, by author (Vogel, Marshall, Konow, Oertel, Sahni, Hir
 is the Bengal (Eastern) Circle report of the same year. Inscriptions are cited from *Epigraphia Indica* (EI, by
 volume) and the *Corpus Inscriptionum Indicarum* (CII 1, Hultzsch 1925; CII 3, Bhandarkar, revised by Chhabra and
 Gai), and the excavations after 1953 from *Indian Archaeology – A Review* (IAR, by year and page), by excavator.
+Recent scholarship (after 1985) is cited by author, year and page from `coded/lit_batch*.tsv` (texts and bibliography
+in `literature.tsv`), and the IAR volumes 2007–14 from `coded/iar_batch11.tsv`.
 
 Not noted (no criterion met): 07.01, 07.01.02, 07.03.03, 07.03.04, 07.05. The survey confirms Mizutani for 07.01
 (Benares, ASR I p. 115); Ghosh's summary of the Rajghat excavation (IAR 1957–58) dates the ancient city from NBP to
@@ -156,7 +158,7 @@ relation; Bhitti has an early stupa in the right relation but fits only the mino
 either. Tandwa remains the better answer, with Bhitti as the rival. The town's name, Toyikā, is now known from the
 Divyāvadāna and the MSV, and its tie to Prasenajit's Śrāvastī suits both candidates; it decides neither.
 
-### 06.02 劫比羅伐窣堵國 (Kapilavastu) — Piprahwa–Ganwaria, named on Kushan sealings; Tilaurakot the rival for Xuanzang's city
+### 06.02 劫比羅伐窣堵國 (Kapilavastu) — open: Piprahwa–Ganwaria, named on the monks' sealings, or Tilaurakot, the walled city
 
 **Identifications.** Mizutani: Tilaurakot, Nepal Tarai (agreed). Cunningham (1871): Nagar, Basti. Watters (p. 17), Majumdar (pp. 711–12) and Dey: Tilaurakot; Majumdar reports
 Fleet's Piprahwa.
@@ -192,17 +194,54 @@ new to this study; the count of about forty inscribed sealings, against 31 in IA
 seasons. Ji's own sketch is unreliable on one point: he makes Führer's Nigali Sagar pillar of 1895 the proof of
 Lumbinī, which it is not (that pillar names Kanakamuni; Lumbinī is the Rummindei pillar, 06.02.11).
 
-**Assessment.** The sealings are the only inscriptions naming Kapilavastu on any site, and 31 from one verandah (about
-forty by the end of the 1971–74 seasons, with a pot lid bearing the same legend: Srivastava 1979, reported by Ji) are
-more likely the monastery's own than letters received (the doubt once raised at Kasia, 06.04). So in the 1st–2nd
-century the Piprahwa monastery was Kapilavastu's. But they name a community four centuries before Xuanzang, not his
-city, and the palace is inference. Tilaurakot has a brick-walled city (smaller than his 14–15 li), and his route puts
-Krakucchanda's pillar town 50 li S of the city: the in-situ Gotihawa pillar (06.02.05) lies S of Tilaurakot but on the
-map NW of Piprahwa. On the evidence now, Piprahwa–Ganwaria is the better-supported Kapilavastu, at medium confidence;
-Tilaurakot remains the rival for the city Xuanzang was shown (Smith's two-city view). The satellite notes
-06.02.05–06.02.10 are reckoned from Tilaurakot.
+**Recent scholarship.** *Tilaurakot.* Davis, Coningham et al. (2016, pdf pp. 10–16) recut Mitra's trench through the
+northern rampart (Trench R, 2013–14) and dated by OSL a phase of cultivation (620 ± 170 BCE), the start of urban
+deposits (about 570–580 BCE), two timber palisades on a cardinal E–W line (6th century BCE; 560 ± 90 BCE) and a clay
+rampart (450 ± 130 BCE) under the brick wall, which is still undated. With the grid of cardinal streets from the
+geophysics they conclude that Tilaurakot was "an established political centre … from at least the sixth century BCE"
+(pdf p. 16). This removes Mitra's objection that the site began only in the 3rd century BCE (pdf p. 3), but nothing
+found names the place. Singh (2026, pp. 87–89), a secondary summary, adds the 494 punch-marked coins of the Nepalese
+and UNESCO seasons and the deferral of the World Heritage nomination in July 2025; his statement that Xuanzang went
+about 50 li from Lumbinī to Kapilavastu misreads the text, and his proposal of one regional complex, the main palace
+at Tilaurakot with Piprahwa and Ganwaria as parts of it (pp. 92–94), brings no new evidence.
 
-### 06.02.05 迦羅迦村馱佛本生城 (Krakucchanda's town) — Gutiva, with an Aśoka-pillar stump, against Smith's Palta Devi
+*Piprahwa–Ganwaria.* Falk (2017, p. 57) accepts the sealings, "in the monastery of the (kushan) devaputra, in the
+order of monks at kapilavastu", but dates their script "of a Gupta type", some seven centuries after the Buddha, and
+concludes only that Piprahwa "definitely was close to kapilavastu": after Mani and Mishra (2013), "the Buddhist
+compounds at Piprahwa did not occupy city ground". He calls the Ganwaria complexes monasteries and dates their
+destruction by fire to about AD 300, after Srivastava (1996, p. 25; Falk pp. 58, 67). His positive case is made on
+Faxian: from Gotihawa Faxian goes 10 km N to the Kanakamuni pillar and then less than 10 km E, so his Kapilavastu lay
+E of Tilaurakot, not at it (p. 57); the *Wai-guo-shi* of Zhi Sengzai (before 420) has a king repairing one stūpa
+there, which Falk matches with the Kushan enlargement of the Piprahwa stūpa (pp. 66–67); and the Peppé casket
+inscription, naming the Śākyas, is genuine and of the late 3rd century BC (pp. 60, 64). On Xuanzang he doubts that the
+pilgrim went there at all and argues only from Watters' summary that Lumbinī lies 9–10 miles E of the city: Piprahwa
+is 15 km W of Lumbinī, Tilaurakot 25 km NW (p. 57). Against Tilaurakot he holds that its burnt brick is no older than
+Aśoka and reads two clay tokens from the compound (Rijal 1979; Coningham's team, 2016) as *negameye*, "living in the
+nigama": a trading post or caravan station, though "some nigamas later turned into state centres" (pp. 56–57). The ASI
+seasons of 2012–13 (Mani and Mishra, IAR 2012–13, pp. 152–153, 160), dug for dating, not for the identification, found
+"no habitational deposit" in two trenches N and NE of the Piprahwa stūpa and only natural soil in two trenches between
+Piprahwa and Ganwaria; Ganwaria runs from pre-NBPW through NBPW and Śuṅga to Kushan brick structures and coins, with
+nothing later; Tola Salargarh, 1 km NE, a Kushan monastery, had only a short occupation. No sealing or inscription was
+found. The Tilaurakot reports of Coningham et al. (2018) and of the Rissho University seasons, which hold Tilaurakot,
+are not yet in hand (`literature.tsv`).
+
+**Assessment.** The sealings are still the only inscriptions naming Kapilavastu on any site, and 31 from one verandah
+(about forty in all) are more likely the monastery's own than letters received. They place a Kapilavastu monks'
+community at Piprahwa in the Kushan period or, on Falk's reading of the script, somewhat later. The new work narrows
+what they show. Piprahwa itself has no habitation deposit, Ganwaria nothing after the Kushan period (burnt about AD
+300 on Srivastava's dating), and the 2012–13 seasons added no inscription; Falk, who argues hardest for Piprahwa,
+calls it a place close to Kapilavastu, and his distance tests fix Faxian's Kapilavastu of about AD 400, not Xuanzang's
+of the 7th century. Tilaurakot is now a dated walled town of the 6th century BCE with a planned layout, but nothing
+there names Kapilavastu, its tokens name a nigama, and its brick wall, which would answer Xuanzang's brick-built
+palace city, is undated. Xuanzang's own figures split. The leg to Lumbinī by the Arrow Well (30 li SE, then 80–90 li
+NE) suits a city at Piprahwa, as the route test finds; the leg to Krakucchanda's town, 50 li S, suits Tilaurakot,
+since Gotihawa (06.02.05) lies S of Tilaurakot but NW of Piprahwa. If, as Falk suspects, Xuanzang did not go there,
+his figures are second-hand. The sources conflict and none is decisive for the city Xuanzang describes, so the place
+is left open between Piprahwa–Ganwaria and Tilaurakot, at low confidence; Smith's two-city view (Faxian's Kapilavastu
+at Piprahwa, Xuanzang's at Tilaurakot) remains possible. The satellite notes give the candidates in both frames:
+06.02.05 and 06.02.05a stand on their own pillars, 06.02.06–06.02.10 depend on the city.
+
+### 06.02.05 迦羅迦村馱佛本生城 (Krakucchanda's town) — Gotihawa (Gutiva): a Mauryan stūpa and an Aśoka-pillar stump in situ
 
 **Identifications.** Mizutani: no site (unknown). Cunningham (p. 480): Kakila or Kalwari Khas (Nagar frame). Watters (p.
 18): Führer's ruins about 7 miles SW of Kapilavastu. Majumdar (p. 712) reports Vost: Sisanihava. Dey (after Mukherji):
@@ -230,10 +269,23 @@ Krakutsanda in the Prātimokṣasūtra and the Mañjuśrīmūlakalpa), not Kraku
 a; 迦羅 is kra. Only the second 迦, never ku in the key, stays unexplained. Medium confidence; the form names the Buddha
 and does not bear on the site (data/names/).
 
-**Assessment.** Carlleyle's Nagra falls with Bhuila. Gutiva has the field evidence Xuanzang describes, a relic stupa
-with an Aśokan pillar beside it still in place, but only at an emended distance and only if Tilaurakot is the
-city (06.02). Palta Devi fits the distance and has an uninscribed
-pillar. Gutiva is the better candidate, at low confidence.
+**Recent scholarship.** Falk (2017, p. 46) takes Gotihawa for Faxian's Nābhika, 12 yojanas SE of Śrāvastī: it "still
+holds the lower part of an Aśokan pillar in situ", which is "definitely not the lower part" of the Nigliwa pillar, and
+the find-place of that pillar lies 10 km NE, "perfectly answering" Faxian's one yojana. After Verardi's excavation
+(2007; Falk p. 68 n. 9, p. 70 nn. 52–57) the site is old enough but nothing proves the identification; the stūpa's
+Mauryan level is 19.5 m across, built with triangular bricks (TL dates allow about 280 BC), enlarged to 22 m by the
+2nd century AD; Waddell had found it empty; and the pillar "was brought down already in the third century a.d.", so
+that Xuanzang "seems to accumulate older material". A larger piece of the pillar serves as the liṅga of the Taulihawa
+temple (n. 9), the study's Īśvara temple candidate (06.02.x10).
+
+**Assessment.** Carlleyle's Nagra falls with Bhuila. Gotihawa now stands on its own evidence rather than on the
+Tilaurakot frame: a Mauryan relic stūpa with an Aśokan pillar stump in situ beside it, as Xuanzang describes (Verardi,
+via Falk); the Kanakamuni pillar 10 km NE, as Xuanzang's 30 li NE requires, if that pillar has not been moved far
+(06.02.05a); and Faxian's yojanas from Śrāvastī. Xuanzang's 50 li from the city is about 11.5 km at the study's median
+0.231 km per li; Gotihawa lies about 4 miles (6 km) S of Tilaurakot, short but within the scatter of the li, so
+Mukherji's emendation to 20 li is not needed; from Piprahwa it lies NW, against the text. The pillar fell in the 3rd
+century, so Xuanzang's standing lion pillar 30 ft high is older report. Palta Devi rests on distance alone. Gotihawa
+is the better candidate, now at medium confidence; nothing names Krakucchanda there.
 
 ### 06.02.05a 迦諾迦牟尼佛本生城 (Kanakamuni's town) — near the Nigali Sagar pillar; whether it is in situ is the question
 
@@ -257,6 +309,11 @@ among the sites revisited.
 **Ji Xianlin et al. (1985).** Ji agrees with the caution here: Führer's Nigali Sagar pillar, 13 miles NW of Lumbinī,
 may be Xuanzang's, but whether it is, and whether it stands where it was set up, is "not yet settled" (p. 515).
 
+**Recent scholarship.** Falk (2017, pp. 46, 50) finds the pillar's find-place 10 km NE of Gotihawa, matching Faxian's
+one yojana (and Xuanzang's 30 li NE), but "it remains uncertain" whether it is close to where Aśoka set it up. He
+reads the edict as Aśoka enlarging the Konāgamana stūpa "a second time" in his 14th year, in burnt brick over an
+earthen mound, and coming in his 20th year to set up the pillar. No stūpa has been found by the pillar.
+
 **Assessment.** The inscription fixes the pillar to Kanakamuni; the corpus editor sides with Smith's doubt, and
 nothing since has answered it. If it stands where Aśoka set it, the town is close by (Araura-kot); if not, Sisania.
 Mizutani's cautious formulation stands.
@@ -271,7 +328,9 @@ neighbourhood".
 
 **Gazetteers.** None.
 
-**Assessment.** A name and a distance, with no remains. The site remains unidentified; Jadi is a lead to test.
+**Assessment.** A name and a distance, with no remains. Jadi is reckoned from Tilaurakot; with the city open (06.02),
+no one has named a site 40 li NE of Piprahwa. The site remains unidentified; Jadi is a lead to test in the Tilaurakot
+frame only.
 
 ### 06.02.08 尼拘律樹林 (Nyagrodha grove / monastery) — Gutiva (Smith) or Lori-Kudan (Mukherji), whose dug mound was Brahmanical
 
@@ -289,8 +348,10 @@ brick platform and two early medieval Brahmanical brick temples (liṅga, Mahi�
 
 **Ji Xianlin et al. (1985).** Ji gives the name only (nyagrodha; p. 519).
 
-**Assessment.** Both proposals belong to the Tilaurakot frame (06.02). Mitra's dig at Kudan weakens Mukherji's
-Lori-Kudan without excluding its other mounds; Gutiva is untested. Both are candidates only.
+**Assessment.** Both proposals belong to the Tilaurakot frame (06.02), and no one has named a grove 3–4 li S of
+Piprahwa. Mitra's dig at Kudan weakens Mukherji's Lori-Kudan without excluding its other mounds. Smith's Gutiva is now
+the better candidate for Krakucchanda's town (06.02.05), with its relic stūpa and pillar, which leaves it unlikely as
+the Nyagrodha grove. Both are candidates only, and only if Tilaurakot is the city.
 
 ### 06.02.10 箭泉 (Śarakūpa, the Arrow Well) — Birdpur if Piprahwa is Kapilavastu; Sisania if Tilaurakot
 
@@ -309,10 +370,12 @@ date. No spring or well is reported.
 
 **Gazetteers.** None.
 
-**Assessment.** Sarwanpur and Sarkuhiya belong to the abandoned Basti frames. Xuanzang puts the small stupa and
-spring "more than 30 li" SE of the city: Birdpur fits the distance from Piprahwa but lies S, not SE, and stands only
-if Piprahwa is Kapilavastu (06.02); Sisania is the equivalent lead from Tilaurakot. Birdpur, with a buried stupa
-of about the right period, is the better of the two as the evidence now stands, but nothing marks the spring.
+**Assessment.** Sarwanpur and Sarkuhiya belong to the abandoned Basti frames. Xuanzang puts the small stupa and spring
+"more than 30 li" SE of the city and Lumbinī 80–90 li NE of the spring. Birdpur fits the distance from Piprahwa but
+lies S, not SE; from it Rummindei lies about 18–19 km NE, as 80–90 li NE requires (about 20 km at 0.231 km per li).
+Sisania is the equivalent lead from Tilaurakot, untested here. Birdpur has the better field evidence, a buried stupa
+of about the right period, but nothing marks the spring, and it stands or falls with Piprahwa. With the city open
+(06.02), the two remain alternatives, each tied to its frame.
 
 ### 06.02.11 臘伐尼林 (Lumbinī) — Rummindei, confirmed by excavation
 
@@ -334,6 +397,11 @@ century B.C. to at least the 9th century A.D., so the site was in use when Xuanz
 **Gazetteers.** None.
 
 **Ji Xianlin et al. (1985).** Ji agrees: Rummindei, from Lumbinī-devī (p. 521).
+
+**Recent scholarship.** Falk (2017, pp. 50–51) agrees and reads the pillar's *aṭhabhāgiya* as "sharing in the eight
+parts": Aśoka brought a portion of the relics to Lumbinī, where a small cubical brick structure held a reliquary but
+there is no Aśokan stūpa. He proposes that the Piprahwa coffer and crystal reliquary first stood here and were moved
+15 km to Piprahwa after the Mauryas. Neither point moves the place.
 
 **Assessment.** The inscribed pillar, the temple and the split Xuanzang mentions agree. Mizutani is strengthened.
 
@@ -358,7 +426,7 @@ his date of discovery, 1897, is a slip for December 1896. The Oil River note is 
 **Assessment.** The pillar is settled. The Tilar, by name and position beside the garden, is a good identification of
 the Oil River, which Mizutani left unnamed.
 
-### 06.03 藍摩國 (Rāmagrāma) — unsettled; Rampur Deoriya has the only surveyed stupa but belongs to the Bhuila frame
+### 06.03 藍摩國 (Rāmagrāma) — unsettled; the excavated Parāsi (Ramgram) stūpa fits Xuanzang's 200 li E of Lumbinī; Dharmauli the alternative
 
 **Identifications.** Mizutani (disputed): Dharmauri (Dharmauli) on the Nepal–Gorakhpur border, or Rampur Deoriya.
 Majumdar (p. 713): perhaps Dharmauli, where Hoey found a stupa; Vost: Bhuila-dih. Dey: Rampur Deoriya. Cunningham (pp.
@@ -382,10 +450,20 @@ His textual point is sound: Faxian's 5 yojanas from the birthplace fits the *Rec
 the Life's "over 500 li" from Kapilavastu (T50:236a, checked) is far out; the Life's figure is not a reason to look
 further east.
 
-**Assessment.** Rampur Deoriya is the only candidate with a surveyed stupa and tank, but Carlleyle reached it by
-measuring 26 miles from Bhuila Dih, which fell (06.02); from Rummindei it lies to the south-west, not 200 li east.
-Dharmauli fits the distance from Lumbinī but rests on a name and a stupa Hoey reported nearby; Bawangarhi is
-Smith's own discarded alternative. The place stays disputed.
+**Recent scholarship.** Falk (2017, p. 46 and n. 10, p. 49) measures Faxian's 5 yojanas E of Lumbinī to "a large stūpa
+south of Parāsi Bazar, today promoted as rāmagrāma" (Ramgram, Nawalparasi, Nepal), 40 km from Lumbinī, which "would
+roughly answer the requirements". S. R. Shrestha excavated it (*Ancient Nepal* 1999–2006) "without touching the core";
+it yielded neither bones nor reliquaries, and it "stands encircled by a river", which Falk links with the Mahāvaṃsa's
+Rāmagrāma stūpa split by a flood. The geophysical surveys of the site (Schmidt et al. 2011; Coningham et al. 2019,
+2020) are not yet in hand.
+
+**Assessment.** Rampur Deoriya is the only candidate the older survey describes, with a stupa and tank, but Carlleyle
+reached it by measuring 26 miles from Bhuila Dih, which fell (06.02); from Rummindei it lies to the south-west, not
+200 li east. The Parāsi stūpa is new to the study and fits Xuanzang from the secure Lumbinī: about 40 km almost due E,
+where 200-odd li at the study's 0.231 km per li give about 46 km. It is a large brick stūpa, as Xuanzang's is, and
+lies by water, as his stūpa lies by the nāga's pond; but nothing names it, and the pond is not identified. Dharmauli
+also fits the distance (about 58 km E) but rests on a name and a stupa Hoey reported nearby; Bawangarhi is Smith's own
+discarded alternative. Parāsi is the best candidate, at low confidence; Dharmauli remains the alternative.
 
 ### 06.03.03 太子迴駕・剃髮窣堵波 (Chandaka's return; Anomā) — unidentified; Carlleyle's Kudawa sites depend on Rampur Deoriya, Mani's Nautanwa on a name
 
@@ -414,13 +492,17 @@ road, without a site.
 **Ji Xianlin et al. (1985).** Ji agrees with Mizutani: the Anupiya grove on the Anomā in Moriya territory, after Hori,
 with no modern site (p. 532).
 
+**Recent scholarship.** Falk (2017, p. 46) places the site only by Faxian's 3 yojanas (about 30 km) E of Rāmagrāma and
+names nothing there.
+
 **Assessment.** Carlleyle found low mounds where his reckoning put them, but the reckoning runs from Bhuila and Rampur
 Deoriya, and "Kudawa" carries the argument. Fleet's Majhauli has a village name and nothing else. Mani's Nautanwa
 follows the Pāli accounts and a Kapilavastu at Piprahwa, not Xuanzang, who puts the stupa over 100 li E of the
-Śrāmaṇera monastery beyond Rāmagrāma, itself 200 li E of Lumbinī; Nautanwa, NE of Siddharthnagar, lies short of
-that. It is a new proposal on name and region only. Mizutani's "uncertain" stands.
+Śrāmaṇera monastery beyond Rāmagrāma, itself 200 li E of Lumbinī. If Rāmagrāma is the Parāsi stūpa (06.03), Nautanwa
+lies about 25 km W of it, between Lumbinī and Rāmagrāma, and is excluded; the site would be sought some 100 li (about
+23 km) E of Parāsi, where neither Falk nor anyone else names one. Mizutani's "uncertain" stands.
 
-### 06.03.04 尼拘盧陀林灰炭窣堵波 (Ashes stupa, Pippalivana) — Lauriya-Nandangarh against Carlleyle's Rajdhani
+### 06.03.04 尼拘盧陀林灰炭窣堵波 (Ashes stupa, Pippalivana) — open: Lauriya-Nandangarh, Carlleyle's Rajdhani or Falk's Rampurwa
 
 **Identifications.** Mizutani: no site (unknown). Majumdar (p. 713): Lauriya-Nandangarh. Cunningham (p. 492): Sahankat
 near Rudrapur. Dey: Barhi (Moriyanagara).
@@ -445,9 +527,23 @@ names the ash stūpa at a nyagrodhavana (searched nyagrodhavan-, nigrodhavan-, p
 the grove is secure; the mismatch is one of labelling. Carlleyle's bar (banyan) forest round Rajdhani rests on the
 meaning of nyagrodha, not on a surviving name (data/names/).
 
-**Assessment.** Rajdhani belongs to Carlleyle's chain from Bhuila, and Nandangarh to Smith's Nepal-side scheme. Neither
-is tied to the Moriyas by anything found. Later work, not in these sources, excavated a stupa at Nandangarh. Here
-Nandangarh is a candidate rather than a result.
+**Recent scholarship.** Falk (2017, pp. 46–47) adds Rampurwa (West Champaran), on Faxian: his yojanas from Gotihawa
+sum to 120 km and reach "the only place where two of the Aśokan pillars have survived in full", beside two conical
+earth mounds in which Garrick (1883) found nothing ancient; the local village name is Pipariyā, a pair with
+Pipphalivana, though "villages named after the Pippal tree are many", and he offers the identification only "if
+considered as justified". He holds that Faxian did not go there and sets Xuanzang aside, who "seems to misinterpret
+Faxian" (p. 68 n. 12). In a footnote (p. 69 n. 15) he finds it "tempting" to make the great stūpa at
+Lauriya-Nandangarh Droṇa's vessel stūpa (07.02.04).
+
+**Assessment.** Rajdhani belongs to Carlleyle's chain from Bhuila, and Nandangarh to Smith's Nepal-side scheme.
+Neither is tied to the Moriyas by anything found. Later work, not in these sources, excavated a stupa at Nandangarh,
+and Falk would give it to Droṇa instead. Xuanzang's figures cannot all hold. From the Parāsi stūpa (06.03) his 100-odd
+li E and 180–190 li SE come to about 60 km ESE, which Rampurwa (about 85 km ESE) and Nandangarh (about 90 km SE) both
+answer within the scatter of the li; but from the grove he goes NE through forest to Kuśinagara, and Kasia lies about
+85 km SW of Rampurwa (Falk: about 90 km) and about 55 km WSW of Nandangarh. A grove with Kasia to the NE, such as
+Carlleyle's Rajdhani SSE of Gorakhpur, fails the E and SE legs from any Rāmagrāma candidate. Rampurwa, with its two
+pillars and empty mounds, is a third candidate, resting on Faxian and a common village name. The place stays open
+among Nandangarh, Rajdhani and Rampurwa.
 
 ### 06.04 拘尸那揭羅國 (Kuśinagara) — Kasia; doubted by Bühler and on the sealings 1905–07, settled by Haribala's copper plate 1910–11
 
@@ -824,6 +920,11 @@ temple mounds around. He argued that the 140–150 li NE to Vaiśālī measures 
 
 **Ji Xianlin et al. (1985).** Ji agrees: it "cannot yet be located" (p. 586).
 
+**Recent scholarship.** Falk (2017, p. 69 n. 15) finds it "tempting" to take the great stūpa at Lauriya-Nandangarh,
+which contained a smaller stūpa with a copper vessel and an inscribed, unpublished birch-bark sheet beside it, for
+Droṇa's stūpa. Xuanzang goes from the vessel stūpa NE across the Ganges, 140–150 li, to Vaiśālī; Nandangarh lies some
+140 km NNW of Basarh, N of the Ganges, and fails both the bearing and the crossing.
+
 **Assessment.** Deghwara is eliminated. Bhagwanganj is the only stupa found on Xuanzang's bearing, but it follows from
 Arrah as the Āṭavaka stupa (07.02.03b); Chirand goes with the north-bank route. Bhagwanganj is a candidate no standard
 authority records, at low confidence.
@@ -919,7 +1020,7 @@ north-west of the city, not south as Bloch read it.
 puts it NW of the palace city, by the stupa of the last look (Ji's reading, against Bloch's "south"), so Faxian's
 southern garden is a different tradition and the search area is the NW quarter.
 
-### 07.03.12 栗呫婆子別如來處 (where the Licchavis parted from the Buddha) — unidentified
+### 07.03.12 栗呫婆子別如來處 (where the Licchavis parted from the Buddha) — unidentified; Falk's Lauriya Ararāj fits Faxian, not Xuanzang
 
 **Identifications.** Mizutani: no site (unknown); he notes Faxian's inscribed pillar. No authority names one.
 
@@ -934,7 +1035,14 @@ Xuanzang's own fanqie 昌葉反. No a-stem *licchava is attested: the library ha
 the final -i, as he drops other finals, so Licchavi remains the name, with low confidence in the form. The name is
 that of the people, not the place, and does not bear on the site (data/names/).
 
-**Assessment.** It remains unidentified. Faxian's inscribed pillar would be the thing to look for.
+**Recent scholarship.** Falk (2017, p. 47) takes Faxian's inscribed pillar for the Aśokan pillar at Lauriya Ararāj
+(East Champaran): Faxian puts the parting place 12 yojanas from Kuśinagara, and Ararāj lies 80 km from it, perhaps
+longer by the ferries; he would also read the local name Arra as Pali Allakappa. Lauriya Ararāj lies some 80 km NW of
+Basarh, beyond Kesariya, which Xuanzang puts less than 200 li NW of the city (07.03.13); Xuanzang's parting place lies
+only 50–60 li NW.
+
+**Assessment.** It remains unidentified. Lauriya Ararāj answers Faxian's distance, not Xuanzang's; Faxian's inscribed
+pillar and Xuanzang's great stūpa 50–60 li NW of the city may not mark the same place.
 
 ### 07.03.13 吠舍釐城西北故城 (the old city NW of Vaiśālī, Mahādeva jātaka) — Kesariya, confirmed by local tradition and a pre-7th-century stupa
 

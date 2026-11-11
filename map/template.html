@@ -267,6 +267,7 @@ function panel(p) {
     <dt>Excavations (AR)</dt><dd>${p.arN ? `${esc(p.ar)}${p.arEv ? `<br><span class="sub">${esc(p.arEv)}</span>` : ""}` : "no passage"}</dd>
     ${p.epN ? `<dt>Inscriptions (EI, CII)</dt><dd>${esc(p.ep)}${p.epEv ? `<br><span class="sub">${esc(p.epEv)}</span>` : ""}</dd>` : ""}
     ${p.iaN ? `<dt>Excavations after 1953 (IAR)</dt><dd>${esc(p.ia)}${p.iaEv ? `<br><span class="sub">${esc(p.iaEv)}</span>` : ""}</dd>` : ""}
+    ${p.liN ? `<dt>Recent scholarship (since 1985)</dt><dd>${esc(p.li)}${p.liEv ? `<br><span class="sub">${esc(p.liEv)}</span>` : ""}</dd>` : ""}
     <dt>Gazetteers</dt><dd>${p.gazN ? `${p.gazN} passages${p.gazArg ? `, ${p.gazArg} argue, doubt or propose another site` : ""}<br><span class="sub">${esc(p.gazVols)}</span>` : "none"}</dd>
     ${(p.rel && (p.rel.schools || p.rel.other || p.rel.sangharamas || p.rel.deva_temples || p.rel.site_affiliation)) ? `<dt>Religion</dt><dd>${[
         p.rel.sangharamas ? `monasteries ${esc(p.rel.sangharamas)}` : "", p.rel.monks ? `monks ${esc(p.rel.monks)}` : "",

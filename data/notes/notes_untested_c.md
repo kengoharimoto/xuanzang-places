@@ -35,8 +35,11 @@ found nothing "to establish or disprove" the city. The rival is Srivastava's at 
 brick complex, about 39 m square, "the residential complex of … Sakya king Suddhodhana" (IAR 1974–75, p. 41), and
 shrines built over houses, dug to test Xuanzang's vihāras on palace sites (1976–77, p. 51). Ganwaria shows no level
 after the 4th century (06.02).
-**Assessment.** Both are inferences from the parent identification. With 06.02 favouring Piprahwa–Ganwaria and keeping
-Tilaurakot as the rival, the two proposals stand level. Open.
+**Recent scholarship.** Falk (2017), following Srivastava's own plans, takes the Ganwaria complexes for monasteries, not
+a palace, and reports them burnt about AD 300; the IAR 2012–13 trenches (Mani and Mishra, pp. 152–153) found nothing
+after the Kushan period there.
+**Assessment.** Both are inferences from the parent identification, which is now open (06.02), and the Ganwaria
+complex is more probably a monastery deserted before Xuanzang. The two proposals stand level. Open.
 
 ### 06.02.x3 阿私多仙相太子處 (Asita's stūpa) — Mukherji's sixteen-sided brick structure at Tilaurakot; depends on Tilaurakot
 
@@ -58,7 +61,9 @@ proposal (06.02.x2). No inscription or date.
 **Identifications.** Mukherji (1901, pp. 51–52): a building partly traced NE of the central tank of Tilaura-kot.
 **Evidence.** At Ganwaria, Srivastava took a block of rooms, verandahs and two courtyards for a school, "which would
 corroborate the statement of the Chinese traveller" (IAR 1975–76, p. 49). Neither has an inscription.
-**Assessment.** Two proposals by analogy, each tied to its own Kapilavastu (06.02). Open.
+**Recent scholarship.** Falk (2017) reads the Ganwaria buildings as monasteries burnt about AD 300, which removes the
+'school' reading's support from the plan.
+**Assessment.** Two proposals by analogy, each tied to its own Kapilavastu (06.02, now open). Open.
 
 ### 06.02.x10 自在天祠 (Īśvara temple outside the gate) — the Tauleshvara liṅga temple at Taulihawa; depends on Tilaurakot
 
@@ -66,7 +71,9 @@ corroborate the statement of the Chinese traveller" (IAR 1975–76, p. 49). Neit
 (Tauliva-īśvara) liṅga temple at Tauliva (Taulihawa). Mukherji rejects Führer's temple at Bikuli, which "stood out of
 the way" and did not form the city's boundary.
 **Evidence.** The name and the Śaiva cult; no early remains reported at Tauliva. Bikuli has carved bricks and liṅgas.
-**Assessment.** A name-and-cult link, from the Tilaurakot frame only. Open.
+**Recent scholarship.** Falk (2017, n. 9) reports that the liṅga in the Taulihawa temple is a reused piece of the
+upper shaft of the Gotihawa Aśokan pillar; the cult object is therefore not old, though the shrine may be.
+**Assessment.** A name-and-cult link, from the Tilaurakot frame only, now weaker. Open.
 
 ### 07.01 婆羅痆斯國 (Vārāṇasī) — Benares; the ancient city excavated at Rajghat
 
@@ -193,7 +200,10 @@ No remains of the stūpa reported.
 **Identifications.** Mizutani: Tika Bigha by the Nairañjanā, S of Bodh Gayā, from Cunningham's map. No other authority.
 **Evidence.** Cunningham (ASR XI, p. 147) lists the stūpas on the Lilajan bank as sites F–N of his plan, without
 excavation or finds that single out the bathing place.
-**Assessment.** A label on a plan. Open.
+**Recent scholarship.** Anand 2019 (blog) moves the austerity group to the E bank round Bakraur (Dharmāraṇya,
+Mātaṅgavāpī), arguing from the pilgrims' bearings; he has only unexcavated surface mounds, and the Ratanāgiri rock 200 m
+E of Bakraur that he cites is Faxian's, not Xuanzang's.
+**Assessment.** A label on a plan, and a rival argued from bearings alone. Open between Tika Bigha and the E bank.
 
 ### 08.06.x1 佛經行處 (the Buddha's promenade N of the Bodhi tree) — the raised walk outside the N wall of the Mahābodhi temple
 

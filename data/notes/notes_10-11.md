@@ -444,12 +444,19 @@ the "Śrī Raktamṛttikā Mahāvihāra" was found, citing B. P. Sinha, *Archaeo
 Tāmralipti. In the Life Xuanzang goes from Puṇḍravardhana to Karṇasuvarṇa, then Samataṭa and Tāmralipti; Bianji,
 arranging the countries by region, put Karṇasuvarṇa after Tāmralipti and wrote the bearing wrongly (pp. 808–9).
 
+**Recent scholarship.** The West Bengal Directorate of Archaeology and Museums with the ASI re-excavated the
+Rakshashidanga mound at Pratappur (G.P. Rangamati), east of Karnasuvarna station, first dug in 1928–29: nine trenches
+to natural soil at 7.85 m, and two structural phases, post-Gupta (6th/7th c.) and Pāla/Sena (8th/9th c.), with brick
+walls, a platform and stucco (IAR 2009–10, pp. 165, 167). The report names neither Karṇasuvarṇa nor Raktamṛttikā, but
+it adds a building of Xuanzang's century to the Rangamati group, beside the sealings of Rajbadidanga.
+
 **Assessment.** The sealings name the monastery, not the city. But Xuanzang puts Raktamṛttikā "beside the great city"
 (大城側), and the sealings span his date, so the capital must lie at Rangamati–Jadupur, where Dikshit saw a city of his
 time; the city itself has not been dug in these sources. The 1914 name objection and Beglar's Sapharan lapse. Ji's
 account of the bearing meets the route test's objection only in part: Rangamati lies almost due north of Tamluk at
 about the 700 li, so a NE (or N) bearing fits, but the Life's "SE 900 li" from Puṇḍravardhana does not, since
-Rangamati lies SW of Mahasthan. Mizutani is strengthened, now with high confidence.
+Rangamati lies SW of Mahasthan. The Rakshashidanga re-excavation adds a building of the 6th/7th c. in the Rangamati
+group. Mizutani is strengthened, now with high confidence.
 
 ### 10.08.02 絡多末知僧伽藍 (Raktamṛttikā) — Rajbadidanga at Rangamati; named on its own sealings
 
@@ -504,12 +511,23 @@ the vernacular oḍḍa/uḍḍa (Kanarese oḍḍaru; Odda-viṣaya for Orissa 
 1911–12), not the Sanskrit uḍra/oḍra that Mizutani lists first. oḍḍa is already among his forms; only the order
 changes, and the country is unaffected (data/names/).
 
+**Recent scholarship.** Patnaik (2023), from his excavation of 2010–13 at Radhanagar (Kankia) in the Dharmasala area
+of Jajpur district, between the Langudi and Kayama hills: a planned city with earthen rampart, bastions, gateways and
+moat, an AMS date of 412–354 cal BC from layer 5 (p. 378), urban occupation from the 4th c. BC to the 3rd–4th c. AD
+and a poorer Period III to c. the 5th, Buddhist finds and a Brāhmī seal of Sadabhu Tissa. He takes Radhanagar for
+Aśoka's Tosalī and gives Sisupalgarh, urban only after the 2nd c. BC and without Buddhist antiquities, to Khāravela's
+Kaliṅganagarī; Dhauli becomes a pilgrimage place on a trade route (pp. 381–82). No inscription at Radhanagar names
+Tosalī, and nothing there is of the 7th century; Patnaik does not mention Xuanzang.
+
 **Assessment.** The country is not in doubt; the capital remains open, with Jajpur, north of the Mahānadī, the most
 widely held candidate. If Chakravarti's boundary held in Xuanzang's time, Dhauli/Tosalī and Bhubaneswar on the south
 bank fall into Koṅgoda, which tells against 高桑's Dhauli (and raises the same question for Khandagiri, 10.09.02). Ji's
 grounds for Dhauli are weak: Aśoka stūpas are Xuanzang's formula in almost every country, and Ji himself takes
 Puṣpagiri, "in the great mountains of the SW border", for Khandagiri, which lies only some 10 km NW of Dhauli.
-Mizutani stands.
+Patnaik's Tosalī at Radhanagar would part Tosalī from Dhauli, so that 高桑's equation of the capital with Tosalī, if
+kept, would point to Jajpur district rather than south of the Mahānadī; but his case is early historic, no inscription
+names the place, and Radhanagar has nothing of the 7th century, so it is not evidence for Xuanzang's capital. Mizutani
+stands.
 
 ### 10.09.02 補澁波祇釐僧伽藍 (Puṣpagiri) — Khandagiri/Udayagiri
 
@@ -611,6 +629,11 @@ figures are one kind of evidence; see the assessment.
 
 **Ji Xianlin et al. (1985).** Ji agrees that the capital is undecided (pp. 819–21). Besides the candidates here he
 reports 高桑駒吉's Srikakulam (ancient Sarapalli, from local inscriptions), some 25 km from Kalingapatnam.
+
+**Recent scholarship.** Patnaik (2023, pp. 369, 381) reports that some take Radhanagar in Jajpur district for the
+Dantapura of Pali literature (Prusti, Mohanty and Mishra 2000), though he prefers Tosalī (10.09), and compares its
+rampart with the planned fort at Dantapuram on the right bank of the Vaṃśadhārā in Srikakulam district. Both concern
+the early historic Kaliṅga of the tooth-relic legend, not the 7th-century capital.
 
 **Assessment.** Salihundam gives Kalingapatnam a large Buddhist establishment, but one named in the 2nd century, not
 the capital; and the stone stupa Ramachandran matches stands on a ridge "in the north of the country" (10.11.02a),
@@ -742,6 +765,9 @@ evidence; see the assessment.
 
 **Ji Xianlin et al. (1985).** Ji agrees: Veṅgī, near Pedda and Cinna Vegi 6 miles NW of Ellore, after 高桑駒吉 (p. 835).
 
+**Recent scholarship.** Shimada (2013, p. 177) repeats that at Peddavegi, "identified as ancient Vengipura of the
+Śālaṅkāyana dynasty", a stūpa was found inside the fortification near the northern wall; nothing new.
+
 **Assessment.** Elgandel and Warangal are Telingana guesses from distance. Veṅgī matches the name, Burnell's Telugu
 locative explains the last syllable, and the excavation shows a fortified city with stūpas, occupied under the first
 Eastern Chalukyas exactly when Xuanzang passed. Mizutani is strengthened.
@@ -785,13 +811,22 @@ Black-and-red Ware to a grey-ware period. No 7th-century level is reported, and 
 against Bezwada on the north. He also reports that a survey of 1881 found Bezwada's remains Brahmanical and its
 "caves" to be quarries.
 
+**Recent scholarship.** Shimada (2013, pp. 38–39) describes Dhaṃñakaṭaka (Dharanikota) as a roughly square city with
+mud fortifications c. 600 m a side and a moat-cum-wharf, and gives radiocarbon dates for the founding of the defences
+of c. 475–205 BC (±100). He finds no major construction at Amaravati after c. 250 AD, later pieces being small and
+carved on the backs of older slabs, and notes that Amaravati and many other Buddhist sites became known chiefly as
+Śaiva places in the 7th–11th centuries (p. 201), which fits Xuanzang's twenty-odd surviving monasteries among many
+ruined and his hundred deva temples. Nothing in his account is of the 7th-century city. A circuit of some 2.4 km is
+far short of the Xiyu ji's capital of "over 40 li" (國大都城周四十餘里).
+
 **Assessment.** Bezwada rested on its setting (10.14.03); Dharanikota now has the city's name in inscriptions on the
 spot and a fortified river town, which Bezwada lacks in these sources. The Wuxiang jing passage Ji cites adds an early
 5th-century text for a Dhānyakaṭaka on the south bank. Nāgārjunikoṇḍa was a 3rd-century Ikṣvāku capital and has no
-claim on the name. Mizutani is strengthened, with medium confidence, since the town is not shown to have stood in the
-7th century.
+claim on the name. Shimada's dates put the rampart in the last centuries BC and the decline of the Buddhist sites
+after c. 250; the walled town of c. 2.4 km is small for a capital of 40 li, and nothing yet shows it standing in the
+7th century. Mizutani is strengthened, with medium confidence.
 
-### 10.14.02a 弗婆勢羅僧伽藍 (Pūrvaśaila) — the Amaravati stupa site, most likely
+### 10.14.02a 弗婆勢羅僧伽藍 (Pūrvaśaila) — the Amaravati stupa site or an unlocated hill E of Dharanikota; open
 
 **Identifications.** Mizutani: the Amarāvatī great stupa site (agreed). Burgess (in Dey): the same. Watters
 (p. 221): "Neither Amaravati nor Vaikunthapur can be said to have any claim". He reports Rea's Pedda Madur.
@@ -813,9 +848,19 @@ Sātavāhana phases and one early medieval (IAR 1971–72, p. 1). None names Pū
 and Burgess's Bezwada stūpa (p. 843). He links the Life's "大夏之規式" to the Hellenistic look of the Amarāvatī sculpture
 (p. 842).
 
+**Recent scholarship.** Shimada (2013, p. 171) stresses that the Amaravati stupa, less than 1 km from the eastern wall
+of Dharanikota, "is not built on a hill, but on a plain". The Xiyu ji sets the convent 城東據山, "east of the city,
+resting on a mountain", with halls along cut cliffs (疏崖峙閣 … 枕巖接岫). From inscriptions of the 1st–2nd c. he assigns the
+Amaravati stupa to the Caityakas, Ghaṇṭasāla to the Aparaśailas, and Allūru and Takkellapādu, across the Krishna, to
+the Pūrvaśailas (p. 160; the Allūru record is Krishna Sastri's, above).
+
 **Assessment.** With the capital at Dharanikota (10.14), the great stupa a mile to the east answers to the eastern
-convent, and Pūrvaśaila monks are attested at Dharanikota. The Nāgārjunikoṇḍa Puvasela shows the name was not
-unique, so the identification remains inferred. Mizutani is strengthened, with medium confidence.
+convent in bearing and distance, and Pūrvaśaila monks are attested at Dharanikota. But the stupa stands on a plain,
+while the text sets the convent on a mountain among cliffs; in the 1st–2nd c. it belonged to the Caityakas, the sect's
+own houses lay at Allūru and Takkellapādu across the river, and Puvasela recurs at Nāgārjunikoṇḍa. A sect name of the
+2nd century does not locate a convent of the 7th, and no hill site east of the city has been argued. Two alternatives
+remain: the Amaravati stupa site, on bearing and distance, or an unlocated hill east of the city, on the text's
+description. Open; Mizutani is weakened, with low confidence.
 
 ### 10.14.02b 阿伐羅勢羅僧伽藍 (Avaraśaila) — on a hill W of Dharanikota; not Dharanikota itself
 
@@ -836,11 +881,18 @@ locates it.
 the city and commanding the river, to fit the description of both convents (p. 842), but the text puts Avaraśaila on a
 mountain W of the city.
 
+**Recent scholarship.** Shimada (2013, pp. 160, 202) puts the Aparaśailas of the 1st–2nd c. at Ghaṇṭasāla in the
+delta, and reads the Pātagaṇḍigūḍem copper plate, issued by the Ikṣvāku Ehuvula Cāṃtamūla (c. 263–307) in "the
+victorious war camp at Dhāṃñakaṭaka", as a grant to Aparaseliya monks at Pithunda, "an unidentified place in the north
+of Dhāṃñakaṭaka", to repair their monastery. Neither lies west of the city, and he does not connect either with
+Xuanzang.
+
 **Assessment.** The text puts Avaraśaila "west of the city, resting on a mountain". If the fortified town at
 Dharanikota is the city, as the inscriptions and excavations now suggest, Avaraśaila lay on high ground west of it,
 not at Dharanikota itself; Mizutani's own arrangement, with the capital between the two convents, implies the same.
-Fergusson's Amaravati tope is ruled out by the bearing. Mizutani is weakened in detail; site unlocated, low
-confidence.
+Fergusson's Amaravati tope is ruled out by the bearing. The Aparaśaila houses Shimada cites, at Ghaṇṭasāla and at an
+unlocated Pithunda north of the city, show the sect in the region but not west of it. Mizutani is weakened in detail;
+site unlocated, low confidence.
 
 ### 10.14.03 大山 (阿素洛宮) — a hill S of the capital: Takakuwa's SE of Amarāvatī, or the Bezwada rock
 
@@ -1243,9 +1295,27 @@ Martin; Cunningham; Watters (older view, via Mizutani)) here, not Mizutani's Vad
 **Ji Xianlin et al. (1985).** Ji agrees: Vadnagar, 17 miles SE of Sidhpur (p. 916). He notes that the Xiyu ji's
 wording suggests hearsay, while the Life takes Xuanzang there.
 
-**Assessment.** An inscription on the site names it Ānandapura, and Maitraka grants show a town of that name in
-Valabhī's sphere, as Xuanzang's dependency requires. The praśasti is 12th-century, but the name continuity is clear.
-Mizutani is strengthened, with high confidence.
+**Recent scholarship.** Y. S. Rawat (Gujarat State Department of Archaeology; IAR 2007–08, pp. 64–69; IAR 2009–10, pp.
+29–32) dug the fortified town: periods pre-Kṣatrapa, Kṣatrapa, post-Kṣatrapa and Maitraka, and Rājput; in trench A-1/I
+a wall of 76 Kṣatrapa and pre-Kṣatrapa courses under 53 Maitraka and Rājput ones, the town plan unchanged from the
+early centuries AD to the 13th (p. 69). Near the Ghaskol gate a Period II (Kṣatrapa) building with cells round a
+court, first compared with Buddhist monastery plans, is called a Buddhist monastery in 2009–10 (p. 29); finds include
+a plaque of the monkey's gift of honey, post-Kṣatrapa sealings with short Brāhmī legends (p. 67) and a Maitraka-period
+sealing with a seated bull and a Brāhmī legend, not read in the report (p. 69). Ambekar et al. (2023, p. 63) report
+two sealings with the legend "Anandpur rajño" from the Kṣatrapa level of the excavation, which carry the name on the
+spot back some four centuries before the Maitraka grants (citing Ambekar et al. 2019; the sealings are not illustrated
+or edited there). They also summarise the State excavation of 2006–12 (the Ghaskol monastery; a circular brick stūpa
+at Ambaghat of the 1st–4th c. with 34 sealings "namassarvajñāya") and the ASI's eight seasons of 2014–22: some 24 m of
+deposit, a rampart of the 2nd c. BC rebuilt in brick on the same line, and occupation without a break to the present
+(pp. 63–66, 77–79).
+
+**Assessment.** Inscriptions on the site name it Ānandapura: now sealings from the Kṣatrapa level as well as the
+12th-century praśasti, and Maitraka grants show a town of that name in Xuanzang's century, within the Maitraka realm
+whose eastern branch the study takes for Mālava (11.05), as his 役屬摩臘婆國 requires. The excavations show a
+walled town occupied without a break through the Maitraka period, with a Buddhist monastery and stūpa in the town,
+though the Buddhist buildings are dated to the early centuries AD and are not shown in use in the 7th. The sealings
+are known so far only from the excavators' summary. The Life's route figures still favour a place near Ahmadabad
+(route test). Mizutani is strengthened, with high confidence.
 
 ### 11.10 蘇剌侘國 (Surāṣṭra) — Kathiawar, capital Junāgaḍh (Girinagara); named on the Girnar rock
 
@@ -1614,13 +1684,21 @@ parts of Jhalawan and E Makran (Lambrick 1964) here, not Mizutani's Lakorian (La
 city there, whose old name Lakura he finds close to 狼揭羅 (pp. 937–8); Stein found no such city (above). He records the
 capital's restorations Sunuriśvara, Sambhuriśvara and Strīśvara, not Sthūleśvara.
 
+**Recent scholarship.** Besenval (1994, pp. 516, 524), from the French mission's surveys and soundings in Pakistani
+Makran (Miri Qalat near Turbat; the Kech, Nihing and Dasht valleys; the coast to Gwadar and Jiwani), builds an
+eight-period sequence in which period VII ("indo-sassanide", 6th–7th c.) should answer to the large Buddhist
+population Xuanzang reports, but "Cette période n'a pas encore été identifiée dans les vestiges archéologiques que
+nous avons enregistrés"; the early Islamic sites found are of the 10th–12th c. The Iranian side was not surveyed.
+
 **Assessment.** The capital's name is Sthūleśvara; the Skandapurāṇa locates that liṅga at the Indus mouth. Mizutani's
 Lākoriān now fails on three counts: the bearing (north, not west), the site (irrigation dams and no ruined city, per
 the Jhalawan gazetteer and Stein), and the political note (Makran east of the Persian border was Sind's c. 635, while
 狼揭羅 was subject to Persia). Western, Persian Makran fits the bearing, the distance and the subjection to Persia;
 Kasarkand on the Kech valley road is a candidate for the capital (Mirchandani), but the Life's leg to Pītaśilā
-(north-east 700 li) suits a Laṅgala nearer Las Bela or eastern Makran (Lambrick). Region: Makran, with the capital
-probably in the west; Lākoriān weakened; low to medium confidence.
+(north-east 700 li) suits a Laṅgala nearer Las Bela or eastern Makran (Lambrick). Besenval's survey, like Stein's,
+found no 6th–7th-century or Buddhist remains in Pakistani Makran; it did not reach Persian Makran or Las Bela, so it
+decides nothing between them. Region: Makran, with the capital probably in the west; Lākoriān weakened; low to medium
+confidence.
 
 ### 11.20 波剌斯國 (Pārsa) — Persia; capital Persepolis/Istakhr
 

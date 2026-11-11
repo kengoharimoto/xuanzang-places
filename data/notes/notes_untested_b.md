@@ -145,7 +145,11 @@ are the Buddha's. Konow (CII 2.1, p. 8) edits the 11-letter inscription (c. mid-
 checks Xuanzang's 30 li SW of Apalāla's spring at Kalam. The Life (T50:0230b) gives the same position.
 **Ji Xianlin et al. (1985).** Ji agrees: Tirat village on the W bank of the upper Swat; the stone is 1 m high and 0.87
 m wide, with the Kharoṣṭhī label read by Konow (p. 277).
-**Assessment.** An inscribed monument matching the description, in the right place. Secure.
+**Recent scholarship.** Bibi (2017, p. 65) reports that the footprint stone is now displayed in the Swat Museum. Stein
+had seen beside it a large mound of a demolished stūpa, with a local tradition of a "Gumbat", no longer visible, and
+Tucci found Buddhist sculpture in situ round it.
+**Assessment.** An inscribed monument matching the description, in the right place; the stone has since been moved to
+the Swat Museum (Bibi 2017). Secure.
 
 ### 03.01.04a 如來濯衣石 — the robe-washing rock downstream of Tirat (Stein)
 
@@ -154,8 +158,11 @@ Tirat (agreed). Beal: none.
 **Evidence.** Stein (AR 1925–26, p. 161) says the second site both pilgrims mention was also traced. Konow (CII 2.1,
 p. 9) has only an estampage of a rock with natural cross-lines and traces of Kharoṣṭhī, of vague provenance, from one
 of Deane's "unreliable" agents.
+**Recent scholarship.** Bibi (2017, p. 65) describes Stein's rock on the right bank of the Swat, with Sanskrit and
+Arabic graffiti, and reports after R. Khan (2014, pp. 96–97) that it "has been blasted some years back".
 **Assessment.** It follows from the secure footprint stone (30 li downstream), and Stein reports finding it, but the
-rock is not described in these files and Konow's estampage proves nothing. Mizutani stands (medium).
+rock is not described in these files, Konow's estampage proves nothing, and the rock itself is reported destroyed
+(Bibi 2017), so the identification can no longer be checked on the ground. Mizutani stands (medium).
 
 ### 03.01.05 醯羅山 — Mount Ilam (Stein); the mountain fits, the distance does not
 
@@ -175,6 +182,9 @@ page), and reads it as the total of a roundabout itinerary: Manglaur – Mahāva
 Karakar pass – Ilam, about 62 road miles by the sum of his stage figures (0.25 km per li, the normal value;
 route/README.md §10, Test 4). He reconstructed that itinerary to fit the figure, so it explains the distance without
 confirming it.
+**Recent scholarship.** Olivieri (2016, p. 30) notes that Mount Ilam, the Ram-takht of the Hindus, keeps the Tibetan
+toponym Hilo (after Olivieri 1996, p. 69 n. 33) and is called in Pashto Jogiano-sar, "Yogin's peak", with a folk tale
+of a Buddhist master and a pupil who died trying to fly from the top. A name and a folk memory, not a monument.
 **Assessment.** Stein's fieldwork matches the description and the cult, and no rival exists. The 400 li is far too
 long for the direct way from any capital in the Swat valley, but fits Stein's roundabout itinerary. Mizutani stands,
 medium.
@@ -186,10 +196,13 @@ Dey: the Adinzai valley near Chakdarra (Stein). Beal and Watters: none.
 **Evidence.** None in these files beyond Deane's and Stein's statements; the Suma stūpa in the same valley rests on
 Deane's report of a surviving name (03.01.09a).
 **Ji Xianlin et al. (1985).** Ji agrees: Deane's Adinzai valley, joining the Swat at Chakdara (p. 285).
+**Recent scholarship.** Bibi (2017, p. 67) agrees on Deane's Adinzai valley and reports R. Khan (2014, p. 106), who
+names Andan Dheri and Sapar (Saparuna) as the probable sites of the monastery and its stūpa; no evidence is given.
 **Assessment.** Two field men agree on the valley, but the monastery and its 80-ft stūpa are not identified on the
-ground. Low confidence; nothing contradicts Mizutani.
+ground; Khan's Andan Dheri and Sapar, reported by Bibi without argument, are new candidates. Low confidence; nothing
+contradicts Mizutani.
 
-### 03.01.10 上軍王窣堵波 — the Shankardar stūpa; distance and bearing fit exactly
+### 03.01.10 上軍王窣堵波 — the Shankardar stūpa; distance and bearing fit exactly; Nawe-kalai (Tucci) the rival
 
 **Identifications.** Mizutani: Shankardar stūpa, E bank of the Swat c. 20 km S of Mingora (Stein, Mizuno) (agreed).
 Beal (p. 126): E bank of the Swat; Watters: none.
@@ -198,8 +211,17 @@ the Kurram casket naming Ucharsana (= Uttarasena?) comes from Kurram, not Swat. 
 for "60–70 li SW" (predicted 15.5 km), bearing exact.
 **Ji Xianlin et al. (1985).** Ji agrees: Stein's Shankardar stūpa on a hillock on the E bank of the Swat c. 20 km S of
 Mingora (p. 286).
-**Assessment.** A standing stūpa on the E bank, as the text has it, at the right distance and bearing, with Deane, Stein
-and Mizutani agreeing; nothing names it. Probable (medium).
+**Recent scholarship.** Filigenzi (2015, pp. 144, 222, 226) reports that Tucci (1958, pp. 294, 299–302) rejected
+Deane's and Stein's Shingardar as highly unlikely and put the Uttarasena stūpa at Nawe-kalai (34°39′N, 72°11′E), where
+excavation in the late 1980s found a Buddhist sacred area (Abdul Nasir and Faiz-ur-Rehman 1996, as Barabru), with rock
+reliefs and traces of ancient canals nearby. She rejects Stein's reading of the Hindu-ghar relief C116 at Ghalegai as
+Uttarasena the donor (it is late, comparable with Palola Ṣāhi bronzes), and does not decide between the stūpas. From
+the study's points Nawe-kalai lies 21.7 km at 228° from Mingora (0.33 km per li for 60–70 li SW; Shankardar 15.6 km,
+exact), and 28.8 km from Manglaor. Tucci is not read here.
+**Assessment.** A standing stūpa on the E bank, as the text has it, at the right distance and bearing, with Deane,
+Stein and Mizutani agreeing; nothing names it. Tucci's Nawe-kalai, reported by Filigenzi, is a rival with an excavated
+Buddhist sacred area, a little long on the distance but on the right bearing. The authorities conflict and nothing
+found names either site: open, Shankardar the better fit on the route, low confidence until Tucci's argument is read.
 
 ### 03.01.10a 白象化石 — the elephant rock near Ghalagai, beside the Shankardar stūpa
 
@@ -230,8 +252,15 @@ also has l); no Sanskrit *Darela is attested, and the Sanskrit sources have only
 Either reading leads to the same valley; medium confidence (data/names/).
 **Kuwayama (2002).** Faxian's 陀歷 and Xuanzang's valley are the same; he places it where the Indus turns from W to SW,
 "or around Chilas" (p. 145). Agrees.
-**Assessment.** Name and agreement, with the route bearing exact and the distance normal along the Indus road; no
-site evidence. Mizutani stands (medium).
+**Recent scholarship.** Neelis (2011, pp. 273–275, 287) puts Da-li-luo in a valley of an upper Indus tributary between
+Shatial and Chilas (Darel or Tangir) and stresses that no remains of the Maitreya shrine or its monasteries have been
+found, though the upper Indus has abundant petroglyphs and Kharoṣṭhī and Brāhmī graffiti; Xuanzang's information was
+secondhand. Miyaji (1988, pp. 116–117) gathers the textual witnesses to the image (Faxian; Baoyun and Fasheng in the
+名僧伝, Fasheng seeing it "NE of Udyāna"; Xuanzang) and, after Kuwayama 1987, doubts that Xuanzang saw it. Bibi (2017, p.
+68) reports the gold ornament of c. 16 kg found at Pattan in Indus Kohistan, which Farooq Swati and Nasim Khan linked
+to the lost wooden Maitreya; Pattan lies downstream of Darel, not in it, and the link is conjecture.
+**Assessment.** Name and agreement, with the route bearing exact and the distance normal along the Indus road; no site
+evidence, and the shrine itself has not been found (Neelis 2011). Mizutani stands (medium).
 
 ### 03.02 鉢露羅國 (balūra) — Baltistan; Chitral was once proposed
 
@@ -250,13 +279,18 @@ assessment (data/names/).
 **Kuwayama (1990, 2002).** 鉢露羅 is Zhimeng's 波倫, Bolor or Palur (2002, p. 145), reached by the 5th-century pilgrims
 from Tashkurghan over the Naizatash, Ishkoman or Darkot passes (p. 146), which puts it at Gilgit (1990, p. 149). This
 is the 5th-century Bolor on the pilgrims' road; he does not discuss Baltistan or the 500 li E of Darel.
+**Recent scholarship.** Neelis (2011, pp. 176–177, 275) takes Xuanzang's Bo-lu-luo for the realm of the Palola Ṣāhis
+of Gilgit (late 6th–mid 8th century), attested as Buddhist patrons in colophons, rock inscriptions and inscribed
+bronzes, and unnamed by Xuanzang because his information was secondhand. In the 8th century Huichao distinguishes
+Great Bolor (Tibetan) from Little Bolor (Chinese side, presumably the Palola Ṣāhis), and in 753 the Chinese took the
+capital of Baltistan (Great Bolor) at Katsura near Skardu. He does not argue against Baltistan for the 7th century.
 **Assessment.** Agreement and bearing; no site evidence. The name (*Palola) is that of the Palola Ṣāhis, whose
-7th-century inscriptions and manuscripts come from Gilgit and Hatun, which points to the Gilgit side of their kingdom.
-Ji, however, takes 鉢露羅 for the Tang histories' Great Bolor (大勃律), distinct from Little Bolor in the Gilgit–Yasin
-valleys, and the route does not decide: Skardu lies at the text's bearing but at twice the distance (198 km for 500+
-li), Gilgit at the distance (c. 82 km) but 24° off to the NE. The name identifies the kingdom rather than its seat.
-Baltistan stands, with Gilgit as an alternative; low confidence, since the country is hearsay and the Palola reading
-is reported, not checked here.
+7th-century inscriptions and manuscripts come from Gilgit and Hatun, which points to the Gilgit side of their kingdom;
+Neelis (2011) and Kuwayama take Bolor as Gilgit. Ji, however, takes 鉢露羅 for the Tang histories' Great Bolor (大勃律),
+distinct from Little Bolor in the Gilgit–Yasin valleys, and the route does not decide: Skardu lies at the text's
+bearing but at twice the distance (198 km for 500+ li), Gilgit at the distance (c. 82 km) but 24° off to the NE. The
+name identifies the kingdom rather than its seat. Baltistan stands, with Gilgit as an alternative; low confidence,
+since the country is hearsay and the Palola reading is reported, not checked here.
 
 ### 03.03.02 醫羅鉢呾羅龍王池 (elāpattra) — the Baba Wali (Panja Sahib) spring at Hasan Abdal
 
@@ -283,6 +317,10 @@ basement; 03.04.02 reads the same structure as a stūpa.
 **Ji Xianlin et al. (1985).** Ji gives no site. Since Mahāvīra taught only in Middle India, he takes the claim that
 the founder first preached near the Siṃhapura capital for a hearsay accretion (p. 316), part of his case that Xuanzang
 knew the country by report (03.04). That bears on the legend, not on where Xuanzang's informants pointed.
+**Recent scholarship.** Dar and Hameed (2018, pp. 53–54, 65–66) agree with Stein on Murti, whose stūpa was in its last
+phase probably Jaina, with a Hindu temple beside it and Murti red-sandstone sculpture taken to Lahore. They also say
+that the Katas stūpa base (03.04.02) was already in Jaina and Hindu hands in Xuanzang's time, so both sites show Jaina
+use; they do not place the founder's spot itself.
 **Assessment.** Murti offers Jaina remains beside a stūpa; Ketas offers only an undated basement. Open, with Murti
 the better-supported alternative.
 
