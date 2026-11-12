@@ -11,7 +11,8 @@ This file tracks the later literature: what has been found, what has been read a
   November 2026, with a second round for the gaps; the searches ran out of budget part way, so coverage is uneven (see "Gaps"). Rows whose citation says
   "to verify" or "from memory" were not checked against a catalogue.
 - **Coding:** `data/LIT_INSTRUCTIONS.md`; coded rows in `data/coded/lit_batch*.tsv` (1 A, 2 C, 3 D, 4 E, 5 B; 6-7 later downloads; 8 Bamiyan,
-  9 Errington 2017, 10 A, 11 B/E/X, the downloads of 2026-11-12), quotes
+  9 Errington 2017, 10 A, 11 B/E/X, the downloads of 2026-11-12; 12 A, 13 ANP and Palola, 14 Swat/Gandhāra/Kashmir,
+  15 Lumbini and Tilaurakot, 16 Sonkh and Maheth, 17 Āndhradeśa, the Chrome downloads of 2026-11-12), quotes
   checked with `scripts/check_quotes_asr.py`. They appear in `places.tsv` (`lit`, `lit_n`, `lit_evidence`) and on the map
   ("Recent scholarship (since 1985)"), and are folded into the notes as **Recent scholarship.** paragraphs.
 - **IAR 2007–14:** six later volumes of *Indian Archaeology – A Review* (2007–08, 2009–10 to 2013–14, from the ASI

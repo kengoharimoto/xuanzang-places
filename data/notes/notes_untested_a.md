@@ -252,6 +252,13 @@ name is Buzgala); the narrow iron-coloured defile matches. Route test: Kesh to t
 The Life calls it the Türk frontier pass.
 **Ji Xianlin et al. (1985).** Ji agrees: the Buzgala defile, c. 3 km long, in the Baysun-tau 90 km S of Shahr-i Sabz
 (p. 99).
+**Recent scholarship.** Stančo et al. (2022, pp. 91, 93, 110) report the Czech-Uzbek season of 2019 at the Darband
+wall at Darband (Derbent) village on the upper Sherabad Darya, which they place "in the vicinity of the famous Iron
+Gate of Darband". Their "Iron Gate" is the area of this barrier wall across the valley at the village, a different
+spot from the Buzgala defile W of Derbent that the study, Watters and Ji take for Xuanzang's gate. A metal-detector
+survey (629 finds, 365 of them coins) and the cleaning of a highway cut exposed four walls, the earliest of stone on a
+pakhsa base, with no datable material; the authors frame the wall as Hellenistic and Yuezhi/Kushan military control
+and report nothing of the 7th century. It does not test the site of Xuanzang's gate.
 **Assessment.** Secure: an extant defile matching the description, the historical name, and all authorities.
 
 ### 01.20.02 覩貨邏國 (Tukhāra) — Tokharistan; extent disputed, region not
@@ -385,8 +392,20 @@ Schlumberger (1949); he cites Stavisky (1977) and Uchida Gimpū's reading of 拔
 **Name.** Bactrian: βαχλο Baxl, "a city, modern Balkh" < *baxδri- (BDNA II p. 202). 縛喝 ba-xl writes x before l as the
 Bactrian does, so Xuanzang heard Baxl, not the later Balkh, whose l-x order is post-Bactrian; the identification is
 unaffected (data/names/bactrian.tsv).
-**Assessment.** Secure on the name, and Foucher's survey places the walled royal city of Xuanzang's time in the
-Bālā-Hisār. Mizutani stands.
+**Recent scholarship.** Bernard, Besenval and Marquis (2006) report the DAFA excavations of 2004–05 inside Balkh. A
+Kushan stupa in the Tepe Zargaran quarter (Creissen, 2004; pp. 1217, 1227–1228), a platform 6 m square faced with
+dressed limestone whose plundered relic deposit held a coin of Soter Megas, was abandoned and buried to the top of its
+platform long before 630, with Kushano-Sasanian and Hephthalite pottery in later phases; it is not among the buildings
+Xuanzang saw. Stones from Buddhist buildings reused in hydraulic works 400 m away lead Bernard (p. 1240) to a
+Sasanian-period dismantling, and to read Xuanzang's 100 monasteries and 3,000 monks as a Buddhism restored afterwards.
+A 2005 trench across the NE rampart (Mongne; pp. 1207–1209, 1215–1216) shows at least four building phases (towers, a
+galleried wall with a postern and arrow slits, a pisé casing) but no coins and almost no pottery, so no absolute date;
+Le Berre and Schlumberger (1964) had dated this NE enlargement of the city to the Great Kushans or to the 4th–5th
+century (n. 42). Bernard (p. 1240) takes Xuanzang's 二十餘里 for a wall c. 10 km long.
+**Assessment.** Secure on the name. Foucher's survey places the royal city in the Bālā-Hisār; the study adds, as its
+own reckoning (Bernard does not say which wall Xuanzang measured), that a circuit of 20-odd li (c. 10 km) fits the
+outer town wall better than the Bālā-Hisār enclosure (c. 150 ha) alone. Which wall the 20 li measure is open; the
+rampart was in use and rebuilt in the centuries before 630, but the excavated section is undated. Mizutani stands.
 
 ### 01.32.01 納縛僧伽藍 (Nava-saṃghārāma) — the Nau-bahār of Balkh; stupa probably Top-i-Rustam
 
@@ -400,6 +419,16 @@ restored before 630. He admits that the monastery and the vihāra are not found 
 text, and rests the case on the stūpa (I, pp. 84, 96).
 **Ji Xianlin et al. (1985).** Ji gives the Nau-Vihār of the Arab geographers (Yijing's 納婆毗訶羅) but no site;
 Top-i-Rustam is not mentioned (p. 118).
+**Recent scholarship.** Bernard, in Bernard, Besenval and Marquis (2006, pp. 1236–1237, 1239), restates Foucher's
+excavation of Top-e Rustam as the large stupa the pilgrim mentions with the Navasaṃghārāma in the SW suburb: stripped
+of its fired-brick facing and coarsely recased in mud brick, the state Xuanzang would have seen in 630; Foucher
+estimated its total height at 60 m (base 54 m square; n. 82), and Bernard accepts a Great Kushan foundation but not
+Foucher's blaming of the damage on the Hephthalites. He dates the dig to spring 1925, where Besenval (p. 1176) and
+Foucher give 1924. The study's own comparison, not the authors': 60 m is of the order of the text's 高二百餘尺 (c. 59 m at
+a Tang chi of c. 29.5 cm). The Islamic sources Bernard cites (pp. 1233 n. 67, 1239, 1240 n. 93) show the Nawbahār a
+working Buddhist temple at Balkh after Xuanzang (its official Barmak killed in 654 by Tarkhun Nizak for converting to
+Islam; a Nizak praying there in 705, Ṭabarī II, 1205) and a ruin with paintings in 982 (Ḥudūd al-ʿĀlam), but give no
+position within Balkh.
 **Assessment.** The monastery is secure by name at Balkh. Its stūpa is probably Top-i-Rustam: Foucher's excavation
 shows a large Buddhist stūpa in use in Xuanzang's time in the right quarter, though nothing names it and the monastery
 has not been found. Mizutani is strengthened.

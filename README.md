@@ -28,10 +28,10 @@ Five kinds of evidence were set against him:
 - *Epigraphia Indica* and the *Corpus Inscriptionum Indicarum*;
 - the district gazetteers.
 
-A sixth, added in November 2026, is the scholarship since Ji (1985): 454 items listed, 84 read and coded so far, and
+A sixth, added in November 2026, is the scholarship since Ji (1985): 454 items listed, 103 read and coded so far, and
 *Indian Archaeology – A Review* extended to 2013–14 ("Recent scholarship" below; `data/LITERATURE.md`).
 
-**What they show.** 442 of the 480 places have a note (Mizutani's 419 and 61 added ones). The 38 without a note are
+**What they show.** 446 of the 480 places have a note (Mizutani's 419 and 61 added ones). The 34 without a note are
 minor sites that have no point either. Taking Mizutani's identifications as the starting point (his translation covers every place), the evidence:
 - supports his identification for 100 places, 59 of them with high confidence, many with an inscription or seal
   naming the place;
@@ -39,7 +39,7 @@ minor sites that have no point either. Taking Mizutani's identifications as the 
 - supports a different site, or leaves the place open between his and another, for 71;
 - offers a candidate no standard authority records for 25.
 
-On the map the study's confidence comes out as 105 places secure, 154 probable and 121 open. These are the ratings
+On the map the study's confidence comes out as 104 places secure, 155 probable and 121 open. These are the ratings
 after a quality check of 30 notes and an audit of every "high" rating without site evidence, and a second check of
 27 paragraphs added later (Ji, names, Bactrian, Stein/Drew, Kuwayama: 19 ok, 8 minor, all fixed; `data/notes/qc2_*.tsv`).
 Another 50 minor sites are placed approximately from Xuanzang's own bearing and distance, without an identification
@@ -146,14 +146,16 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
   Internet Archive OCR, in `data/ref/baluch/` (gitignored). The identifiers are listed in
   `../yoga-gazetteers/regions/data/selection.tsv` (BAL*). They are coded as B001–B055 in `data/coded/gaz_batch10.tsv`.
 - **Recent scholarship, 1985–2026** (`data/LITERATURE.md`, `data/literature.tsv`, `data/LIT_INSTRUCTIONS.md`). A
-  bibliography of 454 items built region by region in English, Japanese, Chinese and European languages; 84
-  items read and coded (`data/coded/lit_batch1-11.tsv`, 177 relevant rows, quotes checked; Tsuchiya 2010 OCR'd with Google Vision), shown on the map
+  bibliography of 454 items built region by region in English, Japanese, Chinese and European languages; 103
+  items read and coded (`data/coded/lit_batch1-17.tsv`, 243 relevant rows, quotes checked; Tsuchiya 2010 OCR'd with Google Vision), shown on the map
   as "Recent scholarship (since 1985)" and folded into the notes as **Recent scholarship.** paragraphs. Among them:
   Falk 2017 and Davis et al. 2016 (Kapilavastu, Rāmagrāma), Kuwayama's papers of 1985–99 and Miyamoto 2012–18
   (Afghanistan, Tokharistan), Naiki 2015 and 2021 (Chanaka Dheri, Taxila), Dar & Hameed 2018 (Siṃhapura), Verardi 2012
   and Filigenzi 2015 (Kashmir Smast, Swat), Shimada 2013 (Amarāvatī), Ambekar et al. 2023 (Vadnagar), Talati 2024 and
   Zhang 2016 (Khotan), the Ak-Beshim reports with Jokura et al. 2017 (the Du Huaibao stone), the ICOMOS radiocarbon dates and Tarzi 2007
-  (Bamiyan), Errington 2017 (Masson's Nagarahara and Hadda), Sims-Williams 2002 (Gūzgān), and Deepak Anand's field reports from Magadha (a blog, cited as such and
+  (Bamiyan), Errington 2017 (Masson's Nagarahara and Hadda), Sims-Williams 2002 (Gūzgān), Bernard et al. 2006 (Balkh), *Antiquities of Northern Pakistan* 1–3 and von
+  Hinüber 2004 (Palola), *The Sacred Garden of Lumbini* (2nd ed. 2019; Tilaurakot and the Greater Lumbini sites),
+  Deeg 2025 and *Early Āndhradeśa* (2025), and Deepak Anand's field reports from Magadha (a blog, cited as such and
   never the sole ground for a rating). *Indian Archaeology – A Review* 2007–08 and 2009–10 to 2013–14 (ASI
   Aurangabad Circle PDFs, text by pdftotext) were added to the IAR index, with 1990–91 and 1993–94 (missing from the study's scans) and a pass over all
   volumes for sites the index had lacked (Banavasi, Valabhī, Ujjain, Kanchipuram, the Odisha and Andhra sites, Tamluk,
@@ -211,7 +213,7 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      Sarvāstivāda 11, Mahāyāna-Sthavira 4, Sthavira 2, Mahāsāṃghika 2, Lokottaravāda 1.
    - **Other traditions, across all places:** Pāśupata 15, Śaiva 11, Jain (mostly Digambara, 露形) 12, Sūrya 2,
      Kāpālika 1.
-8. **Notes** (`data/notes/notes_*.md`, 442 notes). The disputed places came first (312 notes). A second pass
+8. **Notes** (`data/notes/notes_*.md`, 446 notes). The disputed places came first (312 notes). A second pass
    (`notes_untested_*.md`, `data/NOTES_UNTESTED_INSTRUCTIONS.md`) covered the 129 places not yet assessed, with all
    the evidence then available. Each note gives the identifications, then the
    evidence in sections:
@@ -290,8 +292,8 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      and Life passages with translations, and the note.
 ## What the recent scholarship changes
 
-The pass over the literature since 1985 (November 2026; `data/LITERATURE.md`) changed 86 updates rows. Most add
-evidence or candidates; these change the picture:
+The pass over the literature since 1985 (November 2026; `data/LITERATURE.md`) changed 86 updates rows, and the 19 items downloaded on 12 November 29 more (four of them new notes for minor
+Kapilavastu sites). Most add evidence or candidates; these change the picture:
 
 - **Kapilavastu** (06.02) is open again between Piprahwa–Ganwaria and Tilaurakot (low): see above. Its dependent
   sites follow; Gotihawa stands on its own evidence as Krakucchanda's town (06.02.05, Mauryan stūpa and pillar stump in
@@ -309,7 +311,8 @@ evidence or candidates; these change the picture:
   li, is a new candidate (Falk 2017; low); Dharmauli the alternative. The charcoal stūpa (06.03.04) is open between
   Lauriya-Nandangarh, Rajdhani and Falk's Rampurwa, none fitting every leg.
 - **Gandhāra:** Varuṣapura (02.04.14) drops from high to medium: nothing at Shahbaz Garhi names it, and Errington's
-  Shahr-i Bahlol (1993, not yet read) is a rival. The Bhīmā shrine (02.04.17) is open between Karamar, which fails
+  Shahr-i Bahlol (1993, known only through Khan Khattak 2019's quotation, where it is a premise) is a rival,
+  with the Takht-i-Bāhī hill for Daṇḍaloka, which lies NNW of the town where the text has NE. The Bhīmā shrine (02.04.17) is open between Karamar, which fails
   Xuanzang's bearing, and Kashmir Smast, with an excavated Śaiva complex and reported Bhīmā inscriptions but twice
   the distance. A slab "said to come from Hund" names Udabhāṇḍa (02.04.18; Kimmet 2021).
 - **Taxila:** Naiki (2021) puts the 7th-century city in Rawalpindi and the Treasure stūpa at the Dharmarājikā. His city
@@ -317,6 +320,19 @@ evidence or candidates; these change the picture:
   Pind and the Dharmarājikā, deserted after a massacre in the late 5th century as the text's 久絕僧徒 requires.
 - **Swat:** the Uttarasena stūpa (03.01.10) is open between Shankardar and Tucci's excavated Nawe-kalai; several sites
   gain candidates reported by Bibi (2017; low).
+- **Bolor** (03.02): the rock inscriptions settle the name as *Palola, the country of the Palola Ṣāhis (von Hinüber
+  2004, pp. 105–106), whose dated royal inscriptions are all in the Gilgit valley (671, 687). The seat stays open
+  between Baltistan (Jettmar, from 8th-century sources) and Gilgit; the one Baltistan inscription (Shigar) names
+  another king and is 6th-century.
+- **Kapilavastu** (06.02), from *The Sacred Garden of Lumbini* (2nd ed. 2019): Tilaurakot has a street grid of the
+  Kushan period and building after it (a Gupta-style structure under Samai Mai), where Ganwaria has nothing after
+  c. 300; but the excavators assume the identification and nothing names the place, so it stays open. A walled
+  central complex and a monastery east of the city are candidates for 06.02.x2 and 06.02.x1 (undated, low).
+- **Veṅgī** (10.13) drops from high to medium: Peddavegi is "very plausible, but we do not have any hard proof"
+  (Francis 2025), since nothing on the site names it. The inscriptions naming Dhaññakaḍa (10.14) were found
+  elsewhere and are of c. 300 or earlier, so Dharanikota stays medium. **Balkh** (01.32): Bernard reads the 20 li
+  as a wall of c. 10 km, which suits the outer town wall better than the Bālā-Hisār; which wall Xuanzang measured
+  is open.
 - **Andhra:** Pūrvaśaila (10.14.02a) is weakened and open: the Amarāvatī stūpa stands on a plain (Shimada 2013), the
   text puts the convent on a mountain (據山). Vadnagar gains sealings reading "Anandpur" from the Kṣatrapa level
   (11.09; Ambekar et al. 2023).
@@ -408,9 +424,9 @@ These are medium- or high-confidence proposals that move away from Mizutani; how
 ## Limits
 
 - **Later scholarship.** Mizutani is the 1971 state of the question; Ji (1985) brings it to about 1980. Of the work
-  since then, 84 items have been read (`data/LITERATURE.md`); the searches ran out of budget part way, so
+  since then, 103 items have been read (`data/LITERATURE.md`); the searches ran out of budget part way, so
   coverage is uneven, and the key books and paywalled reports (Coningham et al. 2018 on Tilaurakot, Srivastava 1996,
-  the Rissho and Kansai reports, Kuwayama's Rinsen volumes, Errington 1993 (Errington 2017 is read), Saran 2008 on Juafardih, the Telhara
+  the Rissho reports and the full Kansai report on Maheth (only its KAKEN summary is read), Kuwayama's Rinsen volumes, Errington 1993 (Errington 2017 is read, and Errington 1993 is known through Khan Khattak 2019's quotation), Saran 2008 on Juafardih, the Telhara
   report) are listed there as wanted. Works cited at second hand are marked "not read" in the notes. *Indian
   Archaeology* is in up to 2013–14, without 2001–07 and 2008–09.
 - **Original names.** All 359 forms have been tested: the 92 asterisked or queried ones, and the 267 "secure" ones

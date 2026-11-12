@@ -762,12 +762,20 @@ Burgess's Śrīśailam fits the Tibetan name Śrīparvata and the old monastery 
 proposal. He compares Faxian's and Huichao's accounts and, like K. Harimoto's note, explains Faxian's 鴿 (pāravata) as
 a mishearing of parvata.
 
+**Recent scholarship.** Deeg (2025, pp. 579 n. 60, 583) notes that Xuanzang's description of the two convents of
+Dhānyakaṭaka (10.14.02a–b) repeats, partly verbatim, that of Bhramaragiri, and reports Tournier's question: since
+Xuanzang alone ties Nāgārjuna to Bhramaragiri while most of the evidence ties him to Andhra, was the legacy of
+Nāgārjuna's monastery transferred from Andhra to a well-known monastery further north? Deeg adds that a king
+Sātavāha(na) had very likely already been linked with Nāgārjuna and with a region further north, Kosala, rather than
+with Andhra. Neither locates the mountain.
+
 **Assessment.** Xuanzang puts Bhramaragiri 300 li SW of the Kosala capital. With Sirpur now secure (10.12), Arang has
-the bearing and a hill-name close to Bhramara (both bhramara and bhṛṅga mean "bee", glossed 黑蜂 in the text; this
-point is not made in these sources). Śrīparvata at Nāgārjunakoṇḍa has the Nāgārjuna association and the name of
-Faxian's monastery, but lies far to the south, outside Kosala. Arang is the better-supported candidate for Xuanzang's
-mountain, though nothing Buddhist is reported on its hill and the Arang record is known here only from Mirashi's mention:
-alternative, low confidence.
+the bearing and a hill-name close to Bhramara (both bhramara and bhṛṅga mean "bee", glossed 黑蜂 in the text; this point
+is not made in these sources). Śrīparvata at Nāgārjunakoṇḍa has the Nāgārjuna association and the name of Faxian's
+monastery, but lies far to the south, outside Kosala; and if, as Tournier and Deeg suggest (2025), the Nāgārjuna story
+was moved north from Andhra to a known Kosala monastery, the association no longer points to Nāgārjunakoṇḍa. Arang is
+the better-supported candidate for Xuanzang's mountain, though nothing Buddhist is reported on its hill and the Arang
+record is known here only from Mirashi's mention: alternative, low confidence.
 
 ### 10.13 案達羅國 (Andhra) — capital Veṅgī at Peddavegi, excavated 1984–87
 
@@ -798,11 +806,38 @@ evidence; see the assessment.
 **Ji Xianlin et al. (1985).** Ji agrees: Veṅgī, near Pedda and Cinna Vegi 6 miles NW of Ellore, after 高桑駒吉 (p. 835).
 
 **Recent scholarship.** Shimada (2013, p. 177) repeats that at Peddavegi, "identified as ancient Vengipura of the
-Śālaṅkāyana dynasty", a stūpa was found inside the fortification near the northern wall; nothing new.
+Śālaṅkāyana dynasty", a stūpa was found inside the fortification near the northern wall; nothing new. Deeg (2025, pp.
+575, 583 and n. 78) reconstructs 瓶耆羅 as *Veṅgi(pu)ra: Xuanzang regularly writes -pura as 補羅, so the form he heard may
+already have lost the p (Mizutani's Telugu *veṅgiura). He takes the site from Subramanian 1932 and Sarma 2002, but his
+"earliest stratum dated to the 4th / 5th cent." passes over the 2nd–3rd-century Brāhmī records found there (above),
+and he reads the Andhra and Dhānyakaṭaka entries as a shift of the political and religious centres from the Krishna to
+Veṅgī on the Godavari side (pp. 583–585).
+
+Francis (2025, pp. 343–346, in Griffiths, Tournier and Shimada eds.), editing the Śālaṅkāyana charters (EIAD 159–168),
+seven of them issued from Vijayaveṅgīpura and two from Vijayaveṅgī, sets out the case for Peddavegi: Hultzsch's (1908)
+mound that the villagers called the temple of Citrarathasvāmin, the plates of EIAD 165 found in nearby Kolleru lake,
+and the Elūra of EIAD 159 = Eluru, 7 miles away. Sarma's excavations (2002) gave a brick stūpa of the 4th–5th c. and
+Viṣṇukuṇḍin temples, but no Śālaṅkāyana inscription or coin and no Citrarathasvāmin temple, so that the identification
+"remains very plausible, but we do not have any hard proof of it, only serious hints".
+
+The text also puts a great monastery, with a stone stūpa "several hundred feet high" built by the arhat 阿折羅, "beside
+the city, not far" (瓶耆羅城側不遠); it is not in the table of places. Deeg (p. 575 n. 43) takes the name to be Acala, the
+arhat of Buddhabhadra's inscription in Ajanta cave XXVI (after Tournier 2020), against the ācāra of Ji and Mizutani.
+Francis (pp. 345–346) suggests, tentatively, the excavated monastic complex at Guntupalli (Sarma 1988: stūpas, an
+apsidal shrine, vihāras from the 2nd c. BC), named Mahānāgaparvata in its pre-Śālaṅkāyana inscriptions (EIAD 203–219)
+and with a Śālaṅkāyana record (EIAD 164) on a pillar at the stūpa site; but he finds the description "so vague that it
+does not seem possible to propose a definitive identification". Nothing at Guntupalli names Acala, and taking it at c.
+17.02 N, 81.13 E, it lies by the study's reckoning some 23 km N of Peddavegi (35 km N of Eluru), in the hills, which
+is hard to square with "beside the city, not far"; the monastery stays unlocated.
 
 **Assessment.** Elgandel and Warangal are Telingana guesses from distance. Veṅgī matches the name, Burnell's Telugu
-locative explains the last syllable, and the excavation shows a fortified city with stūpas, occupied under the first
-Eastern Chalukyas exactly when Xuanzang passed. Mizutani is strengthened.
+locative explains the last syllable (Deeg prefers a lost -pura), and the excavation shows a fortified city with
+stūpas, occupied under the first Eastern Chalukyas exactly when Xuanzang passed. But nothing on the site names Veṅgī:
+the editor of the Veṅgī kings' charters finds there no Śālaṅkāyana inscription or coin and calls the identification
+very plausible but unproven (Francis 2025), and no stūpa or monastery is matched to Xuanzang's account. The excavation
+establishes a city of the right date in the right place; that it was Veṅgī rests on the village name, the find-spots
+of charters nearby and the agreement of the authorities. Mizutani is strengthened, with medium confidence (previously
+high).
 
 ### 10.13.03 孤山 — Dignāga's hill; a Puri claim outside Andhra
 
@@ -851,12 +886,29 @@ carved on the backs of older slabs, and notes that Amaravati and many other Budd
 ruined and his hundred deva temples. Nothing in his account is of the 7th-century city. A circuit of some 2.4 km is
 far short of the Xiyu ji's capital of "over 40 li" (國大都城周四十餘里).
 
+Deeg (2025, pp. 568–570, 583 nn. 76–77) reads 馱那羯磔迦 as *Dhānakaṭaka (那 cannot render nya or ña) and, after Ray and
+Shimada, places it at Amaravati or more precisely Dharanikota. He gives in full the Wuxiang jing passage Ji cites
+(Dharmakṣema, dated 417; T.387), with Lévi's dhānya- for 熟穀, and notes that the Prakrit Dhaññakaḍa is now attested at
+Kanaganahalli.
+
+In Griffiths, Tournier and Shimada (eds. 2025) the name appears in records found elsewhere. At Nāgārjunakoṇḍa,
+Bodhisirī's EIAD 20 lists a stone maṇḍapa at a vihāra at Dhaññakaḍa, glossed by Singh "mod. Dharanikota near
+Amaravati" (p. 396), and the donors at Kanaganahalli come mostly from Dhaññakaṭa (p. 398). The Patagandigudem plates
+of the Ikṣvāku Ehavala Cāntamūla (EIAD 55, 3rd c.), found at Kallacheruvu W of Rajahmundry, were issued from the
+"victorious royal headquarters" of Dhaññakaḍa (Tournier, via Gillet, p. 599 n. 16). From Dharanikota itself Ollett,
+Tournier and Griffiths (pp. 193–194, 281–282, 292–293) publish memorial pillars of up to c. 300, among them EIAD 568,
+a Tamil Brahmin mahāgāmika shown before a king, EIAD 622, a mahāraṭṭhi's daughter, and EIAD 564 (a field E of the
+town), an amātya's wife; none of them names the place.
+
 **Assessment.** Bezwada rested on its setting (10.14.03); Dharanikota now has the city's name in inscriptions on the
 spot and a fortified river town, which Bezwada lacks in these sources. The Wuxiang jing passage Ji cites adds an early
 5th-century text for a Dhānyakaṭaka on the south bank. Nāgārjunikoṇḍa was a 3rd-century Ikṣvāku capital and has no
 claim on the name. Shimada's dates put the rampart in the last centuries BC and the decline of the Buddhist sites
 after c. 250; the walled town of c. 2.4 km is small for a capital of 40 li, and nothing yet shows it standing in the
-7th century. Mizutani is strengthened, with medium confidence.
+7th century. The 2025 volume makes Dhaññakaḍa an Ikṣvāku royal seat and adds memorials of officials and a king's court
+at Dharanikota, but the new records that name Dhaññakaḍa were found at Nāgārjunakoṇḍa and Kallacheruvu, and the
+memorials found on the spot do not name it; all are of c. 300 or earlier, so the site evidence still stops well short
+of Xuanzang's city. Mizutani is strengthened, with medium confidence.
 
 ### 10.14.02a 弗婆勢羅僧伽藍 (Pūrvaśaila) — the Amaravati stupa site or an unlocated hill E of Dharanikota; open
 
@@ -886,13 +938,30 @@ resting on a mountain", with halls along cut cliffs (疏崖峙閣 … 枕巖接�
 Amaravati stupa to the Caityakas, Ghaṇṭasāla to the Aparaśailas, and Allūru and Takkellapādu, across the Krishna, to
 the Pūrvaśailas (p. 160; the Allūru record is Krishna Sastri's, above).
 
+Kieffer-Pülz (2025, pp. 519–520, 527 n. 135; text in Singh, p. 396) reads Bodhisirī's EIAD 20 at Nāgārjunakoṇḍa as
+gifts at eleven places, among them "at the Eastern Mountain (puvasele) a pond and a ... hall", a stone pavilion at
+Kaṇṭakasola (Ghantasala, c. 220 km E of Nāgārjunakoṇḍa) and, on Tournier's new reading, one at a monastery at
+Dhaññakaḍa; the places need not lie at Nāgārjunakoṇḍa, and Tournier suggests that the list runs from local sites down
+the Krishna. Vogel's Puvasela at Nāgārjunakoṇḍa may therefore lie downstream; and since Dhaññakaḍa is listed
+separately, the record does not put an Eastern Mountain at the capital either.
+
+Singh (2025, pp. 398–399 nn. 41–42) counts three Buddhist inscriptions of the 5th–9th c. at the Amaravati stūpa (EIAD
+423, 424, 138) and six of the 10th–14th. If the stūpa was still receiving gifts near Xuanzang's time, that sits
+uneasily with his convent deserted for over a century (自百餘年，無復僧侶), though none of the three is closely dated.
+
+Deeg (2025, pp. 578–579 n. 57, 584–585) leaves the convent unlocated. His translation glosses 弗婆勢羅 "Western Mountain"
+and 阿伐羅勢羅 "Eastern Mountain", the reverse of the 東山/西山 in the Chinese he prints and in his own notes; the slip is his,
+not the text's.
+
 **Assessment.** With the capital at Dharanikota (10.14), the great stupa a mile to the east answers to the eastern
 convent in bearing and distance, and Pūrvaśaila monks are attested at Dharanikota. But the stupa stands on a plain,
 while the text sets the convent on a mountain among cliffs; in the 1st–2nd c. it belonged to the Caityakas, the sect's
-own houses lay at Allūru and Takkellapādu across the river, and Puvasela recurs at Nāgārjunikoṇḍa. A sect name of the
-2nd century does not locate a convent of the 7th, and no hill site east of the city has been argued. Two alternatives
-remain: the Amaravati stupa site, on bearing and distance, or an unlocated hill east of the city, on the text's
-description. Open; Mizutani is weakened, with low confidence.
+own houses lay at Allūru and Takkellapādu across the river, and the Puvasela of the Nāgārjunikoṇḍa record may lie down
+the Krishna (Kieffer-Pülz 2025) without being placed at the capital. Later Buddhist gifts at the stūpa, if near
+Xuanzang's time, would add a small difficulty, since he says the convent had been empty for a century. A sect name of
+the 2nd century does not locate a convent of the 7th, and no hill site east of the city has been argued. Two
+alternatives remain: the Amaravati stupa site, on bearing and distance, or an unlocated hill east of the city, on the
+text's description. Open; Mizutani is weakened, with low confidence.
 
 ### 10.14.02b 阿伐羅勢羅僧伽藍 (Avaraśaila) — on a hill W of Dharanikota; not Dharanikota itself
 
@@ -919,12 +988,21 @@ victorious war camp at Dhāṃñakaṭaka", as a grant to Aparaseliya monks at P
 of Dhāṃñakaṭaka", to repair their monastery. Neither lies west of the city, and he does not connect either with
 Xuanzang.
 
+Deeg (2025, p. 579 n. 58), after Tournier, notes that Andhra inscriptions write apara- with one exception, EIAD 55,
+where the lineage receiving the land grant is Avara(ddāra)seliya, and that Xuanzang's 阿伐羅 also points to avara. That
+record is the Pātagaṇḍigūḍem grant, to the mahāvihāra at Piṭhuṇḍa (Kieffer-Pülz, p. 509). Strauch (p. 76) notes that
+the plates were found at Kallacheruvu, W of Rajahmundry and c. 10 km from Guntupalli, and that a Vaddamanu potsherd
+names a resident of Pithudu town; with Subrahmanyam he would put Pithudu at or near Guntupalli, some 95 km NE of
+Dharanikota, though a site near Amaravati is not excluded. Kieffer-Pülz (p. 520 n. 102) takes the Ghantasala monastery
+to be Aparaśaila, as EIAD 594 from Pedavegi suggests. On Deeg's swapped glosses see 10.14.02a.
+
 **Assessment.** The text puts Avaraśaila "west of the city, resting on a mountain". If the fortified town at
 Dharanikota is the city, as the inscriptions and excavations now suggest, Avaraśaila lay on high ground west of it,
 not at Dharanikota itself; Mizutani's own arrangement, with the capital between the two convents, implies the same.
-Fergusson's Amaravati tope is ruled out by the bearing. The Aparaśaila houses Shimada cites, at Ghaṇṭasāla and at an
-unlocated Pithunda north of the city, show the sect in the region but not west of it. Mizutani is weakened in detail;
-site unlocated, low confidence.
+Fergusson's Amaravati tope is ruled out by the bearing. The Aparaśaila houses now known, at Ghaṇṭasāla, at Pedavegi
+and at Piṭhuṇḍa, perhaps near Guntupalli (Strauch 2025), show the sect in the region but not west of the city; the
+avara- spelling links Xuanzang's name to the Piṭhuṇḍa grant, not to a site. Mizutani is weakened in detail; site
+unlocated, low confidence.
 
 ### 10.14.03 大山 (阿素洛宮) — a hill S of the capital: Takakuwa's SE of Amarāvatī, or the Bezwada rock
 
@@ -979,6 +1057,10 @@ includes a Colya, as the name behind 珠利耶.
 by the Cāḷukyas, Xuanzang's contemporaries in the neighbouring kingdom: Colya/Coliya in Maṅgaleśa's Mahākūṭa pillar
 (reported by Ji) and the Cholika-viṣaya of a grant of Vikramāditya I (EI 10). Sanskrit literature has only Coḍa/Cola.
 Medium confidence; the form does not decide between Nellore and Cuddapah (data/names/).
+
+**Recent scholarship.** Deeg (2025, p. 582 n. 74) gives 珠利耶 as *Colya/*Culya/Coliya and reports Tournier's remark that
+only Coliya is attested, for instance in Pāla inscriptions; this agrees with the three-syllable form above. He does
+not locate the country.
 
 **Assessment.** Bearing and inscriptions agree on a Telugu Coḷa country in Cuddapah and S Kurnool, with Smith,
 Majumdar and in part Cunningham. The plates postdate Xuanzang by over a century, and none names Chuliye or a capital.

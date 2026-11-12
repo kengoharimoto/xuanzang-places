@@ -97,6 +97,9 @@ place", reached from the Khyber by Takkal (I, p. 44).
 **Kuwayama (1990, 2002).** Peshawar. He equates Faxian's 弗樓沙, the 佛律婆[娑]越 of Zhi Sengzai's *Waiguo shi* ("the royal
 city of the devaputra") and the 揵陀越王城 of Dao'an's *Shishi Xiyu ji* with it, and puts the bowl's building inside the
 city (1990, pp. 162, 170–175; 2002, pp. 24–26; see 02.04.02). Agrees.
+**Recent scholarship.** Baums (2019, p. 169), listing the settlements called *nagara* or *pura* in the Gāndhārī
+inscriptions, gives Kaniṣkapura at Peshawar (CKI 145). It is a Kushan-period city name, not Xuanzang's 布路沙布邏, and does
+not bear on the identification.
 **Assessment.** Continuous name and an inscription at the city's chief monument. Secure.
 
 ### 02.04.14b 跋虜沙城東門外窣堵波 — But Shahri E of Shahbaz Garhi (Foucher); a single proposal
@@ -132,6 +135,10 @@ Beal. Sites within it are confirmed on the ground: the inscribed footprint stone
 **Name.** 仗 is a retroflex (澄), so the characters give uḍḍiyāna/oḍḍiyāna, the first of Mizutani's forms, and exclude
 udyāna "garden", his etymology; 烏荼 oḍḍa (10.09) has the same vernacular ḍḍ. Oḍḍiyāna is the form of the tantric texts
 (e.g. the Sādhanamālā). Secure; the identification is unaffected (data/names/).
+**Recent scholarship.** Baums (2019, p. 168) reports three Gāndhārī inscriptions of the 1st century AD naming the Oḍi
+royal house, "almost certainly" Sanskrit Uḍḍiyāna, and Tira, named in two inscriptions from Swat connected with the
+Oḍi kings (CKI 334, 401), as their capital or a major city. The Oḍi form from Swat itself has the vernacular ḍ that 仗
+renders; Tira is unlocated and has no bearing on Xuanzang's capital (03.01.01a).
 **Assessment.** Agreement, the river name and inscribed site evidence inside the country. Secure.
 
 ### 03.01.01b 蘇婆伐窣堵河 (subhavastu) — the Swat river; name continuity
@@ -272,17 +279,23 @@ surface survey of 1998 found an irregular enclosure of red-earth walls (98, 25, 
 basin opposite, and a single mound of cut stones at the highest point, taken for the main temple; no barracks, so not
 a fort. Interviews with seven villagers (January 2009; pp. 131–136) gave a Buddhist temple with a great image, mostly
 "of gold", once "wooden", once 24 m high, which she takes for a tradition of Faxian's eight-zhang Maitreya, "a first
-step" (p. 136). Nothing was dug, and no image, inscription or datable find is reported. Her English paper (Tsuchiya
-c. 2009, pp. 3115–3120; surveys 1998–2000 and 2003–06) adds Rajikot, a walled hill fort with a siphoned water supply,
-as the legendary seat of the ruler who could have raised the image; argues from the valley's defences, all at its head
+step" (p. 136). Nothing was dug, and no image, inscription or datable find is reported. Her English paper (Tsuchiya c.
+2009, pp. 3115–3120; surveys 1998–2000 and 2003–06) adds Rajikot, a walled hill fort with a siphoned water supply, as
+the legendary seat of the ruler who could have raised the image; argues from the valley's defences, all at its head
 (the Darband gate 1 km S of Matic, a signal system from the Batakhun pass), that Pouguch near the mouth was its safest
 place; and explains the wooden image by the conifer forests of the neighbouring valleys. Survey and legend again, no
-excavation; Xuanzang is not discussed.
+excavation; Xuanzang is not discussed. Jettmar (1989, p. XL), introducing the *Antiquities of Northern Pakistan*, puts
+the pilgrims' religious centre in Ta-li-lo (Darel, after Stein 1928), in a stretch of the Indus valley nominally
+Darada but virtually independent, and suggested that Bīrūnī's famous "idol" of Shamil might be the wooden Maitreya. In
+1993 (pp. 80, 112) he follows Cunningham's Darel, finds Faxian's 15 days down the Indus a fair fit, places the
+sanctuary in the western part of the Indus valley near the emporium known from the Shatial inscriptions, and withdraws
+the Bīrūnī link. Fussman (1994, p. 14 and n. 46) notes that no trace of the shrine has been found at Darel or near it,
+and that nothing at Chilas or Shatial evokes it.
 **Assessment.** Name and agreement, with the route bearing exact and the distance normal along the Indus road; no site
-evidence, and the shrine itself has not been found (Neelis 2011). Tsuchiya's Pouguch enclosure is a candidate site for
-the shrine, unexcavated; the oral tradition is not site evidence. Mizutani stands (medium).
+evidence, and the shrine itself has not been found (Neelis 2011; Fussman 1994). Tsuchiya's Pouguch enclosure is a
+candidate site for the shrine, unexcavated; the oral tradition is not site evidence. Mizutani stands (medium).
 
-### 03.02 鉢露羅國 (balūra) — Baltistan; Chitral was once proposed
+### 03.02 鉢露羅國 (balūra) — the kingdom of Palola (Bolor): Baltistan or Gilgit; Chitral was once proposed
 
 **Identifications.** Mizutani: Baltistan (agreed). Vivien (p. 316), Cunningham (p. 96), Beal (p. 135), Watters (p.
 240, tentative) and Dey: Balti/Baltistan.
@@ -292,10 +305,10 @@ Route test: 198 km for "500+ li E" (predicted 120 km), 10° off. Hearsay; the Li
 **Ji Xianlin et al. (1985).** Ji agrees, following Mizutani: Baltistan, probably known by report only (pp. 299–300).
 **Name.** 鉢 is p (幫), not b, so Mizutani's balūra/balōra does not fit; 露 is lo/lu and 羅 la/ra. The characters give
 *Palola, the dynastic name of the Ṣāhis of Gilgit: printed Paṭola in the Hatun rock inscription (EI 30 no. 38) and in
-a Gilgit manuscript colophon (śrīpaṭolaṣāhi, Mahāsannipātaratnaketudhāraṇī), and reported to have been read Palola by
-von Hinüber (2004), who linked it with Bolor; Xuanzang's 露 (l) agrees with that reading. Medium confidence for the
-form, with the von Hinüber reading as reported, not checked here; what it means for the site is weighed in the
-assessment (data/names/).
+a Gilgit manuscript colophon (śrīpaṭolaṣāhi, Mahāsannipātaratnaketudhāraṇī), but always Palola as a place name in the
+rock inscriptions (von Hinüber 1989, Hodar no. 64; 2004, pp. 105–106; see Recent scholarship), and von Hinüber takes
+鉢露羅 for its best Chinese transcription. Xuanzang's 露 (l) agrees. The form *Palola is settled by the inscriptions, now
+checked here; what it means for the site is weighed in the assessment (data/names/).
 **Kuwayama (1990, 2002).** 鉢露羅 is Zhimeng's 波倫, Bolor or Palur (2002, p. 145), reached by the 5th-century pilgrims
 from Tashkurghan over the Naizatash, Ishkoman or Darkot passes (p. 146), which puts it at Gilgit (1990, p. 149). This
 is the 5th-century Bolor on the pilgrims' road; he does not discuss Baltistan or the 500 li E of Darel.
@@ -304,13 +317,36 @@ of Gilgit (late 6th–mid 8th century), attested as Buddhist patrons in colophon
 bronzes, and unnamed by Xuanzang because his information was secondhand. In the 8th century Huichao distinguishes
 Great Bolor (Tibetan) from Little Bolor (Chinese side, presumably the Palola Ṣāhis), and in 753 the Chinese took the
 capital of Baltistan (Great Bolor) at Katsura near Skardu. He does not argue against Baltistan for the 7th century.
-**Assessment.** Agreement and bearing; no site evidence. The name (*Palola) is that of the Palola Ṣāhis, whose
-7th-century inscriptions and manuscripts come from Gilgit and Hatun, which points to the Gilgit side of their kingdom;
-Neelis (2011) and Kuwayama take Bolor as Gilgit. Ji, however, takes 鉢露羅 for the Tang histories' Great Bolor (大勃律),
-distinct from Little Bolor in the Gilgit–Yasin valleys, and the route does not decide: Skardu lies at the text's
-bearing but at twice the distance (198 km for 500+ li), Gilgit at the distance (c. 82 km) but 24° off to the NE. The
-name identifies the kingdom rather than its seat. Baltistan stands, with Gilgit as an alternative; low confidence,
-since the country is hearsay and the Palola reading is reported, not checked here.
+Von Hinüber (1989, pp. 64–65), in *Antiquities of Northern Pakistan* 1, edits the Hodar rock inscription (no. 64),
+found by Jettmar in 1983 near Chilas, which names a king of the dynasty with the dynastic name in the form palola-,
+not paṭola-, much closer to Bolor. In 2004 (pp. 105–106) he shows from rock inscriptions nos. 24–27 that Palola is a
+country: a "resident of Palola" (palolavāstavya) and a Jaṭ "gone to Palola" at Dadam Das near Hodar, Yaśovarma with
+Palola before his name at Shing Nala, two monks "of Palola" at Alam Bridge. The place name is always Palola, never
+Patola, which first appears in the title of the second king, Vajrādityanandi, as a Sanskritisation; Palola is
+confirmed by Xuanzang's transcription (the best in the Chinese sources), the Tang P'o-lü and Arabic Bolor/Balūr. These
+are visitors' graffiti in the Indus valley: they name the country but do not place its seat. On the seat, Jettmar
+(1989, pp. XIX, L; 1993, pp. 78–83) argues for Baltistan: Great Palur, with the residence perhaps in the Skardu basin,
+the Gilgit valley (Little Palur, Bru-za) a conquered province ruled by viceroys such as Makarasiṃha of the Hatun
+inscription. His evidence is 8th-century: Huichao (723–729), for whom the king had moved from Great to Little Palur
+under Tibetan pressure, and the Tang annals' investiture of the king in Great Palur in 717; he adds *palolo* as the
+Dardic neighbours' name for the Baltis, the Shigar inscription in Baltistan, and (1993, pp. 80–81) that Xuanzang's
+Palur is hearsay, its shape long E–W fitting a kingdom from Gilgit to Baltistan. Fussman (1993, pp. 16–17) replies
+that a Skardu capital could be settled only by Patola Ṣāhi inscriptions at or near Skardu, and the site of ancient
+Gilgit is itself unknown. Von Hinüber (2004, pp. 7–8, 56, 69–71) rejects Jettmar's delimitations of Balūr as
+premature; he dates the dynasty from c. 600 to the early 8th century, with all its dated royal inscriptions from the
+Gilgit valley (Hatun, 19 December 671; Danyor, NE of Gilgit, redated to 19 February 687), identifies the kings of the
+Tang annals' Great Bolor (embassies 696–741) as Palola Ṣāhis, and shows that the Shigar inscription names another king
+(of Kuñjāna/Kuljāna) and dates from the 6th century, unrelated to the Palola material.
+**Assessment.** Agreement and bearing; no site evidence. The name is settled: 鉢露羅 renders Palola, which the
+inscriptions use for a country (von Hinüber 1989, 2004), the kingdom of the Palola Ṣāhis, who ruled from c. 600 to the
+early 8th century and so in Xuanzang's time. The seat is not settled. All their dated royal inscriptions (Hatun 671,
+Danyor 687) and manuscripts come from the Gilgit valley, and the one inscription from Baltistan once adduced (Shigar)
+names another king and is older (von Hinüber 2004); Neelis (2011) and Kuwayama take Bolor as Gilgit. For Baltistan
+stand Jettmar and Ji, on the 8th-century Great Bolor of Huichao and the Tang annals, whose kings von Hinüber also
+takes for Palola Ṣāhis, and the bearing: Skardu lies at the text's bearing but at twice the distance (198 km for 500+
+li), Gilgit at the distance (c. 82 km) but 24° off to the NE. Fussman's test, a Palola Ṣāhi inscription at or near
+Skardu, is unmet. The kingdom is identified; whether Xuanzang's informants meant its Baltistan or its Gilgit side is
+open. Low confidence, since the country is hearsay and the seat undecided.
 
 ### 03.03.02 醫羅鉢呾羅龍王池 (elāpattra) — the Baba Wali (Panja Sahib) spring at Hasan Abdal
 
@@ -362,8 +398,14 @@ equation (Enomoto: the *Divyāvadāna*'s Kaśmīrapura is 罽賓 in the 阿育�
 century, when the Buddhist 罽賓 was Gandhāra (02.04) (pp. 119–121). In the Sui period 罽賓 was Kashmir (the one country
 that did not answer Yangdi's summons, 唯罽賓不至), and in the Tang it was Kāpiśī (pp. 702–711). This adds to Chavannes' Han
 罽賓 = Kaspeiria, reported by Ji, without bearing on the identification.
-**Assessment.** Name and agreement, and the distance normal along the Jhelum road; no site evidence in these files.
-Mizutani stands (medium).
+**Recent scholarship.** Yatoo (2012, pp. 60, 66, 248–249), after Stein's *Rājataraṅgiṇī*, has Xuanzang come from
+Uraśā, enter Kashmir at Baramula and spend the night at Hushkapura, modern Ushkar: the Life's monastery 護瑟迦羅, where he
+stayed after passing the stone gate (T50:0231a). Ushkar, in Baramula town, is an excavated Buddhist site (Garrick
+1882, later Sahni) with rubble structures and plain terracotta floor tiles comparable with Harwan and Kanispora, which
+Yatoo dates to the 1st–5th centuries AD; no inscription names it. Wukong took the same road in 759.
+**Assessment.** Name and agreement, and the distance normal along the Jhelum road. The Life's first stop, 護瑟迦羅 =
+Huṣkapura, is Stein's Ushkar at Baramula, an excavated Buddhist site (Yatoo 2012), which agrees with the W gate at
+Baramula; the equation rests on the name, and no inscription names the site. Mizutani stands (medium).
 
 ### 03.06.01a 迦濕彌羅國大都城 — Srinagar (Pravarapura)
 

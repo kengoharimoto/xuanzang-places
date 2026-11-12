@@ -178,5 +178,13 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
   of the city (02.03.02), and the distance of Tepe Ashrak (Shah Nasr) from Jalalabad differs between sources (3 vs
   10 km); Ball's *Archaeological Gazetteer* (2nd ed. 2019) would settle the points. Kucha (01.06): the Youyilu
   epitaph makes the walled old city (Pilang) the Tang Anxi seat; the proposed identification could name it.
+- **From the coding of the Chrome downloads (lit_batch12-17, 2026-11-12):** the arhat Acala's monastery beside
+  瓶耆羅 (Veṅgī) is missing from `places.tsv` (coded `new`; Francis 2025 tentatively Guntupalli, c. 35 km from
+  Eluru, which he calls undecidable). Errington 1993 is still unread: Khan Khattak 2019 quotes only her premise
+  (Sahri Bahlol for 跋虜沙, the Takht-i-Bāhī hill for Daṇḍaloka). Rapin et al. 2022 (`rapin2022_irongates_wall`)
+  is the item on the Darband wall's later phases; Stančo et al. 2022 found nothing datable. Sonkh (Härtel 1993) does
+  not bear on Mathurā's monasteries. Coningham et al. 2018 (Tilaurakot monograph), Schmidt et al. 2011 and Coningham
+  et al. 2020 (Rāmagrāma) remain unread; the full Kansai Maheth report likewise (the KAKEN summary dates the Area C
+  hall Gupta in Japanese, "after Late Gupta" in English). The Shāh-jī-kī-ḍherī casket's CKI number was not checked.
 - **Ujjayinī (11.12) and Bharukaccha (11.04)** were raised to high on excavation of the agreed site plus an unbroken
   name; neither has a dated 7th-century find or an inscription naming the place. Revisit if the rule is read strictly.

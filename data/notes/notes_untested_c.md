@@ -18,15 +18,23 @@ that the confluence has moved (05.04). The Life (T50:0234b) gives the same place
 **Assessment.** The general position at the confluence is not in doubt; the ground itself has gone, so nothing more
 exact can be tested. Probable, at the level of the area.
 
-### 06.02.x1 宮城側伽藍 (monastery beside the palace city, 3,000 Sammitīya monks) — Mukherji's building before Tilaurakot's E gate; depends on Tilaurakot
+### 06.02.x1 宮城側伽藍 (monastery beside the palace city, 3,000 Sammitīya monks) — Mukherji's building before Tilaurakot's E gate, or the monastic complex E of the city; depends on Tilaurakot
 
 **Identifications.** Mukherji (1901, p. 52): the foundations of a large quadrangular building he excavated in front of
 the E gate of Tilaura-kot. No other authority.
-**Evidence.** Partial excavation only; no inscription, no date. The study takes Piprahwa–Ganwaria as the better
-supported Kapilavastu and Tilaurakot as the rival for Xuanzang's city (06.02).
-**Assessment.** A proposal inside the Tilaurakot frame, resting on position alone. Open.
+**Evidence.** Partial excavation only; no inscription, no date. The parent is open between Piprahwa–Ganwaria and
+Tilaurakot (06.02).
+**Recent scholarship.** Geophysics round the stūpa Mound XI outside the E side of Tilaurakot revealed a monastic
+complex about 250 m N–S by 100 m E–W adjoining it on the S, with a pot of 497 punch-marked coins at the S end of its
+boundary wall; Murakami (2016, pp. 240–241) says the complex recalls Xuanzang's monastery beside the palace city with
+3,000 Sammitīya monks (T51:900c). Coningham et al. (2019, pp. 237, 241, 254) list "the Eastern Stupa and Monastery"
+with Mukherji's plan of 1899, date the coin hoard to the 3rd century BCE and note walled ponds round the monastery;
+they make no identification.
+**Assessment.** A proposal inside the Tilaurakot frame, now with a large monastery E of the city that agrees in
+position with Mukherji's building; but nothing dates its use to the 7th century or names a Sammitīya community, and it
+is only as good as Tilaurakot. Open.
 
-### 06.02.x2 淨飯王正殿・摩耶夫人寢殿 (Śuddhodana's hall, Māyā's chamber, conception vihāra) — Tilaurakot's NW area (Mukherji) or Ganwaria's larger complex (Srivastava)
+### 06.02.x2 淨飯王正殿・摩耶夫人寢殿 (Śuddhodana's hall, Māyā's chamber, conception vihāra) — Tilaurakot (Mukherji's NW area, or the walled central complex with a building over its wall) or Ganwaria's larger complex (Srivastava)
 
 **Identifications.** Mukherji (1901, pp. 20–21, 49–51): the NW mound/area of the brick fort of Tilaura-kot, with palace
 foundations about 5 ft below ground and octagonal and square structures.
@@ -37,9 +45,16 @@ shrines built over houses, dug to test Xuanzang's vihāras on palace sites (1976
 after the 4th century (06.02).
 **Recent scholarship.** Falk (2017), following Srivastava's own plans, takes the Ganwaria complexes for monasteries, not
 a palace, and reports them burnt about AD 300; the IAR 2012–13 trenches (Mani and Mishra, pp. 152–153) found nothing
-after the Kushan period there.
-**Assessment.** Both are inferences from the parent identification, which is now open (06.02), and the Ganwaria
-complex is more probably a monastery deserted before Xuanzang. The two proposals stand level. Open.
+after the Kushan period there. Murakami (2016, pp. 240–241) reports a walled complex 100 × 100 m with a brick wall 1.5
+m wide at Mound V in the centre of Tilaurakot (geophysics 2015), dug from January 2016: a strong N gate and, E of it,
+building A, with ten or more rooms, built on top of the complex's wall. He takes the complex for Faxian's and
+Xuanzang's palace of Śuddhodana and compares building A with Xuanzang's vihāra over the hall, without asserting the
+match. Coningham et al. (2019, pp. 235, 237) call it "a palatial walled complex" with four gates and list "CWC – The
+Sangharama" inside it, without date or argument.
+**Assessment.** Both are inferences from the parent identification, which is now open (06.02). At Tilaurakot a walled
+central enclosure with a monastic building over its wall gives the arrangement Xuanzang describes, a vihāra over the
+hall, though in the centre rather than in Mukherji's NW area; it is undated, unnamed, and the palace reading is an
+inference. The Ganwaria complex is more probably a monastery deserted before Xuanzang. Open.
 
 ### 06.02.x3 阿私多仙相太子處 (Asita's stūpa) — Mukherji's sixteen-sided brick structure at Tilaurakot; depends on Tilaurakot
 
@@ -49,6 +64,20 @@ Asita").
 **Evidence.** The bearing (NE of the conception vihāra) matches Xuanzang, but the reference point is itself Mukherji's
 proposal (06.02.x2). No inscription or date.
 **Assessment.** Internally consistent, unconfirmed, and only as good as Tilaurakot. Open.
+
+### 06.02.x4 角力擲象窣堵波・象墮阬 (stūpa where the prince threw the elephant, and the elephant pit) — unlocated; Mukherji's mound S of Tilaurakot is probably an iron-working mound; Vost's Kudan tank
+
+**Identifications.** Mukherji (1901, p. 52): a small mound about 500 ft S of the S gate of Tilaura-kot, and for the
+pit a ditch 100 ft E of it. Vost (1906, reported by Coningham et al. 2019, p. 250): the tank at Kudan for the elephant
+pit (Hastigarta).
+**Evidence.** Xuanzang puts the stūpa at the S gate and the pit beyond the moat (T51:0901a). Strickland et al. (2016,
+pdf pp. 1, 3–4, 10) dug Lohasariya, a low slag-covered mound about 150 m S of the city that Mukherji's 1899 plan had
+marked as a cardinal stūpa: an artificially raised iron-working mound, dated by radiocarbon from the 6th–5th to the
+2nd century BCE, with no Buddhist remains. That it is Mukherji's mound 500 ft S of the S gate is this study's
+inference from the distance; the excavators do not say so. Coningham et al. take the Kudan tank for a pit dug for
+brick clay.
+**Assessment.** If the inference holds, Mukherji's stūpa is an industrial mound; Vost's tank rests on position alone.
+Both belong to the Tilaurakot frame (06.02, open). Unlocated.
 
 ### 06.02.x5 太子妃寢宮 (Yaśodharā's chamber) — Mukherji's buildings NW of Tilaurakot's central tank
 
@@ -65,6 +94,30 @@ corroborate the statement of the Chinese traveller" (IAR 1975–76, p. 49). Neit
 'school' reading's support from the plan.
 **Assessment.** Two proposals by analogy, each tied to its own Kapilavastu (06.02, now open). Open.
 
+### 06.02.x7 踰城處精舍 (vihāra at the SE corner of the city where the prince left on horseback) — unlocated; a local "Kanthaka stūpa" E of Tilaurakot, untested
+
+**Identifications.** Mukherji (1901, pp. 53–54) found nothing and would seek it near the gate before his saṅghārāma
+(06.02.x1) or at Sandwā.
+**Evidence.** Xuanzang has a vihāra with an image of the prince on his white horse at the SE corner of the city
+(T51:0901b). Murakami (2016, p. 240) reports that the stūpa Mound XI outside the E side of Tilaurakot is locally
+called the Kanthaka stūpa and linked with the departure, and says this needs verification: a local name for a stūpa,
+not the vihāra Xuanzang describes.
+**Assessment.** Unlocated; the tradition is untested and belongs to the Tilaurakot frame (06.02, open).
+
+### 06.02.x9 釋種誅死處 (stūpas of the massacre of the Śākyas, NW of the city) — Führer's Sagarwa stūpas N of Tilaurakot, unconfirmed; Carlleyle's Bhata falls with Bhuila Dih
+
+**Identifications.** Führer, followed by V. A. Smith (in Mukherji 1901, pp. 8–17) and Mukherji (pp. 28–29, 54–56): the
+stūpas in the Sagarwa forest, about 2 miles N of Tilaura-kot. Carlleyle (ASR XII, pp. 111–112, 172–173): Bhata
+(Kosahra), 1½ miles NW of Bhuila Dih.
+**Evidence.** Führer dug 17 small brick stūpas at Sagarwa, with bricks Smith reports as marked with weapons. Coningham
+et al. (2019, pp. 247–248) add that his excavations of 1896 exposed a large brick monument of twelve rooms, like the
+cruciform temples at Kudan, by the W edge of the tank, with a copper casket of bones, two gold nāgas and semi-precious
+stones at its centre, and the small stūpas SE of it; geophysics in 2016 and 2018 found more buried brick structures.
+They report Führer's identification without endorsing it. Sagarwa lies N of Tilaurakot, where Xuanzang has NW
+(T51:0901b).
+**Assessment.** Carlleyle's site falls with Bhuila Dih (06.02). Sagarwa has many small stūpas, as Xuanzang's legend
+requires, but no date or inscription, and it stands only in the Tilaurakot frame (06.02, open). Open.
+
 ### 06.02.x10 自在天祠 (Īśvara temple outside the gate) — the Tauleshvara liṅga temple at Taulihawa; depends on Tilaurakot
 
 **Identifications.** V. A. Smith (in Mukherji 1901, pp. 8–17) and Mukherji (pp. 29–30, 54–56): the Tauleshvara
@@ -74,6 +127,18 @@ the way" and did not form the city's boundary.
 **Recent scholarship.** Falk (2017, n. 9) reports that the liṅga in the Taulihawa temple is a reused piece of the
 upper shaft of the Gotihawa Aśokan pillar; the cult object is therefore not old, though the shrine may be.
 **Assessment.** A name-and-cult link, from the Tilaurakot frame only, now weaker. Open.
+
+### 06.02.x11 角藝射鐵鼓窣堵波 (stūpa outside the S gate where the prince competed in archery) — unlocated; Mukherji's Derwa mounds S of Tilaurakot untested, the nearby Lohasariya mound industrial
+
+**Identifications.** Mukherji (1901, pp. 54–56): one of the two stūpa-like mounds at Derwa, a furlong S of the citadel
+of Tilaura-kot.
+**Evidence.** Xuanzang puts the stūpa outside the S gate, left of the road (T51:0902a). Strickland et al. (2016, pdf
+pp. 1, 3–4, 10) show that Lohasariya, the low mound about 150 m S of the city that Mukherji's 1899 plan marked as a
+cardinal stūpa, is an iron-working mound (radiocarbon 6th–5th to 2nd century BCE) without Buddhist remains. It lies
+near the Derwa mounds (a furlong is about 200 m); this study takes it rather for Mukherji's mound of 06.02.x4 (500
+ft), an inference from the distances only.
+**Assessment.** Nothing confirms a stūpa at Derwa, and the one excavated mound S of the city is industrial. Unlocated,
+in the Tilaurakot frame only (06.02, open).
 
 ### 07.01 婆羅痆斯國 (Vārāṇasī) — Benares; the ancient city excavated at Rajghat
 

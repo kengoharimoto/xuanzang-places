@@ -584,6 +584,11 @@ cites Huichao's 蘇跋那具怛羅, a Kashmiri record of a Strīrājya to the no
 and Yamaguchi Zuihō (Tōyō gakuhō 54.4, 1971) (p. 409). This agrees with Francke's Guge and Rudok and adds Japanese and
 French scholarship against Watters' "mythical".
 
+**Recent scholarship.** Jettmar (1993, p. 108), after Thomas (1935), equates the Land of Gold with the Tibetan
+Gser-rigs, one of the women-ruled kingdoms, separates it from the women's state of SE Tibet, and links the "Gold Race"
+of the Khotan prophecy with gold-washing in the valleys of former Great Palur (Baltistan); he argues no location
+beyond Thomas.
+
 **Assessment.** Atkinson anticipates Mizutani's position that the kingdom was real, from the same Chinese annals.
 Francke independently narrows the location to Guge and Rudok, which lie within Atkinson's Nari-khorsum and fit
 the text's borders. This strengthens Mizutani against Watters. The archaeology is only an analogy of custom, and

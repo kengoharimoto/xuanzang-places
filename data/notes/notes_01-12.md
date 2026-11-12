@@ -189,7 +189,14 @@ Buddhism in Suyab". Jokura et al. (2017, pp. 145–146, 158, 174) report the fir
 lowest layer's pottery dated typologically to the 7th–8th century. They re-record the Du Huaibao (杜懐宝) inscription,
 found by chance in the Rabat in 1982, a dedication by an Anxi vice-protector naming 砕葉鎮, which they call the firm
 proof of Ak-Beshim = Suyab; the 3D scan shows the granite block (32.6 × 13.5 × 11 cm) to be the pedestal of a Buddha
-image. Both are Tang (after 679) and name the fort, not the town of 630.
+image. Both are Tang (after 679) and name the fort, not the town of 630. Jokura et al. (2018, pp. 205–206, 214, 216)
+publish the 2015 pottery and roof tiles. Sherds from the lower floors of Stratum I in a Shahristan 1 trench c. 100 m N
+of the S gate are set against Rabat Strata II–III: the Shahristan's upper Stratum I is Karakhanid (10th century, five
+radiocarbon dates of 2012), and Rabat Stratum III matches it, so Rabat II–III are Karakhanid or later; the
+Shahristan's occupation is said to go back to the 5th century (stated, not argued in this part). The 62 roof tiles
+from Rabat Stratum IV and the surface, some made with techniques possibly of Chinese origin, join and share one
+fabric, so the Rabat was built and used within a very short span of the Tang period; the final dating of Stratum IV is
+deferred.
 
 **Assessment.** Vivien and Beal put Suyab on the Chu, as Mizutani does; Watters moves it south over the Kirgiz range,
 a materially different area. Ji supplies the site: the excavated town of Ak-Beshim, 8 km SW of Tokmak, identified with

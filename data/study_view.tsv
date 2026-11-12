@@ -91,10 +91,10 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 02.04.09	secure	Mizutani	34.17	71.73	site	Charsadda (Bala Hisar)	high	strengthened		Charsadda/Prang (Hashtnagar)
 02.04.12	text	text	34.246	71.6381	from the text	placed from the text: 梵、釋窣堵波西北行五十餘里 (from 02.04.09)	low	none		unlocated; candidate by distance only: Tarangzai (Cunningham ASR II)
 02.04.13	text	text	34.3534	71.6381	from the text	placed from the text: 化鬼子母北行五十餘里 (from 02.04.12)	low	none		unlocated; candidate by distance only: Tangi on the Swat (Cunningham ASR II)
-02.04.14	open	Mizutani	34.24	72.16	site	Shahbaz Garhi	medium	alternative	yes	Shahbaz Garhi; rival Shahr-i Bahlol (Errington 1993, via Neelis 2011; not read here)
+02.04.14	open	Mizutani	34.24	72.16	site	Shahbaz Garhi	medium	alternative	yes	Shahbaz Garhi; rival Shahr-i Bahlol (Errington 1993, via Neelis 2011, Behrendt 2018, Khan Khattak 2019; her argument not read here)
 02.04.14a	unlocated						low	none		unlocated (Foucher's Chanaka Dheri shown by excavation to be a palace, then a village)
 02.04.14b	open	Mizutani	34.24	72.19	site	But Shahri, E of Shahbaz Garhi	low	none		But Shahri, E of Shahbaz Garhi (Foucher)
-02.04.15	probable	Mizutani	34.27	72.19	site	Mekha-Sanda, NE of Shahbaz Garhi	medium	strengthened		Mekha-Sanda (hills NE of Shahbaz Garhi)
+02.04.15	probable	Mizutani	34.27	72.19	site	Mekha-Sanda, NE of Shahbaz Garhi	medium	strengthened		Mekha-Sanda (hills NE of Shahbaz Garhi); dependent alternative: Takht-i-Bahi hill (Errington 1993, with Sahri Bahlol for 02.04.14)
 02.04.16	text	text	34.4218	72.0058	from the text	placed from the text: 仙廬西北行百餘里 (from 02.04.15)	medium	alternative		ruined monastery and stupa at Butan, S foot of the Shahkot Pass above Palai (Stein); not Sahri-Bahlol
 02.04.17	open	study	34.21	72.26	approx	Karamar hill (open; Kashmir Smast the rival)	low	alternative		open: Karamar hill (Cunningham; Foucher's local cult) or Kashmir Smast (Nasim Khan 2006; Verardi 2012)
 02.04.18	secure	Mizutani	34.01	72.43	site	Hund (Ohind), on the Indus	high	strengthened		Hund (Ohind) on the Indus
@@ -122,7 +122,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 03.01.13	unlocated						low	none		unlocated
 03.01.14	open	Mizutani	35.25	72.0	district	Head of the Aushiri (Usheri) valley near Darora, Dir	low	none		head of the Aushiri valley near Darora (Deane)
 03.01.16	probable	Mizutani	35.62	73.45	district	Darel valley	medium	none		Darel valley, right bank of the Indus
-03.02	open	Mizutani	35.3	75.6	country	Baltistan	low	alternative	yes	Baltistan, or Gilgit (the Palola Ṣāhis' kingdom)
+03.02	open	Mizutani	35.3	75.6	country	Baltistan	low	alternative	yes	the Palola Ṣāhis' kingdom (Palola, Bolor); seat Baltistan or Gilgit, open
 03.03	secure	Mizutani	33.75	72.82	district	Taxila	high	strengthened		Taxila ruins near Shah-dheri/Sarai-kala
 03.03.01a	probable	Mizutani	33.76	72.84	site	Sirsukh, Taxila	medium	strengthened		Sirsukh (Marshall); rival central Rawalpindi (Naiki 2021, unexcavated hypothesis)
 03.03.02	secure	Mizutani	33.82	72.69	site	Panja Sahib spring, Hasan Abdal	high	none		Baba Wali (Panja Sahib) spring, Hasan Abdal
@@ -219,17 +219,17 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 06.02.10	text	text	27.5169	83.1014	from the text	placed from the text: 從此東南三十餘里 (from 06.02.08)	low	alternative	yes	open: Birdpur mound, 9 km S of Piprahwa (Srivastava), in the Piprahwa frame, or Sisania (Mukherji) in the Tilaurakot frame
 06.02.11	secure	Mizutani	27.469	83.276	site	Lumbini (Rummindei), Nepal	high	strengthened		Rummindei
 06.02.12	secure	Mizutani	27.469	83.276	site	Rummindei pillar, Lumbini	high	strengthened		Rummindei pillar; Oil River = Tilar Nadi
-06.02.x1	open	added	27.577	83.055	approx	Tilaurakot	low	none		Mukherji's building before the E gate of Tilaurakot (only within the Tilaurakot frame)
-06.02.x2	open	added	27.577	83.055	site	Tilaurakot, NW part of the fort	low	alternative	yes	open: Tilaurakot NW area (Mukherji) or the larger brick complex at Ganwaria (Srivastava)
+06.02.x1	open	added	27.577	83.055	approx	Tilaurakot	low	none		Mukherji's building before the E gate of Tilaurakot, or the monastic complex E of the city (Murakami 2016) (only within the Tilaurakot frame)
+06.02.x2	open	added	27.577	83.055	site	Tilaurakot, NW part of the fort	low	alternative	yes	open: Tilaurakot, NW area (Mukherji) or the Central Walled Complex with building A over its wall (Murakami 2016), or the larger brick complex at Ganwaria (Srivastava)
 06.02.x3	open	added	27.577	83.055	approx	Tilaurakot	low	none		Mukherji's sixteen-sided brick structure, Tilaurakot (only within the Tilaurakot frame)
-06.02.x4	unlocated									Mukherji: small mound c. 500 ft S of the S gate of Tilaura-kot; the pit = a ditch 100 ft E of it
+06.02.x4	unlocated						low	weakened		unlocated: Mukherji's mound probably the Lohasariya iron-working mound (this study's inference from the distance), not a stupa; Vost's Kudan tank for the pit by position only (Tilaurakot frame only)
 06.02.x5	open	added	27.577	83.055	approx	Tilaurakot	low	none		Mukherji's buildings NW of the central tank, Tilaurakot (only within the Tilaurakot frame)
 06.02.x6	open	added	27.577	83.055	approx	Tilaurakot	low	alternative	yes	open: Tilaurakot NE of the central tank (Mukherji) or the 'school' block at Ganwaria (Srivastava)
-06.02.x7	unlocated									Mukherji: to be sought near the gate in front of his saṅghārāma (06.02.x1) or at Sandwā; not found
+06.02.x7	unlocated						low	none		unlocated (local 'Kanthaka stupa' name of the stupa Mound XI E of Tilaurakot, untested; Tilaurakot frame only)
 06.02.x8	unlocated									Mukherji: mound before the N gate; open ground before the E gate; the two mounds at Derwa (S); a semicircular mound with a large room outside the W wall of Tilaura-kot
-06.02.x9	unlocated									Führer, followed by Smith and Mukherji: the stūpas in the Sagarwa forest, c. 2 miles N of Tilaura-kot (17 small stūpas excavated by Führer); Carlleyle: Bhata (Kosahra), 1½ miles NW of Bhuila Dih (Basti district)
+06.02.x9	unlocated						low	none		Sagarwa (Sagrahawa) stupas N of Tilaurakot (only within the Tilaurakot frame); Carlleyle's Bhata falls with Bhuila Dih
 06.02.x10	open	added	27.546	83.056	town	Taulihawa (Tauliva), Tauleshvara temple	low	none		Tauleshvara linga temple, Taulihawa (only within the Tilaurakot frame)
-06.02.x11	unlocated									Mukherji: one of the two stūpa-like mounds at Derwa, a furlong S of the citadel of Tilaura-kot
+06.02.x11	unlocated						low	none		unlocated (Mukherji's Derwa mounds untested; the nearby Lohasariya mound c. 150 m S is iron-working, not a stupa; Tilaurakot frame only)
 06.03	open	study	27.4978	83.6811	site	Ramgram stūpa S of Parāsi Bazar (candidate Rāmagrāma)	low	new-candidate		Parāsi (Ramgram) stupa, Nawalparasi, Nepal (Falk 2017; excavated by S. R. Shrestha 1999-2006): c. 40 km E of Rummindei, as XZ's 200-odd li E; Dharmauli the alternative; Rampur Deoriya tied to the Bhuila frame
 06.03.03	unlocated						low	none		unidentified (Carlleyle: Kudawa nadi and mounds E of Sirsarao Tal; Cunningham Aumi; Smith Champaran; Mani: Nautanwa, on name only, and W of Parāsi, so excluded if Rāmagrāma is Parāsi)
 06.03.04	unlocated						low	alternative	yes	open: Lauriya-Nandangarh (Smith), Rajdhani-Upadhaolia (Carlleyle) or Rampurwa/Pipariyā (Falk 2017, on Faxian)
@@ -376,7 +376,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 10.11.02a	open	Mizutani	18.97	84.37	site	Mahendragiri	low	none		Mahendragiri massif
 10.12	secure	Mizutani	21.34	82.18	town	Sirpur, Chhattisgarh	high	strengthened		capital Sirpur (Sripura)
 10.12.05	open	study	21.196	81.968	site	Arang (Bhaṃgara-pavata)	low	alternative		Bhamgara-pavata (Bhringara-parvata) near Arang, SW of Sirpur
-10.13	secure	Mizutani	16.81	81.11	town	Pedavegi near Eluru	high	strengthened		capital Vengi at Peddavegi
+10.13	probable	Mizutani	16.81	81.11	town	Pedavegi near Eluru	medium	strengthened		capital Vengi at Peddavegi
 10.13.03	text	text	16.7796	81.0783	from the text	placed from the text: 所行羅漢伽藍西南行二十餘里 (from 10.13)	low	none		unidentified
 10.14	probable	Mizutani	16.57	80.35	town	Dharanikota	medium	strengthened		capital Dharanikota
 10.14.02a	open	Mizutani	16.575	80.358	site	Amaravati great stupa	low	weakened		Amaravati stupa site (bearing, distance) or an unlocated hill E of Dharanikota (text: 據山); open

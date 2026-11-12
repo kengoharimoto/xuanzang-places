@@ -286,7 +286,9 @@ Huichao). He reads Xuanzang's own observations (two small stūpas and two seated
 the S of the E stair, a 16-chi double-bodied Buddha, a white stone Buddha 100 paces SW, the stūpa burnt and under
 repair) as Gandhāran schist sculpture, which the excavation hardly produced, and so doubts that the stūpa was already
 cruciform in 629, though the larger base circuit Xuanzang gives might reflect it; he leaves the point open. It bears
-on what Xuanzang saw, not on where.
+on what Xuanzang saw, not on where. Behrendt (2018, p. 149) cites Xuanzang's account of the fire-damaged stūpa under
+repair as late Buddhist activity in Gandhāra and takes it, after Kuwayama (1997), as probably the cruciform stūpa at
+Shāh-jī-kī-ḍherī; no new evidence.
 
 **Assessment.** The great stūpa is settled by its size, its position E/SE of the city and an inscribed casket in its
 relic chamber that names Kaniṣka (Konow: Kaniṣka's vihāra). Fussman's re-reading, as Kuwayama reports it, removes
@@ -359,6 +361,11 @@ its junction with the Kabul river (p. 251).
 (*Gandhavatī) for Puṣkalāvatī (p. 23), but elsewhere equates it with Songyun's 佛沙伏 at Shahbaz Garhi (p. 112;
 02.04.14). The two statements do not agree; the site of the town is not in question.
 
+**Recent scholarship.** Baums (2019, p. 169) lists Avaśaüra, a city at Charsadda (CKI 178), among the settlements
+called *nagara* or *pura* in the Gāndhārī inscriptions, and Pokhaladi = Puṣkalāvatī only in the British Library
+Gāndhārī avadānas (CKM 2, 14), without location. Baums thus places a city of another name at Charsadda; as before, no
+inscription ties the name Puṣkalāvatī to the site.
+
 **Assessment.** Garrick's survey adds field evidence to Cunningham's reckoning, and the Palatu Dheri excavation
 (behind Majumdar's "certain after excavation") shows Buddhist remains among the villages. Vivien's Nisatta, made
 before the survey, no longer competes. Mizutani is strengthened.
@@ -430,22 +437,27 @@ Songyun both took six days from Taxila to it (p. 112). Agrees.
 ancient city a few km S of Takht-i-Bahi whose Buddhist remains, found since the 19th century, are poorly preserved
 under the modern village. He cites Errington (1993, "In search of Pa-lu-sha, a city of the central Gandhara plain",
 BAI 7, pp. 55–66) and gives no argument of his own; Errington is not yet read here, so her case is not known. Naiki
-(2015, p. 273) repeats Shahbaz Garhi without new evidence.
+(2015, p. 273) repeats Shahbaz Garhi without new evidence. Behrendt (2018, p. 149) gives Po-lu-sha as "likely
+Sahrī-Bahlol", after Errington (1993), with no argument. Khan Khattak (2019, p. 90) rejects Cunningham's and Watters'
+Palo Dheri as resting only on distances and quotes Errington (1993, p. 63): there Sahri Bahlol is a premise ("if the
+latter is identified as Sahri Bahlol"), from which she moves Daṇḍaloka to the Takht-i-Bāhī hill (02.04.15); her
+argument for Sahri Bahlol itself is still not read here.
 
 **Route test (Shahr-i Bahlol).** With Shahr-i Bahlol taken at c. 34.25 N, 71.97 E (approximate), the legs that touch
 Varuṣa favour Shahbaz Garhi. From the text-derived point for 02.04.13 (itself placed from the text) the 200+ li SE
 gives 49.6 km at 105° to Shahbaz Garhi (0.25 km per li) but 32.6 km at 111° to Shahr-i Bahlol (0.16). Daṇḍaloka, 20+
-li NE of the town, is Mekha-Sanda 4.3 km NE of Shahbaz Garhi but 20 km E of Shahr-i Bahlol, unless Errington moves the
-mountain too. Stein, who dug six mounds at Sahri-Bahlol, found its shrines ruined long before the 7th century (AR
-1911–12, p. 99; see 02.04.16).
+li NE of the town, is Mekha-Sanda 4.3 km NE of Shahbaz Garhi but 20 km E of Shahr-i Bahlol; Errington moves the
+mountain to the Takht-i-Bāhī hill, which lies NW of Shahr-i Bahlol, not NE (02.04.15). Stein, who dug six mounds at
+Sahri-Bahlol, found its shrines ruined long before the 7th century (AR 1911–12, p. 99; see 02.04.16).
 
 **Assessment.** Palodheri was Cunningham's view of 1863–64, carried into the *Ancient Geography*; he had moved to
 Shahbaz Garhi by 1872–73. The Annual Reports repeat Shahbaz Garhi without new evidence, and nothing found in the town
 names it: the Aśokan edict shows the place's age, not its name. Errington's Shahr-i Bahlol (1993, reported by Neelis
-2011) is a specialist's rival that has not been read here; the legs measured to and from Varuṣa fit Shahbaz Garhi
-better, and Stein found Sahri-Bahlol derelict before Xuanzang's time. Mizutani stands, but at medium confidence, not
-high: the identification rests on agreement and the route, not on site evidence naming the town, and Errington's
-argument should be read before it is raised again.
+2011 and Behrendt 2018; quoted by Khan Khattak 2019 only as the premise for her Daṇḍaloka) is a specialist's rival
+whose argument has not been read here; the legs measured to and from Varuṣa fit Shahbaz Garhi better, and Stein found
+Sahri-Bahlol derelict before Xuanzang's time. Mizutani stands, but at medium confidence, not high: the identification
+rests on agreement and the route, not on site evidence naming the town, and Errington's argument should be read before
+it is raised again.
 
 ### 02.04.14a 跋虜沙城北窣堵波 — Foucher's Chanaka Dheri undermined by excavation; no replacement
 
@@ -505,9 +517,22 @@ name appears in the Viśvantara versions searched (Jātakamālā, Saṅghabhedav
 that the old 檀特 is corrupt implies a longer form than daṇḍaka. Low confidence; the name does not bear on the site
 (data/names/).
 
+**Recent scholarship.** Khan Khattak (2019, p. 90) quotes Errington (1993, p. 63): if Pa-lu-sha is Sahri Bahlol
+(02.04.14), the mountain "must be equated with the Takht-i-Bāhī hill"; the "slight discrepancies in distance and
+direction" she explains by a walk of 2½ miles to the foot of the ridge and then E to the site on its N slope, and a
+corroded copper coin of Agathocles (c. 190–180 BC) from the subterranean vaulted chambers on the E side makes an
+early, perhaps "Aśokan", foundation feasible, the cells perhaps the Viśvantara cave. Khan Khattak finds this "logical"
+though "far from certain", but would put the cave instead at a rock cave c. 2 km W of the Takht-i-Bāhī sacred area,
+across two peaks, with remains below it and Buddhist structures on the ridge. The study's check: with Shahr-i Bahlol
+at c. 34.25 N, 71.97 E (approximate, as in 02.04.14) and the Takht-i-Bāhī monastery at c. 34.29 N, 71.95 E, the
+monastery lies c. 4–5 km NNW of the town (bearing c. 315–330°), not NE; the distance fits "20+ li", the direction does
+not. The coin dates the foundation, not the name.
+
 **Assessment.** Cunningham's Kashmir Smast was fixed from Palodheri, which he gave up, and lies far from Shahbaz
-Garhi. Majumdar's cave and Mizutani's Mekha-Sanda both sit in the hills NE of Shahbaz Garhi, fitting the text's "20
-li NE", and the Survey in 1922–23 took the same hill and saw foundations on it. Mizutani is strengthened.
+Garhi. Majumdar's cave and Mizutani's Mekha-Sanda both sit in the hills NE of Shahbaz Garhi, fitting the text's "20 li
+NE", and the Survey in 1922–23 took the same hill and saw foundations on it. Errington's Takht-i-Bāhī hill (1993,
+quoted by Khan Khattak 2019) is a dependent alternative: it follows only from her Sahri Bahlol for the town and lies
+NW of it, against the text's NE. Mizutani is strengthened.
 
 ### 02.04.16 獨角仙人窣堵波 — the Ekaśṛṅga stūpa: Butan above Palai (Stein); Cunningham's Sahri-Bahlol rejected by excavation
 
@@ -650,7 +675,10 @@ and not Mingaur (Mingora)") and Tucci (1958, p. 288: Mingora, not Manglawar) wit
 180, 207–208) labels Mingora "formerly Mengjieli" after Olivieri (1996, p. 71), with no argument, and keeps Tucci's
 equation of the Manglaor area with the Mangala[p]or of the Tibetan sources. Olivieri (2016, pp. 25–26) finds the
 densest late (7th–8th-century) Buddhist rock sculpture on the left bank between Manglawar and Mingora, a stretch that
-holds both candidates.
+holds both candidates. Olivieri and Filigenzi (2018, pp. 85, 87) summarise the Butkara I sequence at Mingora (Faccenna
+1956–62): the period of Great Stūpa 4 runs from the late 2nd/early 3rd to the 7th century AD, with stucco and kanjur
+decoration and a restoration after a collapse probably caused by an earthquake, so the great stūpa was still
+maintained in Xuanzang's time; this suits Mingora but does not decide between it and Manglaor.
 
 **Assessment.** Mizutani rests on the Italian excavations around Mingora and Butkara. The older authorities rest on
 the name Manglaor and on Stein. Both places lie in the same stretch of the Swat valley, 5 miles apart, and nothing in
@@ -667,7 +695,9 @@ site.
 **Recent scholarship.** Bibi (2017, p. 64) reports Tucci (1958, p. 288), who identified this stūpa with Butkara I, the
 great stūpa the Italian mission excavated at Mingora, and also took Butkara I for Songyun's Ta-lo monastery with its
 gilded images. Bibi adds no evidence; the gilded sculpture bears on Songyun's monastery, not on the Kṣāntivādin
-legend.
+legend. Olivieri and Filigenzi (2018, pp. 85, 87) equate Butkara I with Songyun's Tolo monastery and O rgyan pa's
+Dhumat'ala (after Tucci 1978, Faccenna 1980–81), not with the Kṣāntivādin stūpa, and show the Great Stūpa maintained
+into the 7th century; nothing ties it to this legend.
 
 **Assessment.** The stūpa is unlocated. It should lie just east of whichever site is taken as the capital (03.01.01a).
 Tucci's Butkara I, reported by Bibi, is a candidate only if Mingora is the capital, and it lies on the SE side of the
@@ -773,7 +803,11 @@ the dove jātaka (p. 283).
 **Recent scholarship.** Bibi (2017, p. 66) reports two field identifications: Stein's Girarai ruins (via Rienjang
 2012, p. 4), the Girarai of his itinerary to Mount Ilam (03.01.05), and Deane's ruins on the Chanai hills at Surkhavi
 and in the Naranji valley, where Deane found no stūpa, only Gandhāran sculpture fragments (Deane 1896, p. 657). Both
-follow from their authors' Mahāvana and Mo-su (03.01.06–07).
+follow from their authors' Mahāvana and Mo-su (03.01.06–07). Fussman (1994, p. 15 and n. 59), from Xuanzang's
+distances (Mahāvana 200 li S of the capital, the Śibi stūpa 70 li W of it) and Tucci's Mingora, puts the Śibi country
+in the mountains S of Mingora and reports that Foucher accordingly accepted Girarai, between Swat and Buner; the
+stepped stūpas drawn with this jātaka at Shatial and Thalpan differ from the low dome Xuanzang describes and are not
+portraits of it.
 
 **Assessment.** Cunningham's placement follows from his Mahaban chain (03.01.06–07), not from a found monument.
 Stein's Girarai and Deane's Surkhavi/Naranji, reported by Bibi, are new candidates resting on their chains in the same
@@ -892,6 +926,10 @@ pilgrims' measurements and the copper plate. Punjab 1919 adds nothing.
 
 **Ji Xianlin et al. (1985).** Ji agrees: the excavated ruins between the Indus and the Jhelum, c. 20 miles NW of
 Rawalpindi; he reports Cunningham's Shahdheri, Hügel's Rawalpindi and V. Smith's Hasan Abdal (pp. 301–302).
+
+**Recent scholarship.** Baums (2019, pp. 168–169) gives the Gāndhārī forms of the name, Takṣaśila (CKI 60, 66, 233),
+Takhaśila (CKI 46, 65, 99) and the adjective Takṣaïlaa (CKI 68), among them CKI 60, a reliquary found at Taxila; it
+adds no find to the four inscriptions above.
 
 **Assessment.** Four inscriptions found on the site, of the 1st century BC to 1st century AD, name Takṣaśilā: the
 Patika plate, the Sihila vase, the Mahal ladles and the Dharmarājikā scroll. They put Cunningham's and Mizutani's
@@ -1245,6 +1283,10 @@ Its relic deposits (after Errington) run from Kaniṣka and Huviṣka coins to c
 Khazim, Tegin of Kabul, Yaśovarman of Kashmir), so it was active and enlarged then; but it stands on a flat plain
 without the mountains and cliffs of the tigress story (Naiki, after Kuwayama 1987), and Xuanzang's "great rocky pass"
 cannot be squared with it (Neelis). Neither names an alternative; Naiki thinks Xuanzang did not pass Manikyala.
+Fussman (1994, p. 16 and n. 55) adds Songyun's bearing as a check: the site, eight days SE of the Swat capital on a
+high mountain with a stūpa and a monastery of 300 monks, lies between the Indus and Swat, since Songyun did not cross
+the Indus, which agrees with Xuanzang's "great rocky pass" 200 li SE of Taxila's N border; after Stein, on the
+Gandhāran slope near the Banj bridge, not securely identified.
 
 **Assessment.** Court's inscription, if read rightly, makes Manikyala a Kushan body-offering site, but the itinerary
 returns to Taxila's north border and crosses the Indus, which Cunningham must explain away. Banj fits the route and
@@ -1391,7 +1433,10 @@ bank" (uncertain). Beal gives no site.
 Buddhist site: three stupas in a line on the right (N) bank of the Jhelum, c. 10 km from Baramula (34°10′43″N
 74°15′20″E), with no date, excavation or inscription in their account. They do not connect it with this monastery;
 after Ray (1969) they link it with the Jayendra vihāra (p. 90), which the Life puts in the capital (至都，止闍耶因陀羅寺), so
-that link does not fit Xuanzang.
+that link does not fit Xuanzang. Yatoo (2012, pp. 173–174, 335–337) surveyed a transect (no. 10, 2009) on the N bank
+just below Baramula, c. 3–6 km downstream: five sites, all pottery scatters except the excavated Fathgarh temple (c.
+AD 550), among them Shalwajin in Sheeri village (34°11.029′N 74°18.596′E) with early- and later-historic pottery; no
+Buddhist structure. The transect stops c. 5 km short of Zehanpore.
 **Assessment.** The monastery is unlocated beyond the area. Mizutani's "no monastery site on the N bank" no longer
 holds: the Zehanpore stupas stand on the N bank inside his stretch, a candidate on position alone, and c. 51 km from
 Srinagar in a straight line is long for 140–150 li. Untested; low.
