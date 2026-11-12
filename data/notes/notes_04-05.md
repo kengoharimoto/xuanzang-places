@@ -230,10 +230,24 @@ of Xuanzang's own time is reported.
 **Ji Xianlin et al. (1985).** Ji agrees that the country is named after the Sutlej and reports Cunningham's Sarhind
 for the capital, but says no satisfactory identification exists (pp. 375–376). He has nothing on Sanghol.
 
+**The river on the west.** The text puts a great river on the country's west (西臨大河), and the route reaches it
+from Kulūta by "crossing a great river" (濟大河): the Sutlej, after which the country is named, so the country lies
+on the river's far bank. The Sutlej leaves the hills running south, from Bhakra past Anandpur to Ropar, and only
+there turns west. From Sarhind and Sanghol it lies north (10° and 1°, Natural Earth courses); from Ropar north-west
+(302° at the nearest point); from Nalagarh, east of the southward stretch, west-north-west (289°). So the phrase fits
+a country in the Ropar–Nalagarh tract, east of the river's southward course, better than one centred on Sarhind
+or Sanghol, unless the phrase describes the country's western reach rather than its capital's side. Ropar has an
+excavated mound with "large deposits belonging to the early and late historical periods" (IAR 1953–54), but the
+study's sources report nothing Buddhist there. The route figures do not decide: from Kulūta 700 li south fits all
+these places (Sarhind 162 km, Ropar 123 km, Nalagarh 109 km, roughly south-south-west), and the 800 li south-west
+to Bairāt fits none (350–400 km, due south).
+
 **Assessment.** Sarhind rests on Cunningham's emended distance alone and has no Buddhist remains. Sanghol lies in
 the same tract and has a large excavated Buddhist establishment, so it is the better candidate for a capital with
 monasteries, though its case is still the excavators' assertion. The country stays where Mizutani puts it; the
-capital moves, tentatively, from Sarhind to Sanghol.
+capital moves, tentatively, from Sarhind to Sanghol. The river on the west points rather to the Ropar–Nalagarh tract
+east of the Sutlej's southward course; with no Buddhist remains reported there, the capital stays open between Sanghol
+and that tract.
 
 ### 04.06 波理夜呾羅國 (Skt. Pāriyātra) — Bairāt is still the only candidate, but its excavator found nothing of Xuanzang's eight monasteries
 

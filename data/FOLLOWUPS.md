@@ -188,19 +188,21 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
   et al. 2020 (Rāmagrāma) remain unread; the full Kansai Maheth report likewise (the KAKEN summary dates the Area C
   hall Gupta in Japanese, "after Late Gupta" in English). The Shāh-jī-kī-ḍherī casket's CKI number was not checked.
 - **Śatadru (04.05):** the text puts a "great river" on the country's west (西臨大河), but the Sutlej lies N and NE of
-  both Sirhind and Sanghol (`data/country_areas.tsv`, border check). Either the 大河 is another river (the Ghaggar?)
-  or the country lay further east; the note does not yet discuss this. Mountain borders use a rise set by region
+  both Sirhind and Sanghol (`data/country_areas.tsv`, border check). The note now discusses it: the phrase fits a country in the
+  Ropar–Nalagarh tract east of the Sutlej's southward stretch (river at 289–302°), not Sarhind or Sanghol (north);
+  Ropar's early historical deposits (IAR 1953–54) have no reported Buddhist remains. Open between Sanghol and that
+  tract; a survey of Buddhist finds round Ropar and Nalagarh would decide it. Mountain borders use a rise set by region
   (`scripts/country_areas.py`, REGION_RISE); Kapiśa (01.38) was drawn at 6% of its circuit's area: alone it
   reached 67,515 km², but Vṛjisthāna (Kabul, 56 km) and Lampāka shared Begram's open ground, and Andarab (12.03) and
   Bamiyan (01.37) took the slopes inside its ranges, which barred Kapiśa alone. Mountains all round are now read as a
   border at the crest (the drainage basin above the capital, closed to neighbours): Kapiśa has the Ghorband and
   Panjshir valleys; with the basin taken above the Panjshir's lower gorge (outlet at 34.68 N 69.64 E, above the Kabul
   river's junction at Naghlu) it has the whole basin, Nijrab, Tagab and the Koh-daman included: 13,111 km² (16%),
-  and it fills it. So the circuit (4000 li, 1188 km at juan 1's 0.297 km per li) is far longer than the basin's: either
-  the li round a mountain country ran long like the Gandhāra–Kashmir legs, or the circuit took in Kabul (Vṛjisthāna,
-  described separately in 644); open. The other mountain-ringed countries' basins are
-  likewise taken above their gorges (README, "Country areas"); Agni's and Brahmapura's come from a 0.01° terrain grid,
-  the 0.08° grid being too coarse for the Kaidu and the Ramganga. The other seven still use the 0.08° grid (channels
-  within 1.1 cells of their gorges); a fine grid for all nine would make the method uniform.
+  and it fills it (12,728 km², 15%, on the 0.01° grid). The circuit (4000 li, 1188 km at juan 1's 0.297 km per li)
+  is 1.8 times the basin's perimeter; but so are other mountain countries' (perimeter of the basin, staircase-corrected
+  by pi/4): Kashmir 2.4 (7000 li at 0.151), Kulūta 2.6, Brahmapura 3.5, against Ferghana 0.8, Lampāka 0.9, Kosala 1.2.
+  So Kapiśa's gap is the common one of Himalayan and Hindu Kush circuits (li running long on mountain roads, or hill
+  country beyond the basin counted in), and Kabul need not have been in it; that reading stays possible, open. All
+  nine basins now come from the 0.01° grid (channels within 0.6 cells of their gorges).
 - **Ujjayinī (11.12) and Bharukaccha (11.04)** were raised to high on excavation of the agreed site plus an unbroken
   name; neither has a dated 7th-century find or an inscription naming the place. Revisit if the rule is read strictly.

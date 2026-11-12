@@ -5,8 +5,8 @@ Usage (from xuanzang-places/): python3 -I scripts/terrain_grid.py  -> data/ref/t
 Input: data/ref/terrain/z5_{x}_{y}.png, x 20-25, y 11-16, fetched from
 https://s3.amazonaws.com/elevation-tiles-prod/terrarium/5/{x}/{y}.png (Mapzen/Tilezen terrain tiles: SRTM, GMTED2010,
 ETOPO1 and others; open data). Also fine grids (0.01 degree, zoom-8 tiles z8_{x}_{y}.png, fetched here when
-missing) over windows round the mountain-ringed countries whose rivers the coarse grid cannot route (Agni's Kaidu,
-Brahmapura's Ramganga); scripts/country_areas.py takes their basins from these. Decoded here without imaging libraries (8-bit RGB PNG, no interlace);
+missing) over windows round the nine mountain-ringed countries; scripts/country_areas.py takes their basins from these
+(the coarse grid cannot route some of their rivers, e.g. Agni's Kaidu and Brahmapura's Ramganga). Decoded here without imaging libraries (8-bit RGB PNG, no interlace);
 elevation = R*256 + G + B/256 - 32768 metres. Each grid cell takes the pixel at its centre (zoom 5 is c. 4.9 km
 per pixel at the equator, finer than the 0.08 degree grid). The grid and box are those of scripts/country_areas.py.
 """
@@ -73,7 +73,10 @@ print(NX, NY, "cells; max", max(grid), "min", min(grid))
 
 # fine grids: window (lon0, lat0, lon1, lat1) round the capital, wide enough for 1.6 times the target radius
 FRES, FZ = 0.01, 8
-FINE = {"01.05": (84.6, 40.6, 88.6, 43.6), "04.11": (76.6, 27.4, 82.0, 32.4)}
+# (all nine mountain-ringed countries: capital +- 1.6 times the target radius + 15 km, widened to take in the gorge)
+FINE = {"01.05": (84.6, 40.6, 88.6, 43.6), "01.10": (68.5, 38.2, 75.1, 43.3), "01.38": (66.2, 32.5, 72.3, 37.5),
+        "02.02": (69.3, 33.9, 71.1, 35.4), "02.03": (69.3, 33.4, 71.6, 35.4), "03.06": (72.1, 31.7, 77.5, 36.3),
+        "04.04": (75.2, 30.5, 79.1, 33.8), "04.11": (76.6, 27.4, 82.0, 32.4), "10.12": (79.1, 18.4, 85.3, 24.2)}
 for cid, (x0, y0, x1, y1) in FINE.items():
     nx, ny = round((x1 - x0) / FRES), round((y1 - y0) / FRES)
     g = [elev(x0 + (i + 0.5) * FRES, y0 + (j + 0.5) * FRES, FZ) for j in range(ny) for i in range(nx)]

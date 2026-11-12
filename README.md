@@ -301,7 +301,7 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      figures shrink as its distances do, and turned into an area at 0.75 of a circle's compactness. From the
      study's point for the capital, every country then grows over land at once, nearest cells first, until it
      reaches that area or 1.6 times its radius; neighbours meet half-way, and the sea stops growth. 130 are drawn:
-     79 at their full area, 51 hemmed in by neighbours, the sea or the cap. Not drawn: 14 with no circuit (the six
+     80 at their full area, 50 hemmed in by neighbours, the sea or the cap. Not drawn: 14 with no circuit (the six
      hearsay countries of SE Asia, Rāmagrāma and Kuśinagara, which are "deserted", Laṅgala's "several thousand li
      each way", the hearsay Fulin, the Women's country, 稽疆那, Nārikela island, Wakhan) and 4 whose capital has no
      point. Rivers the text names as a country's border are used (`data/country_borders.tsv`, ten borders of nine
@@ -310,7 +310,8 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      courses): the country may not cross the river, whose line is carried on straight beyond its ends, and grows
      more readily towards it. Phrases about the capital (國大都城西臨殑伽河) are not borders and are left out. One
      check fails: Śatadru's "great river" on the west (西臨大河) lies north and north-east of the study's point for
-     its capital (Sirhind), which fits the Sanghol alternative no better. Mountains named as borders are used too
+     its capital (Sirhind), which fits the Sanghol alternative no better; it fits a country in the Ropar–Nalagarh tract east of the
+     Sutlej's southward stretch (note on 04.05). Mountains named as borders are used too
      (the same table, 13 rows): a range on one side (Kapiśa's and Lampāka's 北背雪山, Srughna's 北背大山, Khuttal's
      東接葱嶺) bars high ground on that side, and everything beyond it; mountains all round (山周四境 for Ferghana,
      Nagarahāra, Kulūta and Brahmapura; 四境負山 for Kashmir; 四面據山 for Agni; 山嶺周境 for Kosala; 三陲黑嶺 for
@@ -326,15 +327,17 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      Shan and Ferghana (Agni, Ferghana), 1200 m for the Oxus and Hindu Kush (Khuttal, Kapiśa, Lampāka, Nagarahāra),
      1500 m for the western Himalaya (Kashmir, Kulūta, Srughna, Brahmapura) and 250 m for central India (Kosala).
      Heights come from the open AWS terrain tiles at zoom 5 (`scripts/terrain_grid.py`, `data/ref/terrain/`,
-     gitignored). Every one of the eleven meets high ground where the text puts it. Ferghana fills its valley
-     above Bekabad (97% of its circuit), Kashmir and Kulūta keep to their basins, and Kosala fills the Chhattisgarh
-     plain up to its rim of hills. Kapiśa, at first drawn at 6% of its circuit because Andarab and Bamiyan took the
-     slopes inside its ranges, now has its whole basin above the Panjshir's lower gorge (the Ghorband, the Panjshir,
-     Nijrab and Tagab and the Koh-daman up to the Hindu Kush), 13,111 km², 16% of its circuit; it fills that basin, so
-     the rest of the gap lies in the circuit itself. Where the 0.08° grid is too coarse to route a river (Agni's Kaidu, Brahmapura's Ramganga), the basin comes from
-     a 0.01° grid of zoom-8 tiles over the country's window (`data/ref/terrain/fine_*.json`): Agni's takes in the Kaidu
-     and Bosten lake (24,590 km²); Brahmapura's is the Ramganga's above Kalagarh (3,442 km², close to the river's
-     catchment of some 3,100 km² at the Kalagarh dam), small because the study's capital stands on the Ramganga. The areas show size and rough reach, not borders: the
+     gitignored). Every one of the eleven meets high ground where the text puts it. The nine basins come from a
+     0.01° grid of zoom-8 tiles over each country's window (`data/ref/terrain/fine_*.json`; a 0.08° cell counts when
+     half of it lies in the basin), on which every channel passes within 0.6 of a 0.08° cell of its gorge; the 0.08°
+     grid could not route Agni's Kaidu or Brahmapura's Ramganga. Ferghana fills its valley above Bekabad, Kashmir and
+     Kulūta keep to their basins, and Kosala fills the Chhattisgarh plain up to its rim of hills. Kapiśa, at first
+     drawn at 6% of its circuit because Andarab and Bamiyan took the slopes inside its ranges, now has its whole basin
+     above the Panjshir's lower gorge (the Ghorband, the Panjshir, Nijrab and Tagab and the Koh-daman up to the Hindu
+     Kush), 12,728 km², 15% of its circuit. Kapiśa's shortfall is not unusual: set against the perimeter of its basin,
+     the circuit runs 1.8 times too long at its juan's li, Kashmir's 2.4 times (at the Gandhāra–Kashmir li of 0.15 km),
+     Kulūta's 2.6 and Brahmapura's 3.5, while Ferghana's (0.8), Lampāka's (0.9) and Kosala's (1.2) fit. The Himalayan
+     and Hindu Kush circuits run long, as the li do on mountain roads, or take in hill country beyond the basin. The areas show size and rough reach, not borders: the
      capital need not have been central, rivers have moved since the 7th century, the rises are a choice made by
      region, and the circuits themselves are rounded figures.
    - **Place panel:** the study's identification first, then Mizutani, the authorities, every source, the Xiyu ji
