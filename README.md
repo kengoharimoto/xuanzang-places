@@ -331,9 +331,10 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      plain up to its rim of hills. Kapiśa, at first drawn at 6% of its circuit because Andarab and Bamiyan took the
      slopes inside its ranges, now has its whole basin above the Panjshir's lower gorge (the Ghorband, the Panjshir,
      Nijrab and Tagab and the Koh-daman up to the Hindu Kush), 13,111 km², 16% of its circuit; it fills that basin, so
-     the rest of the gap lies in the circuit itself. The 0.08° grid is too coarse for some channels: Agni's basin
-     misses the Kaidu (1,697 km²; Agni is drawn in full regardless), and Brahmapura's channel passes 2.2 cells from
-     Kalagarh, so its basin (3,237 km²) is short of the Ramganga's. The areas show size and rough reach, not borders: the
+     the rest of the gap lies in the circuit itself. Where the 0.08° grid is too coarse to route a river (Agni's Kaidu, Brahmapura's Ramganga), the basin comes from
+     a 0.01° grid of zoom-8 tiles over the country's window (`data/ref/terrain/fine_*.json`): Agni's takes in the Kaidu
+     and Bosten lake (24,590 km²); Brahmapura's is the Ramganga's above Kalagarh (3,442 km², close to the river's
+     catchment of some 3,100 km² at the Kalagarh dam), small because the study's capital stands on the Ramganga. The areas show size and rough reach, not borders: the
      capital need not have been central, rivers have moved since the 7th century, the rises are a choice made by
      region, and the circuits themselves are rounded figures.
    - **Place panel:** the study's identification first, then Mizutani, the authorities, every source, the Xiyu ji

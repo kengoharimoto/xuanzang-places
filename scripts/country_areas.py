@@ -203,10 +203,66 @@ for c in countries:
     c["gorge_cells"] = round(best[0], 1)
     c["outlet"] = best[1]
 OUTLETS = {c["outlet"]: c["id"] for c in countries if c["outlet"] is not None}
+def fine_basin(c):
+    """The basin on the fine grid (scripts/terrain_grid.py, 0.01 degree) where there is one: drainage by Priority-Flood
+    from the window's edge; the capital's cell is the one within 0.05 degree with the largest basin; the outlet is its
+    gorge snapped to the channel below it; the basin stops at other capitals' cells; a coarse cell counts when half
+    its area lies in the basin. None where there is no fine grid."""
+    f = "data/ref/terrain/fine_%s.json" % c["id"].replace(".", "_")
+    try: F = json.load(open(f))
+    except FileNotFoundError: return None
+    fx0, fy0, fres, fnx, fny, FE = F["box"][0], F["box"][1], F["res"], F["nx"], F["ny"], F["elev"]
+    fdown = [-1] * (fnx * fny); seen = bytearray(fnx * fny); pq = []; order = []
+    for k in range(fnx * fny):
+        i, j = k % fnx, k // fnx
+        if i in (0, fnx - 1) or j in (0, fny - 1): seen[k] = 1; heapq.heappush(pq, (FE[k], k))
+    while pq:
+        e, k = heapq.heappop(pq); order.append(k); i, j = k % fnx, k // fnx
+        for a, b in ((1, 0), (-1, 0), (0, 1), (0, -1), (1, 1), (1, -1), (-1, 1), (-1, -1)):
+            x, y = i + a, j + b
+            if 0 <= x < fnx and 0 <= y < fny and not seen[y * fnx + x]:
+                k2 = y * fnx + x; seen[k2] = 1; fdown[k2] = k; heapq.heappush(pq, (max(FE[k2], e), k2))
+    acc = [1] * (fnx * fny)
+    for k in reversed(order):
+        if fdown[k] >= 0: acc[fdown[k]] += acc[k]
+    fup = collections.defaultdict(list)
+    for k, d in enumerate(fdown):
+        if d >= 0: fup[d].append(k)
+    def fcell(lon, lat, r=5):
+        i, j = int((lon - fx0) / fres), int((lat - fy0) / fres)
+        cand = [(j + b) * fnx + i + a for a in range(-r, r + 1) for b in range(-r, r + 1)
+                if a * a + b * b <= r * r and 0 <= i + a < fnx and 0 <= j + b < fny]
+        return max(cand, key=lambda k: acc[k]) if cand else None
+    others = set()
+    for o in countries:
+        if o["id"] != c["id"] and fx0 < o["lon"] < fx0 + fnx * fres and fy0 < o["lat"] < fy0 + fny * fres:
+            k = fcell(o["lon"], o["lat"])
+            if k is not None: others.add(k)
+    k = fcell(c["lon"], c["lat"]); out = k
+    if c["id"] in GORGE:
+        la, lo, _ = GORGE[c["id"]]; best = None
+        for _s in range(5000):
+            if k < 0 or k in others: break
+            d = math.hypot((fx0 + (k % fnx + 0.5) * fres - lo) * math.cos(math.radians(la)), fy0 + (k // fnx + 0.5) * fres - la)
+            if best is None or d < best[0]: best = (d, k)
+            k = fdown[k]
+        c["gorge_cells"] = round(best[0] / RES, 1); out = best[1]
+    got, st = set(), [out]
+    while st:
+        x = st.pop(); got.add(x); st.extend(y for y in fup.get(x, ()) if y not in others)
+    cnt = collections.Counter()
+    for x in got:
+        cnt[int((fy0 + (x // fnx + 0.5) * fres - BOX[1]) / RES) * NX + int((fx0 + (x % fnx + 0.5) * fres - BOX[0]) / RES)] += 1
+    half = (RES / fres) ** 2 / 2
+    return {k for k, n in cnt.items() if n >= half}
+
 def basin(c):
     """Everything upstream of the country's outlet (its capital, or its gorge), within 1.6 times the target radius, stopping at another country's
     outlet (so a basin nested inside, like Kapiśa's within Nagarahāra's Kabul river, stays its own country's)."""
-    out, st = set(), [c["outlet"]]
+    out = fine_basin(c)
+    if out is not None: c["fine"] = True
+    st = [] if out is not None else [c["outlet"]]
+    out = out or set()
     while st:
         x = st.pop(); out.add(x)
         st.extend(y for y in up.get(x, ()) if OUTLETS.get(y, c["id"]) == c["id"])
@@ -287,7 +343,7 @@ for c in countries:
                 for r in range(1, int(CAP * c["R"] / (111.32 * RES)) + 2):
                     k = int(cj + dy * r) * NX + int(ci + dx * r)
                     if k in high: hit += 1; break
-            chk = "%s: high ground (capital %d m + %d) met in %d of 16 directions; drainage basin above %s %d km2" % (b["feature_zh"], ce, RISE, hit, ("the gorge (%s; channel %.1f cells off)" % (GORGE[c["id"]][2], c["gorge_cells"])) if "gorge_cells" in c else "the capital", round(sum((RES * 111.32) ** 2 * math.cos(math.radians(BOX[1] + (k // NX + 0.5) * RES)) for k in c["basin"])))
+            chk = "%s: high ground (capital %d m + %d) met in %d of 16 directions; drainage basin above %s %d km2" % (b["feature_zh"], ce, RISE, hit, ("the gorge (%s; channel %.1f cells off%s)" % (GORGE[c["id"]][2], c["gorge_cells"], "; 0.01-degree terrain" if c.get("fine") else "")) if "gorge_cells" in c else "the capital", round(sum((RES * 111.32) ** 2 * math.cos(math.radians(BOX[1] + (k // NX + 0.5) * RES)) for k in c["basin"])))
             c["row"]["borders"] = (c["row"]["borders"] + "; " if c["row"]["borders"] else "") + b["quote"]
             c["row"]["border_check"] = (c["row"]["border_check"] + "; " if c["row"]["border_check"] else "") + chk
             continue
