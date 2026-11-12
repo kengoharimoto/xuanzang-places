@@ -215,7 +215,7 @@ function draw() {
     .attr("d", a => path({type: "MultiPolygon", coordinates: a.polys}))
     .on("click", (e, a) => select(a.id))
     .selectAll("title").data(a => [a]).join("title")
-    .text(a => `${byId[a.id].zh}: ${a.text} at ${a.kpl} km per li ≈ ${Math.round(a.target/1000)*1000} km²` + (a.drawn < a.target*0.98 ? ` (drawn ${Math.round(a.drawn/1000)*1000} km², hemmed in)` : "") + (a.borders ? `; border named in the text: ${a.borders}` : "") + ". Approximate extent from the stated circuit; not a border."));
+    .text(a => `${byId[a.id].zh}: ${a.text} at ${a.kpl} km per li ≈ ${Math.round(a.target/1000)*1000} km²` + (a.drawn < a.target*0.98 ? ` (drawn ${Math.round(a.drawn/1000)*1000} km², hemmed in)` : "") + (a.borders ? `; border named in the text: ${a.borders}` : "") + ". Approximate extent from the stated circuit; not a border.");
   const r = p => (p.level === "site" ? 3.2 : 5) / Math.sqrt(k);
   const sps = state.sp ? P.filter(p => visible(p) && p.mzlat != null && (p.lat == null || Math.abs(p.mzlat - p.lat) + Math.abs(p.mzlon - p.lon) > 0.01)) : [];
   spg.selectAll("line").data(sps.filter(p => p.lat != null), p => p.id).join("line").attr("class", "spl")
