@@ -141,7 +141,9 @@ route tests here prefer Kara-yulgun.
 **Recent scholarship.** Zhang and Zhu (2019, p. 147) take Xuanzang's road from Kucha for the Yanshui gully road (盐关道)
 by Qizil and Baicheng to Aksu, roughly today's provincial road 307, not the Zhejue pass road (柘厥关道) of the *Xin Tang
 shu*: Jia Dan gives that road as 420 li to Gumo against Xuanzang's 600+ li, and Qing travellers (Khoja Jahan's flight,
-Woren in 1851) used the Yanshui road as the main way west. They do not name the capital.
+Woren in 1851) used the Yanshui road as the main way west. They do not name the capital. The 18th-century "present
+name" gloss of the Tibetan Xiyu ji (tu shu ta…, partly illegible) matches no place; Takata (2020, p. 354) lists the
+current candidates for the capital: Aksu, Baicheng, Yakaariq, Kara-yulgun.
 **Assessment.** The country is securely the Aksu oasis. The dispute is only about which ruin was the capital, and
 the sources assembled here cannot settle it. Mizutani stands.
 
@@ -182,7 +184,12 @@ earlier taken for an 11th–12th-century suburb, proved to be the Tang garrison 
 street of metal workshops and houses. Kolchenko (2020, English version, pp. 69, 95 n. 68), who excavated in the Chu
 valley, dates every Buddhist building and stele there (Ak-Beshim AB-0–2, Krasnaya Rechka) after Xuanzang: Buddhism
 came with the Tang garrison, whose wall of 679 he takes for the wall of Shahristan 2, and "Xuanzang says nothing about
-Buddhism in Suyab".
+Buddhism in Suyab". Jokura et al. (2017, pp. 145–146, 158, 174) report the first season (2015) in the Rabat
+(Shahristan 2): the E wall of an inner fortification, two rows of grey fired bricks and heaps of roof tiles, the
+lowest layer's pottery dated typologically to the 7th–8th century. They re-record the Du Huaibao (杜懐宝) inscription,
+found by chance in the Rabat in 1982, a dedication by an Anxi vice-protector naming 砕葉鎮, which they call the firm
+proof of Ak-Beshim = Suyab; the 3D scan shows the granite block (32.6 × 13.5 × 11 cm) to be the pedestal of a Buddha
+image. Both are Tang (after 679) and name the fort, not the town of 630.
 
 **Assessment.** Vivien and Beal put Suyab on the Chu, as Mizutani does; Watters moves it south over the Kirgiz range,
 a materially different area. Ji supplies the site: the excavated town of Ak-Beshim, 8 km SW of Tokmak, identified with
@@ -212,6 +219,10 @@ Alexandrovsky range between Aulie-ata and Aksu (Watters 1904) here, not Mizutani
 Khurdādhbih's hill ringed by a thousand springs at Abārjāj between Isbījāb and Ṭarāz (pp. 76–77). That place lies W of
 Ṭarāz, whereas the text reaches Talas by going W from the Thousand Springs (千泉西行百四五十里至呾邏私城), so it cannot be
 Xuanzang's; Mizutani's Merke is not discussed.
+
+**Recent scholarship.** The 18th-century "present name" gloss of the Tibetan Xiyu ji, he sa ken, names no place;
+Takata (2020, p. 355) suggests "land of the Kazakhs" and himself puts 千泉 on the north foot of the Kirgiz range, as
+Mizutani does.
 
 **Assessment.** The name "thousand springs" invites matching with any Ming-bulak. Vivien's site depends on his
 mistaken Taras (see 01.07.06). Watters' district along the north face of the Alexandrofsky (= Kirgiz) range includes
@@ -611,11 +622,20 @@ unaffected (data/names/bactrian.tsv).
 leaves the mountains: Islamic Anbīr, "the qasaba of Gūzgān" in the Ḥudūd, Bactrian Amber (doc. Ss, dated 698, "written
 here at Amber"; coins of Amber), and, by an equation he reports (遏蜜 *at-mǐět = Anbīr), the 遏蜜城 of 護時犍國 where the Tang
 set the 奇沙州都督府. This fits Mizutani's "Anbār?" for a 7th-century seat, but the Tang equation is reported, not argued,
-the documents are later than Xuanzang, and nothing has been excavated.
+the documents are later than Xuanzang, and nothing has been excavated. Sims-Williams (2002, pp. 1048–1056) adds the
+site evidence for Ambēr = Sar-i Pul: an Arabic inscription found by Bivar at the Imām-i Khurd shrine near Sar-i Pul
+marks the tomb of Yaḥyā b. Zayd, killed near Ambēr; Yaʿqūbī (late 9th c.) makes Ambēr the seat of the Arab governors,
+the Ḥudūd the capital; doc. Ss (year 476, 708 on the era of 233 he then used) was written there by "merchants of
+Ambēr". But his Guzgan documents (648–732) point to other royal seats: the old residence of the kings at Gurziwān and
+Kundarm in the mountains SE of Maymana (Ḥudūd, Yaʿqūbī), and the "court of the fortress" at Gaz (doc. S), "in the
+district of Andar", either near Dar-i Andara by Maymana or at Darra Gaz S of Balkh. The documents name rulers Kanag
+(648), Skag (684) and Yan Gozagan (732), and the earliest the "khaghan's tax".
 
 **Assessment.** The district is unanimous. Only the capital is open: Miyamoto (2015) puts the centre at Sar-i Pul
-(Bactrian Amber, Islamic Anbīr, perhaps the Tang 遏蜜城), which fits Mizutani's "Anbār?" but rests on later documents
-and a reported equation, without a site. Mizutani stands; the capital is perhaps Sar-i Pul.
+(Bactrian Amber, Islamic Anbīr, perhaps the Tang 遏蜜城), which fits Mizutani's "Anbār?"; Sims-Williams (2002) confirms
+Ambēr = Sar-i Pul by an inscription, but as the capital only for the Arab period, and puts the pre-Islamic kings in
+mountain residences (Gurziwān/Kundarm SE of Maymana) and at the fortress Gaz. The seat in 630 may therefore have been
+Sar-i Pul or a mountain residence; open. Mizutani stands for the district.
 
 ### 01.35 呾剌健國 (Ṭālaqān of Khurāsān) — Ṭālaqān near Maimana; the exact ruin disputed
 
@@ -656,10 +676,25 @@ and neck, which a brass sheathing would have made needless (東大佛は…金�
 pp. 1611–12; 2002, p. 159: "no trace of metal casting on the 38 m Buddha"). Like the West Buddha it belongs after the
 mid-6th-century opening of the Bāmiyān road (see 01.37.01).
 
-**Assessment.** Watters and Mizutani identify the second colossus by the distance from the first. Beal does not
-point to a different extant object; he takes the material at face value. Kuwayama's survey evidence (clay surface,
-gold paint) tells against Foucher's and Ji's metal sheathing: 鍮石 is probably Xuanzang's (or his editor's) error.
-The identification is unaffected. Mizutani stands.
+**Recent scholarship.** ICOMOS radiocarbon dates of the clay plaster and its wooden armature (Blänsdorf et al. in
+Petzet ed. 2009, pp. 231–35) put the East Buddha at 544–595 (2σ; 1σ 549–579), c. 50 years before the West Buddha
+(591–644), so it had stood for decades when Xuanzang came; for the statue they rule out the 2nd–5th-c. stylistic
+dates and Tanabe's 635–645 or later (from the murals), which would have it unfinished in 630. Like the West Buddha it
+is carved conglomerate coated with clay on a timber armature, not cast. Their paint study (Blänsdorf, Pfeffer, Melzl,
+ibid., pp. 237–39, 260–63; p. 28 n. 20) found on 103 East Buddha fragments, mostly robe, pink and minium then lead
+white on the outer robe and ultramarine on its lining, and no metal foil or gilding; but earlier observers saw gold on
+the bare parts: Hackin (1934) "on the chin remnants of gold coating", Sengupta (1969–78) "the exposed parts of the
+body were painted in gold". Tin foil under a yellow varnish imitating gold is known from the Bāmiyān caves (p. 260).
+They read 鍮石 as "a metallic, copper-containing stone or a metal": if Xuanzang meant the two existing statues, the East
+Buddha is the one "appearing as if made of metal". Tarzi (2007, p. 886) agrees on the 38 m Buddha, "très
+vraisemblablement".
+
+**Assessment.** Watters and Mizutani identify the second colossus by the distance from the first. Beal does not point
+to a different extant object; he takes the material at face value. Kuwayama's survey evidence (clay surface, gold
+paint) and the ICOMOS work (a clay finish of 544–595 on a carved core, gold recorded on the face and skin, no metal
+sheathing among the robe fragments) tell against Foucher's and Ji's metal sheathing and against a cast statue: 鍮石
+most probably describes a gold-painted surface that looked like brass, and 分身別鑄 is Xuanzang's (or his editor's)
+error. The identification is unaffected, and the image stood in 630. Mizutani stands.
 
 ### 01.37.02 佛入涅槃臥像伽藍 — the reclining-Buddha monastery at Bamiyan: E end of the Buddha cliff (Foucher 1942) vs the Ajdahā rock W
 
@@ -694,17 +729,27 @@ the large square M (100 × 80 m), round the stupa and E of the square, 3.5–5.6
 mouldings fallen from a monument, with seven heads of Buddhist divinities; round the stupa three stone-paved rooms
 burnt perhaps in the 9th century, with Ghaznavid and Ghurid sherds. No coin or pottery dates the foundation (perhaps
 as early as the 3rd century), and the reclining image was not found; that this is the monastery "visited by Xuanzang
-where the 1000-foot-long reclining Buddha statue may yet be found" is Tarzi's assumption. His later seasons (from
-2004) are not in the files.
+where the 1000-foot-long reclining Buddha statue may yet be found" is Tarzi's assumption. His later report (Tarzi
+2007, pp. 884–87, 920–22, seasons 2002–06) gives the reasoning: from Xuanzang's starting point in the royal city SW of
+the 55 m Buddha, the Great Stupa SE of the 38 m niche lies 2–3 li away, and the debris fans rise there over a large
+building parallel to the cliff. The "Monastère oriental" excavated round it has a cruciform caitya (CH I) round stupa
+2, a second (CH II) round stupa 4, and gallery A9 with clay modelling; a three-arched-hill coin (2nd–3rd c.) and
+Kushan bowls date the first period, stupa 2 and the A9 sculpture are put in the 4th–5th c. and the Great Stupa in the
+late 5th or early 6th; after a destruction and long abandonment, rebuilding from the second half of the 6th c., and
+burning in 871 (Ya'qub b. Layth). So the monastery was in use in 630, but the reclining image was still not found, and
+Tarzi leaves open whether it lies here "ou dans le site près de la ville de Ġolġola où fouillent les collègues
+japonais". He follows Foucher in putting the 先王's monastery (MR) under the scree midway between the colossi. A
+reclining Buddha reported in the press from this monastery in 2008 is not in the files. The ICOMOS volume (Petzet ed.
+2009, p. 18) only quotes Beal's "12 or 13 li".
 
 **Assessment.** With Foucher's withdrawal the western rock loses its main support, and Watters' Azdaha contradicts his
 own reading "E". Two eastern sites remain. Kuwayama's middle monastery follows the Life's wording, where 伽藍內 most
 naturally refers back to the monastery E of the stone Buddha, and the Xiyu ji's 城東二三里 fits it if the city lay SW of
 the West Buddha; nothing survives of it. Foucher's eastern end of the cliff, c. 1 km further E, reads the Xiyu ji's
-separate sentence as a separate monastery, and in that sector, SE of the East Buddha, Tarzi (2003) has excavated a
-Buddhist monastery with clay sculpture round the valley's only stupa. That is the one candidate actually found, but
-nothing in it names it, dates its foundation or shows the reclining image, so it supports Foucher's sector without
-deciding. Alternatives, low confidence, and the place stays open; the Life's wording slightly favours Kuwayama's, the
+separate sentence as a separate monastery, and in that sector, SE of the East Buddha, Tarzi (2003, 2007) has excavated
+a Buddhist monastery with clay sculpture round the valley's only stupa, rebuilt in the later 6th c. and so standing in
+630. That is the one candidate actually found, but by 2006 nothing in it named it or showed the reclining image, and
+Tarzi himself keeps a second candidate near Gholghola, so it supports Foucher's sector without deciding. Alternatives, low confidence, and the place stays open; the Life's wording slightly favours Kuwayama's, the
 excavated monastery the eastern option. Foucher still takes the Ajdahā rock for a Buddhist pilgrimage place, but not
 for Xuanzang's.
 
@@ -1611,6 +1656,9 @@ reported by Ji); but the Uighur translators transcribed the Chinese, so this is 
 name of this shape was found in the Ḥudūd or *Serindia*. Low confidence; the name does not decide between Yarkand and
 Yangi Hissar (data/names/).
 
+**Recent scholarship.** The 18th-century "present name" gloss of the Tibetan Xiyu ji, 'o zhi, is Uch (烏什) NW of Aksu,
+prompted by the sound; Takata (2020, p. 357) rejects it and reports Yangi Hissar and Yarkand as the two main views.
+
 **Assessment.** The text says the country lies south of the Sītā (Yarkand river) and produces jade. Mizutani argues
 that none of the road stations fits "south of the Sītā", and that Yarkand fits the jade and the farming. Vivien's
 and Cunningham's Yangi Hissar fits the route from Tashkurghan to Kashgar better but not the river. The question
@@ -1639,6 +1687,9 @@ tentative).
 **Gazetteers.** No gazetteer passage.
 
 **Ji Xianlin et al. (1985).** Ji agrees: Karghalik (葉城); Uighur Čakuk (Tugusheva 1980, p. 16) (p. 998).
+
+**Recent scholarship.** The 18th-century "present name" gloss of the Tibetan Xiyu ji reads Yarkand (yer khen); Takata
+(2020, p. 357) notes that 斫句迦 is generally Karghalik (Yecheng), a different town. An imprecise gloss, no weight.
 
 **Assessment.** All four older authorities said Yarkand, but only tentatively and from distance. Mizutani follows
 Stein, whose Karghalik rests on the name chain 沮渠/朱倶波 = Kharoṣṭhī *cugupa* and on the two rivers (Yarkand and

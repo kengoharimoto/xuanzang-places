@@ -46,6 +46,9 @@ a part of the defences/pallisade of the Mauryan city of Pataliputra" (Thapar and
 **Ji Xianlin et al. (1985).** Ji agrees: Pāṭaliputra NW of Patna towards Dinapore, with many finds from the
 excavations (pp. 624–625); he adds nothing on the line of the palisade.
 
+**Recent scholarship.** The 18th-century "present name" gloss of the Tibetan Xiyu ji already reads Patna (paṭṇa) at
+the old city S of the Ganges (Takata 2020, p. 356): a correct gloss, of no evidential weight.
+
 **Assessment.** The palisade now runs from Bulandi Bagh to Kankarbagh, on either side of Kumrahar, between
 Bankipore and Patna City and SE of them. Nothing points W towards Dinapore; Bhandarkar's old Son mouth lies below Patna. Mizutani
 stands if his "Patna" is Patna City. No inscription names the site, but the identification is settled.
@@ -606,6 +609,9 @@ wares, "assigned to the early Mauryan period". The reports tie it to none of Xua
 **Ji Xianlin et al. (1985).** Ji agrees: Old Rājagṛha in the hill-ringed valley at Rajgir (pp. 718–719). His list of
 the five hills calls Vaibhāra, NW of the city, "Xuanzang's Vipula" and gives the Saptaparṇa cave hill as Sonagiri S of
 the city; both clash with his own notes at 09.02.11 and 09.02.16.
+
+**Recent scholarship.** The 18th-century "present name" gloss of the Tibetan Xiyu ji, brga rdha, is unidentified
+(Takata 2020, p. 356); it adds nothing.
 
 **Assessment.** The site was never in doubt, and Xuanzang's 150 li stands as written; Cunningham's emendation is
 withdrawn. The Mauryan stūpa shows Buddhist building inside the old city by Aśoka's time but adds no identification.

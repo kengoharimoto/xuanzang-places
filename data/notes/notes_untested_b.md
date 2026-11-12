@@ -53,6 +53,13 @@ the first syllable; 羅 for ḍḍ is exceptional (the key otherwise has ra/la, 
 *Hiḍa or *Hiḷa (Prakrit ḍ > ḷ), which matches the i of the modern Hidda and Cunningham's "Hida" (p. 52). No ancient
 form of the place name has been found: CII 2.1 has only the modern "Hidda inscription". Low confidence for the form;
 the identification is unaffected (data/names/).
+**Recent scholarship.** Errington (2017, pp. 19–20) edits Masson's unpublished treatise (BL G41), which from
+Abel-Rémusat's Faxian already suggested that Hi-lo, "could we fancy it by any chance to denote Hida", was the modern
+Hadda, before Cunningham. Masson's Hadda 10 (Tope Kelan) held the largest deposit he found: over 200 coins, mostly
+Sasanian silver down to Peroz, five Roman solidi of Theodosius II, Marcianus and Leo (to AD 474) and Alkhan Hun
+issues, dating the stūpa to the mid or late 5th century (pp. 33, 42). A major new stūpa at Hadda then is consistent
+with Kuwayama's view that the relics were gathered there between the mid-5th century and 629, though Errington does
+not make the link.
 **Assessment.** The name (modern Hidda; Xuanzang's *Hiḍa/*Hiḷa, not haḍḍa), the distance and a large excavated
 Buddhist site agree, and no one proposes another place. Secure.
 
@@ -265,7 +272,12 @@ surface survey of 1998 found an irregular enclosure of red-earth walls (98, 25, 
 basin opposite, and a single mound of cut stones at the highest point, taken for the main temple; no barracks, so not
 a fort. Interviews with seven villagers (January 2009; pp. 131–136) gave a Buddhist temple with a great image, mostly
 "of gold", once "wooden", once 24 m high, which she takes for a tradition of Faxian's eight-zhang Maitreya, "a first
-step" (p. 136). Nothing was dug, and no image, inscription or datable find is reported.
+step" (p. 136). Nothing was dug, and no image, inscription or datable find is reported. Her English paper (Tsuchiya
+c. 2009, pp. 3115–3120; surveys 1998–2000 and 2003–06) adds Rajikot, a walled hill fort with a siphoned water supply,
+as the legendary seat of the ruler who could have raised the image; argues from the valley's defences, all at its head
+(the Darband gate 1 km S of Matic, a signal system from the Batakhun pass), that Pouguch near the mouth was its safest
+place; and explains the wooden image by the conifer forests of the neighbouring valleys. Survey and legend again, no
+excavation; Xuanzang is not discussed.
 **Assessment.** Name and agreement, with the route bearing exact and the distance normal along the Indus road; no site
 evidence, and the shrine itself has not been found (Neelis 2011). Tsuchiya's Pouguch enclosure is a candidate site for
 the shrine, unexcavated; the oral tradition is not site evidence. Mizutani stands (medium).

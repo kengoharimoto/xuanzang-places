@@ -171,5 +171,12 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
 - **Rows marked "to verify"/"from memory"** in `data/literature.tsv` need checking against a catalogue before citing.
 - **Kolhua pillar point** (07.03.04): Mizutani's point (26.006, 85.11) lies c. 2 km W of the tank point (07.03.x1,
   25.999, 85.131), but IAR 1990–91 puts the tank 20 m S of the pillar; check the pillar's position and move the point.
+- **From the 2026-11-12 coding (lit_batch8-11):** Tarzi's 2008 find of a c. 19 m reclining Buddha in the Eastern
+  Monastery at Bamiyan is known only from press reports; his later report would test 01.37.02. The Gūzgān capital in
+  630 (01.34) is open between Sar-i Pul and Gurziwān/Kundarm; the mountain seat is unlocated on the map. At
+  Nagarahara, Ball & Gardin's coordinates put Tepe Khwaja Lahori W/NW of Tepe Ashrak, against a Dīpaṅkara stūpa 2 li E
+  of the city (02.03.02), and the distance of Tepe Ashrak (Shah Nasr) from Jalalabad differs between sources (3 vs
+  10 km); Ball's *Archaeological Gazetteer* (2nd ed. 2019) would settle the points. Kucha (01.06): the Youyilu
+  epitaph makes the walled old city (Pilang) the Tang Anxi seat; the proposed identification could name it.
 - **Ujjayinī (11.12) and Bharukaccha (11.04)** were raised to high on excavation of the agreed site plus an unbroken
   name; neither has a dated 7th-century find or an inscription naming the place. Revisit if the rule is read strictly.

@@ -1163,6 +1163,12 @@ of evidence; see the assessment.
 887–9). He reviews St. Martin's Banavāsi, Fergusson's Mysore, Yazdani's Kuntalapura (Kubattūr), Burgess's Kopal or
 Kokanūr, Fleet's Karnūl and Watters' doubts, and rejects 足立喜六's Khanapur.
 
+**Recent scholarship.** Suvrathan (2013, pp. 247–251) reports the Banavasi–Gudnapur Regional Survey (2009–12): a
+full-coverage survey of 25 km² round Banavasi recorded over 350 sites, among them several possible stūpas, and a
+fragmentary Brāhmī inscription ("of Deva-", 1st c. BC–early centuries AD) on a rock in the Varadā bed over 1 km NE of
+the town. Banavasi stayed an administrative and regional centre after the Kadamba period. Nothing is dated to the 7th
+century or names Koṅkaṇapura, and Xuanzang is not discussed; the fuller account is Suvrathan 2014.
+
 **Assessment.** Banavasi now has a fortified early city with Buddhist remains, on the Varadā that Mizutani includes in
 the country, and it was the Kadamba capital, occupied through the Kadamba period into a post-Kadamba phase. But the
 IAR reports assert the Xuanzang link from tradition, without argument from the route, and the Buddhist finds are
@@ -1464,11 +1470,20 @@ da/dha. The key renders j by 常/章 (23 of 24), never by 澄, so Jejāka(bhukti
 character, and 陀 does not give -ka or -ti. Jejākabhukti is a real name for Bundelkhand in the inscriptions, but its
 match with 擲枳陀 is loose. No form that fits the characters has been found (data/names/).
 
+**Recent scholarship.** Chadhar (2020, p. 930), summarising the Sagar University excavations at Eran (1960–65,
+1986–88, 1998), reports a burnt layer about a foot thick which he ties to Mihirakula's attack c. 510, and says that
+after the Gupta–Huṇa period Airikiṇa is named in no text, inscription or coin and the settlement's history resumes
+only in the 9th century, when Eran came into Jejākabhukti. If that holds, the excavated sequence has no 7th-century town,
+which weighs against Eran as the capital; but it is an overview, not the excavation report, and a gap in limited
+trenches is not proof of absence. Xuanzang is not discussed.
+
 **Assessment.** The inscriptions and caste names show that Jejākabhukti/Jajhoti was Bundelkhand's name in the
 11th–12th centuries, and most authorities take 擲枳陀 for it, against Chitor and Chedi. But the link between that name
 and the characters is loose (擲 is a retroflex, not the j of Jejāka; see Name), and Bundelkhand lies about twice the
 stated distance from Ujjain, so the country is probable rather than fixed. The capital stays open: Khajuraho has the
-circuit and a Buddhist pedestal but needs the kos reading; Eran fits the distances.
+circuit and a Buddhist pedestal but needs the kos reading; Eran fits the distances, but its excavated sequence
+reportedly breaks between c. 510 and the 9th century (Chadhar 2020), which leaves no 7th-century town on present
+evidence.
 
 ### 11.14 摩醯濕伐羅補羅國 (Maheśvarapura) — Gwalior; Mandla and Seronj lapse, Maheswar is a name only
 

@@ -46,6 +46,8 @@ compares it, doubtfully, with Dar-i Andara near Maimana, not with Andarāb. BDNA
 stands (data/names/bactrian.tsv).
 **Kuwayama (2002).** Agrees: 安呾羅縛 "is definitely phonetically equal to Andarab", one of the three countries Xuanzang
 says were subject to the Turks; on his return he came down the upper Andarāb from the Khawak (pp. 132–33).
+**Recent scholarship.** The 18th-century "present name" gloss of the Tibetan Xiyu ji, be lu ra, is wrong; Takata
+(2020, pp. 356–357) guesses Balti (Baltistan) and himself puts the country on the Doshi river in S Baghlan. No weight.
 **Assessment.** Probable on the name and agreement, and Foucher's plateau at Banu gives a plausible, unexcavated
 capital site. The short Andarāb–Khost leg is a problem of the figures, not of the identification. The Bactrian
 district Andar is a different place (see Name).
@@ -184,6 +186,8 @@ a dental s, does not fit. The characters give Khaṣa, the local Kaš of Kāšγ
 Sanskritised form; Skt. khaṣa in the tribute list of the Sabhāparvan (Mbh 2, App.) attests the spelling only, since
 that people is Himalayan. The "correct" name 室利訖栗多底 fits *Śrīkṛtatī by the key but is unattested. Medium confidence;
 the identification is unaffected (data/names/).
+**Recent scholarship.** The 18th-century Tibetan Xiyu ji glosses 佉沙 correctly as ka si kā ra (Kashgar), after the
+Qing 喀什噶爾 (Takata 2020, p. 357).
 **Assessment.** Secure in substance on the text's gloss and the name; medium by the study's rule, since these
 sources give no site evidence.
 

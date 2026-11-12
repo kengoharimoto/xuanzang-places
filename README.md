@@ -28,7 +28,7 @@ Five kinds of evidence were set against him:
 - *Epigraphia Indica* and the *Corpus Inscriptionum Indicarum*;
 - the district gazetteers.
 
-A sixth, added in November 2026, is the scholarship since Ji (1985): 454 items listed, 64 read and coded so far, and
+A sixth, added in November 2026, is the scholarship since Ji (1985): 454 items listed, 84 read and coded so far, and
 *Indian Archaeology – A Review* extended to 2013–14 ("Recent scholarship" below; `data/LITERATURE.md`).
 
 **What they show.** 442 of the 480 places have a note (Mizutani's 419 and 61 added ones). The 38 without a note are
@@ -146,13 +146,14 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
   Internet Archive OCR, in `data/ref/baluch/` (gitignored). The identifiers are listed in
   `../yoga-gazetteers/regions/data/selection.tsv` (BAL*). They are coded as B001–B055 in `data/coded/gaz_batch10.tsv`.
 - **Recent scholarship, 1985–2026** (`data/LITERATURE.md`, `data/literature.tsv`, `data/LIT_INSTRUCTIONS.md`). A
-  bibliography of 454 items built region by region in English, Japanese, Chinese and European languages; 64
-  open-access items read and coded (`data/coded/lit_batch1-7.tsv`, 142 relevant rows, quotes checked; Tsuchiya 2010 OCR'd with Google Vision), shown on the map
+  bibliography of 454 items built region by region in English, Japanese, Chinese and European languages; 84
+  items read and coded (`data/coded/lit_batch1-11.tsv`, 177 relevant rows, quotes checked; Tsuchiya 2010 OCR'd with Google Vision), shown on the map
   as "Recent scholarship (since 1985)" and folded into the notes as **Recent scholarship.** paragraphs. Among them:
   Falk 2017 and Davis et al. 2016 (Kapilavastu, Rāmagrāma), Kuwayama's papers of 1985–99 and Miyamoto 2012–18
   (Afghanistan, Tokharistan), Naiki 2015 and 2021 (Chanaka Dheri, Taxila), Dar & Hameed 2018 (Siṃhapura), Verardi 2012
   and Filigenzi 2015 (Kashmir Smast, Swat), Shimada 2013 (Amarāvatī), Ambekar et al. 2023 (Vadnagar), Talati 2024 and
-  Zhang 2016 (Khotan), the Ak-Beshim reports, and Deepak Anand's field reports from Magadha (a blog, cited as such and
+  Zhang 2016 (Khotan), the Ak-Beshim reports with Jokura et al. 2017 (the Du Huaibao stone), the ICOMOS radiocarbon dates and Tarzi 2007
+  (Bamiyan), Errington 2017 (Masson's Nagarahara and Hadda), Sims-Williams 2002 (Gūzgān), and Deepak Anand's field reports from Magadha (a blog, cited as such and
   never the sole ground for a rating). *Indian Archaeology – A Review* 2007–08 and 2009–10 to 2013–14 (ASI
   Aurangabad Circle PDFs, text by pdftotext) were added to the IAR index, with 1990–91 and 1993–94 (missing from the study's scans) and a pass over all
   volumes for sites the index had lacked (Banavasi, Valabhī, Ujjain, Kanchipuram, the Odisha and Andhra sites, Tamluk,
@@ -289,12 +290,21 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      and Life passages with translations, and the note.
 ## What the recent scholarship changes
 
-The pass over the literature since 1985 (November 2026; `data/LITERATURE.md`) changed 79 updates rows. Most add
+The pass over the literature since 1985 (November 2026; `data/LITERATURE.md`) changed 86 updates rows. Most add
 evidence or candidates; these change the picture:
 
 - **Kapilavastu** (06.02) is open again between Piprahwa–Ganwaria and Tilaurakot (low): see above. Its dependent
   sites follow; Gotihawa stands on its own evidence as Krakucchanda's town (06.02.05, Mauryan stūpa and pillar stump in
   situ, Verardi via Falk; medium).
+- **Bamiyan** (01.37.01, 01.37.01a): the ICOMOS radiocarbon dates (Petzet 2009, pp. 231–35) put the East Buddha
+  at 544–595 and the West Buddha at 591–644 (2σ), so both most probably stood in c. 630; no metal was found on the
+  painted clay, so 鍮石 describes a gold-painted surface (Kuwayama's reading). Tarzi 2007 dated the Eastern Monastery's
+  rebuilding to the later 6th century (in use in 630) but had not found the reclining Buddha (01.37.02 stays low).
+- **Gūzgān** (01.34): Sims-Williams 2002 shows Ambēr (Sar-i Pul) as the capital only in the Arab period; the
+  pre-Islamic kings sat at Gurziwān/Kundarm in the mountains, so the capital of 630 is open. **Chach** (01.09): the
+  chief town is open among Kanka, Mingurik and Binkath. **Nagarahara** (02.03.01a, 02.03.02): Errington 2017 shows
+  Kuwayama's Shah Nasr Ghundai to be Masson's Tepe Ashrak and adds Tepe Khwaja Lahori (Mizuno) as a third candidate
+  for the Dīpaṅkara stūpa. No rating changed.
 - **Rāmagrāma** (06.03): the brick stūpa S of Parāsi Bazar (Ramgram, Nepal), about 46 km E of Lumbinī at the study's
   li, is a new candidate (Falk 2017; low); Dharmauli the alternative. The charcoal stūpa (06.03.04) is open between
   Lauriya-Nandangarh, Rajdhani and Falk's Rampurwa, none fitting every leg.
@@ -398,9 +408,9 @@ These are medium- or high-confidence proposals that move away from Mizutani; how
 ## Limits
 
 - **Later scholarship.** Mizutani is the 1971 state of the question; Ji (1985) brings it to about 1980. Of the work
-  since then, 64 open-access items have been read (`data/LITERATURE.md`); the searches ran out of budget part way, so
+  since then, 84 items have been read (`data/LITERATURE.md`); the searches ran out of budget part way, so
   coverage is uneven, and the key books and paywalled reports (Coningham et al. 2018 on Tilaurakot, Srivastava 1996,
-  the Rissho and Kansai reports, Kuwayama's Rinsen volumes, Errington 1993, Saran 2008 on Juafardih, the Telhara
+  the Rissho and Kansai reports, Kuwayama's Rinsen volumes, Errington 1993 (Errington 2017 is read), Saran 2008 on Juafardih, the Telhara
   report) are listed there as wanted. Works cited at second hand are marked "not read" in the notes. *Indian
   Archaeology* is in up to 2013–14, without 2001–07 and 2008–09.
 - **Original names.** All 359 forms have been tested: the 92 asterisked or queried ones, and the 267 "secure" ones

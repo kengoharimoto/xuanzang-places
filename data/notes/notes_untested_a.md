@@ -53,6 +53,9 @@ the local Saka Argiña, Tocharian *Arkeñe and the old 焉耆 (Argi) are not wha
 learned Sanskritisation of the local name; the Uighur Maitrisimit colophon's Aknidiš < Agnideśa for Yanqi (Müller and
 Henning, reported by Ji p. 51) shows the Sanskrit name in Buddhist use. Medium confidence; the identification is
 unaffected (data/names/).
+**Recent scholarship.** The 18th-century "present name" gloss in the Ōtani manuscript of the Tibetan Xiyu ji reads
+Aksu (ak sū); Takata (2020, p. 354) shows it is an error, prompted by the translator's spelling u shi ri (Uch), and
+puts Agni at Karashahr. No weight.
 **Assessment.** Probable to secure on the name and the Tang equation; the authorities agree. Mizutani stands.
 
 ### 01.05a 阿耆尼國大都城 — Stein's Bagdad-shahr south of Karashahr; only one proposal
@@ -76,8 +79,15 @@ by the king and Mokṣagupta.
 Kucha, without evidence given (p. 56).
 **Recent scholarship.** Zhang and Zhu (2019, p. 146) take the capital for the Pilang old city (皮朗古城), citing the brief
 report on the 2016 excavation of the Kucha old city (*Xinjiang wenwu* 2017(2), not read here); they give no evidence
-of their own.
-**Assessment.** Secure as a district on the name; no site evidence for the capital in these files. Mizutani stands.
+of their own. The Xinjiang Institute's 2025 Youyilu cemetery excavation (project summary, Wang Yongqiang; pdf pp. 1–2)
+sectioned the E wall of the Kucha old city (龟兹故城) under modern Kuqa (rammed earth, 8.5 m wide and 1.98 m high as
+preserved) and its moat (3 m deep, 8 m wide), beside 510 tombs of the Warring States, Wei-Jin and Tang periods. The
+Tang brick tomb M138 has the epitaph of 尹公, a commissioner of the Four Garrisons, buried "都护府城东乌垒原", east of the
+Protectorate city: so the walled old city was the Tang Anxi seat at Kucha. The wall is not dated in the summary. The
+18th-century Tibetan Xiyu ji glosses 屈支 correctly as khu ṭe (Kuche) (Takata 2020, p. 354).
+**Assessment.** Secure as a district on the name. For the capital there is now Tang site evidence: an epitaph places
+the Anxi Protectorate city at the walled Kucha old city (Pilang) under modern Kuqa (Youyilu 2025), where Ji and Zhang
+and Zhu put the capital; that it is the city of 630 is likely but not shown. Mizutani stands.
 
 ### 01.06.02 昭怙釐伽藍 — the twin Subashi monasteries astride the river NNE of Kucha
 
@@ -113,6 +123,9 @@ site has an inscription naming the monastery. Duldur-Aqur stays on the map, open
 **Evidence.** The alternative names 熱海 "hot sea" and 鹹海 translate Issyk-kul "warm lake"/Tuz-kul; the lake is long
 E–W, salty and ringed by mountains, as described. The Life (T50:0227a) gives 1,400–1,500 li round.
 **Ji Xianlin et al. (1985).** Ji agrees: Issyk-kul (p. 70).
+**Recent scholarship.** The 18th-century "present name" gloss of the Tibetan Xiyu ji, to si khe la, is Kyrgyz Tuz-köl
+"salt lake", a local name of Issyk-kul also in the Qing *Xiyu tongwen zhi* (圖斯庫勒) (Takata 2020, pp. 354–355): a
+correct gloss, matching the text's own 鹹海.
 **Assessment.** Secure: the extant lake matches the description and the name.
 
 ### 01.07.04 窣利 (Suɣδ) — Sogdiana, as Xuanzang defines it from Suyab to Kesh
@@ -131,7 +144,14 @@ the Sughd of the Muslim period being much narrower, where Mizutani invokes the S
 within range. The Life (T50:0227c) names it only.
 **Ji Xianlin et al. (1985).** Ji agrees, and puts the old town of Chach at Binkath near the Chirchik, with its plan in
 Belenitskii et al. (1973) (p. 83).
-**Assessment.** Secure as a district on the name; no site evidence. Mizutani stands.
+**Recent scholarship.** The chief town of Chach in the 7th–8th century is disputed. Mukhamedov (2023, p. 40) reports
+the views (after Buryakov and others): Kanka earlier and Mingurik (in Tashkent) later as capitals; or Kanka the
+capital and Mingurik a fortress; or Kanka the seat of the Chach tegins, Mingurik, Tarband and Tunkat of the tuduns;
+the yabghu's camp Jabgukat at the Aq-ota ruin NE of Tashkent. Kubaev and Yusupova (2024, pp. 58, 65) report Kanka (70
+km SW of Tashkent, occupied 4th c. BC–12th c. AD) as Kharashkat and the "Shi-Zheshi" of the Chinese sources; their
+2021 excavation found the city temple of the 3rd–6th century levelled in the 8th. Neither discusses Xuanzang.
+**Assessment.** Secure as a district on the name; no site evidence. The town Xuanzang saw is open among Kanka,
+Mingurik in Tashkent and Ji's Binkath; none is argued from his text. Mizutani stands.
 
 ### 01.09a 葉河 (Yaxartes) — the Syr Darya
 
@@ -139,6 +159,8 @@ Belenitskii et al. (1973) (p. 83).
 **Evidence.** Name Iaxartēs (Strabo); rises in the northern Pamir plateau and flows NW, as the text says. The Life
 (葉葉河) has Chāch to its east and Sutrūṣṇa to its west.
 **Ji Xianlin et al. (1985).** Ji agrees: the Jaxartes (pp. 83–84).
+**Recent scholarship.** The 18th-century "present name" gloss of the Tibetan Xiyu ji at 東臨葉河 reads ta la' si
+(Taraz); Takata (2020, p. 355) shows it is wrong: the 葉河 is the Syr Darya, and Taraz lies over 300 km from it.
 **Assessment.** Secure.
 
 ### 01.10 㤄捍國 (Ferghana) — the Ferghana valley; hearsay
@@ -403,7 +425,8 @@ home of a servant of the khars of Rob in doc. N), but 鋭 stays unexplained and 
 **Recent scholarship.** Miyamoto (2015, p. 315) leaves 鋭秣陀 unidentified, and puts the centre of Gūzgān (01.34) at
 Sar-i Pul, the Tang 遏蜜城 (pp. 312, 291), which adds to the case against Sar-i-pul here. The *Xin Tangshu* passage he
 quotes (p. 291 n. 66) sets the 大秦州 of the same Gūzgān commandery at a 叡蜜城; 叡 sounds like the 鋭 of 鋭秣陀, a lead not
-tested here.
+tested here. Sims-Williams (2002, p. 1050) confirms by Bivar's Arabic inscription near Sar-i Pul that the town was
+Ambēr, where a Bactrian contract of 708 (his reckoning) was written: the name 鋭秣陀 would have to render is settled.
 **Assessment.** Open, and Sar-i-pul is weakened: the position (SW of Balkh) is agreed, but Sar-i-pul rests on one
 tentative suggestion, and its own 7th-century name, Bactrian Amber (Islamic Anbār), is not what 鋭秣陀 transcribes (see
 Name). If Sar-i Pul was the seat of Gūzgān (Miyamoto 2015; 01.34), it is the less likely here. Marquart's Zumathān
@@ -459,9 +482,18 @@ mid-6th c. (1990, pp. 1425–30; 2002, p. 149; p. 157 explains the slip differen
 Xuanzang's, the royal city lay SW of the West Buddha, and nothing there is worth a capital (現存西大佛の西南には都城に値する遺迹は何もない,
 1990, p. 1435); the Islamic geographers' town on a hill could be Shahr-e Gholghola or Shahr-e Zuhak if Xuanzang's
 bearing is set aside (2002, pp. 157–58).
+**Recent scholarship.** Tarzi (2007, pp. 884, 918–19) reads 王城東北 for the 55 m Buddha as putting the royal city W and
+SW of it, "adossée à la montagne", partly rock-cut and partly built, and dug there. At VR 1 (an old caravanserai W of
+the bazaar) cave dwellings give way to built houses, with pre-Islamic "Turkish" pottery (6th–9th c.) under
+Samanid–Ghaznavid and Ghurid levels; at VR 2 (Sorx Qol, W of the 55 m niche at the foot of the cliff) he reached a
+glass-makers' quarter built extra muros against what he takes for the rampart of the pre-Islamic royal city, occupied
+from the late Turkish to the Ghurid period. The rampart itself is not dated there. The Ghurid capital (1155–1221) ran
+from the present airport to Tape Almās, with Gholghola as its citadel (p. 923).
 **Assessment.** Secure for the country. The capital's site is open: Foucher put the old town astride the road and
 river SW of the colossi, Kuwayama finds nothing of a capital's size there, and Ghulghula and Zuhak are the other
-candidates. Mizutani stands.
+candidates. Tarzi's soundings W of the 55 m niche, a rampart with occupation against it from the late pre-Islamic
+period, favour Foucher's SW town but do not show that it stood there in 630; Tarzi gives Ghulghula only as the Ghurid
+citadel. Mizutani stands.
 
 ### 01.37.01 立佛石像 — the western (53 m) Buddha at Bamiyan
 
@@ -477,8 +509,18 @@ p. 159). Date: no text records the making; the colossi belong to Bāmiyān's pro
 Hindu Kush, opened around the mid-6th c., and the 先王's reclining-Buddha monastery between them (01.37.02) to the king
 just before Xuanzang's host, late 6th c. (1990, pp. 1417–25, 1439–44, 1452–53; 2002, pp. 155, 159). He reports and
 sets aside Carter's view (1985) that the 55 m Buddha was made after Xuanzang (2002, p. 159).
-**Assessment.** Secure: a standing monument matching the description, with all authorities agreeing. Kuwayama's
-date (after the mid-6th c.) concerns the monument, not the identification.
+**Recent scholarship.** The ICOMOS team dated 21 organic samples from the rubble by AMS radiocarbon (Blänsdorf et al.
+in Petzet ed. 2009, pp. 231–35): chaff from the clay plaster, the ropes and pegs of the drapery armature and the
+anchoring beams agree, so the clay finish is original, and for the West Buddha they give 591–644 (2σ; 1σ 605–633), the
+East Buddha being c. 50 years older (544–595). The stone core cannot be dated. The West Buddha was thus finished
+shortly before Xuanzang's visit c. 630, or at the latest a few years after it at 2σ. Their paint study (Blänsdorf,
+Pfeffer, Melzl, ibid., pp. 237, 261–63) finds the West Buddha's robe painted pink, then minium, lead white and red
+iron oxide, and no gilding or metal foil on the samples (mostly robe), so the 金色晃曜 is not traced on the surviving
+surface. Tarzi (2007, pp. 886, 921) calls the identification "à cent pour cent sûr" and puts the statue in Bāmiyān's
+second period, from the second half of the 6th c.
+**Assessment.** Secure: a standing monument matching the description, with all authorities agreeing. Kuwayama's date
+(after the mid-6th c.) concerns the monument, not the identification; the radiocarbon dates of the clay finish
+(591–644) agree with it and make Carter's post-Xuanzang date unlikely without excluding it.
 
 ### 01.38.05 舊王伽藍 — the Old Royal monastery: Burj-i-Abdallah at the N end of Begram
 

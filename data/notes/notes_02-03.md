@@ -122,12 +122,24 @@ a mound 10 km SW of the town, and c. 14 km SE of one 10 km W: the first fits the
 (城東南三十餘里至醯羅城), the second the bearing but not the distance. From Cunningham's spot Hadda lies c. 9 km SSE, which fits
 both.
 
+**Recent scholarship.** Errington (2017, pp. 16, 153–156), editing Masson's records, sets out three placings without
+choosing: Masson's Dasht of Begram, a plain of tumuli 1½–2 miles W of Jalalabad; Simpson's (1881) site further NW,
+chosen from the name echoes Naghrat and Nagara Ghundi rather than from the mounds; and the Kyoto survey of 1965
+(Mizuno 1970–1, fig. 24), further W still, taking in the Ashrak Burj, the mounds and Chahar Bagh. Her site list gives
+"Mound of Shah Nasr" as a name of Masson's Tepe Ashrak (Burj Jemadar), a large unexcavated mound "a little north of
+Chahar Bagh" across the Sultanpur ravine (Ball and Gardin no. 261: 34°26′N 70°25′E, c. 3 km W of Jalalabad on those
+rounded coordinates, nearer than Kuwayama's 10 km), and Mizuno tentatively took it for the c. 9 m stūpa Xuanzang saw
+inside the city. Kuwayama's Shāh Naṣr Ghundai is therefore Masson's Tepe Ashrak, and the Kyoto city is drawn round it.
+Masson's late treatise (BL G41, edited pp. 19–20) already put the city in the plain W of Jalalabad.
+
 **Assessment.** The authorities split between the Begram plain (Cunningham, Vivien, Mizutani, Kuwayama) and Simpson's
 junction site (Beal, Watters). Foucher's argument from Hadda and the shadow cave, both secure, favours Begram, though
 nothing has been dug there. Kuwayama names a mound, Shāh Naṣr Ghundai, inside Mizutani's area, on survey and surface
 finds rather than excavation or the text; on the round distances it fits the bearing to Hadda less well than
-Cunningham's nearer spot, and his own two statements (10 km SW, 10 km W) differ. The capital stays on the Begram plain
-W/SW of Jalalabad; which mound is open. Mizutani is strengthened, medium confidence.
+Cunningham's nearer spot, and his own two statements (10 km SW, 10 km W) differ. Errington (2017) shows the mound to
+be Masson's Tepe Ashrak, Mizuno's in-city stūpa, still unexcavated; its distance from Jalalabad is uncertain (Ball and
+Gardin's c. 3 km W against Kuwayama's 10 km and Masson's "a little north of Chahar Bagh"). The capital stays on the
+Begram plain W/SW of Jalalabad; which mound is open. Mizutani is strengthened, medium confidence.
 
 ### 02.03.02 燃燈佛受記窣堵波 — Ahin-Posh (Higuchi) or the "Nagara Goondee" tope (Masson, Simpson)
 
@@ -144,9 +156,21 @@ show a rebuilding in the 2nd century (I, p. 152).
 **Kuwayama (1990).** Only the texts: Faxian's 受記處 2 li E of the city and the Life's 城東二里 (pp. 258–260). He names no
 site.
 
+**Recent scholarship.** Errington (2017, pp. 41, 154–159) reports a third candidate: Mizuno (1970–1, pp. 112–113)
+tentatively took Tepe Khwaja Lahori, a huge mound near the Kabul river on the skirt of Masson's Begram (base c. 549 m
+round, diaper-masonry parapets, caves, coins and funeral jars; unexcavated), for the Aśoka stūpa of the Dīpaṅkara
+story. On Ball and Gardin's rounded coordinates (34°27′N 70°23′E) it lies W/NW of Tepe Ashrak, Mizuno's in-city stūpa
+(02.03.01a), which sits ill with a stūpa 2 li E of the city. For Watters' Nagara Ghundi she gives Jenkins' tunnel of
+1878 (a stray Apollodotus coin only) and Simpson's inner wall, probably an earlier core stūpa, in a base c. 36.6 m
+square: undated, and nothing but the name ties it to Dīpaṅkara. For Ahin-Posh she publishes Simpson's relic cell of
+1879: ashes, a gold amulet case and 18 gold coins of Wima Kadphises, Kaniṣka I and Huviṣka with Roman aurei of
+Domitian, Trajan and Sabina (to AD 137), a Kushan deposit, as Foucher said. She notes that Xuanzang's Aśokan
+attribution "has not been verified on the ground".
+
 **Assessment.** Each candidate depends on where its proponent puts the capital (02.03.01a): Foucher and Higuchi
 measure from Begram, Watters from Simpson's rock. With Begram now favoured, Ahin-Pōsh is the better candidate, but it
-remains a hypothesis. The gazetteers do not change it.
+remains a hypothesis. The gazetteers do not change it. Mizuno's Tepe Khwaja Lahori (via Errington 2017) is a third,
+unexcavated candidate measured from the Kyoto city; none of the three is tied to Dīpaṅkara by a find.
 
 ### 02.03.03 瞿波羅龍窟（佛影窟） — the Shadow Cave: somewhere in the cliffs S/SW of Jalalabad
 
