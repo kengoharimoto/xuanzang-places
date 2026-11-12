@@ -4,8 +4,11 @@
   added: m03447 呬, m10370 㤄, m28367 罽, m34299 裒, m39630 鄧, m42889 鞞, m42940 鞮, m44823 䮚, from CBETA); the coded
   `t_route` keeps the codes for the verbatim check, and `places_mizutani.tsv` and `route/segments.tsv` write the
   characters.
-- **Middle Chinese readings** (`mc_reading`) are often garbled by the OCR and marked "(OCR)": clean against the page
-  images if the readings are wanted.
+- **Middle Chinese readings** (`mc_reading`): resolved: the 105 marked "(OCR)" were read from the page images
+  (`data/mizutani/pages/`) and corrected in `data/coded/mz_juan*.tsv`; one doubtful syllable is marked [?] (11.03
+  muâ-xà[?]-lât-t'a). Conventions as in the rest of the column: tone circles dropped, non-syllabic i̯ as i, χ as x,
+  Karlgren's t̂ d̂ as ṭ ḍ. Six readings stand on a page other than the row's `pdf_page` (05.04 p. 193, 09.02.08 p. 302,
+  11.03 p. 366, 11.14 pp. 378–9, 12.02 p. 390, 12.18.05 p. 405); `pdf_page` is left as the quote's page.
 - **12.06 瞢健**: resolved: the note gives Beal's note (Talikan–Khanabad, with Mizutani) and his heading (Munjān)
   apart; its title no longer opposes Mizutani to Beal.
 - **Duplicate gazetteer scans**: resolved: 219 relevant hits are second scans of a passage in another copy of the same
