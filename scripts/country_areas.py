@@ -6,7 +6,8 @@ Usage (from xuanzang-places/): python3 -I scripts/country_areas.py
   -> map/country_areas.json (rings in lon/lat, read by map/build_page.py)
 
 Method (README, "Country areas"):
-1. The circuit: the first 周N里 of the country's passage that is not a city's (城周); ranges take the mean, 餘
+1. The circuit: the first 周N里 of the country's passage before its capital is described (國大都城…), else the
+   first that is not a city's (城周); ranges take the mean, 餘
    ("over") is ignored, 減 ("less than") takes 0.9. Where the text gives 東西X里，南北Y里 instead, the area is that of an ellipse X by Y.
 2. The scale: straight-line km per li, the median of the route legs of the country's juan (route/li_regions.tsv;
    0.24 where a juan has no figure). So the Deccan's inflated figures are scaled down as its distances are.
@@ -16,8 +17,14 @@ Method (README, "Country areas"):
    cell by cell (0.08 degree grid) in order of distance, until it reaches its target area or 1.6 times the radius of
    its target; a cell goes to the country that reaches it first. Sea stops growth. So neighbours meet half-way
    where they press on each other, and a country with room becomes roughly round.
-These are not borders: the capital need not have been central, mountains and rivers are not modelled, and the
-circuit figures themselves are rough.
+5. Rivers the text names as a country's border (data/country_borders.tsv: 東臨信度河 etc., curated; phrases about
+   the capital city, 國大都城西臨…, are not borders and are left out): the country may not cross the river (its
+   course from Natural Earth's 1:10m centrelines, data/ref/ne_rivers/, widened by one cell; beyond the river's ends
+   its line is carried on straight, so the country cannot go round it), and it grows more
+   readily towards the side the text names (steps in that direction count up to 0.6 of their length), so it reaches
+   the river where its area allows. The river does not bind the neighbour across it.
+These are not borders: the capital need not have been central, mountains are not modelled, rivers have moved
+(the Beas, Sutlej and Ganges among them), and the circuit figures themselves are rough.
 """
 import csv, json, math, re, heapq, collections
 
@@ -45,6 +52,14 @@ def cn(s):
     return base + (r or 0)
 
 def circuit(zh):
+    """The country's own figure: searched first in the text before the capital is described (國大都城…)."""
+    cut = re.search(r"(國?大都城|都城|國大城)", zh)
+    if cut:
+        head = circuit_in(zh[:cut.start()])
+        if head: return head
+    return circuit_in(zh)
+
+def circuit_in(zh):
     for m in re.finditer(r"周([一二三四五六七八九十百千萬餘、減]{1,9})里", zh):
         if "城" in zh[max(0, m.start() - 4):m.start()]: continue
         v = cn(m.group(1))
@@ -69,7 +84,7 @@ for cid, r in P.items():
     c = circuit(TX.get(cid, ""))
     k = scale.get(cid[:2], 0.24)
     row = dict(id=cid, name_zh=r["name_zh"], cls=sv.get("cls", ""), text=c[2] if c else "", circuit_li="", dims_li="",
-               km_per_li=k, target_km2="", drawn_km2="", note="")
+               km_per_li=k, target_km2="", drawn_km2="", borders="", border_check="", note="")
     if not c:
         row["note"] = "no circuit in the text"; rows.append(row); continue
     if c[0] == "circuit":
@@ -102,6 +117,73 @@ for cty in geo:
 # 16 directions (king and knight moves), so distances on the grid come out nearly round, not octagonal
 STEPS = [(1, 0), (-1, 0), (0, 1), (0, -1), (1, 1), (1, -1), (-1, 1), (-1, -1),
          (2, 1), (2, -1), (-2, 1), (-2, -1), (1, 2), (1, -2), (-1, 2), (-1, -2)]
+# --- rivers named as borders ----------------------------------------------------------------------------------
+SIDE = dict(N=(0, 1), S=(0, -1), E=(1, 0), W=(-1, 0), NE=(1, 1), NW=(-1, 1), SE=(1, -1), SW=(-1, -1))
+BORD = collections.defaultdict(list)
+for b in rd("data/country_borders.tsv"): BORD[b["id"]].append(b)
+RIV = collections.defaultdict(list)
+for f in json.load(open("data/ref/ne_rivers/ne_10m_rivers_lake_centerlines.geojson", encoding="utf-8"))["features"]:
+    nm = f["properties"].get("name") or ""; geom = f["geometry"]
+    if not geom: continue
+    lines = geom["coordinates"] if geom["type"] == "MultiLineString" else [geom["coordinates"]]
+    RIV[nm] += lines
+def river_cells(names):
+    cells = set()
+    for nm in names:
+        for line in RIV[nm]:
+            for (x1, y1), (x2, y2) in zip(line, line[1:]):
+                steps = max(1, int(max(abs(x2 - x1), abs(y2 - y1)) / (RES / 3)))
+                for s in range(steps + 1):
+                    x = x1 + (x2 - x1) * s / steps; y = y1 + (y2 - y1) * s / steps
+                    i = int((x - BOX[0]) / RES); j = int((y - BOX[1]) / RES)
+                    for di in (-1, 0, 1):
+                        for dj in (-1, 0, 1):
+                            if 0 <= i + di < NX and 0 <= j + dj < NY: cells.add((j + dj) * NX + i + di)
+    return cells
+def beyond(c, cells, v):
+    """Cells past the river on the named side: in each strip across that direction, everything beyond the river's
+    nearest crossing on that side of the capital; strips the river does not reach take the nearest strip's value."""
+    ci = (c["lon"] - BOX[0]) / RES; cj = (c["lat"] - BOX[1]) / RES
+    reach = 3 * CAP * c["R"] / (111.32 * RES)
+    t = lambda x, y: round((x - ci) * -v[1] + (y - cj) * v[0])      # across
+    s = lambda x, y: (x - ci) * v[0] + (y - cj) * v[1]               # along the named side
+    lim = {}
+    for k in cells:
+        x, y = k % NX, k // NX
+        if math.hypot(x - ci, y - cj) > reach: continue
+        a, b = t(x, y), s(x, y)
+        if b > 0 and (a not in lim or b < lim[a]): lim[a] = b
+    if not lim: return set()
+    keys = sorted(lim)
+    out = set()
+    r = int(reach)
+    for y in range(max(0, int(cj) - r), min(NY, int(cj) + r + 1)):
+        for x in range(max(0, int(ci) - r), min(NX, int(ci) + r + 1)):
+            a = t(x, y)
+            near = a if a in lim else min(keys, key=lambda q: abs(q - a))
+            if s(x, y) > lim[near]: out.add(y * NX + x)
+    return out
+
+for c in countries:
+    bs = BORD.get(c["id"], [])
+    c["bar"] = set(); c["pull"] = []
+    for b in bs:
+        cells = river_cells(b["river_ne"].split(";"))
+        c["bar"] |= cells
+        v = SIDE[b["side"]]; L = math.hypot(*v); c["pull"].append((v[0] / L, v[1] / L))
+        c["bar"] |= beyond(c, cells, (v[0] / L, v[1] / L))
+        # check: does the river lie on the named side of the capital (within twice the target radius)?
+        ci = (c["lon"] - BOX[0]) / RES; cj = (c["lat"] - BOX[1]) / RES; rr = 2 * c["R"] / (111.32 * RES)
+        near = [((k % NX) - ci, (k // NX) - cj) for k in cells if math.hypot((k % NX) - ci, (k // NX) - cj) <= rr]
+        if near:
+            mx = sum(p[0] for p in near) / len(near); my = sum(p[1] for p in near) / len(near)
+            ok = (mx * v[0] + my * v[1]) > 0
+            chk = "%s %s: %s" % (b["side"], b["feature_zh"], "on that side" if ok else "NOT on that side of the capital")
+        else:
+            chk = "%s %s: river beyond reach" % (b["side"], b["feature_zh"])
+        c["row"]["borders"] = (c["row"]["borders"] + "; " if c["row"]["borders"] else "") + b["quote"]
+        c["row"]["border_check"] = (c["row"]["border_check"] + "; " if c["row"]["border_check"] else "") + chk
+
 cellkm = lambda j: (RES * 111.32) ** 2 * math.cos(math.radians(BOX[1] + (j + 0.5) * RES))
 owner = [-1] * (NX * NY)
 area = [0.0] * len(countries)
@@ -125,9 +207,13 @@ while pq:
         a, b = i + di, j + dj
         if not (0 <= a < NX and 0 <= b < NY): continue
         k2 = b * NX + a
-        if owner[k2] != -1 or not land[k2]: continue
+        if owner[k2] != -1 or not land[k2] or k2 in countries[n]["bar"]: continue
         if abs(di) + abs(dj) == 3 and not land[(j + (dj // 2 if abs(dj) == 2 else 0)) * NX + i + (di // 2 if abs(di) == 2 else 0)]: continue
-        nd = d + math.hypot(di * kx, dj * ky)
+        step = math.hypot(di * kx, dj * ky)
+        if countries[n]["pull"]:
+            sl = math.hypot(di, dj)
+            step *= 1 - 0.4 * max(0.0, max((di * u + dj * w) / sl for u, w in countries[n]["pull"]))
+        nd = d + step
         if nd <= CAP * countries[n]["R"]: heapq.heappush(pq, (nd, n, a, b))
 
 # --- outlines: cell edges with the country on the right (clockwise exteriors, as d3-geo wants) -------------------
@@ -201,7 +287,7 @@ for n, c in enumerate(countries):
         for p in polys:
             if inside(h[0], p[0]): p.append(h); break
     if polys:
-        features.append(dict(id=c["id"], cls=c["row"]["cls"], text=c["row"]["text"], kpl=c["row"]["km_per_li"],
+        features.append(dict(id=c["id"], cls=c["row"]["cls"], text=c["row"]["text"], borders=c["row"]["borders"], kpl=c["row"]["km_per_li"],
                              target=c["row"]["target_km2"], drawn=round(area[n]),
                              polys=[[[list(pt) for pt in r] for r in p] for p in polys]))
 

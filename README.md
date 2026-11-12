@@ -304,8 +304,15 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      87 at their full area, 43 hemmed in by neighbours, the sea or the cap. Not drawn: 14 with no circuit (the six
      hearsay countries of SE Asia, Rāmagrāma and Kuśinagara, which are "deserted", Laṅgala's "several thousand li
      each way", the hearsay Fulin, the Women's country, 稽疆那, Nārikela island, Wakhan) and 4 whose capital has no
-     point. The areas show size and rough reach, not borders: the capital need not have been central, mountains and
-     rivers named as borders are not yet used, and the circuits themselves are rounded figures.
+     point. Rivers the text names as a country's border are used (`data/country_borders.tsv`, ten borders of nine
+     countries: Chach and Sutrushana on the Syr Darya, Kumidha and Balkh on the Oxus, Gandhāra, Siṃhapura and Ṭakka
+     on the Indus, Ṭakka also on the Beas, Śatadru on the Sutlej, Srughna on the Ganges; Natural Earth 1:10m
+     courses): the country may not cross the river, whose line is carried on straight beyond its ends, and grows
+     more readily towards it. Phrases about the capital (國大都城西臨殑伽河) are not borders and are left out. One
+     check fails: Śatadru's "great river" on the west (西臨大河) lies north and north-east of the study's point for
+     its capital (Sirhind), which fits the Sanghol alternative no better. The areas show size and rough reach, not
+     borders: the capital need not have been central, mountains are not modelled, rivers have moved since the 7th
+     century, and the circuits themselves are rounded figures.
    - **Place panel:** the study's identification first, then Mizutani, the authorities, every source, the Xiyu ji
      and Life passages with translations, and the note.
 ## What the recent scholarship changes
@@ -487,7 +494,9 @@ These are medium- or high-confidence proposals that move away from Mizutani; how
 - `data/coords.tsv`: coordinates.
 - `route/`: route tests.
 - `map/`: the map page and its builder; `map/country_areas.json` is the country-areas layer (`scripts/country_areas.py`).
-- `data/country_areas.tsv`: each country's circuit as the text gives it, the km per li used, the target and drawn area.
+- `data/country_areas.tsv`: each country's circuit as the text gives it, the km per li used, the target and drawn area,
+  and the river borders with a check of their side. `data/country_borders.tsv`: the rivers the text names as borders.
+  `data/ref/ne_rivers/`: Natural Earth 1:10m river centrelines (public domain; gitignored).
 - `scripts/`: OCR join, text build, extraction, translation, quote checkers, indexes, merge and join.
 - `data/*INSTRUCTIONS*.md`, `data/NOTES_REVISION_*.md`: coding instructions.
 - `PLAN.md`: the original plan.
