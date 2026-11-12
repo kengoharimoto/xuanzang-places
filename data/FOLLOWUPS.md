@@ -198,6 +198,8 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
   river's junction at Naghlu) it has the whole basin, Nijrab, Tagab and the Koh-daman included: 13,111 km² (16%),
   and it fills it. So the circuit (4000 li, 1188 km at juan 1's 0.297 km per li) is far longer than the basin's: either
   the li round a mountain country ran long like the Gandhāra–Kashmir legs, or the circuit took in Kabul (Vṛjisthāna,
-  described separately in 644); open.
+  described separately in 644); open. The other mountain-ringed countries' basins are
+  likewise taken above their gorges (README, "Country areas"); on the 0.08° grid Agni's channel misses the Kaidu and
+  Brahmapura's misses Kalagarh by 2.2 cells, so those two basins are too small (a finer terrain grid would fix both).
 - **Ujjayinī (11.12) and Bharukaccha (11.04)** were raised to high on excavation of the agreed site plus an unbroken
   name; neither has a dated 7th-century find or an inscription naming the place. Revisit if the rule is read strictly.

@@ -25,11 +25,12 @@ Method (README, "Country areas"):
    the river where its area allows. The river does not bind the neighbour across it.
 6. Mountains named as borders (the same table): a range on one side (北背雪山, 北背大山, 東接葱嶺) bars high ground on
    that side, and everything beyond it; mountains all round (山周四境, 四境負山, 四面據山, 山嶺周境, and Kapiśa's and
-   Lampāka's 三陲黑嶺) are a border at their crest: the country has the whole drainage basin above its capital up to
-   the watershed (within its 1.6-radius cap; a basin stops at another country's capital, so Kapiśa's is not
+   Lampāka's 三陲黑嶺) are a border at their crest: the country has the whole drainage basin above the gorge by which
+   its river leaves the ring (GORGE: Tiemenguan, Bekabad, the Panjshir's lower gorge, the Alingar's mouth, Dakka,
+   Baramulla, Larji, Kalagarh, the Mahanadi's exit from Chhattisgarh) up to the watershed (within its 1.6-radius cap; a basin stops at another country's capital, so Kapiśa's is not
    Nagarahāra's), the basin is closed to every neighbour, and outside it the country may not climb high ground. Basins
-   come from the same heights (Priority-Flood from the sea and the grid's edge; the capital's cell is the one within
-   two cells with the largest basin; Kapiśa's is the gorge below its plain, OUTLET_AT). A range named on one side never bars the country's own basin. High ground is ground standing a
+   come from the same heights (Priority-Flood from the sea and the grid's edge; a capital's cell is the one within
+   two cells with the largest basin; a gorge is snapped to the grid's channel downstream of the capital). A range named on one side never bars the country's own basin. High ground is ground standing a
    set rise above the capital's valley floor, the rise set by region (REGION_RISE: 1000 m for the Tian Shan and
    Ferghana, 1200 m for the Oxus and Hindu Kush, 1500 m for the western Himalaya, 250 m for central India).
    Heights from the AWS terrain tiles at zoom 5 (scripts/terrain_grid.py).
@@ -177,27 +178,41 @@ def outlet(c):
     cand = [(j + b) * NX + i + a for a in range(-2, 3) for b in range(-2, 3) if a * a + b * b <= 5
             and 0 <= i + a < NX and 0 <= j + b < NY and land[(j + b) * NX + i + a]]
     return max(cand, key=upstream_count) if cand else None
-# Where the capital stands at a confluence inside its ring of mountains, the basin is taken above the gorge by which the
-# river leaves it: Kapiśa's above the Panjshir's lower gorge, the last cell before the Kabul river joins at Naghlu (on
-# this grid the Panjshir runs Begram - east - south to Naghlu).
-OUTLET_AT = {"01.38": (34.68, 69.64)}
+# A mountain-ringed country's basin is taken above the gorge by which its river leaves the ring (not at the capital,
+# which may stand above a confluence): the point given here is snapped to the nearest cell of the grid's channel
+# downstream of the capital, before that channel reaches another country's capital.
+GORGE = {"01.05": (41.85, 86.20, "Tiemenguan, the Iron Gate above Korla, where the Konqi leaves the Bosten basin"),
+         "01.10": (40.22, 69.30, "the Farhad narrows at Bekabad, where the Syr Darya leaves the Ferghana valley"),
+         "01.38": (34.68, 69.64, "the Panjshir's lower gorge, above the Kabul river's junction at Naghlu"),
+         "02.02": (34.45, 70.28, "the Alingar's mouth on the Kabul river"),
+         "02.03": (34.22, 71.05, "the Kabul river's gorge at Dakka, below the Jalalabad plain"),
+         "03.06": (34.20, 74.34, "the Jhelum's gorge at Baramulla"),
+         "04.04": (31.72, 77.21, "the Beas's gorge at Larji, below the Kullu valley"),
+         "04.11": (29.52, 78.77, "the Ramganga's gorge at Kalagarh, where it leaves the hills"),
+         "10.12": (21.70, 83.20, "the Mahanadi leaving the Chhattisgarh plain for Odisha")}
+for c in countries: c["outlet"] = outlet(c)
+_auto = {c["outlet"]: c["id"] for c in countries if c["outlet"] is not None}
 for c in countries:
-    if c["id"] in OUTLET_AT:
-        la, lo = OUTLET_AT[c["id"]]; c["outlet"] = int((la - BOX[1]) / RES) * NX + int((lo - BOX[0]) / RES)
-    else:
-        c["outlet"] = outlet(c)
+    if c["id"] not in GORGE or c["outlet"] is None: continue
+    la, lo, _ = GORGE[c["id"]]; k, best = c["outlet"], None
+    for _s in range(200):
+        if k < 0 or (_s and _auto.get(k, c["id"]) != c["id"]): break
+        d = math.hypot((BOX[0] + (k % NX + 0.5) * RES - lo) * math.cos(math.radians(la)), BOX[1] + (k // NX + 0.5) * RES - la) / RES
+        if best is None or d < best[0]: best = (d, k)
+        k = down[k]
+    c["gorge_cells"] = round(best[0], 1)
+    c["outlet"] = best[1]
 OUTLETS = {c["outlet"]: c["id"] for c in countries if c["outlet"] is not None}
 def basin(c):
-    """Everything upstream of the capital's outlet, within 1.6 times the target radius, stopping at another country's
+    """Everything upstream of the country's outlet (its capital, or its gorge), within 1.6 times the target radius, stopping at another country's
     outlet (so a basin nested inside, like Kapiśa's within Nagarahāra's Kabul river, stays its own country's)."""
-    ci = (c["lon"] - BOX[0]) / RES; cj = (c["lat"] - BOX[1]) / RES; rr = CAP * c["R"] / (111.32 * RES)
     out, st = set(), [c["outlet"]]
     while st:
-        x = st.pop()
-        if math.hypot(x % NX - ci, x // NX - cj) > rr: continue
-        out.add(x)
+        x = st.pop(); out.add(x)
         st.extend(y for y in up.get(x, ()) if OUTLETS.get(y, c["id"]) == c["id"])
-    return out
+    cl = math.cos(math.radians(c["lat"]))
+    km = lambda x: 111.32 * math.hypot((BOX[0] + (x % NX + 0.5) * RES - c["lon"]) * cl, BOX[1] + (x // NX + 0.5) * RES - c["lat"])
+    return {x for x in out if km(x) <= CAP * c["R"]}
 EXCL = {}     # cell -> the country whose mountain-ringed basin it lies in; closed to every other country
 
 # --- rivers named as borders ----------------------------------------------------------------------------------
@@ -272,7 +287,7 @@ for c in countries:
                 for r in range(1, int(CAP * c["R"] / (111.32 * RES)) + 2):
                     k = int(cj + dy * r) * NX + int(ci + dx * r)
                     if k in high: hit += 1; break
-            chk = "%s: high ground (capital %d m + %d) met in %d of 16 directions; drainage basin above the capital %d km2" % (b["feature_zh"], ce, RISE, hit, round(sum((RES * 111.32) ** 2 * math.cos(math.radians(BOX[1] + (k // NX + 0.5) * RES)) for k in c["basin"])))
+            chk = "%s: high ground (capital %d m + %d) met in %d of 16 directions; drainage basin above %s %d km2" % (b["feature_zh"], ce, RISE, hit, ("the gorge (%s; channel %.1f cells off)" % (GORGE[c["id"]][2], c["gorge_cells"])) if "gorge_cells" in c else "the capital", round(sum((RES * 111.32) ** 2 * math.cos(math.radians(BOX[1] + (k // NX + 0.5) * RES)) for k in c["basin"])))
             c["row"]["borders"] = (c["row"]["borders"] + "; " if c["row"]["borders"] else "") + b["quote"]
             c["row"]["border_check"] = (c["row"]["border_check"] + "; " if c["row"]["border_check"] else "") + chk
             continue
