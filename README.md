@@ -322,7 +322,9 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      Heights come from the open AWS terrain tiles at zoom 5 (`scripts/terrain_grid.py`, `data/ref/terrain/`,
      gitignored). Every one of the eleven meets high ground where the text puts it; Ferghana, Kashmir and Kulūta
      keep to their basins, and Kosala fills the Chhattisgarh plain up to its rim of hills. Kapiśa is drawn at 6% of
-     its circuit, hemmed in by its ranges and its neighbours. The areas show size and rough reach, not borders: the
+     its circuit: Begram's basin opens only towards Kabul and Laghman, whose countries share it, and the mountains
+     bar Kapiśa alone, so Andarab and Bamiyan take the slopes inside its ranges (alone it would reach 80%;
+     `data/FOLLOWUPS.md`). The areas show size and rough reach, not borders: the
      capital need not have been central, rivers have moved since the 7th century, the rises are a choice made by
      region, and the circuits themselves are rounded figures.
    - **Place panel:** the study's identification first, then Mizutani, the authorities, every source, the Xiyu ji
