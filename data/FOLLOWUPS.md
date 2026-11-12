@@ -181,7 +181,7 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
 - **From the coding of the Chrome downloads (lit_batch12-17, 2026-11-12):** the arhat Acala's monastery beside
   瓶耆羅 (Veṅgī) is now 10.13.x1, unlocated (Francis 2025's Guntupalli fails 城側不遠). The ten places added from
   the literature's `new` rows have translations by Claude, not DharmaMitra (local stack down): rerun
-  `scripts/translate_passages.py` on them against the local endpoint when it is back, and compare. Errington 1993 is still unread: Khan Khattak 2019 quotes only her premise
+  `scripts/translate_passages.py` on them against the local endpoint when it is back, and compare. Errington 1993 is still unread (no open copy; `errington1993_palusha` wanted, JSTOR): Khan Khattak 2019 quotes only her premise
   (Sahri Bahlol for 跋虜沙, the Takht-i-Bāhī hill for Daṇḍaloka). Rapin et al. 2022 (`rapin2022_irongates_wall`)
   is the item on the Darband wall's later phases; Stančo et al. 2022 found nothing datable. Sonkh (Härtel 1993) does
   not bear on Mathurā's monasteries. Coningham et al. 2018 (Tilaurakot monograph), Schmidt et al. 2011 and Coningham

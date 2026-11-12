@@ -55,7 +55,8 @@ catalogue (unesdoc), Murakami 2016 (J-STAGE), the KAKEN Maheth summary (saved as
 Connections volumes (Internet Archive copies). What is left, and why:
 - **JAIRO Cloud is down:** all NII-hosted repositories (Teikyo, Waseda, Rissho) show a maintenance notice from
   28 Oct 2026, end date not announced. Not a block; retry later. This holds the Teikyo Ak-Beshim reports, the Rissho
-  Kara Tepe volumes and Noritake 2021.
+  Kara Tepe volumes and Noritake 2021, and `kns2001_palusha` (*The Journal of KNS* 3.1, 2001, pp. 205–210, on Pa-lu-sha's
+  location; kyukan.repo.nii.ac.jp, 503 on 12 Nov).
 - **Durham Worktribe has no file** for the other Coningham papers (Handigaon, both Ramagrama, Dohani–Karma, the Lumbini
   routeway, Satya Narayan): metadata only. They need *Ancient Nepal* itself. The Department of Archaeology's site
   (`doa.gov.np`, Publications) lists issues 1–183, one page each, and nothing later, so not 190–207.
@@ -146,6 +147,7 @@ Connections volumes (Internet Archive copies). What is left, and why:
 - `zhu2012_prophecy` [paywall]: 朱丽双《〈于阗国授记〉译注》(上)(下),《中国藏学》2012年增刊1: 223–268; 2014年增刊1: 121–131 — https://www.cnki.net/
 
 **Gandhāra, Swat, Taxila, Kashmir (juan 2–3)**
+- `errington1993_palusha` [paywall]: Errington, Elizabeth. 'In search of Pa-lu-sha, a city of the central Gandhara plain.' Bulletin of the Asia Institute n.s. 7 (1993): 55–66 — https://www.jstor.org/journal/bullasiainst
 
 - `ali1999_hund` [book]: Ali, Ihsan. 'Excavations at Hund on the banks of the Indus: the last capital of Gandhara.' In A. Meadows and P.S. Meadows (eds), The Indus River: Biodiversity, Resources, Humankind. Karachi: Oxford University Press, 1999, 269–283 — https://www.worldcat.org/search?q=The+Indus+River+Biodiversity+Resources+Humankind
 - `coningham_ali2007_charsadda` [book]: Coningham, Robin and Ihsan Ali (eds). Charsadda: The British-Pakistani Excavations at the Bala Hisar. BAR International Series 1709. Oxford: Archaeopress, 2007 — https://barpublishing.com/charsadda.-the-british-pakistani-excavations-at-the-bala-hisar.html
