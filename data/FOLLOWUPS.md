@@ -189,7 +189,7 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
   hall Gupta in Japanese, "after Late Gupta" in English). The Shāh-jī-kī-ḍherī casket's CKI number was not checked.
 - **Śatadru (04.05):** the text puts a "great river" on the country's west (西臨大河), but the Sutlej lies N and NE of
   both Sirhind and Sanghol (`data/country_areas.tsv`, border check). Either the 大河 is another river (the Ghaggar?)
-  or the country lay further east; the note does not yet discuss this. Mountains named as borders (北背雪山 for
-  Kapiśa and Lampāka, 北背大山 for Srughna) are not yet used by the country areas.
+  or the country lay further east; the note does not yet discuss this. Mountain borders are used with one threshold (1500 m above the capital); Kosala's
+  山嶺周境 does not bind at that height, and a threshold by region may serve better.
 - **Ujjayinī (11.12) and Bharukaccha (11.04)** were raised to high on excavation of the agreed site plus an unbroken
   name; neither has a dated 7th-century find or an inscription naming the place. Revisit if the rule is read strictly.

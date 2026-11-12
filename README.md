@@ -310,9 +310,17 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      courses): the country may not cross the river, whose line is carried on straight beyond its ends, and grows
      more readily towards it. Phrases about the capital (國大都城西臨殑伽河) are not borders and are left out. One
      check fails: Śatadru's "great river" on the west (西臨大河) lies north and north-east of the study's point for
-     its capital (Sirhind), which fits the Sanghol alternative no better. The areas show size and rough reach, not
-     borders: the capital need not have been central, mountains are not modelled, rivers have moved since the 7th
-     century, and the circuits themselves are rounded figures.
+     its capital (Sirhind), which fits the Sanghol alternative no better. Mountains named as borders are used too
+     (the same table, 13 rows): a range on one side (Kapiśa's and Lampāka's 北背雪山, Srughna's 北背大山, Khuttal's
+     東接葱嶺) bars ground on that side standing 1500 m above the capital, and everything beyond it; mountains all
+     round (山周四境 for Ferghana, Nagarahāra, Kulūta and Brahmapura; 四境負山 for Kashmir; 四面據山 for Agni;
+     山嶺周境 for Kosala; 三陲黑嶺 for Kapiśa and Lampāka) bar ground 1500 m above the capital anywhere, so the
+     country fills its basin up to the ridges. Heights come from the open AWS terrain tiles at zoom 5
+     (`scripts/terrain_grid.py`, `data/ref/terrain/`, gitignored). Ferghana and Kashmir now follow their basins.
+     Kosala's hills stand less than 1500 m above Sirpur, so the rule does not bind there; Kapiśa is drawn at 7% of
+     its circuit, hemmed in by its ranges and its neighbours. The areas show size and rough reach, not borders: the
+     capital need not have been central, rivers have moved since the 7th century, the height threshold is a
+     choice (1000 m shrank Kashmir to its valley floor), and the circuits themselves are rounded figures.
    - **Place panel:** the study's identification first, then Mizutani, the authorities, every source, the Xiyu ji
      and Life passages with translations, and the note.
 ## What the recent scholarship changes
@@ -495,7 +503,8 @@ These are medium- or high-confidence proposals that move away from Mizutani; how
 - `route/`: route tests.
 - `map/`: the map page and its builder; `map/country_areas.json` is the country-areas layer (`scripts/country_areas.py`).
 - `data/country_areas.tsv`: each country's circuit as the text gives it, the km per li used, the target and drawn area,
-  and the river borders with a check of their side. `data/country_borders.tsv`: the rivers the text names as borders.
+  and the river and mountain borders with a check of each. `data/country_borders.tsv`: the rivers and mountains the
+  text names as borders.
   `data/ref/ne_rivers/`: Natural Earth 1:10m river centrelines (public domain; gitignored).
 - `scripts/`: OCR join, text build, extraction, translation, quote checkers, indexes, merge and join.
 - `data/*INSTRUCTIONS*.md`, `data/NOTES_REVISION_*.md`: coding instructions.

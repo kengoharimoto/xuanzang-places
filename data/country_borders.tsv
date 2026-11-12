@@ -1,11 +1,24 @@
-id	side	feature_zh	river_ne	quote	note
-01.09	W	葉河	Syr  Darya	西臨葉河	Jaxartes
-01.11	E	葉河	Syr  Darya	東臨葉河	Jaxartes
-01.28	SW	縛芻河	Panj;Amu  Darya	西南隣縛芻河	the upper Oxus (Panj)
-01.32	N	縛芻河	Amu  Darya	北臨縛芻河	Oxus
-02.04	E	信度河	Indus	東臨信度河	
-03.04	W	信度河	Indus	西臨信度河	
-04.01	E	毘播奢河	Beas	東據毘播奢河	Vipāśā
-04.01	W	信度河	Indus	西臨信度河	
-04.05	W	大河	Sutlej	西臨大河	the "great river", taken as the Śatadru (Sutlej) after which the country is named
-04.09	E	殑伽河	Ganges	東臨殑伽河	the Yamunā flows through the middle (閻牟那河中境而流), so it is not a border
+id	side	feature_zh	kind	river_ne	quote	note
+01.05	all	山	enclosed		四面據山	
+01.09	W	葉河	river	Syr  Darya	西臨葉河	Jaxartes
+01.10	all	山	enclosed		山周四境	the Ferghana basin
+01.11	E	葉河	river	Syr  Darya	東臨葉河	Jaxartes
+01.27	E	葱嶺	range		東接葱嶺	the Pamirs; read as Khuttal's own east border (東接葱嶺，至拘謎陀國)
+01.28	SW	縛芻河	river	Panj;Amu  Darya	西南隣縛芻河	the upper Oxus (Panj)
+01.32	N	縛芻河	river	Amu  Darya	北臨縛芻河	Oxus
+01.38	all	黑嶺	enclosed		北背雪山，三陲黑嶺	snow range on the north, black ranges on the other three sides
+01.38	N	雪山	range		北背雪山	the Hindu Kush
+02.02	all	黑嶺	enclosed		北背雪山，三垂黑嶺	as Kapiśa
+02.02	N	雪山	range		北背雪山	
+02.03	all	山	enclosed		山周四境	
+02.04	E	信度河	river	Indus	東臨信度河	
+03.04	W	信度河	river	Indus	西臨信度河	
+03.06	all	山	enclosed		四境負山	the Vale of Kashmir
+04.01	E	毘播奢河	river	Beas	東據毘播奢河	Vipāśā
+04.01	W	信度河	river	Indus	西臨信度河	
+04.04	all	山	enclosed		山周四境	
+04.05	W	大河	river	Sutlej	西臨大河	"the ""great river"", taken as the Śatadru (Sutlej) after which the country is named"
+04.09	N	大山	range		北背大山	the Siwaliks and the Himalaya
+04.09	E	殑伽河	river	Ganges	東臨殑伽河	the Yamunā flows through the middle (閻牟那河中境而流), so it is not a border
+04.11	all	山	enclosed		山周四境	
+10.12	all	山嶺	enclosed		山嶺周境	

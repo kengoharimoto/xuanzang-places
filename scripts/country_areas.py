@@ -23,7 +23,11 @@ Method (README, "Country areas"):
    its line is carried on straight, so the country cannot go round it), and it grows more
    readily towards the side the text names (steps in that direction count up to 0.6 of their length), so it reaches
    the river where its area allows. The river does not bind the neighbour across it.
-These are not borders: the capital need not have been central, mountains are not modelled, rivers have moved
+6. Mountains named as borders (the same table): a range on one side (北背雪山, 北背大山, 東接葱嶺) bars ground on that
+   side standing 1500 m above the capital, and everything beyond it; mountains all round (山周四境, 四境負山,
+   四面據山, 山嶺周境, and Kapiśa's and Lampāka's 三陲黑嶺) bar ground 1000 m above the capital anywhere, so the
+   country stays in its basin. Heights from the AWS terrain tiles at zoom 5 (scripts/terrain_grid.py).
+These are not borders: the capital need not have been central, rivers have moved
 (the Beas, Sutlej and Ganges among them), and the circuit figures themselves are rough.
 """
 import csv, json, math, re, heapq, collections
@@ -117,6 +121,13 @@ for cty in geo:
 # 16 directions (king and knight moves), so distances on the grid come out nearly round, not octagonal
 STEPS = [(1, 0), (-1, 0), (0, 1), (0, -1), (1, 1), (1, -1), (-1, 1), (-1, -1),
          (2, 1), (2, -1), (-2, 1), (-2, -1), (1, 2), (1, -2), (-1, 2), (-1, -2)]
+# --- elevation (scripts/terrain_grid.py) and the heights that count as a mountain border -----------------------
+RANGE_RISE = 1500     # a range on one side: ground this far above the capital
+BASIN_RISE = 1500     # mountains all round: ground this far above the capital
+_t = json.load(open("data/ref/terrain/grid.json"))
+assert _t["nx"] == int((BOX[2] - BOX[0]) / RES) and abs(_t["res"] - RES) < 1e-9
+ELEV = _t["elev"]
+
 # --- rivers named as borders ----------------------------------------------------------------------------------
 SIDE = dict(N=(0, 1), S=(0, -1), E=(1, 0), W=(-1, 0), NE=(1, 1), NW=(-1, 1), SE=(1, -1), SW=(-1, -1))
 BORD = collections.defaultdict(list)
@@ -167,11 +178,41 @@ def beyond(c, cells, v):
 for c in countries:
     bs = BORD.get(c["id"], [])
     c["bar"] = set(); c["pull"] = []
+    ci = (c["lon"] - BOX[0]) / RES; cj = (c["lat"] - BOX[1]) / RES
+    reach = int(3 * CAP * c["R"] / (111.32 * RES)) + 1
+    ce = sorted(ELEV[(int(cj) + dj) * NX + int(ci) + di] for di in (-1, 0, 1) for dj in (-1, 0, 1))[4]
+    box = [(y * NX + x) for y in range(max(0, int(cj) - reach), min(NY, int(cj) + reach + 1))
+           for x in range(max(0, int(ci) - reach), min(NX, int(ci) + reach + 1))]
     for b in bs:
+        if b["kind"] == "enclosed":
+            # mountains all round: the country stays below the capital's height + BASIN_RISE
+            high = {k for k in box if ELEV[k] >= ce + BASIN_RISE}
+            c["bar"] |= high
+            hit = 0
+            for a in range(16):
+                dx, dy = math.cos(a * math.pi / 8), math.sin(a * math.pi / 8)
+                for r in range(1, int(CAP * c["R"] / (111.32 * RES)) + 2):
+                    k = int(cj + dy * r) * NX + int(ci + dx * r)
+                    if k in high: hit += 1; break
+            chk = "%s: high ground (capital %d m + %d) met in %d of 16 directions" % (b["feature_zh"], ce, BASIN_RISE, hit)
+            c["row"]["borders"] = (c["row"]["borders"] + "; " if c["row"]["borders"] else "") + b["quote"]
+            c["row"]["border_check"] = (c["row"]["border_check"] + "; " if c["row"]["border_check"] else "") + chk
+            continue
+        v = SIDE[b["side"]]; L = math.hypot(*v); u = (v[0] / L, v[1] / L)
+        c["pull"].append(u)
+        if b["kind"] == "range":
+            # a range on the named side: high ground there (capital's height + RANGE_RISE), and all beyond it
+            cells = {k for k in box if ELEV[k] >= ce + RANGE_RISE and ((k % NX) - ci) * u[0] + ((k // NX) - cj) * u[1] > 0}
+            c["bar"] |= cells | beyond(c, cells, u)
+            ok = bool(cells)
+            chk = "%s %s: %s" % (b["side"], b["feature_zh"], ("high ground (capital %d m + %d) on that side" % (ce, RANGE_RISE)) if ok else "no high ground on that side within reach")
+            if b["quote"] not in c["row"]["borders"]:
+                c["row"]["borders"] = (c["row"]["borders"] + "; " if c["row"]["borders"] else "") + b["quote"]
+            c["row"]["border_check"] = (c["row"]["border_check"] + "; " if c["row"]["border_check"] else "") + chk
+            continue
         cells = river_cells(b["river_ne"].split(";"))
         c["bar"] |= cells
-        v = SIDE[b["side"]]; L = math.hypot(*v); c["pull"].append((v[0] / L, v[1] / L))
-        c["bar"] |= beyond(c, cells, (v[0] / L, v[1] / L))
+        c["bar"] |= beyond(c, cells, u)
         # check: does the river lie on the named side of the capital (within twice the target radius)?
         ci = (c["lon"] - BOX[0]) / RES; cj = (c["lat"] - BOX[1]) / RES; rr = 2 * c["R"] / (111.32 * RES)
         near = [((k % NX) - ci, (k // NX) - cj) for k in cells if math.hypot((k % NX) - ci, (k // NX) - cj) <= rr]
@@ -280,8 +321,10 @@ for n, c in enumerate(countries):
     if area[n] < c["A"] * 0.98:
         c["row"]["note"] = "drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap"
     rings = [[(round(BOX[0] + x * RES, 3), round(BOX[1] + y * RES, 3)) for x, y in chaikin(dp(r))] for r in outline(n)]
-    ext = [r for r in rings if sarea(r) < 0]     # clockwise in lon/lat
-    holes = [r for r in rings if sarea(r) > 0]
+    km2 = lambda r: abs(sarea(r)) * 111.32 ** 2 * math.cos(math.radians(r[0][1]))
+    # detached slivers and pinholes (where growth slipped between barrier cells) are dropped: under 400 km² or 3%
+    ext = [r for r in rings if sarea(r) < 0 and (km2(r) >= 400 or km2(r) >= 0.03 * area[n])]   # clockwise in lon/lat
+    holes = [r for r in rings if sarea(r) > 0 and km2(r) >= 400]
     polys = [[e] for e in ext]
     for h in holes:
         for p in polys:
