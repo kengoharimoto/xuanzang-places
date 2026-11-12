@@ -324,8 +324,9 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      Heights come from the open AWS terrain tiles at zoom 5 (`scripts/terrain_grid.py`, `data/ref/terrain/`,
      gitignored). Every one of the eleven meets high ground where the text puts it; Ferghana, Kashmir and Kulūta
      keep to their basins, and Kosala fills the Chhattisgarh plain up to its rim of hills. Kapiśa, at first drawn at 6% of its circuit
-     because Andarab and Bamiyan took the slopes inside its ranges, now has the Ghorband and Panjshir valleys up to the
-     Hindu Kush (12,266 km², 15%); Kabul (Vṛjisthāna) and Laghman (Lampāka) still share Begram's open ground. The areas show size and rough reach, not borders: the
+     because Andarab and Bamiyan took the slopes inside its ranges, now has its whole basin above the Panjshir's lower gorge
+     (its outlet set there, `OUTLET_AT`): the Ghorband, the Panjshir, Nijrab and Tagab and the Koh-daman up to the Hindu
+     Kush, 13,111 km², 16% of its circuit. It fills that basin, so the rest of the gap lies in the circuit itself. The areas show size and rough reach, not borders: the
      capital need not have been central, rivers have moved since the 7th century, the rises are a choice made by
      region, and the circuits themselves are rounded figures.
    - **Place panel:** the study's identification first, then Mizutani, the authorities, every source, the Xiyu ji

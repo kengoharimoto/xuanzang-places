@@ -194,7 +194,10 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
   reached 67,515 km², but Vṛjisthāna (Kabul, 56 km) and Lampāka shared Begram's open ground, and Andarab (12.03) and
   Bamiyan (01.37) took the slopes inside its ranges, which barred Kapiśa alone. Mountains all round are now read as a
   border at the crest (the drainage basin above the capital, closed to neighbours): Kapiśa has the Ghorband and
-  Panjshir valleys, 12,266 km² (15%). The rest of the gap is the neighbours' capitals close by, or a circuit
-  that took in Kabul in 630 (Vṛjisthāna was described in 644); open.
+  Panjshir valleys; with the basin taken above the Panjshir's lower gorge (outlet at 34.68 N 69.64 E, above the Kabul
+  river's junction at Naghlu) it has the whole basin, Nijrab, Tagab and the Koh-daman included: 13,111 km² (16%),
+  and it fills it. So the circuit (4000 li, 1188 km at juan 1's 0.297 km per li) is far longer than the basin's: either
+  the li round a mountain country ran long like the Gandhāra–Kashmir legs, or the circuit took in Kabul (Vṛjisthāna,
+  described separately in 644); open.
 - **Ujjayinī (11.12) and Bharukaccha (11.04)** were raised to high on excavation of the agreed site plus an unbroken
   name; neither has a dated 7th-century find or an inscription naming the place. Revisit if the rule is read strictly.

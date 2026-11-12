@@ -29,7 +29,7 @@ Method (README, "Country areas"):
    the watershed (within its 1.6-radius cap; a basin stops at another country's capital, so Kapiśa's is not
    Nagarahāra's), the basin is closed to every neighbour, and outside it the country may not climb high ground. Basins
    come from the same heights (Priority-Flood from the sea and the grid's edge; the capital's cell is the one within
-   two cells with the largest basin). A range named on one side never bars the country's own basin. High ground is ground standing a
+   two cells with the largest basin; Kapiśa's is the gorge below its plain, OUTLET_AT). A range named on one side never bars the country's own basin. High ground is ground standing a
    set rise above the capital's valley floor, the rise set by region (REGION_RISE: 1000 m for the Tian Shan and
    Ferghana, 1200 m for the Oxus and Hindu Kush, 1500 m for the western Himalaya, 250 m for central India).
    Heights from the AWS terrain tiles at zoom 5 (scripts/terrain_grid.py).
@@ -177,7 +177,15 @@ def outlet(c):
     cand = [(j + b) * NX + i + a for a in range(-2, 3) for b in range(-2, 3) if a * a + b * b <= 5
             and 0 <= i + a < NX and 0 <= j + b < NY and land[(j + b) * NX + i + a]]
     return max(cand, key=upstream_count) if cand else None
-for c in countries: c["outlet"] = outlet(c)
+# Where the capital stands at a confluence inside its ring of mountains, the basin is taken above the gorge by which the
+# river leaves it: Kapiśa's above the Panjshir's lower gorge, the last cell before the Kabul river joins at Naghlu (on
+# this grid the Panjshir runs Begram - east - south to Naghlu).
+OUTLET_AT = {"01.38": (34.68, 69.64)}
+for c in countries:
+    if c["id"] in OUTLET_AT:
+        la, lo = OUTLET_AT[c["id"]]; c["outlet"] = int((la - BOX[1]) / RES) * NX + int((lo - BOX[0]) / RES)
+    else:
+        c["outlet"] = outlet(c)
 OUTLETS = {c["outlet"]: c["id"] for c in countries if c["outlet"] is not None}
 def basin(c):
     """Everything upstream of the capital's outlet, within 1.6 times the target radius, stopping at another country's
