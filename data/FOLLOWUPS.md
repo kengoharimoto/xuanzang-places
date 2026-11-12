@@ -190,12 +190,11 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
 - **Śatadru (04.05):** the text puts a "great river" on the country's west (西臨大河), but the Sutlej lies N and NE of
   both Sirhind and Sanghol (`data/country_areas.tsv`, border check). Either the 大河 is another river (the Ghaggar?)
   or the country lay further east; the note does not yet discuss this. Mountain borders use a rise set by region
-  (`scripts/country_areas.py`, REGION_RISE); Kapiśa (01.38) is drawn at 6% of its circuit's area (5,006 of 84,233
-  km²). Cause (variants of scripts/country_areas.py, November 2026): alone, with its mountain rules, it reaches
-  67,515 km²; with its neighbours and no mountain rules, 10,654; without Vṛjisthāna (12.02, Kabul, 56 km away) 12,810;
-  without the five near neighbours (12.02, 02.02, 02.03, 02.04, with 11.23 and 12.01) 55,978. Begram's basin opens only
-  south and east, towards Kabul and Laghman, and the mountains bar Kapiśa alone: Andarab (12.03) and Bamiyan (01.37)
-  take the slopes inside its ranges. A fix would read 山周四境 / 三陲黑嶺 as the crest (the drainage basin up to the
-  watershed, closed to the neighbours as well); not done.
+  (`scripts/country_areas.py`, REGION_RISE); Kapiśa (01.38) was drawn at 6% of its circuit's area: alone it
+  reached 67,515 km², but Vṛjisthāna (Kabul, 56 km) and Lampāka shared Begram's open ground, and Andarab (12.03) and
+  Bamiyan (01.37) took the slopes inside its ranges, which barred Kapiśa alone. Mountains all round are now read as a
+  border at the crest (the drainage basin above the capital, closed to neighbours): Kapiśa has the Ghorband and
+  Panjshir valleys, 12,266 km² (15%). The rest of the gap is the neighbours' capitals close by, or a circuit
+  that took in Kabul in 630 (Vṛjisthāna was described in 644); open.
 - **Ujjayinī (11.12) and Bharukaccha (11.04)** were raised to high on excavation of the agreed site plus an unbroken
   name; neither has a dated 7th-century find or an inscription naming the place. Revisit if the rule is read strictly.

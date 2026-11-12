@@ -301,7 +301,7 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      figures shrink as its distances do, and turned into an area at 0.75 of a circle's compactness. From the
      study's point for the capital, every country then grows over land at once, nearest cells first, until it
      reaches that area or 1.6 times its radius; neighbours meet half-way, and the sea stops growth. 130 are drawn:
-     77 at their full area, 53 hemmed in by neighbours, the sea or the cap. Not drawn: 14 with no circuit (the six
+     79 at their full area, 51 hemmed in by neighbours, the sea or the cap. Not drawn: 14 with no circuit (the six
      hearsay countries of SE Asia, Rāmagrāma and Kuśinagara, which are "deserted", Laṅgala's "several thousand li
      each way", the hearsay Fulin, the Women's country, 稽疆那, Nārikela island, Wakhan) and 4 whose capital has no
      point. Rivers the text names as a country's border are used (`data/country_borders.tsv`, ten borders of nine
@@ -314,17 +314,18 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      (the same table, 13 rows): a range on one side (Kapiśa's and Lampāka's 北背雪山, Srughna's 北背大山, Khuttal's
      東接葱嶺) bars high ground on that side, and everything beyond it; mountains all round (山周四境 for Ferghana,
      Nagarahāra, Kulūta and Brahmapura; 四境負山 for Kashmir; 四面據山 for Agni; 山嶺周境 for Kosala; 三陲黑嶺 for
-     Kapiśa and Lampāka) bar high ground anywhere, so the country fills its basin up to the ridges. High ground is
+     Kapiśa and Lampāka) are read as a border at the crest: the country has the whole drainage basin above its
+     capital up to the watershed, closed to its neighbours (a basin stops at another country's capital, so Kapiśa's
+     stays its own inside Nagarahāra's Kabul river), and beyond the basin it may not climb high ground. High ground is
      ground standing a set rise above the capital's valley floor (the lowest of its 3×3 cells), the rise set by
      region at roughly half the relief between the valley floors and the heights around them: 1000 m for the Tian
      Shan and Ferghana (Agni, Ferghana), 1200 m for the Oxus and Hindu Kush (Khuttal, Kapiśa, Lampāka, Nagarahāra),
      1500 m for the western Himalaya (Kashmir, Kulūta, Srughna, Brahmapura) and 250 m for central India (Kosala).
      Heights come from the open AWS terrain tiles at zoom 5 (`scripts/terrain_grid.py`, `data/ref/terrain/`,
      gitignored). Every one of the eleven meets high ground where the text puts it; Ferghana, Kashmir and Kulūta
-     keep to their basins, and Kosala fills the Chhattisgarh plain up to its rim of hills. Kapiśa is drawn at 6% of
-     its circuit: Begram's basin opens only towards Kabul and Laghman, whose countries share it, and the mountains
-     bar Kapiśa alone, so Andarab and Bamiyan take the slopes inside its ranges (alone it would reach 80%;
-     `data/FOLLOWUPS.md`). The areas show size and rough reach, not borders: the
+     keep to their basins, and Kosala fills the Chhattisgarh plain up to its rim of hills. Kapiśa, at first drawn at 6% of its circuit
+     because Andarab and Bamiyan took the slopes inside its ranges, now has the Ghorband and Panjshir valleys up to the
+     Hindu Kush (12,266 km², 15%); Kabul (Vṛjisthāna) and Laghman (Lampāka) still share Begram's open ground. The areas show size and rough reach, not borders: the
      capital need not have been central, rivers have moved since the 7th century, the rises are a choice made by
      region, and the circuits themselves are rounded figures.
    - **Place panel:** the study's identification first, then Mizutani, the authorities, every source, the Xiyu ji

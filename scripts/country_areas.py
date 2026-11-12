@@ -25,7 +25,11 @@ Method (README, "Country areas"):
    the river where its area allows. The river does not bind the neighbour across it.
 6. Mountains named as borders (the same table): a range on one side (北背雪山, 北背大山, 東接葱嶺) bars high ground on
    that side, and everything beyond it; mountains all round (山周四境, 四境負山, 四面據山, 山嶺周境, and Kapiśa's and
-   Lampāka's 三陲黑嶺) bar high ground anywhere, so the country stays in its basin. High ground is ground standing a
+   Lampāka's 三陲黑嶺) are a border at their crest: the country has the whole drainage basin above its capital up to
+   the watershed (within its 1.6-radius cap; a basin stops at another country's capital, so Kapiśa's is not
+   Nagarahāra's), the basin is closed to every neighbour, and outside it the country may not climb high ground. Basins
+   come from the same heights (Priority-Flood from the sea and the grid's edge; the capital's cell is the one within
+   two cells with the largest basin). A range named on one side never bars the country's own basin. High ground is ground standing a
    set rise above the capital's valley floor, the rise set by region (REGION_RISE: 1000 m for the Tian Shan and
    Ferghana, 1200 m for the Oxus and Hindu Kush, 1500 m for the western Himalaya, 250 m for central India).
    Heights from the AWS terrain tiles at zoom 5 (scripts/terrain_grid.py).
@@ -138,6 +142,56 @@ _t = json.load(open("data/ref/terrain/grid.json"))
 assert _t["nx"] == int((BOX[2] - BOX[0]) / RES) and abs(_t["res"] - RES) < 1e-9
 ELEV = _t["elev"]
 
+# --- drainage: every land cell drains to one neighbour (Priority-Flood from the sea and the grid's edge, which fills
+# pits and gives flats a direction), so a cell's basin is everything upstream of it ------------------------------
+down = [-1] * (NX * NY)
+_seen = bytearray(NX * NY); _pq = []
+for _k in range(NX * NY):
+    _i, _j = _k % NX, _k // NX
+    if not land[_k] or _i in (0, NX - 1) or _j in (0, NY - 1):
+        _seen[_k] = 1
+        if land[_k] or any(0 <= _i + a < NX and 0 <= _j + b < NY and land[(_j + b) * NX + _i + a] for a, b in ((1, 0), (-1, 0), (0, 1), (0, -1))):
+            heapq.heappush(_pq, (ELEV[_k] if land[_k] else -1e9, _k))
+_order = 0
+while _pq:
+    _e, _k = heapq.heappop(_pq)
+    _i, _j = _k % NX, _k // NX
+    for a, b in ((1, 0), (-1, 0), (0, 1), (0, -1), (1, 1), (1, -1), (-1, 1), (-1, -1)):
+        x, y = _i + a, _j + b
+        if not (0 <= x < NX and 0 <= y < NY): continue
+        k2 = y * NX + x
+        if _seen[k2]: continue
+        _seen[k2] = 1; down[k2] = _k
+        heapq.heappush(_pq, (max(ELEV[k2], _e), k2))
+up = collections.defaultdict(list)
+for _k, _d in enumerate(down):
+    if _d >= 0: up[_d].append(_k)
+def upstream_count(k, limit=200000):
+    n, st = 0, [k]
+    while st and n < limit:
+        x = st.pop(); n += 1; st.extend(up.get(x, ()))
+    return n
+def outlet(c):
+    """The capital's cell on the drainage: the cell within two cells of the capital with the largest basin."""
+    i = int((c["lon"] - BOX[0]) / RES); j = int((c["lat"] - BOX[1]) / RES)
+    cand = [(j + b) * NX + i + a for a in range(-2, 3) for b in range(-2, 3) if a * a + b * b <= 5
+            and 0 <= i + a < NX and 0 <= j + b < NY and land[(j + b) * NX + i + a]]
+    return max(cand, key=upstream_count) if cand else None
+for c in countries: c["outlet"] = outlet(c)
+OUTLETS = {c["outlet"]: c["id"] for c in countries if c["outlet"] is not None}
+def basin(c):
+    """Everything upstream of the capital's outlet, within 1.6 times the target radius, stopping at another country's
+    outlet (so a basin nested inside, like Kapiśa's within Nagarahāra's Kabul river, stays its own country's)."""
+    ci = (c["lon"] - BOX[0]) / RES; cj = (c["lat"] - BOX[1]) / RES; rr = CAP * c["R"] / (111.32 * RES)
+    out, st = set(), [c["outlet"]]
+    while st:
+        x = st.pop()
+        if math.hypot(x % NX - ci, x // NX - cj) > rr: continue
+        out.add(x)
+        st.extend(y for y in up.get(x, ()) if OUTLETS.get(y, c["id"]) == c["id"])
+    return out
+EXCL = {}     # cell -> the country whose mountain-ringed basin it lies in; closed to every other country
+
 # --- rivers named as borders ----------------------------------------------------------------------------------
 SIDE = dict(N=(0, 1), S=(0, -1), E=(1, 0), W=(-1, 0), NE=(1, 1), NW=(-1, 1), SE=(1, -1), SW=(-1, -1))
 BORD = collections.defaultdict(list)
@@ -197,16 +251,20 @@ for c in countries:
            for x in range(max(0, int(ci) - reach), min(NX, int(ci) + reach + 1))]
     for b in bs:
         if b["kind"] == "enclosed":
-            # mountains all round: the country stays below the capital's height + RISE
+            # mountains all round: the mountains are the border at their crest. The country has its whole drainage
+            # basin above the capital, up to the watershed, and the low ground (below the capital's floor + RISE)
+            # beyond it; it may not climb other high ground; and the basin is closed to the neighbours.
             high = {k for k in box if ELEV[k] >= ce + RISE}
-            c["bar"] |= high
+            c["basin"] = basin(c) if c["outlet"] is not None else set()
+            c["bar"] |= high - c["basin"]
+            for k in c["basin"]: EXCL.setdefault(k, c["id"])
             hit = 0
             for a in range(16):
                 dx, dy = math.cos(a * math.pi / 8), math.sin(a * math.pi / 8)
                 for r in range(1, int(CAP * c["R"] / (111.32 * RES)) + 2):
                     k = int(cj + dy * r) * NX + int(ci + dx * r)
                     if k in high: hit += 1; break
-            chk = "%s: high ground (capital %d m + %d) met in %d of 16 directions" % (b["feature_zh"], ce, RISE, hit)
+            chk = "%s: high ground (capital %d m + %d) met in %d of 16 directions; drainage basin above the capital %d km2" % (b["feature_zh"], ce, RISE, hit, round(sum((RES * 111.32) ** 2 * math.cos(math.radians(BOX[1] + (k // NX + 0.5) * RES)) for k in c["basin"])))
             c["row"]["borders"] = (c["row"]["borders"] + "; " if c["row"]["borders"] else "") + b["quote"]
             c["row"]["border_check"] = (c["row"]["border_check"] + "; " if c["row"]["border_check"] else "") + chk
             continue
@@ -237,6 +295,8 @@ for c in countries:
         c["row"]["borders"] = (c["row"]["borders"] + "; " if c["row"]["borders"] else "") + b["quote"]
         c["row"]["border_check"] = (c["row"]["border_check"] + "; " if c["row"]["border_check"] else "") + chk
 
+for c in countries:
+    if c.get("basin"): c["bar"] -= c["basin"]
 cellkm = lambda j: (RES * 111.32) ** 2 * math.cos(math.radians(BOX[1] + (j + 0.5) * RES))
 owner = [-1] * (NX * NY)
 area = [0.0] * len(countries)
@@ -261,6 +321,7 @@ while pq:
         if not (0 <= a < NX and 0 <= b < NY): continue
         k2 = b * NX + a
         if owner[k2] != -1 or not land[k2] or k2 in countries[n]["bar"]: continue
+        if k2 in EXCL and EXCL[k2] != countries[n]["id"]: continue
         if abs(di) + abs(dj) == 3 and not land[(j + (dj // 2 if abs(dj) == 2 else 0)) * NX + i + (di // 2 if abs(di) == 2 else 0)]: continue
         step = math.hypot(di * kx, dj * ky)
         if countries[n]["pull"]:
