@@ -291,6 +291,42 @@ to Mucilinda, and moved it (08.06.18). No excavation.
 **Assessment.** A large tank S of the enclosure, as Xuanzang says; Cunningham's own shift shows the attribution rests on
 position. Probable.
 
+### 08.06.x5 二長者獻麨蜜・四天王獻鉢窣堵波 (stūpas of the merchants' offering and of the four bowls) — Anand's Gothu mound, a guess; unlocated
+
+**Identifications.** Anand 2024 (blog): the Gothu mound, on the E bank of the Nairañjanā 800 m E of Kāzichak, with the
+bowl stūpa somewhere near it.
+**Evidence.** Xuanzang puts the two adjacent stūpas beside the milk-rice place, by the bathing place SE of the five
+companions' dwelling (T51:0917c; 08.06.21). Anand reports a prominent mound of over two acres with a village on it,
+and recent demolition of mounds; no excavation and no find tied to the legend. His position follows his own chain for
+the austerity group, not the study's Tika Bigha (08.06.21, open).
+**Assessment.** A guess from position on one blog. Unlocated; Gothu is a candidate only. Low.
+
+### 08.06.x6 為母說法・現神變窣堵波 (stūpas of the sermon to Māyā and of the miracles by the dry pool) — Anand's Kāzichak, a guess from the pond; unlocated
+
+**Identifications.** Anand 2024 (blog): Kāzichak, on the W bank of the Nairañjanā 3 km S of Mochārim.
+**Evidence.** Xuanzang has the sermon stūpa "not far" from the four-bowls stūpa (08.06.x5) and the miracle stūpa on
+the bank of a dry pool beside it (T51:0917c). Anand's one fixed clue is a large old pond at Kāzichak, with an ancient
+mound under much of the village (drone photographs); nothing excavated. Gothu, his 08.06.x5, lies 800 m E, across the
+river.
+**Assessment.** A pond and a mound, on one blog; old tanks are common in the area. Unlocated; Kāzichak a candidate
+only. Low.
+
+### 08.06.x7 伏火龍・五百獨覺入涅槃窣堵波 (stūpas of the fire-nāga and of the 500 pratyekabuddhas) — Anand's Bhabhani mound, from a bearing; unlocated
+
+**Identifications.** Anand 2024 (blog): the Bhabhani mound, 2 km NW of Khajawati.
+**Evidence.** Xuanzang puts the fire-nāga stūpa NW of the Kāśyapa-conversion stūpa (08.06.x4) and the pratyekabuddha
+stūpa beside it (T51:0918a). Anand takes the bearing from his own Khajawati for 08.06.x4, itself a "calculated guess"
+(the study keeps Cunningham's Urel); at Bhabhani he reports a large mound by the main temple, unexcavated.
+**Assessment.** A bearing taken from a guessed base point. Unlocated; Bhabhani a candidate only. Low.
+
+### 08.06.x8 迦葉波救如來溺水窣堵波 (stūpa where Kāśyapa came to save the Buddha from the flood) — Anand's Shivrājpur mound, from a bearing; unlocated
+
+**Identifications.** Anand 2024 (blog): the Shivrājpur mound, 1.5 km S of Mochārim, under 100 m W of the Nairañjanā.
+**Evidence.** Xuanzang puts the stūpa S of the Mucilinda pond (T51:0918a). Anand takes Mochārim (Muchharin) for
+Mucilinda, one of three candidates in the study (08.06.18, open). He reports an ancient mound with an abandoned
+Brahmanical monastery on it and old bricks reused in the shrine; no excavation.
+**Assessment.** Depends on an open Mucilinda and on one blog. Unlocated; Shivrājpur a candidate only. Low.
+
 ### 09.02.02 洩瑟知林 (Yaṣṭivana) — Jeshtiban plateau by Jethian, where the name survives
 
 **Identifications.** Mizutani: Jeshtiban, not Cunningham's Jakhtiban. Cunningham (1871, p. 528), Beal (p. 147) and Watters
@@ -328,6 +364,14 @@ p. 92) and Nazim (AR 1936–37, p. 47).
 ancient brick stupas in the middle of the road half way up". The hill is secure (09.02.09).
 **Assessment.** Excavated structures in the position Xuanzang gives, on a secure hill. Secure.
 
+### 09.02.x2 城南門外道左窣堵波 (stūpa outside the S gate of New Rājagṛha, where the Buddha ordained Rāhula) — unlocated; Anand reports only a walled plot
+
+**Identifications.** Anand 2021 (blog): an ASI- and Forest-Department-walled plot S of New Rājagṛha.
+**Evidence.** Xuanzang puts the stūpa on the left of the road outside the S gate of the new city (T51:0923b), which is
+secure (09.02.18). Anand saw temporary huts and a boundary wall, and no prominent ancient mound; he does not say who
+first placed the stūpa there and gives no coordinates.
+**Assessment.** No site evidence. Unlocated, in the area S of the New Fort. Low.
+
 ### 09.03.x2 觀自在菩薩立像 (standing Avalokiteśvara, Nālandā) — Sastri's image at the NE corner of the Site 3 stūpa; rival readings
 
 **Identifications.** Hirananda Sastri (EC 1919–20, p. 36): the standing Avalokiteśvara in a small shrine at the NE corner
@@ -364,6 +408,25 @@ stūpa "Jarasandh-ka-baithak" (28 ft across). Patna 1907: the stūpa, reservoir 
 goose (ASR I, pp. 16–22); the stūpa is the only one on the hill. The hill is secure (09.03.11).
 **Assessment.** The single stūpa, the goose imagery and the monastery terrace match. Secure, without an inscription.
 
+### 09.03.x7 頻毘娑羅王迎見佛處窣堵波 (stūpa where Bimbisāra met the Buddha) — unlocated; Anand's Kūl fails his own test
+
+**Identifications.** Anand 2024 (blog): the village of Kūl (25°06′49″ N, 85°27′32″ E), c. 2.5 km S of Nālandā.
+**Evidence.** Xuanzang puts the stūpa 3–4 li E of Kolika (T51:0924c), itself unidentified (09.03.08, open). Anand
+reports an ancient mound and an old Buddha image at Kūl, and holds that the stūpa was originally the Mahākassapa
+meeting place of the Pāli texts; he admits Kūl fits neither the Record's distance and bearing nor the Life's. Lama
+(IAR 2013–14) offers Kool, probably the same village, for Kolika itself.
+**Assessment.** A candidate its proposer finds does not fit; it hangs on an open Kolika. Unlocated. Low.
+
+### 09.03.x8 舍利子門人入涅槃處窣堵波 (stūpa of the nirvāṇa of Śāriputra's disciples) — Anand's Shobhāpur mound; E, not SE, of Naṇand
+
+**Identifications.** Anand 2024 (blog): the large mound NW of Shobhāpur (25°05′12″ N, 85°31′15″ E), on the E bank of
+the Panchāne, 1.8 km E of Naṇand.
+**Evidence.** Xuanzang puts the stūpa 4–5 li SE of Kālapināka (T51:0925a). Anand takes Naṇand for Kālapināka (the
+study's low candidate Nanan, 09.03.10) and found the potsherd-strewn mound by searching villages S, E and SE of it;
+there is no comparable mound SE of Chaṇdimau. Not excavated. On his coordinates the mound lies 1.8 km at 104° (ESE), a
+little far for 4–5 li and E rather than SE.
+**Assessment.** A real mound, but tied to a low-confidence base point and off the bearing. A candidate only. Low.
+
 ### 10.04.02 跋始婆僧伽藍 (*Bhāśiva monastery) — Bhasu Bihar, 4 miles W of Mahasthan, where the name survives
 
 **Identifications.** Mizutani: the ruins at Bihar and Vasu-Bihar, 4 miles NW of Mahāsthān. Majumdar (pp. 724–25):
@@ -396,6 +459,17 @@ The Udayagiri of the Assia hills (Jajpur) is another site, whose monastery its s
 **Ji Xianlin et al. (1985).** Ji agrees: Udayagiri (p. 815).
 **Assessment.** A pairing by analogy, now without Buddhist remains on the hill. Open; if Puṣpagiri lies in the Assia
 hills, the NW hill must be sought there.
+
+### 10.13.x1 阿折羅阿羅漢伽藍・石窣堵波 (the arhat Acala's monastery and stone stūpa beside Veṅgī) — unlocated; Francis's Guntupalli is too far
+
+**Identifications.** Deeg (2025, p. 575 n. 43): the name is Acala, the arhat of the Ajanta cave XXVI inscription
+(after Tournier 2020), not the ācāra of Ji and Mizutani; no site. Francis (2025, pp. 345–346), tentatively: the
+monastic complex at Guntupalli (ancient Mahānāgaparvata), though he finds the description too vague to decide.
+**Evidence.** Xuanzang puts a great monastery with a stone stūpa "several hundred feet high" beside the capital, "not
+far" (瓶耆羅城側不遠; T51:0930b). Guntupalli is excavated (Sarma 1988: stūpas, an apsidal shrine, vihāras from the 2nd c.
+BC), with pre-Śālaṅkāyana inscriptions naming Mahānāgaparvata and a Śālaṅkāyana record (EIAD 164) at the stūpa site;
+nothing names Acala. It lies some 23 km N of Peddavegi (10.13, medium), in the hills.
+**Assessment.** The distance fails 不遠, and the parent capital is itself unproven. Unlocated. Low.
 
 ### 11.01 僧伽羅國 (Siṃhala) — Sri Lanka, capital Anurādhapura
 

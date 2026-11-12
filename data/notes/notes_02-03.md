@@ -1432,11 +1432,11 @@ bank" (uncertain). Beal gives no site.
 **Recent scholarship.** Hassan, Shah and Yatoo (2026, pp. 89, 95), a study of bank erosion, describe the Zehanpore
 Buddhist site: three stupas in a line on the right (N) bank of the Jhelum, c. 10 km from Baramula (34°10′43″N
 74°15′20″E), with no date, excavation or inscription in their account. They do not connect it with this monastery;
-after Ray (1969) they link it with the Jayendra vihāra (p. 90), which the Life puts in the capital (至都，止闍耶因陀羅寺), so
-that link does not fit Xuanzang. Yatoo (2012, pp. 173–174, 335–337) surveyed a transect (no. 10, 2009) on the N bank
-just below Baramula, c. 3–6 km downstream: five sites, all pottery scatters except the excavated Fathgarh temple (c.
-AD 550), among them Shalwajin in Sheeri village (34°11.029′N 74°18.596′E) with early- and later-historic pottery; no
-Buddhist structure. The transect stops c. 5 km short of Zehanpore.
+after Ray (1969) they link it with the Jayendra vihāra (p. 90; now 03.06.x2), which the Life puts in the capital
+(至都，止闍耶因陀羅寺), so that link does not fit Xuanzang. Yatoo (2012, pp. 173–174, 335–337) surveyed a transect (no. 10,
+2009) on the N bank just below Baramula, c. 3–6 km downstream: five sites, all pottery scatters except the excavated
+Fathgarh temple (c. AD 550), among them Shalwajin in Sheeri village (34°11.029′N 74°18.596′E) with early- and
+later-historic pottery; no Buddhist structure. The transect stops c. 5 km short of Zehanpore.
 **Assessment.** The monastery is unlocated beyond the area. Mizutani's "no monastery site on the N bank" no longer
 holds: the Zehanpore stupas stand on the N bank inside his stretch, a candidate on position alone, and c. 51 km from
 Srinagar in a straight line is long for 140–150 li. Untested; low.

@@ -1,5 +1,6 @@
 id	lat	lon	precision	label	note
 03.04.x1	32.7239	72.9513	town	Katas Raj temples, Chakwal district	modern town of the proposed site; the ruin itself not located more closely
+03.06.x1	34.19	74.37	approx	Ushkur (Huṣkapura), SE of Baramula	approximate: Stein's "about two miles to the south-east of the present Baramula"; no surveyed coordinates in these sources
 04.01.x4	32.071	73.688	town	Hafizabad	modern town of the proposed site; the ruin itself not located more closely
 04.01.x6	31.582	74.329	town	Lahore (old city)	modern town of the proposed site; the ruin itself not located more closely
 04.08.x1	29.973	76.83	approx	Thanesar (mound NW of the town)	approximate position of the proposed site
@@ -18,8 +19,14 @@ id	lat	lon	precision	label	note
 08.02.x1	25.601	85.213	site	Agam Kuan, Patna City	
 08.06.x1	24.6962	84.9912	site	Bodh Gayā, N side of the Mahābodhi temple	
 08.06.x2	24.694	84.991	approx	Bodh Gayā, Buddhapokhar S of the temple	approximate position of the proposed site
+08.06.x5	24.6533	85.0069	approx	Gothu mound, E of Kāzichak (Anand, candidate)	Anand 2024 (blog) coordinates; a guess from position
+08.06.x6	24.6531	84.9986	approx	Kāzichak (Anand, candidate)	Anand 2024 (blog) coordinates; a guess from the pond
+08.06.x7	24.6569	84.9883	approx	Bhabhani mound (Anand, candidate)	Anand 2024 (blog) coordinates; a guess from the bearing
+08.06.x8	24.6647	84.9956	approx	Shivrājpur mound (Anand, candidate)	Anand 2024 (blog) coordinates; a guess from the bearing
 09.02.x1	25.012	85.438	approx	Gṛdhrakūṭa, Rajgir (Bimbisāra road)	approximate position of the proposed site
 09.03.x2	25.135	85.442	approx	Nālandā, Site 3	approximate position of the proposed site
 09.03.x3	25.135	85.442	approx	Nālandā, Site 3	approximate position of the proposed site
 09.03.x5	25.137	85.447	approx	Nālandā, Sarai Mound	approximate position of the proposed site
 09.03.x6	25.029	85.522	approx	Giriyak hill, E peak	approximate position of the proposed site
+09.03.x7	25.1136	85.4589	approx	Kūl (Anand, candidate)	Anand 2024 (blog) coordinates; fails his own distance and bearing test
+09.03.x8	25.0867	85.5208	approx	mound NW of Shobhāpur (Anand, candidate)	Anand 2024 (blog) coordinates; E, not SE, of Naṇand

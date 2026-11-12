@@ -399,10 +399,11 @@ century, when the Buddhist 罽賓 was Gandhāra (02.04) (pp. 119–121). In the 
 that did not answer Yangdi's summons, 唯罽賓不至), and in the Tang it was Kāpiśī (pp. 702–711). This adds to Chavannes' Han
 罽賓 = Kaspeiria, reported by Ji, without bearing on the identification.
 **Recent scholarship.** Yatoo (2012, pp. 60, 66, 248–249), after Stein's *Rājataraṅgiṇī*, has Xuanzang come from
-Uraśā, enter Kashmir at Baramula and spend the night at Hushkapura, modern Ushkar: the Life's monastery 護瑟迦羅, where he
-stayed after passing the stone gate (T50:0231a). Ushkar, in Baramula town, is an excavated Buddhist site (Garrick
-1882, later Sahni) with rubble structures and plain terracotta floor tiles comparable with Harwan and Kanispora, which
-Yatoo dates to the 1st–5th centuries AD; no inscription names it. Wukong took the same road in 759.
+Uraśā, enter Kashmir at Baramula and spend the night at Hushkapura, modern Ushkar: the Life's monastery 護瑟迦羅 (now
+03.06.x1), where he stayed after passing the stone gate (T50:0231a). Ushkar, in Baramula town, is an excavated
+Buddhist site (Garrick 1882, later Sahni) with rubble structures and plain terracotta floor tiles comparable with
+Harwan and Kanispora, which Yatoo dates to the 1st–5th centuries AD; no inscription names it. Wukong took the same
+road in 759.
 **Assessment.** Name and agreement, and the distance normal along the Jhelum road. The Life's first stop, 護瑟迦羅 =
 Huṣkapura, is Stein's Ushkar at Baramula, an excavated Buddhist site (Yatoo 2012), which agrees with the W gate at
 Baramula; the equation rests on the name, and no inscription names the site. Mizutani stands (medium).
@@ -424,6 +425,29 @@ Mizutani stands (medium).
 **Ji Xianlin et al. (1985).** Ji agrees: Pāndrethān (Purāṇādhiṣṭhāna), from the foot of Takht-i-Sulaiman along both
 banks (p. 323).
 **Assessment.** Name and agreement; no excavation is reported here. Mizutani stands (medium).
+
+### 03.06.x1 護瑟迦羅寺 (Huṣkara monastery) — Ushkur (Huṣkapura) near Baramula, an excavated Buddhist site; the Life only
+
+**Identifications.** Stein (*Rājataraṅgiṇī* transl., ii, after Cunningham), via Yatoo (2012, pp. 60, 66, 248–249):
+Huṣkapura, King Huṣka's town, now the village of Ushkur, about two miles SE of Baramula. Hassan, Shah and Yatoo (2026,
+p. 90) repeat it after Ray (1969).
+**Evidence.** The Life (T50:0231a): Xuanzang's first night after the stone gate, the W gate of the country, where the
+monks dreamed of his coming. Ushkur was excavated (Garrick 1882, later Sahni): rubble structures and plain terracotta
+floor tiles like those of Harwan and Kanispora, which Yatoo dates to the 1st–5th centuries AD. Stein adds Kalhaṇa's
+vihāra and stūpa built there by Lalitāditya (8th c.). No inscription names the site.
+**Assessment.** The name, the position just inside the Baramula gate and an excavated Buddhist site agree, but the
+equation rests on the name and on Stein alone, and no inscription names the site. Low.
+
+### 03.06.x2 闍耶因陀羅寺 (Jayendra monastery) — in the capital, Srinagar; the Zehanpore link does not fit; the Life only
+
+**Identifications.** Ray (1969), via Hassan, Shah and Yatoo (2026, p. 90): "historically linked" to the Zehanpore
+stūpas on the N bank of the Jhelum c. 10 km below Baramula. Stein (*Rājataraṅgiṇī* transl., note on iii. 355–356,
+after Bhau Daji 1861): the Jayendravihāra of Kalhaṇa, in Śrīnagara.
+**Evidence.** The Life (T50:0231a): "on reaching the capital, he stayed at the Jayendra monastery" (至都，止闍耶因陀羅寺).
+Kalhaṇa has the Jayendravihāra in the city, its colossal Buddha later melted down by Kṣemagupta. Zehanpore lies about
+50 km W of Srinagar (03.06.01a); nothing is excavated there or names it.
+**Assessment.** The Life and Stein put the monastery in the capital; the site within Srinagar is unknown. Unlocated
+within the city. Low.
 
 ### 03.07 半笯嗟國 (parṇotsa) — Punch; name survives, distance short in a straight line
 

@@ -821,14 +821,14 @@ Viṣṇukuṇḍin temples, but no Śālaṅkāyana inscription or coin and no 
 "remains very plausible, but we do not have any hard proof of it, only serious hints".
 
 The text also puts a great monastery, with a stone stūpa "several hundred feet high" built by the arhat 阿折羅, "beside
-the city, not far" (瓶耆羅城側不遠); it is not in the table of places. Deeg (p. 575 n. 43) takes the name to be Acala, the
-arhat of Buddhabhadra's inscription in Ajanta cave XXVI (after Tournier 2020), against the ācāra of Ji and Mizutani.
-Francis (pp. 345–346) suggests, tentatively, the excavated monastic complex at Guntupalli (Sarma 1988: stūpas, an
-apsidal shrine, vihāras from the 2nd c. BC), named Mahānāgaparvata in its pre-Śālaṅkāyana inscriptions (EIAD 203–219)
-and with a Śālaṅkāyana record (EIAD 164) on a pillar at the stūpa site; but he finds the description "so vague that it
-does not seem possible to propose a definitive identification". Nothing at Guntupalli names Acala, and taking it at c.
-17.02 N, 81.13 E, it lies by the study's reckoning some 23 km N of Peddavegi (35 km N of Eluru), in the hills, which
-is hard to square with "beside the city, not far"; the monastery stays unlocated.
+the city, not far" (瓶耆羅城側不遠); it was not in the table of places (now 10.13.x1). Deeg (p. 575 n. 43) takes the name to
+be Acala, the arhat of Buddhabhadra's inscription in Ajanta cave XXVI (after Tournier 2020), against the ācāra of Ji
+and Mizutani. Francis (pp. 345–346) suggests, tentatively, the excavated monastic complex at Guntupalli (Sarma 1988:
+stūpas, an apsidal shrine, vihāras from the 2nd c. BC), named Mahānāgaparvata in its pre-Śālaṅkāyana inscriptions
+(EIAD 203–219) and with a Śālaṅkāyana record (EIAD 164) on a pillar at the stūpa site; but he finds the description
+"so vague that it does not seem possible to propose a definitive identification". Nothing at Guntupalli names Acala,
+and taking it at c. 17.02 N, 81.13 E, it lies by the study's reckoning some 23 km N of Peddavegi (35 km N of Eluru),
+in the hills, which is hard to square with "beside the city, not far"; the monastery stays unlocated.
 
 **Assessment.** Elgandel and Warangal are Telingana guesses from distance. Veṅgī matches the name, Burnell's Telugu
 locative explains the last syllable (Deeg prefers a lost -pura), and the excavation shows a fortified city with

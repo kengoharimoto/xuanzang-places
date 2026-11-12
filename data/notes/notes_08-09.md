@@ -1020,9 +1020,9 @@ Sariputra was born and eventually passed away" (IAR 2013–14, p. 20, G. K. Lama
 repeat those for Chandi Mau, a slip. Anand 2024 (blog) also prefers Naṇand (25°05′27″ N, 85°30′11″ E), after Prasad
 (*East and West* 38, 1988, p. 175, not yet checked here), to Broadley's Chaṇdimau 3 km S: Naṇand is a large village on
 ancient remains with images and a votive stūpa, though no prominent mound survives. His deciding test is a large mound
-at Shobhāpur, 1.8 km E of Naṇand, for the stūpa of Śāriputra's disciples, which by his own coordinates lies E rather
-than SE. The survey reports that Chandi Mau was excavated in 2000–01 and "declared a single culture site of Pala
-period" (IAR 2013–14, p. 15), which tells against it.
+at Shobhāpur, 1.8 km E of Naṇand, for the stūpa of Śāriputra's disciples (now 09.03.x8), which by his own coordinates
+lies E rather than SE. The survey reports that Chandi Mau was excavated in 2000–01 and "declared a single culture site
+of Pala period" (IAR 2013–14, p. 15), which tells against it.
 
 **Assessment.** The equation with Faxian's Nāla stands. Nanan is now a candidate, proposed in the IAR and by Prasad,
 on the likeness of Nanan to Nālaka- or Nāla- and on a position about 9 km ESE of the Jagdishpur mound, which fits

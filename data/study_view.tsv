@@ -148,6 +148,8 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 03.06.09	open	Mizutani	34.08	74.86	site	Valley NE of the hill S of the Palace Hotel, Srinagar	low	none		SE of Srinagar (by distance), unlocated
 03.06.10	text	text	34.3034	74.432	from the text	placed from the text: 王城西北行二百餘里 (from 03.06)	low	none		unlocated
 03.06.11	open	Mizutani	34.17	74.25	district	Baramula-Rampur stretch of the Jhelum	low	new-candidate		Baramula–Rampur stretch; candidate: the Zehanpore stupa site on the N bank, c. 10 km from Baramula (position only)
+03.06.x1	open	added	34.19	74.37	approx	Ushkur (Huṣkapura), SE of Baramula	low	new-candidate		Ushkur (Huṣkapura), Baramula
+03.06.x2	unlocated						low	none		in the capital, Srinagar; site unknown (Zehanpore does not fit)
 03.07	probable	Mizutani	33.77	74.09	town	Punch (Poonch)	medium	none		Punch (Poonch)
 03.08	probable	Mizutani	33.38	74.31	town	Rajauri	medium	none		Rajauri
 04.01	open	Mizutani	31.6	74.3	country	Punjab plain between Beas and Chenab	low	none		central Punjab; capital open (Asarur only if Sakala = Sanglawala Tibba; else near Sialkot, Majumdar)
@@ -304,6 +306,10 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 08.06.x2	probable	added	24.694	84.991	approx	Bodh Gayā, Buddhapokhar S of the temple	medium	none		Budhokhar (Buddhapokhar) Tal, S of the temple
 08.06.x3	unlocated									Cunningham: the Mihap Tal, 350 ft SW of the Budhokhar Tal
 08.06.x4	unlocated									Cunningham: Uruvilvā Kāśyapa's stūpas at the village of Urel (Uruvilvā > Uruvelā > Urel)
+08.06.x5	open	added	24.6533	85.0069	approx	Gothu mound, E of Kāzichak (Anand, candidate)	low	new-candidate		unlocated; Gothu mound (Anand) a candidate only
+08.06.x6	open	added	24.6531	84.9986	approx	Kāzichak (Anand, candidate)	low	new-candidate		unlocated; Kāzichak (Anand) a candidate only
+08.06.x7	open	added	24.6569	84.9883	approx	Bhabhani mound (Anand, candidate)	low	new-candidate		unlocated; Bhabhani mound (Anand) a candidate only
+08.06.x8	open	added	24.6647	84.9956	approx	Shivrājpur mound (Anand, candidate)	low	new-candidate		unlocated; Shivrājpur mound (Anand) a candidate only
 09.01.01	probable	Mizutani	24.693	85.003	site	Bakraur stupa, across the river from Bodh Gaya	medium	strengthened		Bakraur stūpa and pillar stump, E of the river opposite Bodh Gayā
 09.01.02	unlocated						low	new-candidate		unidentified; candidates E of the Mohana: Nama Dih mound or Gafa Kalan, on the Paimar (Anand 2024, blog); no pillar found
 09.01.02a	probable	Mizutani	24.62	85.0	district	Mohana river (label point S of Bodh Gaya)	medium	none		Mohana river
@@ -329,6 +335,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 09.02.17a	open	Mizutani	25.025	85.41	site	Near Baitarni Godan, SW of New Rajagrha	low	strengthened		SW of New Rājagṛha: Cunningham's mound H (Takakusu's area)
 09.02.18	secure	Mizutani	25.03	85.42	site	New Rajagrha ruins, Rajgir	high	none		New Fort, Rajgir; rampart later than c. 245 B.C.
 09.02.x1	secure	added	25.012	85.438	approx	Gṛdhrakūṭa, Rajgir (Bimbisāra road)	high	none		the two brick stūpas half-way up the Bimbisāra road, Chhatha-giri
+09.02.x2	unlocated						low	none		unlocated (S of New Rājagṛha)
 09.03.01	secure	Mizutani	25.136	85.443	site	Nalanda ruins	high	strengthened		Nālandā ruins at Bargaon
 09.03.06	open	Mizutani	25.136	85.443	site	Nalanda (caitya row)	low	none		in the W range of stūpas and temples; Site No. 3 (Cunningham's A) disputed
 09.03.08	text	text	25.1231	85.4287	from the text	placed from the text: 伽藍西南行八九里 (from 09.03.06)	low	new-candidate		open: Jagdishpur mound (Cunningham), Juafardih stupa mound excavated 2007 (Saran 2008 via Anand, not checked), or Kool (Lama IAR 2013-14)
@@ -345,6 +352,8 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 09.03.x4	unlocated									Cunningham: the high mound at the N end of the range of stūpa mounds (Spooner's 1,500-ft trench ran up to it)
 09.03.x5	probable	added	25.137	85.447	approx	Nālandā, Sarai Mound	medium	none		Sarai mound temple, E of the Nālandā monasteries
 09.03.x6	secure	added	25.029	85.522	approx	Giriyak hill, E peak	high	none		E-peak terrace of Giriyek and the Jarasandh-ka-baithak stūpa
+09.03.x7	open	added	25.1136	85.4589	approx	Kūl (Anand, candidate)	low	new-candidate		unlocated; Kūl (Anand) a candidate only
+09.03.x8	open	added	25.0867	85.5208	approx	mound NW of Shobhāpur (Anand, candidate)	low	new-candidate		unlocated; Shobhāpur mound (Anand) a candidate only
 10.01	secure	Mizutani	25.38	86.47	town	Monghyr (Munger)	high	none		Monghyr
 10.01.02	open	Mizutani	25.37	86.52	site	Pirpahar hill, E of Monghyr	low	none		hills at Monghyr (hot-spring range); specific hill open
 10.01.04	secure	Mizutani	25.18	86.25	site	Uren, SW of Monghyr	high	strengthened		Uren hill
@@ -378,6 +387,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 10.12.05	open	study	21.196	81.968	site	Arang (Bhaṃgara-pavata)	low	alternative		Bhamgara-pavata (Bhringara-parvata) near Arang, SW of Sirpur
 10.13	probable	Mizutani	16.81	81.11	town	Pedavegi near Eluru	medium	strengthened		capital Vengi at Peddavegi
 10.13.03	text	text	16.7796	81.0783	from the text	placed from the text: 所行羅漢伽藍西南行二十餘里 (from 10.13)	low	none		unidentified
+10.13.x1	unlocated						low	none		unlocated; Guntupalli (Francis, tentative) does not fit 城側不遠
 10.14	probable	Mizutani	16.57	80.35	town	Dharanikota	medium	strengthened		capital Dharanikota
 10.14.02a	open	Mizutani	16.575	80.358	site	Amaravati great stupa	low	weakened		Amaravati stupa site (bearing, distance) or an unlocated hill E of Dharanikota (text: 據山); open
 10.14.02b	open	Mizutani	16.573	80.34	site	Dharanikota	low	weakened		on a hill W of the Dharanikota town (unlocated)

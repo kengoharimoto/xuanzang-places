@@ -10,10 +10,10 @@ about 1980. Japanese scholarship cites Mizutani Shinjō's annotated translation 
 places; English-language work still goes back to Watters (1904–05) and Cunningham. The study takes Ji as the standard,
 with Mizutani where Ji is silent, and its map is a visualisation of that standard wherever the evidence agrees with it.
 
-**Against the standard** (`data/standard/compare_*.tsv`, `data/STANDARD_INSTRUCTIONS.md`): 365 of the 480 places have a
+**Against the standard** (`data/standard/compare_*.tsv`, `data/STANDARD_INSTRUCTIONS.md`): 365 of the 490 places have a
 standard identification. For 262 the study agrees, and for 28 it names a more exact site within it; for 75 it departs,
 putting 35 elsewhere and leaving 40 open between the standard's site and another. Among the 148 countries, 121 agree
-or refine. Of the 115 places without a standard identification, mostly minor sites, the study proposes a site for 54.
+or refine. Of the 125 places without a standard identification, mostly minor sites, the study proposes a site for 61.
 Kapilavastu is not a departure: Ji already leaves it open between Piprahwa and Tilaurakot. On the map a dark ring
 marks a departure, a light ring a refinement or a site where the standard has none.
 
@@ -31,7 +31,7 @@ Five kinds of evidence were set against him:
 A sixth, added in November 2026, is the scholarship since Ji (1985): 454 items listed, 103 read and coded so far, and
 *Indian Archaeology – A Review* extended to 2013–14 ("Recent scholarship" below; `data/LITERATURE.md`).
 
-**What they show.** 446 of the 480 places have a note (Mizutani's 419 and 61 added ones). The 34 without a note are
+**What they show.** 456 of the 490 places have a note (Mizutani's 419 and 71 added ones). The 34 without a note are
 minor sites that have no point either. Taking Mizutani's identifications as the starting point (his translation covers every place), the evidence:
 - supports his identification for 100 places, 59 of them with high confidence, many with an inscription or seal
   naming the place;
@@ -39,11 +39,11 @@ minor sites that have no point either. Taking Mizutani's identifications as the 
 - supports a different site, or leaves the place open between his and another, for 71;
 - offers a candidate no standard authority records for 25.
 
-On the map the study's confidence comes out as 104 places secure, 155 probable and 121 open. These are the ratings
+On the map the study's confidence comes out as 104 places secure, 155 probable and 128 open. These are the ratings
 after a quality check of 30 notes and an audit of every "high" rating without site evidence, and a second check of
 27 paragraphs added later (Ji, names, Bactrian, Stein/Drew, Kuwayama: 19 ok, 8 minor, all fixed; `data/notes/qc2_*.tsv`).
 Another 50 minor sites are placed approximately from Xuanzang's own bearing and distance, without an identification
-(`scripts/place_from_text.py`). 50 have no point.
+(`scripts/place_from_text.py`). 53 have no point.
 
 **Settled by inscriptions or seals found on the site:**
 - Kuśinagara at Kasia: the Haribala plate in the Nirvāṇa stūpa.
@@ -180,7 +180,13 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
    - **Added places.** 61 places that Mizutani's numbering skips or merges were added from passages the coders tagged
      `new`: 57 in the Xiyu ji and 4 found only in the Life. They have ids ending `.xN`, the status "added" on the map,
      and their own passages, translations and source coding. Seven tagged clusters turned out to belong to existing
-     rows, and one (Faxian's Pūrvārāma) was dropped.
+     rows, and one (Faxian's Pūrvārāma) was dropped. Ten more came from the recent literature's `new` rows
+     (2026-11-12): Acala's monastery at Veṅgī (10.13.x1); four stūpa groups at Bodh Gayā (08.06.x5–x8), the
+     Bimbisāra and Śāriputra's-disciples stūpas near Nālandā (09.03.x7–x8) and the Rāhula stūpa at Rājagṛha
+     (09.02.x2), with Deepak Anand's candidates; and, from the Life, Huṣkapura (Ushkur, 03.06.x1) and the Jayendra
+     monastery in Srinagar (03.06.x2). The great stūpa by the big village belongs to 09.03.15a. All are low. The
+     local DharmaMitra stack was down, so their ten passages were translated by Claude and checked against the
+     Chinese (model column `claude-opus-5-5 (DharmaMitra unavailable)`).
 2. **Authorities** (`data/coded/auth_*.tsv`).
 3. **Survey, Annual Reports, *Indian Archaeology*, EI/CII.**
    - **Files:** `data/coded/asr_batch*`, `ar_batch*`, `iar_batch*`, `epig_batch*`; indexes in `data/*_hits.tsv`;
@@ -213,7 +219,7 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      Sarvāstivāda 11, Mahāyāna-Sthavira 4, Sthavira 2, Mahāsāṃghika 2, Lokottaravāda 1.
    - **Other traditions, across all places:** Pāśupata 15, Śaiva 11, Jain (mostly Digambara, 露形) 12, Sūrya 2,
      Kāpālika 1.
-8. **Notes** (`data/notes/notes_*.md`, 446 notes). The disputed places came first (312 notes). A second pass
+8. **Notes** (`data/notes/notes_*.md`, 456 notes). The disputed places came first (312 notes). A second pass
    (`notes_untested_*.md`, `data/NOTES_UNTESTED_INSTRUCTIONS.md`) covered the 129 places not yet assessed, with all
    the evidence then available. Each note gives the identifications, then the
    evidence in sections:
@@ -455,7 +461,7 @@ These are medium- or high-confidence proposals that move away from Mizutani; how
 - `data/standard/compare_*.tsv`: each place's standard identification (Ji 1985, or Mizutani) and how the study stands to it.
 - `data/literature.tsv`, `data/LITERATURE.md`: the recent-scholarship bibliography, its status and the list of PDFs wanted.
 - `data/places_mizutani.tsv`: the master table.
-- `data/places_added.tsv`: 61 places missing from Mizutani's numbering (ids `.xN`), added from the sources. Mappings
+- `data/places_added.tsv`: 71 places missing from Mizutani's numbering (ids `.xN`), added from the sources. Mappings
   for the coded rows are in `data/coded/new_resolved.tsv`; coordinates are in `data/coords_added.tsv`.
 - `data/names/`: the transcription key, the pilot tests of the original names and the study's proposed forms (method 8a).
 - `data/coords_study.tsv`: coordinates for the study's own proposed sites (the map's "study's proposals" layer).

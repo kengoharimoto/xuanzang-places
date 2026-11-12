@@ -101,6 +101,10 @@ id	standard	standard_source	relation	evidence	note
 08.06.x2		none	candidate	survey: Cunningham's Budhokhar Tal S of the temple; Gaya gazetteer 1957	added place, not in Mizutani (the input's mizutani column holds the literature's proposal)
 08.06.x3		none	none		added place, not in Mizutani (the input's mizutani column holds the literature's proposal); the study records it unrated and does not place it (Cunningham: Mihap Tal)
 08.06.x4		none	none		added place, not in Mizutani (the input's mizutani column holds the literature's proposal); the study records it unrated and does not place it (Cunningham: Urel)
+08.06.x5		none	candidate	Gothu mound, E bank of the Nairañjanā (Anand 2024, blog; a guess from position)	added place, not in Mizutani (the input's mizutani column holds the literature's proposal); low
+08.06.x6		none	candidate	Kāzichak, with a large old pond (Anand 2024, blog)	added place, not in Mizutani (the input's mizutani column holds the literature's proposal); low
+08.06.x7		none	candidate	Bhabhani mound (Anand 2024, blog; from bearings)	added place, not in Mizutani (the input's mizutani column holds the literature's proposal); low
+08.06.x8		none	candidate	Shivrājpur mound (Anand 2024, blog; from bearings)	added place, not in Mizutani (the input's mizutani column holds the literature's proposal); low
 09.01.01	Bakraur stūpa and pillar	ji+mz	agrees		Ji tentative; strengthened (excavated stūpa)
 09.01.02		none	candidate	recent study: Nāma Dih mound or Gāfā Kalān E of the Mohana (Anand 2024, blog); no pillar found	low
 09.01.02a	Mohana river (upper Pewar)	ji+mz	agrees		Ji's upper Pewar is Cunningham's Mohana
@@ -126,6 +130,7 @@ id	standard	standard_source	relation	evidence	note
 09.02.17a	near Baitarni Godan, SW of New Rājagṛha	mz	refines	excavation: Mauryan bricks in Marshall's trench at Cunningham's mound H (reused)	Ji: confirmed by excavation, no site named; whether mound H is at Baitarni Godan is not shown; low
 09.02.18	New Rājagṛha, Rajgir	ji+mz	agrees		
 09.02.x1		none	candidate	excavation: two brick stūpas cleared half-way up the Bimbisāra road (Nazim 1936–37)	added place, not in Mizutani (the input's mizutani column holds the literature's proposal)
+09.02.x2		none	none		added place, not in Mizutani (the input's mizutani column holds the literature's proposal); Anand's walled plot S of New Rājgir has no evidence and no coordinates
 09.03.01	Nālandā ruins at Bargaon	ji+mz	agrees		strengthened (sealings and inscriptions)
 09.03.06	Yijing's Mūlagandhakuṭī, in the W range at Nālandā (no mound named)	ji+mz	agrees		Ji tentative; the study leaves Site No. 3 disputed; low
 09.03.08	Jagdishpur	ji	open	excavation: Juafardih stūpa mound dug 2007 (Saran 2008, via Anand, not checked); Kool (Lama, IAR 2013–14)	Mizutani: no modern identification
@@ -142,3 +147,5 @@ id	standard	standard_source	relation	evidence	note
 09.03.x4		none	none		added place, not in Mizutani (the input's mizutani column holds the literature's proposal); the study records it unrated and does not place it (Cunningham)
 09.03.x5		none	candidate	inscription naming Pūrṇavarman's bronze Buddhas at the Sarai mound temple (Misra, IAR 1975–76)	added place, not in Mizutani (the input's mizutani column holds the literature's proposal)
 09.03.x6		none	candidate	survey: the E-peak terrace of Giriyek and the Jarasandh-ka-baithak stūpa (Cunningham; Patna gazetteer)	added place, not in Mizutani (the input's mizutani column holds the literature's proposal)
+09.03.x7		none	candidate	Kūl village (Anand 2024, blog; fails his own distance and bearing test)	added place, not in Mizutani (the input's mizutani column holds the literature's proposal); low
+09.03.x8		none	candidate	mound NW of Shobhāpur (Anand 2024, blog; E, not SE, of Naṇand)	added place, not in Mizutani (the input's mizutani column holds the literature's proposal); low
