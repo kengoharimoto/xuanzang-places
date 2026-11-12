@@ -62,6 +62,11 @@ Mizutani's romanisation, which is probably a dropped diacritic. The Sanskrit sou
 the *Rājataraṅgiṇī* (v.150, with Stein's note) and ṭakkaja horses in the *Mahāsubhāṣitasaṃgraha* (7232). High
 confidence for the form; the identification is unaffected (data/names/).
 
+**Kuwayama (1990).** With Mizutani: the text's 信度河 here "は現インダス本流ではなく、チェナーブ河である", and 奢羯羅故城 is near
+Sialkot (p. 944); Dharmagupta's 吒迦 (Ṭakkadeśa, with its 提婆鼻何囉), where he spent four years before c. 578, is
+"現シアールコトを中心とする地方" (p. 462). In Xuanzang's time 磔迦 held 鉢伐多 (11.17) and 茂羅三部盧 (11.16) (p. 945); from the late 6th c. it
+took over from Gandhāra as the centre of long-distance trade (pp. 597, 617). No capital site.
+
 **Assessment.** The survey shows that a large early town lay at Asarur and that Takka was a real district name, but
 its placing of the capital still depends on Cunningham's Sangala (Sanglawala Tibba) and on an emended distance. If
 Śākala is Sialkot, as Mizutani holds, Asarur loses its anchor and Majumdar's site near Sialkot follows. Mizutani's
@@ -92,7 +97,8 @@ from Sagala") and Bhandarkar (CII 3, p. 24). Neither publishes an inscription th
 Ravi and Sialkot, for which he cites Fleet's note in the Proceedings of the Fourteenth Oriental Congress (p. 355); in
 his note on Mihirakula he gives Sialkot as "one view" (p. 360). Fleet's argument is not reproduced.
 
-**Kuwayama (2002).** In passing, "Sagala (present Sialkot)" (pp. 1, 109), without argument.
+**Kuwayama (1990, 2002).** In passing, "Sagala (present Sialkot)" (2002, pp. 1, 109), without argument; the thesis
+has "現シアールコート附近に擬せられる" (1990, p. 944).
 
 **Assessment.** The survey measured the hill but found nothing that names it; the case is still name and
 itinerary, and the ruins (1.5 miles round) are small for a great city. Neither survey nor gazetteers weaken

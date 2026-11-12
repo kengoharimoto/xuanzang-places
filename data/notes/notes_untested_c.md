@@ -526,6 +526,10 @@ inscription naming the place.
 **Ji Xianlin et al. (1985).** Ji agrees on Vala (18 miles NW of Bhavnagar, 21°52′N 71°57′E) and adds that
 inscriptions, sealings and sculpture from the site, now in the Prince of Wales Museum, Bombay, prove an old city whose
 description in the inscriptions matches Xuanzang's (p. 913).
+**Kuwayama (1990).** Agrees: Valabhī, "今のヴァラ" (p. 650). From the Maitraka copper plates he has Bhaṭārka independent
+at Valabhī c. 470–80 and the Duddā-vihāra built c. 525 under Dhruvasena I for his niece, the nucleus of the later
+vihāra-maṇḍala, so Valabhī rose with Nālandā from the late 6th c.; Xuanzang's brief account (伽藍百餘所…德慧堅慧菩薩之所遊止)
+reflects his Nālandā viewpoint (pp. 649–64). History, not site.
 **Assessment.** Agreement, a good route fit, and inscriptions and sealings from the site (reported by Ji). Secure.
 
 ### 11.12 鄔闍衍那國 (Ujjayanī) — Ujjain

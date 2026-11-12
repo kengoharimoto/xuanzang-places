@@ -542,6 +542,8 @@ Warwaliz (modern Qunduz)" in Sims-Williams' glossary (BDNA II p. 242), is where 
 Sims-Williams himself reads 活 as War- in 活路 Huolu (EMC ɣwat-lo), a Hephthalite city, which he takes (after Yoshida
 2003, p. 158b) for the base *Warl- of the people-name Warlogan (BDNA II p. 242); see 12.05 (data/names/bactrian.tsv). Yoshida (1998, pp. 36–37) independently confirms 活 = war = Kunduz; Kuwayama (2002, 2020) puts the capital town at Qal'a-ye Zāl on the Oxus (see 12.05).
 
+**Kuwayama (1990).** Qal'a-ye Zāl, seat of Tardu-shad, already in the thesis (1990, pp. 386, 505a, 930–33); see 12.05.
+
 **Recent scholarship.** See 12.05: Kuwayama (2020, pp. 123–24, 127) on the boat journey to 活 and on Khesht Tepe, a
 smaller south-bank town site W of Qal'a-ye Zāl; Miyamoto (2012, p. 429) on de la Vaissière's objection to Kuwayama's
 Hyecho equation.
@@ -775,10 +777,19 @@ site by Topchi and Kalū over the Hajigak pass to Gardan-Divāl on the upper Hel
 alternative, the pool of sacred fish at Sar-é-Cheshmeh, a source of the Kabul river on the E side of the Unai pass (I,
 p. 137 n. 10).
 
-**Assessment.** Foucher's measurement makes the literal south-east work: 200 li by the Hajigak road reach the upper
-Helmand, and Hackin's Sar-é-Cheshmeh lies a stage further on the same road. Fondukistan needs the bearing changed to
-east and the Shibar route, and is now the weaker view. No site has been found. The study prefers the Hajigak side
-(Gardan-Divāl or Sar-é-Cheshmeh), low confidence.
+**Kuwayama (1990).** Fondukistan, Mizutani's view (2). He follows the Life (東南行二百餘里，度大雪山至小川，有伽藍…): the
+大雪山 crossed is the Shibar (Adachi Kiroku's "Sabar P." is a miswriting of it), beyond which the Ghorband valley has
+only one known Buddhist site, Fondukistan (Hackin, MDAFA 8); so "佛齒等をまつる寺はフォンドゥキスターンである", and Xuanzang lost his way
+after leaving it, not at the Shibar (1990, pp. 922–25, n. 4). He does not discuss the text's south-east, which both
+the Xiyu ji and the Life give, nor reconcile the identification with his own date for Fondukistan's niche E, whose urn
+of coins was buried after 689 and which "七世紀末ないし八世紀はじめを大きくさかのぼるものでない" (p. 1385; also 1989, p. 49; 2002, p. 182); the
+date concerns that niche, not necessarily the whole monastery.
+
+**Assessment.** Two alternatives, left open. Foucher's measurement makes the literal south-east work: 200 li by the
+Hajigak road reach the upper Helmand, and Hackin's Sar-é-Cheshmeh lies a stage further on the same road; but no site
+has been found there. Fondukistan, argued by Kuwayama from the Life's crossing of the 大雪山 and the lack of any other
+Buddhist site in the Ghorband, is a known monastery on the Shibar route, but needs the bearing changed to east, and
+its dated remains are later than Xuanzang. Neither has site evidence for the tooth relics; low confidence either way.
 
 ### 01.37.03a 黑嶺 (梵衍那–迦畢試間) — the Shibar pass vs the Hajigak/Unai cols
 
@@ -804,10 +815,16 @@ Surkhāb, in use until the Salang highway opened in 1964, as the trunk route, an
 Bāmiyān over the Shibar to the Ghorband and Kāpiśī. Like Foucher he speaks of the highway, not of Xuanzang's crossing
 after the detour to 01.37.03, so the alternatives stand.
 
-**Assessment.** These are two real alternatives. Mizutani and Takata take the Shibar and the Ghorband; Vivien and
-Cunningham take the Hajigak/Unai route. Foucher, cited for the Shibar, puts only the highway there: Xuanzang went SE
-by the Hajigak to 01.37.03 and lost his way, on Hackin's view in the Paghman range beyond the Unai. If 01.37.03 lay on
-the Hajigak side, so did the crossing. The study now leans to Hajigak/Unai, low confidence.
+**Kuwayama (1990).** A third reading: from Fondukistan (01.37.03) Xuanzang did not follow the Ghorband but crossed the
+Paghman range into the Koh-daman, and the 黑嶺 of the Xiyu ji and the Life, Kāpiśī's 三陲黑嶺 included, is the snowless
+Paghman: "その雪山・黒嶺はいずれもパグマーン山脈のことを指したものである。この黒嶺は積雪のない山岳であり" (1990, p. 926).
+This is close to Hackin's crossing of the Paghman (via Foucher), but from the Ghorband side, not from Sar-é-Cheshmeh.
+
+**Assessment.** Three readings, left open. Mizutani and Takata take the Shibar and the Ghorband; Vivien and Cunningham
+take the Hajigak/Unai route; Kuwayama takes the Shibar to Fondukistan and then the Paghman. Foucher, cited for the
+Shibar, puts only the highway there: Xuanzang went SE by the Hajigak to 01.37.03 and lost his way, on Hackin's view in
+the Paghman range beyond the Unai. Hackin and Kuwayama agree that the 黑嶺 was the Paghman and differ only on where
+Xuanzang came from; the crossing follows the choice at 01.37.03, which is open. Low confidence for any of them.
 
 ### 01.38 迦畢試國 (Kāpiśī) — the Panjshir–Ghorband basin round Begram; the Annual Reports accept Foucher's Begram, the gazetteers say only "Kabul valley"
 
@@ -843,12 +860,24 @@ sent one in 616 (1990, pp. 677–711; 2002, pp. 203–5; Kuwayama 1975). The *Su
 580–620: the Zhun cult on 葱嶺山 (01.38.03a) and a king whose crown, read 金牛頭冠 with the *Tongdian* against the
 *Suishu*'s 金魚頭冠, is the bull's-head crown of the "Napki Malka" coins (1990, pp. 722–30; 2002, ch. XIII); the
 昭武/康國 pedigree is probably a confusion with Sogdian 曹國 (pp. 719–22). Earlier, Jinagupta spent a year in Kāpiśī
-(c. 555) at the king's request, and Dharmagupta stayed in a 王寺 built by a king of Kashgar outside the city and then
-two years 於國城中 (Xu gaoseng zhuan; 1990, pp. 665–76; see 01.38.05). He finds the Buddhist monuments round and N of
+(c. 555) at the king's request, and Dharmagupta stayed in a 王寺, apparently outside the city, and then two years
+於國城中 (Xu gaoseng zhuan; 1990, pp. 465, 665–76, 1518; see 01.38.05). He finds the Buddhist monuments round and N of
 the capital and the Brahmanical ones (Tapa Skandar, Khair Khana, Hindu marbles near Sarai Khwaja) in the S, a division
 the archaeology confirms (1990, pp. 1155–64; 2002, pp. 200–1). Of 比羅娑洛山 (01.38.07, no note) he says that since the
 mountain god, not the mountain, takes the elephant form, Gaṇeśa was worshipped there (山神の形が象だというのであるから、こ
-の山岳にガネーシャがまつられていたとみられる, 1990, p. 1149).
+の山岳にガネーシャがまつられていたとみられる, 1990, p. 1149). From c. 555 Kāpiśī was the junction of the "northern road"
+over the western foot of the Hindu Kush (其國乃是北路之會。雪山北陰商侶咸湊其境, of Dharmagupta's time; 1990, pp. 464, 478,
+507–8). Ch. 5 adds the extent and the dependencies: Cunningham's Kāpiśī (Kafiristan with the Ghorband and Panjshir
+valleys) leans north, and the country is better taken as one long N–S basin from the Hindu Kush that includes the
+Kabul basin (1990, p. 927), which sits uneasily with his southern border at the Khair Khana pass (pp. 1262–66; see
+12.02). Its subject countries in 629 were 濫波, 那揭羅曷 and 健馱邏 among the sixteen countries of North India and 伐剌拏
+in West India, "probably" also 稽薑那 (11.23.02); 呾叉始羅 had been subject
+(昔役屬迦畢試國) and was now Kashmir's (pp. 938–40). So Kāpiśī reached the Indus at Udabhāṇḍapura, where its king met
+Xuanzang in 643–44 (pp. 950–53; see 02.04.18), and it still held the right bank of the Indus from Begram when the Tang
+made it the 修鮮都督府 in 658/661 (p. 984; 01.38a). For the king's caste he gives the variant 窣利 (Sogdian) of the
+Dunhuang manuscript and the Ishiyamadera and Chūsonji copies against the printed 刹利, and leaves it open, adding only
+that the king was not himself a Turk, though friendly to the Western Turks and perhaps holding a Turk title (pp.
+928–36); 2002 (p. 213) rejects 窣利.
 
 **Recent scholarship.** Kuwayama (1993, p. 427) separates the country Xuanzang describes, the limited area round
 Begram E of Charikar, from the dominion of its Khingal king, which reached W over the Begram region, E through
@@ -857,9 +886,11 @@ journey the Life has the king with Xuanzang from Udabhāṇḍa, Kāpiśī's eas
 
 **Assessment.** The authorities differ on the extent of Kapiśa (whether Kafiristan belongs to it), but all centre it
 on the Panjshir–Ghorband plain; Kuwayama's distinction (1993) between the country of the Xiyu ji, the Begram basin,
-and its king's wider dominion accounts for much of that difference. The gazetteers add nothing. The Annual Report takes Foucher's Begram as established
-and adds an early record from the site, but no proof of the name. Kuwayama adds the Sui name 漕國 and 6th-century
-visitors, which date Kāpiśī's rise but do not move it. Mizutani stands. For the capital see 01.38a.
+and its king's wider dominion accounts for much of that difference, though his thesis also counts the Kabul basin in
+the country itself (1990, p. 927), against his own border at Khair Khana; how far south the country reached is open.
+The gazetteers add nothing. The Annual Report takes Foucher's Begram as established and adds an early record from the
+site, but no proof of the name. Kuwayama adds the Sui name 漕國, 6th-century visitors and the list of subject countries,
+which date Kāpiśī's rise and show its reach but do not move it. Mizutani stands. For the capital see 01.38a.
 
 ### 01.38.01 質子伽藍 (沙落迦) — the hostage monastery: Koh-i-Pahlvan/Shotorak, E of Begram
 
@@ -894,13 +925,12 @@ with the 質子伽藍.
 
 **Assessment.** Beal's site rests only on the Charikar = Shalaka name echo and assumes the capital lay near Charikar
 (see 01.38a). The hill E of Begram follows from the Begram capital, and Kuwayama agrees. The text puts the monastery
-北山下, at the foot of a mountain to its north, with stone chambers on the ridge N of it (伽藍北嶺上有數石室): Foucher's
-stūpa on the S spur fits this better than Shotorak at the N foot, which Ji and Kuwayama, like Mizutani, only list
-among the hill's sites. On 沙落迦 the authorities divide (Kashgar: Hatani, Feng, Mizutani, Kuwayama; Luoyang: Xiang
-Da, Ji); the Luoyang reading suits the Life's "son of the Han emperor" better, the Kashgar one Dharmagupta's 王寺 built
-by a king of Kashgar (01.38.05), and neither bears on the site. Kuwayama's 7th–8th-century date for Shotorak (1989)
-keeps it possible on date but does not touch the text's position. Mizutani stands, with Foucher's ruin the better
-candidate.
+北山下, at the foot of a mountain to its north, with stone chambers on the ridge N of it (伽藍北嶺上有數石室): Foucher's stūpa on
+the S spur fits this better than Shotorak at the N foot, which Ji and Kuwayama, like Mizutani, only list among the
+hill's sites. On 沙落迦 the authorities divide (Kashgar: Hatani, Feng, Mizutani, Kuwayama; Luoyang: Xiang Da, Ji); the
+Luoyang reading suits the Life's "son of the Han emperor" better, the Kashgar one the 後漢書's hostage 臣磐, and neither
+bears on the site. Kuwayama's 7th–8th-century date for Shotorak (1989) keeps it possible on date but does not touch
+the text's position. Mizutani stands, with Foucher's ruin the better candidate.
 
 ### 01.38.02 曷邏怙羅僧伽藍 (Rāhula) — Kafir Qaleh SE of Begram vs Kuwayama's Borj-e Kafir near Sarai Khwaja
 
@@ -918,7 +948,9 @@ in 弗栗恃薩儻那, not Kapiśa (p. 57). The thesis and the 2002 collection s
 Bacha Kot), "極端にベグラームからかけはなれて存在する" (1990, pp. 1157–58), "Borji Kafir near Tapa Skandar" (2002, p. 187), i.e. c. 40–50
 km S of Begram. He chose it because Xuanzang sets the Rāhula monastery apart from the northern Buddhist group and
 Borj-e Kafir is the only Buddhist site standing in the south (2002, p. 200); he quotes 大城東南三十餘里 without reconciling
-the distance. This is not Foucher's and Mizutani's Kafir Qaleh, c. 10 km SE of Begram (below).
+the distance. In ch. 4 he says only that Xuanzang's setting the Rāhula monastery alone far to the SE agrees "きわめて
+よく" with the position of the Borj-i Kafir stūpa NE of Tapa Skandar (1990, pp. 917–19). This is not Foucher's and
+Mizutani's Kafir Qaleh, c. 10 km SE of Begram (below).
 
 **Foucher (1942–47), p. 141 (recovered).** Foucher found at Kâfir-Qaleh, about 10 km from the "Bêgrâm" of Kapiça, a
 fortified quadrangle of 170 × 280 m and, 200 m north of it, a monastery with a stūpa mound 30 m across and a cell
@@ -956,7 +988,17 @@ Skandar, "城壁で五角形にかこむ町" (1990, pp. 1223–29). He rejects T
 leaning to the north in general (pp. 1152–55), and counts Paitāvā, "ベグラームの南方七キロほど", among the northern
 Buddhist sites (p. 1157). His distances do not agree: Begram–Tapa Skandar c. 40 km against the text's 四十餘里 (p.
 1152), c. 50 km elsewhere (p. 1230; 2002, p. 201). Tapa Skandar II began by the very early 7th c. at the latest (2002,
-p. 181). He also records Marquart and de Groot's *Spen-varas, "white hair" (2002, p. 278 n. 10).
+p. 181). He also records Marquart and de Groot's *Spen-varas, "white hair" (2002, p. 278 n. 10). Ch. 4 gives the
+dating: Tapa Skandar II shares the round bastions, the 38 cm bricks and the marble Hindu images with upper Khair
+Khana, whose upper limit falls in the first thirty years of the 7th c., "タパ＝スカンダルの年代も同じ", so the town existed when
+Xuanzang came (1990, pp. 913, 917); it lists the earlier readings of the name (Julien, Vivien de Saint-Martin,
+Watters' Śvetavat, followed by J. N. Banerjea; pp. 914–16, nn. 79–83). Ch. 5 gives a third distance, 30–40 km S of the
+capital, and rejects Chavannes's 塞奔你邏斯州 of the 修鮮都督府 = 霫蔽多伐剌, since the town lay inside Kāpiśī and could not be "その屬部"
+(p. 985; 01.38a). Ch. 6 has the Umā-Maheśvara found "神殿Aにてほぼ原位置で" (p. 1309), with a pedestal (Dagens 1964) from the
+site, a lion from W of it and a Śiva Trimūrti from Deh Mir to its N (pp. 1321, 1328, 1330); its Siddhamātṛkā is no
+earlier than the late 6th c. (p. 1338; Sircar: 6th or later 7th c., n. 54). The marble series as a whole he dates to
+the 7th–8th c., under the 馨孽 kings and then the Turk dynasty, not the Hindu Shahis ("大いなる錯誤", pp. 1397–1400), anchored
+on Khair Khana (01.38.03a).
 
 **Foucher (1942–47).** Mizutani's Tatarānzar is Foucher's view of 1923: the ruins on the dasht of Tataranzar, 40 li S
 of the city (I, p. 142). After a visit in October 1925 he put the town at "tertres importants de Paitâvâ et de
@@ -1007,7 +1049,12 @@ III (2002, pp. 204–6). The Khair Khana pass was Kāpiśī's southern border (1
 from Hori Kentoku (解説西域記, 1912, p. 100) and is not argued phonetically (1990, pp. 1258–61). His distances are
 Khair Khana c. 10 km from Kabul and c. 30 km from Tapa Skandar, Tapa Skandar c. 50 km from Begram, which he finds
 "ほぼ照合する" with the text's 40 and 30 li as a proportion (p. 1230); it assumes his long Begram–Tapa Skandar stretch
-(01.38.03), and the absolute figures are about twice the text's.
+(01.38.03), and the absolute figures are about twice the text's. Upper Khair Khana is dated from its round bastions,
+38 × 38 × 9 cm bricks and marbles shared with Tapa Skandar II: "ハイル＝ハーナ上層時代は七世紀はじめの三〇年間に上限が
+もとめられる" (1990, p. 913). The date of its shrines, standing between 606 and 629, is his anchor for the whole series
+of marble Hindu images, which he puts in the 7th–8th c., before the Hindu Shahis (pp. 1397–1400); the Sūryas (one with
+Aruṇa, from the debris between shrines B and C; one found at the hill's foot in 1980) and the Śiva base with a Skanda,
+in situ in shrine A, are the only Sūrya finds of the series (pp. 1274–89, 1335).
 
 **Foucher (1942–47).** Mount Aruṇa was shown to Xuanzang "de loin" at Kāpiśī; Foucher reads Śuna as Śiva and puts the
 god's later temple in Jāguḍa, where the Helmand leaves the mountains (II, p. 258). He gives no site for the mountain.
@@ -1051,7 +1098,8 @@ W of Begram, so the figure is probably a slip.
 
 **Kuwayama (1990).** No site. He equates the monastery with the 罽膩吒王伐龍宮沙彌寺 that Wukong lists in Kāpiśī, so
 it was still standing after 751 (pp. 1141–42, 1210–18); Top Darra appears only as the southern end of the Buddhist
-sites along the E foot of the Paghman (p. 1157).
+sites along the E foot of the Paghman (p. 1157). Ch. 5 repeats the equation and puts the 伐龍宮沙彌寺 N of the Kāpiśī
+royal city, Wukong having visited Kāpiśī as well as Gandhāra (伐龍宮沙彌寺はカーピシー王城の北にあった, pp. 1058–62).
 
 **Assessment.** Cunningham identifies only the mountain, Mizutani the monastery. The two do not conflict. Top-Darrah
 is the only site proposed and fits the distance but not the direction; Kuwayama adds a later record of the monastery,
@@ -1075,14 +1123,22 @@ door jamb; above all, the hostage monastery 3 li E fixes the site (I, p. 140).
 **Ji Xianlin et al. (1985).** Ji agrees: Begram, 62 km N of Kabul (p. 137).
 
 **Kuwayama (1990, 2002).** Begram, the "new royal city" on the terrace S of the Panjshir. The rival he answers is
-Ghirshman's: having ended Begram III with the Chionite/Hephthalite invasion (late 4th–5th c.), Ghirshman put
-Xuanzang's capital at Gunde Paisa (Ghunde Peisa), a low mound c. 5 km SE of Begram (Ghirshman 1946, p. 41), a view
-ignored rather than refuted (1990, pp. 736–44). Kuwayama's answer is from the text: the 舊王伽藍 lies 王城西北大河南岸, with
-a second 舊王伽藍 and the 舊王妃伽藍 to its SE, all without distances, so the city stood close to the S bank of the
-Panjshir; Gunde Paisa, 5 km (c. 10 li) from the river, would have needed a figure (王城の遺跡としてはベグラーム以外にないの
-である, 1990, pp. 745–50; 2002, p. 162, p. 278 n. 9). He then re-dates Begram III by its round bastions and stamped
-pottery, linked with Tapa Skandar II and Khair Khana: "Begram III existed in the second quarter of the seventh
-century" (2002, chs. X–XI, p. 172).
+Ghirshman's: having ended Begram III with the Chionite/Hephthalite invasion, Ghirshman put Xuanzang's capital at Gunde
+Paisa (Ghunde Peisa), a low mound c. 5 km SE of Begram (Ghirshman 1946, p. 41), a view ignored rather than refuted
+(1990, pp. 736–44). Kuwayama's answer is from the text: the 舊王伽藍 lies 王城西北大河南岸, with a second 舊王伽藍 and the 舊王妃伽藍 to
+its SE, all without distances, so the city stood close to the S bank of the Panjshir; Gunde Paisa, 5 km (c. 10 li)
+from the river, would have needed a figure (王城の遺跡としてはベグラーム以外にないの である, 1990, pp. 745–50; 2002, p. 162, p. 278 n. 9). He
+then re-dates Begram III by its round bastions and stamped pottery, linked with Tapa Skandar II and Khair Khana:
+"Begram III existed in the second quarter of the seventh century" (2002, chs. X–XI, p. 172); the capital Xuanzang saw
+is the top level of Begram (國都はベグラームの最上層の時代 である, 1990, p. 919). Kuwayama's reports of Ghirshman's end of Begram III
+disagree: 250 years before Xuanzang, i.e. c. 380 (1990, pp. 743–44), "四〇〇年前後" (p. 759, with Deydier 1950, pp. 108–9),
+"the end of the fifth century" (2002, p. 162, against "before the fourth century" on pp. 166, 173); the date is open
+pending Ghirshman 1946, p. 41. The Tang name of the city is 遏紇城: in 658 and again in 661 the 修鮮都督府 was set at
+罽賓國王居遏紇城, with the king as 修鮮都督 over eleven 州, and from it Kāpiśī still held the country to the right bank of the
+Indus (1990, pp. 976–86; *Tang huiyao* 73, 99, *Jiu Tang shu* 198, *Tang shu* 221上); Wukong's 罽賓 western capital of
+753 is the same Begram, Udabhāṇḍapura (02.04.18) the eastern (pp. 1046–58). He rejects Chavannes's equations of the
+other ten 州 seats with Xiyu ji places (塞奔你邏斯 = 霫蔽多伐剌, 濫犍 = 濫波, 半製 = Panjshir): the 州 names are *Hanshu*-style elegant
+names, from which "地名を解きおこす作業は空しい" (pp. 985–86).
 
 **Recent scholarship.** Kuwayama (1989, pp. 24–25, 40–41) first set out the riverside-monastery argument against Gunde
 Paisa and the 7th-century date for Begram III summarised above (7世紀にベグラームは生きていたのである). He gives the dating chain in
@@ -1094,9 +1150,10 @@ coin of Varahran IV had suggested the 5th).
 **Assessment.** None of the older authorities (Vivien, Cunningham, Beal, Dey) chose Begram; they offer four different
 sites. Foucher chose it. Mizutani's Begram rests on Foucher's 1923 survey, the French excavations Mizutani notes, and
 the consistency of the dependent sites (01.38.01–03a). Ghirshman's Gunde Paisa, the one rival proposed on excavation
-grounds, depended on his early end for Begram III; Kuwayama's argument from the riverside monasteries and his
-7th-century date for Begram III remove the conflict. The gazetteer passages only echo Cunningham's classical
-identifications. Mizutani stands, with the excavated site carrying more weight than the older guesses.
+grounds, depended on his early end for Begram III (its date in Ghirshman's own words still to be checked); Kuwayama's
+argument from the riverside monasteries and his 7th-century date for Begram III remove the conflict. The gazetteer
+passages only echo Cunningham's classical identifications. Mizutani stands, with the excavated site carrying more
+weight than the older guesses.
 
 ### 12.01 漕矩吒國 (*jaukuta) — Zābulistān (Ghazni region) vs Arachosia vs Sewistan
 
@@ -1117,6 +1174,14 @@ Kāpiśī, not this country (01.38): 漕矩吒 lay S of the Hindu Kush beyond �
 686–97; 2002, pp. 203–4, 278 n. 13). So the *Suishu*'s 順天神, 金魚頭冠 and 昭武 king belong to Kāpiśī, not to Zābulistān.
 稿那呬羅山 is the Jabal az-Zūr of Yāqūt, whose idol Zūr = Zūn stood in Zamīn Dāwar on the right bank of the Helmand NE of
 Girishk (Balādhurī: taken by Ibn Samura); "シュナ神とズーン神とが同一であるかぎり、ザーブリス ターンの南界はギリシク附近にあったものとみてよい" (1990, pp. 1262–66).
+Ch. 5 follows the country into the Tang: 謝䫻 = 漕矩吒, 漕矩, 漕利, 阜利 and the 訶達羅支 of 顯慶, where the Tang set the
+條支都督府 in 661 at 伏寶瑟顛城 with eight 州 (*Jiu Tang shu* 地理志); 謝䫻 never sent envoys in the 7th c., and from 692 and
+710 came paired with 罽賓 (1990, pp. 1022–25). In the 僕羅 memorial of 718 the kings of 謝䫻 and 罽賓 have 200,000 troops
+each; in 719–20 the Tang invested the 謝䫻 king 葛達羅支頡利發誓屈爾 (pp. 1025–30). By c. 720 the country was a dependency
+of Kāpiśī, its king the Kāpiśī king's nephew (Huichao: 其王即是罽賓王姪兒…不屬餘國。亦不屬阿叔), and the *Tang shu*'s 後遂臣罽賓
+means that Zābul became subject to Kāpiśī, not, as Chavannes read it, the reverse (pp. 1030, 1076–82, n. 29). Ch. 6
+adds that Hinduism reached Gardez and Zābulistān: the Gardez marbles and the Durgā of shrine 23 at Tapa Sardār near
+Ghazni, set up beside Buddhist images (p. 1403).
 
 **Route test (whole juan).** The combination of candidates that best fits juan 12's distances and bearings takes
 Ghazni (Vivien 1858) here, not Mizutani's Zabulistan (SE Afghanistan) (route/README.md §6). The figures are one kind
@@ -1168,6 +1233,11 @@ this capital A-so-ni (*Asani).
 
 **Ji Xianlin et al. (1985).** Ji agrees: in the Helmand basin, perhaps Guzar (p. 956).
 
+**Kuwayama (1990).** A second, perhaps winter, capital whose position cannot be fixed: "鶴悉那はガズナであろうが、鶴薩羅、
+すなわち冬都の位置はきめがたい" (1990, p. 1024), with the Ghaznavids' pair Ghazni and Bust/Lashkari Bazar as the analogy
+(n. 17). The *Tang shu* has the king 亦治阿娑你城, and the Tang set the 條支都督府 at 伏寶瑟顛城 (661); how 鶴薩羅, 阿娑你 and
+伏寶瑟顛 relate is unclear (pp. 1024–25, n. 18). He does not discuss Guzar.
+
 **Name.** 鶴 is γa(k), 薩 sa(t) or sar, 羅 ra/la: Mizutani's *ghasala is the literal reading, and with 薩's -t for r the
 form could be *γasar(a) or *γasra. Nothing of this shape was found near Zābulistān in the Ḥudūd, Le Strange or
 Barthold; Cunningham's Guzar is a vague modern name not in the files, and the *Tang shu* calls this capital A-so-ni.
@@ -1175,7 +1245,8 @@ Doubtful, low confidence (data/names/).
 
 **Assessment.** Cunningham's Guzar has the closer sound, though only loosely (*γasar against Guzar, with s for z and a
 for u; see Name), and is followed by Beal and Mizutani. Vivien's suggestion is a guess from the name only. Mizutani
-stands, with "Guzar" itself only vaguely localised.
+stands, with "Guzar" itself only vaguely localised; Foucher and Kuwayama (1990) both leave the second capital
+unlocated.
 
 ### 12.01c 羅摩印度川 (*ramaindu) — the Helmand
 
@@ -1227,7 +1298,9 @@ the Life says, to the borders of Kapiśa (II, p. 232).
 east", = the *Tang shu*'s 護時健 (N of Zābulistān, SE of Bāmiyān) (p. 198); the name perhaps *Ūrdhasthāna, "high
 region" (p. 258). Its Turkish king was a local minor power under Kāpiśī's hegemony, whose line later took the
 Kāpiśī throne at Kabul (Huichao; Bīrūnī) (pp. 198, 264). He sets Kāpiśī's southern border at the Khair Khana pass
-(1990, pp. 1262–66, see 01.38.03a), so the Koh-daman belongs to Kāpiśī, not to this country.
+(1990, pp. 1262–66, see 01.38.03a), so the Koh-daman belongs to Kāpiśī, not to this country. The thesis takes the
+Xiyu ji's 王突厥種也 (卷12) as evidence of a Turk group S of the Hindu Kush distinct from the Western Turks, of unknown
+origin (1990, pp. 936–37, n. 8); the pages read do not yet tie it to the later Turk kings of Kāpiśī, as 2002 does.
 
 **Recent scholarship.** Kuwayama (1993, pp. 403, 407) argues the Kabul district in more detail than in 2002: the
 country lies 500 li N of 漕矩吒, and the Life takes Xuanzang from it NE over mountains past some tens of Kāpiśī's border
@@ -1290,7 +1363,8 @@ left Xuanzang, near Paghman (II, p. 234).
 
 **Recent scholarship.** Kuwayama (1993, pp. 404, 407; also 2002, p. 132) agrees on the Khawak, reading the Life's
 越迦畢試國邊城小邑凡數十所至大雪山婆羅犀那大嶺 as the road from Begram up the Panjshir, by which the Kāpiśī king escorted Xuanzang back
-towards Tokharistan. No field evidence.
+towards Tokharistan. No field evidence. So already the thesis (1990, p. 492): the Khawak crosses the Hindu Kush near
+its middle and is no "western foot" road.
 
 **Assessment.** The authorities agree, Beal and Watters tentatively, and Foucher adds the NW descent into Andarāb
 (12.03). No rival pass is proposed, but nothing on the ground fixes the crossing: agreement only. Mizutani stands
@@ -1375,6 +1449,13 @@ names a second south-bank town site, Khesht Tepe to the W, findspot of the Kundu
 p. 429) reports de la Vaissière's objection (2010) to one link of Kuwayama's chain: Hyecho's 縛底耶, which Kuwayama also
 puts at Qal'a-ye Zāl, would on Hyecho's travel days lie W of Merv, and de la Vaissière keeps Balkh; Miyamoto notes
 that the objection leaves other figures unexplained. It concerns Hyecho's capital, not the Life's 都城在河南岸.
+
+**Kuwayama (1990).** The thesis already has the capital at Qal'a-ye Zāl, "それはもはや疑もなく、カライ＝ザールにあてうる"
+(1990, p. 386; also p. 505a, "クンドゥズ北西、アームー南岸のカライ＝ザール附近に國城をもった地方", with its 附論 on the towns of
+Tokharistan), as the seat of the yabghu Tardu-shad (呾度設) and the Western Turks' 鎮押 (pp. 489, 930–33). His evidence
+there is the Life's 都城在河南岸, the Xu gaoseng zhuan on the Turks' seasonal camps, and the *Jiu Tang shu*'s 太汗都督府 at
+活路城 (nn. 5–7), which he takes for the same place; later work separates 活路 from 活 (above). Nothing new for the
+site.
 
 **Assessment.** The country is the lower Kunduz–Surkhāb plain, as all agree, supported by the name: 活 renders
 *War, the base of Warwālīz (Marquart) and the first syllable of the Bactrian city Warnu (Sims-Williams; see Name).
@@ -1580,6 +1661,10 @@ towards Chitral, capital Kandat (p. 425, tentative).
 
 **Ji Xianlin et al. (1985).** Ji agrees on Wakhan, but accepts Markwart's *Dar-i Mastit for the name, which Mizutani
 doubts (p. 975).
+
+**Kuwayama (1990).** Wakhan, = Songyun's 鉢和 (519), the 達摩悉鬢多 of Dharmagupta's biography (later 6th c.) and the Tang
+護密, with its centre at 昏馱多 in Xuanzang's time and later at 塞迦審 (1990, pp. 374–75; see 12.15.02). Agrees; the
+earlier names carry the country back to the 6th c.
 
 **Assessment.** The alias 鑊侃 settles Wakhan. Vivien's Matotch (= Mastuj?) is an attempt to explain the
 "-ma-si-tie-" syllables, much like Markwart's, and still puts the capital at Kandat in Wakhan (cf. 12.15.02). Mizutani

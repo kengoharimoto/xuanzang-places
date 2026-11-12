@@ -14,6 +14,8 @@ Ghaznī"; the *Tang shu* copies Hao-si-na but calls the second capital A-so-ni (
 **Ji Xianlin et al. (1985).** Ji agrees: Ghazni, noting that the *Xin Tang shu* has the king of 謝䫻 live at 鶴悉那 (p.
 956). That is the Tang form of the capital's name, not evidence for Ghazni, and leaves Pelliot's phonetic doubt
 standing.
+**Kuwayama (1990).** "鶴悉那はガズナであろう" (1990, p. 1024), in passing, without the phonetic question; the *Tang shu*'s
+second seat 阿娑你城 and the 條支都督府's 伏寶瑟顛城 (661) he leaves unrelated to it (pp. 1024–25; see 12.01, 12.01b).
 **Name.** The characters give *γak-s-na: 鶴 is γa with an unexplained -k (匣 + -k), 悉 a voiceless s (心), where Xuanzang
 writes Iranian z with 習 or 寔, and 那 na. Ghazna/Ghaznīn (Ḥudūd §24.19, spelt Ghazaq; Marquart, Ērānšahr p. 39: Gazna,
 from an older *Ganzak) is the attested candidate, but it fits poorly, as Pelliot's *γâk-sĭet-nâ already showed. No
@@ -45,7 +47,8 @@ Gaz (c. 675), is a different name: it has no -āb for 縛, its -dar- does not su
 compares it, doubtfully, with Dar-i Andara near Maimana, not with Andarāb. BDNA has nothing on Andarāb, and Andrāb
 stands (data/names/bactrian.tsv).
 **Kuwayama (2002).** Agrees: 安呾羅縛 "is definitely phonetically equal to Andarab", one of the three countries Xuanzang
-says were subject to the Turks; on his return he came down the upper Andarāb from the Khawak (pp. 132–33).
+says were subject to the Turks; on his return he came down the upper Andarāb from the Khawak (pp. 132–33). The thesis
+already has "アンダラーブ中流域", reached over the 婆羅犀那大嶺 = Khawak (1990, p. 492).
 **Recent scholarship.** The 18th-century "present name" gloss of the Tibetan Xiyu ji, be lu ra, is wrong; Takata
 (2020, pp. 356–357) guesses Balti (Baltistan) and himself puts the country on the Doshi river in S Baghlan. No weight.
 **Assessment.** Probable on the name and agreement, and Foucher's plateau at Banu gives a plausible, unexcavated
@@ -95,6 +98,8 @@ with a double n is excluded by the key. Kurān with a single nasal fits, atteste
 infidel lands Wakhān and Shiqinān) and Ibn Khurdādhbih (p. 37, Karrān); Marquart (Ērānšahr) reads *Kurāna. 拏 is
 retroflex, so Xuanzang heard or Indianised -āṇa. The *Xin Tang shu* 倶蘭/倶爛那 agree. Medium confidence; the
 identification is unaffected (data/names/).
+**Kuwayama (1990).** Agrees, and gives the bounds: "北はサレ＝サング、南はタガーオ川とムンジャーン川が合流する地點までの
+地方", entered from the Jurm lapis district, with 淫薄健 at Yamgān and 鉢鐸創那 at Faizabad (1990, pp. 388–89).
 **Assessment.** Probable: name and Tang form agree, Vivien's Garana is the same mining district, and the distance
 fits.
 
@@ -114,7 +119,7 @@ unattested. The 10th-century form with its Buddhist temples matches both the cha
 confidence for the name (data/names/).
 **Recent scholarship.** Kuwayama (1985, pp. 148–49) agrees: 昏馱多 was Wakhan's royal town when Xuanzang passed, now
 Khandūd on the S bank of the Ab-i Panja; the centre later moved to 塞迦審, which the *Tang shu* gives as the chief
-settlement, probably Ishkashim (see 12.16a). Text only, no site evidence.
+settlement, probably Ishkashim (see 12.16a). Text only, no site evidence. The thesis repeats this (1990, pp. 374–75).
 **Assessment.** Probable: the name runs from the Ḥudūd's Khamdādh, with its idol-temples, to modern Khandūd (see
 Name), and Vivien and Mizutani agree; no site evidence for the monastery.
 
@@ -137,8 +142,14 @@ accepted, although it does not seem to meet all the requirements of the texts" (
 **Evidence.** None; a hearsay country. Route test: the onward 700 li NE to the Pamir valley measures 200 km (z +0.2,
 bearing off 6°).
 **Ji Xianlin et al. (1985).** Ji agrees: between Mastuj and Chitral (p. 980).
-**Assessment.** Probable. The authorities agree, but only Mizutani is firm and Watters records unease; no site
-evidence.
+**Kuwayama (1990, 2002).** Firmly Chitral, through Songyun's 賒彌 (Luoyang qielan ji; *Weishu*: 在波知之南…東有鉢盧勒國):
+the Sui 劫國, whose W and S border on 賒彌, is Mastuj, and "劫はマストゥージ、賒彌はチトラールでなければならない。これ以外に
+集落を認める地域はないのである" (1990, p. 395). He rejects Stein's upper Kunar, since from there Songyun would have gone
+straight down the river to Nagarahāra rather than by Uḍḍiyāna (p. 391), and Shiratori's Mastuj for 賒彌 (n. 12). The
+2002 English is less firm: "whether Shemi may be Chitral or the upper reaches of Kunar" (2002, p. 146 and n. 6). The
+argument concerns Songyun's 賒彌, commonly equated with 商彌.
+**Assessment.** Probable. The authorities agree, but only Mizutani and Kuwayama's thesis are firm, and Watters records
+unease; no site evidence.
 
 ### 12.17.02 波謎羅川 (*pamir) — the Pamir river valley
 

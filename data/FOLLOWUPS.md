@@ -141,14 +141,17 @@
   地迦婆縛那); Marquart's Arabic in the Ērānšahr, unreadable in the OCR (Zumathān for 鋭秣陀); von Hinüber's reading "Palola" of the Gilgit kings' title (2004), cited from memory in the 03.02 test;
   Ji's Coliya from the Mahākūṭa pillar (IA 19), not on disk; the library's `7_inscriptions/maitraka` folder is empty.
   The key's weak readings to recheck: 伽 = k (bhāviveka only), 摩 = mi (mihirakula only).
-- **Kuwayama 1990 (thesis), not yet read:** ch. 2 (the Hindukush route, Songyun, the bowl's disappearance), ch. 4
-  §§2–6 (Begram's bastions and stamped pottery), ch. 5 (Kāpiśī in the 7th–8th c.), ch. 6 §§4–5 (marble Hindu images).
-  Points to check, found by the fold agents: Shāh Naṣr Ghundai is 10 km SW (thesis n. 28) or 10 km W (2002, p. 90) of
-  Jalalabad; Faxian's 揵陀衛 is Puṣkalāvatī (2002, p. 23) or Shahbaz Garhi (p. 112); his *醯羅越 for Dao'an's 鉢吐羅越
-  (2002, p. 26) puts the robe at Hadda in the 4th c., against his own later move; the bowl seen in 402 or 403; Kuwayama
-  and Ji give Jammu (11.17) to Cunningham, but it is Smith's; Ghirshman's end of Begram III is late 4th–early 5th c. in
-  the thesis summary but "the end of the fifth century" in 2002, p. 162. 01.37.02 is open between Kuwayama's middle
-  monastery and Foucher's east end, so its map point was not moved.
+- **Kuwayama 1990 (thesis):** the remaining chapters were read from the page images on 2026-11-12 (ch. 2, ch. 4
+  §§2–6, ch. 5, ch. 6 §§4–5; `data/ref/kyoto/k1990/summary_ch2_ch6b.md`, `summary_ch4b_ch5.md`) and folded into the notes.
+  Not read: ch. 2 nn. 33–38, 43–48, 57–67; ch. 4 §§2–6 only sampled (its argument is Kuwayama 1989 and 2002 ch. X).
+  The open points: Shāh Naṣr Ghundai is WSW c. 10 km of Jalalabad (n. 28; "SW" corrected); Faxian's 揵陀衛 is Charsadda
+  in the thesis (p. 554) and 2002 p. 23, Shahbaz Garhi in 2002 p. 112 (both recorded); the thesis has no *醯羅越, the
+  robe reaching Hadda only by Xuanzang's time (pp. 253–257); the bowl was seen in the second half of 402 (pp. 164–165;
+  2002's 403 is the 羅夷 summer); Kuwayama credits Jammu (11.17) to Cunningham (p. 618, n. 51) but it is Smith's; the
+  end of Begram III stays open: Kuwayama's own reports of Ghirshman disagree (c. 380 on pp. 743–744, c. 400 on p. 759,
+  the end of the 5th c. in 2002 p. 162), and only Ghirshman 1946, p. 41 can decide. The Kāpiśī 王寺 was not "built by
+  the king of Kashgar" (that is the Kashgar 王寺, p. 469); corrected. 01.37.02 stays open between Kuwayama's middle
+  monastery and Foucher's east end.
 - **Resolved 2026-11-07**:
   - Foucher's Rāhula passage (01.38.02), lost in the Toyo Bunko OCR, was recovered by a Vision re-OCR of V-1 pdf 0151.
     It confirms Kâfir-Qaleh, though Foucher writes "Sud-Ouest" where the text has 東南.

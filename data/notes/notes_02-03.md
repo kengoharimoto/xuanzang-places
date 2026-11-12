@@ -86,7 +86,11 @@ several 5th-century names for it: Tanwujie's 月氏國 across the 辛頭那提�
 in the 出三藏記集 and 迦維羅衛 in his biographies (against Tsukamoto's Kapilavastu); and Zhimeng's 迦維羅衛國, 1,300 li SW of
 Gandhāra, where he saw the Buddha's hair, tooth, uṣṇīṣa bone and shadow. That last he reads as a copyist's corruption
 of a name beginning 那迦… (Nagara-), the 那 lost and the rest assimilated to Kapilavastu, which had none of these relics
-(1990, pp. 245–251, 328–330, n. 7).
+(1990, pp. 245–251, 328–330, n. 7). Later chapters follow its decline: absent from the routes of Jinagupta and
+Dharmagupta, it had lost its old standing from the mid-6th c. (p. 487), as the Life's account of the empty road to the
+shadow cave shows (pp. 481–86); in 629 it was without a great ruler and subject to Kāpiśī (無大君長…役屬迦畢試國, p.
+938); c. 665 Xuanzhao still venerated the skull-bone there, but the 迦畢試途 was then threatened by the Arabs (pp.
+998–1007; Yijing).
 
 **Assessment.** Every authority agrees. Mizutani's "uncertain" reflects his hedged phrasing rather than any
 competing site.
@@ -110,17 +114,17 @@ site (I, p. 152). He gives the result as provisional.
 **Ji Xianlin et al. (1985).** Ji reports Cunningham's Dasht-i-Begram, c. 2 miles SW of Jalalabad, and Simpson's
 tableland a little W of it at the Kabul–Surkhab confluence, and chooses neither (p. 221).
 
-**Kuwayama (1990, 2002).** The city is "probably" Shāh Naṣr Ghundai at Chahār-bāgh, c. 10 km SW of the town of
-Jalalabad, with many monastery sites on the hill-foots and terraces round it (1990, n. 28, pp. 1490–1491, from the
+**Kuwayama (1990, 2002).** The city is "probably" Shāh Naṣr Ghundai at Chahār-bāgh, c. 10 km WSW (西南西) of the town
+of Jalalabad, with many monastery sites on the hill-foots and terraces round it (1990, n. 28, pp. 1490–1491, from the
 Kyoto University distribution survey, Mizuno ed. 1970, fig. 24). In 2002 he puts it "some 10 kilometers to the west of
 modern Jalalabad bazaar" and reports fragments of Mathura sandstone sculpture he collected there in 1964 and 1972 (p.
 90); red-ware imports from the same mound occur in Tapa Skandar Period I (p. 177). He gives no argument from the text.
 The mound lies in Mizutani's "Dasht-i-Begrām near Chahār-bāgh", but it is not Cunningham's point: Cunningham's Begram
 lay "about 2 miles to the west of Jalalabad, and 5 or 6 miles to the W.N.W. of Hidda" (p. 51), at the near end of
-Masson's plain of tumuli. On the round figures alone (Hadda c. 8 km S of Jalalabad), Hadda would lie c. 9 km due E of
-a mound 10 km SW of the town, and c. 14 km SE of one 10 km W: the first fits the text's 30+ li but not its SE
-(城東南三十餘里至醯羅城), the second the bearing but not the distance. From Cunningham's spot Hadda lies c. 9 km SSE, which fits
-both.
+Masson's plain of tumuli. On the round figures alone (Hadda c. 8 km S of Jalalabad), Hadda would lie c. 10 km ESE of
+a mound 10 km WSW of the town, and c. 14 km SE of one 10 km W: the first fits the text's 30+ li and is c. 20° off its
+SE (城東南三十餘里至醯羅城), the second fits the bearing but not the distance. From Cunningham's spot Hadda lies c. 9 km SSE,
+which fits both.
 
 **Recent scholarship.** Errington (2017, pp. 16, 153–156), editing Masson's records, sets out three placings without
 choosing: Masson's Dasht of Begram, a plain of tumuli 1½–2 miles W of Jalalabad; Simpson's (1881) site further NW,
@@ -136,10 +140,11 @@ Masson's late treatise (BL G41, edited pp. 19–20) already put the city in the 
 junction site (Beal, Watters). Foucher's argument from Hadda and the shadow cave, both secure, favours Begram, though
 nothing has been dug there. Kuwayama names a mound, Shāh Naṣr Ghundai, inside Mizutani's area, on survey and surface
 finds rather than excavation or the text; on the round distances it fits the bearing to Hadda less well than
-Cunningham's nearer spot, and his own two statements (10 km SW, 10 km W) differ. Errington (2017) shows the mound to
-be Masson's Tepe Ashrak, Mizuno's in-city stūpa, still unexcavated; its distance from Jalalabad is uncertain (Ball and
-Gardin's c. 3 km W against Kuwayama's 10 km and Masson's "a little north of Chahar Bagh"). The capital stays on the
-Begram plain W/SW of Jalalabad; which mound is open. Mizutani is strengthened, medium confidence.
+Cunningham's nearer spot (his 10 km WSW in the thesis and 10 km W in 2002 are the same bearing rounded). Errington
+(2017) shows the mound to be Masson's Tepe Ashrak, Mizuno's in-city stūpa, still unexcavated; its distance from
+Jalalabad is uncertain (Ball and Gardin's c. 3 km W against Kuwayama's 10 km and Masson's "a little north of Chahar
+Bagh"). The capital stays on the Begram plain W/SW of Jalalabad; which mound is open. Mizutani is strengthened, medium
+confidence.
 
 ### 02.03.02 燃燈佛受記窣堵波 — Ahin-Posh (Higuchi) or the "Nagara Goondee" tope (Masson, Simpson)
 
@@ -278,7 +283,8 @@ monks Mahāsena and Saṃgharakṣita the donors, recognises Kaniṣka neither a
 date in his reign (p. 70). The front-view stucco Buddhas in the photographs are of a post-Gandhāran style (p. 71), and
 he groups the cruciform plan, with round towers at the corners, with stūpas of the 7th–8th century (pp. 7, 58). He
 reads Xuanzang's legend of Kaniṣka's stūpa rising over the boy's small one as the memory of Kaniṣka covering an older,
-damaged circular stūpa (p. 89).
+damaged circular stūpa (p. 89). The thesis equates it with Wukong's 罽膩吒王聖塔寺 (753), of his three Kaniṣka
+temples the one that was certainly in Gandhāra (1990, pp. 1058–62).
 
 **Recent scholarship.** Kuwayama (1995, p. 356 and appendix pp. 346–337, journal pagination running backwards), the
 Japanese original of his 2002 chapter, lists every Chinese account of the stūpa with its dimensions (Faxian to
@@ -357,9 +363,13 @@ distance from Peshawar and Ptolemy's Peukelaotis.
 **Ji Xianlin et al. (1985).** Ji agrees: Charsadda, 17 miles NE of Peshawar, on the E bank of the Swat a little above
 its junction with the Kabul river (p. 251).
 
-**Kuwayama (2002).** Charsadda, the mounds of Bala Hisar or Shaikhan Dheri (p. 177). He takes Faxian's 揵陀衛
-(*Gandhavatī) for Puṣkalāvatī (p. 23), but elsewhere equates it with Songyun's 佛沙伏 at Shahbaz Garhi (p. 112;
-02.04.14). The two statements do not agree; the site of the town is not in question.
+**Kuwayama (1990, 2002).** Charsadda, the mounds of Bala Hisar or Shaikhan Dheri (2002, p. 177). He takes Faxian's
+揵陀衛 (*Gandhavatī) for Puṣkalāvatī (p. 23), but elsewhere equates it with Songyun's 佛沙伏 at Shahbaz Garhi (p. 112;
+02.04.14). The thesis has Charsadda, with a reckoning: Faxian's seven days from 揵陀衛 to 竺刹尸羅 equal Songyun's three
+days Taxila–Indus, three Indus–Shahbaz Garhi and one Shahbaz Garhi–Charsadda ("法顯は揵陀衛（チャールサダ）と竺刹尸羅間を
+七日行程としている", 1990, pp. 554–56); 2002, p. 112 has instead six days from Taxila to Shahbaz Garhi for both pilgrims.
+Both readings stand in his work and the study does not choose; the site of the town is not in question. Songyun's
+如來挑眼施人處, one day W of 佛沙伏城, he puts at Xuanzang's site 4–5 li N of Puṣkalāvatī (1990, p. 553).
 
 **Recent scholarship.** Baums (2019, p. 169) lists Avaśaüra, a city at Charsadda (CKI 178), among the settlements
 called *nagara* or *pura* in the Gāndhārī inscriptions, and Pokhaladi = Puṣkalāvatī only in the British Library
@@ -430,8 +440,11 @@ characters elsewhere; 虜 is ru/lu and 沙 is ṣa (生). The characters give *B
 the Sanskrit library, the inscriptions or the survey reports. Low confidence; Cunningham's "Palo" argument for
 Palodheri rested on the p-form and falls with it (data/names/).
 
-**Kuwayama (2002).** Songyun's 佛沙伏 (Boshafu) is Varuṣapura, Shahbaz Garhi, three days W of the Indus; Faxian and
-Songyun both took six days from Taxila to it (p. 112). Agrees.
+**Kuwayama (1990, 2002).** Songyun's 佛沙伏 (Boshafu) is Varuṣapura, Shahbaz Garhi, three days W of the Indus; Faxian and
+Songyun both took six days from Taxila to it (2002, p. 112). Agrees; so already the thesis (佛沙伏城（現シャーフバーズ゛ガリ）,
+1990, p. 544), where Songyun finds the town prosperous in 520 (pp. 537–50). The thesis, however, puts Faxian's 揵陀衛 at
+Charsadda, seven days from Taxila (pp. 554–56; also 2002, p. 23), not at Shahbaz Garhi as 2002, p. 112 does; both are
+recorded, undecided (02.04.09).
 
 **Recent scholarship.** Neelis (2011, p. 237 and n. 19) gives Varuṣapura as "probably localized at Shahr-i Bahlol", an
 ancient city a few km S of Takht-i-Bahi whose Buddhist remains, found since the 19th century, are poorly preserved
@@ -636,8 +649,15 @@ where Xuanzang crossed both ways and the king of Kapiśa wintered (I, p. 40; II,
 
 **Ji Xianlin et al. (1985).** Ji agrees: Ohind, NE of the Kabul–Indus confluence, 16 miles above Attock (p. 261).
 
-**Kuwayama (2002).** Udabhāṇḍapura is Hund, on the N bank of the Indus above Attock, with Stein and against Caroe's
-tepe near Lahor (p. 245); the winter seat of the 6th–7th-century Kāpiśī kings (p. 210). Agrees.
+**Kuwayama (1990, 2002).** Udabhāṇḍapura is Hund, on the N bank of the Indus above Attock, with Stein and against
+Caroe's tepe near Lahor (2002, p. 245); the winter seat of the 6th–7th-century Kāpiśī kings (p. 210). Agrees. The
+thesis adds the history: Songyun crossed the Indus here in 520 (1990, p. 553, n. 40, citing Stein's Note J and
+Cunningham's AGI, 1871, p. 52); in 643–44 the Kāpiśī king was staying in the town and met Xuanzang at the river (時迦畢試
+王先在烏鐸迦漢荼城…躬到河側奉迎, Life 卷5), so Kāpiśī then reached the Indus here (pp. 950–53); in the 720s it was
+the royal city of Gandhāra, which had replaced Puruṣapura (Huichao: 此城俯臨辛頭大河北岸而置), and in 753 Wukong's 罽賓東都城,
+the king's winter seat, with Begram the western (pp. 1040–58: "インダスに臨んだウダバーンダプラにその殷賑をゆずっていた", p.
+1043). Hindu Shahi temple building, unlike the earlier marble images of Kāpiśī, centred on Udabhāṇḍa and reached the
+Salt Range (n. 53, p. 1598); Taddei's Ekamukha-liṅga in Peshawar may come from near Hund (p. 1326).
 
 **Recent scholarship.** Kimmet (2021, pp. 2–3) cites a late 10th-century stone slab "said to come from Hund" whose
 Śāradā inscription names the town of Udabhāṇḍa north of the Indus under Jayapāladeva (r. c. 964–1002) (Rehman 1978,
@@ -756,6 +776,11 @@ by Gokand, Padshah and Elai, is about 26 map miles; adding a quarter for the roa
 200. Measured so, the leg gives 0.26 km per li, the normal value, while Mizuno's Kukrai, 11 km away, gives 0.06
 (route/README.md §10, Test 4). Stein's own chain also fits the next stages: 6 miles = 36 li for the 30–40 li to
 Mo-yü, 10 miles = 60 li to the Śibi stūpa.
+**Kuwayama (1990, 2002).** No site. Jinagupta, born in Puruṣapura, names his home monastery 大林 (本國有寺名曰大林,
+Xu gaoseng zhuan); the thesis suggests he was ordained at this Uḍḍiyāna Mahāvana, 200 li S of 瞢揭釐城
+("ウッディヤーナのマハーヴァナ＝サンガーラーマにて出家したのかもしれない", 1990, p. 441), while 2002 puts the "vihara called
+Great Forest (Mahavana)" at Puruṣapura (p. 149). Either way it bears on the monastery's 6th-century history, not on
+its site.
 **Assessment.** Stein's Panjkotai has a monument, the bearing and the distance; Kukrai has a stūpa on the way to Ilam
 but is far too close for 200 li; Mahaban rests on the name and is too far (Stein: at least 50 road miles, 300 li).
 Stein's site is now the better supported, though the ruin carries no inscription. Proposed: Panjkotai near Sunigram,
@@ -930,6 +955,11 @@ Rawalpindi; he reports Cunningham's Shahdheri, Hügel's Rawalpindi and V. Smith'
 **Recent scholarship.** Baums (2019, pp. 168–169) gives the Gāndhārī forms of the name, Takṣaśila (CKI 60, 66, 233),
 Takhaśila (CKI 46, 65, 99) and the adjective Takṣaïlaa (CKI 68), among them CKI 60, a reliquary found at Taxila; it
 adds no find to the four inscriptions above.
+
+**Kuwayama (1990).** Taxila is Songyun's 如來捨頭施人處, five days W of the Hephthalite tegin's camp, and Faxian's
+竺刹尸羅 (pp. 552–53); in 520 it belonged to Hephthalite Gandhāra, which the Luoyang qielan ji counts to near the Jhelum
+(p. 555); by 629 it had been subject to Kāpiśī and was now Kashmir's (昔役屬迦畢試國，近又附庸迦濕彌羅國; pp. 559, 940).
+Agrees on the site.
 
 **Assessment.** Four inscriptions found on the site, of the 1st century BC to 1st century AD, name Takṣaśilā: the
 Patika plate, the Sihila vase, the Mahal ladles and the Dharmarājikā scroll. They put Cunningham's and Mizutani's
@@ -1153,7 +1183,9 @@ to this. The Life does read 聞 (T50:0231a), but 復還 by itself would fit a re
 
 **Kuwayama (2002).** In passing, Siṃhapura is in the Salt Range: he argues that Songyun's Hephthalite king camped near
 Jhelum to control the Kashmiri salt trade from the Salt Range, "where, as Xuanzang stated …, Singhapura was located"
-(p. 112). Agrees.
+(p. 112). Agrees. The thesis lists Siṃhapura among Kashmir's dependencies in 629 and places it, citing Mizutani, at a
+place "ソルト＝レインジ山中" whose name the manuscript seems to spell ドゥミアール (1990, p. 559, n. 41); the reading is
+uncertain, and the page he cites (Mizutani 1971, p. 120) names only Ketās (Ketāksh, Khetās), so Ketās is meant.
 
 **Assessment.** The country is the Salt Range round Ketas and Malot, 9 miles apart, on every view; the praśasti
 confirms the dynasty but not its location. Watters' "abandoned" refers to ASR V's Malot. Stein's later fieldwork
@@ -1367,6 +1399,8 @@ corrected reading. He does not know Hargreaves' Mangali or the Bedadi ladle, and
 **Name.** 尸 is ś (書, 49 of 49 cases), so of Mizutani's three forms only uraśā (Pāṇini 4.3.93) fits; urasā
 (Rājataraṅgiṇī) and uragā (Mahābhārata) do not. The Bedadi ladle's Uraśaraje (CII 2.1) has the same ś, so inscription
 and transcription agree. Secure (data/names/).
+
+**Kuwayama (1990).** Hazāra, one of Kashmir's dependencies in 629, after Mizutani (p. 559, n. 41). Agrees.
 
 **Assessment.** The country, agreed by all, is now attested by an inscription naming the Uraśa kingdom, found (by
 report) in the Siran valley of Hazara; a portable ladle cannot fix the capital. Cunningham's Mangali has a site of

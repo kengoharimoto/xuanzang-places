@@ -939,6 +939,13 @@ that the name (Śrī) Śakrāditya on a seal already known from Nālandā (Sastr
 use round Nālandā in Xuanzang's century, not that the first king's foundation stood there; and Deeg's reading warns
 against using the sequence as a plan of the excavated blocks (09.03.06).
 
+**Kuwayama (1990).** History only: Faxian (c. 410), detailed on Pāṭaliputra and Rājagṛha, names only the 那羅聚落, so
+his silence counts; taking Śakrāditya for Kumāragupta I and Budhagupta for the Budhagupta of Eran (484), Kuwayama has
+the monastery founded in the second quarter of the 5th c. and grown into the walled Mahāvihāra in the 5th–6th c.
+("ナーランダーは五世紀の第二四半期にやっと僧院が建立され", 1990, pp. 625–48, quotation p. 645; he discusses the 中印度王
+with Takada Osamu, nn. 61–63). Deeg's warning above applies to this use of the founders' list too. Nothing on the
+site.
+
 **Assessment.** Settled. Sealings, plate and stone inscriptions found in place name Nālandā and Bālāditya's temple,
 and the Sarai mound adds a third monument of Xuanzang's. Begampur adds a 7th-century sealing naming a Śakrāditya and a
 temple 1 km N of the ruins; neither bears on the identification.
@@ -1024,6 +1031,10 @@ ancient remains with images and a votive stūpa, though no prominent mound survi
 at Shobhāpur, 1.8 km E of Naṇand, for the stūpa of Śāriputra's disciples (now 09.03.x8), which by his own coordinates
 lies E rather than SE. The survey reports that Chandi Mau was excavated in 2000–01 and "declared a single culture site
 of Pala period" (IAR 2013–14, p. 15), which tells against it.
+
+**Kuwayama (1990).** With Adachi Kiroku, Faxian's 那羅聚落 is this village and has nothing to do with the Nālandā
+monastery: "法顯の「那羅聚落」とナーランダー寺とは無關係だとみる立場である" (1990, p. 632, n. 58). He uses it to argue that
+Nālandā did not yet exist as a great monastery in Faxian's time (09.03.01), against Sankalia. No site.
 
 **Assessment.** The equation with Faxian's Nāla stands. Nanan is now a candidate, proposed in the IAR and by Prasad,
 on the likeness of Nanan to Nālaka- or Nāla- and on a position about 9 km ESE of the Jagdishpur mound, which fits

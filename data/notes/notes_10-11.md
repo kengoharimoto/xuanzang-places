@@ -1660,6 +1660,9 @@ al-Bīrūnī lists among Multan's names (via Cunningham), with -pura reduced to 
 compound is not attested, so medium confidence; but it answers Watters' "impossible restoration" and ties the name to
 the sun image Xuanzang describes (data/names/).
 
+**Kuwayama (1990).** Multan, from Mizutani's Mūlasthānapura and the 日天 (Sūrya) temple of the text, a dependency of
+磔迦 (p. 945, n. 12). Agrees; nothing new.
+
 **Assessment.** The sun temple is diagnostic, and the circuit fits, though it was measured on later walls. The name
 now fits too: Watters was right that the characters cannot give Mūlasthānapura, but they give *Mūlasāmbapura, after
 Sāmba's sun-city, one of Multan's names in al-Bīrūnī. The objection from bearing is real but weaker. Mizutani is
@@ -1703,7 +1706,12 @@ Harappa.
 jing* (蓮華面經) with 鉢伐多國 (*parvata), a dependency of Takkadeśa, and calls "Cunningham's" Jammu "正鵠をえている", since parvata
 'mountain' points that way (Kuwayama 1990, p. 618, n. 51). He does not argue it further, and the 2002 English leaves
 Boluoboduo unidentified (*parvata, *pravada or *paravata; Kuwayama 2002, p. 41). It is one more voice for Jammu,
-resting on the meaning of the name; like Ji he gives Jammu to Cunningham, where it is Smith's.
+resting on the meaning of the name; like Ji he gives Jammu to Cunningham, where it is Smith's. His n. 51 cites "A.
+Cunningham, Ancient Geography of India, p. 232", but the AGI proposes Shorkot (Majumdar ed. pp. 233–34 = 1871 pp.
+203–4), Cunningham later Harappa, and Jammu is V. A. Smith's (Watters II, pp. 336, 342; reported in Majumdar's
+editorial note, p. 688). Ch. 5 repeats the view without credit: 鉢伐多, held by 磔迦, is the 波羅伐多 of the 蓮華面經 and
+lies "シアールコート北東のジャンムー附近" (1990, p. 945); Kuwayama's view is thus Jammu (Smith's), on the meaning of the
+name and the Ṭakka connection, with no argument from the distance.
 
 **Assessment.** Shorkot fails on the measured circuit and needs an emended name; Harappa rests on size and position.
 The Bandhogarh Pavata does not bear on the site. Bakker's Parvatikā at Akhnūr revives Smith's Jammu with a real
@@ -2008,6 +2016,10 @@ least to the latitude of Dera Ghazi Khan (II, p. 231).
 **Ji Xianlin et al. (1985).** Ji agrees: Bannu on the Kurram, Faxian's 跋那, after Cunningham, though he finds the
 Life's itinerary hard to square with the map (p. 949).
 
+**Kuwayama (1990).** Bannu, subject to Kāpiśī (役屬迦畢試國): the fourth of Kāpiśī's dependencies and the only one in West
+India, which Kāpiśī held "スピーン＝ガルをこえてはるか南方の伐剌拏をおさえてインダス河岸にいたった" (1990, pp. 938–39; also
+1993, see 01.38). He takes the identification for granted and does not discuss the route.
+
 **Assessment.** Bannu breaks the route from Avaṇḍa unless Avaṇḍa lay far to the north. Duki fits the distance from
 Gandāva but has no 7th-century record. Foucher's larger Varṇa, from Bannu to the Zhob and the latitude of Dera Ghazi
 Khan, joins the two: it keeps Pāṇini's name for the core and lets the stages from the south and on to Jāguḍa meet in
@@ -2058,13 +2070,20 @@ of the same period, Qīqān/Kīkān (al-Balādhurī's raid of 664–65, which na
 -ṅ of 疆 echoing the following nasal; a search of the library for kekan-, kaikan-, kikan- found nothing. Stein's
 Waziristan and the Kalat placements both rest on that Arab name, so it does not choose between them (data/names/).
 
+**Kuwayama (1990).** Position only: 稽薑那 (the Life's 阿薄健) lay between 漕矩吒 (Ghazni) and 伐剌拏 (Bannu), and Kāpiśī,
+holding Lampāka, Nagarahāra and Bannu, "に無關心であるはずがなかろう", so it was probably under Kāpiśī too (1990, p. 939).
+A country between Ghazni and Bannu suits Stein's Waziristan better than the Kalat highland, but it assumes Bannu for
+伐剌拏 (11.23) and is not argued from the text's bearings or distances. He treats the Life's 阿薄健 as the same country
+(稽薑那（あるいは『慈恩傳』では阿薄健）); the Imperial Gazetteer above puts the Life's Opokien in Zhob.
+
 **Assessment.** Cunningham's Pishin rested on the Arab Kīkān. Stein places that Qīqān in Waziristan, and his field tour
 fits the description, as Bannu (11.23) does. Most others who use the Arab name put it in or near the Brāhūī highland of
 Kalat: Vivien near Shal, Mirchandani at Quetta–Pishin, Foucher round Kalat and Mastung, the Baluchistan gazetteers at
 Nal in Jhalawan. Lambrick prefers Loralai or Zhob, and the Mooltan gazetteer leaves Kaikanan unidentified. These span
 some 300 km, but point S or SW of Waziristan rather than to it. It lies well SW of Bannu, nearer W of the southern Varṇa
-that Foucher and Mirchandani posit (11.23). Waziristan and the Kalat highland are alternatives, low confidence; the
-choice follows 11.22–11.23.
+that Foucher and Mirchandani posit (11.23). Kuwayama's position between Ghazni and Bannu (1990) leans to Waziristan,
+but only on Bannu for 11.23. Waziristan and the Kalat highland are alternatives, low confidence; the choice follows
+11.22–11.23.
 
 ## Gazetteer passages coded `new` in this range
 

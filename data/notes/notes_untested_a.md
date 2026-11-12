@@ -357,7 +357,10 @@ Bactrian region Kadagstan, with the town Warlu (the Tang 活路城, seat of the 
 Grenet 2006, after Miyamoto, Tōhō gakuhō 87, 2012, and 90, 2015; data/ref/kyoto/).
 **Kuwayama (2002).** The Baghlān–Ghōrī plain on the middle Surkhāb was the Hephthalites' homeland and winter seat, not
 under the Turks in Xuanzang's time; their Tang seat 活路 (Huoluo) was a town there, not 活 (pp. 132, 135, 138). Agrees on
-the district.
+the district. The thesis (1990, p. 490, n. 26) also takes Dharmagupta's 薄佉羅國 (c. 578, Xu gaoseng zhuan) for the
+Hephthalites' winter seat at Baghlan, "クシャーンの大神殿スルフコタル出土の碑銘にもみえる Bago-lango"; but βαγολαγγο of
+the SK inscriptions (Fussman 1983) means "the god's place", the temple, so it is no evidence for the name Baghlān, and
+2002 (p. 150) glosses 薄佉羅 instead as "Bochuluo (Bakhla)".
 **Recent scholarship.** Miyamoto (2012, pp. 427, 431) reports Grenet's suggestion that Warlu/活路 is Qal'a-ye Ghūrī, an
 unexcavated walled town site S of Surkh Kotal, and widens Kadagstan to the Surkhāb basin, its centre perhaps moving N
 and S over time. This concerns the district round 縛伽浪, not its name.
@@ -510,7 +513,9 @@ name in Badakhshan (the 范湯州 of the 月氏都督府 at 拔特山城, Huicha
 mid-6th c. (1990, pp. 1425–30; 2002, p. 149; p. 157 explains the slip differently). If the two standing colossi are
 Xuanzang's, the royal city lay SW of the West Buddha, and nothing there is worth a capital (現存西大佛の西南には都城に値する遺迹は何もない,
 1990, p. 1435); the Islamic geographers' town on a hill could be Shahr-e Gholghola or Shahr-e Zuhak if Xuanzang's
-bearing is set aside (2002, pp. 157–58).
+bearing is set aside (2002, pp. 157–58). The "(大)雪山西足" by which Jinagupta (c. 555) and Dharmagupta crossed from
+Kāpiśī means passing through or near Bāmiyān (バーミヤーンないしその附近を通過する謂である), as Pei Ju's southern route
+(…挹怛、忛延、漕國、至北婆羅門) shows (1990, pp. 504–8; also 2002, p. 151).
 **Recent scholarship.** Tarzi (2007, pp. 884, 918–19) reads 王城東北 for the 55 m Buddha as putting the royal city W and
 SW of it, "adossée à la montagne", partly rock-cut and partly built, and dug there. At VR 1 (an old caravanserai W of
 the bazaar) cave dwellings give way to built houses, with pre-Islamic "Turkish" pottery (6th–9th c.) under
@@ -560,11 +565,13 @@ Ghorband position matches Beal's reading. Mizutani locates the area, not a monas
 identifies it.
 **Ji Xianlin et al. (1985).** Ji agrees: the 100 × 200 m enclosure at the N end of the Begram town site (p. 155).
 **Kuwayama (1990, 2002).** NW of the city on the S bank of the Panjshir and close to it, since Xuanzang gives no
-distance (1990, p. 749; 2002, p. 162, p. 278 n. 9); no ruin chosen. He takes it for the 王寺 "built by the king of
-Kashgar" (沙勒王之所造也) outside the capital where Dharmagupta first stayed (Xu gaoseng zhuan): the royal monastery had
-become the "old king's" by 629, perhaps after a change of dynasty (1990, pp. 1518–19, ch. 3 n. 1). The skull-bone
-relic that the Xiyu ji places in the second 舊王伽藍 is in a temple inside the city for Daoxuan's 西國志 and in the city's
-沙糸寺 for Huichao; it may have been moved in (1990, p. 1195).
+distance (1990, p. 749; 2002, p. 162, p. 278 n. 9); no ruin chosen. He takes it for the 王寺 where Dharmagupta first
+stayed (仍留此國停住王寺, Xu gaoseng zhuan; 1990, p. 465), which seems to have lain outside the city (王寺は國城の外にあった
+ようである): the royal monastery had become the "old king's" by 629, perhaps after a change of king (1990, p. 1518,
+ch. 3 n. 1). The 沙勒王之所造也 of the same biography describes the 王寺 at Kashgar, where Dharmagupta later stayed two
+years (1990, p. 469), not this one. The 舊王 is the predecessor of the king who received Xuanzang, not Kaniṣka (1990,
+p. 1062). The skull-bone relic that the Xiyu ji places in the second 舊王伽藍 is in a temple inside the city for
+Daoxuan's 西國志 and in the city's 沙糸寺 for Huichao; it may have been moved in (1990, p. 1195).
 **Assessment.** Probable as an area, dependent on Begram; the building itself is not identified. Kuwayama's reading of
 the text (S bank, close to the city) supports the area, and his link with Dharmagupta's 王寺 gives the monastery a
 6th-century history, not a site. Mizutani stands.

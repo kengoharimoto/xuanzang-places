@@ -25,6 +25,8 @@ Xuanzang's (I, pp. 34, 36).
 (p. 219).
 **Name.** 濫波 renders only lampa (濫 lam, with -m before the labial; 波 pa): Xuanzang drops the suffix of lampāka, as he
 does in kalanda(-ka) and kapittha(-ka). The Sanskrit form and the identification are unaffected (data/names/).
+**Kuwayama (1990).** Agrees; one of the countries subject to Kāpiśī in 629 (近始附屬迦畢試國), and in Huichao's time (覧波)
+without a king of its own and under the king of Gandhāra (1990, pp. 938, 1034–37).
 **Assessment.** Name, position between Kapiśa and Nagarahāra, and route agree; there is no site evidence. Mizutani
 stands with medium confidence.
 
@@ -81,7 +83,14 @@ Zhimeng (after 404), Tanwujie (Dharmodgata, after 420) and Huilan saw "in 罽賓
 purple-blue, the four rims visible); their routes, by Bolor and the Indus, are Faxian's; 乾陀羅 and 揵陀越 do not occur in
 those two books; and Kashmir has no Buddhist remains older than the 7th century except Harwan (1990, pp. 115–200, esp.
 121–123, 161–166, 188–189; 2002, pp. 22, 142–146). He limits the claim to Huijiao's usage (1990, n. 13, pp.
-1480–1481). It adds to the history of the name, not to the extent of the country.
+1480–1481). It adds to the history of the name, not to the extent of the country. Ch. 2 adds the extent and the
+rulers before Xuanzang: the Hephthalites took Gandhāra from Kidāra's son after the Kidarites' last embassy of 477,
+probably in the 480s, and ruled it through a tegin until the 550s; in Songyun's time (520) the tegin's country, by the
+Luoyang qielan ji, ran from the Indus to near the Jhelum with Taxila included, and Buddhism there was flourishing, not
+persecuted ("衰退どころか、ますますさかんである", p. 550); Xuanzang's 東臨信度河 shows the later contraction (1990, pp. 520–83).
+In 629 the country was subject to Kāpiśī (王族絶嗣，役屬迦畢試國; p. 938); by the 720s its Turk king held Kāpiśī as well,
+summering in 罽賓 and wintering in Gandhāra (Huichao), with the royal city at Udabhāṇḍapura (02.04.18), and in 758 it
+was 乾陀羅, not 罽賓, that sent the embassy to the Tang (pp. 1034–58).
 **Assessment.** Agreement, the inscribed casket at the capital and the route make it secure.
 
 ### 02.04.01a 布路沙布邏 (puruṣapura) — Peshawar; name and the Kaniṣka stūpa settle it
@@ -96,7 +105,9 @@ place", reached from the Khyber by Takkal (I, p. 44).
 **Ji Xianlin et al. (1985).** Ji agrees: the NW part of Peshawar city, on the S side of the Kabul river (p. 235).
 **Kuwayama (1990, 2002).** Peshawar. He equates Faxian's 弗樓沙, the 佛律婆[娑]越 of Zhi Sengzai's *Waiguo shi* ("the royal
 city of the devaputra") and the 揵陀越王城 of Dao'an's *Shishi Xiyu ji* with it, and puts the bowl's building inside the
-city (1990, pp. 162, 170–175; 2002, pp. 24–26; see 02.04.02). Agrees.
+city (1990, pp. 162, 170–175; 2002, pp. 24–26; see 02.04.02). Agrees. Ch. 2 adds Songyun's 乾陀羅城, reached 60 li SW
+of Charsadda across a river 300 steps wide, and the *Weishu*'s 富樓沙城, where Kidāra's son ruled (1990, pp. 547, 554,
+572–73); by the 8th c. the royal city had moved to Udabhāṇḍapura (p. 1043; 02.04.18).
 **Recent scholarship.** Baums (2019, p. 169), listing the settlements called *nagara* or *pura* in the Gāndhārī
 inscriptions, gives Kaniṣkapura at Peshawar (CKI 145). It is a Kushan-period city name, not Xuanzang's 布路沙布邏, and does
 not bear on the identification.
@@ -464,6 +475,7 @@ about 2½ days (*Rājataraṅgiṇī* ii, Note E on iv. 177, pp. 293–298); Loh
 Tohi adds about 16 miles (our reckoning from his figures). The other road, by Baramula, Uri and the Haji pass, is 88
 miles in 7 marches in Drew's route table (1875, App. IV, route 6). That gives 0.175–0.20 km per li, at the low end of
 the normal range, against 0.10 in a straight line (route/README.md §10, Test 4).
+**Kuwayama (1990).** Punch, one of Kashmir's dependencies in 629, after Mizutani (p. 559, n. 41). Agrees.
 **Assessment.** Name and agreement; the distance is short in a straight line but near normal along the passes.
 Mizutani stands (medium).
 
@@ -477,6 +489,7 @@ Mizutani stands (medium).
 Rajaori as 44 miles in 3 marches, 0.18 km per li (route/README.md §10, Test 4).
 **Ji Xianlin et al. (1985).** Ji agrees: Rajaori, after Cunningham, whose circuit (c. 300 miles) is about half
 Xuanzang's 4,000 li (p. 350).
+**Kuwayama (1990).** Rajauri, one of Kashmir's dependencies in 629, after Mizutani (p. 559, n. 41). Agrees.
 **Assessment.** Name continuity and agreement; no site evidence for the 7th-century town; the distance fits along
 the road. Mizutani stands (medium).
 
