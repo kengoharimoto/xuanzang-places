@@ -117,11 +117,24 @@ Connections volumes (Internet Archive copies). What is left, and why:
 
 ### Books and paywalled articles, high relevance
 
+**On JSTOR (links checked 2026-11-13; get these from the office).** Article pages: `litvinsky1990_kafyrkala`
+https://www.jstor.org/stable/24048351; `prasad1988_sariputra` https://www.jstor.org/stable/29756860; `asher1986_rajaona`
+https://www.jstor.org/stable/29756765; `asher2000_lakhiserai` https://www.jstor.org/stable/3249882;
+`verardi2005_tapa_sardar` https://www.jstor.org/stable/29757656; `kumar2009_krimila_sculptures`
+https://www.jstor.org/stable/44147749; `prusty1993_langudi` https://www.jstor.org/stable/42936452. Issue or volume list,
+then click through: `errington1993_palusha` https://www.jstor.org/stable/i24045519 (vol. 7); `fedorov2006_khuttal`
+https://www.jstor.org/stable/i394599 (vol. 44); `olivieri_vidale2006_amsv` https://www.jstor.org/journal/eastwest?decade=2000
+(vol. 56); `forte1994_chinese_monastery_kirgiziya` https://www.jstor.org/journal/centasiaj?decade=1990 (vol. 38.1);
+`fussman1993_taxila` https://www.jstor.org/journal/studhistart?decade=1990 (vol. 31). `miyamoto2023_bai_kadagstan`: JSTOR's
+*BAI* stops at vol. 28 (2014), so probably not there. At the publishers instead: `amar2012_jras`, `coningham2013_lumbini_antiquity`,
+`leoshko1988_telhara`, `suvrathan2014_banavasi_sacred`, `pradeep2025_valabhi` (DOIs in the rows), `kumar2011_krimila` (Sage),
+`delavaissiere2010_chronology` (Peeters); `grenet2006_yabghus` is free on HAL.
+
 **Central Asia, Xinjiang, Afghanistan (juan 1, 12)**
 
 - `ball2019_gazetteer` [book]: Warwick Ball, Archaeological Gazetteer of Afghanistan, revised edition. Oxford: Oxford University Press, 2019. — https://academic.oup.com/book/40301
 - `delavaissiere2010_chronology` [paywall]: Étienne de la Vaissière, "Note sur la chronologie du voyage de Xuanzang", Journal asiatique 298(1) (2010): 157–168. — https://poj.peeters-leuven.be/content.php?url=journal&journal_code=JA
-- `forte1994_chinese_monastery_kirgiziya` [paywall]: Antonino Forte, 'An Ancient Chinese Monastery Excavated in Kirgiziya', Central Asiatic Journal 38.1 (1994): 41-57. — https://www.jstor.org/journal/centasiaj
+- `forte1994_chinese_monastery_kirgiziya` [paywall]: Antonino Forte, 'An Ancient Chinese Monastery Excavated in Kirgiziya', Central Asiatic Journal 38.1 (1994): 41-57. — https://www.jstor.org/journal/centasiaj?decade=1990 (JSTOR volume list; vol. 38 no. 1)
 - `gardin1998_bactriane_orientale` [book]: Jean-Claude Gardin et al., Prospections archéologiques en Bactriane orientale (1974–1978). 3 vols. Paris: ERC (Mémoires de la Mission archéologique française en Asie centrale 9), 1989–1998 (vol. 2: B. Lyonnet, Céramique et peuplement, 1997; vol. 3: Description des sites et notes de synthèse, 1998). — https://zenon.dainst.org/Record/000203472
 - `hou2021_pamir` [book]: 侯杨方《重返帕米尔：追寻玄奘与丝绸之路》, 上海: 上海译文出版社, 2021
 - `iwamoto2016_rissho` [paywall]: 岩本篤志「トハリスタンの仏教遺跡と玄奘—立正隊による調査をふまえて」『唐代史研究』19 (2016): 256–264. — https://cir.nii.ac.jp/crid/1521980705281714048
@@ -147,7 +160,7 @@ Connections volumes (Internet Archive copies). What is left, and why:
 - `zhu2012_prophecy` [paywall]: 朱丽双《〈于阗国授记〉译注》(上)(下),《中国藏学》2012年增刊1: 223–268; 2014年增刊1: 121–131 — https://www.cnki.net/
 
 **Gandhāra, Swat, Taxila, Kashmir (juan 2–3)**
-- `errington1993_palusha` [paywall]: Errington, Elizabeth. 'In search of Pa-lu-sha, a city of the central Gandhara plain.' Bulletin of the Asia Institute n.s. 7 (1993): 55–66 — https://www.jstor.org/journal/bullasiainst
+- `errington1993_palusha` [paywall]: Errington, Elizabeth. 'In search of Pa-lu-sha, a city of the central Gandhara plain.' Bulletin of the Asia Institute n.s. 7 (1993): 55–66 — https://www.jstor.org/stable/i24045519 (JSTOR issue contents (vol. 7); open the article from there)
 
 - `ali1999_hund` [book]: Ali, Ihsan. 'Excavations at Hund on the banks of the Indus: the last capital of Gandhara.' In A. Meadows and P.S. Meadows (eds), The Indus River: Biodiversity, Resources, Humankind. Karachi: Oxford University Press, 1999, 269–283 — https://www.worldcat.org/search?q=The+Indus+River+Biodiversity+Resources+Humankind
 - `coningham_ali2007_charsadda` [book]: Coningham, Robin and Ihsan Ali (eds). Charsadda: The British-Pakistani Excavations at the Bala Hisar. BAR International Series 1709. Oxford: Archaeopress, 2007 — https://barpublishing.com/charsadda.-the-british-pakistani-excavations-at-the-bala-hisar.html
@@ -157,7 +170,7 @@ Connections volumes (Internet Archive copies). What is left, and why:
 - `kuwayama1992_huichao` [book]: 桑山正進 Kuwayama Shōshin (ed.). 『慧超往五天竺國傳研究』 Kyoto: Institute for Research in Humanities, Kyoto University, 1992 (repr. Rinsen 1998) — https://www.zinbun.kyoto-u.ac.jp/
 - `kuwayama2006_pilgrimage` [book]: Kuwayama, Shōshin. 'Pilgrimage route changes and the decline of Gandhāra.' In P. Brancaccio and K. Behrendt (eds), Gandharan Buddhism: Archaeology, Art, Texts. Vancouver: UBC Press, 2006, 107–134 — https://www.ubcpress.ca/gandharan-buddhism
 - `kuwayama2022_isou` [book]: 桑山正進 Kuwayama Shōshin. 『異相ガンダーラの仏教』（ヒンドゥークシュ南北歴史考古学叢攷 I）. Kyoto: Rinsen shoten 臨川書店, 2022 — https://www.rinsen.com/
-- `olivieri_vidale2006_amsv` [paywall]: Olivieri, Luca M. and Massimo Vidale. 'Archaeology and art of Swat (Pakistan): fieldwork reports and studies — Archaeological Map of the Middle Swat Valley (AMSV)' East and West 56.1–3 (2006): 73–150 — https://www.jstor.org/journal/eastwest
+- `olivieri_vidale2006_amsv` [paywall]: Olivieri, Luca M. and Massimo Vidale. 'Archaeology and art of Swat (Pakistan): fieldwork reports and studies — https://www.jstor.org/journal/eastwest?decade=2000 (JSTOR volume list; vol. 56) Map of the Middle Swat Valley (AMSV)' East and West 56.1–3 (2006): 73–150 — https://www.jstor.org/journal/eastwest
 
 **North India, Kapilavastu, Nepal (juan 4–7)**
 
@@ -188,7 +201,7 @@ Connections volumes (Internet Archive copies). What is left, and why:
 - `kumar2011_krimila` [paywall]: Kumar, Anil. "Kṛimilā: A Forgotten Adhiṣṭhāna of Early Medieval Eastern India". Indian Historical Review 38, no. 1 (2011): 23–50 — https://journals.sagepub.com/home/ihr
 - `kumar2018_lalpahari` [book]: Kumar, Anil. "The Excavated Remains of a Buddhist Nunnery (Matha) at Lal Pahari (Jainagar), District Lakhisarai, Bihar: 2017–18". Bharati (Bulletin of the Dept. of AIHC & Archaeology, BHU) 42 (2018): 107–131 — https://bhu.ac.in/
 - `kumar2019_lalpahari` [book]: Kumar, Anil. "Excavation at Lalpahari (Lakhisarai, Bihar) 2018–2019". In Interrogating Early India: Evolving Perspectives, 26–48. Kolkata, 2019 — https://www.visvabharati.ac.in/
-- `prasad1988_sariputra` [paywall]: Prasad, Chandra Shekhar. "Nalanda vis-à-vis the Birthplace of Śāriputra". East and West 38, no. 1–4 (1988): 175–188 — https://www.jstor.org/journal/eastwest
+- `prasad1988_sariputra` [paywall]: Prasad, Chandra Shekhar. "Nalanda vis-à-vis the Birthplace of Śāriputra". East and West 38, no. 1–4 (1988): 175–188 — https://www.jstor.org/stable/29756860
 - `sanyal2016_telhara` [unknown]: Sanyal, Rajat. "Discovery of a Buddhist Monastery at Telhara". Monthly Bulletin of the Asiatic Society (Kolkata), 2016 — https://www.academia.edu/43992861
 - `saran2008_juafardih` [book]: Saran, S. C. "Excavation at Juafardih and its Identification with Kulika". Purātattva 38 (2008): 59–73
 - `verma2010_telhara` [unknown]: Verma, Atul Kumar. "Telhara (Nalanda) Excavation – A Brief Report". Patna: Directorate of Archaeology, Department of Art, Culture and Youth, Government of Bihar (yac.bih.nic.in), c. 2010–13 — https://web.archive.org/web/20140628083818/http://yac.bih.nic.in/Documents/Telhara-(Nalanda)-Excavation-Report.pdf
