@@ -44,18 +44,33 @@ Please put the files in `data/ref/lit/<group>/` named `<key>.pdf` (the key is th
 
 ### Free online, but blocked for scripts: please download in a browser
 
+On 2026-11-12 every `oa, not fetched` item was tried again with curl from the Mac. Fifteen came through and are now
+`have`; three more turned out to be on disk already. What still fails is mostly a block on the site (bot checks,
+403/406), not a dead link, so a browser should get most of them. Direct links found on the landing pages:
+- **Heidelberg (Anubis bot check):** ANP 1 `https://digi.hadw-bw.de/view/anp1text/download.pdf`; ANP 2, 3 and 5 the
+  same with `anp2`, `anp3`, `anp5`; Härtel's *Sonkh* at `https://hasp.ub.uni-heidelberg.de/catalog/book/934`.
+- **Persée (403):** Tarzi 2007 `https://www.persee.fr/docAsPDF/crai_0065-0536_2007_num_151_2_87960.pdf`; Bernard et al.
+  2006 `https://www.persee.fr/docAsPDF/crai_0065-0536_2006_num_150_2_87126.pdf`. Sims-Williams 2002 still needs its
+  article page (the row gives only the CRAI collection).
+- **Brill (403):** Deeg 2025 is chapter BP000009 of *Early Āndhradeśa* II:
+  `https://brill.com/downloadpdf/edcollchap-oa/book/9789004744097/BP000009.pdf`; the whole volume is
+  `https://brill.com/downloadpdf/edcollbook-oa/title/73131.pdf`.
+- **Refused or timing out:** the NII-hosted Japanese repositories (Teikyo, Waseda, Rissho: 406), Durham's Worktribe
+  and DRO (all the Coningham papers: 403), UNESCO's unesdoc, CORE, figshare, J-STAGE and CiNii (202 holding pages),
+  SOAS ePrints and aisixiang.com (no answer, from waffle either).
+- **Partly:** the ICOMOS record for *Bamiyan II* (2016) offers only the cover and contents (8 pp.); the full volume is
+  still wanted. Digital Himalaya's *Ancient Nepal* index page no longer lists its issues.
+
 **Central Asia, Xinjiang, Afghanistan (juan 1, 12)**
 
 - [high] `amanbaeva2022_akbeshim2018`: Bakit Amanbaeva & Yamauchi Kazuya (eds.), Ak-Beshim (Suyab) 2018 (帝京大学シルクロード学術調査団調査研究報告). Teikyo University Research Institute of Cultural Properties & Institute of History and Cultural Heritage, NAS Kyrgyz Republic, 2022. 217 pp. — https://teikyo-u.repo.nii.ac.jp/record/2003929/files/2018s.pdf
 - [high] `jokura2016_akbeshim_rabat`: Jokura Masayoshi, Yamafuji Masatoshi, Nawabi Yama, Yamauchi Kazuya & Bakit Amanbaeva, 「キルギス共和国アク・ベシム遺跡の発掘（2015年秋期）調査」, WASEDA RILAS JOURNAL 4 (2016): 43-71. — https://waseda.repo.nii.ac.jp/record/35967/files/RILAS_4_Jokura.pdf
 - [high] `jokura2017_akbeshim_finds`: Jokura Masayoshi, Yamafuji Masatoshi, Nawabi Yama, Denda Ikuo, Yamauchi Kazuya & Bakit Amanbaeva, 「キルギス共和国アク・ベシム遺跡の発掘（2015年秋期）調査出土遺物の研究―土器・磚・杜懐宝碑編―」, WASEDA RILAS JOURNAL 5 (2017): 145-175. — https://www.waseda.jp/flas/rilas/
-- [high] `petzet2009_bamiyan_icomos`: Michael Petzet (ed.), The Giant Buddhas of Bamiyan: Safeguarding the Remains. ICOMOS Monuments and Sites XIX. Berlin: Bäßler, 2009. — https://openarchive.icomos.org/id/eprint/2933/
 - [high] `simswilliams2002_guzgan`: Nicholas Sims-Williams, "Nouveaux documents bactriens du Guzgan (note d'information)", CRAI 146(4) (2002 [2004]): 1047–1058. — https://www.persee.fr/collection/crai
 - [high] `tarzi2007_bamiyan_crai`: Zémaryalaï Tarzi, "Bāmiyān (Afghanistan): récentes fouilles françaises (2002–2006) par la Mission Z. Tarzi", Comptes rendus de l'Académie des Inscriptions et Belles-Lettres 151(1) (2007). — https://doi.org/10.3406/crai.2007.87960
 - [high] `yamauchi2018_akbeshim2017`: Yamauchi Kazuya, Kushihara Kōichi & Mochizuki Hidekazu, 「2017年度アク・ベシム遺跡発掘調査報告」, 帝京大学文化財研究所研究報告 17 (2018): 121-168. — https://teikyo-u.repo.nii.ac.jp/
 - [high] `yamauchi2022_akbeshim2016_2017`: Yamauchi Kazuya, Kushihara Kōichi, D. Sorokin, Nakayama Chieko & Mochizuki Hidekazu, アク・ベシム（スイヤブ）2016・2017 (帝京大学シルクロード学術調査団調査研究報告1). 帝京大学文化財研究所 / キルギス共和国国立科学アカデミー, 2022. 235 pp. (English/Russian ed.: Amanbaeva & Yamauchi (eds.), Ak-Beshim (Suyab) 2016-2017, 2023, 242 pp.) — https://teikyo-u.repo.nii.ac.jp/record/2003927/files/2016-2017s.pdf
 - [high] `yamauchi2025_suiye_construction`: Yamauchi Kazuya, 「砕葉鎮城の建設とアク・ベシム遺跡シャフリスタン1の都市プランの変化」, 帝京大学文化財研究所研究報告 23 (2025): 255-296. — https://teikyo-u.repo.nii.ac.jp/
-- [high] `zhangzhu2019_ashliji`: 张弛、朱竑《“阿奢理贰伽蓝”地理方位与玄奘西行“跋禄迦”的交通路线》,《历史地理研究》39卷2期 (2019年第2期): 145–148 (札记) — https://www.lsdlyj.com.cn/CN/Y2019/V39/I2/145
 - [medium] `bernard2006_bactres`: Paul Bernard, Roland Besenval, Philippe Marquis, "Du « mirage bactrien » aux réalités archéologiques: nouvelles fouilles de la DAFA à Bactres (2004–2005)", CRAI 150(2) (2006): 1175–1248. — https://doi.org/10.3406/crai.2006.87126
 - [medium] `jokura2018_akbeshim_part1`: Jokura Masayoshi et al., [Ak-Beshim (Suyab) archaeological study, Part 1], WASEDA RILAS JOURNAL 6 (2018): 205-257. [title not verified; file name 205-257_Masayoshi-JOKURA_Part1.pdf] — https://www.waseda.jp/flas/rilas/assets/uploads/2018/10/205-257_Masayoshi-JOKURA_Part1.pdf
 - [medium] `kyzlasov2023_akbeshim_trans`: L. R. Kyzlasov, 「クズラソフによるアク・ベシム遺跡の発掘」, trans. Yamauchi Kazuya, 帝京大学文化財研究所研究報告 21 (2023): 157-252. (Japanese translation of Kyzlasov 1959.) — https://teikyo-u.repo.nii.ac.jp/
@@ -75,14 +90,11 @@ Please put the files in `data/ref/lit/<group>/` named `<key>.pdf` (the key is th
 
 - [high] `anp1_jettmar1989`: Jettmar, Karl (ed.). Antiquities of Northern Pakistan: Reports and Studies 1. Rock Inscriptions in the Indus Valley. Mainz: von Zabern, 1989 (Text and Plates; with Fussman, von Hinüber, Sander, Sims-Williams, Ma Yong) — https://digi.hadw-bw.de/view/anp1text
 - [high] `anp2_jettmar1993`: Jettmar, Karl (ed.). Antiquities of Northern Pakistan 2. Mainz: von Zabern, 1993 (incl. Fussman, 'Chilas, Hatun et les bronzes bouddhiques du Cachemire'; Jettmar, 'The Paṭolas, their governors and their successors'; Höllmann on Chinese inscriptions) — https://digi.hadw-bw.de/view/anp2
-- [high] `errington2017_masson`: Errington, Elizabeth. Charles Masson and the Buddhist Sites of Afghanistan: Explorations, Excavations, Collections 1832–1835. British Museum Research Publication 215. London: British Museum, 2017 — https://zenodo.org/records/3355036
 - [high] `hakal_chartoi_maitreya`: Hakal, Mueezuddin. 'Faxian's and Xuanzang's wooden Maitreya and the Chartoi rock-cut niche at Gupis, Gilgit-Baltistan.' Journal of Asian Civilizations (Taxila Institute, Quaid-i-Azam University) [vol./year to verify, c. 2020s] — https://jac.qau.edu.pk/index.php/jac/article/view/80
 - [high] `hinuber2004_palola`: Hinüber, Oskar von. Die Palola Ṣāhis: Ihre Steininschriften, Inschriften auf Bronzen, Handschriftenkolophone und Schutzzauber. Materialien zur Geschichte von Gilgit und Chilas. Antiquities of Northern Pakistan 5. Mainz: von Zabern, 2004 — https://digi.hadw-bw.de/view/anp5
 - [high] `olivieri_orgyanpa`: Olivieri, Luca Maria. Paper on the itinerary of the Tibetan pilgrim O rgyan pa in Swat (1260s–80s, after Tucci 1940) and the 'Indrabhūti temple' near Manglawar [c. 2017; exact title and venue to verify; CORE output 287124416] — https://core.ac.uk/download/287124416.pdf
-- [high] `tsuchiya_faxian_route_darel`: Tsuchiya, Haruko. 'Fa-hsien's route from Pamir to the Darel valley on the Indus: field research in Northern Pakistan 2003–2006.' Conference paper published by Atatürk Kültür Merkezi (AYK), Ankara [year and volume to verify] — https://www.ayk.gov.tr/wp-content/uploads/2015/01/TSUCHIYA-Haruko-FA-HSIEN%E2%80%99S-ROUTE-FROM-PAM%C4%B0R-TO-THE-DAREL-VALLEY-ON-THE-INDUS-FIELD-RESEARCH-IN-NORTHERN-PAKISTAN-2003-2006.pdf
 - [medium] `anp3_fussman1994`: Fussman, Gérard (ed.). Antiquities of Northern Pakistan 3. Mainz: von Zabern, 1994 (Shatial stupa triptych, Chilas-Thalpan and Tibetan art, Kuberavāhana stupas, Helor Das, Nokkono Ghwand in Swat) — https://digi.hadw-bw.de/view/anp3
 - [medium] `baums_glass_cgt`: Baums, Stefan and Andrew Glass. Catalog of Gāndhārī Texts (online database). 2002– — https://gandhari.org/catalog
-- [medium] `hassan2026_zehanpore`: Bilal Hassan, Mohammad Ajmal Shah & Mumtaz A. Yatoo, 'Assessing the Impact of Soil Erosion on the Zehanpore Buddhist Archaeological Site in Baramulla (Kashmir, India): A Remote Sensing and GIS Analysis', Ancient Asia 17.1 (2026): 87–101, doi:10.47509/aa.2026.v17i.06 — https://doi.org/10.47509/aa.2026.v17i.06
 - [medium] `niklasson2025_palola`: Agneta Niklasson, The Buddhist Sculptures of the Palola Ṣāhi, PhD thesis, SOAS University of London, 2025, doi:10.25501/soas.00821294 — https://doi.org/10.25501/soas.00821294
 - [medium] `olivieri_filigenzi2018_chronology`: Olivieri, Luca M. and Anna Filigenzi. 'On Gandhāran sculptural production from Swat: recent archaeological and chronological data.' In W. Rienjang and P. Stewart (eds), Problems of Chronology in Gandhāran Art. Oxford: Archaeopress, 2018, 71–92 — https://www.carc.ox.ac.uk/GandharaConnections/
 - [medium] `rienjang_stewart2019_geography`: Rienjang, Wannaporn and Peter Stewart (eds). The Geography of Gandhāran Art. Proceedings of the Second International Workshop of the Gandhāra Connections Project, Oxford, 2018. Oxford: Archaeopress, 2019 — https://www.carc.ox.ac.uk/GandharaConnections/
@@ -110,7 +122,6 @@ Please put the files in `data/ref/lit/<group>/` named `<key>.pdf` (the key is th
 **Magadha (juan 8–9)**
 
 - [high] `amar2009_bodhgaya_thesis`: Amar, Abhishek Singh, 'Contextualising the navel of the earth: the emergence, sustenance and religious transformation of Buddhism in the Bodhgaya region (circa 300 BCE-1200 CE)', PhD thesis, SOAS, University of London, 2009 (DOI 10.25501/SOAS.00029300) — https://eprints.soas.ac.uk/29300/
-- [medium] `azad2020_pataliputra_seals`: Azad, Uma Shankar, 'Seals and Sealings of Pataliputra (From the Maurya Period up to the Gupta Period)', Heritage: Journal of Multidisciplinary Studies in Archaeology 8.2 (2020): 632-647 — https://www.heritageuniversityofkerala.com/JournalPDF/Volume8.2/37.pdf
 - [medium] `deeg2025_week_interview`: Deeg, Max (interviewed). "'Xuanzang's work has certain bias that calls for careful interpretation': Max Deeg". The Week, 18 July 2025 (cover story) — https://www.theweek.in/theweek/cover/2025/07/18/xuanzangs-work-has-certain-bias-that-calls-for-careful-interpretation-max-deeg.html
 - [medium] `mani2012_rajgir_slides`: Mani, B. R. "Magadha and Mahabharata: Archaeological Indications from Rajgir Area" (conference presentation, uploaded to SlideShare c. 2012) — https://www.slideshare.net/slideshow/magadhaandmahabharataarchaeologicalindicationsfromrajgirareabybrmani/15597057
 - [medium] `pti2024_mahabodhi_satellite`: PTI. "Satellite images suggest architectural wealth beneath Mahabodhi temple in Bodh Gaya: Officials". The Week (wire), 13 July 2024 (BHDS–Cardiff project "Archaeology on the footsteps of the Chinese traveller Xuanzang"; M. B. Rajni, NIAS) — https://www.theweek.in/wire-updates/national/2024/07/13/cal14-bh-mahabodhi-temple-study.html
@@ -119,7 +130,6 @@ Please put the files in `data/ref/lit/<group>/` named `<key>.pdf` (the key is th
 
 - [high] `deeg2025_andhra`: Deeg, Max (with an appendix by Peter Zieme), 'Chinese Reports about Buddhism in Early Āndhra', in Griffiths, Tournier & Shimada (eds.), Early Āndhradeśa, vol. II. Leiden: Brill, 2025, pp. 565–591. DOI 10.1163/9789004744097_015. Open access (CC BY-NC). — https://orca.cardiff.ac.uk/id/eprint/182757/1/9789004744097-BP000009.pdf
 - [high] `griffiths2025_earlyandhradesa`: Griffiths, Arlo, Vincent Tournier & Akira Shimada (eds.), Early Āndhradeśa: Historical Studies around the Epigraphic Corpus. 2 vols (I: Inventory; II: Studies). Gonda Indological Studies 25. Leiden: Brill, 2025. Open access. — https://brill.com/edcollbook-oa/title/73131
-- [medium] `suvrathan2013_banavasi_brahmi`: Suvrathan, Uthara, 'A Fragmentary Brahmi Inscription from Banavasi', Purātattva 43 (2013): 247-251 — https://zenodo.org/records/3934027
 
 ### Books and paywalled articles, high relevance
 
@@ -212,3 +222,40 @@ Please put the files in `data/ref/lit/<group>/` named `<key>.pdf` (the key is th
 - `suvrathan2014_banavasi_sacred` [paywall]: Suvrathan, Uthara, 'Spoiled for Choice? The Sacred Landscapes of Ancient and Early Medieval Banavasi', South Asian Studies 30.2 (2014): 206-229, doi:10.1080/02666030.2014.962317 — https://doi.org/10.1080/02666030.2014.962317
 
 Medium-relevance books and paywalled items (154) are listed in `data/literature.tsv` (status `wanted`); get them after these.
+
+### From earlier passes (`FOLLOWUPS.md`, `PLAN.md`)
+
+Kept by hand; `wanted_md.py` prints only the lists above. These come from the work before the recent-scholarship pass.
+
+**Obtained 2026-11-12** (Internet Archive OCR, in `data/ref/ia/`, listed in its `SOURCES.tsv`; not yet coded):
+- Burgess & Bhagwanlal Indraji, *Inscriptions from the Cave-Temples of Western India* (1881): the Ajanta Cave 26
+  inscription naming the *sthavira* Acala (11.03.03), which the note cites from general knowledge.
+- *Indian Antiquary* 19 (1890), with Fleet's Mahākūṭa pillar inscription of Maṅgaleśa: Ji's Coliya.
+- *Gazetteer of the Hazara District* 1883–84 and 1907: none was in the gazetteer set; Hargreaves cites one for
+  Mangali = Uraśā.
+- Marquart, *Ērānšahr* (1901), another scan (IA `Eranshahr`) for Zumathān (鋭秣陀). Its OCR keeps more of the Arabic
+  than the one judged unreadable, but is still rough.
+- Kuwayama 1985, listed as not online in `FOLLOWUPS.md`, is on disk as `kuwayama1985_bamiyan_two_roads` (if that is
+  the paper meant there). Li Rongxi's translation (`PLAN.md`) is `li1996_great_tang_record`.
+
+**Still wanted**
+- Bakker, *The Alkhan* (2020): not open access; only a 10-page excerpt is on disk.
+- Bakker 2014 on Śaṅkukarṇa at Banbhore, cited in SP IV p. 55 n. 133 (probably *The World of the Skandapurāṇa*,
+  Leiden: Brill, 2014; check).
+- Marquis's identifications of 提謂城 and 波利城 near Balkh (01.32.02): known only from slides without names or
+  coordinates; a publication is needed.
+- Mirchandani 1967, *JIH* 45: pp. 312–313 and 348–349 are missing from the OCR (IA `dli.bengal.10689.12681`).
+- Stein, MASI 37 (1929): the OCR used stops at about p. 64, before the Tor-dherai stūpa and Konow's appendix. The two
+  other IA scans (`in.ernet.dli.2015.70429`, `in.gov.ignca.21977`) carry about as little text (c. 41 KB each), so
+  they are probably no better; the page images may be.
+- CII IV.2 (djvu only, no text); *Epigraphia Indica* vols 37 onwards (not online as text).
+- Cited by Ji et al. (1985), not in these sources: Srivastava, "Kapilavastu and its precise location", *East and
+  West* 29 (1979) 61–74 (JSTOR); N. Ahmed's Mahasthan report (Bhasu Vihar, 10.04.02); B. P. Sinha, *Archaeology and
+  Art of India* (1979); Belenitskii et al., *Srednevekovyi gorod Srednei Azii* (1973), for Khanabad (01.08);
+  Stavisky, *Kushanskaya Baktriya* (1977); 内田吟風 1972; 謝方, 南亞研究 1982/2; Tugusheva 1980 (Uighur *Life*);
+  Huang Wenbi on Zanguya (12.22.06) and Shisbir (12.22a).
+- For the original names: Yoshida's review of BD I (BAI XIV, 2000 [2003], pp. 154–9) and his reviews in BSOAS 76
+  (2013) and IIJ 68 (2025) (paywalled; logins failed); Enoki 1951/1992 (not online); Bailey's Khotanese for
+  Ditkabani (地迦婆縛那).
+- Nayanjot Lahiri, *Finding Forgotten Cities* (2005), on how Cunningham made his identifications (`PLAN.md`).
+- IAR 2001–02 to 2006–07, 2008–09 and 2014 onwards (see "Gaps").

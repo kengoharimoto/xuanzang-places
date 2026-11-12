@@ -75,6 +75,8 @@
   the Sarai mound seasons 1976–78 are uncoded; Pūrṇavarman's copper Buddha needs its own row (iar 319 `new`, 377 under
   09.03.06); epig passage 67 misstates Bhandarkar on the old Son confluence (just below Patna); Rājagṛha IAR 1953–54
   and 1974–75 digs uncoded. IAR 1979–80 and 1985–86 were downloaded on retry and coded; IAR 1990–91 is absent from the archive.
+- **Literature not yet obtained** from this file and `PLAN.md` is gathered in `data/LITERATURE.md` ("From earlier
+  passes", 2026-11-12), with what was fetched since.
 - **From K. Harimoto's notes, to obtain or read**:
   - Mirchandani 1967 (*JIH* 45, pp. 309–c. 356; Internet Archive dli.bengal.10689.12681): coded; pp. 312–313 and
     348–349 are missing from the OCR.
