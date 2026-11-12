@@ -24,7 +24,8 @@ Method (README, "Country areas"):
    readily towards the side the text names (steps in that direction count up to 0.6 of their length), so it reaches
    the river where its area allows. The river does not bind the neighbour across it.
 6. Mountains named as borders (the same table): a range on one side (北背雪山, 北背大山, 東接葱嶺) bars high ground on
-   that side, and everything beyond it; mountains all round (山周四境, 四境負山, 四面據山, 山嶺周境, and Kapiśa's and
+   that side beyond its crest (the highest ground within 60 km past the range's foot, the foot being high ground as
+   below), so the country may take the near slope; mountains all round (山周四境, 四境負山, 四面據山, 山嶺周境, and Kapiśa's and
    Lampāka's 三陲黑嶺) are a border at their crest: the country has the whole drainage basin above the gorge by which
    its river leaves the ring (GORGE: Tiemenguan, Bekabad, the Panjshir's lower gorge, the Alingar's mouth, Dakka,
    Baramulla, Larji, Kalagarh, the Mahanadi's exit from Chhattisgarh) up to the watershed (within its 1.6-radius cap; a basin stops at another country's capital, so Kapiśa's is not
@@ -318,6 +319,38 @@ def beyond(c, cells, v):
             if s(x, y) > lim[near]: out.add(y * NX + x)
     return out
 
+def crest_beyond(c, cells, u):
+    """A range on the named side as a border at its crest: in each strip across that direction, the crest is the highest
+    cell within CREST_KM beyond the first high cell (the near foot of the range); everything past the crest is barred,
+    the near slope up to it is not. Strips the range does not reach take the nearest strip's crest."""
+    ci = (c["lon"] - BOX[0]) / RES; cj = (c["lat"] - BOX[1]) / RES
+    reach = 3 * CAP * c["R"] / (111.32 * RES); W = CREST_KM / (111.32 * RES)
+    t = lambda x, y: round((x - ci) * -u[1] + (y - cj) * u[0])
+    sd = lambda x, y: (x - ci) * u[0] + (y - cj) * u[1]
+    first = {}
+    for k in cells:
+        x, y = k % NX, k // NX
+        if math.hypot(x - ci, y - cj) > reach: continue
+        a, b = t(x, y), sd(x, y)
+        if b > 0 and (a not in first or b < first[a]): first[a] = b
+    if not first: return set()
+    r = int(reach); strip = collections.defaultdict(list)
+    for y in range(max(0, int(cj) - r), min(NY, int(cj) + r + 1)):
+        for x in range(max(0, int(ci) - r), min(NX, int(ci) + r + 1)):
+            a = t(x, y)
+            if a in first: strip[a].append((sd(x, y), ELEV[y * NX + x]))
+    crest = {}
+    for a, b0 in first.items():
+        band = [(e, b) for b, e in strip[a] if b0 <= b <= b0 + W]
+        crest[a] = max(band)[1] if band else b0
+    keys = sorted(crest); out = set()
+    for y in range(max(0, int(cj) - r), min(NY, int(cj) + r + 1)):
+        for x in range(max(0, int(ci) - r), min(NX, int(ci) + r + 1)):
+            a = t(x, y); near = a if a in crest else min(keys, key=lambda q: abs(q - a))
+            if sd(x, y) > crest[near]: out.add(y * NX + x)
+    return out
+CREST_KM = 60     # how far beyond the foot of a named range its crest is sought
+
 for c in countries:
     bs = BORD.get(c["id"], [])
     c["bar"] = set(); c["pull"] = []
@@ -350,9 +383,10 @@ for c in countries:
         v = SIDE[b["side"]]; L = math.hypot(*v); u = (v[0] / L, v[1] / L)
         c["pull"].append(u)
         if b["kind"] == "range":
-            # a range on the named side: high ground there (capital's height + RISE), and all beyond it
+            # a range on the named side: a border at its crest (the foot is high ground, capital's height + RISE);
+            # the near slope may be taken, nothing beyond the crest
             cells = {k for k in box if ELEV[k] >= ce + RISE and ((k % NX) - ci) * u[0] + ((k // NX) - cj) * u[1] > 0}
-            c["bar"] |= cells | beyond(c, cells, u)
+            c["bar"] |= crest_beyond(c, cells, u)
             ok = bool(cells)
             chk = "%s %s: %s" % (b["side"], b["feature_zh"], ("high ground (capital %d m + %d) on that side" % (ce, RISE)) if ok else "no high ground on that side within reach")
             if b["quote"] not in c["row"]["borders"]:

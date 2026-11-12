@@ -313,7 +313,8 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      its capital (Sirhind), which fits the Sanghol alternative no better; it fits a country in the Ropar–Nalagarh tract east of the
      Sutlej's southward stretch (note on 04.05). Mountains named as borders are used too
      (the same table, 13 rows): a range on one side (Kapiśa's and Lampāka's 北背雪山, Srughna's 北背大山, Khuttal's
-     東接葱嶺) bars high ground on that side, and everything beyond it; mountains all round (山周四境 for Ferghana,
+     東接葱嶺) is a border at its crest (the highest ground within 60 km past the range's foot): the country may
+     take the near slope, nothing beyond; mountains all round (山周四境 for Ferghana,
      Nagarahāra, Kulūta and Brahmapura; 四境負山 for Kashmir; 四面據山 for Agni; 山嶺周境 for Kosala; 三陲黑嶺 for
      Kapiśa and Lampāka) are read as a border at the crest: the country has the whole drainage basin above the
      gorge by which its river leaves the ring, up to the watershed, closed to its neighbours (the gorges, in

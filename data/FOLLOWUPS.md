@@ -5,8 +5,8 @@
   `t_route` keeps them (verbatim check); a mapping table would make the routes readable.
 - **Middle Chinese readings** (`mc_reading`) are often garbled by the OCR and marked "(OCR)": clean against the page
   images if the readings are wanted.
-- **12.06 瞢健**: Mizutani reports Beal's view as Munjān; Beal's heading says Munjan, but his note (vol. 1 n. 144)
-  puts Mung-kin around Talikan–Khanabad, i.e. agreeing with Mizutani.
+- **12.06 瞢健**: resolved: the note gives Beal's note (Talikan–Khanabad, with Mizutani) and his heading (Munjān)
+  apart; its title no longer opposes Mizutani to Beal.
 - **Duplicate gazetteer scans**: several volumes exist in two scans (Jhelam 1907, Monghyr 1909/1960, Lyallpur 1905,
   Karnal 1884, Meerut 1875, Khulna, Manbhum, Midnapore…): count passages, not hits, in the report.
 - **Places missing from the master table** (resolved 2026-11-06: 61 rows added in `data/places_added.tsv`, ids `.xN`; every `new` coded row mapped in `data/coded/new_resolved.tsv`) found by the gazetteer coders (`xz_id = new`): the great Brahmanical
@@ -162,15 +162,16 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
   (2007–08) and Lathiya (2009–10) were indexed as passages 791–803 (the index now also matches "Xuanzang"/"Xuan-zang")
   and coded in `iar_batch12.tsv`; Tsuchiya 2010 was OCR'd (Google Vision) and coded in `lit_batch6.tsv`. IAR gives the
   same coordinates for Nanan and Chandi Mau (one is wrong).
-- **Telhara:** check that the excavated "Bāladitya mound" is Cunningham's Bulandi mound (08.04.01).
-- **護時健:** Miyamoto 2015 takes the Xin Tangshu's 護時犍國 (seat 遏蜜城) for Gūzgān, against the 12.02 note's
-  equation with 弗栗恃薩儻那; re-examine. Lead: the Tang 大秦州 at 叡蜜城 and 鋭秣陀 (01.33), untested.
-- **Baoti Pind point** (03.03.03): check it against Cunningham's "the bearing is east".
+- **Telhara:** resolved: the excavated "Bāladitya mound" is the Bulandi mound (08.04.01 note).
+- **護時健:** resolved: the *Xin Tangshu* (juan 221下) puts it north-west of Bāmiyān (西北與護時健接) and north of
+  Zābul, i.e. Gūzgān (Miyamoto 2015), not Kabul; the equation with 弗栗恃薩儻那 fails (notes 12.02, 01.34). The lead on
+  the Tang 大秦州 at 叡蜜城 and 鋭秣陀 (01.33) is still untested.
+- **Baoti Pind point** (03.03.03): resolved: moved to Cunningham's 5 miles E of Hasan Abdal on the Haripur road (8 km at 77°); the note now gives his own dating of the stūpa after c. 500.
 - **Li Rongxi's translation** (1996, BDK; `data/ref/lit/C/li1996_great_tang_record.txt`) is in hand but not coded; it
   could be added to the authorities like Beal and Watters.
 - **Rows marked "to verify"/"from memory"** in `data/literature.tsv` need checking against a catalogue before citing.
-- **Kolhua pillar point** (07.03.04): Mizutani's point (26.006, 85.11) lies c. 2 km W of the tank point (07.03.x1,
-  25.999, 85.131), but IAR 1990–91 puts the tank 20 m S of the pillar; check the pillar's position and move the point.
+- **Kolhua pillar point** (07.03.04): resolved: the pillar at the ASI Excavation Branch's 26°00'51" N 85°06'32" E
+  (printed 87°), the tank (07.03.x1) 20 m S of it (IAR 1990–91).
 - **From the 2026-11-12 coding (lit_batch8-11):** Tarzi's 2008 find of a c. 19 m reclining Buddha in the Eastern
   Monastery at Bamiyan is known only from press reports; his later report would test 01.37.02. The Gūzgān capital in
   630 (01.34) is open between Sar-i Pul and Gurziwān/Kundarm; the mountain seat is unlocated on the map. At
@@ -190,8 +191,9 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
 - **Śatadru (04.05):** the text puts a "great river" on the country's west (西臨大河), but the Sutlej lies N and NE of
   both Sirhind and Sanghol (`data/country_areas.tsv`, border check). The note now discusses it: the phrase fits a country in the
   Ropar–Nalagarh tract east of the Sutlej's southward stretch (river at 289–302°), not Sarhind or Sanghol (north);
-  Ropar's early historical deposits (IAR 1953–54) have no reported Buddhist remains. Open between Sanghol and that
-  tract; a survey of Buddhist finds round Ropar and Nalagarh would decide it. Mountain borders use a rise set by region
+  A search of the Punjab gazetteers, the survey reports and IAR 1953–2014 found no
+  Buddhist structure or object reported round Ropar, Nalagarh, Kiratpur, Kurali, Kharar or Pinjore. Open between
+  Sanghol (Buddhist remains) and that tract (the river); fieldwork east of the Sutlej would decide it. Mountain borders use a rise set by region
   (`scripts/country_areas.py`, REGION_RISE); Kapiśa (01.38) was drawn at 6% of its circuit's area: alone it
   reached 67,515 km², but Vṛjisthāna (Kabul, 56 km) and Lampāka shared Begram's open ground, and Andarab (12.03) and
   Bamiyan (01.37) took the slopes inside its ranges, which barred Kapiśa alone. Mountains all round are now read as a
@@ -204,5 +206,7 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
   So Kapiśa's gap is the common one of Himalayan and Hindu Kush circuits (li running long on mountain roads, or hill
   country beyond the basin counted in), and Kabul need not have been in it; that reading stays possible, open. All
   nine basins now come from the 0.01° grid (channels within 0.6 cells of their gorges).
-- **Ujjayinī (11.12) and Bharukaccha (11.04)** were raised to high on excavation of the agreed site plus an unbroken
-  name; neither has a dated 7th-century find or an inscription naming the place. Revisit if the rule is read strictly.
+- **Ujjayinī (11.12) and Bharukaccha (11.04)**: kept high. They rest on excavation of the agreed site plus an unbroken
+  name and no rival site, as do Prayāga (05.04) and Vārāṇasī (07.01); the rule's site evidence includes excavation, and
+  lowering these two alone would be inconsistent. A strict rule (a dated 7th-century find or an inscription naming the
+  place) would have to be applied to all such cities at once.

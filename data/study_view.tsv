@@ -126,7 +126,7 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 03.03	secure	Mizutani	33.75	72.82	district	Taxila	high	strengthened		Taxila ruins near Shah-dheri/Sarai-kala
 03.03.01a	probable	Mizutani	33.76	72.84	site	Sirsukh, Taxila	medium	strengthened		Sirsukh (Marshall); rival central Rawalpindi (Naiki 2021, unexcavated hypothesis)
 03.03.02	secure	Mizutani	33.82	72.69	site	Panja Sahib spring, Hasan Abdal	high	none		Baba Wali (Panja Sahib) spring, Hasan Abdal
-03.03.03	open	Mizutani	33.73	72.8	site	Ridge above Baoti Pind, Taxila	low	alternative	yes	open: the stupa on the NE peak of the Baoti ridge above Baoti Pind (Cunningham) or the Dharmarajika (Naiki 2021)
+03.03.03	open	Mizutani	33.835	72.775	site	Ridge above Baoti Pind, Taxila	low	alternative	yes	open: the stupa on the NE peak of the Baoti ridge above Baoti Pind (Cunningham) or the Dharmarajika (Naiki 2021)
 03.03.04	probable	Mizutani	33.8	72.87	site	Bhallar stupa, Sarda hill, Taxila	medium	none		Bhallar stupa, Sarda hill (Marshall); rival the tope 5 miles NW of Rawalpindi, now Islamabad (Naiki 2021; depends on his Rawalpindi capital)
 03.03.06	open	Mizutani	33.744	72.82	site	Kunala stupa, Hathial ridge, Taxila	low	alternative	yes	large stupa on the plateau N of the Hathial ridge, with monastery (Marshall, excavated); open: Thupi tope SE of Rawalpindi (Naiki 2021, destroyed, needs his capital), Dharmarajika (Boyer)
 03.04	secure	Mizutani	32.717	72.983	site	Ketas (Katas Raj), Salt Range	high	strengthened		Ketas locality, Salt Range
@@ -261,16 +261,16 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 07.03	secure	Mizutani	25.967	85.183	site	Basarh (Vaisali)	high	strengthened		Basarh
 07.03.02	text	text	25.9754	85.1737	from the text	placed from the text: 宮城西北五六里 (from 07.03)	low	new-candidate		area c. 1 mile NW of the fort, E of Baniya (Bloch); no remains
 07.03.03	secure	Mizutani	25.99	85.13	site	Relic stupa, Vaisali	high	strengthened		Altekar's mud stūpa NW of Basarh, SE of the Kolhua pillar
-07.03.04	secure	Mizutani	26.006	85.11	site	Kolhua Asoka pillar, Vaisali	high	strengthened		Kolhua lion pillar and the brick stūpa beside it
-07.03.06	text	text	26.0106	85.1151	from the text	placed from the text: 伽藍東北三里 (from 07.03.04)	low	none		unidentified (unlocated)
-07.03.07	text	text	26.0181	85.1151	from the text	placed from the text: 伽藍北三四里 (from 07.03.06)	low	none		unidentified (unlocated)
+07.03.04	secure	Mizutani	26.0142	85.1089	site	Kolhua Asoka pillar, Vaisali	high	strengthened		Kolhua lion pillar and the brick stūpa beside it
+07.03.06	text	text	26.0188	85.114	from the text	placed from the text: 伽藍東北三里 (from 07.03.04)	low	none		unidentified (unlocated)
+07.03.07	text	text	26.0263	85.114	from the text	placed from the text: 伽藍北三四里 (from 07.03.06)	low	none		unidentified (unlocated)
 07.03.12	text	text	26.0506	85.09	from the text	placed from the text: 大城西北行五六十里 (from 07.03)	low	none		unidentified (unlocated)
 07.03.13	secure	Mizutani	26.334	84.855	site	Kesariya stupa	high	strengthened		Kesariya
 07.03.14	text	text	25.945	85.2075	from the text	placed from the text: 城東南行十四五里 (from 07.03)	low	none		unidentified (unlocated)
 07.03.14a	probable	Mizutani	27.33	79.27	town	Sankisa (Saṅkassa)	medium	none		open (Saṅkassa likeliest)
 07.03.15	text	text	27.1473	79.27	from the text	placed from the text: 七百賢聖結集南行八九十里 (from 07.03.14a)	medium	none		N of the Ganges near Hajipur (no site)
 07.03.16	open	study	25.7	85.18	district	Sonepur region at the Gandak–Ganges confluence (tentative)	low	new-candidate		Sonepur region at the Gandak–Ganges confluence (tentative)
-07.03.x1	secure	added	25.999	85.131	approx	Kolhua (Bakhra), Ram-kund tank S of the pillar	high	none		Ram-kund, S of the Kolhua pillar
+07.03.x1	secure	added	26.014	85.1089	approx	Kolhua (Bakhra), Ram-kund tank S of the pillar	high	none		Ram-kund, S of the Kolhua pillar
 07.03.x2	unlocated									Cunningham: the small brick stūpa he excavated at the W end of a wall W of the tank, which he doubts is the honey stūpa; Hoey: the villages Kapia (and the grove Bhikaban) near Saran Khas recall the monkey story (part of his Vaiśālī-in-Saran theory)
 07.04	probable	Mizutani	26.4	86.1	district	Northern Darbhanga district	medium	none		northern Tirhut/Darbhanga and adjacent Tarai
 07.04.01a	open	Mizutani	26.58	86.1	site	Baligarh ruins, N of Madhubani	low	none		Bāligarh or Janakpur (unresolved)

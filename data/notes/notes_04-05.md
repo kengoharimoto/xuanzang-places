@@ -237,8 +237,10 @@ there turns west. From Sarhind and Sanghol it lies north (10° and 1°, Natural 
 (302° at the nearest point); from Nalagarh, east of the southward stretch, west-north-west (289°). So the phrase fits
 a country in the Ropar–Nalagarh tract, east of the river's southward course, better than one centred on Sarhind
 or Sanghol, unless the phrase describes the country's western reach rather than its capital's side. Ropar has an
-excavated mound with "large deposits belonging to the early and late historical periods" (IAR 1953–54), but the
-study's sources report nothing Buddhist there. The route figures do not decide: from Kulūta 700 li south fits all
+excavated mound with "large deposits belonging to the early and late historical periods" (IAR 1953–54), and the
+explorations of Ropar tahsil list Harappan, Painted Grey Ware, early historical and medieval sites (IAR 1953–54,
+1962–63, 1968–69, 1977–78), but a search of the Punjab gazetteers, the survey reports and IAR 1953–2014 for Ropar,
+Nalagarh, Kiratpur, Kurali, Kharar and Pinjore found no Buddhist structure or object reported there. The route figures do not decide: from Kulūta 700 li south fits all
 these places (Sarhind 162 km, Ropar 123 km, Nalagarh 109 km, roughly south-south-west), and the 800 li south-west
 to Bairāt fits none (350–400 km, due south).
 
@@ -246,8 +248,7 @@ to Bairāt fits none (350–400 km, due south).
 the same tract and has a large excavated Buddhist establishment, so it is the better candidate for a capital with
 monasteries, though its case is still the excavators' assertion. The country stays where Mizutani puts it; the
 capital moves, tentatively, from Sarhind to Sanghol. The river on the west points rather to the Ropar–Nalagarh tract
-east of the Sutlej's southward course; with no Buddhist remains reported there, the capital stays open between Sanghol
-and that tract.
+east of the Sutlej's southward course, the Buddhist remains to Sanghol: the capital stays open between them.
 
 ### 04.06 波理夜呾羅國 (Skt. Pāriyātra) — Bairāt is still the only candidate, but its excavator found nothing of Xuanzang's eight monasteries
 

@@ -123,7 +123,7 @@ id	name_zh	modern_name	lat	lon	precision	basis	note
 03.03	呾叉始羅國	Taxila	33.75	72.82	district	known	
 03.03.01a	呾叉始羅國大都城	Sirsukh, Taxila	33.76	72.84	site	known	
 03.03.02	醫羅鉢呾羅龍王池	Panja Sahib spring, Hasan Abdal	33.82	72.69	site	known	
-03.03.03	四大寶藏窣堵波	Ridge above Baoti Pind, Taxila	33.73	72.80	site	approx	
+03.03.03	四大寶藏窣堵波	Ridge above Baoti Pind, Taxila	33.835	72.775	site	approx	from Cunningham ASR II p. 139-142: 5 miles E of Hasan Abdal on the Haripur road
 03.03.04	捨頭窣堵波	Bhallar stupa, Sarda hill, Taxila	33.80	72.87	site	approx	
 03.03.06	拘浪拏太子窣堵波	Kunala stupa, Hathial ridge, Taxila	33.744	72.82	site	approx	Marshall's identification as reported
 03.04	僧訶補羅國	Ketas (Katas Raj), Salt Range	32.717	72.983	site	mizutani	Mizutani gives 32°43'N 72°59'E
@@ -219,7 +219,7 @@ id	name_zh	modern_name	lat	lon	precision	basis	note
 07.03	吠舍釐國	Basarh (Vaisali)	25.967	85.183	site	mizutani	Mizutani gives 25°58'N 85°11'E (the Raja-Bisal-ka-garh ruin lies c. 5 km WNW, at 25.99, 85.13)
 07.03.02	宮城西北伽藍 (說毘摩羅詰經處)						no identification given
 07.03.03	吠舍釐王所建舍利窣堵波	Relic stupa, Vaisali	25.99	85.13	site	known	
-07.03.04	無憂王窣堵波・石柱	Kolhua Asoka pillar, Vaisali	26.006	85.11	site	known	
+07.03.04	無憂王窣堵波・石柱	Kolhua Asoka pillar, Vaisali	26.0142	85.1089	site	known	ASI Excavation Branch, Patna: 26°00'51" N, 85°06'32" E (printed 87°, a slip); 3.3 km NW of the Vaishali garh
 07.03.06	毘摩羅詰故宅						no modern identification
 07.03.07	菴沒羅女園						no identification given
 07.03.12	栗呫婆子別如來處						no identification

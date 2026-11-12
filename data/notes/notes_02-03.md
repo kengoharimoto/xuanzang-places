@@ -999,7 +999,11 @@ where I found the ruins of a large town and of several Buddhist monuments. But t
 lead into the open plain. In the gorge is the Langar-kot (Srikot) fort. On the highest, NE point of the Baoti ridge
 he found a stūpa 65 ft across on a platform, with a small monastery (70 × 58 ft), and "judged that it might
 possibly be the actual stupa which was said to have been built by Asoka". His excavation reached a stone chamber at
-8 ft and, under a slab at 14 ft, a large red earthenware vessel.
+8 ft and, under a slab at 14 ft, a large red earthenware vessel; in it lay a gold coin of "about A.D. 500 or 600",
+and he concluded that "the presence of the gold coin proves that the stupais not older than A. D. 500, and,
+therefore, that it cannot be the Maitreya stupa which was build by Asoka" (p. 141). He places the village on the
+road from Hasan Abdal towards Haripur, on the right bank of the Baoti Nala, at the west end of a rocky hill that
+runs to the Haro, some 5 miles east of the spring.
 
 **Gazetteers.** Rawalpindi 1883 and 1895, and Attock 1909, echo ASR II, adding "never-failing springs" and the
 local tradition giving the hill fort to Raja Sirkap. They report that "it is now impossible to ascertain which of
@@ -1015,13 +1019,14 @@ area (drum 34.5 m, against 19.5 m at Baoti Pind), which Xuanzang should have rec
 1930–31) six murdered people, one beheaded, lay unburied under the burnt collapse, with three Hephthalite coins among
 25, one of the Alkhan king Javukha (c. 492/3): the monastery was destroyed after the late 5th century and never
 rebuilt, as the text says of this one (久絕僧徒). It lies between the Margala and the Hathial/Sarda hills (入兩山間). From the
-dragon pool at Hasan Abdal the Dharmarājikā lies 15.5 km at 122° and the Baoti Pind stūpa 14.3 km at 135°, both SE as
-the text has it (Cunningham's "the bearing is east" does not show on the study's approximate Baoti Pind point, which
-should be checked); Naiki's further step, the capital 40 li beyond, does not follow from the text (03.03.01a).
+dragon pool at Hasan Abdal the Dharmarājikā lies 15.5 km at 122°, south-east as the text has it; Baoti Pind, placed
+from Cunningham's description (5 miles east on the Haripur road; the study's earlier point at 135° was wrong), lies
+about 8 km at 77°, the text's 30 li (c. 7 km) but east, not south-east, as Cunningham says; Naiki's further step, the capital 40 li beyond, does not follow from the text (03.03.01a).
 
 **Assessment.** The survey supplies a specific monument with a stūpa, monastery and relic deposit on Mizutani's ridge.
 Naiki's Dharmarājikā answers the text's deserted monastery with excavated evidence of its abandonment and is the
-larger monument; both lie SE of the dragon pool at about the same distance, and nothing found names either. The two do
+larger monument. Baoti Pind fits the distance and the Dharmarājikā the bearing; Cunningham's own deposit dates the
+Baoti stūpa after c. 500, and nothing found names either. The two do
 not depend on the capital, since the text measures the stūpa from the pool. The place is open between Baoti Pind and
 the Dharmarājikā, with low confidence.
 

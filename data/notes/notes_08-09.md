@@ -163,8 +163,9 @@ transcriptions that do not mark retroflexes, so they do not decide the point. Th
 (data/names/).
 
 **Recent scholarship.** Anand 2012 (blog) reports the excavation by the Bihar Directorate of Archaeology, begun in
-December 2009 under A. K. Verma, of the "Bāladitya mound" at the W end of the village, apparently the mound Cunningham
-and Broadley describe there. More than 30 trenches found a Gupta-period (4th–6th c.) floor across the mound and a
+December 2009 under A. K. Verma, of the "Bāladitya mound" at the W end of the village: the Bulandi mound of Broadley and Cunningham, as the
+excavation's own coverage calls it ("Excavations of Bulandi Mound", Google Arts & Culture; Biharprabha News, April
+2010). More than 30 trenches found a Gupta-period (4th–6th c.) floor across the mound and a
 Gupta wall 6 ft wide, under 5.5 ft of debris and a Pāla floor and wall, with many sculptures, some inscribed, and a
 10th-century inscribed slab warning against harm to the monastery. If the dating holds, an establishment stood on the
 spot in Xuanzang's time; the excavator's report (Verma, Bihar Directorate) is not yet checked here.

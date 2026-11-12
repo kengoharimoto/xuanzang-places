@@ -628,7 +628,8 @@ unaffected (data/names/bactrian.tsv).
 **Recent scholarship.** Miyamoto (2015, pp. 312, 291) puts the centre of Gūzgān at Sar-i Pul, where the Safid river
 leaves the mountains: Islamic Anbīr, "the qasaba of Gūzgān" in the Ḥudūd, Bactrian Amber (doc. Ss, dated 698, "written
 here at Amber"; coins of Amber), and, by an equation he reports (遏蜜 *at-mǐět = Anbīr), the 遏蜜城 of 護時犍國 where the Tang
-set the 奇沙州都督府. This fits Mizutani's "Anbār?" for a 7th-century seat, but the Tang equation is reported, not argued,
+set the 奇沙州都督府. This fits Mizutani's "Anbār?" for a 7th-century seat. The Tang equation is reported, not argued, but the *Xin
+Tangshu* puts 護時健 north-west of Bāmiyān (帆延…西北與護時健接, juan 221下), where Gūzgān lies (see 12.02); still,
 the documents are later than Xuanzang, and nothing has been excavated. Sims-Williams (2002, pp. 1048–1056) adds the
 site evidence for Ambēr = Sar-i Pul: an Arabic inscription found by Bivar at the Imām-i Khurd shrine near Sar-i Pul
 marks the tomb of Yaḥyā b. Zayd, killed near Ambēr; Yaʿqūbī (late 9th c.) makes Ambēr the seat of the Arab governors,
@@ -1234,8 +1235,11 @@ towns to the Khawak; with Begram–Kabul c. 70 km and Kabul–Ghazni c. 150 km, 
 Ghazni, centred on Kabul, reaching SW to Wardak and E to the Kotal-e Lataband, and with 阿路猱山 (Khair Khana) at its N
 edge it is "almost Kāpiśī's southern frontier" (ほとんど迦畢試の南彊である). This supports the Kabul reading against the Koh-daman.
 Miyamoto (2015, pp. 312, 291) takes the 護時犍國 of the *Xin Tangshu*'s commandery list, where the 奇沙州都督府 was set at 遏蜜城,
-for Gūzgān (01.34), whose name 胡寔健 it echoes; if that is the *Tang shu*'s 護時健, its equation with 弗栗恃薩儻那
-(Takata/Mizuno, Kuwayama) needs re-examination.
+for Gūzgān (01.34), whose name 胡寔健 it echoes. The *Xin Tangshu*'s own account of the neighbours bears him out
+(juan 221下): Bāmiyān "borders 護時健 on the north-west" (帆延…西北與護時健接), and Zābul has "護時健 to the north"
+(謝䫻…北護時健). 護時健 lay north-west of Bāmiyān, where Gūzgān is, not south-east of it, where Kabul is; Kuwayama's
+"SE of Bāmiyān" reverses the text. So the equation of 護時健 with 弗栗恃薩儻那 (Takata/Mizuno, Kuwayama 2002) fails;
+it was not what placed the country at Kabul, which rests on the route.
 
 **Assessment.** Everyone puts the country in or near the upper Kabul basin. The question is whether it centred on
 Kabul (Cunningham, Shiratori, Kuwayama), on the Koh-daman north of it (Vivien's capital, Beal), or SW of Kabul in
@@ -1384,7 +1388,7 @@ Miyamoto 2012), which does not touch the Life's words. The text and the figures 
 capital is left open: the map point stays at Qal'a-ye Zāl on the Life's words, confidence low; no excavation or
 inscription decides it.
 
-### 12.06 瞢健國 (*mungan) — near Khanabad/Taliqan vs Beal's Munjan
+### 12.06 瞢健國 (*mungan) — near Khanabad/Taliqan (Mizutani; Beal's note) or the Munjān valley (Beal's heading, Vivien)
 
 **Identifications.** Mizutani: between Kunduz and Taliqan, probably near Khanabad, with no matching name
 (uncertain); Beal's Munjān (Minjān) is too far. Vivien: Moungan, an old town c. 12 leagues S of Jerm (p. 419). Beal:
