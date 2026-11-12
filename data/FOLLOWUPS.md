@@ -1,19 +1,20 @@
 # Follow-ups noted during coding
 
-- **Gaiji codes in T2087**: `data/ref/t2087_joined.txt` writes rare characters as `mNNNNN` (m03474 呾, m10370 㤄,
-  m16476 殑, m20544 猱, m22129 痆, m23653 瞢, m25561 窣, m25946 笯, m27246 紇, m40981 鑊, m42434 霫, m42889 鞞…).
-  `t_route` keeps them (verbatim check); a mapping table would make the routes readable.
+- **Gaiji codes in T2087**: resolved: `data/text/gaiji_map.json` maps every code that occurs in the route text (eight
+  added: m03447 呬, m10370 㤄, m28367 罽, m34299 裒, m39630 鄧, m42889 鞞, m42940 鞮, m44823 䮚, from CBETA); the coded
+  `t_route` keeps the codes for the verbatim check, and `places_mizutani.tsv` and `route/segments.tsv` write the
+  characters.
 - **Middle Chinese readings** (`mc_reading`) are often garbled by the OCR and marked "(OCR)": clean against the page
   images if the readings are wanted.
 - **12.06 瞢健**: resolved: the note gives Beal's note (Talikan–Khanabad, with Mizutani) and his heading (Munjān)
   apart; its title no longer opposes Mizutani to Beal.
-- **Duplicate gazetteer scans**: several volumes exist in two scans (Jhelam 1907, Monghyr 1909/1960, Lyallpur 1905,
-  Karnal 1884, Meerut 1875, Khulna, Manbhum, Midnapore…): count passages, not hits, in the report.
+- **Duplicate gazetteer scans**: resolved: 219 relevant hits are second scans of a passage in another copy of the same
+  volume (`data/gaz_duplicates.tsv`, found by `scripts/gaz_duplicates.py`); the place table counts each passage once.
 - **Places missing from the master table** (resolved 2026-11-06: 61 rows added in `data/places_added.tsv`, ids `.xN`; every `new` coded row mapped in `data/coded/new_resolved.tsv`) found by the gazetteer coders (`xz_id = new`): the great Brahmanical
   city on Takka's eastern border (Lahore, per the Lahore/Punjab gazetteers); the Aśoka stūpa NW of Sthāneśvara
   (Karnal 1976); the Aśoka stūpa south of Siṃhapura (Stein, Jhelam gazetteer). More in `data/coded/gaz_batch*.tsv`.
-- **Mizutani's slips** noted by coders: Kashipur coordinates with N/E swapped (04.12); "Eastern Ghats" for the
-  western range (pdf 355).
+- **Mizutani's slips** noted by coders: handled: Kashipur's swapped coordinates are corrected in `data/coords.tsv`
+  (04.12), and the 10.17.03 note marks his "Eastern Ghats" for the western range (pdf 355) as a slip.
 - **Misfiled volume in the gazetteer study**: `in.ernet.dli.2015.281327`, listed as CP10 "Chhindwara", is a reprint
   of Beal's *Buddhist Records* (vol. IV of a reprint), not a gazetteer (found while coding batch 2; all its hits coded
   `relevant=no`). The gazetteer-vedanta selection table needs fixing, and any CP10 counts there are suspect.
@@ -32,8 +33,9 @@
   candidate inside. Hit 1246/1322 `new`→`03.04.02` corrected. Hit 1219 (Attock) is coded `repeats` where the same
   Cunningham passage in Rawalpindi is `argues`; hit 1903 (Thana footnote, Manikyala for 02.04.03) is coded
   `alternative` but is unargued.
-- **Cunningham's ASR reports** were not coded (only *Ancient Geography*); several gazetteer passages cite them (e.g.
-  Karmal for the Kunāla stūpa, ASR II). Adding ASR I–XXIII would fill gaps in the `cunningham` column.
+- **Cunningham's ASR reports**: covered since by the survey pass (`data/ASR_INSTRUCTIONS.md`, ASR I–XXIII coded in
+  `data/coded/asr_batch*.tsv`): Cunningham's later, site-level views appear in each place's "Survey (ASR)" field, not in
+  the `cunningham` column, which stays his *Ancient Geography* (1871).
 - **Juan 6–7 fixes applied**: hits 750/778 lose 07.01.04; hit 837 `argues`→`repeats`; hits 615/659 `07.02.03b`→`07.02.02`;
   Dey's Hoey "Bul'i" row moved from 07.03.13 to 07.04 (the Monster Fish story).
 - **Still open**: hits 620/621 volume "Basti District, 1801" is probably NWP Gazetteer vol. VI (1881) — fix the
@@ -217,7 +219,9 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
   place) would have to be applied to all such cities at once.
 - **Li Rongxi check (2026-11-12):** all 484 translated passages checked against Li (README method 6; 3 major, 57 minor
   corrected). Two choices to review: 06.04.14 follows Li's 即路 ("set off") against the printed 攝衣即語, since the
-  next line (今何無言) shows the monk had not spoken; and the CBETA corrections adopted from other editions (01.05,
-  01.17, 03.01.05, and 兩 → 雨 at 07.01.10, 08.06.30, 09.02.03a, 09.02.16) should be checked against the Taishō
-  apparatus. The Life translations were not checked against Li (his translation of the Life is a separate book).
+  next line (今何無言) shows the monk had not spoken; and the readings adopted from other editions were checked
+  against the Taishō apparatus and the Sixi (1132) and Jōō (1653) prints: 增損 (01.05), 中 (01.17), 榻 (03.01.05) and
+  雨 (08.06.30, both occurrences; 09.02.16) are the Song/Yuan/Ming readings in the apparatus; 雨安居畢 (07.01.10) has no
+  apparatus note but the Sixi print reads 雨; 09.02.03a has no witness for 雨 (no note, Sixi lacks juan 9) and follows
+  the idiom only. The Life translations were not checked against Li (his translation of the Life is a separate book).
 

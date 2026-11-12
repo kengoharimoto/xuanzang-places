@@ -485,12 +485,21 @@ predicted, bearing 10° off (flagged on distance), as expected of a sea passage.
 Mizutani: the Mahāvihāra S of old Anurādhapura, its remains extant; Beal (p. 247): 7 li S of the capital. Watters (p. 235)
 gives no site. The Life names neither fraternity. Agreement only; nothing in these sources.
 **Ji Xianlin et al. (1985).** Ji agrees: S of old Anurādhapura, with remains near the Ruvanveli stūpa (p. 879).
+**Recent scholarship.** Deeg (2024, pp. 46–47 and n. 194) reads 摩訶毘訶羅住部 as Mahāvihāravāsin, -zhu 住 rendering
+-vāsin: Xuanzang names the fraternity, not the building, and gives no location. He takes the account to come from
+Abhayagiri monks (the Sri Lankans the Life has Xuanzang meet at Kāñcī, c. 637; p. 50). Nothing changes the site.
 
 ### 11.01.04b 阿跋耶祇釐 (Abhayagiri) — the Abhayagiri vihāra, N of Anurādhapura
 
 Mizutani: Abhayagiri, N of Anurādhapura, founded by Vaṭṭagāmaṇi Abhaya. Beal (p. 247) cites the Dīpavaṃsa and Faxian.
 Agreement only; nothing in these sources.
 **Ji Xianlin et al. (1985).** Ji agrees: N of the royal city, built by Vaṭṭagāmaṇi Abhaya (pp. 879–80).
+**Recent scholarship.** Deeg (2024) reports the site N of the citadel, beyond the Mahāvihāra and Jetavana, with a
+monumental stūpa much larger than the Mahāvihāra's (pp. 17–18, citing Bandaranayake 1974 and Coningham 1999), and
+dhāraṇī inscriptions from its northern stūpa (Schopen); none cited names the monastery. He matches Faxian's great
+stūpa N of the royal city, 40 zhang (over 90 m) high, beside the 無畏山 monastery, to the Abhayagiri stūpa (pp. 27–29).
+In the Xiyu ji 阿跋耶祇釐住部 is the Abhayagirivāsin fraternity, with no location (n. 195); Xuanzang's account favours it and
+probably came from its monks. This supports the site through Faxian, not through Xuanzang; medium stays.
 
 ### 11.04 跋祿羯呫婆國 (Bharukacchapa) — Broach (Bharuch) on the Narmadā; the Life's NW fits
 

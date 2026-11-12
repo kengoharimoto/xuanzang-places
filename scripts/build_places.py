@@ -54,6 +54,7 @@ for f in glob.glob("data/coded/auth_*.tsv"):
             if r.get("page"): s += f' (p. {r["page"]})'
             auth[r["id"]][a].append(s)
 hits = {r["hit"]: r for r in rd("data/gaz_hits.tsv")}
+GDUP = {r["hit"]: r["same_as"] for r in rd("data/gaz_duplicates.tsv")}   # second scans of the same passage
 gaz = collections.defaultdict(list); unknown_ids = collections.Counter()
 for f in glob.glob("data/coded/gaz_batch*.tsv"):
     for r in rd(f):
@@ -146,6 +147,12 @@ for m in master:
     row = {k: m.get(k, "") for k in cols}
     for a in AUTH: row[a] = " | ".join(auth[m["id"]].get(a, []))
     g = gaz[m["id"]]
+    # one passage scanned twice (data/gaz_duplicates.tsv) counts once; the more argumentative coding of the pair stands
+    seen = {}
+    for r in sorted(g, key=lambda r: r.get("stance") not in ("argues", "doubts", "alternative")):
+        seen.setdefault(GDUP.get(r["hit"], r["hit"]), r)
+    keep = {id(r) for r in seen.values()}
+    g = [r for r in g if id(r) in keep]
     row["gaz_n"] = len(g)
     row["gaz_argues"] = sum(1 for r in g if r.get("stance") in ("argues", "doubts", "alternative"))
     vols = []

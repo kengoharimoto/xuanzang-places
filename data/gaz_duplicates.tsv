@@ -1,0 +1,320 @@
+hit	same_as	place	year	ratio
+84	1	Santal Parganas	1910	0.75
+149	92	Shahabad	1906	0.82
+161	12	Balasore	1907	0.67
+172	22	Champaran	1907	0.92
+175	25	Champaran	1907	0.93
+176	26	Champaran	1907	0.75
+177	27	Champaran	1907	0.78
+183	31	Cuttack	1906	0.81
+193	4	Gaya	1906	0.62
+195	6	Gaya	1906	0.71
+198	8	Gaya	1906	0.65
+241	40	Howrah	1909	0.65
+243	42	Jessore	1912	0.78
+245	44	Khulna	1908	0.89
+251	50	Midnapore	1911	0.7
+260	56	Monghyr	1909	0.83
+261	57	Monghyr	1909	0.94
+263	58	Monghyr	1909	0.74
+283	59	Murshidabad	1914	0.87
+295	67	Muzaffarpur	1907	0.65
+303	74	Puri	1908	0.63
+306	77	Puri	1908	0.9
+312	79	Purnea	1911	0.86
+313	80	Purnea	1911	0.86
+318	125	Bogra	1910	0.84
+319	126	Bogra	1910	0.61
+327	134	Bogra	1910	0.85
+354	330	Saran	1905	0.84
+358	336	Midnapur, Hugli, Howrah	1875-77	0.93
+359	337	Midnapur, Hugli, Howrah	1875-77	0.99
+361	137	Tippera	1910	0.89
+363	338	Patna, Saran	1875-77	0.72
+364	339	Patna, Saran	1875-77	0.77
+367	342	Patna, Saran	1875-77	0.95
+368	343	Patna, Saran	1875-77	0.62
+370	346	Patna, Saran	1875-77	0.96
+371	347	Patna, Saran	1875-77	0.98
+374	349	Patna, Saran	1875-77	0.99
+375	350	Patna, Saran	1875-77	0.9
+376	362	Tirhut, Champaran	1875-77	0.76
+377	360	Puri, Orissa tributary states	1875-77	0.8
+386	380	Raipur	1909	0.8
+387	381	Raipur	1909	0.67
+390	382	Drug	1910	1.0
+441	379	Central Provinces (all)	1916	0.92
+463	458	Cuddapah	1915	0.8
+468	465	Salem	1883	0.69
+660	616	Ballia	1907	0.97
+662	586	Bareilly	1911	1.0
+663	587	Bareilly	1911	0.95
+666	590	Bareilly	1911	0.99
+669	612	Bijnor	1908	0.84
+670	613	Bijnor	1908	0.96
+672	610	Garhwal	1910	0.98
+674	578	Dehra Dun	1911	0.92
+676	580	Dehra Dun	1911	0.92
+677	594	Farrukhabad	1911	0.84
+681	597	Farrukhabad	1911	0.94
+682	598	Farrukhabad	1911	0.87
+683	599	Farrukhabad	1911	0.7
+686	601	Farrukhabad	1911	0.96
+688	603	Farrukhabad	1911	1.0
+689	604	Farrukhabad	1911	0.99
+690	605	Farrukhabad	1911	0.99
+691	606	Farrukhabad	1911	0.84
+692	607	Farrukhabad	1911	0.9
+693	608	Farrukhabad	1911	0.95
+695	550	Fatehpur	1916	0.88
+696	551	Fatehpur	1916	0.82
+697	552	Fatehpur	1916	0.78
+698	546	Fyzabad	1905	0.91
+699	547	Fyzabad	1905	0.98
+700	548	Fyzabad	1905	0.62
+704	563	Ghazipur	1909	0.84
+705	564	Ghazipur	1909	0.81
+706	565	Ghazipur	1909	0.86
+708	582	Gorakhpur	1909	0.82
+709	584	Gorakhpur	1909	0.9
+710	585	Gorakhpur	1909	0.67
+711	544	Jalaun	1909	0.88
+716	641	Muzaffarnagar	1903	0.93
+717	574	Saharanpur	1921	0.91
+718	575	Saharanpur	1921	0.95
+719	576	Saharanpur	1921	0.81
+720	577	Saharanpur	1921	1.0
+723	642	Sultanpur	1903	0.6
+738	735	Meerut	1904	0.71
+739	736	Meerut	1904	0.9
+767	727	Hardoi	1904	0.9
+771	742	Benares	1911	0.7
+775	747	Benares	1911	0.69
+777	750	Benares	1911	0.78
+778	751	Benares	1911	0.67
+780	753	Benares	1911	0.77
+781	729	Etah	1911	0.91
+782	731	Etah	1911	0.82
+783	732	Etah	1911	0.65
+784	733	Etah	1911	0.8
+796	712	Jhansi	1909	0.9
+797	713	Jhansi	1909	0.78
+974	972	Meerut division pt 2	1876	0.84
+975	973	Meerut division pt 2	1876	0.89
+976	887	Muttra, Allahabad, Fatehpur	1884	0.82
+979	890	Muttra, Allahabad, Fatehpur	1884	1.0
+980	891	Muttra, Allahabad, Fatehpur	1884	1.0
+981	892	Muttra, Allahabad, Fatehpur	1884	0.99
+984	895	Muttra, Allahabad, Fatehpur	1884	0.99
+985	896	Muttra, Allahabad, Fatehpur	1884	0.91
+987	898	Muttra, Allahabad, Fatehpur	1884	0.84
+994	960	Farukhabad and Agra	1884	0.81
+995	962	Farukhabad and Agra	1884	0.8
+997	965	Farukhabad and Agra	1884	0.86
+999	968	Farukhabad and Agra	1884	0.97
+1001	905	Himalayan districts II	1884	0.97
+1002	908	Himalayan districts II	1884	0.63
+1003	907	Himalayan districts II	1884	0.99
+1004	908	Himalayan districts II	1884	0.75
+1005	909	Himalayan districts II	1884	0.71
+1007	911	Himalayan districts II	1884	0.76
+1008	912	Himalayan districts II	1884	0.93
+1009	913	Himalayan districts II	1884	0.91
+1010	914	Himalayan districts II	1884	0.71
+1011	915	Himalayan districts II	1884	0.8
+1012	916	Himalayan districts II	1884	0.73
+1013	917	Himalayan districts II	1884	0.81
+1014	918	Himalayan districts II	1884	0.82
+1016	920	Himalayan districts II	1884	0.69
+1017	921	Himalayan districts II	1884	0.95
+1018	922	Himalayan districts II	1884	0.78
+1019	923	Himalayan districts II	1884	0.93
+1020	924	Himalayan districts II	1884	0.87
+1021	925	Himalayan districts II	1884	0.86
+1022	927	Himalayan districts II	1884	0.87
+1023	928	Himalayan districts II	1884	0.92
+1024	929	Himalayan districts II	1884	0.87
+1025	930	Himalayan districts II	1884	0.98
+1026	931	Himalayan districts II	1884	0.86
+1027	932	Himalayan districts II	1884	0.79
+1033	937	Himalayan districts II	1884	0.95
+1036	940	Himalayan districts II	1884	0.66
+1037	941	Himalayan districts II	1884	0.83
+1040	944	Himalayan districts II	1884	0.81
+1041	945	Himalayan districts II	1884	0.64
+1044	947	Himalayan districts II	1884	0.75
+1045	948	Himalayan districts II	1884	0.78
+1046	949	Himalayan districts II	1884	0.67
+1047	950	Himalayan districts II	1884	0.96
+1048	951	Himalayan districts II	1884	0.88
+1049	952	Himalayan districts II	1884	0.91
+1050	953	Himalayan districts II	1884	0.94
+1055	789	Oudh N–Z	1878	0.7
+1056	790	Oudh N–Z	1878	1.0
+1057	791	Oudh N–Z	1878	0.95
+1059	793	Oudh N–Z	1878	0.97
+1060	794	Oudh N–Z	1878	0.97
+1061	795	Oudh N–Z	1878	1.0
+1062	843	Azamgarh, Ghazipur, Ballia	1883	0.99
+1064	845	Azamgarh, Ghazipur, Ballia	1883	0.91
+1065	846	Azamgarh, Ghazipur, Ballia	1883	0.97
+1066	847	Azamgarh, Ghazipur, Ballia	1883	0.99
+1067	848	Azamgarh, Ghazipur, Ballia	1883	0.85
+1068	849	Azamgarh, Ghazipur, Ballia	1883	0.76
+1069	850	Azamgarh, Ghazipur, Ballia	1883	0.8
+1071	852	Azamgarh, Ghazipur, Ballia	1883	0.94
+1072	853	Azamgarh, Ghazipur, Ballia	1883	0.94
+1077	591	Oudh H–M	1877	0.95
+1080	593	Oudh H–M	1877	0.72
+1082	865	Meerut division pt 1	1875	0.79
+1083	866	Meerut division pt 1	1875	0.86
+1084	867	Meerut division pt 1	1875	0.97
+1085	868	Meerut division pt 1	1875	0.78
+1087	870	Meerut division pt 1	1875	0.73
+1088	871	Meerut division pt 1	1875	0.93
+1089	872	Meerut division pt 1	1875	0.97
+1090	873	Meerut division pt 1	1875	0.79
+1091	874	Meerut division pt 1	1875	0.72
+1093	876	Meerut division pt 1	1875	0.77
+1094	861	Bundelkhand (Banda, Hamirpur, Jhansi, Jalaun)	1874	0.81
+1096	863	Bundelkhand (Banda, Hamirpur, Jhansi, Jalaun)	1874	0.92
+1118	810	Rohilkhand division	1879	1.0
+1123	815	Rohilkhand division	1879	0.94
+1124	816	Rohilkhand division	1879	0.85
+1126	818	Rohilkhand division	1879	0.64
+1127	819	Rohilkhand division	1879	0.75
+1129	820	Rohilkhand division	1879	0.99
+1130	821	Rohilkhand division	1879	0.97
+1131	822	Rohilkhand division	1879	0.91
+1132	823	Rohilkhand division	1879	0.73
+1142	877	Shahjahanpur, Moradabad	1883	0.89
+1143	879	Shahjahanpur, Moradabad	1883	0.98
+1144	880	Shahjahanpur, Moradabad	1883	1.0
+1145	881	Shahjahanpur, Moradabad	1883	0.98
+1146	883	Shahjahanpur, Moradabad	1883	0.95
+1153	1152	Karnal	1919	0.99
+1256	1152	Karnal	1919	0.99
+1257	1154	Karnal	1919	0.87
+1272	1258	Rawalpindi	1895	0.68
+1276	1259	Rawalpindi	1895	0.67
+1280	1263	Rawalpindi	1895	0.72
+1307	1223	Lyallpur	1905	0.74
+1308	1224	Lyallpur	1905	0.89
+1309	1225	Lyallpur	1905	0.74
+1310	1226	Lyallpur	1905	0.81
+1314	1238	Jhelam	1907	0.91
+1315	1239	Jhelam	1907	0.69
+1316	1240	Jhelam	1907	0.92
+1317	1241	Jhelam	1907	0.91
+1318	1242	Jhelam	1907	0.91
+1319	1243	Jhelam	1907	0.93
+1320	1244	Jhelam	1907	0.91
+1321	1245	Jhelam	1907	0.91
+1322	1246	Jhelam	1907	0.74
+1323	1247	Jhelam	1907	0.91
+1324	1248	Jhelam	1907	0.86
+1325	1249	Jhelam	1907	0.91
+1331	1230	Jhang	1884	0.71
+1332	1231	Jhang	1884	0.66
+1335	1235	Jhang	1884	0.85
+1337	1237	Jhang	1884	0.82
+1340	1200	Peshawar	1883	0.99
+1341	1201	Peshawar	1883	0.99
+1342	1202	Peshawar	1883	0.96
+1344	1204	Peshawar	1883	0.99
+1345	1205	Peshawar	1883	0.99
+1346	1206	Peshawar	1883	1.0
+1348	1208	Peshawar	1883	0.62
+1349	1209	Peshawar	1883	0.9
+1350	1210	Peshawar	1883	0.61
+1359	1192	Gujranwala	1883	0.98
+1363	1298	Jalandhar	1884	0.65
+1366	1174	Rawalpindi	1883	1.0
+1368	1177	Rawalpindi	1883	0.74
+1369	1178	Rawalpindi	1883	0.74
+1370	1179	Rawalpindi	1883	0.94
+1371	1180	Rawalpindi	1883	0.71
+1372	1181	Rawalpindi	1883	0.99
+1373	1182	Rawalpindi	1883	1.0
+1374	1183	Rawalpindi	1883	0.94
+1375	1184	Rawalpindi	1883	0.84
+1376	1185	Rawalpindi	1883	0.99
+1377	1186	Rawalpindi	1883	0.78
+1379	1188	Rawalpindi	1883	0.84
+1384	1165	Karnal	1884	0.74
+1385	1166	Karnal	1884	0.9
+1386	1167	Karnal	1884	0.99
+1387	1168	Karnal	1884	0.91
+1388	1213	Ambala	1883	0.92
+1389	1214	Ambala	1883	0.91
+1392	1216	Ambala	1883	0.64
+1393	1217	Ambala	1883	0.93
+1395	1171	Mooltan	1884	0.91
+1399	1198	Hoshiarpur	1884	0.97
+1595	1499	Shahabad	1966	0.99
+1597	1501	Shahabad	1966	0.99
+1598	1502	Shahabad	1966	0.99
+1599	1503	Shahabad	1966	0.99
+1600	1504	Shahabad	1966	0.96
+1601	1505	Shahabad	1966	1.0
+1603	1462	Raipur	1973	0.92
+1604	1463	Raipur	1973	0.74
+1605	1464	Raipur	1973	0.92
+1606	1465	Raipur	1973	0.86
+1608	1467	Raipur	1973	0.92
+1609	1468	Raipur	1973	0.92
+1610	1469	Raipur	1973	0.94
+1616	1553	Nasik	1977	0.9
+1617	1554	Nasik	1977	0.9
+1626	1552	Ratnagiri	1962	0.8
+1630	1507	Allahabad	1968	0.94
+1631	1508	Allahabad	1968	0.99
+1632	1509	Allahabad	1968	0.86
+1633	1510	Allahabad	1968	0.93
+1634	1511	Allahabad	1968	1.0
+1635	1512	Allahabad	1968	0.96
+1636	1513	Allahabad	1968	0.86
+1637	1514	Allahabad	1968	0.92
+1638	1515	Allahabad	1968	0.93
+1640	1517	Allahabad	1968	0.85
+1641	1518	Allahabad	1968	1.0
+1642	1519	Allahabad	1968	0.97
+1643	1520	Allahabad	1968	1.0
+1645	1522	Allahabad	1968	0.85
+1647	1400	Almora	1981	0.99
+1652	1409	Azamgarh	1989	0.85
+1664	1436	Faizabad	1960	0.99
+1668	1438	Faizabad	1960	0.99
+1670	1440	Faizabad	1960	0.72
+1671	1441	Faizabad	1960	0.66
+1672	1442	Faizabad	1960	0.69
+1673	1443	Faizabad	1960	0.82
+1677	1538	Gonda	1989	0.88
+1678	1539	Gonda	1989	0.96
+1679	1540	Gonda	1989	0.84
+1680	1541	Gonda	1989	0.99
+1684	1403	Gorakhpur	1987	0.99
+1688	1406	Gorakhpur	1987	0.94
+1693	1689	Moradabad	1968	0.81
+1694	1690	Moradabad	1968	0.95
+1695	1691	Moradabad	1968	0.99
+1697	1447	Saharanpur	1981	0.91
+1698	1448	Saharanpur	1981	0.76
+1699	1449	Saharanpur	1981	0.73
+1700	1450	Saharanpur	1981	0.92
+1701	1451	Saharanpur	1981	0.9
+1702	1452	Saharanpur	1981	0.89
+1703	1453	Saharanpur	1981	0.92
+1706	1483	Hooghly	1972	1.0
+1708	1485	Hooghly	1972	1.0
+1709	1486	Hooghly	1972	0.82
+1795	1588	Saran	1960	0.96
+1819	1738	Gaya	1957	0.66
+1825	1746	Gaya	1957	0.71
+1836	1771	Gaya	1957	0.71
+1842	1779	Gaya	1957	0.89
+1850	1433	Bhagalpur	1962	0.91
+1858	1480	Champaran	1960	0.95
+1859	1481	Champaran	1960	0.61
+1861	1411	Varanasi	1965	0.92
+1863	1413	Varanasi	1965	0.73

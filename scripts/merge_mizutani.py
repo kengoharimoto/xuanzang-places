@@ -11,6 +11,11 @@ for f in sorted(glob.glob("data/coded/mz_juan*.tsv")):
 def key(r):
     return [((0, int(x), "") if x.isdigit() else (1, 0, x)) for x in re.findall(r"\d+|[a-z]+", r.get("id") or "")]
 rows.sort(key=key)
+# the coded t_route keeps T2087's gaiji codes (mNNNNN, checked verbatim against data/ref/t2087_joined.txt by
+# scripts/check_quotes.py); the merged table writes the characters (data/text/gaiji_map.json)
+import json
+GAIJI = json.load(open("data/text/gaiji_map.json", encoding="utf-8"))
+for r in rows: r["t_route"] = re.sub(r"m\d{5}", lambda m: GAIJI.get(m.group(0), m.group(0)), r.get("t_route") or "")
 ids = collections.Counter(r["id"] for r in rows)
 probs += [f"duplicate id {k} ×{v}" for k, v in ids.items() if v > 1]
 for r in rows:

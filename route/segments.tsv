@@ -19,21 +19,21 @@ id	name_zh	level	parent	from_text	from_id	legs	li_lo	li_hi	bearing	parsed_from	t
 01.07.03	素葉水城	site	01.07	大清池	01.07.02	西北 500+	500	500	西北	t_route	行	visited	agreed	清池西北行五百餘里。至素葉水城。
 01.07.04	窣利	region										visited	agreed	
 01.07.05	千泉	site	01.07	素葉城		西 400+	400	400	西	route	行	visited	agreed	素葉城西。行四百餘里。至千泉。
-01.07.06	呾邏私城	site	01.07	千泉	01.07.05	西 140-150	140	150	西	t_route	行	visited	agreed	千泉西行百四五十里。至m03474邏私城。
+01.07.06	呾邏私城	site	01.07	千泉	01.07.05	西 140-150	140	150	西	t_route	行	visited	agreed	千泉西行百四五十里。至呾邏私城。
 01.07.06a	小孤城 (中國人)	site	01.07	呾邏私城	01.07.06	南 10+	10	10	南	t_route	行		unknown	南行十餘里。
 01.07.07	白水城	site	01.07	呾邏私城	01.07.06	西南 200+	200	200	西南	route	行	visited	disputed	從此西南。行二百餘里。至白水城。
 01.07.08	恭御城	site	01.07	白水城	01.07.07	西南 200+	200	200	西南	t_route	行	visited	unknown	西南行二百餘里。至恭御城。
-01.08	笯赤建國	country		恭御城	01.07.08	南 40-50	40	50	南	t_route	行	visited	uncertain	從此南行四五十里。至m25946（奴故反）赤建國。
+01.08	笯赤建國	country		恭御城	01.07.08	南 40-50	40	50	南	t_route	行	visited	uncertain	從此南行四五十里。至笯（奴故反）赤建國。
 01.09	赭時國	country		笯赤建國	01.08	西 200+	200	200	西	t_route	行	visited	agreed	從此西行二百餘里。至赭時國（唐言石國）。
 01.09a	葉河	site	01.09										agreed	
-01.10	㤄捍國	country		赭時國	01.09	東南 1000+	1000	1000	東南	t_route	至	hearsay	agreed	從此東南千餘里。至m10370（敷發反）捍國。
-01.11	窣堵利瑟那國	country		㤄捍國	01.10	西 1000+	1000	1000	西	t_route	行	visited	agreed	從此西行千餘里。至m25561堵利瑟那國。
+01.10	㤄捍國	country		赭時國	01.09	東南 1000+	1000	1000	東南	t_route	至	hearsay	agreed	從此東南千餘里。至㤄（敷發反）捍國。
+01.11	窣堵利瑟那國	country		㤄捍國	01.10	西 1000+	1000	1000	西	t_route	行	visited	agreed	從此西行千餘里。至窣堵利瑟那國。
 01.11a	大沙磧	site	01.11	窣堵利瑟那國	01.11						入		uncertain	從此西北。入大沙磧。
 01.12	颯秣建國	country		窣堵利瑟那國	01.11	西北 500+	500	500	西北	route	行	visited	agreed	行五百餘里。至颯秣建國（唐言康國）。
 01.12a	颯秣建國大都城	site	01.12										agreed	
 01.13	弭秣賀國	country		颯秣建國	01.12						至	hearsay	agreed	從此東南至弭秣賀國（唐言米國）。
-01.14	劫布呾那國	country		弭秣賀國 (Mizutani: really from 颯秣建)	01.13						至	hearsay	uncertain	從此北至劫布m03474那國（唐言曹國）。
-01.15	屈霜你迦國	country		劫布呾那國 (Life: from 颯秣建)	01.14	西 300+	300	300	西	t_route	至	visited	disputed	從此國西三百餘里。至屈（居勿反）霜（去聲）m01244迦國（唐言何國）。
+01.14	劫布呾那國	country		弭秣賀國 (Mizutani: really from 颯秣建)	01.13						至	hearsay	uncertain	從此北至劫布呾那國（唐言曹國）。
+01.15	屈霜你迦國	country		劫布呾那國 (Life: from 颯秣建)	01.14	西 300+	300	300	西	t_route	至	visited	disputed	從此國西三百餘里。至屈（居勿反）霜（去聲）爾迦國（唐言何國）。
 01.16	喝捍國	country		屈霜你迦國	01.15	西 200+	200	200	西	t_route	至	visited	disputed	從此國西二百餘里。至喝捍國（唐言東安國）。
 01.17	捕喝國	country		喝捍國	01.16	西 400+	400	400	西	t_route	至	visited	agreed	從此國西四百餘里至捕喝國（唐言中安國）。
 01.18	伐地國	country		捕喝國	01.17	西 400+	400	400	西	t_route	至	visited	disputed	從此國西四百餘里。至伐地國（唐言西安國）。
@@ -41,24 +41,24 @@ id	name_zh	level	parent	from_text	from_id	legs	li_lo	li_hi	bearing	parsed_from	t
 01.20	羯霜那國	country		颯秣建國	01.12	西南 300+	300	300	西南	t_route	行	visited	agreed	從颯秣建國西南行三百餘里。至羯霜（去聲）那國（唐言史國）。
 01.20.01	鐵門	site	01.20	羯霜那國	01.20	西南 200+ + 東南 300+	500	500	西南+東南	t_route	行	visited	agreed	從此西南行二百餘里入山。…東南山行三百餘里入鐵門。
 01.20.02	覩貨邏國	region									至	visited	agreed	出鐵門至覩貨邏國（舊曰吐火羅國。
-01.21	呾蜜國	country		覩貨邏 (鐵門)	01.20.01						至	hearsay	agreed	順縛蒭河北。下流至m03474蜜國。
+01.21	呾蜜國	country		覩貨邏 (鐵門)	01.20.01						至	hearsay	agreed	順縛蒭河北。下流至呾蜜國。
 01.22	赤鄂衍那國	country		呾蜜國	01.21						至	hearsay	agreed	東至赤鄂衍那國。
 01.23	忽露摩國	country		赤鄂衍那國	01.22						至	hearsay	agreed	東至忽露摩國。
 01.24	愉漫國	country		忽露摩國	01.23						至	hearsay	agreed	東至愉（朔倶反）漫國。
 01.25	鞠和衍那國	country		愉漫國	01.24						至	hearsay	agreed	西南臨縛蒭河。至鞠和衍那國
-01.26	鑊沙國	country		鞠和衍那國	01.25						至	hearsay	agreed	東至m40981沙國
+01.26	鑊沙國	country		鞠和衍那國	01.25						至	hearsay	agreed	東至鑊沙國
 01.27	珂咄羅國	country		鑊沙國	01.26						至	hearsay	agreed	東至珂咄羅國。
 01.28	拘謎陀國	country		珂咄羅國	01.27						至	hearsay	agreed	東接葱嶺。至拘謎（莫閉反）陀國。
 01.28a	活國	site	01.28										agreed	
 01.29	縛伽浪國	country		活國	01.28a						至	hearsay	agreed	活國西南至縛伽浪國。
-01.30	紇露悉泯健國	country		縛伽浪國	01.29						至	hearsay	uncertain	南至m27246露悉泯健國
+01.30	紇露悉泯健國	country		縛伽浪國	01.29						至	hearsay	uncertain	南至紇露悉泯健國
 01.31	忽懍國	country		紇露悉泯健國	01.30						至	unclear	agreed	西北至忽懍國。
 01.32	縛喝國	country		忽懍國	01.31						至	visited	agreed	西至縛喝國。
 01.32.01	納縛僧伽藍	site	01.32										agreed	城外西南。有納縛（唐言新）僧伽藍。
 01.32.02	提謂城・波利城	site	01.32	縛喝 大城	01.32	西北 50+ + 北 40+	90	90	西北+北	t_route	至		unknown	大城西北五十餘里。至提謂城。城北四十餘里有波利城。
 01.33	鋭秣陀國	country		縛喝 大城	01.32						至	visited	agreed	從大城西南入雪山阿。至鋭秣陀國。
 01.34	胡寔健國	country		鋭秣陀國	01.33						至	visited	uncertain	西南至胡寔健國。
-01.35	呾剌健國	country		胡寔健國	01.34						至	hearsay	disputed	西北至m03474剌健國。
+01.35	呾剌健國	country		胡寔健國	01.34						至	hearsay	disputed	西北至呾剌健國。
 01.36	揭職國	country		縛喝國	01.32	南 100+	100	100	南	t_route	行	visited	agreed	從縛喝國南行百餘里。至掲職國。
 01.37	梵衍那國	country		揭職國	01.36	東南 600+	600	600	東南	route	行	visited	agreed	行六百餘里。出覩貨邏國境。至梵衍那國。
 01.37.01	立佛石像	site	01.37										agreed	王城東北山阿。有立佛石像。
@@ -69,8 +69,8 @@ id	name_zh	level	parent	from_text	from_id	legs	li_lo	li_hi	bearing	parsed_from	t
 01.38	迦畢試國	country		梵衍那 (valley monastery)	01.37						行	visited	agreed	從此東行入雪山。踰越黒嶺。至迦畢試國。
 01.38.01	質子伽藍	site	01.38	大城	01.38	東 3-4	3	4	東	t_route			uncertain	大城東三四里。北山下有大伽藍。
 01.38.02	曷邏怙羅僧伽藍	site	01.38	大城	01.38	東南 30+	30	30	東南	t_route	至		uncertain	大城東南三十餘里。至曷邏怙羅僧伽藍。
-01.38.03	霫蔽多伐剌祠城	site	01.38	大城	01.38	南 40+	40	40	南	t_route	至		agreed	城南四十餘里。至m42434（胥立反）蔽多伐剌祠城。
-01.38.03a	阿路猱山	site	01.38	霫蔽多伐剌祠城	01.38.03	南 30+	30	30	南	t_route	至		unknown	m42434蔽多伐剌祠城南三十餘里。至阿路m20544（奴高反）山。
+01.38.03	霫蔽多伐剌祠城	site	01.38	大城	01.38	南 40+	40	40	南	t_route	至		agreed	城南四十餘里。至霫（胥立反）蔽多伐剌祠城。
+01.38.03a	阿路猱山	site	01.38	霫蔽多伐剌祠城	01.38.03	南 30+	30	30	南	t_route	至		unknown	霫蔽多伐剌祠城南三十餘里。至阿路猱（奴高反）山。
 01.38.04	大雪山 (龍池・迦膩色迦王伽藍)	site	01.38	王城	01.38	西北 200+	200	200	西北	t_route	至		uncertain	王城西北二百餘里。至大雪山。山頂有池。
 01.38.05	舊王伽藍	site	01.38										agreed	王城西北大河南岸。舊王伽藍。
 01.38.07	比羅娑洛山 (象堅窣堵波)	site	01.38										agreed	城西南有比羅娑洛山（唐言象堅）。
@@ -80,19 +80,19 @@ id	name_zh	level	parent	from_text	from_id	legs	li_lo	li_hi	bearing	parsed_from	t
 02.02a	濫波國大都城	site	02.02									visited	uncertain	
 02.03	那揭羅曷國	country		濫波國	02.02	東南 100+	100	100	東南	t_route	行	visited	uncertain	從此東南行百餘里。踰大嶺。濟大河。至那掲羅曷國（北印度境。
 02.03.01a	那揭羅曷國大都城	site	02.03									visited	agreed	
-02.03.02	燃燈佛受記窣堵波	site	02.03	capital	02.03	東 2	2	2	東	t_route		visited	uncertain	城東二里有m25561堵波。
+02.03.02	燃燈佛受記窣堵波	site	02.03	capital	02.03	東 2	2	2	東	t_route		visited	uncertain	城東二里有窣堵波。
 02.03.03	瞿波羅龍窟（佛影窟）	site	02.03	capital	02.03	西南 20+	20	20	西南	t_route		visited	uncertain	城西南二十餘里。
 02.03.05	醯羅城	site	02.03	capital	02.03	東南 30+	30	30	東南	t_route	至	visited	agreed	城東南三十餘里。至醯羅城。
 02.04	健馱邏國	country		那揭羅曷國 (醯羅城)	02.03.05	東南 500+	500	500	東南	route	行	visited	agreed	從此東南山谷中。行五百餘里。至健駄邏國（舊曰乾陀衛。
 02.04.01a	布路沙布邏	site	02.04									visited	agreed	
 02.04.02	卑鉢羅樹	site	02.04	capital	02.04	東南 8-9	8	9	東南	t_route		visited	unknown	城外東南八九里。有卑鉢羅樹。
-02.04.03	迦膩色迦大窣堵波	site	02.04									visited	agreed	卑鉢羅樹南。有m25561堵波。迦膩色迦王之所建也。
-02.04.06	迦膩色迦伽藍	site	02.04									visited	uncertain	大m25561堵波西。有故伽藍。迦膩色迦王之所建也。
+02.04.03	迦膩色迦大窣堵波	site	02.04									visited	agreed	卑鉢羅樹南。有窣堵波。迦膩色迦王之所建也。
+02.04.06	迦膩色迦伽藍	site	02.04									visited	uncertain	大窣堵波西。有故伽藍。迦膩色迦王之所建也。
 02.04.09	布色羯邏伐底城	site	02.04	迦膩色迦伽藍	02.04.06	東北 50+	50	50	東北	route	行	visited	agreed	迦膩色迦王伽藍東北。行五十餘里。渡大河。至布色羯邏伐底城。
-02.04.12	化鬼子母窣堵波	site	02.04	梵釋 stūpas		西北 50+	50	50	西北	t_route	行	visited	unknown	梵釋m25561堵波。西北行五十餘里。有m25561堵波。
-02.04.13	商莫迦菩薩窣堵波	site	02.04	Hārītī stūpa		北 50+	50	50	北	route	行	visited	unknown	化鬼子母北。行五十餘里。有m25561堵波。
+02.04.12	化鬼子母窣堵波	site	02.04	梵釋 stūpas		西北 50+	50	50	西北	t_route	行	visited	unknown	梵釋窣堵波。西北行五十餘里。有窣堵波。
+02.04.13	商莫迦菩薩窣堵波	site	02.04	Hārītī stūpa		北 50+	50	50	北	route	行	visited	unknown	化鬼子母北。行五十餘里。有窣堵波。
 02.04.14	跋虜沙城	site	02.04	商莫迦 site		東南 200+	200	200	東南	t_route	行	visited	agreed	商莫迦菩薩被害。東南行二百餘里。至跋虜沙城。
-02.04.14a	跋虜沙城北窣堵波	site	02.04									visited	disputed	城北有m25561堵波。
+02.04.14a	跋虜沙城北窣堵波	site	02.04									visited	disputed	城北有窣堵波。
 02.04.14b	跋虜沙城東門外窣堵波	site	02.04									visited	agreed	跋虜沙城東門外有一伽藍。
 02.04.15	彈多落迦山	site	02.04	跋虜沙城	02.04.14	東北 20+	20	20	東北	t_route	至	visited	agreed	跋虜沙城東北二十餘里。至彈多落迦山。
 02.04.16	獨角仙人窣堵波	site	02.04	the hermit's hut		西北 100+	100	100	西北	t_route	行	visited	unknown	仙廬西北行百餘里。越一小山至大山。
@@ -102,39 +102,39 @@ id	name_zh	level	parent	from_text	from_id	legs	li_lo	li_hi	bearing	parsed_from	t
 03.01	烏仗那國	country		烏鐸迦漢荼城	02.04.18	北 600+	600	600	北	route	行	visited	agreed	從烏鐸迦漢荼城。北踰山渉川。行六百餘里。至烏仗那國（唐言苑。
 03.01.01a	瞢揭釐城	site	03.01									visited	disputed	
 03.01.01b	蘇婆伐窣堵河	site	03.01									visited	agreed	
-03.01.02	忍辱仙人窣堵波	site	03.01	瞢揭釐城	03.01.01a	東 4-5	4	5	東	t_route		visited	unknown	m23653掲釐城東四五里。有m25561堵波。
-03.01.03	阿波邏羅龍泉	site	03.01	瞢揭釐城	03.01.01a	東北 250-260	250	260	東北	route	行	visited	unknown	m23653掲釐城東北。行二百五六十里入大山。至阿波邏羅龍泉。
+03.01.02	忍辱仙人窣堵波	site	03.01	瞢揭釐城	03.01.01a	東 4-5	4	5	東	t_route		visited	unknown	瞢掲釐城東四五里。有窣堵波。
+03.01.03	阿波邏羅龍泉	site	03.01	瞢揭釐城	03.01.01a	東北 250-260	250	260	東北	route	行	visited	unknown	瞢掲釐城東北。行二百五六十里入大山。至阿波邏羅龍泉。
 03.01.04	如來足迹石	site	03.01	the dragon spring		西南 30+	30	30	西南	t_route		visited	agreed	阿波邏羅龍泉西南三十餘里。
 03.01.04a	如來濯衣石	site	03.01								至	visited	agreed	順流而下三十餘里。至如來濯衣石。
-03.01.05	醯羅山	site	03.01	瞢揭釐城	03.01.01a	南 400+	400	400	南	t_route	至	visited	agreed	m23653掲釐城南四百餘里。至醯羅山。
-03.01.06	摩訶伐那伽藍	site	03.01	瞢揭釐城	03.01.01a	南 200+	200	200	南	t_route	至	visited	uncertain	m23653掲釐城南二百餘里。大山側。至摩訶伐那（唐言大林）伽藍。
+03.01.05	醯羅山	site	03.01	瞢揭釐城	03.01.01a	南 400+	400	400	南	t_route	至	visited	agreed	瞢掲釐城南四百餘里。至醯羅山。
+03.01.06	摩訶伐那伽藍	site	03.01	瞢揭釐城	03.01.01a	南 200+	200	200	南	t_route	至	visited	uncertain	瞢掲釐城南二百餘里。大山側。至摩訶伐那（唐言大林）伽藍。
 03.01.07	摩愉伽藍	site	03.01	摩訶伐那		西北 30-40	30	40	西北	route	至	visited	uncertain	摩訶伐那伽藍西北。下山三四十里。至摩愉（唐言豆）伽藍。
-03.01.08	尸毘迦王本生窣堵波	site	03.01	摩愉伽藍	03.01.07	西 60-70	60	70	西	t_route	至	visited	unknown	摩愉伽藍西六七十里。至m25561堵波。無憂王之所建也。
-03.01.09	薩裒殺地僧伽藍（珊尼羅闍川）	site	03.01	the 代鴿 site		西北 200+	200	200	西北	t_route	至	visited	agreed	代鴿西北二百餘里。入珊尼羅闍川。至薩m34299殺地（唐言蛇藥）僧伽藍。
+03.01.08	尸毘迦王本生窣堵波	site	03.01	摩愉伽藍	03.01.07	西 60-70	60	70	西	t_route	至	visited	unknown	摩愉伽藍西六七十里。至窣堵波。無憂王之所建也。
+03.01.09	薩裒殺地僧伽藍（珊尼羅闍川）	site	03.01	the 代鴿 site		西北 200+	200	200	西北	t_route	至	visited	agreed	代鴿西北二百餘里。入珊尼羅闍川。至薩裒殺地（唐言蛇藥）僧伽藍。
 03.01.09a	蘇摩大窣堵波	site	03.01									visited	uncertain	
-03.01.10	上軍王窣堵波	site	03.01	瞢揭釐城	03.01.01a	西南 60-70	60	70	西南	route	行	visited	agreed	m23653掲釐城西南。行六七十里。大河東有m25561堵波。
+03.01.10	上軍王窣堵波	site	03.01	瞢揭釐城	03.01.01a	西南 60-70	60	70	西南	route	行	visited	agreed	瞢掲釐城西南。行六七十里。大河東有窣堵波。
 03.01.10a	白象化石	site	03.01									visited	agreed	
-03.01.11	盧醯呾迦窣堵波	site	03.01	瞢揭釐城	03.01.01a	西 50+	50	50	西	t_route	至	visited	uncertain	m23653掲釐城西五十餘里。渡大河。至盧醯m03474迦（唐言赤）m25561堵波。
-03.01.12	遏部多石窣堵波	site	03.01	瞢揭釐城	03.01.01a	東北 30+	30	30	東北	t_route	至	visited	disputed	m23653掲釐城東北三十餘里。至遏部多（唐言奇特）石m25561堵波。
-03.01.13	觀自在菩薩精舍	site	03.01	遏部多 stūpa		西 30-40	30	40	西	route	至	visited	unknown	石m25561堵波西渡大河。三四十里。至一精舍。
+03.01.11	盧醯呾迦窣堵波	site	03.01	瞢揭釐城	03.01.01a	西 50+	50	50	西	t_route	至	visited	uncertain	瞢掲釐城西五十餘里。渡大河。至盧醯呾迦（唐言赤）窣堵波。
+03.01.12	遏部多石窣堵波	site	03.01	瞢揭釐城	03.01.01a	東北 30+	30	30	東北	t_route	至	visited	disputed	瞢掲釐城東北三十餘里。至遏部多（唐言奇特）石窣堵波。
+03.01.13	觀自在菩薩精舍	site	03.01	遏部多 stūpa		西 30-40	30	40	西	route	至	visited	unknown	石窣堵波西渡大河。三四十里。至一精舍。
 03.01.14	藍勃盧山	site	03.01	the Avalokiteśvara image		西北 150	150	150	西北	t_route	至	visited	uncertain	觀自在菩薩像西北百五十里。至藍勃廬山。
-03.01.16	達麗羅川	site	03.01	瞢揭釐城	03.01.01a	東北 1000+	1000	1000	東北	route	行	visited	agreed	m23653掲釐城東北。…行千餘里至達麗羅川。即烏仗那國舊都也。
+03.01.16	達麗羅川	site	03.01	瞢揭釐城	03.01.01a	東北 1000+	1000	1000	東北	route	行	visited	agreed	瞢掲釐城東北。…行千餘里至達麗羅川。即烏仗那國舊都也。
 03.02	鉢露羅國	country		達麗羅川	03.01.16	東 500+	500	500	東	route	行	hearsay	agreed	從此東行。踰嶺越谷。逆上信度河。飛梁棧道。履危渉險。經五百餘里。至鉢露羅國（北印度境。
-03.03	呾叉始羅國	country		鉢露羅 back to 烏鐸迦漢荼城	02.04.18					override: 南 3-4 is the width of the Indus, not a distance travelled (variants_02-04)	至	unclear	agreed	從此復還烏鐸迦漢荼城。南渡信度河。…渡河至m03474叉始羅國（北印度境。
+03.03	呾叉始羅國	country		鉢露羅 back to 烏鐸迦漢荼城	02.04.18					override: 南 3-4 is the width of the Indus, not a distance travelled (variants_02-04)	至	unclear	agreed	從此復還烏鐸迦漢荼城。南渡信度河。…渡河至呾叉始羅國（北印度境。
 03.03.01a	呾叉始羅國大都城	site	03.03									visited	agreed	
-03.03.02	醫羅鉢呾羅龍王池	site	03.03	capital	03.03	西北 70+	70	70	西北	t_route		visited	agreed	大城西北七十餘里。有醫羅鉢m03474羅龍王池。
-03.03.03	四大寶藏窣堵波	site	03.03	the dragon pool		東南 30+	30	30	東南	t_route	行	visited	agreed	龍池東南行三十餘里。入兩山間。有m25561堵波。
-03.03.04	捨頭窣堵波	site	03.03	capital	03.03	北 12-13	12	13	北	t_route		visited	agreed	城北十二三里有m25561堵波。
-03.03.06	拘浪拏太子窣堵波	site	03.03									visited	disputed	城外東南。南山之陰。有m25561堵波。
+03.03.02	醫羅鉢呾羅龍王池	site	03.03	capital	03.03	西北 70+	70	70	西北	t_route		visited	agreed	大城西北七十餘里。有醫羅鉢呾羅龍王池。
+03.03.03	四大寶藏窣堵波	site	03.03	the dragon pool		東南 30+	30	30	東南	t_route	行	visited	agreed	龍池東南行三十餘里。入兩山間。有窣堵波。
+03.03.04	捨頭窣堵波	site	03.03	capital	03.03	北 12-13	12	13	北	t_route		visited	agreed	城北十二三里有窣堵波。
+03.03.06	拘浪拏太子窣堵波	site	03.03									visited	disputed	城外東南。南山之陰。有窣堵波。
 03.04	僧訶補羅國	country		呾叉始羅國	03.03	東南 700+	700	700	東南	route	行	visited	agreed	從此東南。越諸山谷。行七百餘里。至僧訶補羅國（北印度境。
 03.04.01a	僧訶補羅國大都城	site	03.04									visited	uncertain	
-03.04.02	僧訶補羅城南窣堵波	site	03.04									visited	uncertain	城南不遠。有m25561堵波。
-03.04.03	僧訶補羅城東南石窣堵波	site	03.04	the city	03.04	東南 40-50	40	50	東南	t_route	至	visited	uncertain	城東南四五十里。至石m25561堵波。
-03.04.05	摩訶薩埵捨身處（大石門）	site	03.04			南 200+	200	200	南	t_route	行	visited	disputed	從此復還m03474叉始羅國北界。渡信度河。南東行二百餘里。度大石門。
-03.04.06	捨身北石窣堵波	site	03.04									visited	disputed	捨身北有石m25561堵波。
+03.04.02	僧訶補羅城南窣堵波	site	03.04									visited	uncertain	城南不遠。有窣堵波。
+03.04.03	僧訶補羅城東南石窣堵波	site	03.04	the city	03.04	東南 40-50	40	50	東南	t_route	至	visited	uncertain	城東南四五十里。至石窣堵波。
+03.04.05	摩訶薩埵捨身處（大石門）	site	03.04			南 200+	200	200	南	t_route	行	visited	disputed	從此復還呾叉始羅國北界。渡信度河。南東行二百餘里。度大石門。
+03.04.06	捨身北石窣堵波	site	03.04									visited	disputed	捨身北有石窣堵波。
 03.04.07	孤山伽藍	site	03.04	the stūpa		東 50+	50	50	東	t_route	行	visited	unknown	從此東行五十餘里。至孤山。
 03.05	烏剌尸國	country		孤山 (僧訶補羅國)	03.04.07	東南 500+	500	500	東南	route	行	visited	agreed	從此東南。行五百餘里。至烏剌尸國（北印度境。
-03.06	迦濕彌羅國	country		烏剌尸國	03.05	東南 1000+	1000	1000	東南	route	行	visited	agreed	從此東南。登山履險。度鐵橋。行千餘里。至迦濕彌羅國（舊曰m28367賓。
+03.06	迦濕彌羅國	country		烏剌尸國	03.05	東南 1000+	1000	1000	東南	route	行	visited	agreed	從此東南。登山履險。度鐵橋。行千餘里。至迦濕彌羅國（舊曰罽賓。
 03.06.01a	迦濕彌羅國大都城	site	03.06									visited	agreed	
 03.06.06	佛牙伽藍	site	03.06	the new city		東南 10+	10	10	東南	t_route		visited	uncertain	新城東南十餘里。故城北大山陽。有僧伽藍。
 03.06.06a	迦濕彌羅故城	site	03.06									visited	agreed	
@@ -143,7 +143,7 @@ id	name_zh	level	parent	from_text	from_id	legs	li_lo	li_hi	bearing	parsed_from	t
 03.06.09	索建地羅論師小伽藍	site	03.06	佛牙伽藍	03.06.06	東 10+	10	10	東	t_route		visited	uncertain	佛牙伽藍東十餘里。北山崖間。有小伽藍。
 03.06.10	商林伽藍	site	03.06	the royal city		西北 200+	200	200	西北	route	行	visited	unknown	王城西北。行二百餘里。至商林伽藍。
 03.06.11	大衆部伽藍	site	03.06	the city	03.06	西 140-150	140	150	西	t_route	行	visited	uncertain	城西行百四五十里。大河北接山南。至大衆部伽藍。
-03.07	半笯嗟國	country		the 大衆部伽藍 (迦濕彌羅)	03.06	西南 700+	700	700	西南	route	行	visited	agreed	從此西南。踰山渉險。行七百餘里。至半m25946（奴故反）嗟國（北印度境。
+03.07	半笯嗟國	country		the 大衆部伽藍 (迦濕彌羅)	03.06	西南 700+	700	700	西南	route	行	visited	agreed	從此西南。踰山渉險。行七百餘里。至半笯（奴故反）嗟國（北印度境。
 03.08	曷邏闍補羅國	country		半笯嗟國	03.07	東南 400+	400	400	東南	route	行	visited	agreed	從此東南。行四百餘里。至曷邏闍補羅國。
 04.01	磔迦國	country		曷邏闍補羅國 (juan 3)	03.08	東南 700+	700	700	東南	route	行	visited	uncertain	從此東南。下山渡水。行七百餘里。至磔迦國。
 04.01.02	奢羯羅故城	site	04.01	capital	04.01	西南 14-15	14	15	西南	t_route	至		disputed	大城西南十四五里。至奢羯羅故城。
@@ -154,93 +154,93 @@ id	name_zh	level	parent	from_text	from_id	legs	li_lo	li_hi	bearing	parsed_from	t
 04.04a	洛護羅國	site	04.04	屈露多國	04.04	北 1800-1900	1800	1900	北	t_route	至	hearsay	disputed	從此北路千八九百里。道路危險。踰山越谷。至洛護羅國。
 04.04b	秣邏娑國	site	04.04	洛護羅國	04.04a	北 2000+	2000	2000	北	t_route	至	hearsay	disputed	此北二千餘里。經途艱阻。寒風飛雪。至秣邏娑國（亦謂三波訶國。
 04.05	設多圖盧國	country		屈露多國	04.04	南 700+	700	700	南	t_route	行	visited	uncertain	遙自屈露多國。南行七百餘里。越大山。濟大河。至設多圖盧國（北印度境。
-04.06	波理夜呾羅國	country		設多圖盧國	04.05	西南 800+	800	800	西南	route	行	visited	agreed	復從此西南。行八百餘里。至波理夜m03474羅國（中印度境。
+04.06	波理夜呾羅國	country		設多圖盧國	04.05	西南 800+	800	800	西南	route	行	visited	agreed	復從此西南。行八百餘里。至波理夜呾羅國（中印度境。
 04.07	秣菟羅國	country		波理夜呾羅國	04.06	東 500+	500	500	東	t_route	行	visited	agreed	從此東行五百餘里。至秣菟羅國（中印度境。
 04.07.03	鄔波毱多伽藍	site	04.07	capital	04.07	東 5-6	5	6	東	t_route	行		disputed	城東行五六里。至一山伽藍。
 04.08	薩他泥濕伐羅國	country		秣菟羅國	04.07	東北 500+	500	500	東北	t_route	行	visited	agreed	從此東北行五百餘里。至薩他泥濕伐羅國（中印度境。
 04.08.02	福地	site	04.08										agreed	
 04.08.04	倶昏荼僧伽藍	site	04.08	capital	04.08	南 100+	100	100	南	t_route	行		unknown	城南行百餘里。至倶昏（去聲。）荼僧伽藍。
-04.09	窣祿勤那國	country		倶昏荼僧伽藍	04.08.04	東北 400+	400	400	東北	route	行	visited	agreed	從此東北。行四百餘里。至m25561祿勤那國（中印度境。
-04.09.03	殑伽河源	site	04.09	the Yamunā		東 800+	800	800	東	route	行		uncertain	閻牟那河東。行八百餘里至m16476伽河。河源廣三四里。
+04.09	窣祿勤那國	country		倶昏荼僧伽藍	04.08.04	東北 400+	400	400	東北	route	行	visited	agreed	從此東北。行四百餘里。至窣祿勤那國（中印度境。
+04.09.03	殑伽河源	site	04.09	the Yamunā		東 800+	800	800	東	route	行		uncertain	閻牟那河東。行八百餘里至殑伽河。河源廣三四里。
 04.10	秣底補羅國	country		窣祿勤那國 (Ganges source)	04.09						至	visited	disputed	渡河東岸。至秣底補羅國（中印度境。
-04.10.05	摩裕羅城	site	04.10									unclear	agreed	國西北境。m16476伽河東岸。有摩裕羅城。
+04.10.05	摩裕羅城	site	04.10									unclear	agreed	國西北境。殑伽河東岸。有摩裕羅城。
 04.11	婆羅吸摩補羅國	country		秣底補羅國 (摩裕羅城)	04.10.05	北 300+	300	300	北	t_route	行	visited	agreed	從此北行三百餘里。至婆羅吸摩補羅國（北印度境。
 04.11.02	蘇伐剌拏瞿呾羅國	site	04.11									hearsay	disputed	
 04.12	瞿毘霜那國	country		秣底補羅國	04.10	東南 400+	400	400	東南	t_route	行	unclear	agreed	從秣底補羅。東南行四百餘里。至瞿毘霜那國。
-04.13	堊醯掣呾羅國	country		瞿毘霜那國	04.12	東南 400+	400	400	東南	route	行	visited	agreed	自此東南。行四百餘里。至堊醯掣m03474邏國（中印度境。
-04.14	毘羅刪拏國	country		堊醯掣呾羅國	04.13	南 260-270	260	270	南	t_route	行	visited	agreed	自此南行二百六七十里。渡m16476伽河。西南至毘羅刪拏國（中印度境。
+04.13	堊醯掣呾羅國	country		瞿毘霜那國	04.12	東南 400+	400	400	東南	route	行	visited	agreed	自此東南。行四百餘里。至堊醯掣呾邏國（中印度境。
+04.14	毘羅刪拏國	country		堊醯掣呾羅國	04.13	南 260-270	260	270	南	t_route	行	visited	agreed	自此南行二百六七十里。渡殑伽河。西南至毘羅刪拏國（中印度境。
 04.15	劫比他國	country		毘羅刪拏國	04.14	東南 200+	200	200	東南	t_route	行	visited	disputed	從此東南行二百餘里。至劫比他國（舊謂僧迦舍國。
 04.15.02	三寶階	site	04.15	capital	04.15	東 20+	20	20	東	t_route			disputed	城東二十餘里。有大伽藍。
 05.01	羯若鞠闍國	country		劫比他國	04.15	東南 200	200	200	東南	route	行	visited	agreed	從此東南。行減二百里。至羯若鞠闍國（唐言曲女城國。
 05.01.09	納縛提婆矩羅城	site	05.01	capital	05.01	東南 100+	100	100	東南	route	行		disputed	大城東南。行百餘里。至納縛提婆矩羅城。
-05.02	阿踰陀國	country		納縛提婆矩羅城	05.01.09	東南 600+	600	600	東南	t_route	行	visited	disputed	自此東南行六百餘里。渡m16476伽河。南至阿踰陀國（中印度境。
-05.03	阿耶穆佉國	country		阿踰陀國 (Vasubandhu conversion monastery)	05.02	東 300+	300	300	東	t_route	行	visited	uncertain	從此東行三百餘里。渡m16476伽河。北至阿耶穆m00499國（中印度境。
-05.04	鉢邏耶伽國	country		阿耶穆佉國	05.03	東南 700+	700	700	東南	route	行	visited	agreed	從此東南。行七百餘里。渡m16476伽河南。閻牟那河北。至鉢邏耶伽國（中印度境。
+05.02	阿踰陀國	country		納縛提婆矩羅城	05.01.09	東南 600+	600	600	東南	t_route	行	visited	disputed	自此東南行六百餘里。渡殑伽河。南至阿踰陀國（中印度境。
+05.03	阿耶穆佉國	country		阿踰陀國 (Vasubandhu conversion monastery)	05.02	東 300+	300	300	東	t_route	行	visited	uncertain	從此東行三百餘里。渡殑伽河。北至阿耶穆佉國（中印度境。
+05.04	鉢邏耶伽國	country		阿耶穆佉國	05.03	東南 700+	700	700	東南	route	行	visited	agreed	從此東南。行七百餘里。渡殑伽河南。閻牟那河北。至鉢邏耶伽國（中印度境。
 05.04.03	天祠大樹	site	05.04										agreed	
 05.04.04	大施場	site	05.04										agreed	大城東。兩河交。廣十餘里。
-05.05	憍賞彌國	country		鉢邏耶伽國	05.04	西南 500+	500	500	西南	route	行	visited	agreed	從此西南。入大林中。惡獸野象。群暴行旅。非多徒黨。難以經渉。行五百餘里。至m11201賞彌國
+05.05	憍賞彌國	country		鉢邏耶伽國	05.04	西南 500+	500	500	西南	route	行	visited	agreed	從此西南。入大林中。惡獸野象。群暴行旅。非多徒黨。難以經渉。行五百餘里。至憍賞彌國
 05.05.03	具史羅長者故宅	site	05.05										agreed	城内東南隅。有故宅餘趾。
-05.05.06	迦奢布羅城	site	05.05	毒龍石窟		東北 700+	700	700	東北	route	行	unclear	uncertain	龍窟東北。大林中。行七百餘里。渡m16476伽河。北至迦奢布羅城。
-05.06	鞞索迦國	country		迦奢布羅城	05.05.06	北 170-180	170	180	北	override: T2087 has only 北 170-180 from 迦奢布羅城; the 東 500+ is the Life's leg from Kauśāmbī (variants_05-07)	行	visited	disputed	自此北行百七八十里。至m42889索（山格反）迦國（中印度境。
+05.05.06	迦奢布羅城	site	05.05	毒龍石窟		東北 700+	700	700	東北	route	行	unclear	uncertain	龍窟東北。大林中。行七百餘里。渡殑伽河。北至迦奢布羅城。
+05.06	鞞索迦國	country		迦奢布羅城	05.05.06	北 170-180	170	180	北	override: T2087 has only 北 170-180 from 迦奢布羅城; the 東 500+ is the Life's leg from Kauśāmbī (variants_05-07)	行	visited	disputed	自此北行百七八十里。至鞞索（山格反）迦國（中印度境。
 06.01	室羅伐悉底國	country		鞞索迦國	05.06	東北 500+	500	500	東北	route	行	visited	agreed	從此東北。行五百餘里。至室羅伐悉底國
 06.01.04	逝多林給孤獨園	site	06.01			南 5-6	5	6	南	t_route			unknown	城南五六里。有逝多林
 06.01.13	得眼林	site	06.01			西北 3-4	3	4	西北	t_route	至		unknown	伽藍西北三四里。至得眼林。
 06.01.14	迦葉波佛本生城	site	06.01			西北 60+	60	60	西北	t_route			disputed	大城西北六十餘里。有故城。
-06.02	劫比羅伐窣堵國	country		室羅伐悉底國 (Kāśyapa birthplace)	06.01	東南 500+	500	500	東南	route	行	visited	agreed	從此東南。行五百餘里。至劫比羅伐m25561堵國
+06.02	劫比羅伐窣堵國	country		室羅伐悉底國 (Kāśyapa birthplace)	06.01	東南 500+	500	500	東南	route	行	visited	agreed	從此東南。行五百餘里。至劫比羅伐窣堵國
 06.02.05	迦羅迦村馱佛本生城	site	06.02			南 50+	50	50	南	t_route	行		unknown	城南行五十餘里。至故城。
 06.02.05a	迦諾迦牟尼佛本生城	site	06.02			東北 30+	30	30	東北	route	行		disputed	迦羅迦村駄佛城東北。行三十餘里。至故大城。
-06.02.06	贍部樹蔭	site	06.02			東北 40+	40	40	東北	t_route			unknown	城東北四十餘里。有m25561堵波。
-06.02.08	尼拘律樹林 (尼拘盧陀僧伽藍)	site	06.02			南 3-4	3	4	南	t_route			unknown	城南三四里。尼拘律樹林。有m25561堵波。
-06.02.10	箭泉	site	06.02			東南 30+	30	30	東南	t_route			unknown	從此東南三十餘里。有小m25561堵波。
+06.02.06	贍部樹蔭	site	06.02			東北 40+	40	40	東北	t_route			unknown	城東北四十餘里。有窣堵波。
+06.02.08	尼拘律樹林 (尼拘盧陀僧伽藍)	site	06.02			南 3-4	3	4	南	t_route			unknown	城南三四里。尼拘律樹林。有窣堵波。
+06.02.10	箭泉	site	06.02			東南 30+	30	30	東南	t_route			unknown	從此東南三十餘里。有小窣堵波。
 06.02.11	臘伐尼林	site	06.02			東北 80-90	80	90	東北	route	行		agreed	箭泉東北。行八九十里。至臘伐尼林。
 06.02.12	臘伐尼林無憂王石柱・油河	site	06.02										agreed	
 06.03	藍摩國	country		劫比羅伐窣堵國 (Lumbinī, 油河)	06.02	東 200+	200	200	東	route	行	visited	disputed	從此東行曠野荒林中。二百餘里。至藍摩國
-06.03.03	太子迴駕・剃髮窣堵波	site	06.03			東 100+	100	100	東	route	行		uncertain	沙彌伽藍東。大林中。行百餘里。至大m25561堵波。
-06.03.04	尼拘盧陀林灰炭窣堵波	site	06.03			東南 180-190	180	190	東南	route	行		unknown	太子剃髮m25561堵波東南。曠野中。行百八九十里。至尼拘盧陀林。
+06.03.03	太子迴駕・剃髮窣堵波	site	06.03			東 100+	100	100	東	route	行		uncertain	沙彌伽藍東。大林中。行百餘里。至大窣堵波。
+06.03.04	尼拘盧陀林灰炭窣堵波	site	06.03			東南 180-190	180	190	東南	route	行		unknown	太子剃髮窣堵波東南。曠野中。行百八九十里。至尼拘盧陀林。
 06.04	拘尸那揭羅國	country		藍摩國 (ash stupa, Nyagrodha grove)	06.03						行	visited	disputed	自此東北。大林中行。…出此林已。至拘尸那掲羅國
 06.04.03	娑羅林 (如來寂滅之所)	site	06.04			西北 3-4	3	4	西北	t_route			agreed	城西北三四里。渡阿恃多伐底河
 06.04.03a	阿恃多伐底河	site	06.04			西北 3-4	3	4	西北	t_route			disputed	城西北三四里。渡阿恃多伐底河
-06.04.11	如來焚身窣堵波	site	06.04										disputed	城北渡河三百餘歩。有m25561堵波。是如來焚身之處。
-06.04.14	大邑聚 (羅怙羅)	site	06.04			西南 200+	200	200	西南	route	行		unknown	分舍利m25561堵波西南。行二百餘里。至大邑聚。
-07.01	婆羅痆斯國	country		拘尸那揭羅國 (Rāhula's village)	06.04						行	visited	agreed	復大林中。行五百餘里。至婆羅m22129（女黠反）斯國
-07.01.02	婆羅痆河西無憂王窣堵波・石柱	site	07.01										agreed	大城東北。婆羅m22129河西。有m25561堵波。
-07.01.02a	鹿野伽藍	site	07.01			東北 10+	10	10	東北	route	行		agreed	婆羅m22129河東北。行十餘里。至鹿野伽藍。
-07.01.03	初轉法輪石窣堵波	site	07.01										agreed	精舍西南。有石m25561堵波。無憂王建也。
+06.04.11	如來焚身窣堵波	site	06.04										disputed	城北渡河三百餘歩。有窣堵波。是如來焚身之處。
+06.04.14	大邑聚 (羅怙羅)	site	06.04			西南 200+	200	200	西南	route	行		unknown	分舍利窣堵波西南。行二百餘里。至大邑聚。
+07.01	婆羅痆斯國	country		拘尸那揭羅國 (Rāhula's village)	06.04						行	visited	agreed	復大林中。行五百餘里。至婆羅痆（女黠反）斯國
+07.01.02	婆羅痆河西無憂王窣堵波・石柱	site	07.01										agreed	大城東北。婆羅痆河西。有窣堵波。
+07.01.02a	鹿野伽藍	site	07.01			東北 10+	10	10	東北	route	行		agreed	婆羅痆河東北。行十餘里。至鹿野伽藍。
+07.01.03	初轉法輪石窣堵波	site	07.01										agreed	精舍西南。有石窣堵波。無憂王建也。
 07.01.04	慈氏菩薩受記窣堵波	site	07.01										agreed	
 07.01.06	三清池	site	07.01										uncertain	伽藍垣西。有一清池。周二百餘歩。
-07.01.10	五人迎佛窣堵波	site	07.01			西南 2-3	2	3	西南	t_route			agreed	伽藍西南二三里。有m25561堵波。高三百餘尺。
-07.01.11	救命池 (烈士池)	site	07.01			東 2-3	2	3	東	route	行		unknown	施鹿林東。行二三里。至m25561堵波。
-07.02	戰主國	country		婆羅痆斯國	07.01	東 300+	300	300	東	t_route	行	visited	agreed	從此順m16476伽河流。東行三百餘里。至戰主國
+07.01.10	五人迎佛窣堵波	site	07.01			西南 2-3	2	3	西南	t_route			agreed	伽藍西南二三里。有窣堵波。高三百餘尺。
+07.01.11	救命池 (烈士池)	site	07.01			東 2-3	2	3	東	route	行		unknown	施鹿林東。行二三里。至窣堵波。
+07.02	戰主國	country		婆羅痆斯國	07.01	東 300+	300	300	東	t_route	行	visited	agreed	從此順殑伽河流。東行三百餘里。至戰主國
 07.02.02	阿避陀羯剌拏僧伽藍	site	07.02			東 200+	200	200	東	route	行		agreed	大城東。行二百餘里。至阿避陀羯剌拏僧伽藍
-07.02.03	摩訶娑羅邑	site	07.02			東南 100+	100	100	東南	route	行		agreed	阿避陀羯剌拏伽藍東南。行百餘里。南渡m16476伽河。至摩訶娑羅邑。
-07.02.03a	那羅延天祠	site	07.02										uncertain	m16476伽河北。有那羅延天祠。
-07.02.03b	伏鬼窣堵波	site	07.02			東 30+	30	30	東	route	行		uncertain	那羅延天祠東。行三十餘里。有m25561堵波。
-07.02.04	瓶窣堵波	site	07.02			東南 100+	100	100	東南	route	行		unknown	從此東南。行百餘里。至一m25561堵波。
-07.03	吠舍釐國	country		戰主國 (瓶塔)	07.02.04	東北 140-150	140	150	東北	route	行	visited	agreed	從此東北。度m16476伽河。行百四五十里。至吠舍釐國
+07.02.03	摩訶娑羅邑	site	07.02			東南 100+	100	100	東南	route	行		agreed	阿避陀羯剌拏伽藍東南。行百餘里。南渡殑伽河。至摩訶娑羅邑。
+07.02.03a	那羅延天祠	site	07.02										uncertain	殑伽河北。有那羅延天祠。
+07.02.03b	伏鬼窣堵波	site	07.02			東 30+	30	30	東	route	行		uncertain	那羅延天祠東。行三十餘里。有窣堵波。
+07.02.04	瓶窣堵波	site	07.02			東南 100+	100	100	東南	route	行		unknown	從此東南。行百餘里。至一窣堵波。
+07.03	吠舍釐國	country		戰主國 (瓶塔)	07.02.04	東北 140-150	140	150	東北	route	行	visited	agreed	從此東北。度殑伽河。行百四五十里。至吠舍釐國
 07.03.02	宮城西北伽藍 (說毘摩羅詰經處)	site	07.03			西北 5-6	5	6	西北	t_route	至		unknown	宮城西北五六里。至一伽藍。
-07.03.03	吠舍釐王所建舍利窣堵波	site	07.03										agreed	舍利子證果東南。有m25561堵波。是吠舍釐王之所建也。
-07.03.04	無憂王窣堵波・石柱	site	07.03										agreed	其西北。有m25561堵波。無憂王之所建也。傍有石柱。
-07.03.06	毘摩羅詰故宅	site	07.03			東北 3	3	3	東北	t_route			unknown	伽藍東北三里。有m25561堵波。
-07.03.07	菴沒羅女園	site	07.03			北 3-4	3	4	北	t_route			unknown	伽藍北三四里。有m25561堵波。
-07.03.12	栗呫婆子別如來處	site	07.03			西北 50-60	50	60	西北	route	行		unknown	大城西北。行五六十里。至大m25561堵波。
+07.03.03	吠舍釐王所建舍利窣堵波	site	07.03										agreed	舍利子證果東南。有窣堵波。是吠舍釐王之所建也。
+07.03.04	無憂王窣堵波・石柱	site	07.03										agreed	其西北。有窣堵波。無憂王之所建也。傍有石柱。
+07.03.06	毘摩羅詰故宅	site	07.03			東北 3	3	3	東北	t_route			unknown	伽藍東北三里。有窣堵波。
+07.03.07	菴沒羅女園	site	07.03			北 3-4	3	4	北	t_route			unknown	伽藍北三四里。有窣堵波。
+07.03.12	栗呫婆子別如來處	site	07.03			西北 50-60	50	60	西北	route	行		unknown	大城西北。行五六十里。至大窣堵波。
 07.03.13	吠舍釐城西北故城 (摩訶提婆本生)	site	07.03			西北 200	200	200	西北	route			agreed	吠舍釐城西北。減二百里。有故城。
-07.03.14	七百賢聖結集窣堵波	site	07.03			東南 14-15	14	15	東南	t_route	行		disputed	城東南行十四五里。至大m25561堵波。
+07.03.14	七百賢聖結集窣堵波	site	07.03			東南 14-15	14	15	東南	t_route	行		disputed	城東南行十四五里。至大窣堵波。
 07.03.14a	韓若國	site	07.03										disputed	
 07.03.15	濕吠多補羅僧伽藍	site	07.03			南 80-90	80	90	南	route	行		uncertain	七百賢聖結集南。行八九十里。至濕吠多補羅僧伽藍。
-07.03.16	阿難陀分身窣堵波	site	07.03			東南 30+	30	30	東南	route	行		uncertain	濕吠多補羅伽藍東南。行三十餘里。m16476伽河南北岸。各有一m25561堵波。
+07.03.16	阿難陀分身窣堵波	site	07.03			東南 30+	30	30	東南	route	行		uncertain	濕吠多補羅伽藍東南。行三十餘里。殑伽河南北岸。各有一窣堵波。
 07.04	弗栗恃國	country		吠舍釐國 (Ānanda stupas)	07.03	東北 500+	500	500	東北	route	行	unclear	agreed	從此東北。行五百餘里。至弗栗恃國
 07.04.01a	占戍拏 (國大都城)	site	07.04										disputed	
 07.04.01b	大河	site	07.04										uncertain	
-07.04.03	度漁人東北故城	site	07.04			東北 100+	100	100	東北	route	行		unknown	度漁人東北。行百餘里。故城西有m25561堵波。
+07.04.03	度漁人東北故城	site	07.04			東北 100+	100	100	東北	route	行		unknown	度漁人東北。行百餘里。故城西有窣堵波。
 07.05	尼波羅國	country		弗栗恃國	07.04	西北 1400-1500	1400	1500	西北	t_route	至	hearsay	agreed	從此西北千四五百里。踰山入谷。至尼波羅國
-08.00	摩掲陀國	country		吠舍釐國 (return from 尼波羅)	07.03						至	visited	agreed	南渡m16476伽河。至摩掲陀國
+08.00	摩掲陀國	country		吠舍釐國 (return from 尼波羅)	07.03						至	visited	agreed	南渡殑伽河。至摩掲陀國
 08.02.01	波吒釐子城	site	08.00							override: 南 70+ is the old city's circumference (周七十餘里), not a leg (variants_08-11)		unclear	agreed	
 08.02.03	八萬四千塔 (無憂王堵波)	site	08.00									unclear	unknown	
 08.02.05	阿育王石柱	site	08.00									unclear	agreed	
 08.03.01	屈屈吒阿濫摩僧伽藍	site	08.00									unclear	unknown	故城東南。
 08.03.05	故伽藍 (華氏城西南)	site	08.00	波吒釐子城 SW corner	08.02.01	西南 200+	200	200	西南	t_route		unclear	unknown	城西南隅二百餘里。有伽藍餘跡。
-08.04.01	鞮羅擇迦伽藍	site	08.00	故伽藍 (華氏城西南)	08.03.05	西南 100+	100	100	西南	route	行	visited	agreed	故伽藍西南。行百餘里。至m42940羅擇迦伽藍。
-08.04.02	大山 (佛入定山)	site	08.00	鞮羅擇迦伽藍	08.04.01	西南 90+	90	90	西南	t_route	至	unclear	agreed	m42940羅擇迦伽藍西南九十餘里。至大山。
+08.04.01	鞮羅擇迦伽藍	site	08.00	故伽藍 (華氏城西南)	08.03.05	西南 100+	100	100	西南	route	行	visited	agreed	故伽藍西南。行百餘里。至鞮羅擇迦伽藍。
+08.04.02	大山 (佛入定山)	site	08.00	鞮羅擇迦伽藍	08.04.01	西南 90+	90	90	西南	t_route	至	unclear	agreed	鞮羅擇迦伽藍西南九十餘里。至大山。
 08.04.03	德慧伽藍	site	08.00	大山	08.04.02	西北 30+	30	30	西北	t_route		unclear	unknown	山西北三十餘里。山阿有伽藍。
 08.04.04	戒賢伽藍 (孤山)	site	08.00	徳慧伽藍		西南 20+	20	20	西南	t_route	至	unclear	unknown	徳慧伽藍西南二十餘里。至孤山。有伽藍。
 08.05.01	伽耶城	site	08.00	戒賢伽藍	08.04.04	西南 40-50	40	50	西南	route	行	visited	agreed	戒賢伽藍西南。行四五十里。渡尼連禪河。至伽耶城。
@@ -280,40 +280,40 @@ id	name_zh	level	parent	from_text	from_id	legs	li_lo	li_hi	bearing	parsed_from	t
 09.03.06	精舍 (如來三月說法處, 那爛陀伽藍西)	site	08.00									visited	uncertain	
 09.03.08	拘理迦邑	site	08.00	那爛陀伽藍		西南 8-9	8	9	西南	route	行	visited	unknown	伽藍西南。行八九里。至拘理迦邑。
 09.03.10	迦羅臂拏迦邑	site	08.00	the Bimbisāra-welcome stūpa		東南 20+	20	20	東南	route	行	visited	uncertain	頻毘娑羅王迎佛東南。行二十餘里。
-09.03.11	因陀羅勢羅窶訶山	site	08.00	舍利子門人堵波		東 30+	30	30	東	route	行	visited	agreed	舍利子門人m25561堵波東。行三十餘里。
+09.03.11	因陀羅勢羅窶訶山	site	08.00	舍利子門人堵波		東 30+	30	30	東	route	行	visited	agreed	舍利子門人窣堵波東。行三十餘里。
 09.03.13	迦布徳迦伽藍	site	08.00	因陀羅勢羅窶訶山	09.03.11	東北 150-160	150	160	東北	route	行	visited	agreed	因陀羅勢羅窶訶山東北。行百五六十里。
 09.03.14	孤山 (觀自在菩薩像)	site	08.00	迦布徳迦伽藍	09.03.13	南 2-3	2	3	南	route	至	visited	uncertain	迦布徳迦伽藍南。二三里至孤山。
 09.03.15	一伽藍 (孤山東南四十餘里)	site	08.00	孤山觀自在菩薩像	09.02.03b	東南 40+	40	40	東南	t_route	行	visited	disputed	孤山觀自在菩薩像東南行四十餘里。至一伽藍。
-09.03.15a	大聚落 (殑伽河南)	site	08.00	一伽藍	09.03.15	東北 70+	70	70	東北	route	行	visited	uncertain	伽藍東北。行七十餘里。m16476伽河南。至大聚落。
+09.03.15a	大聚落 (殑伽河南)	site	08.00	一伽藍	09.03.15	東北 70+	70	70	東北	route	行	visited	uncertain	伽藍東北。行七十餘里。殑伽河南。至大聚落。
 09.03.15b	落般膩羅聚落	site	08.00	the great village		東 100+	100	100	東	route	行	visited	disputed	從此東入山林中。行百餘里。至落般膩羅聚落。
 10.01	伊爛拏鉢伐多國	country		落般膩羅聚落	09.03.15b	東 200+	200	200	東	route	行	visited	agreed	從此東入大山林中。行二百餘里。至伊爛拏鉢伐多國
 10.01.02	伊爛拏山	site	10.01									visited	uncertain	
-10.01.04	小孤山	site	10.01								至	visited	agreed	國西界m16476伽河南。至小孤山
-10.02	瞻波國	country		伊爛拏鉢伐多國	10.01	東 300+	300	300	東	t_route	行	visited	agreed	從此順m16476伽河南岸。東行三百餘里。至瞻波國
-10.02.02a	孤嶼	site	10.02			東 140-150	140	150	東	t_route		visited	uncertain	城東百四五十里。m16476伽河南。水環孤嶼
-10.03	羯朱嗢祇羅國	country		瞻波國	10.02	東 400+	400	400	東	t_route	行	visited	agreed	自此東行四百餘里。至羯朱m04107祇羅國
+10.01.04	小孤山	site	10.01								至	visited	agreed	國西界殑伽河南。至小孤山
+10.02	瞻波國	country		伊爛拏鉢伐多國	10.01	東 300+	300	300	東	t_route	行	visited	agreed	從此順殑伽河南岸。東行三百餘里。至瞻波國
+10.02.02a	孤嶼	site	10.02			東 140-150	140	150	東	t_route		visited	uncertain	城東百四五十里。殑伽河南。水環孤嶼
+10.03	羯朱嗢祇羅國	country		瞻波國	10.02	東 400+	400	400	東	t_route	行	visited	agreed	自此東行四百餘里。至羯朱嗢祇羅國
 10.03.01a	大臺	site	10.03									visited	unknown	
-10.04	奔那伐彈那國	country		羯朱嗢祇羅國	10.03	東 600+	600	600	東	route	行	visited	agreed	自此東渡m16476伽河。行六百餘里。至奔那伐彈那國
+10.04	奔那伐彈那國	country		羯朱嗢祇羅國	10.03	東 600+	600	600	東	route	行	visited	agreed	自此東渡殑伽河。行六百餘里。至奔那伐彈那國
 10.04.02	跋始婆僧伽藍	site	10.04			西 20+	20	20	西	t_route		visited	agreed	城西二十餘里。有跋始婆僧伽藍
 10.05	迦摩縷波國	country		奔那伐彈那國	10.04	東 900+	900	900	東	t_route	行	visited	disputed	自此東行九百餘里。渡大河。至迦摩縷波國
-10.06	三摩呾吒國	country		迦摩縷波國	10.05	南 1200-1300	1200	1300	南	t_route	行	visited	disputed	從此南行千二三百里。至三摩m03474m03302國
-10.06.02a	室利差呾羅國	country	10.06									hearsay	uncertain	有室利差m03474羅國
+10.06	三摩呾吒國	country		迦摩縷波國	10.05	南 1200-1300	1200	1300	南	t_route	行	visited	disputed	從此南行千二三百里。至三摩呾吒國
+10.06.02a	室利差呾羅國	country	10.06									hearsay	uncertain	有室利差呾羅國
 10.06.02b	迦摩浪迦國	country	10.06									hearsay	uncertain	有迦摩浪迦國
 10.06.02c	墮羅鉢底國	country	10.06									hearsay	agreed	次東有墮羅鉢底國
 10.06.02d	伊賞那補羅國	country	10.06									hearsay	agreed	次東有伊賞那補羅國
 10.06.02e	摩訶瞻波國	country	10.06									hearsay	agreed	次東有摩訶瞻波國
 10.06.02f	閻摩那洲國	country	10.06									hearsay	uncertain	次西南有閻摩那洲國
-10.07	耽摩栗底國	country		三摩呾吒國	10.06	西 900+	900	900	西	t_route	行	visited	agreed	自三摩m03474m03302國。西行九百餘里。至m38049摩栗底國
+10.07	耽摩栗底國	country		三摩呾吒國	10.06	西 900+	900	900	西	t_route	行	visited	agreed	自三摩呾吒國。西行九百餘里。至耽摩栗底國
 10.08	羯羅拏蘇伐剌那國	country		耽摩栗底國	10.07	西北 700+	700	700	西北	route	行	visited	agreed	自此西北。行七百餘里。至羯羅拏蘇伐剌那國
 10.08.02	絡多末知僧伽藍	site	10.08									visited	agreed	大城側。有絡多末知僧伽藍
 10.09	烏荼國	country		羯羅拏蘇伐剌那國	10.08	西南 700+	700	700	西南	route	行	visited	disputed	從此西南。行七百餘里。至烏荼國
 10.09.02	補澁波祇釐僧伽藍	site	10.09									visited	agreed	國西南境。大山中。有補澁波祇釐僧伽藍
 10.09.02a	西北山伽藍	site	10.09									visited	agreed	
-10.09.03	折利呾羅城	site	10.09									visited	disputed	國東南境。臨大海濱。有折利m03474羅城
+10.09.03	折利呾羅城	site	10.09									visited	disputed	國東南境。臨大海濱。有折利呾羅城
 10.10	恭御陀國	country		折利呾羅城 (烏荼國)	10.09.03	西南 1200+	1200	1200	西南	route	行	visited	agreed	自此西南大林中。行千二百餘里。至恭御陀國
-10.11	羯𩜁伽國	country		恭御陀國	10.10	西南 1400-1500	1400	1500	西南	route	行	visited	disputed	從此西南。入大荒野。深林巨木。干霄蔽日。行千四五百里。至羯m44209（力甑反）伽國
+10.11	羯𩜁伽國	country		恭御陀國	10.10	西南 1400-1500	1400	1500	西南	route	行	visited	disputed	從此西南。入大荒野。深林巨木。干霄蔽日。行千四五百里。至羯𩜁（力甑反）伽國
 10.11.02a	大山嶺上石窣堵波	site	10.11									visited	uncertain	
-10.12	憍薩羅國	country		羯𩜁伽國	10.11	西北 1800+	1800	1800	西北	route	行	visited	disputed	自此西北。山林中行千八百餘里。至m11201薩羅國
+10.12	憍薩羅國	country		羯𩜁伽國	10.11	西北 1800+	1800	1800	西北	route	行	visited	disputed	自此西北。山林中行千八百餘里。至憍薩羅國
 10.12.05	跋邏末羅耆釐山	site	10.12			西南 300+	300	300	西南	t_route	至	visited	uncertain	國西南三百餘里。至跋邏末羅耆釐山
 10.13	案達羅國	country		跋邏末羅耆釐山 (憍薩羅國)	10.12.05	南 900+	900	900	南	t_route	行	visited	agreed	從此大林中。南行九百餘里。至案達羅國
 10.13.03	孤山	site	10.13			西南 20+	20	20	西南	route	行	visited	unknown	所行羅漢伽藍西南。行二十餘里。至孤山
@@ -323,9 +323,9 @@ id	name_zh	level	parent	from_text	from_id	legs	li_lo	li_hi	bearing	parsed_from	t
 10.14.03	大山 (阿素洛宮)	site	10.14									visited	unknown	
 10.15	珠利耶國	country		駄那羯磔迦國	10.14	西南 1000+	1000	1000	西南	route	行	visited	disputed	自此西南。行千餘里。至珠利耶國
 10.16	達羅毘荼國	country		珠利耶國	10.15	南 1500-1600	1500	1600	南	route	行	visited	agreed	從此南入林野中。行千五六百里。至達羅毘荼國
-10.17	秣羅矩吒國	country		達羅毘荼國	10.16	南 3000+	3000	3000	南	t_route	行	hearsay	agreed	自此南行三千餘里。至秣羅矩m03302國
+10.17	秣羅矩吒國	country		達羅毘荼國	10.16	南 3000+	3000	3000	南	t_route	行	hearsay	agreed	自此南行三千餘里。至秣羅矩吒國
 10.17.03	秣剌耶山	site	10.17									hearsay	uncertain	國南濱海。有秣剌耶山
-10.17.04	布呾洛迦山	site	10.17									hearsay	disputed	秣剌耶山東。有布m03474洛迦山
+10.17.04	布呾洛迦山	site	10.17									hearsay	disputed	秣剌耶山東。有布呾洛迦山
 10.17.04a	海畔城	site	10.17									hearsay	disputed	從此山東北。海畔有城。是往南海僧伽羅國路
 11.01	僧伽羅國	country		the port city NE of Potalaka (秣羅矩吒國)	10.17	東南 3000+	3000	3000	東南	t_route	至	hearsay	agreed	從此入海。東南可三千餘里。至僧伽羅國
 11.01.04a	摩訶毘訶羅	site	11.01									hearsay	agreed	
@@ -333,21 +333,21 @@ id	name_zh	level	parent	from_text	from_id	legs	li_lo	li_hi	bearing	parsed_from	t
 11.01.08a	那羅稽羅洲	country	11.01			南 1000	1000	1000	南	t_route	至	hearsay	unknown	國南浮海數千里。至那羅稽羅洲
 11.01.08b	孤島	site	11.01									hearsay	unknown	那羅稽羅洲西。浮海數千里孤島
 11.01.08c	大寶洲	site	11.01			西 1000	1000	1000	西	t_route	至	hearsay	unknown	國西浮海數千里。至大寶洲
-11.01.09	䮚迦山	site	11.01									hearsay	uncertain	國東南隅。有m44823（勒m39630反）迦山
+11.01.09	䮚迦山	site	11.01									hearsay	uncertain	國東南隅。有䮚（勒鄧反）迦山
 11.02	恭建那補羅國	country		達羅毘荼國	10.16	北 2000+	2000	2000	北	route	行	visited	disputed	自達羅毘荼國。北入林野中。歴孤城。過小邑。凶人結黨。作害羈旅。行二千餘里。至恭建那補羅國
 11.03	摩訶剌侘國	country		恭建那補羅國	11.02	西北 2400-2500	2400	2500	西北	route	行	visited	disputed	從此西北。入大林野。猛獸暴害。群盜兇殘。行二千四五百里。至摩訶剌侘國
 11.03.03	阿折羅伽藍 (東境大山)	site	11.03									visited	agreed	國東境有大山
-11.04	跋祿羯呫婆國	country		摩訶剌侘國	11.03	西 1000+	1000	1000	西	t_route	行	visited	agreed	自此西行千餘里。渡耐秣陀河。至跋祿羯m03446（昌葉反）婆國
+11.04	跋祿羯呫婆國	country		摩訶剌侘國	11.03	西 1000+	1000	1000	西	t_route	行	visited	agreed	自此西行千餘里。渡耐秣陀河。至跋祿羯呫（昌葉反）婆國
 11.05	摩臘婆國	country		跋祿羯呫婆國	11.04	西北 2000+	2000	2000	西北	route	行	visited	disputed	從此西北。行二千餘里。至摩臘婆國
 11.05.03	婆羅門邑	site	11.05			西北 20+	20	20	西北	t_route	至	visited	unknown	大城西北二十餘里。至婆羅門邑
-11.06	阿吒釐國	country		摩臘婆國	11.05	西北 2400-2500	2400	2500	西北	t_route	行	unclear	uncertain	自此西南入海交。西北行二千四五百里。至…阿m03302釐國
-11.07	契吒國	country		摩臘婆國	11.05					override: all three texts read 三日 (three days); 三百餘里 is only the Song/Yuan/Ming reading, which Cunningham reread as 千三百 (variants_08-11)	行	visited	disputed	從摩臘婆國西北。行三日至契m03302國
+11.06	阿吒釐國	country		摩臘婆國	11.05	西北 2400-2500	2400	2500	西北	t_route	行	unclear	uncertain	自此西南入海交。西北行二千四五百里。至…阿吒釐國
+11.07	契吒國	country		摩臘婆國	11.05					override: all three texts read 三日 (three days); 三百餘里 is only the Song/Yuan/Ming reading, which Cunningham reread as 千三百 (variants_08-11)	行	visited	disputed	從摩臘婆國西北。行三日至契吒國
 11.08	伐臘毘國	country		契吒國	11.07	北 1000+	1000	1000	北	t_route	行	visited	agreed	從此北行千餘里。至伐臘毘國
 11.09	阿難陀補羅國	country		伐臘毘國	11.08	西北 700+	700	700	西北	route	行	visited	disputed	自此西北。行七百餘里。至阿難陀補羅國
 11.10	蘇剌侘國	country		伐臘毘國	11.08	西 500+	500	500	西	t_route	行	visited	agreed	從伐臘毘國。西行五百餘里。至蘇剌侘國
-11.10.02	郁鄯多山	site	11.10									visited	agreed	有郁m39655多山
+11.10.02	郁鄯多山	site	11.10									visited	agreed	有郁鄯多山
 11.11	瞿折羅國	country		伐臘毘國	11.08	北 1800+	1800	1800	北	override: T2087 has 北 1800+ from Valabhī; the 東北 1800 is the Life's leg from Surāṣṭra (variants_08-11)	行	visited	disputed	從伐臘毘國。北行千八百餘里。至瞿折羅國
-11.12	鄔闍衍那國	country		瞿折羅國	11.11	東南 2800+	2800	2800	東南	route	行	visited	agreed	從此東南。行二千八百餘里。至m39570闍衍那國
+11.12	鄔闍衍那國	country		瞿折羅國	11.11	東南 2800+	2800	2800	東南	route	行	visited	agreed	從此東南。行二千八百餘里。至鄔闍衍那國
 11.13	擲枳陀國	country		鄔闍衍那國	11.12	東北 1000+	1000	1000	東北	route	行	visited	disputed	從此東北。行千餘里。至擲枳陀國
 11.14	摩醯濕伐羅補羅國	country		擲枳陀國	11.13	北 900+	900	900	北	t_route	行	visited	disputed	從此北行九百餘里。至摩醯濕伐羅補羅國
 11.15	信度國	country		摩醯濕伐羅補羅國	11.11	北 1900+	1900	1900	北	override: T2087 starts the leg after 從此還至瞿折羅國 (back to Gurjara), and T2088 has 從瞿折羅北野…二千里許; the 1900 li run from Gurjara, not Maheśvarapura (variants_08-11)	行	visited	agreed	從此還至瞿折羅國。復北行荒野險磧。經千九百餘里。渡信度大河。至信度國
@@ -360,7 +360,7 @@ id	name_zh	level	parent	from_text	from_id	legs	li_lo	li_hi	bearing	parsed_from	t
 11.20.02a	拂懍國	country	11.20									hearsay	agreed	西北接拂懍國
 11.20.02b	西女國	country	11.20									hearsay	unknown	拂懍國西南海島。有西女國
 11.21	臂多勢羅國	country		阿點婆翅羅國	11.18	北 700+	700	700	北	override: T2087 has 北 700+; the 東北 700+ is the Life's leg from Laṅgala (variants_08-11)	行	visited	agreed	自阿點婆翅羅國北行七百餘里。至臂多勢羅國
-11.22	阿軬荼國	country		臂多勢羅國	11.21	東北 300+	300	300	東北	route	行	visited	uncertain	從此東北。行三百餘里。至阿m38246荼國
+11.22	阿軬荼國	country		臂多勢羅國	11.21	東北 300+	300	300	東北	route	行	visited	uncertain	從此東北。行三百餘里。至阿軬荼國
 11.23	伐剌拏國	country		阿軬荼國	11.22	東北 900+	900	900	東北	route	行	visited	uncertain	從此東北。行九百餘里。至伐剌拏國
 11.23.02	稽疆那國	country	11.23									hearsay	agreed	從此國西。接稽疆那國
 12.01	漕矩吒國	country										visited	uncertain	
@@ -370,16 +370,16 @@ id	name_zh	level	parent	from_text	from_id	legs	li_lo	li_hi	bearing	parsed_from	t
 12.02	弗栗恃薩儻那國	country		漕矩吒國	12.01	北 500+	500	500	北	t_route	行	visited	disputed	從此北行五百餘里。至弗栗恃薩儻那國。
 12.02a	護苾那	site	12.02										agreed	
 12.02b	婆羅犀那大嶺	site	12.02	弗栗恃薩儻那國	12.02						至	visited	uncertain	從此國東北。踰山渉川。越迦畢試國邊城小邑凡數十所。至大雪山婆羅犀那大嶺。
-12.03	安呾羅縛國	country		婆羅犀那大嶺	12.02b						行	visited	agreed	又三日行。方得下嶺。至安m03474羅縛國。
+12.03	安呾羅縛國	country		婆羅犀那大嶺	12.02b						行	visited	agreed	又三日行。方得下嶺。至安呾羅縛國。
 12.04	闊悉多國	country		安呾羅縛國	12.03	西北 400+	400	400	西北	route	行	visited	uncertain	從此西北。入谷踰嶺。度諸小城。行四百餘里。至闊悉多國。
 12.05	活國	country		闊悉多國	12.04	西北 300+	300	300	西北	route	行	visited	agreed	從此西北。踰山越谷。度諸城邑。行三百餘里。至活國。
 12.05a	葱嶺	site	12.05	活國	01.28a						入	visited	agreed	從此東入葱嶺。
-12.06	瞢健國	country		葱嶺 entry (活國)	01.28a	東 100+	100	100	東	t_route	行	visited	uncertain	東行百餘里。至m23653健國。
+12.06	瞢健國	country		葱嶺 entry (活國)	01.28a	東 100+	100	100	東	t_route	行	visited	uncertain	東行百餘里。至瞢健國。
 12.07	阿利尼國	country		瞢健國	12.06						至	hearsay	agreed	北至阿利尼國。
 12.08	曷邏胡國	country		阿利尼國	12.07						至	hearsay	agreed	東至曷邏胡國。
-12.09	訖栗瑟摩國	country		瞢健國	12.06	東 300+	300	300	東	route	行	hearsay	agreed	從m23653健國。東踰峻嶺。越洞谷。歴數川城。行三百餘里。至訖栗瑟摩國。
+12.09	訖栗瑟摩國	country		瞢健國	12.06	東 300+	300	300	東	route	行	hearsay	agreed	從瞢健國。東踰峻嶺。越洞谷。歴數川城。行三百餘里。至訖栗瑟摩國。
 12.10	鉢利曷國	country		訖栗瑟摩國	12.09						至	hearsay	unknown	北至鉢利曷國。
-12.11	呬摩呾羅國	country		訖栗瑟摩國	12.09	東 300+ + 東 300+	600	600	東+東	route	行	visited	uncertain	從訖栗瑟摩國。東踰山越川。行三百餘里。至m03447摩m03474羅國。
+12.11	呬摩呾羅國	country		訖栗瑟摩國	12.09	東 300+ + 東 300+	600	600	東+東	route	行	visited	uncertain	從訖栗瑟摩國。東踰山越川。行三百餘里。至呬摩呾羅國。
 12.12	鉢鐸創那國	country		呬摩呾羅國	12.11	東 200+	200	200	東	t_route	行	visited	agreed	東谷行二百餘里。至鉢鐸創那國。
 12.12a	鉢鐸創那國大都城	site	12.12										uncertain	
 12.13	淫薄健國	country		鉢鐸創那國	12.12	東南 200+	200	200	東南	route	行	visited	agreed	從此東南。山谷中行二百餘里。至淫薄健國。
@@ -391,18 +391,18 @@ id	name_zh	level	parent	from_text	from_id	legs	li_lo	li_hi	bearing	parsed_from	t
 12.17	商彌國	country		達摩悉鐵帝國	12.15						至	hearsay	agreed	越達摩悉鐵帝國大山之南。至商彌國。
 12.17.02	波謎羅川	site	12.17	the NE border of 商彌國	12.17	東北 700+	700	700	東北	route	行	visited	agreed	國境東北。踰山越谷。經危履險。行七百餘里。至波謎羅川。
 12.17.02a	大龍池	site	12.17										agreed	
-12.18	朅盤陀國	country		波謎羅川	12.17.02	東南 500+	500	500	東南	route	行	visited	agreed	自此川中。東南登山履險。路無人里。唯多氷雪。行五百餘里。至m14311盤陀國。
+12.18	朅盤陀國	country		波謎羅川	12.17.02	東南 500+	500	500	東南	route	行	visited	agreed	自此川中。東南登山履險。路無人里。唯多氷雪。行五百餘里。至朅盤陀國。
 12.18.02	孤峰	site	12.18										agreed	
 12.18.04	大石崖	site	12.18	the capital	12.18	東南 300+	300	300	東南	t_route	行	visited	unknown	城東南行三百餘里。至大石崖。
 12.18.05	奔穰舍羅	site	12.18	大石崖	12.18.04	東北 200+	200	200	東北	route	行	visited	disputed	大崖東北。踰嶺履險。行二百餘里。至奔（逋論反）穰舍羅（唐言福舍）。
-12.19	烏鎩國	country		奔穰舍羅	12.18.05	東 800+	800	800	東	route	行	visited	disputed	從此東下葱嶺東岡。登危嶺。越洞谷。谿徑險阻。風雪相繼。行八百餘里。出葱嶺至烏m40768國。
+12.19	烏鎩國	country		奔穰舍羅	12.18.05	東 800+	800	800	東	route	行	visited	disputed	從此東下葱嶺東岡。登危嶺。越洞谷。谿徑險阻。風雪相繼。行八百餘里。出葱嶺至烏鎩國。
 12.19.02	大山	site	12.19	the capital	12.19	西 200+	200	200	西	t_route	至	unclear	disputed	城西二百餘里至大山。
-12.20	佉沙國	country		烏鎩國	12.19	北 500+	500	500	北	t_route	行	visited	agreed	從此北行山磧曠野五百餘里。至m00499沙國
+12.20	佉沙國	country		烏鎩國	12.19	北 500+	500	500	北	t_route	行	visited	agreed	從此北行山磧曠野五百餘里。至佉沙國
 12.21	斫句迦國	country		佉沙國	12.20	東南 500+	500	500	東南	route	行	visited	agreed	從此東南。行五百餘里。濟徙多河。踰大沙嶺。至斫句迦國
 12.21.02	斫句迦國南境大山	site	12.21									unclear	unknown	國南境有大山。
 12.22	瞿薩旦那國	country		斫句迦國	12.21	東 800+	800	800	東	route	行	visited	agreed	從此而東。踰嶺越谷。行八百餘里。至瞿薩旦那國
 12.22.03	毗盧折那伽藍	site	12.22			南 10+	10	10	南	t_route		unclear	agreed	王城南十餘里。
-12.22.04	瞿室[m44209]伽山	site	12.22			西南 20+	20	20	西南	t_route		unclear	agreed	王城西南二十餘里。有瞿室m44209伽山（唐言牛角）。
+12.22.04	瞿室[m44209]伽山	site	12.22			西南 20+	20	20	西南	t_route		unclear	agreed	王城西南二十餘里。有瞿室𩜁伽山（唐言牛角）。
 12.22.05	地迦婆縛那伽藍	site	12.22			西南 10+	10	10	西南	t_route		unclear	agreed	王城西南十餘里。有地迦婆縛那伽藍。
 12.22.06	勃伽夷城	site	12.22			西 300+	300	300	西	t_route	行	visited	uncertain	王城西行三百餘里。至勃伽夷城。
 12.22.07	鼠壤墳	site	12.22			西 150-160	150	160	西	t_route		visited	agreed	王城西百五六十里。大沙磧正路中。有堆阜。並鼠壤墳也。
@@ -411,9 +411,9 @@ id	name_zh	level	parent	from_text	from_id	legs	li_lo	li_hi	bearing	parsed_from	t
 12.22.10	龍鼓池側伽藍	site	12.22										agreed	
 12.22.10a	大河（城東南百餘里）	site	12.22			東南 100+	100	100	東南	t_route		unclear	agreed	城東南百餘里。
 12.22.11	敗軍之地	site	12.22			東 300+	300	300	東	t_route		unclear	unknown	王城東三百餘里。大荒澤中。
-12.22.12	媲摩城	site	12.22	the battlefield		東 30+	30	30	東	t_route	行	visited	disputed	戰地東行三十餘里。至m06571摩城。
+12.22.12	媲摩城	site	12.22	the battlefield		東 30+	30	30	東	t_route	行	visited	disputed	戰地東行三十餘里。至嫓摩城。
 12.22.12a	曷勞落迦城	site	12.22									hearsay	agreed	
-12.22.13	尼攘城	site	12.22	媲摩川		東 200+	200	200	東	route	行	visited	agreed	m06571摩川東入沙磧。行二百餘里。至尼攘城。
+12.22.13	尼攘城	site	12.22	媲摩川		東 200+	200	200	東	route	行	visited	agreed	嫓摩川東入沙磧。行二百餘里。至尼攘城。
 12.22.15	覩貨邏故國	site	12.22	尼攘城	12.22.13	東 400+	400	400	東	route	行	visited	agreed	行四百餘里。至覩貨邏故國。
 12.22.16	折摩馱那故國	site	12.22	覩貨邏故國	12.22.15	東 600+	600	600	東	t_route	行	visited	agreed	從此東行六百餘里。至折摩駄那故國。即沮末地也。
 12.22.17	納縛波故國	site	12.22	折摩馱那故國	12.22.16	東北 1000+	1000	1000	東北	t_route	行	visited	agreed	復此東北行千餘里。至納縛波故國。即樓蘭地也。

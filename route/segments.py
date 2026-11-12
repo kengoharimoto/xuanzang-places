@@ -63,7 +63,7 @@ def en_legs(route):
     return out
 out = []
 for r in rows:
-    t = re.sub(r"m\d{5}", "□", r["t_route"])
+    t = re.sub(r"m\d{5}", "□", r["t_route"])   # any code left unmapped (merge_mizutani.py writes the characters)
     t = re.sub(r"（.*?）", "", t)
     legs = [(d, cn(n), bool(e)) for d, n, e in LEG.findall(t)]
     legs = [(d, v, e) for d, v, e in legs if v and v[0] > 0]

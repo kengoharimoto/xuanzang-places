@@ -146,8 +146,8 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
   Internet Archive OCR, in `data/ref/baluch/` (gitignored). The identifiers are listed in
   `../yoga-gazetteers/regions/data/selection.tsv` (BAL*). They are coded as B001–B055 in `data/coded/gaz_batch10.tsv`.
 - **Recent scholarship, 1985–2026** (`data/LITERATURE.md`, `data/literature.tsv`, `data/LIT_INSTRUCTIONS.md`). A
-  bibliography of 454 items built region by region in English, Japanese, Chinese and European languages; 103
-  items read and coded (`data/coded/lit_batch1-17.tsv`, 243 relevant rows, quotes checked; Tsuchiya 2010 OCR'd with Google Vision), shown on the map
+  bibliography of 456 items built region by region in English, Japanese, Chinese and European languages; 104
+  items read and coded (`data/coded/lit_batch1-18.tsv`, 246 relevant rows, quotes checked; Tsuchiya 2010 OCR'd with Google Vision), shown on the map
   as "Recent scholarship (since 1985)" and folded into the notes as **Recent scholarship.** paragraphs. Among them:
   Falk 2017 and Davis et al. 2016 (Kapilavastu, Rāmagrāma), Kuwayama's papers of 1985–99 and Miyamoto 2012–18
   (Afghanistan, Tokharistan), Naiki 2015 and 2021 (Chanaka Dheri, Taxila), Dar & Hameed 2018 (Siṃhapura), Verardi 2012
@@ -195,7 +195,9 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      the Sanskrit names of disputed places.
    - **What is coded:** each passage's author, place, site, stance and evidence, with a verbatim quote checked by
      `scripts/check_quotes_asr.py`.
-4. **Gazetteers** (`data/coded/gaz_batch*`). 1,128 relevant passages.
+4. **Gazetteers** (`data/coded/gaz_batch*`). 1,188 relevant hits, of which 219 are second scans of a passage in another
+   copy of the same volume (`data/gaz_duplicates.tsv`, `scripts/gaz_duplicates.py`): 969 distinct passages, each counted
+   once per place.
 5. **Route tests** (`route/README.md`). The li is calibrated at about 0.24 km in a straight line, or 0.29–0.32 km by
    road. Every leg is tested, rival sites are scored, and the figures are compared across T2087, T2088 and the *Life*.
    The li does not behave as a fixed ground measure. In India the figures look like day stages (yojanas, which
@@ -217,8 +219,10 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      passages 424 stood, 57 had minor slips and 3 major errors (Suvarṇagotra's queens, 世以女稱國, read as a name;
      the Buddha at Ahicchattra preaching *to* the dragon king, read as being one), all corrected; the Chinese decides,
      Li is a reader. Where CBETA's text is corrupt and Li and Ji's text agree on another edition's reading, the English
-     follows that reading and says so (中安國 for 守安國, 01.17; 增損 for 繒絹, 01.05; 如榻 for 如塔, 03.01.05), and 兩三月 /
-     兩安居 are read 雨 ("the rains"), the text's own idiom (唯雨三月, 05.01). Li's own misreadings (mostly directions and
+     follows that reading and says so (中安國 for 守安國, 01.17; 增損 for 繒絹, 01.05; 如榻 for 如塔, 03.01.05: all Song,
+     Yuan and Ming readings in the Taishō apparatus), and 兩三月 / 兩安居 are read 雨 ("the rains"), the text's own idiom
+     (唯雨三月, 05.01), on the apparatus's Song 雨 (08.06.30, 09.02.16) and the Sixi print's 雨 (07.01.10); at 09.02.03a
+     no edition is recorded with 雨. Li's own misreadings (mostly directions and
      numbers) are listed in `data/text/LI_CHECK.md`.
 7. **Religious affiliation** (`data/religion/religion_*.tsv`; checked by `scripts/check_religion.py`).
    - **What is coded:** for each place, from its own passage, the monasteries and monks, the schools, the deva temples,
@@ -485,7 +489,7 @@ These are medium- or high-confidence proposals that move away from Mizutani; how
 ## Limits
 
 - **Later scholarship.** Mizutani is the 1971 state of the question; Ji (1985) brings it to about 1980. Of the work
-  since then, 103 items have been read (`data/LITERATURE.md`); the searches ran out of budget part way, so
+  since then, 104 items have been read (`data/LITERATURE.md`); the searches ran out of budget part way, so
   coverage is uneven, and the key books and paywalled reports (Coningham et al. 2018 on Tilaurakot, Srivastava 1996,
   the Rissho reports and the full Kansai report on Maheth (only its KAKEN summary is read), Kuwayama's Rinsen volumes, Errington 1993 (Errington 2017 is read, and Errington 1993 is known through Khan Khattak 2019's quotation), Saran 2008 on Juafardih, the Telhara
   report) are listed there as wanted. Works cited at second hand are marked "not read" in the notes. *Indian
