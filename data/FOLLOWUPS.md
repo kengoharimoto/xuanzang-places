@@ -169,7 +169,12 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
 - **Baoti Pind point** (03.03.03): resolved: moved to Cunningham's 5 miles E of Hasan Abdal on the Haripur road (8 km at 77°); the note now gives his own dating of the stūpa after c. 500.
 - **Li Rongxi's translation** (1996, BDK; `data/ref/lit/C/li1996_great_tang_record.txt`) is in hand but not coded; it
   could be added to the authorities like Beal and Watters.
-- **Rows marked "to verify"/"from memory"** in `data/literature.tsv` need checking against a catalogue before citing.
+- **Rows marked "to verify"/"from memory"** in `data/literature.tsv`: checked against catalogues (CiNii, Crossref, CORE,
+  repositories) on 2026-11-12: 24 confirmed, 11 partly, 4 not found (Durrani et al. on Gor Khuttree, Lin on Kucha and
+  on Shahetur, the Langudi reports); brackets remain only on what could not be confirmed. Corrections include Rahman
+  (Bogra) 2000, Sharma et al. (Sirpur) 2017, Patnaik (Lalitagiri) MASI 112, 2016, Deeg 2024 in *Acta Asiatica
+  Varsoviensia* 37 (open PDF), Olivieri 2017 in JAC 40(1). The Ghafoor et al. 2021 paper is on one Buddha image: its
+  row's summary needs re-checking. Keys keep their original years.
 - **Kolhua pillar point** (07.03.04): resolved: the pillar at the ASI Excavation Branch's 26°00'51" N 85°06'32" E
   (printed 87°), the tank (07.03.x1) 20 m S of it (IAR 1990–91).
 - **From the 2026-11-12 coding (lit_batch8-11):** Tarzi's 2008 find of a c. 19 m reclining Buddha in the Eastern
