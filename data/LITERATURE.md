@@ -49,9 +49,8 @@ On 2026-11-12 every `oa, not fetched` item was tried again with curl from the Ma
 403/406), not a dead link, so a browser should get most of them. Direct links found on the landing pages:
 - **Heidelberg (Anubis bot check):** ANP 1 `https://digi.hadw-bw.de/view/anp1text/download.pdf`; ANP 2, 3 and 5 the
   same with `anp2`, `anp3`, `anp5`; Härtel's *Sonkh* at `https://hasp.ub.uni-heidelberg.de/catalog/book/934`.
-- **Persée (403):** Tarzi 2007 `https://www.persee.fr/docAsPDF/crai_0065-0536_2007_num_151_2_87960.pdf`; Bernard et al.
-  2006 `https://www.persee.fr/docAsPDF/crai_0065-0536_2006_num_150_2_87126.pdf`. Sims-Williams 2002 still needs its
-  article page (the row gives only the CRAI collection).
+- **Persée (403):** Bernard et al. 2006 `https://www.persee.fr/docAsPDF/crai_0065-0536_2006_num_150_2_87126.pdf`.
+  (Tarzi 2007 and Sims-Williams 2002 were downloaded in a browser on 2026-11-12, with Jokura et al. 2017.)
 - **Brill (403):** Deeg 2025 is chapter BP000009 of *Early Āndhradeśa* II:
   `https://brill.com/downloadpdf/edcollchap-oa/book/9789004744097/BP000009.pdf`; the whole volume is
   `https://brill.com/downloadpdf/edcollbook-oa/title/73131.pdf`.
@@ -65,9 +64,6 @@ On 2026-11-12 every `oa, not fetched` item was tried again with curl from the Ma
 
 - [high] `amanbaeva2022_akbeshim2018`: Bakit Amanbaeva & Yamauchi Kazuya (eds.), Ak-Beshim (Suyab) 2018 (帝京大学シルクロード学術調査団調査研究報告). Teikyo University Research Institute of Cultural Properties & Institute of History and Cultural Heritage, NAS Kyrgyz Republic, 2022. 217 pp. — https://teikyo-u.repo.nii.ac.jp/record/2003929/files/2018s.pdf
 - [high] `jokura2016_akbeshim_rabat`: Jokura Masayoshi, Yamafuji Masatoshi, Nawabi Yama, Yamauchi Kazuya & Bakit Amanbaeva, 「キルギス共和国アク・ベシム遺跡の発掘（2015年秋期）調査」, WASEDA RILAS JOURNAL 4 (2016): 43-71. — https://waseda.repo.nii.ac.jp/record/35967/files/RILAS_4_Jokura.pdf
-- [high] `jokura2017_akbeshim_finds`: Jokura Masayoshi, Yamafuji Masatoshi, Nawabi Yama, Denda Ikuo, Yamauchi Kazuya & Bakit Amanbaeva, 「キルギス共和国アク・ベシム遺跡の発掘（2015年秋期）調査出土遺物の研究―土器・磚・杜懐宝碑編―」, WASEDA RILAS JOURNAL 5 (2017): 145-175. — https://www.waseda.jp/flas/rilas/
-- [high] `simswilliams2002_guzgan`: Nicholas Sims-Williams, "Nouveaux documents bactriens du Guzgan (note d'information)", CRAI 146(4) (2002 [2004]): 1047–1058. — https://www.persee.fr/collection/crai
-- [high] `tarzi2007_bamiyan_crai`: Zémaryalaï Tarzi, "Bāmiyān (Afghanistan): récentes fouilles françaises (2002–2006) par la Mission Z. Tarzi", Comptes rendus de l'Académie des Inscriptions et Belles-Lettres 151(1) (2007). — https://doi.org/10.3406/crai.2007.87960
 - [high] `yamauchi2018_akbeshim2017`: Yamauchi Kazuya, Kushihara Kōichi & Mochizuki Hidekazu, 「2017年度アク・ベシム遺跡発掘調査報告」, 帝京大学文化財研究所研究報告 17 (2018): 121-168. — https://teikyo-u.repo.nii.ac.jp/
 - [high] `yamauchi2022_akbeshim2016_2017`: Yamauchi Kazuya, Kushihara Kōichi, D. Sorokin, Nakayama Chieko & Mochizuki Hidekazu, アク・ベシム（スイヤブ）2016・2017 (帝京大学シルクロード学術調査団調査研究報告1). 帝京大学文化財研究所 / キルギス共和国国立科学アカデミー, 2022. 235 pp. (English/Russian ed.: Amanbaeva & Yamauchi (eds.), Ak-Beshim (Suyab) 2016-2017, 2023, 242 pp.) — https://teikyo-u.repo.nii.ac.jp/record/2003927/files/2016-2017s.pdf
 - [high] `yamauchi2025_suiye_construction`: Yamauchi Kazuya, 「砕葉鎮城の建設とアク・ベシム遺跡シャフリスタン1の都市プランの変化」, 帝京大学文化財研究所研究報告 23 (2025): 255-296. — https://teikyo-u.repo.nii.ac.jp/
