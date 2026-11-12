@@ -186,7 +186,7 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      (09.02.x2), with Deepak Anand's candidates; and, from the Life, Huṣkapura (Ushkur, 03.06.x1) and the Jayendra
      monastery in Srinagar (03.06.x2). The great stūpa by the big village belongs to 09.03.15a. All are low. The
      local DharmaMitra stack was down, so their ten passages were translated by Claude and checked against the
-     Chinese (model column `claude-opus-5-5 (DharmaMitra unavailable)`).
+     Chinese (model column `claude-opus-5-5 (DharmaMitra unavailable)`; the map labels them so).
 2. **Authorities** (`data/coded/auth_*.tsv`).
 3. **Survey, Annual Reports, *Indian Archaeology*, EI/CII.**
    - **Files:** `data/coded/asr_batch*`, `ar_batch*`, `iar_batch*`, `epig_batch*`; indexes in `data/*_hits.tsv`;
@@ -212,6 +212,14 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      the published English.
    - **Recurring errors:** invented glosses (such as "mūla-gandha-kuṭī" for 精舍, "Pravaragiri" for any great
      mountain), misread names, and reversed roles in the legends.
+   - **A third check, against Li Rongxi** (*The Great Tang Dynasty Record of the Western Regions*, BDK 1996;
+     `data/LI_REVIEW_INSTRUCTIONS.md`, `review3_li_*.tsv`, quotes checked by `scripts/check_li_quotes.py`): of 484
+     passages 424 stood, 57 had minor slips and 3 major errors (Suvarṇagotra's queens, 世以女稱國, read as a name;
+     the Buddha at Ahicchattra preaching *to* the dragon king, read as being one), all corrected; the Chinese decides,
+     Li is a reader. Where CBETA's text is corrupt and Li and Ji's text agree on another edition's reading, the English
+     follows that reading and says so (中安國 for 守安國, 01.17; 增損 for 繒絹, 01.05; 如榻 for 如塔, 03.01.05), and 兩三月 /
+     兩安居 are read 雨 ("the rains"), the text's own idiom (唯雨三月, 05.01). Li's own misreadings (mostly directions and
+     numbers) are listed in `data/text/LI_CHECK.md`.
 7. **Religious affiliation** (`data/religion/religion_*.tsv`; checked by `scripts/check_religion.py`).
    - **What is coded:** for each place, from its own passage, the monasteries and monks, the schools, the deva temples,
      the other traditions, the kind of site, and the state of Buddhism.

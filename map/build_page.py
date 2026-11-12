@@ -72,7 +72,7 @@ for r in rd("data/places.tsv"):
         "ep": r.get("epig", "")[:1500], "epN": int(r.get("epig_n") or 0), "epEv": r.get("epig_evidence", "")[:1500],
         "li": r.get("lit", "")[:1500], "liN": int(r.get("lit_n") or 0), "liEv": r.get("lit_evidence", "")[:1500],
         "ia": r.get("iar", "")[:1500], "iaN": int(r.get("iar_n") or 0), "iaEv": r.get("iar_evidence", "")[:1500],
-        "tsrc": r.get("translation_source", ""), "tchk": r.get("translation_check", ""),
+        "tsrc": r.get("translation_source", ""), "tchk": r.get("translation_check", ""), "tli": r.get("translation_li", ""),
         "rel": {k: r.get(k, "") for k in ("sangharamas", "monks", "schools", "deva_temples", "other", "site_affiliation", "buddhism")},
         "tref": r.get("t2087_ref", ""), "zht": r.get("t2087_text", ""), "en": r.get("translation", ""),
         "lat": lat, "lon": lon, "prec": sv.get("precision", "") or c.get("precision", ""), "modern": sv.get("label", "") or c.get("modern_name", ""), "cnote": c.get("note", ""),

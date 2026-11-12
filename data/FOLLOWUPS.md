@@ -210,3 +210,9 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
   name and no rival site, as do Prayāga (05.04) and Vārāṇasī (07.01); the rule's site evidence includes excavation, and
   lowering these two alone would be inconsistent. A strict rule (a dated 7th-century find or an inscription naming the
   place) would have to be applied to all such cities at once.
+- **Li Rongxi check (2026-11-12):** all 484 translated passages checked against Li (README method 6; 3 major, 57 minor
+  corrected). Two choices to review: 06.04.14 follows Li's 即路 ("set off") against the printed 攝衣即語, since the
+  next line (今何無言) shows the monk had not spoken; and the CBETA corrections adopted from other editions (01.05,
+  01.17, 03.01.05, and 兩 → 雨 at 07.01.10, 08.06.30, 09.02.03a, 09.02.16) should be checked against the Taishō
+  apparatus. The Life translations were not checked against Li (his translation of the Life is a separate book).
+
