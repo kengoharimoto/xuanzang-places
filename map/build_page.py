@@ -89,5 +89,6 @@ for r in rd("data/places.tsv"):
 t = open("map/template.html", encoding="utf-8").read()
 t = t.replace("/*PLACES*/[]", json.dumps(out, ensure_ascii=False, separators=(",", ":")))
 t = t.replace("/*GEO*/{}", open("map/geo_small.json").read())
+t = t.replace("/*AREAS*/{}", open("map/country_areas.json", encoding="utf-8").read())   # scripts/country_areas.py
 open("map/xuanzang_places.html", "w", encoding="utf-8").write(t)
 print(len(t), "bytes;", len(out), "places;", sum(1 for p in out if p["lat"] is not None), "mapped;", sum(1 for p in out if p["note"]), "with notes")

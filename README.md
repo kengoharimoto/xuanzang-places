@@ -294,6 +294,18 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      "Mizutani's points" layer draws his sites where they differ.
    - **Map filters and layers:** confidence, visit status, religious affiliation, K. Harimoto's notes, rival sites
      with their route fit, Mizutani's points, juan and level.
+   - **Country areas (approximate):** a layer that gives each country an extent from its own circuit figure
+     (`scripts/country_areas.py`, `data/country_areas.tsv`, `map/country_areas.json`). For 134 of the 148 countries
+     the text gives a circuit (國周N里; Bāmiyān and Khwārazm give breadth and length instead). The circuit is scaled
+     by the straight-line km per li of its juan's route legs (`route/li_regions.tsv`), so the Deccan's inflated
+     figures shrink as its distances do, and turned into an area at 0.75 of a circle's compactness. From the
+     study's point for the capital, every country then grows over land at once, nearest cells first, until it
+     reaches that area or 1.6 times its radius; neighbours meet half-way, and the sea stops growth. 130 are drawn:
+     87 at their full area, 43 hemmed in by neighbours, the sea or the cap. Not drawn: 14 with no circuit (the six
+     hearsay countries of SE Asia, Rāmagrāma and Kuśinagara, which are "deserted", Laṅgala's "several thousand li
+     each way", the hearsay Fulin, the Women's country, 稽疆那, Nārikela island, Wakhan) and 4 whose capital has no
+     point. The areas show size and rough reach, not borders: the capital need not have been central, mountains and
+     rivers named as borders are not yet used, and the circuits themselves are rounded figures.
    - **Place panel:** the study's identification first, then Mizutani, the authorities, every source, the Xiyu ji
      and Life passages with translations, and the note.
 ## What the recent scholarship changes
@@ -474,7 +486,8 @@ These are medium- or high-confidence proposals that move away from Mizutani; how
 - `data/*_hits.tsv`: indexes.
 - `data/coords.tsv`: coordinates.
 - `route/`: route tests.
-- `map/`: the map page and its builder.
+- `map/`: the map page and its builder; `map/country_areas.json` is the country-areas layer (`scripts/country_areas.py`).
+- `data/country_areas.tsv`: each country's circuit as the text gives it, the km per li used, the target and drawn area.
 - `scripts/`: OCR join, text build, extraction, translation, quote checkers, indexes, merge and join.
 - `data/*INSTRUCTIONS*.md`, `data/NOTES_REVISION_*.md`: coding instructions.
 - `PLAN.md`: the original plan.
@@ -482,5 +495,5 @@ These are medium- or high-confidence proposals that move away from Mizutani; how
 Rebuild:
 
 ```
-python3 -I scripts/merge_mizutani.py && python3 -I scripts/build_places.py && python3 -I scripts/build_study_view.py && python3 -I scripts/place_from_text.py && python3 -I scripts/build_study_view.py && python3 -I map/build_geo.py && python3 -I map/build_page.py
+python3 -I scripts/merge_mizutani.py && python3 -I scripts/build_places.py && python3 -I scripts/build_study_view.py && python3 -I scripts/place_from_text.py && python3 -I scripts/build_study_view.py && python3 -I map/build_geo.py && python3 -I scripts/country_areas.py && python3 -I map/build_page.py
 ```

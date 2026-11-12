@@ -45,6 +45,9 @@ input[type=search] { min-width: 0; width: 14em; }
 .mapbox { background: var(--sea); border: 1px solid var(--rule); border-radius: 4px; position: relative; overflow: hidden; }
 #map { display: block; width: 100%; height: auto; aspect-ratio: 1.25; max-width: 100%; touch-action: none; }
 .land { fill: var(--land); stroke: var(--land-stroke); stroke-width: .6; vector-effect: non-scaling-stroke; }
+.area { fill-opacity: .16; stroke-opacity: .55; stroke-width: .9; stroke-dasharray: 4 3; vector-effect: non-scaling-stroke; cursor: pointer; }
+.area.secure { fill: var(--secure); stroke: var(--secure); } .area.probable { fill: var(--probable); stroke: var(--probable); } .area.open { fill: var(--open); stroke: var(--open); }
+.area:hover { fill-opacity: .3; }
 .route { fill: none; stroke: var(--indigo); stroke-width: 1.1; stroke-opacity: .45; stroke-dasharray: 3 3; vector-effect: non-scaling-stroke; }
 .pt { stroke: var(--paper); stroke-width: .8; vector-effect: non-scaling-stroke; cursor: pointer; }
 .pt.sel { stroke: var(--ink); stroke-width: 2.4; }
@@ -93,7 +96,7 @@ footer { margin-top: 18px; color: var(--muted); font-size: 12px; max-width: 90ch
 <div class="wrap">
 <header>
   <h1>Xuanzang's Places</h1>
-  <p>Every country and site of the <i>Da Tang Xiyu ji</i> (大唐西域記) on one map. The points follow the standard identifications, those of 季羨林 et al., <i>Da Tang Xiyu ji jiaozhu</i> (1985), with Mizutani Shinjō's (1971) where Ji is silent, wherever the evidence agrees with them; a dark ring marks the places where the study departs from the standard (a different site, or open between the standard's and another), a light ring where it refines the standard or proposes a site the standard lacks. The evidence weighed: the earlier authorities (Julien, Vivien de Saint-Martin, Cunningham, Majumdar, Beal, Watters, Dey); the Archaeological Survey's reports, Annual Reports and <i>Indian Archaeology – A Review</i>; <i>Epigraphia Indica</i> and the CII; the British Indian gazetteers; the <i>Life</i>; route tests on Xuanzang's distances and bearings; and the scholarship since 1985. Colour shows the study's confidence, taken from the notes' assessments: <b>secure</b>, <b>probable</b>, <b>open</b>, or <b>untested</b> where the study has not assessed the standard view. The "Mizutani's points" layer shows his sites where the map's point differs.</p>
+  <p>Every country and site of the <i>Da Tang Xiyu ji</i> (大唐西域記) on one map. The points follow the standard identifications, those of 季羨林 et al., <i>Da Tang Xiyu ji jiaozhu</i> (1985), with Mizutani Shinjō's (1971) where Ji is silent, wherever the evidence agrees with them; a dark ring marks the places where the study departs from the standard (a different site, or open between the standard's and another), a light ring where it refines the standard or proposes a site the standard lacks. The evidence weighed: the earlier authorities (Julien, Vivien de Saint-Martin, Cunningham, Majumdar, Beal, Watters, Dey); the Archaeological Survey's reports, Annual Reports and <i>Indian Archaeology – A Review</i>; <i>Epigraphia Indica</i> and the CII; the British Indian gazetteers; the <i>Life</i>; route tests on Xuanzang's distances and bearings; and the scholarship since 1985. Colour shows the study's confidence, taken from the notes' assessments: <b>secure</b>, <b>probable</b>, <b>open</b>, or <b>untested</b> where the study has not assessed the standard view. The "Mizutani's points" layer shows his sites where the map's point differs. The "country areas" layer gives each country an approximate extent: grown over land from its capital until it covers the area its stated circuit (周N里, at the juan's km per li from the route tests) implies, meeting its neighbours half-way. It shows size and rough reach, not historical borders.</p>
 </header>
 
 <div class="controls" role="group" aria-label="Filters">
@@ -117,6 +120,7 @@ footer { margin-top: 18px; color: var(--muted); font-size: 12px; max-width: 90ch
   <span id="affchips"></span>
   <button class="chip" id="aff-clear" aria-pressed="false" title="Show all affiliations">clear</button>
   <button class="chip" id="kh-only" aria-pressed="false" title="Only places with K. Harimoto's observations">K. Harimoto's notes</button>
+  <button class="chip" id="area-on" aria-pressed="false" title="Approximate extent of each country, grown from its capital to the area its stated circuit (周N里) implies; not historical borders">country areas (approx.)</button>
   <button class="chip" id="sp-on" aria-pressed="false" title="Show Mizutani's points where the study places a site differently">Mizutani's points</button>
   <button class="chip" id="alt-on" aria-pressed="false" title="Show the rival sites proposed by other authorities, linked to the place">rival sites</button>
 </div>
@@ -143,6 +147,7 @@ footer { margin-top: 18px; color: var(--muted); font-size: 12px; max-width: 90ch
 <script>
 const P = /*PLACES*/[];
 const GEO = /*GEO*/{};
+const AREAS = /*AREAS*/{};
 const AUTHN = {julien:"Julien", vivien:"Vivien de Saint-Martin", cunningham:"Cunningham (1871)", majumdar:"Majumdar (1924)", beal:"Beal (1884)", watters:"Watters (1904–05)", dey:"Dey (1927)", ji:"Ji Xianlin et al. (1985)"};
 const CHANGE = {strengthened:"Gazetteers support Mizutani", weakened:"Gazetteers weaken Mizutani", alternative:"Better-supported alternative", "new-candidate":"New candidate from the gazetteers", none:"Mizutani stands"};
 const BIG = new Set(["alternative","new-candidate","weakened"]);
@@ -164,6 +169,7 @@ proj.fitExtent([[30, 30], [W-30, H-30]], core);
 const path = d3.geoPath(proj);
 const feats = GEO.countries.map(c => ({type:"Feature", properties:{name:c.name}, geometry:{type:"MultiPolygon", coordinates: c.rings.map(r => [r])}}));
 g.append("g").selectAll("path").data(feats).join("path").attr("class","land").attr("d", path);
+const areag = g.append("g");
 const route = P.filter(p => p.level === "country" && p.visit === "visited" && p.lat != null).map(p => proj([p.lon, p.lat]));
 g.append("path").attr("class","route").attr("d", d3.line()(route));
 const spg = g.append("g"), altg = g.append("g"), halos = g.append("g"), pts = g.append("g"), lbls = g.append("g");
@@ -171,6 +177,7 @@ let k = 1;
 const unitPx = () => (svg.node().getBoundingClientRect().width || W) / W;   // screen px per map unit
 const zoom = d3.zoom().scaleExtent([0.6, 24]).on("zoom", e => { k = e.transform.k; g.attr("transform", e.transform); draw(); });
 svg.call(zoom);
+document.getElementById("area-on").onclick = e => { state.area = !state.area; e.currentTarget.setAttribute("aria-pressed", state.area); draw(); };
 document.getElementById("sp-on").onclick = e => { state.sp = !state.sp; e.currentTarget.setAttribute("aria-pressed", state.sp); draw(); };
 document.getElementById("alt-on").onclick = e => { state.alt = !state.alt; e.currentTarget.setAttribute("aria-pressed", state.alt); draw(); };
 document.getElementById("kh-only").onclick = e => { state.kh = !state.kh; e.currentTarget.setAttribute("aria-pressed", state.kh); draw(); list(); };
@@ -196,13 +203,19 @@ P.forEach(p => {
 const affEl = document.getElementById("affchips");
 AFF.forEach(([k, lab]) => { const n = P.filter(p => p.tags.has(k)).length;
   affEl.insertAdjacentHTML("beforeend", `<button class="chip aff" data-aff="${k}" aria-pressed="false">${lab} <span class="sub">${n}</span></button>`); });
-const state = {status: new Set(["secure","probable","open","text","untested","unlocated"]), visit: new Set(["visited","hearsay","unclear"]), aff: new Set(), kh:false, alt:false, sp:false, change:false, juan:0, level:"", q:"", sel:null};
+const state = {status: new Set(["secure","probable","open","text","untested","unlocated"]), visit: new Set(["visited","hearsay","unclear"]), aff: new Set(), kh:false, alt:false, sp:false, area:false, change:false, juan:0, level:"", q:"", sel:null};
 const visible = p => (!state.kh || (p.kh && p.kh.length)) && state.status.has(p.status) && state.visit.has(p.visitEff) && (!state.aff.size || [...state.aff].some(a => p.tags.has(a))) && (!state.change || DEP.has(p.srel) || DEP2.has(p.srel))
   && (!state.juan || p.juan === state.juan) && (!state.level || p.level === state.level || (state.level === "country" && p.level === "region"))
   && (!state.q || [p.zh,p.ja,p.orig,p.nst,p.mz,p.modern,p.proposed,p.id].join(" ").toLowerCase().includes(state.q));
 
 function draw() {
   const vis = P.filter(p => visible(p) && p.lat != null);
+  const avis = state.area ? AREAS.features.filter(a => byId[a.id] && visible(byId[a.id])) : [];
+  areag.selectAll("path").data(avis, a => a.id).join("path").attr("class", a => "area " + a.cls)
+    .attr("d", a => path({type: "MultiPolygon", coordinates: a.polys}))
+    .on("click", (e, a) => select(a.id))
+    .selectAll("title").data(a => [a]).join("title")
+    .text(a => `${byId[a.id].zh}: ${a.text} at ${a.kpl} km per li ≈ ${Math.round(a.target/1000)*1000} km²` + (a.drawn < a.target*0.98 ? ` (drawn ${Math.round(a.drawn/1000)*1000} km², hemmed in)` : "") + ". Approximate extent from the stated circuit; not a border."));
   const r = p => (p.level === "site" ? 3.2 : 5) / Math.sqrt(k);
   const sps = state.sp ? P.filter(p => visible(p) && p.mzlat != null && (p.lat == null || Math.abs(p.mzlat - p.lat) + Math.abs(p.mzlon - p.lon) > 0.01)) : [];
   spg.selectAll("line").data(sps.filter(p => p.lat != null), p => p.id).join("line").attr("class", "spl")
