@@ -301,7 +301,7 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      figures shrink as its distances do, and turned into an area at 0.75 of a circle's compactness. From the
      study's point for the capital, every country then grows over land at once, nearest cells first, until it
      reaches that area or 1.6 times its radius; neighbours meet half-way, and the sea stops growth. 130 are drawn:
-     87 at their full area, 43 hemmed in by neighbours, the sea or the cap. Not drawn: 14 with no circuit (the six
+     77 at their full area, 53 hemmed in by neighbours, the sea or the cap. Not drawn: 14 with no circuit (the six
      hearsay countries of SE Asia, Rāmagrāma and Kuśinagara, which are "deserted", Laṅgala's "several thousand li
      each way", the hearsay Fulin, the Women's country, 稽疆那, Nārikela island, Wakhan) and 4 whose capital has no
      point. Rivers the text names as a country's border are used (`data/country_borders.tsv`, ten borders of nine
@@ -312,15 +312,19 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      check fails: Śatadru's "great river" on the west (西臨大河) lies north and north-east of the study's point for
      its capital (Sirhind), which fits the Sanghol alternative no better. Mountains named as borders are used too
      (the same table, 13 rows): a range on one side (Kapiśa's and Lampāka's 北背雪山, Srughna's 北背大山, Khuttal's
-     東接葱嶺) bars ground on that side standing 1500 m above the capital, and everything beyond it; mountains all
-     round (山周四境 for Ferghana, Nagarahāra, Kulūta and Brahmapura; 四境負山 for Kashmir; 四面據山 for Agni;
-     山嶺周境 for Kosala; 三陲黑嶺 for Kapiśa and Lampāka) bar ground 1500 m above the capital anywhere, so the
-     country fills its basin up to the ridges. Heights come from the open AWS terrain tiles at zoom 5
-     (`scripts/terrain_grid.py`, `data/ref/terrain/`, gitignored). Ferghana and Kashmir now follow their basins.
-     Kosala's hills stand less than 1500 m above Sirpur, so the rule does not bind there; Kapiśa is drawn at 7% of
+     東接葱嶺) bars high ground on that side, and everything beyond it; mountains all round (山周四境 for Ferghana,
+     Nagarahāra, Kulūta and Brahmapura; 四境負山 for Kashmir; 四面據山 for Agni; 山嶺周境 for Kosala; 三陲黑嶺 for
+     Kapiśa and Lampāka) bar high ground anywhere, so the country fills its basin up to the ridges. High ground is
+     ground standing a set rise above the capital's valley floor (the lowest of its 3×3 cells), the rise set by
+     region at roughly half the relief between the valley floors and the heights around them: 1000 m for the Tian
+     Shan and Ferghana (Agni, Ferghana), 1200 m for the Oxus and Hindu Kush (Khuttal, Kapiśa, Lampāka, Nagarahāra),
+     1500 m for the western Himalaya (Kashmir, Kulūta, Srughna, Brahmapura) and 250 m for central India (Kosala).
+     Heights come from the open AWS terrain tiles at zoom 5 (`scripts/terrain_grid.py`, `data/ref/terrain/`,
+     gitignored). Every one of the eleven meets high ground where the text puts it; Ferghana, Kashmir and Kulūta
+     keep to their basins, and Kosala fills the Chhattisgarh plain up to its rim of hills. Kapiśa is drawn at 6% of
      its circuit, hemmed in by its ranges and its neighbours. The areas show size and rough reach, not borders: the
-     capital need not have been central, rivers have moved since the 7th century, the height threshold is a
-     choice (1000 m shrank Kashmir to its valley floor), and the circuits themselves are rounded figures.
+     capital need not have been central, rivers have moved since the 7th century, the rises are a choice made by
+     region, and the circuits themselves are rounded figures.
    - **Place panel:** the study's identification first, then Mizutani, the authorities, every source, the Xiyu ji
      and Life passages with translations, and the note.
 ## What the recent scholarship changes

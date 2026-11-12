@@ -1,10 +1,10 @@
 id	name_zh	cls	text	circuit_li	dims_li	km_per_li	target_km2	drawn_km2	borders	border_check	note
-01.05	阿耆尼國	probable	東西六百餘里，南北四百餘里		600 x 400	0.297	16627	16682	四面據山	山: high ground (capital 1055 m + 1500) met in 7 of 16 directions	
+01.05	阿耆尼國	probable	東西六百餘里，南北四百餘里		600 x 400	0.297	16627	16637	四面據山	山: high ground (capital 1051 m + 1000) met in 8 of 16 directions	
 01.06	屈支國	probable	東西千餘里，南北六百餘里		1000 x 600	0.297	41568	41613			
 01.07	跋祿迦國	probable	東西六百餘里，南北三百餘里		600 x 300	0.297	12470	12479			
 01.08	笯赤建國	open	周千餘里	1000		0.297	5265	5283			
 01.09	赭時國	probable	周千餘里	1000		0.297	5265	5303	西臨葉河	W 葉河: on that side	
-01.10	㤄捍國	probable	周四千餘里	4000		0.297	84233	58980	山周四境	山: high ground (capital 420 m + 1500) met in 15 of 16 directions	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+01.10	㤄捍國	probable	周四千餘里	4000		0.297	84233	43237	山周四境	山: high ground (capital 409 m + 1000) met in 16 of 16 directions	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 01.11	窣堵利瑟那國	probable	周千四、五百里	1450		0.297	11069	11097	東臨葉河	E 葉河: on that side	
 01.12	颯秣建國	probable	周千六七百里	1650		0.297	14333	1590			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 01.13	弭秣賀國	probable	周四五百里	450		0.297	1066	1101			
@@ -21,8 +21,8 @@ id	name_zh	cls	text	circuit_li	dims_li	km_per_li	target_km2	drawn_km2	borders	bo
 01.24	愉漫國	probable	東西四百餘里，南北百餘里		400 x 100	0.297	2771	2789			
 01.25	鞠和衍那國	probable	東西二百餘里，南北三百餘里		200 x 300	0.297	4157	4219			
 01.26	鑊沙國	probable	東西三百餘里，南北五百餘里		300 x 500	0.297	10392	7569			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
-01.27	珂咄羅國	open	東西千餘里，南北千餘里		1000 x 1000	0.297	69279	19416	東接葱嶺	E 葱嶺: high ground (capital 586 m + 1500) on that side	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
-01.28	拘謎陀國	probable	東西二千餘里，南北二百餘里		2000 x 200	0.297	27712	27754	西南隣縛芻河	SW 縛芻河: on that side	
+01.27	珂咄羅國	open	東西千餘里，南北千餘里		1000 x 1000	0.297	69279	18286	東接葱嶺	E 葱嶺: high ground (capital 431 m + 1200) on that side	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+01.28	拘謎陀國	probable	東西二千餘里，南北二百餘里		2000 x 200	0.297	27712	27760	西南隣縛芻河	SW 縛芻河: on that side	
 01.29	縛伽浪國	probable	東西五十餘里，南北二百餘里		50 x 200	0.297	693	705			
 01.30	紇露悉泯健國	probable	周千餘里	1000		0.297	5265	5308			
 01.31	忽懍國	probable	周八百餘里	800		0.297	3369	3431			
@@ -32,29 +32,29 @@ id	name_zh	cls	text	circuit_li	dims_li	km_per_li	target_km2	drawn_km2	borders	bo
 01.35	呾剌健國	probable	東西五百餘里，南北五六十里		500 x 55	0.297	1905	1926			
 01.36	揭職國	probable	東西五百餘里，南北三百餘里		500 x 300	0.297	10392	10431			
 01.37	梵衍那國	secure	東西二千餘里，南北三百餘里		2000 x 300	0.297	41568	41576			
-01.38	迦畢試國	secure	周四千餘里	4000		0.297	84233	5525	北背雪山，三陲黑嶺	黑嶺: high ground (capital 1497 m + 1500) met in 15 of 16 directions; N 雪山: high ground (capital 1497 m + 1500) on that side	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
-02.02	濫波國	probable	周千餘里	1000		0.287	4916	3979	北背雪山，三垂黑嶺	黑嶺: high ground (capital 927 m + 1500) met in 9 of 16 directions; N 雪山: high ground (capital 927 m + 1500) on that side	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
-02.03	那揭羅曷國	secure	東西六百餘里，南北二百五六十里		600 x 255	0.287	9898	9949	山周四境	山: high ground (capital 633 m + 1500) met in 11 of 16 directions	
-02.04	健馱邏國	secure	東西千餘里，南北八百餘里		1000 x 800	0.287	51754	12468	東臨信度河	E 信度河: on that side	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
-03.01	烏仗那國	secure	周五千餘里	5000		0.151	34021	31749			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+01.38	迦畢試國	secure	周四千餘里	4000		0.297	84233	5006	北背雪山，三陲黑嶺	黑嶺: high ground (capital 1456 m + 1200) met in 15 of 16 directions; N 雪山: high ground (capital 1456 m + 1200) on that side	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+02.02	濫波國	probable	周千餘里	1000		0.287	4916	3459	北背雪山，三垂黑嶺	黑嶺: high ground (capital 761 m + 1200) met in 13 of 16 directions; N 雪山: high ground (capital 761 m + 1200) on that side	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+02.03	那揭羅曷國	secure	東西六百餘里，南北二百五六十里		600 x 255	0.287	9898	8575	山周四境	山: high ground (capital 552 m + 1200) met in 14 of 16 directions	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+02.04	健馱邏國	secure	東西千餘里，南北八百餘里		1000 x 800	0.287	51754	12598	東臨信度河	E 信度河: on that side	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+03.01	烏仗那國	secure	周五千餘里	5000		0.151	34021	31880			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 03.02	鉢露羅國	open	周四千餘里	4000		0.151	21773	21807			
 03.03	呾叉始羅國	secure	周二千餘里	2000		0.151	5443	5479			
 03.04	僧訶補羅國	secure	周三千五六百里	3550		0.151	17150	17155	西臨信度河	W 信度河: on that side	
 03.05	烏剌尸國	probable	周二千餘里	2000		0.151	5443	5451			
-03.06	迦濕彌羅國	probable	周七千餘里	7000		0.151	66681	15920	四境負山	山: high ground (capital 1620 m + 1500) met in 15 of 16 directions	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+03.06	迦濕彌羅國	probable	周七千餘里	7000		0.151	66681	15727	四境負山	山: high ground (capital 1550 m + 1500) met in 16 of 16 directions	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 03.07	半笯嗟國	probable	周二千餘里	2000		0.151	5443	5466			
-03.08	曷邏闍補羅國	probable	周四千餘里	4000		0.151	21773	20125			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
-04.01	磔迦國	open	周萬餘里	10000		0.25	373019	50956	東據毘播奢河; 西臨信度河	E 毘播奢河: on that side; W 信度河: on that side	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+03.08	曷邏闍補羅國	probable	周四千餘里	4000		0.151	21773	20588			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+04.01	磔迦國	open	周萬餘里	10000		0.25	373019	51024	東據毘播奢河; 西臨信度河	E 毘播奢河: on that side; W 信度河: on that side	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 04.02	至那僕底國	probable	周二千餘里	2000		0.25	14921	12423			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
-04.03	闍爛達羅國	secure	東西千餘里，南北八百餘里		1000 x 800	0.25	39270	19915			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
-04.04	屈露多國	open	周三千餘里	3000		0.25	33572	28947	山周四境	山: high ground (capital 2700 m + 1500) met in 10 of 16 directions	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+04.03	闍爛達羅國	secure	東西千餘里，南北八百餘里		1000 x 800	0.25	39270	20383			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+04.04	屈露多國	open	周三千餘里	3000		0.25	33572	21372	山周四境	山: high ground (capital 1894 m + 1500) met in 11 of 16 directions	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 04.05	設多圖盧國	open	周二千餘里	2000		0.25	14921	14967	西臨大河	W 大河: NOT on that side of the capital	
 04.06	波理夜呾羅國	open	周三千餘里	3000		0.25	33572	33631			
 04.07	秣菟羅國	secure	周五千餘里	5000		0.25	93255	55397			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 04.08	薩他泥濕伐羅國	secure	周七千餘里	7000		0.25	182780	67255			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
-04.09	窣祿勤那國	secure	周六千餘里	6000		0.25	134287	15591	北背大山; 東臨殑伽河	N 大山: high ground (capital 284 m + 1500) on that side; E 殑伽河: on that side	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
-04.10	秣底補羅國	open	周六千餘里	6000		0.25	134287	62159			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
-04.11	婆羅吸摩補羅國	probable	周四千餘里	4000		0.25	59683	27467	山周四境	山: high ground (capital 1458 m + 1500) met in 7 of 16 directions	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+04.09	窣祿勤那國	secure	周六千餘里	6000		0.25	134287	15591	北背大山; 東臨殑伽河	N 大山: high ground (capital 274 m + 1500) on that side; E 殑伽河: on that side	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+04.10	秣底補羅國	open	周六千餘里	6000		0.25	134287	72516			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+04.11	婆羅吸摩補羅國	probable	周四千餘里	4000		0.25	59683	25343	山周四境	山: high ground (capital 1057 m + 1500) met in 7 of 16 directions	drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 04.12	瞿毘霜那國	probable	周二千餘里	2000		0.25	14921	12055			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 04.13	堊醯掣呾羅國	secure	周三千餘里	3000		0.25	33572	26088			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 04.14	毘羅刪拏國	secure	周二千餘里	2000		0.25	14921	8219			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
@@ -65,7 +65,7 @@ id	name_zh	cls	text	circuit_li	dims_li	km_per_li	target_km2	drawn_km2	borders	bo
 05.04	鉢邏耶伽國	secure	周五千餘里	5000		0.163	39643	14032			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 05.05	憍賞彌國	secure	周六千餘里	6000		0.163	57086	42494			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 05.06	鞞索迦國	text	周四千餘里	4000		0.163	25372				no point for the capital
-06.01	室羅伐悉底國	secure	周六千餘里	6000		0.24	123759	68862			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+06.01	室羅伐悉底國	secure	周六千餘里	6000		0.24	123759	69206			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 06.02	劫比羅伐窣堵國	open	周四千餘里	4000		0.24	55004	55057			
 06.03	藍摩國	open				0.24					no circuit in the text
 06.04	拘尸那揭羅國	secure				0.24					no circuit in the text
@@ -89,10 +89,10 @@ id	name_zh	cls	text	circuit_li	dims_li	km_per_li	target_km2	drawn_km2	borders	bo
 10.06.02f	閻摩那洲國	open				0.228					no circuit in the text
 10.07	耽摩栗底國	secure	周千四五百里	1450		0.228	6523	6531			
 10.08	羯羅拏蘇伐剌那國	secure	周四千四五百里	4450		0.228	61439	61458			
-10.09	烏荼國	probable	周七千餘里	7000		0.228	152026	119418			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+10.09	烏荼國	probable	周七千餘里	7000		0.228	152026	114931			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 10.10	恭御陀國	probable	周千餘里	1000		0.228	3103	3134			
-10.11	羯𩜁伽國	open	周五千餘里	5000		0.228	77564	77280			
-10.12	憍薩羅國	secure	周六千餘里	6000		0.228	111692	111766	山嶺周境	山嶺: high ground (capital 278 m + 1500) met in 0 of 16 directions	
+10.11	羯𩜁伽國	open	周五千餘里	5000		0.228	77564	77582			
+10.12	憍薩羅國	secure	周六千餘里	6000		0.228	111692	111765	山嶺周境	山嶺: high ground (capital 242 m + 250) met in 12 of 16 directions	
 10.13	案達羅國	probable	周三千餘里	3000		0.228	27923	27973			
 10.14	駄那羯磔迦國	probable	周六千餘里	6000		0.228	111692	111731			
 10.15	珠利耶國	probable	周二千四五百里	2450		0.228	18623	18663			
@@ -123,11 +123,11 @@ id	name_zh	cls	text	circuit_li	dims_li	km_per_li	target_km2	drawn_km2	borders	bo
 11.20.02b	西女國	unlocated				0.227					no circuit in the text
 11.21	臂多勢羅國	open	周三千餘里	3000		0.227	27679	27697			
 11.22	阿軬荼國	open	周二千四五百里	2450		0.227	18460	18528			
-11.23	伐剌拏國	open	周四千餘里	4000		0.227	49207	49240			
+11.23	伐剌拏國	open	周四千餘里	4000		0.227	49207	49231			
 11.23.02	稽疆那國	open				0.227					no circuit in the text
-12.01	漕矩吒國	probable	周七千餘里	7000		0.286	239210	239213			
-12.02	弗栗恃薩儻那國	open	東西二千餘里，南北千餘里		2000 x 1000	0.286	128485	20105			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
-12.03	安呾羅縛國	probable	周三千餘里	3000		0.286	43937	16121			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+12.01	漕矩吒國	probable	周七千餘里	7000		0.286	239210	239212			
+12.02	弗栗恃薩儻那國	open	東西二千餘里，南北千餘里		2000 x 1000	0.286	128485	20563			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+12.03	安呾羅縛國	probable	周三千餘里	3000		0.286	43937	16770			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 12.04	闊悉多國	probable	周減千里	900		0.286	3954	3980			
 12.05	活國	open	周二千餘里	2000		0.286	19527	10667			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 12.06	瞢健國	open	周四百餘里	400		0.286	781	827			
@@ -135,13 +135,13 @@ id	name_zh	cls	text	circuit_li	dims_li	km_per_li	target_km2	drawn_km2	borders	bo
 12.08	曷邏胡國	probable	周二百餘里	200		0.286	195	251			
 12.09	訖栗瑟摩國	probable	東西十餘里，南北三百餘里		10 x 300	0.286	193	254			
 12.10	鉢利曷國	unlocated	東西百餘里，南北三百餘里		100 x 300	0.286	1927				no point for the capital
-12.11	呬摩呾羅國	probable	周三千餘里	3000		0.286	43937	16575			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+12.11	呬摩呾羅國	probable	周三千餘里	3000		0.286	43937	17330			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 12.12	鉢鐸創那國	probable	周二千餘里	2000		0.286	19527	6903			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 12.13	淫薄健國	probable	周千餘里	1000		0.286	4882	4653			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
-12.14	屈浪拏國	probable	周二千餘里	2000		0.286	19527	15127			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+12.14	屈浪拏國	probable	周二千餘里	2000		0.286	19527	15452			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 12.15	達摩悉鐵帝國	secure				0.286					no circuit in the text
 12.16	尸棄尼國	probable	周二千餘里	2000		0.286	19527	19540			
-12.17	商彌國	probable	周二千五六百里	2550		0.286	31744	29160			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
+12.17	商彌國	probable	周二千五六百里	2550		0.286	31744	29291			drawn smaller than the target: hemmed in by neighbours, the sea or the radius cap
 12.18	朅盤陀國	probable	周二千餘里	2000		0.286	19527	19571			
 12.19	烏鎩國	open	周千餘里	1000		0.286	4882	4906			
 12.20	佉沙國	probable	周五千餘里	5000		0.286	122046	122089			

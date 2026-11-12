@@ -23,10 +23,12 @@ Method (README, "Country areas"):
    its line is carried on straight, so the country cannot go round it), and it grows more
    readily towards the side the text names (steps in that direction count up to 0.6 of their length), so it reaches
    the river where its area allows. The river does not bind the neighbour across it.
-6. Mountains named as borders (the same table): a range on one side (北背雪山, 北背大山, 東接葱嶺) bars ground on that
-   side standing 1500 m above the capital, and everything beyond it; mountains all round (山周四境, 四境負山,
-   四面據山, 山嶺周境, and Kapiśa's and Lampāka's 三陲黑嶺) bar ground 1000 m above the capital anywhere, so the
-   country stays in its basin. Heights from the AWS terrain tiles at zoom 5 (scripts/terrain_grid.py).
+6. Mountains named as borders (the same table): a range on one side (北背雪山, 北背大山, 東接葱嶺) bars high ground on
+   that side, and everything beyond it; mountains all round (山周四境, 四境負山, 四面據山, 山嶺周境, and Kapiśa's and
+   Lampāka's 三陲黑嶺) bar high ground anywhere, so the country stays in its basin. High ground is ground standing a
+   set rise above the capital's valley floor, the rise set by region (REGION_RISE: 1000 m for the Tian Shan and
+   Ferghana, 1200 m for the Oxus and Hindu Kush, 1500 m for the western Himalaya, 250 m for central India).
+   Heights from the AWS terrain tiles at zoom 5 (scripts/terrain_grid.py).
 These are not borders: the capital need not have been central, rivers have moved
 (the Beas, Sutlej and Ganges among them), and the circuit figures themselves are rough.
 """
@@ -122,8 +124,16 @@ for cty in geo:
 STEPS = [(1, 0), (-1, 0), (0, 1), (0, -1), (1, 1), (1, -1), (-1, 1), (-1, -1),
          (2, 1), (2, -1), (-2, 1), (-2, -1), (1, 2), (1, -2), (-1, 2), (-1, -2)]
 # --- elevation (scripts/terrain_grid.py) and the heights that count as a mountain border -----------------------
-RANGE_RISE = 1500     # a range on one side: ground this far above the capital
-BASIN_RISE = 1500     # mountains all round: ground this far above the capital
+# The rise is set by region, at roughly half the relief between the capitals' valley floors and the high ground
+# around them (90th percentile of heights within 1.6 times the target radius): the Himalaya's ranges stand 3000 m
+# and more over their valleys, Kosala's hills some 400 m over its plain. One rise serves a range on one side and
+# mountains all round. A country not listed takes DEFAULT_RISE.
+REGION_RISE = {"Tian Shan and Ferghana": 1000, "Oxus and Hindu Kush": 1200, "Western Himalaya": 1500, "Central India": 250}
+REGION = {"01.05": "Tian Shan and Ferghana", "01.10": "Tian Shan and Ferghana",
+          "01.27": "Oxus and Hindu Kush", "01.38": "Oxus and Hindu Kush", "02.02": "Oxus and Hindu Kush", "02.03": "Oxus and Hindu Kush",
+          "03.06": "Western Himalaya", "04.04": "Western Himalaya", "04.09": "Western Himalaya", "04.11": "Western Himalaya",
+          "10.12": "Central India"}
+DEFAULT_RISE = 1500
 _t = json.load(open("data/ref/terrain/grid.json"))
 assert _t["nx"] == int((BOX[2] - BOX[0]) / RES) and abs(_t["res"] - RES) < 1e-9
 ELEV = _t["elev"]
@@ -180,13 +190,15 @@ for c in countries:
     c["bar"] = set(); c["pull"] = []
     ci = (c["lon"] - BOX[0]) / RES; cj = (c["lat"] - BOX[1]) / RES
     reach = int(3 * CAP * c["R"] / (111.32 * RES)) + 1
-    ce = sorted(ELEV[(int(cj) + dj) * NX + int(ci) + di] for di in (-1, 0, 1) for dj in (-1, 0, 1))[4]
+    # the capital's height: the valley floor, the lowest of its 3x3 cells (a cell's mean can take in the valley sides)
+    ce = min(ELEV[(int(cj) + dj) * NX + int(ci) + di] for di in (-1, 0, 1) for dj in (-1, 0, 1))
+    RISE = REGION_RISE[REGION[c["id"]]] if c["id"] in REGION else DEFAULT_RISE
     box = [(y * NX + x) for y in range(max(0, int(cj) - reach), min(NY, int(cj) + reach + 1))
            for x in range(max(0, int(ci) - reach), min(NX, int(ci) + reach + 1))]
     for b in bs:
         if b["kind"] == "enclosed":
-            # mountains all round: the country stays below the capital's height + BASIN_RISE
-            high = {k for k in box if ELEV[k] >= ce + BASIN_RISE}
+            # mountains all round: the country stays below the capital's height + RISE
+            high = {k for k in box if ELEV[k] >= ce + RISE}
             c["bar"] |= high
             hit = 0
             for a in range(16):
@@ -194,18 +206,18 @@ for c in countries:
                 for r in range(1, int(CAP * c["R"] / (111.32 * RES)) + 2):
                     k = int(cj + dy * r) * NX + int(ci + dx * r)
                     if k in high: hit += 1; break
-            chk = "%s: high ground (capital %d m + %d) met in %d of 16 directions" % (b["feature_zh"], ce, BASIN_RISE, hit)
+            chk = "%s: high ground (capital %d m + %d) met in %d of 16 directions" % (b["feature_zh"], ce, RISE, hit)
             c["row"]["borders"] = (c["row"]["borders"] + "; " if c["row"]["borders"] else "") + b["quote"]
             c["row"]["border_check"] = (c["row"]["border_check"] + "; " if c["row"]["border_check"] else "") + chk
             continue
         v = SIDE[b["side"]]; L = math.hypot(*v); u = (v[0] / L, v[1] / L)
         c["pull"].append(u)
         if b["kind"] == "range":
-            # a range on the named side: high ground there (capital's height + RANGE_RISE), and all beyond it
-            cells = {k for k in box if ELEV[k] >= ce + RANGE_RISE and ((k % NX) - ci) * u[0] + ((k // NX) - cj) * u[1] > 0}
+            # a range on the named side: high ground there (capital's height + RISE), and all beyond it
+            cells = {k for k in box if ELEV[k] >= ce + RISE and ((k % NX) - ci) * u[0] + ((k // NX) - cj) * u[1] > 0}
             c["bar"] |= cells | beyond(c, cells, u)
             ok = bool(cells)
-            chk = "%s %s: %s" % (b["side"], b["feature_zh"], ("high ground (capital %d m + %d) on that side" % (ce, RANGE_RISE)) if ok else "no high ground on that side within reach")
+            chk = "%s %s: %s" % (b["side"], b["feature_zh"], ("high ground (capital %d m + %d) on that side" % (ce, RISE)) if ok else "no high ground on that side within reach")
             if b["quote"] not in c["row"]["borders"]:
                 c["row"]["borders"] = (c["row"]["borders"] + "; " if c["row"]["borders"] else "") + b["quote"]
             c["row"]["border_check"] = (c["row"]["border_check"] + "; " if c["row"]["border_check"] else "") + chk
