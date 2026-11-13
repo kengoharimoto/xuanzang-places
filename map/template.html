@@ -10,7 +10,7 @@
   --paper: #f4f5f1; --panel: #fbfbf8; --ink: #1c2220; --muted: #5d6662; --rule: #d6dad3;
   --indigo: #2f4d7a;            /* accent: route line, links, focus */
   --agreed: #3f7f6e; --added: #7a5aa6; --secure: #2f7a5f; --probable: #4f7fb0; --open: #c0662d; --untested: #9a8fb0; --text: #b9b3a6; --uncertain: #b88a1c; --disputed: #b8452f; --unknown: #8b918c;
-  --land: #e6e8e1; --land-stroke: #c7cbc2; --sea: #eef1f0;
+  --land: #e6e8e1; --land-stroke: #c7cbc2; --sea: #eef1f0; --river: #4f86b3;
   --display: "Spectral", "Noto Serif CJK JP", "Songti SC", serif;
   --body: "Source Sans 3", "Hiragino Sans", "Noto Sans CJK JP", system-ui, sans-serif;
   --mono: "IBM Plex Mono", ui-monospace, monospace;
@@ -18,11 +18,11 @@
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
   --paper: #161a19; --panel: #1d2221; --ink: #e5e8e3; --muted: #9aa39e; --rule: #333a37;
   --indigo: #8fa9d6; --agreed: #6fb39f; --added: #a98bd3; --secure: #6fbf9a; --probable: #86aee0; --open: #e3925a; --untested: #b4abc8; --text: #6f6a60; --uncertain: #d9ac45; --disputed: #e07a62; --unknown: #8d948f;
-  --land: #252b29; --land-stroke: #39413e; --sea: #1a1f1e; color-scheme: dark } }
+  --land: #252b29; --land-stroke: #39413e; --sea: #1a1f1e; --river: #5a8fb8; color-scheme: dark } }
 :root[data-theme="dark"] {
   --paper: #161a19; --panel: #1d2221; --ink: #e5e8e3; --muted: #9aa39e; --rule: #333a37;
   --indigo: #8fa9d6; --agreed: #6fb39f; --added: #a98bd3; --secure: #6fbf9a; --probable: #86aee0; --open: #e3925a; --untested: #b4abc8; --text: #6f6a60; --uncertain: #d9ac45; --disputed: #e07a62; --unknown: #8d948f;
-  --land: #252b29; --land-stroke: #39413e; --sea: #1a1f1e; color-scheme: dark }
+  --land: #252b29; --land-stroke: #39413e; --sea: #1a1f1e; --river: #5a8fb8; color-scheme: dark }
 body { background: var(--paper); color: var(--ink); font: 15px/1.5 var(--body); }
 .wrap { max-width: 1320px; margin: 0 auto; padding-block: 20px 40px;
   padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
@@ -45,6 +45,7 @@ input[type=search] { min-width: 0; width: 14em; }
 @media (max-width: 860px) { .grid { grid-template-columns: 1fr; } }
 .mapbox { background: var(--sea); border: 1px solid var(--rule); border-radius: 4px; position: relative; overflow: hidden; }
 #map { display: block; width: 100%; height: auto; aspect-ratio: 1.25; max-width: 100%; touch-action: none; }
+.river { fill: none; stroke: var(--river); stroke-opacity: .85; stroke-linejoin: round; stroke-linecap: round; vector-effect: non-scaling-stroke; pointer-events: none; }
 .land { fill: var(--land); stroke: var(--land-stroke); stroke-width: .6; vector-effect: non-scaling-stroke; }
 .area { fill-opacity: .16; stroke-opacity: .55; stroke-width: .9; stroke-dasharray: 4 3; vector-effect: non-scaling-stroke; cursor: pointer; }
 .area.secure { fill: var(--secure); stroke: var(--secure); } .area.probable { fill: var(--probable); stroke: var(--probable); } .area.open { fill: var(--open); stroke: var(--open); }
@@ -98,7 +99,7 @@ footer { margin-top: 18px; color: var(--muted); font-size: 12px; max-width: 90ch
 <header>
   <h1>Xuanzang's Places</h1>
   <p class="sub">The study's findings: <a href="https://claude.ai/artifact/2H5yngbhmdj9pKEp5imP7e" target="_blank" rel="noopener">Locating Xuanzang's Places</a>.</p>
-  <p>Every country and site of the <i>Da Tang Xiyu ji</i> (大唐西域記) on one map. The points follow the standard identifications, those of 季羨林 et al., <i>Da Tang Xiyu ji jiaozhu</i> (1985), with Mizutani Shinjō's (1971) where Ji is silent, wherever the evidence agrees with them; a dark ring marks the places where the study departs from the standard (a different site, or open between the standard's and another), a light ring where it refines the standard or proposes a site the standard lacks. The evidence weighed: the earlier authorities (Julien, Vivien de Saint-Martin, Cunningham, Majumdar, Beal, Watters, Dey); the Archaeological Survey's reports, Annual Reports and <i>Indian Archaeology – A Review</i>; <i>Epigraphia Indica</i> and the CII; the British Indian gazetteers; the <i>Life</i>; route tests on Xuanzang's distances and bearings; and the scholarship since 1985. Colour shows the study's confidence, taken from the notes' assessments: <b>secure</b>, <b>probable</b>, <b>open</b>, or <b>untested</b> where the study has not assessed the standard view. The "Mizutani's points" layer shows his sites where the map's point differs. The "country areas" layer gives each country an approximate extent: grown over land from its capital until it covers the area its stated circuit (周N里, at the juan's km per li from the route tests) implies, meeting its neighbours half-way; where the text names a river or a range as the country's border (東臨信度河, 北背雪山 etc.), the area stays on its side of it, and where it says mountains surround the country (山周四境), the area stays below the ridges. It shows size and rough reach, not historical borders.</p>
+  <p>Every country and site of the <i>Da Tang Xiyu ji</i> (大唐西域記) on one map. The points follow the standard identifications, those of 季羨林 et al., <i>Da Tang Xiyu ji jiaozhu</i> (1985), with Mizutani Shinjō's (1971) where Ji is silent, wherever the evidence agrees with them; a dark ring marks the places where the study departs from the standard (a different site, or open between the standard's and another), a light ring where it refines the standard or proposes a site the standard lacks. The evidence weighed: the earlier authorities (Julien, Vivien de Saint-Martin, Cunningham, Majumdar, Beal, Watters, Dey); the Archaeological Survey's reports, Annual Reports and <i>Indian Archaeology – A Review</i>; <i>Epigraphia Indica</i> and the CII; the British Indian gazetteers; the <i>Life</i>; route tests on Xuanzang's distances and bearings; and the scholarship since 1985. Colour shows the study's confidence, taken from the notes' assessments: <b>secure</b>, <b>probable</b>, <b>open</b>, or <b>untested</b> where the study has not assessed the standard view. The "Mizutani's points" layer shows his sites where the map's point differs. The "country areas" layer gives each country an approximate extent: grown over land from its capital until it covers the area its stated circuit (周N里, at the juan's km per li from the route tests) implies, meeting its neighbours half-way; where the text names a river or a range as the country's border (東臨信度河, 北背雪山 etc.), the area stays on its side of it, and where it says mountains surround the country (山周四境), the area stays below the ridges. It shows size and rough reach, not historical borders. The rivers are today's courses of those with at least 20,000 km² upstream (HydroRIVERS, Lehner &amp; Grill 2013); several have moved since the seventh century.</p>
 </header>
 
 <div class="controls" role="group" aria-label="Filters">
@@ -123,6 +124,7 @@ footer { margin-top: 18px; color: var(--muted); font-size: 12px; max-width: 90ch
   <button class="chip" id="aff-clear" aria-pressed="false" title="Show all affiliations">clear</button>
   <button class="chip" id="kh-only" aria-pressed="false" title="Only places with K. Harimoto's observations">K. Harimoto's notes</button>
   <button class="chip" id="area-on" aria-pressed="true" title="Approximate extent of each country, grown from its capital to the area its stated circuit (周N里) implies; not historical borders">country areas (approx.)</button>
+  <button class="chip" id="riv-on" aria-pressed="true" title="Rivers with at least 20,000 km² upstream, from HydroRIVERS v1.0 (Lehner &amp; Grill 2013); modern courses, none west of 57.6° E">rivers</button>
   <button class="chip" id="sp-on" aria-pressed="false" title="Show Mizutani's points where the study places a site differently">Mizutani's points</button>
   <button class="chip" id="alt-on" aria-pressed="false" title="Show the rival sites proposed by other authorities, linked to the place">rival sites</button>
 </div>
@@ -172,6 +174,9 @@ const path = d3.geoPath(proj);
 const feats = GEO.countries.map(c => ({type:"Feature", properties:{name:c.name}, geometry:{type:"MultiPolygon", coordinates: c.rings.map(r => [r])}}));
 g.append("g").selectAll("path").data(feats).join("path").attr("class","land").attr("d", path);
 const areag = g.append("g");
+const RIVW = [0.9, 1.5, 2.3];   // px, by upstream area (≥20,000, ≥80,000, ≥300,000 km²)
+const riverg = g.append("g").selectAll("path").data(GEO.rivers).join("path").attr("class","river")
+  .attr("d", ls => path({type:"MultiLineString", coordinates: ls})).attr("stroke-width", (ls, i) => RIVW[i]);
 const route = P.filter(p => p.level === "country" && p.visit === "visited" && p.lat != null).map(p => proj([p.lon, p.lat]));
 g.append("path").attr("class","route").attr("d", d3.line()(route));
 const spg = g.append("g"), altg = g.append("g"), halos = g.append("g"), pts = g.append("g"), lbls = g.append("g");
@@ -179,6 +184,7 @@ let k = 1;
 const unitPx = () => (svg.node().getBoundingClientRect().width || W) / W;   // screen px per map unit
 const zoom = d3.zoom().scaleExtent([0.6, 24]).on("zoom", e => { k = e.transform.k; g.attr("transform", e.transform); draw(); });
 svg.call(zoom);
+document.getElementById("riv-on").onclick = e => { const on = e.currentTarget.getAttribute("aria-pressed") !== "true"; e.currentTarget.setAttribute("aria-pressed", on); riverg.style("display", on ? null : "none"); };
 document.getElementById("area-on").onclick = e => { state.area = !state.area; e.currentTarget.setAttribute("aria-pressed", state.area); draw(); };
 document.getElementById("sp-on").onclick = e => { state.sp = !state.sp; e.currentTarget.setAttribute("aria-pressed", state.sp); draw(); };
 document.getElementById("alt-on").onclick = e => { state.alt = !state.alt; e.currentTarget.setAttribute("aria-pressed", state.alt); draw(); };
