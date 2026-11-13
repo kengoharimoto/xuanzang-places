@@ -10,7 +10,7 @@
   --paper: #f4f5f1; --panel: #fbfbf8; --ink: #1c2220; --muted: #5d6662; --rule: #d6dad3;
   --indigo: #2f4d7a;            /* accent: route line, links, focus */
   --agreed: #3f7f6e; --added: #7a5aa6; --secure: #2f7a5f; --probable: #4f7fb0; --open: #c0662d; --untested: #9a8fb0; --text: #b9b3a6; --uncertain: #b88a1c; --disputed: #b8452f; --unknown: #8b918c;
-  --land: #e6e8e1; --land-stroke: #c7cbc2; --sea: #eef1f0; --river: #4f86b3;
+  --land: #e6e8e1; --land-stroke: #c7cbc2; --sea: #eef1f0; --river: #6d9cc2;
   --display: "Spectral", "Noto Serif CJK JP", "Songti SC", serif;
   --body: "Source Sans 3", "Hiragino Sans", "Noto Sans CJK JP", system-ui, sans-serif;
   --mono: "IBM Plex Mono", ui-monospace, monospace;
@@ -45,7 +45,7 @@ input[type=search] { min-width: 0; width: 14em; }
 @media (max-width: 860px) { .grid { grid-template-columns: 1fr; } }
 .mapbox { background: var(--sea); border: 1px solid var(--rule); border-radius: 4px; position: relative; overflow: hidden; }
 #map { display: block; width: 100%; height: auto; aspect-ratio: 1.25; max-width: 100%; touch-action: none; }
-.river { fill: none; stroke: var(--river); stroke-opacity: .85; stroke-linejoin: round; stroke-linecap: round; vector-effect: non-scaling-stroke; pointer-events: none; }
+.river { fill: none; stroke: var(--river); stroke-opacity: .75; stroke-linejoin: round; stroke-linecap: round; vector-effect: non-scaling-stroke; pointer-events: none; }
 .land { fill: var(--land); stroke: var(--land-stroke); stroke-width: .6; vector-effect: non-scaling-stroke; }
 .area { fill-opacity: .16; stroke-opacity: .55; stroke-width: .9; stroke-dasharray: 4 3; vector-effect: non-scaling-stroke; cursor: pointer; }
 .area.secure { fill: var(--secure); stroke: var(--secure); } .area.probable { fill: var(--probable); stroke: var(--probable); } .area.open { fill: var(--open); stroke: var(--open); }
@@ -173,10 +173,10 @@ proj.fitExtent([[30, 30], [W-30, H-30]], core);
 const path = d3.geoPath(proj);
 const feats = GEO.countries.map(c => ({type:"Feature", properties:{name:c.name}, geometry:{type:"MultiPolygon", coordinates: c.rings.map(r => [r])}}));
 g.append("g").selectAll("path").data(feats).join("path").attr("class","land").attr("d", path);
-const areag = g.append("g");
-const RIVW = [0.9, 1.5, 2.3];   // px, by upstream area (≥20,000, ≥80,000, ≥300,000 km²)
+const RIVW = [0.6, 1.0, 1.5];   // px, by upstream area (≥20,000, ≥80,000, ≥300,000 km²)
 const riverg = g.append("g").selectAll("path").data(GEO.rivers).join("path").attr("class","river")
   .attr("d", ls => path({type:"MultiLineString", coordinates: ls})).attr("stroke-width", (ls, i) => RIVW[i]);
+const areag = g.append("g");
 const route = P.filter(p => p.level === "country" && p.visit === "visited" && p.lat != null).map(p => proj([p.lon, p.lat]));
 g.append("path").attr("class","route").attr("d", d3.line()(route));
 const spg = g.append("g"), altg = g.append("g"), halos = g.append("g"), pts = g.append("g"), lbls = g.append("g");
