@@ -122,7 +122,7 @@ footer { margin-top: 18px; color: var(--muted); font-size: 12px; max-width: 90ch
   <span id="affchips"></span>
   <button class="chip" id="aff-clear" aria-pressed="false" title="Show all affiliations">clear</button>
   <button class="chip" id="kh-only" aria-pressed="false" title="Only places with K. Harimoto's observations">K. Harimoto's notes</button>
-  <button class="chip" id="area-on" aria-pressed="false" title="Approximate extent of each country, grown from its capital to the area its stated circuit (周N里) implies; not historical borders">country areas (approx.)</button>
+  <button class="chip" id="area-on" aria-pressed="true" title="Approximate extent of each country, grown from its capital to the area its stated circuit (周N里) implies; not historical borders">country areas (approx.)</button>
   <button class="chip" id="sp-on" aria-pressed="false" title="Show Mizutani's points where the study places a site differently">Mizutani's points</button>
   <button class="chip" id="alt-on" aria-pressed="false" title="Show the rival sites proposed by other authorities, linked to the place">rival sites</button>
 </div>
@@ -205,7 +205,7 @@ P.forEach(p => {
 const affEl = document.getElementById("affchips");
 AFF.forEach(([k, lab]) => { const n = P.filter(p => p.tags.has(k)).length;
   affEl.insertAdjacentHTML("beforeend", `<button class="chip aff" data-aff="${k}" aria-pressed="false">${lab} <span class="sub">${n}</span></button>`); });
-const state = {status: new Set(["secure","probable","open","text","untested","unlocated"]), visit: new Set(["visited","hearsay","unclear"]), aff: new Set(), kh:false, alt:false, sp:false, area:false, change:false, juan:0, level:"", q:"", sel:null};
+const state = {status: new Set(["secure","probable","open","text","untested","unlocated"]), visit: new Set(["visited","hearsay","unclear"]), aff: new Set(), kh:false, alt:false, sp:false, area:true, change:false, juan:0, level:"", q:"", sel:null};
 const visible = p => (!state.kh || (p.kh && p.kh.length)) && state.status.has(p.status) && state.visit.has(p.visitEff) && (!state.aff.size || [...state.aff].some(a => p.tags.has(a))) && (!state.change || DEP.has(p.srel) || DEP2.has(p.srel))
   && (!state.juan || p.juan === state.juan) && (!state.level || p.level === state.level || (state.level === "country" && p.level === "region"))
   && (!state.q || [p.zh,p.ja,p.orig,p.nst,p.mz,p.modern,p.proposed,p.id].join(" ").toLowerCase().includes(state.q));
