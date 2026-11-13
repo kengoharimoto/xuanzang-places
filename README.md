@@ -346,13 +346,15 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      grid could not route Agni's Kaidu or Brahmapura's Ramganga. Ferghana fills its valley above Bekabad, Kashmir and
      Kulūta keep to their basins, and Kosala fills the Chhattisgarh plain up to its rim of hills. Kapiśa, at first
      drawn at 6% of its circuit because Andarab and Bamiyan took the slopes inside its ranges, now has its whole basin
-     above the Panjshir's lower gorge (the Ghorband, the Panjshir, Nijrab and Tagab and the Koh-daman up to the Hindu
-     Kush), 12,728 km², 15% of its circuit. Kapiśa's shortfall is not unusual: set against the perimeter of its basin,
+     above the Panjshir's lower gorge (the Ghorband, the Panjshir, Nijrab and the Koh-daman up to the Hindu
+     Kush; the Tagab joins below the gorge), 12,728 km², 15% of its circuit (about 1,300 km² of it, east of Kabul,
+     is a fault of the fine grid, which closes the Kabul river's gorge below the city). Kapiśa's shortfall is not unusual: set against the perimeter of its basin,
      the circuit runs 1.8 times too long at its juan's li, Kashmir's 2.4 times (at the Gandhāra–Kashmir li of 0.15 km),
      Kulūta's 2.6 and Brahmapura's 3.5, while Ferghana's (0.8), Lampāka's (0.9) and Kosala's (1.2) fit. The Himalayan
      and Hindu Kush circuits run long, as the li do on mountain roads, or take in hill country beyond the basin. The areas show size and rough reach, not borders: the
      capital need not have been central, rivers have moved since the 7th century, the rises are a choice made by
-     region, and the circuits themselves are rounded figures.
+     region, and the circuits themselves are rounded figures. The method is set out step by step, with Kapiśa worked through and its
+     identification, in `map/COUNTRY_AREAS.md`.
    - **Place panel:** the study's identification first, then Mizutani, the authorities, every source, the Xiyu ji
      and Life passages with translations, and the note.
 ## What the recent scholarship changes

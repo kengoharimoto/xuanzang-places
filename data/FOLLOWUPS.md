@@ -212,13 +212,16 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
   Bamiyan (01.37) took the slopes inside its ranges, which barred Kapiśa alone. Mountains all round are now read as a
   border at the crest (the drainage basin above the capital, closed to neighbours): Kapiśa has the Ghorband and
   Panjshir valleys; with the basin taken above the Panjshir's lower gorge (outlet at 34.68 N 69.64 E, above the Kabul
-  river's junction at Naghlu) it has the whole basin, Nijrab, Tagab and the Koh-daman included: 13,111 km² (16%),
+  river's junction at Naghlu) it has the whole basin, Nijrab and the Koh-daman included (the Tagab joins below the gorge): 13,111 km² (16%),
   and it fills it (12,728 km², 15%, on the 0.01° grid). The circuit (4000 li, 1188 km at juan 1's 0.297 km per li)
   is 1.8 times the basin's perimeter; but so are other mountain countries' (perimeter of the basin, staircase-corrected
   by pi/4): Kashmir 2.4 (7000 li at 0.151), Kulūta 2.6, Brahmapura 3.5, against Ferghana 0.8, Lampāka 0.9, Kosala 1.2.
   So Kapiśa's gap is the common one of Himalayan and Hindu Kush circuits (li running long on mountain roads, or hill
   country beyond the basin counted in), and Kabul need not have been in it; that reading stays possible, open. All
-  nine basins now come from the 0.01° grid (channels within 0.6 cells of their gorges).
+  nine basins now come from the 0.01° grid (channels within 0.6 cells of their gorges). Open: the 0.01° grid closes the Kabul river's
+  gorge below Kabul (Tang-i Gharu), so the plain east of the city (Pul-i Charkhi, Butkhak, Khurd Kabul, Deh Sabz, c. 1,290
+  km²) drains north into the Koh-daman and is counted in Kapiśa's basin; the fix is to burn the Natural Earth river
+  courses into the fine grids and recheck all nine basins (`map/COUNTRY_AREAS.md`).
 - **Ujjayinī (11.12) and Bharukaccha (11.04)**: kept high. They rest on excavation of the agreed site plus an unbroken
   name and no rival site, as do Prayāga (05.04) and Vārāṇasī (07.01); the rule's site evidence includes excavation, and
   lowering these two alone would be inconsistent. A strict rule (a dated 7th-century find or an inscription naming the
