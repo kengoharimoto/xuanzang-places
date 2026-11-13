@@ -3,7 +3,7 @@
 The study's sources stop at Ji (1985) for the commentary and at *Indian Archaeology – A Review* 2000–01 for excavation.
 This file tracks the later literature: what has been found, what has been read and coded, and what is still wanted.
 
-- **Bibliography:** `data/literature.tsv`, one row per item (454 in all): key, group (A juan 1 and 12; B juan 2–3; C juan 4–7;
+- **Bibliography:** `data/literature.tsv`, one row per item (456 rows, 447 distinct items): key, group (A juan 1 and 12; B juan 2–3; C juan 4–7;
   D juan 8–9; E juan 10–11; X general), the place ids it bears on, citation, access, URL, the local text
   (`data/ref/lit/<group>/<key>.txt`, gitignored), relevance and status. Status: `have` (text in hand), `in study` (already
   used under another name), `oa, not fetched` (free online but blocked for scripts), `wanted` (book or paywall),

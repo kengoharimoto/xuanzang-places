@@ -1,0 +1,96 @@
+<meta charset="utf-8">
+<title>Xuanzang Places Bibliography</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400&family=Noto+Serif+TC:wght@400;600&family=IBM+Plex+Sans:wght@400;600&display=swap">
+<style>
+/* One reading column; entries as a hanging list, long lists folded. */
+:root{
+  --bg:#f6f4ef; --surface:#fffdf8; --fg:#1f2329; --muted:#5d6570; --rule:#d9d6cc;
+  --lapis:#27477d; --saffron:#a86a1c;
+  --secure:#2f7a5f; --probable:#4f7fb0; --open:#c0662d; --text:#a59f92; --none:#d3cfc4;
+  --serif:"Crimson Pro","Noto Serif TC",Georgia,serif;
+  --cjk:"Noto Serif TC","Songti TC",serif;
+  --sans:"IBM Plex Sans","Segoe UI",system-ui,sans-serif;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#16191e; --surface:#1d2128; --fg:#e7e4dc; --muted:#a3aab4; --rule:#323843;
+  --lapis:#9fb6e3; --saffron:#e0a457;
+  --secure:#6fbf9a; --probable:#86aee0; --open:#e3925a; --text:#7d786d; --none:#3a3f48; color-scheme:dark }}
+:root[data-theme="dark"]{
+  --bg:#16191e; --surface:#1d2128; --fg:#e7e4dc; --muted:#a3aab4; --rule:#323843;
+  --lapis:#9fb6e3; --saffron:#e0a457;
+  --secure:#6fbf9a; --probable:#86aee0; --open:#e3925a; --text:#7d786d; --none:#3a3f48; color-scheme:dark }
+body{background:var(--bg);color:var(--fg);font:18px/1.6 var(--serif);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+main{max-width:780px;margin:0 auto;padding-block:48px 72px;display:flex;flex-direction:column;gap:44px}
+header{display:flex;flex-direction:column;gap:12px}
+.eyebrow,th,.label,figcaption,.small,.legend,.stat b{font-family:var(--sans)}
+.eyebrow{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+h1{font-size:clamp(34px,6vw,48px);line-height:1.08;margin:0;font-weight:600;text-wrap:balance}
+h2{font-size:26px;line-height:1.2;margin:0;font-weight:600;text-wrap:balance}
+h3{font-size:19px;margin:0;font-weight:600}
+p{margin:0} .lede{font-size:21px}
+section{display:flex;flex-direction:column;gap:14px}
+a{color:var(--lapis)} a:focus-visible{outline:2px solid var(--saffron);outline-offset:2px}
+.zh{font-family:var(--cjk)}
+ul.list{margin:0;padding-left:1.2em;display:flex;flex-direction:column;gap:6px}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.stat{background:var(--surface);border:1px solid var(--rule);padding:12px 14px;display:flex;flex-direction:column;gap:2px;min-width:0}
+.stat b{font-size:28px;font-weight:600;font-variant-numeric:tabular-nums;color:var(--lapis)}
+.stat span{font-family:var(--sans);font-size:13px;color:var(--muted)}
+figure{margin:0;background:var(--surface);border:1px solid var(--rule);padding:16px 18px 12px;display:flex;flex-direction:column;gap:12px}
+figcaption{font-size:13.5px;line-height:1.5;color:var(--muted)}
+.bar{display:flex;height:28px;border-radius:2px;overflow:hidden}
+.bar span{display:block;height:100%}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:13px}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.legend i{width:12px;height:12px;border-radius:2px;display:inline-block}
+.tablewrap{overflow-x:auto;border:1px solid var(--rule);background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:15.5px;min-width:580px}
+th,td{text-align:left;padding:8px 12px;border-bottom:1px solid var(--rule);vertical-align:top}
+th{font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);font-weight:600;background:var(--bg)}
+tr:last-child td{border-bottom:0}
+td.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.pill{display:inline-block;font-family:var(--sans);font-size:11.5px;font-weight:600;padding:1px 7px;border-radius:3px;white-space:nowrap;color:var(--bg)}
+.p-secure{background:var(--secure)} .p-probable{background:var(--probable)} .p-open{background:var(--open)}
+svg text{font-family:var(--sans);font-size:12px;fill:var(--fg)}
+svg .muted{fill:var(--muted)}
+.small{font-size:14px;color:var(--muted)}
+footer{font-family:var(--sans);font-size:13.5px;color:var(--muted);border-top:1px solid var(--rule);padding-top:16px;display:flex;flex-direction:column;gap:6px}
+code{font-size:.85em}
+@media (max-width:640px){ body{font-size:17px} .stats{grid-template-columns:repeat(2,1fr)} }
+ul.bib{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
+ul.bib li{padding-left:1.4em;text-indent:-1.4em;overflow-wrap:anywhere}
+ul.bib .use{display:block;text-indent:0;font-family:var(--sans);font-size:13.5px;color:var(--muted)}
+ul.gaz{font-size:16px;gap:4px}
+details{border:1px solid var(--rule);background:var(--surface);padding:10px 14px}
+details[open]{padding-bottom:14px}
+summary{font-family:var(--sans);font-size:14.5px;cursor:pointer;color:var(--lapis)}
+details > :not(summary){margin-top:10px}
+h3 .n{font-family:var(--sans);font-size:13px;font-weight:400;color:var(--muted)}
+section h3{margin-top:10px}
+</style>
+
+<main>
+<header>
+  <div class="eyebrow">Xuanzang, <i>Da Tang Xiyu ji</i> <span class="zh">大唐西域記</span> (646) · a study of its places</div>
+  <h1>Bibliography</h1>
+  <p class="lede">The study drew on {{WORKS}} works in {{VOLUMES}} volumes; another {{GAZNONE}} gazetteers were searched without result.</p>
+  <p class="small">The findings: <a href="https://claude.ai/artifact/2H5yngbhmdj9pKEp5imP7e">Locating Xuanzang's Places</a>. The map: <a href="https://claude.ai/artifact/WUH4GFEULK5rZ8oaXw8PpH">Xuanzang's Places</a>.</p>
+</header>
+
+<div class="stats">
+  <div class="stat"><b>{{HAND}}</b><span>texts, translations, commentaries, surveys and other works</span></div>
+  <div class="stat"><b>{{SERIESVOLS}}</b><span>volumes of six survey and epigraphy series</span></div>
+  <div class="stat"><b>{{GAZ}}</b><span>gazetteers with coded passages, of {{GAZALL}} searched</span></div>
+  <div class="stat"><b>{{READ}}</b><span>items of scholarship since 1985</span></div>
+</div>
+
+<p class="small">Counted here are the works the study itself read, searched with result, or used: each series once among the works, and every volume among the volumes. Works the notes cite only through these (most of the Islamic geographers, for instance, through Le Strange, Barthold and Minorsky) are not counted. A further {{UNREAD}} items found in the search for later scholarship are listed at the end, not yet read.</p>
+
+{{BODY}}
+
+<footer>
+  <span>Built by <code>scripts/build_bibliography.py</code> from <code>data/bibliography.tsv</code>, <code>data/literature.tsv</code>, the gazetteer index and the series files the study read.</span>
+</footer>
+</main>

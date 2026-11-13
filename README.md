@@ -98,6 +98,10 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
 
 ## Sources
 
+The study drew on 424 works in 575 volumes, listed in `BIBLIOGRAPHY.html` (built by `scripts/build_bibliography.py`
+from `data/bibliography.tsv`, `data/literature.tsv`, the gazetteer index and the series files; published as an
+artifact beside FINDINGS). Counted are works read, searched with result, or used; each series once among the works.
+
 - **Text.** T2087, from the CBETA TEI XML (`scripts/build_t2087_xml.py`, `data/ref/t2087_cb_joined.txt`): the printed
   Taishō readings, with the 355 interlinear notes in （…） and the rare characters resolved. For the route figures,
   Daoxuan's 釋迦方志 (T2088) and Huili's *Life* (T2053) were also used (`route/`).
@@ -146,7 +150,7 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
   Internet Archive OCR, in `data/ref/baluch/` (gitignored). The identifiers are listed in
   `../yoga-gazetteers/regions/data/selection.tsv` (BAL*). They are coded as B001–B055 in `data/coded/gaz_batch10.tsv`.
 - **Recent scholarship, 1985–2026** (`data/LITERATURE.md`, `data/literature.tsv`, `data/LIT_INSTRUCTIONS.md`). A
-  bibliography of 456 items built region by region in English, Japanese, Chinese and European languages; 104
+  bibliography of 447 items (456 rows; Li Rongxi 1996 and four others entered twice or more) built region by region in English, Japanese, Chinese and European languages; 104
   items read and coded (`data/coded/lit_batch1-18.tsv`, 246 relevant rows, quotes checked; Tsuchiya 2010 OCR'd with Google Vision), shown on the map
   as "Recent scholarship (since 1985)" and folded into the notes as **Recent scholarship.** paragraphs. Among them:
   Falk 2017 and Davis et al. 2016 (Kapilavastu, Rāmagrāma), Kuwayama's papers of 1985–99 and Miyamoto 2012–18

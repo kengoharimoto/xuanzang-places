@@ -1,0 +1,58 @@
+section	citation	use	url
+text	Xuanzang 玄奘 and Bianji 辯機, *Da Tang Xiyu ji* 大唐西域記 (646), Taishō 51, no. 2087, in the CBETA TEI edition, with the Taishō apparatus.	The text, cut into 484 passages, read throughout.	https://cbetaonline.dila.edu.tw/T2087
+text	Huili 慧立 and Yancong 彥悰, *Da Ci'en si Sanzang fashi zhuan* 大慈恩寺三藏法師傳 (688), Taishō 50, no. 2053 (CBETA).	The *Life*: the parallel passage for 260 places, and the route figures.	https://cbetaonline.dila.edu.tw/T2053
+text	Daoxuan 道宣, *Shijia fangzhi* 釋迦方志 (650), Taishō 51, no. 2088 (CBETA).	Route figures.	https://cbetaonline.dila.edu.tw/T2088
+text	*Da Tang Xiyu ji*, Sixi 思溪 print (1132), Internet Archive scan.	Juans 1–8 OCR'd (Google Vision) for the variant readings.
+text	*Da Tang Xiyu ji*, Jōō 承應 print (1653).	Juans 7–12 checked for the variant readings.
+translation	Mizutani Shinjō 水谷真成 (tr.), 『大唐西域記』 (中国古典文学大系 22). Tokyo: Heibonsha, 1971.	The backbone of the place table; OCR'd with Google Vision.
+translation	Julien, Stanislas (tr.), *Mémoires sur les contrées occidentales*, 2 vols. Paris, 1857–58.	Identifications coded.	https://archive.org/details/b29352502_0001
+translation	Beal, Samuel (tr.), *Si-yu-ki: Buddhist Records of the Western World*, 2 vols. London, 1884.	Identifications coded; an aid to the translation.
+translation	Beal, Samuel (tr.), *The Life of Hiuen-Tsiang by the Shaman Hwui Li*. London, 1911 (new ed.).	An aid in checking the *Life*'s translations.
+translation	Beal, Samuel (tr.), *Travels of Fah-hian and Sung-yun*. London, 1869.	Used to test K. Harimoto's notes.
+translation	Watters, Thomas, *On Yuan Chwang's Travels in India*, 2 vols. London: Royal Asiatic Society (Oriental Translation Fund n.s. XIV–XV), 1904–05.	Identifications coded.	https://archive.org/details/pli.kerala.rare.17898
+translation	Li Rongxi (tr.), *The Great Tang Dynasty Record of the Western Regions* (BDK English Tripiṭaka 79). Berkeley: Numata Center, 1996.	Every passage's English checked against it.
+translation	Nagasawa Kazutoshi 長沢和俊 (tr.), 『法顕伝・宋雲行紀』 (東洋文庫 194). Tokyo: Heibonsha, 1971.	Used to test K. Harimoto's notes; OCR'd with Google Vision.
+authority	Vivien de Saint-Martin, Louis, "Mémoire analytique sur la carte de l'Asie centrale et de l'Inde", in Julien, *Mémoires*, vol. 2 (1858).	Identifications coded.	https://archive.org/details/b29352502_0002
+authority	Cunningham, Alexander, *The Ancient Geography of India* (1871), ed. Surendranath Majumdar Sastri. Calcutta, 1924.	Identifications coded (Cunningham and Majumdar).
+authority	Dey, Nundo Lal, *The Geographical Dictionary of Ancient and Mediaeval India*, 2nd ed. London: Luzac, 1927.	Identifications coded.	https://archive.org/details/GeographicalDictionaryOfAncientAndMediaevalIndia
+authority	季羨林 Ji Xianlin et al., 『大唐西域記校注』. Beijing: Zhonghua shuju, 1985.	Coded for 356 places; OCR'd with Google Vision.
+authority	Kuwayama Shōshin 桑山正進, 『カーピシー＝ガンダーラ史研究』. Doctoral thesis, Kyoto University, 1986 (handwritten; Kyoto University repository).	Chapters 1, 3, 4 §1 and 6 read from the page images.
+authority	Kuwayama Shōshin, *Across the Hindukush of the First Millennium: A Collection of the Papers*. Kyoto: Institute for Research in Humanities, Kyoto University, 2002.	Read for Afghanistan and the North-West.
+authority	Kuwayama Shōshin 桑山正進, 「大理石ヒンドゥー像はヒンドゥー王朝のものか」, 『東方學報』 (Kyoto) 43 (1972): 1–54.	Used to test K. Harimoto's notes.	https://doi.org/10.14989/66484
+survey	Foucher, Alfred, *La vieille route de l'Inde de Bactres à Taxila*, 2 vols. (MDAFA 1). Paris, 1942–47.	Coded (45 passages) for Afghanistan and the North-West; Toyo Bunko Digital Silk Road scans.
+survey	Stein, M. Aurel, *Kalhaṇa's Rājataraṅgiṇī: A Chronicle of the Kings of Kaśmīr*, 2 vols. Westminster: Constable, 1900.	Kashmir; read for the notes.
+survey	Stein, M. Aurel, *Memoir on Maps Illustrating the Ancient Geography of Kaśmīr*. Calcutta, 1899 (JASB 68, extra no. 2).	Kashmir; read for the notes.
+survey	Stein, M. Aurel, "Notes on the ancient topography of the Pīr Pantsāl route", *Journal of the Asiatic Society of Bengal* 64.1 (1895).	Kashmir; read for the notes.
+survey	Stein, M. Aurel, *Detailed Report of an Archaeological Tour with the Buner Field Force*. Lahore, 1898.	Buner and Swat.
+survey	Stein, M. Aurel, *Serindia*, 5 vols. Oxford, 1921.	Central Asia.
+survey	Stein, M. Aurel, *Innermost Asia*, 4 vols. Oxford, 1928.	Central Asia and eastern Iran.
+survey	Stein, M. Aurel, *An Archaeological Tour in Waziristan and Northern Baluchistan* (MASI 37). Calcutta, 1929.	Coded.	https://archive.org/details/in.ernet.dli.2015.35549
+survey	Stein, M. Aurel, *An Archaeological Tour in Gedrosia* (MASI 43). Calcutta, 1931.	Coded.	https://archive.org/details/in.ernet.dli.2015.35491
+survey	Stein, M. Aurel, *An Archaeological Tour in Upper Swat and Adjacent Hill Tracts* (MASI 42). Calcutta, 1930.	Swat.	https://archive.org/details/in.ernet.dli.2015.35502
+survey	Stein, M. Aurel, *On Alexander's Track to the Indus*. London: Macmillan, 1929.	Swat and the Indus.	https://archive.org/details/in.ernet.dli.2015.505052
+survey	Drew, Frederic, *The Jummoo and Kashmir Territories: A Geographical Account*. London: Stanford, 1875.	Kashmir and the hill states.
+survey	Burgess, James and Bhagwanlal Indraji, *Inscriptions from the Cave-Temples of Western India* (ASWI 10). Bombay, 1881.	Western India.	https://archive.org/details/inscriptionsfro00indrgoog
+survey	*The Indian Antiquary* 19 (1890), with Fleet's edition of the Mahākūṭa pillar inscription of Maṅgaleśa.	Mahārāṣṭra.	https://archive.org/details/dli.calcutta.06227
+survey	Mukherji, P. C., *A Report on a Tour of Exploration of the Antiquities in the Tarai, Nepal* (ASI, Imperial Series 26.1). Calcutta, 1901.	Coded with the ASR.
+iran	Le Strange, Guy, *The Lands of the Eastern Caliphate*. Cambridge, 1905.	Afghanistan and Central Asia: the Islamic geographers.	https://archive.org/details/b2935321x
+iran	Barthold, W., *Turkestan down to the Mongol Invasion*, 2nd ed. (E. J. W. Gibb Memorial n.s. 5). London, 1928.	Central Asia.	https://archive.org/details/in.ernet.dli.2015.2380
+iran	Minorsky, V. (tr.), *Ḥudūd al-ʿĀlam: "The Regions of the World"* (Gibb Memorial n.s. 11). London, 1937.	Afghanistan and Central Asia.	https://archive.org/details/in.ernet.dli.2015.281514
+iran	Marquart, J., *Ērānšahr nach der Geographie des Ps. Moses Xorenacʿi*. Berlin, 1901.	Afghanistan and Tokharistan.	https://archive.org/details/Eranshahr
+iran	Sachau, Edward C. (tr.), *Alberuni's India*, 2 vols. London, 1888.	Used to test K. Harimoto's notes.
+iran	*Gazetteer of the Hazara District*, 1883–84, and 1907 (Punjab).	The Hazara sites.	https://archive.org/details/in.ernet.dli.2015.29896
+names	Sims-Williams, Nicholas, *Bactrian Documents from Northern Afghanistan* I (2000; rev. 2012) and II (2007).	The Bactrian names.
+names	Yoshida Yutaka 吉田豊, "Sino-Iranica", 『西南アジア研究』 48 (1998).	The Iranian names.
+names	A normalised corpus of Sanskrit e-texts (Veda, epic, purāṇa, religious literature, poetry, śāstra, inscriptions; 6,503 files).	Searched for the reconstructed original names.
+obs	Lambrick, H. T., *Sind: A General Introduction* (History of Sind 1). Hyderabad, 1964.	Used to test K. Harimoto's notes.
+obs	Bisschop, Peter C. and Yuko Yokochi, *The Skandapurāṇa*, vol. IV. Leiden: Brill, 2018.	Used to test K. Harimoto's notes.
+obs	*Skandapurāṇa*, Kāśīkhaṇḍa, pt. 4 (Gurumaṇḍala Granthamālā), 1961.	Used to test K. Harimoto's notes.
+obs	Kafle, Nirajan, *The Niśvāsamukha*. Pondicherry: IFP / EFEO, 2020.	Used to test K. Harimoto's notes.
+obs	Cecil, Elizabeth A., *Mapping the Pāśupata Landscape*. Leiden: Brill, 2020.	Used to test K. Harimoto's notes.
+obs	Bakker, Hans T., *The Alkhan: A Hunnic People in South Asia*. Groningen: Barkhuis, 2020; and his 2016 Gonda Lecture.	Used to test K. Harimoto's notes.
+obs	Mirchandani, B. D., articles in *Journal of Indian History* 45 (1967) and 47 (1969), and *ABORI* (1976), "Ancient Sindhu and Sauvīra".	Used to test K. Harimoto's notes; OCR'd with Google Vision.
+obs	Balogh, Dániel (ed.), *Hunnic Peoples in Central and South Asia: Sources for their Origin and History*. Groningen: Barkhuis, 2020.	Used to test K. Harimoto's notes.
+obs	Marquis, Philippe, slides on the archaeology of Afghanistan (2020).	Used to test K. Harimoto's notes.
+obs	Review of Peter C. Bisschop, *Early Śaivism and the Skandapurāṇa* (Groningen, 2006).	Used to test K. Harimoto's notes.
+data	Mapzen/Tilezen terrain tiles (Terrarium encoding; SRTM, GMTED2010 and other sources), AWS Open Data.	Elevation for the country areas.	https://registry.opendata.aws/terrain-tiles/
+data	Lehner, B. and G. Grill, "Global river hydrography and network routing: baseline data and new approaches to study the world's large river systems", *Hydrological Processes* 27 (2013): 2171–2186 (HydroRIVERS v1.0).	River courses for the country areas and the map.	https://www.hydrosheds.org/products/hydrorivers
+data	Natural Earth, 1:50m countries and 1:10m rivers and lake centrelines.	The base map; named river borders.	https://www.naturalearthdata.com/
