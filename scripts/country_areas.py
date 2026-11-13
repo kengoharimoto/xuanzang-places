@@ -27,14 +27,15 @@ Method (README, "Country areas"):
    that side beyond its crest (the highest ground within 60 km past the range's foot, the foot being high ground as
    below), so the country may take the near slope; mountains all round (山周四境, 四境負山, 四面據山, 山嶺周境, and Kapiśa's and
    Lampāka's 三陲黑嶺) are a border at their crest: the country has the whole drainage basin above the gorge by which
-   its river leaves the ring (GORGE: Tiemenguan, Bekabad, the Panjshir's lower gorge, the Alingar's mouth, Dakka,
+   its river leaves the ring (GORGE: Tiemenguan, Bekabad, the Panjshir's lower gorge, the Laghman's mouth, Dakka,
    Baramulla, Larji, Kalagarh, the Mahanadi's exit from Chhattisgarh) up to the watershed (within its 1.6-radius cap; a basin stops at another country's capital, so Kapiśa's is not
    Nagarahāra's), the basin is closed to every neighbour, and outside it the country may not climb high ground. Basins
    come from the same heights (Priority-Flood from the sea and the grid's edge; a capital's cell is the one within
    two cells with the largest basin; a gorge is snapped to the grid's channel downstream of the capital). A range named on one side never bars the country's own basin. High ground is ground standing a
    set rise above the capital's valley floor, the rise set by region (REGION_RISE: 1000 m for the Tian Shan and
    Ferghana, 1200 m for the Oxus and Hindu Kush, 1500 m for the western Himalaya, 250 m for central India).
-   Heights from the AWS terrain tiles at zoom 5 (scripts/terrain_grid.py).
+   Heights from the AWS terrain tiles at zoom 5 (scripts/terrain_grid.py); basins from 0.01-degree grids of zoom-8
+   tiles with the HydroRIVERS courses burnt in (scripts/hydro_rivers.py; see BURN).
 These are not borders: the capital need not have been central, rivers have moved
 (the Beas, Sutlej and Ganges among them), and the circuit figures themselves are rough.
 """
@@ -185,7 +186,7 @@ def outlet(c):
 GORGE = {"01.05": (41.85, 86.20, "Tiemenguan, the Iron Gate above Korla, where the Konqi leaves the Bosten basin"),
          "01.10": (40.22, 69.30, "the Farhad narrows at Bekabad, where the Syr Darya leaves the Ferghana valley"),
          "01.38": (34.68, 69.64, "the Panjshir's lower gorge, above the Kabul river's junction at Naghlu"),
-         "02.02": (34.45, 70.28, "the Alingar's mouth on the Kabul river"),
+         "02.02": (34.53, 70.27, "the Laghman (Alingar) above its mouth on the Kabul river"),
          "02.03": (34.22, 71.05, "the Kabul river's gorge at Dakka, below the Jalalabad plain"),
          "03.06": (34.20, 74.34, "the Jhelum's gorge at Baramulla"),
          "04.04": (31.72, 77.21, "the Beas's gorge at Larji, below the Kullu valley"),
@@ -204,6 +205,29 @@ for c in countries:
     c["gorge_cells"] = round(best[0], 1)
     c["outlet"] = best[1]
 OUTLETS = {c["outlet"]: c["id"] for c in countries if c["outlet"] is not None}
+# River burning: the fine grid takes one pixel of the zoom-8 tiles per 0.01-degree cell, so a narrow gorge can vanish
+# and its river spill over a saddle instead (the Kabul river below Kabul, at Tang-i Gharu, ran north into the
+# Koh-daman). Before the drainage is computed, each cell on the mapped courses of HydroRIVERS (scripts/hydro_rivers.py:
+# reaches with at least 1000 km2 upstream) is set BURN metres below the lowest of its 3x3 cells (the mapped line can
+# lie a cell off the grid's valley floor), so the flow keeps to the real channels.
+BURN = int(__import__("os").environ.get("XZ_BURN", "500"))   # the same basins from 300 to 1000 m
+try: RIVERS = json.load(open("data/ref/hydrorivers/rivers_fine.json"))["lines"]
+except FileNotFoundError: RIVERS = {}
+def burn(cid, FE, fx0, fy0, fres, fnx, fny):
+    if not BURN or cid not in RIVERS: return FE
+    FE = list(FE); cells = set()
+    for line in RIVERS[cid]:
+        for (x1, y1), (x2, y2) in zip(line, line[1:]):
+            steps = max(1, int(max(abs(x2 - x1), abs(y2 - y1)) / (fres / 3)))
+            for t in range(steps + 1):
+                i = int((x1 + (x2 - x1) * t / steps - fx0) / fres); j = int((y1 + (y2 - y1) * t / steps - fy0) / fres)
+                if 0 <= i < fnx and 0 <= j < fny: cells.add(j * fnx + i)
+    E0 = FE[:]
+    for k in cells:
+        i, j = k % fnx, k // fnx
+        FE[k] = min(E0[(j + b) * fnx + i + a] for a in (-1, 0, 1) for b in (-1, 0, 1)
+                    if 0 <= i + a < fnx and 0 <= j + b < fny) - BURN
+    return FE
 def fine_basin(c):
     """The basin on the fine grid (scripts/terrain_grid.py, 0.01 degree) where there is one: drainage by Priority-Flood
     from the window's edge; the capital's cell is the one within 0.05 degree with the largest basin; the outlet is its
@@ -213,6 +237,7 @@ def fine_basin(c):
     try: F = json.load(open(f))
     except FileNotFoundError: return None
     fx0, fy0, fres, fnx, fny, FE = F["box"][0], F["box"][1], F["res"], F["nx"], F["ny"], F["elev"]
+    FE = burn(c["id"], FE, fx0, fy0, fres, fnx, fny)
     fdown = [-1] * (fnx * fny); seen = bytearray(fnx * fny); pq = []; order = []
     for k in range(fnx * fny):
         i, j = k % fnx, k // fnx

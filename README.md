@@ -313,7 +313,7 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      figures shrink as its distances do, and turned into an area at 0.75 of a circle's compactness. From the
      study's point for the capital, every country then grows over land at once, nearest cells first, until it
      reaches that area or 1.6 times its radius; neighbours meet half-way, and the sea stops growth. 130 are drawn:
-     80 at their full area, 50 hemmed in by neighbours, the sea or the cap. Not drawn: 14 with no circuit (the six
+     79 at their full area, 51 hemmed in by neighbours, the sea or the cap. Not drawn: 14 with no circuit (the six
      hearsay countries of SE Asia, Rāmagrāma and Kuśinagara, which are "deserted", Laṅgala's "several thousand li
      each way", the hearsay Fulin, the Women's country, 稽疆那, Nārikela island, Wakhan) and 4 whose capital has no
      point. Rivers the text names as a country's border are used (`data/country_borders.tsv`, ten borders of nine
@@ -331,7 +331,7 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      Kapiśa and Lampāka) are read as a border at the crest: the country has the whole drainage basin above the
      gorge by which its river leaves the ring, up to the watershed, closed to its neighbours (the gorges, in
      `scripts/country_areas.py` GORGE: Tiemenguan above Korla for Agni, the Farhad narrows at Bekabad for Ferghana,
-     the Panjshir's lower gorge above Naghlu for Kapiśa, the Alingar's mouth for Lampāka, Dakka for Nagarahāra,
+     the Panjshir's lower gorge above Naghlu for Kapiśa, the Laghman above its mouth for Lampāka, Dakka for Nagarahāra,
      Baramulla for Kashmir, Larji for Kulūta, Kalagarh for Brahmapura, the Mahanadi's exit from Chhattisgarh for
      Kosala; each snapped to the grid's channel below the capital) (a basin stops at another country's capital, so Kapiśa's
      stays its own inside Nagarahāra's Kabul river), and beyond the basin it may not climb high ground. High ground is
@@ -342,15 +342,18 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
      Heights come from the open AWS terrain tiles at zoom 5 (`scripts/terrain_grid.py`, `data/ref/terrain/`,
      gitignored). Every one of the eleven meets high ground where the text puts it. The nine basins come from a
      0.01° grid of zoom-8 tiles over each country's window (`data/ref/terrain/fine_*.json`; a 0.08° cell counts when
-     half of it lies in the basin), on which every channel passes within 0.6 of a 0.08° cell of its gorge; the 0.08°
+     half of it lies in the basin), with the HydroRIVERS courses (Lehner & Grill 2013; reaches of 1,000 km² and more,
+     `scripts/hydro_rivers.py`) burnt in as 500 m trenches so that gorges lost at that resolution stay open (on the
+     unburnt grid the Kabul river below Kabul ran north into the Koh-daman and the Laghman joined the Kabul river above
+     Lampāka's outlet; the basins are the same for trenches of 300 to 1,000 m); every channel passes within 0.4 of a
+     0.08° cell of its gorge; the 0.08°
      grid could not route Agni's Kaidu or Brahmapura's Ramganga. Ferghana fills its valley above Bekabad, Kashmir and
      Kulūta keep to their basins, and Kosala fills the Chhattisgarh plain up to its rim of hills. Kapiśa, at first
      drawn at 6% of its circuit because Andarab and Bamiyan took the slopes inside its ranges, now has its whole basin
      above the Panjshir's lower gorge (the Ghorband, the Panjshir, Nijrab and the Koh-daman up to the Hindu
-     Kush; the Tagab joins below the gorge), 12,728 km², 15% of its circuit (about 1,300 km² of it, east of Kabul,
-     is a fault of the fine grid, which closes the Kabul river's gorge below the city). Kapiśa's shortfall is not unusual: set against the perimeter of its basin,
-     the circuit runs 1.8 times too long at its juan's li, Kashmir's 2.4 times (at the Gandhāra–Kashmir li of 0.15 km),
-     Kulūta's 2.6 and Brahmapura's 3.5, while Ferghana's (0.8), Lampāka's (0.9) and Kosala's (1.2) fit. The Himalayan
+     Kush; the Tagab joins below the gorge), 11,942 km², 14% of its circuit. Kapiśa's shortfall is not unusual: set against the perimeter of its basin,
+     the circuit runs 2.0 times too long at its juan's li, Kashmir's 2.0 times (at the Gandhāra–Kashmir li of 0.15 km),
+     Kulūta's 2.6 and Brahmapura's 3.4, while Lampāka's and Kosala's (1.2) and Ferghana's and Nagarahāra's (0.7) fit. The Himalayan
      and Hindu Kush circuits run long, as the li do on mountain roads, or take in hill country beyond the basin. The areas show size and rough reach, not borders: the
      capital need not have been central, rivers have moved since the 7th century, the rises are a choice made by
      region, and the circuits themselves are rounded figures. The method is set out step by step, with Kapiśa worked through and its

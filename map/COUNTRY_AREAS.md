@@ -47,7 +47,7 @@ The area is grown on a 0.08° grid of land cells:
 
 So neighbours that press on each other meet roughly half-way, and a country with room becomes roughly round. A country
 drawn at less than 98% of its target is marked "hemmed in by neighbours, the sea or the radius cap". 130 countries are
-drawn: 80 at full size and 50 hemmed in.
+drawn: 79 at full size and 51 hemmed in.
 
 ### 5. Rivers named as borders
 
@@ -104,7 +104,7 @@ country is given its river's drainage basin up to the watershed:
   | Agni | Tiemenguan above Korla |
   | Ferghana | the Farhad narrows at Bekabad |
   | Kapiśa | the Panjshir's lower gorge above the Kabul river |
-  | Lampāka | the Alingar's mouth |
+  | Lampāka | the Laghman (Alingar) above its mouth on the Kabul river |
   | Nagarahāra | Dakka |
   | Kashmir | Baramulla |
   | Kulūta | Larji |
@@ -112,7 +112,24 @@ country is given its river's drainage basin up to the watershed:
   | Kosala | the Mahanadi's exit from Chhattisgarh |
 
 - **Finer grid:** the basins are computed on the 0.01° grid. A 0.08° cell counts as basin when half of it lies in the
-  basin. Every channel passes within 0.6 of a 0.08° cell of its gorge.
+  basin. Every channel passes within 0.4 of a 0.08° cell of its gorge.
+- **River burning:** the 0.01° grid takes one pixel of the zoom-8 tiles per cell, so a narrow gorge can vanish from it
+  and the modelled river then spills over a saddle instead. On the unburnt grid the Kabul river below Kabul
+  (Tang-i Gharu) ran north into the Koh-daman, and the Laghman reached the Kabul river above Lampāka's outlet. So
+  before the drainage is computed, the mapped courses of HydroRIVERS are cut into the grid as a trench
+  (`scripts/hydro_rivers.py`; Lehner & Grill 2013, the HydroSHEDS river network). Every reach with at least
+  1,000 km² upstream is burnt in, each of its cells set 500 m below the lowest of its 3×3 neighbours, because the
+  mapped line can lie a cell off the grid's valley floor. The flow then keeps to the real channels. The basins come
+  out the same with trenches from 300 m to 1,000 m deep. Natural Earth's river lines could not serve: they lack the
+  Kabul river and most rivers of this size.
+
+  Against the unburnt grid, five basins changed:
+  - **Agni:** loses 236 km² by its gorge.
+  - **Kapiśa:** loses 851 km² east of Kabul (the Kabul river below the city, Pul-i Charkhi, Butkhak, Khurd Kabul).
+  - **Lampāka:** loses 3,262 km² of Kabul-river side valleys, which had come in because the modelled Laghman joined
+    the Kabul river above the outlet. It is now hemmed in at 3,902 km², 79% of its target.
+  - **Nagarahāra:** loses 1,496 km² of the upper Alishang, which drains to the Laghman.
+  - **Kashmir:** gains 2,028 km² of the Pohru valley, which joins the Jhelum above Baramulla.
 - **Limits:** the basin stops at another country's capital, so a nested basin stays its own country's (Kapiśa's
   inside Nagarahāra's Kabul river). It is cut at the 1.6-radius cap.
 - **Effect on growth:** the basin is closed to every neighbour. Outside the basin, the country may not climb high
@@ -198,66 +215,56 @@ p. 41, can settle it.
   Kapiśa's own basin.
 
 **The gorge.** The basin is taken above the Panjshir's lower gorge, at 34.68 N, 69.64 E, just above the Panjshir's
-junction with the Kabul river near Naghlu. On the 0.01° grid the outlet lies at 34.685 N, 69.605 E, 0.4 of a 0.08°
-cell from that point.
+junction with the Kabul river near Naghlu. On the 0.01° grid, with the rivers burnt in, the outlet lies at 34.685 N,
+69.605 E, 0.4 of a 0.08° cell from that point.
 
 The basin includes:
 - the Ghorband valley up to the Shibar pass, with Fondukistan;
 - the Salang valley;
 - the Panjshir up to its head below the Khawak and Anjuman passes;
 - Nijrab;
-- the Koh-daman (Istalif, Shakardara, Sarai Khwaja) south to the Khair Khana pass.
+- the Koh-daman (Istalif, Shakardara, Sarai Khwaja) and Deh Sabz, south to the Khair Khana pass.
 
-It stops at Vṛjisthāna's point at Kabul (12.02). Because Mizutani places that country at Kabul, the basin cannot
-include the Kabul river above the city.
+The Tagab valley is not included: it joins the Panjshir below the gorge. The Kabul river, which drains the plain
+round the city, is not included either. Vṛjisthāna's point is at Kabul (12.02), where Mizutani places that country,
+so even a grid that routed the Kabul river wrongly could not have given Kapiśa the ground above the city.
 
 **The result.**
 
 | | km² | Share of target |
 |---|---|---|
-| Basin (0.08° cells) | 12,598 | |
-| Drawn | 12,728 | 15% |
-| of which basin | 12,533 | |
-| of which low ground just outside the basin | 195 | |
+| Basin (0.08° cells) | 11,747 | |
+| Drawn | 11,942 | 14% |
+| of which basin (all of it) | 11,747 | |
+| of which low ground just outside the basin, on the Tagab side | 195 | |
 
-One basin cell was taken first by Vṛjisthāna. The country fills its basin and gets little more. Beyond the watershed
+The country fills its basin and gets little more. Beyond the watershed
 lies high ground, which it may not climb, or ground that its neighbours reached first or hold as closed basins.
 
 **The neighbours:**
 - **Andarāb (12.03):** the Salang pass and the north side of the Khawak.
 - **Bāmiyān (01.37):** the Hajigak.
-- **Vṛjisthāna (12.02):** Kabul, Paghman, Maidan Shahr and the Logar.
+- **Vṛjisthāna (12.02):** Kabul, the Kabul river below it (Pul-i Charkhi, Butkhak, Khurd Kabul), Paghman, Maidan Shahr
+  and the Logar.
 - **Lampāka (02.02):** Laghman.
 - **No country:** the Tagab valley and Sarobi are drawn by none. They lie in Nagarahāra's closed basin above Dakka,
   but beyond the point where Nagarahāra had reached its own area.
 
-**Why only 15%.** The circuit is 1.8 times the basin's perimeter, measured on the cell outline and corrected by π/4
-for the stair-steps. Other mountain countries show the same gap, while countries in open basins fit:
+**Why only 14%.** The circuit is 2.0 times the basin's perimeter, measured on the cell outline and corrected by π/4
+for the stair-steps. Other Himalayan and Hindu Kush countries show a similar gap, while the open basins fit:
 
 | Country | Circuit ÷ basin perimeter |
 |---|---|
-| Kashmir | 2.4 |
+| Kapiśa | 2.0 |
+| Kashmir | 2.0 |
 | Kulūta | 2.6 |
-| Brahmapura | 3.5 |
-| Ferghana | 0.8 |
-| Lampāka | 0.9 |
+| Brahmapura | 3.4 |
+| Lampāka | 1.2 |
 | Kosala | 1.2 |
+| Ferghana | 0.7 |
+| Nagarahāra | 0.7 |
+| Agni | 0.6 |
 
 So the shortfall is the common one of Himalayan and Hindu Kush circuits. Either the li ran long on mountain roads, as
 the route legs show elsewhere, or the circuit took in hill country beyond the basin, which for Kapiśa would most
 naturally be the Kabul basin (Kuwayama 1990, p. 927). Both readings are left open.
-
-### A known fault: about 1,300 km² east of Kabul
-
-On the 0.01° grid the Kabul river's gorge below the city (Tang-i Gharu) is closed: the narrow canyon is lost at that
-resolution. As a result:
-- **The modelled flow runs north:** in the model, the Kabul plain drains north over the low saddle at Khair Khana into
-  the Koh-daman, and so into the Panjshir above Kapiśa's gorge.
-- **What this adds to Kapiśa:** about 1,290 km² of ground that really drains east down the Kabul river: the river
-  below the city (Pul-i Charkhi), Butkhak, Khurd Kabul and Deh Sabz, south to about 34.15 N.
-- **Why it isn't larger:** Vṛjisthāna's point at Kabul cuts the modelled basin at the city, so everything upstream of
-  Kabul (the Logar, Paghman, the upper Kabul river) is unaffected.
-
-Kapiśa's true basin above the gorge is therefore nearer 11,300 km², 13% of the target, and its circuit about 1.9 times
-the basin's perimeter. The fix is to burn the Natural Earth river courses into the fine grid before the drainage is
-computed, so that gorges lost at that resolution stay open. That would have to be checked in all nine basins.

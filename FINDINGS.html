@@ -156,8 +156,65 @@ code{font-size:.85em}
     <li><b>The Deccan figures are inflated.</b> South of the Mahānadī the stated li run two to four times too long, even between sites fixed by inscriptions at both ends: Andhra to Dhānakaṭaka is 1000 li for 85 km. The <i>Life</i>'s figures show the same. Cunningham's Deccan sites fit the figures better because he chose them to fit; the inscription-fixed sites should not be moved on route grounds.</li>
     <li><b>Sindh and Baluchistan.</b> Mirchandani's route of 1967 (Las Bela, Khuzdar, Kachhi, Duki) fits the <i>Xiyu ji</i>'s figures best as a whole: mean |z| 0.38 and 18° of bearing error, against 0.62 and 41° for Mizutani's. On the <i>Life</i>'s different order the advantage shrinks to the bearings, and the <i>Life</i> puts Laṅgala nearer Las Bela than Persian Makran.</li>
     <li><b>Kapilavastu.</b> The <i>Life</i>'s 800 li from Śrāvastī and 500 li on to Rāmagrāma pull Kapilavastu north-west of both Tilaurakot and Piprahwa.</li>
-    <li><b>Country areas.</b> Xuanzang gives most countries a circuit (<span class="zh">國周N里</span>). Scaled by the li of its juan and grown from the capital until neighbours meet, 130 countries are drawn on the map as approximate areas, 80 at their full size and 50 hemmed in by neighbours or the sea. Ten rivers and thirteen mountain phrases that the text names as borders shape them (<span class="zh">東臨信度河</span>, <span class="zh">北背雪山</span>, <span class="zh">山周四境</span>), with mountains on one side read as ground standing a set rise over the capital's valley floor (the rise set by region, 250 m in central India to 1500 m in the Himalaya), and mountains all round as a border at the crest: the country keeps its drainage basin, above the gorge by which its river leaves the ring (Baramulla for Kashmir, Larji for Kulūta, Bekabad for Ferghana), up to the watershed. One border fails its check: Śatadru's "great river on the west" (<span class="zh">西臨大河</span>) lies north of both candidate capitals; it fits a country in the Ropar–Nalagarh tract, east of the Sutlej's southward stretch, where no Buddhist remains are yet reported. The method is set out step by step, with Kapiśa worked through and its identification, in <a href="https://github.com/kengoharimoto/xuanzang-places/blob/main/map/COUNTRY_AREAS.md" target="_blank" rel="noopener">How the country areas are drawn</a>.</li>
+    <li><b>Country areas.</b> Xuanzang gives most countries a circuit (<span class="zh">國周N里</span>). Scaled by the li of its juan and grown from the capital until neighbours meet, 130 countries are drawn on the map as approximate areas, 79 at their full size and 51 hemmed in by neighbours or the sea. Ten rivers and thirteen mountain phrases that the text names as borders shape them (<span class="zh">東臨信度河</span>, <span class="zh">北背雪山</span>, <span class="zh">山周四境</span>), with mountains on one side read as ground standing a set rise over the capital's valley floor (the rise set by region, 250 m in central India to 1500 m in the Himalaya), and mountains all round as a border at the crest: the country keeps its drainage basin, above the gorge by which its river leaves the ring (Baramulla for Kashmir, Larji for Kulūta, Bekabad for Ferghana), up to the watershed. One border fails its check: Śatadru's "great river on the west" (<span class="zh">西臨大河</span>) lies north of both candidate capitals; it fits a country in the Ropar–Nalagarh tract, east of the Sutlej's southward stretch, where no Buddhist remains are yet reported. The method is set out below, under "How the country areas are drawn".</li>
   </ul>
+</section>
+
+<section>
+  <h2>How the country areas are drawn</h2>
+  <p>The map's country areas turn the circuit Xuanzang gives each country into an approximate extent round the study's point for its capital, using only the borders the text names and the lie of the land. They show size and rough reach, not historical borders: the capital need not have been central, rivers have moved, the circuits are rounded figures, and the li varies. The code is <code>scripts/country_areas.py</code>; every figure is in <code>data/country_areas.tsv</code>; the full account is <a href="https://github.com/kengoharimoto/xuanzang-places/blob/main/map/COUNTRY_AREAS.md" target="_blank" rel="noopener">map/COUNTRY_AREAS.md</a>.</p>
+  <h3>The method</h3>
+  <ul class="list">
+    <li><b>The circuit.</b> The first <span class="zh">周N里</span> before the capital is described, else the first that is not a city's. Ranges take the mean, <span class="zh">餘</span> ("over") is ignored, and <span class="zh">減</span> ("less than") takes 0.9. Bāmiyān and Khwārazm give breadth and length instead, taken as an ellipse. 14 countries give no figure and are not drawn.</li>
+    <li><b>The li.</b> The circuit is converted at the median straight-line km per li of the route legs in the country's own juan (0.24 where a juan has none), so where Xuanzang's distances run long, as in the Deccan, his circuits shrink with them.</li>
+    <li><b>The target area.</b> The area of a region whose perimeter is the circuit, at 0.75 of a circle's compactness: A = 0.75 × P² / 4π.</li>
+    <li><b>Growth.</b> On a 0.08° grid of land, every country grows at once from its capital, nearest cells first. A cell goes to the country that reaches it first. Growth stops at the target area or at 1.6 times the radius of that area, and the sea stops it. 79 countries reach their target; 51 are hemmed in.</li>
+    <li><b>Rivers named as borders.</b> Ten rivers, such as <span class="zh">東臨信度河</span>, from Natural Earth's courses. The country may not cross the river, the line is carried on beyond its ends, and the country grows more readily towards it. Phrases about the capital city are left out. One river fails its check: Śatadru's <span class="zh">西臨大河</span>.</li>
+    <li><b>High ground.</b> Ground standing a set rise above the capital's valley floor (the lowest of its 3×3 cells): 1000 m for the Tian Shan and Ferghana, 1200 m for the Oxus and Hindu Kush, 1500 m for the western Himalaya, 250 m for central India.</li>
+    <li><b>A range on one side</b> (<span class="zh">北背雪山</span>, <span class="zh">北背大山</span>, <span class="zh">東接葱嶺</span>) is a border at its crest, the highest ground within 60 km beyond the range's foot. The country may take the near slope, nothing beyond.</li>
+    <li><b>Mountains all round</b> (<span class="zh">山周四境</span>, <span class="zh">四境負山</span>, <span class="zh">四面據山</span>, <span class="zh">山嶺周境</span>, <span class="zh">三陲黑嶺</span>) are a border at the crest of the ring. The country gets its river's whole drainage basin up to the watershed, measured from the gorge by which the river leaves the ring, and the basin is closed to its neighbours. Outside the basin the country may take low ground but not climb high ground. The basin stops at another country's capital and at the 1.6-radius cap.</li>
+    <li><b>Drainage.</b> The basins are computed on a 0.01° grid by Priority-Flood. At that resolution a narrow gorge can vanish, and the modelled river then spills over a saddle: on the bare grid the Kabul river below Kabul ran north into the Koh-daman. So the river courses of HydroRIVERS (every reach with 1,000 km² or more upstream) are first cut into the grid as 500 m trenches, and the flow keeps to the real channels. The basins are the same for trenches of 300 to 1,000 m.</li>
+  </ul>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Country</th><th>Text</th><th>Gorge</th><th class="num">Circuit ÷ basin perimeter</th></tr></thead>
+    <tbody>
+      <tr><td>Agni</td><td><span class="zh">四面據山</span></td><td>Tiemenguan above Korla</td><td class="num">0.6</td></tr>
+      <tr><td>Ferghana</td><td><span class="zh">山周四境</span></td><td>the Farhad narrows at Bekabad</td><td class="num">0.7</td></tr>
+      <tr><td>Kapiśa</td><td><span class="zh">三陲黑嶺</span></td><td>the Panjshir's lower gorge above Naghlu</td><td class="num">2.0</td></tr>
+      <tr><td>Lampāka</td><td><span class="zh">三垂黑嶺</span></td><td>the Laghman above its mouth</td><td class="num">1.2</td></tr>
+      <tr><td>Nagarahāra</td><td><span class="zh">山周四境</span></td><td>Dakka</td><td class="num">0.7</td></tr>
+      <tr><td>Kashmir</td><td><span class="zh">四境負山</span></td><td>Baramulla</td><td class="num">2.0</td></tr>
+      <tr><td>Kulūta</td><td><span class="zh">山周四境</span></td><td>Larji</td><td class="num">2.6</td></tr>
+      <tr><td>Brahmapura</td><td><span class="zh">山周四境</span></td><td>Kalagarh on the Ramganga</td><td class="num">3.4</td></tr>
+      <tr><td>Kosala</td><td><span class="zh">山嶺周境</span></td><td>the Mahanadi leaving Chhattisgarh</td><td class="num">1.2</td></tr>
+    </tbody>
+  </table></div>
+  <p class="small">The perimeter is measured on the basin's cell outline and corrected by π/4 for the stair-steps. Above 1, the circuit is longer than the basin's rim.</p>
+  <h3>Kapiśa</h3>
+  <p><span class="zh">迦畢試國，周四千餘里，北背雪山，三陲黑嶺。國大都城周十餘里。</span> "Kapiśa is over 4000 li in circuit. On the north it is backed by the Snow Mountains, and on its three other borders are the Black Ranges. The great capital is over 10 li round." Xuanzang came from Bāmiyān, "entering the Snow Mountains and crossing the Black Range".</p>
+  <p><b>The country.</b> Every authority centres Kapiśa on the plain where the Panjshir and Ghorband meet, north of Kabul. They differ on its extent:</p>
+  <ul class="list">
+    <li>Mizutani: the basin at the confluence near Charikar.</li>
+    <li>Cunningham, followed by Watters: all Kafiristan with the Ghorband and Panjshir valleys.</li>
+    <li>Vivien de Saint-Martin: the Nijrao and Panjshir districts.</li>
+    <li>Kuwayama (1993): the country Xuanzang describes is the area round Begram, while its Khingal king ruled south to Kabul and east through Gandhāra to the Indus. His thesis (1990) counts the Kabul basin in the country itself (p. 927), against his own southern border at the Khair Khana pass. In 629 Lampāka, Nagarahāra, Gandhāra and Varṇu were Kapiśa's dependencies; the Sui called it <span class="zh">漕國</span>, and the Tang made it the <span class="zh">修鮮都督府</span>.</li>
+  </ul>
+  <p>How far south it reached is open. The study counts Kapiśa as secure, with its point on the Begram–Charikar plain.</p>
+  <p><b>The capital</b> is Begram, on the terrace south of the Panjshir, identified by Foucher in 1923 from the hostage monastery 3 li to its east and followed by Mizutani and Ji Xianlin. The older authorities each chose another site: Opian (Cunningham), Kushan (Beal, Dey), Nijrao or the Tagao (Vivien). Ghirshman's Gunde Paisa, 5 km south-east, rested on his early end for Begram's last level. Kuwayama answers it from the text, which puts the old royal monastery on the river's south bank north-west of the city without a distance, so the city stood by the river, and from the archaeology, which dates that last level to the 7th century. When Ghirshman ended it stays open until his 1946 report, p. 41, is seen.</p>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Kapiśa's figures</th><th class="num"></th></tr></thead>
+    <tbody>
+      <tr><td>Circuit (4000 li at juan 1's 0.297 km per li)</td><td class="num">1188 km</td></tr>
+      <tr><td>Target area</td><td class="num">84,233 km²</td></tr>
+      <tr><td>Cap (1.6 × the radius of that area)</td><td class="num">262 km</td></tr>
+      <tr><td>Valley floor at the capital; high ground from</td><td class="num">1456 m; 2656 m</td></tr>
+      <tr><td>High ground met (directions of 16)</td><td class="num">15</td></tr>
+      <tr><td>Basin above the Panjshir's lower gorge</td><td class="num">11,747 km²</td></tr>
+      <tr><td>Drawn (the whole basin, plus low ground on the Tagab side)</td><td class="num">11,942 km² (14%)</td></tr>
+    </tbody>
+  </table></div>
+  <p>The basin holds the Ghorband up to the Shibar pass (with Fondukistan), the Salang, the Panjshir to its head below the Khawak and Anjuman passes, Nijrab, and the Koh-daman and Deh Sabz south to Khair Khana. The Tagab joins below the gorge. The Kabul river and the plain round the city are Vṛjisthāna's (12.02), whose point is at Kabul, together with Paghman and the Logar. Andarāb has the Salang pass and the Khawak, Bāmiyān the Hajigak, and Lampāka the Laghman.</p>
+  <p>Kapiśa's circuit is twice its basin's rim, like Kashmir's; Kulūta's and Brahmapura's are longer still, while the open basins fit. So its shortfall is the common one of Himalayan and Hindu Kush circuits. Either the li ran long on mountain roads, or the circuit took in hill country beyond the basin, for Kapiśa most naturally the Kabul basin. Both readings stay open.</p>
 </section>
 
 <section>
@@ -206,7 +263,7 @@ code{font-size:.85em}
     <li>Laṅgala's capital and Avaṇḍa: the Sindh–Baluchistan question.</li>
     <li>Bhramaragiri: Arang or Nāgārjunakoṇḍa.</li>
     <li>Kapilavastu: Piprahwa–Ganwaria or Tilaurakot. Rāmagrāma: Parāsi (Ramgram) or Dharmauli. The Bhīmā shrine: Karamar or Kashmir Smast.</li>
-    <li>Mountain circuits run long. Drawn as its whole basin above the Panjshir's lower gorge, Kapiśa reaches only 15% of its circuit's area: the circuit is 1.8 times the basin's perimeter. Kashmir's is 2.4 times, Kulūta's 2.6 and Brahmapura's 3.5, while Ferghana's, Lampāka's and Kosala's fit (0.8–1.2). Whether the li ran long on mountain roads or the circuits took in hill country beyond the basins (Kabul, for Kapiśa) is open. About 1,300 km² of Kapiśa's basin, east of Kabul, is a fault of the fine terrain grid, which closes the Kabul river's gorge below the city; without it the basin is nearer 11,300 km² (13%).</li>
+    <li>Mountain circuits run long. Drawn as its whole basin above the Panjshir's lower gorge, Kapiśa reaches only 14% of its circuit's area: the circuit is 2.0 times the basin's perimeter. Kashmir's is also 2.0 times, Kulūta's 2.6 and Brahmapura's 3.4, while Ferghana's, Nagarahāra's, Lampāka's and Kosala's fit (0.7–1.2). Whether the li ran long on mountain roads or the circuits took in hill country beyond the basins (Kabul, for Kapiśa) is open.</li>
     <li>53 minor sites that the text gives no figures to place; 50 more placed only approximately from the text.</li>
   </ul>
   <p class="small">Not yet used: Ball's <i>Archaeological Gazetteer of Afghanistan</i> (1982; 2nd ed. 2019), and the books and paywalled reports listed as wanted in <code>data/LITERATURE.md</code>.</p>
