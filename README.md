@@ -10,6 +10,8 @@ about 1980. Japanese scholarship cites Mizutani Shinjō's annotated translation 
 places; English-language work still goes back to Watters (1904–05) and Cunningham. The study takes Ji as the standard,
 with Mizutani where Ji is silent, and its map is a visualisation of that standard wherever the evidence agrees with it.
 
+**Pages.** [Map](https://claude.ai/artifact/WUH4GFEULK5rZ8oaXw8PpH) · [Findings](https://claude.ai/artifact/2H5yngbhmdj9pKEp5imP7e) · [Bibliography](https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw)
+
 **Against the standard** (`data/standard/compare_*.tsv`, `data/STANDARD_INSTRUCTIONS.md`): 365 of the 490 places have a
 standard identification. For 262 the study agrees, and for 28 it names a more exact site within it; for 75 it departs,
 putting 35 elsewhere and leaving 40 open between the standard's site and another. Among the 148 countries, 121 agree
@@ -99,8 +101,8 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
 ## Sources
 
 The study drew on 424 works in 575 volumes, listed in `BIBLIOGRAPHY.html` (built by `scripts/build_bibliography.py`
-from `data/bibliography.tsv`, `data/literature.tsv`, the gazetteer index and the series files; published as an
-artifact beside FINDINGS). Counted are works read, searched with result, or used; each series once among the works.
+from `data/bibliography.tsv`, `data/literature.tsv`, the gazetteer index and the series files; published at
+https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw). Counted are works read, searched with result, or used; each series once among the works.
 
 - **Text.** T2087, from the CBETA TEI XML (`scripts/build_t2087_xml.py`, `data/ref/t2087_cb_joined.txt`): the printed
   Taishō readings, with the 355 interlinear notes in （…） and the rare characters resolved. For the route figures,
