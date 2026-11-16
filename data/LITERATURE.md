@@ -12,7 +12,8 @@ This file tracks the later literature: what has been found, what has been read a
   "to verify" or "from memory" were not checked against a catalogue.
 - **Coding:** `data/LIT_INSTRUCTIONS.md`; coded rows in `data/coded/lit_batch*.tsv` (1 A, 2 C, 3 D, 4 E, 5 B; 6-7 later downloads; 8 Bamiyan,
   9 Errington 2017, 10 A, 11 B/E/X, the downloads of 2026-11-12; 12 A, 13 ANP and Palola, 14 Swat/Gandhāra/Kashmir,
-  15 Lumbini and Tilaurakot, 16 Sonkh and Maheth, 17 Āndhradeśa, the Chrome downloads of 2026-11-12), quotes
+  15 Lumbini and Tilaurakot, 16 Sonkh and Maheth, 17 Āndhradeśa, the Chrome downloads of 2026-11-12; 19 the four
+  articles downloaded from the office on 2026-11-16, coded but not yet in `places.tsv`, the map or the notes), quotes
   checked with `scripts/check_quotes_asr.py`. They appear in `places.tsv` (`lit`, `lit_n`, `lit_evidence`) and on the map
   ("Recent scholarship (since 1985)"), and are folded into the notes as **Recent scholarship.** paragraphs.
 - **IAR 2007–14:** six later volumes of *Indian Archaeology – A Review* (2007–08, 2009–10 to 2013–14, from the ASI
@@ -117,18 +118,25 @@ Connections volumes (Internet Archive copies). What is left, and why:
 
 ### Books and paywalled articles, high relevance
 
-**On JSTOR (links checked 2026-11-13; get these from the office).** Article pages: `litvinsky1990_kafyrkala`
-https://www.jstor.org/stable/24048351; `prasad1988_sariputra` https://www.jstor.org/stable/29756860; `asher1986_rajaona`
-https://www.jstor.org/stable/29756765; `asher2000_lakhiserai` https://www.jstor.org/stable/3249882;
-`verardi2005_tapa_sardar` https://www.jstor.org/stable/29757656; `kumar2009_krimila_sculptures`
-https://www.jstor.org/stable/44147749; `prusty1993_langudi` https://www.jstor.org/stable/42936452. Issue or volume list,
-then click through: `errington1993_palusha` https://www.jstor.org/stable/i24045519 (vol. 7); `fedorov2006_khuttal`
-https://www.jstor.org/stable/i394599 (vol. 44); `olivieri_vidale2006_amsv` https://www.jstor.org/journal/eastwest?decade=2000
-(vol. 56); `forte1994_chinese_monastery_kirgiziya` https://www.jstor.org/journal/centasiaj?decade=1990 (vol. 38.1);
-`fussman1993_taxila` https://www.jstor.org/journal/studhistart?decade=1990 (vol. 31). `miyamoto2023_bai_kadagstan`: JSTOR's
-*BAI* stops at vol. 28 (2014), so probably not there. At the publishers instead: `amar2012_jras`, `coningham2013_lumbini_antiquity`,
-`leoshko1988_telhara`, `suvrathan2014_banavasi_sacred`, `pradeep2025_valabhi` (DOIs in the rows), `kumar2011_krimila` (Sage),
-`delavaissiere2010_chronology` (Peeters); `grenet2006_yabghus` is free on HAL.
+**On JSTOR: not available from the office (tried 2026-11-16).** JSTOR recognises the office network but answers "Your
+institution does not have access to this journal article" for all nine article pages opened: `litvinsky1990_kafyrkala`
+https://www.jstor.org/stable/24048351; `errington1993_palusha` https://www.jstor.org/stable/24048426; `prasad1988_sariputra`
+https://www.jstor.org/stable/29756860; `asher1986_rajaona` https://www.jstor.org/stable/29756765; `asher2000_lakhiserai`
+https://www.jstor.org/stable/3249882; `kumar2009_krimila_sculptures` https://www.jstor.org/stable/44147749;
+`prusty1993_langudi` https://www.jstor.org/stable/42936452; `fedorov2006_khuttal` https://www.jstor.org/stable/4300709;
+`verardi2005_tapa_sardar`, whose recorded page https://www.jstor.org/stable/29757656 is a different article ('Remarks on
+Several Gandhāra Pieces'; right page not found). Article pages not reached, East and West being uncovered in any case:
+`olivieri_vidale2006_amsv` https://www.jstor.org/journal/eastwest?decade=2000 (vol. 56);
+`forte1994_chinese_monastery_kirgiziya` https://www.jstor.org/journal/centasiaj?decade=1990 (vol. 38.1); `fussman1993_taxila`
+https://www.jstor.org/journal/studhistart?decade=1990 (vol. 31). `miyamoto2023_bai_kadagstan`: JSTOR's *BAI* stops at vol. 28
+(2014), so probably not there. JSTOR offers free online reading (no PDF) with a personal account.
+
+**At the publishers, from the office (2026-11-16).** Downloaded (Cambridge journals, Springer): `coningham2013_lumbini_antiquity`,
+`amar2012_jras`, `huxley2010_fuhrer`, `pradeep2025_valabhi`; texts in `data/ref/lit/`, coded in `data/coded/lit_batch19.tsv`. No access: Taylor & Francis
+(`leoshko1988_telhara`, `suvrathan2014_banavasi_sacred`, `fedorov2006_khuttal`), Sage (`kumar2011_krimila`), Oxford Academic
+books (`ball2019_gazetteer`, `azad2013_balkh`), the Cambridge book chapter `rezakhani2017_tokharistan_sogdiana`, and the 1985
+JRAS note `agrawal1985_hund_inscription`. Not tested: Peeters (`delavaissiere2010_chronology`), Brill, Sage's *China Report*
+(`deeg2012_misunderstood`), CNKI. `grenet2006_yabghus` is free on HAL.
 
 **Central Asia, Xinjiang, Afghanistan (juan 1, 12)**
 
@@ -177,7 +185,6 @@ https://www.jstor.org/stable/i394599 (vol. 44); `olivieri_vidale2006_amsv` https
 - `aboshi1997_jetavana` [book]: Aboshi Yoshinori et al. (Kansai University Indo-Japanese joint team), Excavations at Jetavana (Saheth) / 『祇園精舎: サヘート遺跡発掘調査報告書』 (Tokyo: Dōhōsha Shuppan), 1642 pp. — https://kaken.nii.ac.jp/en/report/KAKENHI-PROJECT-06041110/060411101996kenkyu_seika_hokoku_gaiyo
 - `asher2020_sarnath` [book]: Asher, Frederick M., Sarnath: A Critical History of the Place Where Buddhism Began (Los Angeles: Getty Research Institute) — https://shop.getty.edu/products/sarnath-a-critical-history-of-the-place-where-buddhism-began-978-1606066164
 - `bakker1986_ayodhya` [book]: Bakker, Hans, Ayodhyā (Groningen Oriental Studies 1; Groningen: Egbert Forsten), 3 parts — https://relbib.de/Record/028861671/Details
-- `coningham2013_lumbini_antiquity` [paywall]: Coningham, R.A.E., K.P. Acharya, K.M. Strickland, et al., 'The earliest Buddhist shrine: excavating the birthplace of the Buddha, Lumbini (Nepal)', Antiquity 87(338), pp. 1104-1123, doi:10.1017/S0003598X00049899 — https://doi.org/10.1017/S0003598X00049899
 - `deeg2003_siddhartha_trod` [unknown]: Deeg, Max, The Places Where Siddhārtha Trod: Lumbinī and Kapilavastu (Lumbini International Research Institute, Occasional Papers 3; Lumbini: LIRI) — https://zenon.dainst.org/Record/000227538
 - `deeg2005_faxian` [book]: Deeg, Max, Das Gaoseng-Faxian-zhuan als religionsgeschichtliche Quelle: der älteste Bericht eines chinesischen buddhistischen Pilgermönchs über seine Reise nach Indien mit Übersetzung des Textes (Studies in Oriental Religions 52; Wiesbaden: Harrassowitz) — https://www.harrassowitz-verlag.de/
 - `jbf2005_lumbini_mayadevi` [book]: 全日本仏教会ルンビニー委員会 編, 『ルンビニー: マヤ堂の考古学的調査 1992-1995』 (東京: 全日本仏教会) — https://cir.nii.ac.jp/crid/1971430859825650221
@@ -213,7 +220,6 @@ https://www.jstor.org/stable/i394599 (vol. 44); `olivieri_vidale2006_amsv` https
 - `cohen2006_ajantainscr` [paywall]: Cohen, Richard S., 'Appendix: Ajanta's Inscriptions', in Walter M. Spink, Ajanta: History and Development, vol. 2. Leiden: Brill, 2006, pp. 273–339. — https://brill.com/display/title/12396
 - `hikosaka1989_tamilnadu` [book]: Hikosaka, Shu, Buddhism in Tamil Nadu: A New Perspective. Madras: Institute of Asian Studies, 1989. — https://search.worldcat.org/search?q=Buddhism%20in%20Tamil%20Nadu%3A%20A%20New%20Perspective%20Hikosaka
 - `langudi_excavations` [unknown]: Pradhan, Debraj [and colleagues], reports on the Langudi hill excavations (Kayama/Deuli/Langudi, Jajpur), Orissa Institute of Maritime and South East Asian Studies / Odisha State Archaeology, c. 1996–2006 (incl. inscribed stupa fragments read as Aśokan). [exact titles to verify] (citation from memory; verify) — https://search.worldcat.org/search?q=Langudi%20excavation%20Pushpagiri%20Pradhan
-- `pradeep2025_valabhi` [paywall]: Pradeep, A.S. and M.B. Rajani, 'Ancient Valabhi: A Remote Sensing Perspective', Journal of the Indian Society of Remote Sensing 53 (2025): 1765-1783, doi:10.1007/s12524-024-02087-7 — https://doi.org/10.1007/s12524-024-02087-7
 - `prusty1993_langudi` [paywall]: Prusty, Harish Chandra & Pradeep Mohanty, 'Langudi: A Unique Rock-cut Buddhist Site in Orissa', Bulletin of the Deccan College Research Institute 53 (1993): 325–327. JSTOR 42936452. — https://www.jstor.org/stable/42936452
 - `sharma_sirpur` [book]: Sharma, A.K., Prabhat Kumar Singh and Praveen Tirkey, Excavations at Sirpur 2000–2012: Antiquities. New Delhi: Aayu Publications, 2017. xiv+181 pp. ISBN 9789385161513 — https://www.exoticindiaart.com/book/details/excavations-at-sirpur-2000-2012-antiquities-uap796/
 - `spink2005_ajanta` [paywall]: Spink, Walter M., Ajanta: History and Development. 7 vols. Handbook of Oriental Studies 2.18. Leiden: Brill, 2005–2017. — https://brill.com/display/serial/HO2-18

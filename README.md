@@ -100,7 +100,7 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
 
 ## Sources
 
-The study drew on 424 works in 575 volumes, listed in `BIBLIOGRAPHY.html` (built by `scripts/build_bibliography.py`
+The study drew on 428 works in 579 volumes, listed in `BIBLIOGRAPHY.html` (built by `scripts/build_bibliography.py`
 from `data/bibliography.tsv`, `data/literature.tsv`, the gazetteer index and the series files; published at
 https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw). Counted are works read, searched with result, or used; each series once among the works.
 
@@ -500,7 +500,7 @@ These are medium- or high-confidence proposals that move away from Mizutani; how
 ## Limits
 
 - **Later scholarship.** Mizutani is the 1971 state of the question; Ji (1985) brings it to about 1980. Of the work
-  since then, 104 items have been read (`data/LITERATURE.md`); the searches ran out of budget part way, so
+  since then, 108 items have been read (`data/LITERATURE.md`); the searches ran out of budget part way, so
   coverage is uneven, and the key books and paywalled reports (Coningham et al. 2018 on Tilaurakot, Srivastava 1996,
   the Rissho reports and the full Kansai report on Maheth (only its KAKEN summary is read), Kuwayama's Rinsen volumes, Errington 1993 (Errington 2017 is read, and Errington 1993 is known through Khan Khattak 2019's quotation), Saran 2008 on Juafardih, the Telhara
   report) are listed there as wanted. Works cited at second hand are marked "not read" in the notes. *Indian
