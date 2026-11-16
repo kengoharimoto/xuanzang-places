@@ -252,6 +252,10 @@ Dey agree.
 Brahmin pilgrimage town fits Xuanzang's thousand Brahmin families.
 **Ji Xianlin et al. (1985).** Ji agrees: Brahma-Gayā, the old town covering modern Sahebganj (N) and old Gayā (S)
 (p. 663).
+**Recent scholarship.** Amar (2012, pp. 167–170) dates the Brahmanical town from its remains: a śrāddha centre from
+the early centuries CE, but the first Vaiṣṇava shrine at the Viṣṇupada in the 9th century by inscription, with
+8th-century Viṣṇu images at Maṅgalagaurī and Rāmagayā. Nothing dated at the site is as early as Xuanzang; it does not
+test the identification.
 **Assessment.** Probable to secure; the distance fits, though the spring needs an emendation.
 
 ### 08.05.01a 伽耶山 (Gayāśīrṣa) — Brahmayoni hill, SW of Gayā
@@ -262,6 +266,11 @@ Brahmayoni as Gayāśīrṣa.
 **Evidence.** Route test: 5–6 li SW of the town gives 2.4 km at 204°, within the expected range (`segment_tests.tsv`).
 No remains of the stūpa reported.
 **Ji Xianlin et al. (1985).** Ji agrees: Brahmayoni hill, S of Gayā, about 400 ft high (p. 664).
+**Recent scholarship.** Amar (2012, pp. 168–169) looked in his survey of 2005–06 for the hilltop stūpa and for the
+three Kāśyapa stūpas SE of the hill. There is no trace of a stūpa on the summit (the temple there is of the 18th
+century), no Buddhist remains on the hill, and no in-situ stūpa base anywhere at Gayā, only pieces of Pāla votive
+stūpas in the town's collections. He thinks Xuanzang was right and the shrines were displaced before the Gayā Māhātmya
+(11th c.), which makes Gayāśīrṣa a place of piṇḍadāna.
 **Assessment.** The authorities agree and the bearing and distance fit. Probable.
 
 ### 08.06.21 尼連禪那河浴處窣堵波 (stūpa where the Bodhisattva bathed in the Nairañjanā) — Tika Bigha on Cunningham's map only
@@ -271,7 +280,9 @@ No remains of the stūpa reported.
 excavation or finds that single out the bathing place.
 **Recent scholarship.** Anand 2019 (blog) moves the austerity group to the E bank round Bakraur (Dharmāraṇya,
 Mātaṅgavāpī), arguing from the pilgrims' bearings; he has only unexcavated surface mounds, and the Ratanāgiri rock 200 m
-E of Bakraur that he cites is Faxian's, not Xuanzang's.
+E of Bakraur that he cites is Faxian's, not Xuanzang's. Amar (2012, p. 160) calls the Bakror stūpa on the E bank the
+place where Sujātā offered the milk-rice, the mound's current label (09.01.01), without arguing it from Xuanzang's
+bearings.
 **Assessment.** A label on a plan, and a rival argued from bearings alone. Open between Tika Bigha and the E bank.
 
 ### 08.06.x1 佛經行處 (the Buddha's promenade N of the Bodhi tree) — the raised walk outside the N wall of the Mahābodhi temple
@@ -335,6 +346,8 @@ Brahmanical monastery on it and old bricks reused in the shrine; no excavation.
 called Jeshtiban, "an almost perfect preservation of the ancient name". Cunningham (ASR III, pp. 139–40) found bamboos
 but no Aśokan stūpa. Tapoban lies 2 miles SW, as the hot springs 10 li SW (09.02.03). The Life calls it 杖林山.
 **Ji Xianlin et al. (1985).** Ji agrees: Jeshtiban, the Life's 杖林 (p. 711).
+**Recent scholarship.** Amar (2012, p. 160) accepts Jethian and classes it, from his survey of 2005–06 (not yet
+published), as an early historic monastery that grew in the early medieval period.
 **Assessment.** The name, old remains and the bearing to Tapoban support Mizutani. Probable; no excavation.
 
 ### 09.02.03a 大山 (the great mountain SE of Yaṣṭivana) — the Handia range, with Stein's stūpa platform at Sahudrasthan and Bimbisāra's walled road
@@ -530,6 +543,15 @@ description in the inscriptions matches Xuanzang's (p. 913).
 at Valabhī c. 470–80 and the Duddā-vihāra built c. 525 under Dhruvasena I for his niece, the nucleus of the later
 vihāra-maṇḍala, so Valabhī rose with Nālandā from the late 6th c.; Xuanzang's brief account (伽藍百餘所…德慧堅慧菩薩之所遊止)
 reflects his Nālandā viewpoint (pp. 649–64). History, not site.
+**Recent scholarship.** Pradeep and Rajani (2025, pp. 1767–1782) add remote sensing and a field visit of January 2023.
+They report, after Jairath (1986), that Heras's unpublished excavation of 1930 at Maya-no-Khado reached the
+foundations of a Buddhist monastery 22 ft down and found copper plates of three Maitraka rulers in situ, which would
+supply the monastery and the inscriptions the 1979–80 season lacked; this is at second hand. The town is a mound 15–20
+m high on an old strandline. A crop mark round the old settlement, with a bank of earth and stone blocks and a dry
+ditch seen on the ground, is read as a city wall and moat; the present settlement is about 4.6 km round, well under
+Xuanzang's 30 li. A square mound of c. 350 m in the SE of the town and six parallel mounds beside Maya-no-Khado are
+proposed, by analogy with Vikramaśīla, Somapura and Nālandā, as the royal centre and the Duddā-vihāra cluster. None of
+this is dated or excavated.
 **Assessment.** Agreement, a good route fit, and inscriptions and sealings from the site (reported by Ji). Secure.
 
 ### 11.12 鄔闍衍那國 (Ujjayanī) — Ujjain

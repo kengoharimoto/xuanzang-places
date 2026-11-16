@@ -479,7 +479,10 @@ stepped stūpas, rebuilt vihāras, two Gupta temple basements and a carved-brick
 image, warning that the earlier excavators' datings are often unsupported; Mishra's 19 terracotta seals "with Gupta
 characters" from a square stūpa are unread, and Bidari dates the 16 votive stūpas E of the temple between the
 7th-century Chinese visits and Ripu Malla's of 1312 (pp. 93, 97). The site was being built on when Xuanzang came.
-Murakami (2016, pp. 238–239) summarises the same results.
+Murakami (2016, pp. 238–239) summarises the same results. Coningham et al. (2013, *Antiquity* 87, pp. 1108–1109,
+1117–1119) first published that sequence with its dates: three brick pavements and a kerb of large bricks run under
+the Aśokan walls, over a line of six postholes whose fills gave 799–546 and 801–548 cal BC; the open, root-marked
+centre is read as a tree shrine and linked to the tree in Xuanzang's account.
 
 **Assessment.** The inscribed pillar, the temple and the split Xuanzang mentions agree. Mizutani is strengthened.
 
@@ -504,7 +507,9 @@ his date of discovery, 1897, is a slip for December 1896. The Oil River note is 
 **Recent scholarship.** Coningham et al. (2019, pp. 82–83) describe the pillar: polished Chunar sandstone, about 37 t,
 originally 30 ft 10.5 in high with 13 ft 8.5 in below ground, set in a base slab on a brick foundation (after Mishra).
 It tilts and has "a vertical fissure running down the middle"; the top is broken, with "no trace of the horse capital
-as described by … Xuanzang", but part of the base of the capital survives. The Oil River is not discussed.
+as described by … Xuanzang", but part of the base of the capital survives. The Oil River is not discussed. Coningham
+et al. (2013, p. 1105) only recall that the identification of 1896 rested on the pilgrims' topography and on the
+inscription's name Lumbini.
 
 **Assessment.** The pillar is settled; its split shaft and the surviving base of its lost capital agree with Xuanzang
 (Coningham et al. 2019). The Tilar, by name and position beside the garden, is a good identification of the Oil River,

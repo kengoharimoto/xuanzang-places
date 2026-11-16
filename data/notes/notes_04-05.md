@@ -685,7 +685,12 @@ copper coin of the Pañcāla king Achyuta. On ACT-IVA, just outside the W gate, 
 under a collapsed brick building of moulded and carved bricks, "probably of a temple", of the later Gupta period.
 Bhuvan Vikrama's season (IAR 2012–13, pp. 146–147) found settlement continuous from the OCP to the 12th century CE:
 PGW circular huts and adobe walls, and a "Mitra Panchal period" (250 BCE–320 CE) of brick houses with over 150 coins.
-Nothing names a monastery or the nāga-tank stūpa, but the town was occupied, and building, in Xuanzang's time.
+Nothing names a monastery or the nāga-tank stūpa, but the town was occupied, and building, in Xuanzang's time. Huxley
+(2010, p. 497) shows that the proofs in Führer's Progress Report on his 1891–92 season at Ramnagar were invented: the
+"inscriptions of the second and first centuries BC" found on the spot and confirming the identification are not in the
+Lucknow Museum, two more were compiled from Mathura inscriptions (Lüders), and the Mitra coins "under the foundations"
+were of a kind he had said could be bought from villagers. Führer's Ramnagar finds are not evidence; nothing in this
+note rests on them. Huxley mentions the Pabhosa cave inscription without questioning it.
 
 **Assessment.** Name, measured circuit and excavation agree, and nothing counts against them. Mizutani is
 strengthened.

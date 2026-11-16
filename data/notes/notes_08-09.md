@@ -217,6 +217,10 @@ that the name Kunwa "is almost certainly a survival" of Guṇamati.
 "a great building with its back wall against the hill". This summarises ASR XVI. RV24 adds a twelve-armed
 Avalokiteśvara by a large tank in the village.
 
+**Recent scholarship.** Amar (2012, p. 160) accepts Dharawat and, from his survey of 2005–06 (not yet published),
+counts it among the early historic monasteries that grew in the early medieval period, with Pāla sculpture and several
+inscriptions.
+
 **Assessment.** This is the best-founded identification in these notes that Mizutani lacks. The route works without
 emendation, the monastery stands on the hillside as described, and an early Buddhist stūpa was excavated. No
 inscription names Guṇamati.
@@ -237,6 +241,9 @@ colossal Buddha; remains over 97 × 67 ft with a long E–W wall; and brick moun
 **Gazetteers.** BG27 (Gaya 1906, pp. 194, 231) and RV24 (1957) give the same two arguments (position relative to
 Dharawat, "the lofty peak shaped like a stupa") and the temple with its colossal Buddha. They echo Beglar and ASR XVI.
 HU12 (1877) repeats the abandoned Bithawa.
+
+**Recent scholarship.** Amar (2012, p. 160) accepts Kauwadol and, from surface remains, takes it for an early medieval
+foundation (survey of 2005–06, not yet published), which would suit a house founded in Śīlabhadra's lifetime.
 
 **Assessment.** Kauwa-dol depends on Dharawat, and the two support each other. The survey measured the remains and
 checked the onward distance to Gayā, and Cunningham abandoned his own alternative. It is now well supported where
@@ -261,7 +268,9 @@ SE of Gaya". The survey reports coded here do not discuss the hill.
 measures the 3 miles from Gayā town; Cunningham's 2.5 miles are from Bodh Gayā, so Ji's "Gayā" is a slip.
 
 **Recent scholarship.** Anand 2021 (blog) accepts Dungeshwari (Dhongra) and says the identification rests on
-circumstantial evidence, no inscription having been found. He adds nothing new.
+circumstantial evidence, no inscription having been found. He adds nothing new. Amar (2012, p. 160) also accepts
+Dungeśvarī and, from surface remains, takes the site for an early medieval foundation (survey of 2005–06, not yet
+published).
 
 **Assessment.** The gazetteers strengthen Mizutani. They locate the shadow cave and the stūpas on a particular hill of
 his Mora range and give physical remains that match Xuanzang. Confidence medium: the remains (cave, image, terrace,
@@ -294,6 +303,10 @@ stūpas. No report names the monastery or cites Xuanzang; one season puts the mo
 **Ji Xianlin et al. (1985).** Ji agrees: the Mahābodhi precinct at Bodh Gayā, S of Gayā, excavated and restored under
 Cunningham in 1880 "according to the *Xiyu ji*" (pp. 663, 667); nothing on the enclosure.
 
+**Recent scholarship.** Amar (2012, p. 159) gives the precinct's sequence from the remains: a Mauryan stone slab, the
+Bodhi seat found by Cunningham, still at the foot of the tree; a stūpa, sandstone railing and monasteries by the end
+of the 1st century BC; a temple-shrine and images from the 4th century CE. Nothing on the enclosure wall.
+
 **Assessment.** The site was never in doubt. Bloch separates what Mizutani and the 1906 gazetteer equate: the stone
 railing was a Śuṅga fence round the tree; Xuanzang's enclosure of over 600 paces was a brick wall, untraced. Taradih
 adds a Gupta monastery beside the precinct in Xuanzang's day but does not touch the enclosure. Mizutani's precinct
@@ -320,6 +333,10 @@ temple's stucco and painting: "The temple (prāsāda) naturally must have been t
 the present day". Spooner (EC 1913–14, p. 71) publishes a terracotta plaque from Kumrahar that is "beyond all doubt
 ... a picture of the great Temple of Bodh Gaya". He takes the two standing figures before it for Xuanzang's silver
 Bodhisattvas.
+
+**Recent scholarship.** Amar (2012, pp. 159–160) dates the temple "roughly in its present form" to the second half of
+the 6th century, from the gandhakuṭī of the Mahānāman inscription (CII 3, no. 71), a few decades before Xuanzang
+measured it. He reports this from Fleet, not from new fieldwork.
 
 **Assessment.** The measured height, the base and the later E front answer Watters' objection as far as these files
 go. Bloch's inscription and the plaque carry the present building back to about Xuanzang's time. Mizutani is
@@ -424,6 +441,9 @@ the Nairañjanā (p. 703). His "1 mile SE of Gayā city" is a slip for Bodh Gay�
 **Recent scholarship.** Anand 2019 (blog) gives the mound's local names (Sujātāgaḍh, Sujātākuṭi; the 19th-century
 Koteni now names the threshing ground round it) and reports, from Sinha 2000 (p. 5), "many seals from 8th-9th CE
 reading Sujātāgriha" from the 1973 excavation. IAR 1973–74 mentions no seals, and Sinha 2000 is not yet checked here.
+Amar (2012, pp. 160, 170) likewise calls it the stūpa of Sujātā's milk-rice and counts Bakror, from his survey of
+2005–06 (not yet published), among the early historic monasteries of the region; he notes the Mātaṅgavāpī tank and
+Mātaṅgeśa temple of the Gayā Māhātmya close by. He does not discuss the Gandhahastin.
 
 **Assessment.** The excavation shows a major stūpa standing at Bakraur in Xuanzang's day: two stages precede the Pāla
 one. That supports Cunningham's equation, which rests on position across the river and the pillar Xuanzang mentions
@@ -508,7 +528,8 @@ Viṣṇupāda (citing Patil, *Antiquarian Remains in Bihar*, pp. 157, 164, 225,
 inscription is not read. He retells from Banerji (JPASB n.s. 2, 1906) the stone-covered tank, 8 × 5 ft, in which a
 skeleton was found before 1905, which is hearsay at second hand. G. K. Lama's survey records an inscribed broken image
 of Mahākāśyapa at the Mahadeva Sthan of Silao (IAR 2013–14, p. 22, G. K. Lama (BHU)), perhaps Chhabra's pedestal or a
-companion piece.
+companion piece. Amar (2012, p. 160) accepts Gurpa ("Gurupa") and takes the shrine, from surface remains, for an early
+medieval foundation.
 
 **Assessment.** The inscription shows that Gurupāda, Xuanzang's own alternative name (窶盧播陀), was the hill's name in
 Pāla Magadha. That is the premise of Banerji's derivation, though the pedestal says nothing of where the hill lay, and
