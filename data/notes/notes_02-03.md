@@ -1447,6 +1447,16 @@ distance with "no archaeological report" (uncertain). Beal gives no site.
 
 **Gazetteers.** None.
 
+**Name.** The Sanskrit form is a restoration, and two are in use. *Skandhila* is Julien's (1857, I, p. 184:
+"So-kien-ti-lo (Skandhila)", without a note); Beal (1884, I, p. 161) and Watters (1904) follow him. Recent work also
+writes *Skandila*, so the title of Dhammajoti's edition of the master's Abhidharmāvatāra (2024). The characters do not
+decide: 地 is Xuanzang's sign for *dhi* in 三摩地 (samādhi), but Middle Chinese has one voiced series, so 地 can stand for
+*di* as well. The other Chinese forms of the name favour *d*: 塞建地羅 (Puguang, T 1821, 11a26, glossed 悟入), 塞建陀
+(Fabao, T 1822, 458a4) and 塞建陀羅 (byline of T 1554); 塞建陀 is how Yijing writes the god Skanda (T 985, 459b5). On
+that reading the name is Skandila, a short form of a name beginning with Skanda-. Puguang glosses 塞建陀 as *skandha*
+(蘊) elsewhere, but does not explain the name so, and 悟入 translates neither. Open; "Skandhila" is kept here as the
+form of the older literature.
+
 **Assessment.** This is a reckoning only, and the monastery is unlocated.
 
 ### 03.06.10 商林伽藍 — the "merchant's wood" monastery: unlocated
