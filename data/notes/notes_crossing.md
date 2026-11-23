@@ -97,8 +97,8 @@ told to avoid the fifth and take water at the Wild Horse Spring 100 li off. The 
 fourth beacon contradicts its own 100 li between beacons; Stein (p. 275) supposes two marches lost from the text.
 At 0.32 km per li the five beacons fall on the five water stages An-hsi–Xingxingxia (480 li, 96 cyclometer miles).
 **P.2005.** Shuangquan, the fourth post, was set up in 678 "in the Moheyan desert of the Fifth Road" (就第五道莫賀延磧;
-Sun 2017, p. 142). Its distance from Shazhou is transcribed 477 li 260 bu; the neighbouring entries give 446 li 260 bu
-(511 li 40 bu less 64 li 80 bu). On P.2005's own distances it lies at Daquan, one stage short of Stein's fourth beacon.
+Sun 2017, p. 142). The manuscript gives its distance from Shazhou as 477 li 160 bu (Sun: 260 bu), but the neighbouring entries
+give 446–450 li (511 li 40 bu less 64 or 60 li 80 bu): the document's own figure is some 30 li out. On P.2005's own distances it lies at Daquan, one stage short of Stein's fourth beacon.
 **Assessment.** Stein's scheme fits the road and its water, at the price of a lacuna in the Life; the post list puts the
 fourth post a stage further south and inside the Moheyan. Open, low.
 

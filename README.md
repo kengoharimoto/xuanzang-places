@@ -115,7 +115,7 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
 
 ## Sources
 
-The study drew on 440 works in 591 volumes, listed in `BIBLIOGRAPHY.html` (built by `scripts/build_bibliography.py`
+The study drew on 441 works in 592 volumes, listed in `BIBLIOGRAPHY.html` (built by `scripts/build_bibliography.py`
 from `data/bibliography.tsv`, `data/literature.tsv`, the gazetteer index and the series files; published at
 https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw). Counted are works read, searched with result, or used; each series once among the works.
 

@@ -240,10 +240,11 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
   2020, Huang Yinzhou et al. 2024, Yan Gengwang vol. ii. Their arguments are known only through reviews; when read,
   revisit 01.04.x1–x5.
 - **P.2005 (沙州都督府圖經)**: read 2026-11-23 in Sun's edition (2017; `lit_batch21.tsv`, `route/p2005_posts.py`,
-  `route/README.md` §11). Still to do: check on the manuscript scan (Gallica refuses scripts; please download the
-  P.2005 images in a browser) Shuangquan's 四百七十七 (the chain requires 四百卌六), Lengquan's 一百七十步 (requires
-  七十步), and the 60 / 64 li between Shuangquan and the Fifth post; compare Ikeda On's and Li Zhengyu's editions; find
-  where Huang Yinzhou et al. (2024) put the Xinjing post (巴州二號古城).
+  `route/README.md` §11). Checked on the scan the user downloaded (Gallica
+  btv1b8301563c, `data/ref/p2005/`): Shuangquan 四百七十七里一百六十步 is the manuscript's own reading (c. 30 li out
+  against its neighbours), the 60 / 64 li are both in it, and the Fifth post–Lengquan bu are 卌 (Sun 卅). Still to
+  do: compare Ikeda On's and Li Zhengyu's editions (do they emend Shuangquan?); find where Huang Yinzhou et al.
+  (2024) put the Xinjing post (巴州二號古城).
 - **Suoyang cheng against the 50 li** (`route/README.md` §11): the Tang course of the Shule N of Suoyang cheng; a
   channel nearer than Shuangta would remove the conflict.
 - **Stein's Kua-chou-ch'eng**: its date (Qing ya-men; Stein cites no early finds) and coordinates; the point used is

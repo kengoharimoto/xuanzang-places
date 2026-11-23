@@ -500,11 +500,15 @@ Xingxingxia is 152 km in a straight line against his 154.5 km by road). `crossin
 edition and translation (PhD, Washington 2017, pp. 140–143; `data/coded/lit_batch21.tsv`), lists the posts of the
 "Fifth Road" (第五道) from Guazhou to Yizhou with each post's distance from Shazhou and to its neighbours. In 695 ten
 posts were ordered on it; Shuangquan was set up "in the Moheyan desert of the Fifth Road" in 678. `p2005_posts.py`:
-- **The figures check one another,** with 1 li = 300 bu. The Fifth post (511 li 40 bu) less "64 li 80 bu south to
-  Shuangquan" is exactly 446 li 260 bu, so Shuangquan's transcribed 477 li 260 bu is a slip for 446; Hutong (663 li
-  70 bu) less 84 li gives Lengquan 579 li 70 bu, not 170 bu. Shuangquan's "60 li 80 bu north to the Fifth post" and the
-  Fifth post's "64 li 80 bu south to Shuangquan" disagree. Wushan then lies at 377 li, Chiya on the Yizhou border at
-  743 li. The slips could be in the manuscript or the transcription; the scan (Gallica) refuses scripts.
+- **The figures check one another,** with 1 li = 300 bu. Read on the manuscript (Gallica, Pelliot chinois 2005,
+  btv1b8301563c, PDF pp. 10–11), Sun's text is right but for two bu: Shuangquan is 四百七十七里一百六十步 (Sun 二百),
+  and the Fifth post and Lengquan are 68 li 卌 (40) bu apart in both entries (Sun 卅). The Fifth post, Lengquan and
+  Hutong agree within 100 bu (511 li 40 bu + 68 li 40 bu = 579 li 80 bu; Hutong 663 li 70 bu less 84 li = 579 li 70 bu;
+  Lengquan itself 579 li 170 bu). Shuangquan's own figure, 477 li 160 bu, does not: the Fifth post less "64 li 80 bu
+  south to Shuangquan" gives 446 li 260 bu, and less Shuangquan's own "60 li 80 bu north to the Fifth post" 450 li
+  260 bu; both interval readings are in the manuscript. The absolute figure is some 30 li out, an error of the
+  document or its source; the chain here follows the intervals (446 li 260 bu). Wushan then lies at 377 li, Chiya on
+  the Yizhou border at 743 li.
 - **The posts sit on the road's water stages at one scale.** Between posts, 0.45–0.49 km per official li fits every
   interval (Xinjing → Wushan 149 li, two stages; then 70, 64 and 68 li, one stage each, the stages c. 30 km apart).
   Because the stages are evenly spaced, the fit does not fix where the series starts: (A) Xinjing at Stein's

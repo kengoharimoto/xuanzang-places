@@ -7,6 +7,9 @@ Text: Sun Yingying, "Manuscripts, Texts and Geographical Writings: A Study of Du
 University of Washington, 2017), ch. 5, pp. 140-143, her transcription with the manuscript's column numbers
 (data/ref/lit/A/sun2017_p2005.txt, gitignored). Distances are from Shazhou (Dunhuang), in li and bu; 1 li = 300 bu.
 Each post also gives the distance to its neighbours, so the figures check one another.
+Checked on the manuscript (Gallica, Pelliot chinois 2005, btv1b8301563c, PDF pp. 10-11; data/ref/p2005/, gitignored):
+Sun's text is right except Shuangquan's bu (MS 一百六十步, Sun 二百六十步) and the Fifth post <-> Lengquan bu (MS 卌步 in
+both entries, Sun 卅步). The figures below are the manuscript's; MS_ONLY marks where it differs from Sun.
 """
 import csv, math, re
 SUN = "data/ref/lit/A/sun2017_p2005.txt"
@@ -19,7 +22,7 @@ POSTS = [
     ("新井驛 Xinjing", li(227, 200), "在州東北二百卄七里二百步。瓜州常樂界"),
     ("廣顯驛 Guangxian", None, "新井驛廣顯驛烏山驛已上驛瓜州提 (no separate distance)"),
     ("烏山驛 Wushan", None, "南去瓜州常樂/5縣界烏山驛六十九里二百六十步 (from Shuangquan)"),
-    ("雙泉驛 Shuangquan", li(477, 260), "在州東北四百七十七里二百六十步"),
+    ("雙泉驛 Shuangquan", li(477, 160), "在州東北四百七十七里 (MS_ONLY: 一百六十步; Sun 二百六十步)"),
     ("第五驛 Diwu (the Fifth post)", li(511, 40), "在州東北五百一十一里卌步"),
     ("冷泉驛 Lengquan", li(579, 170), "在州東北五百七十九里一百七十步"),
     ("胡桐驛 Hutong", li(663, 70), "在州東北六百六十三里七十步"),
@@ -29,24 +32,26 @@ NEIGH = [   # (from, to, li as the manuscript states it, quote)
     ("雙泉驛 Shuangquan", "烏山驛 Wushan", li(69, 260), "南去瓜州常樂/5縣界烏山驛六十九里二百六十步"),
     ("雙泉驛 Shuangquan", "第五驛 Diwu (the Fifth post)", li(60, 80), "北去/6第五驛六十里八十步"),
     ("第五驛 Diwu (the Fifth post)", "雙泉驛 Shuangquan", li(64, 80), "南去雙泉/10驛六十四里八十步"),
-    ("第五驛 Diwu (the Fifth post)", "冷泉驛 Lengquan", li(68, 30), "北去冷泉驛六十八里/11卅步"),
+    ("第五驛 Diwu (the Fifth post)", "冷泉驛 Lengquan", li(68, 40), "北去冷泉驛六十八里 (MS_ONLY: 卌步; Sun 卅步)"),
+    ("冷泉驛 Lengquan", "第五驛 Diwu (the Fifth post)", li(68, 40), "南去第/15五驛六十八里 (MS_ONLY: 卌步; Sun 卅步)"),
     ("冷泉驛 Lengquan", "胡桐驛 Hutong", li(84), "北去胡桐驛八十四里"),
     ("胡桐驛 Hutong", "赤崖驛 Chiya (Yizhou, Rouyuan county border)", li(80), "北去伊州柔遠縣界赤崖驛八十里"),
 ]
 for q in [p[2] for p in POSTS if not p[2].startswith("(")] + [n[3] for n in NEIGH]:
-    qq = re.sub(r"\s*\(.*\)$", "", q).replace("/", "")
+    qq = re.sub(r"\s*\(.*\)$", "", q).replace("/", "")   # the bracketed MS_ONLY readings are checked on the scan, not in Sun
     qq = re.sub(r"\d+", "", qq)
     assert re.sub(r"\s+", "", qq) in T.replace("/", "").translate(str.maketrans("", "", "0123456789")), q
 D = {p[0]: p[1] for p in POSTS}
 # the check: each post's distance from Shazhou against its neighbour's plus the stated interval
 print("internal check (li from Shazhou):")
-print(f"  Diwu - 64 li 80 bu = {D['第五驛 Diwu (the Fifth post)'] - li(64, 80):.2f} (Shuangquan as transcribed {D['雙泉驛 Shuangquan']:.2f}):"
-      " the manuscript's arithmetic gives 446 li 260 bu; 四百七十七 is a slip for 四百卌六 (in the copy or the transcription)")
-print(f"  Diwu + 68 li 30 bu = {D['第五驛 Diwu (the Fifth post)'] + li(68, 30):.2f} (Lengquan as transcribed {D['冷泉驛 Lengquan']:.2f})")
-print(f"  Hutong - 84 li = {D['胡桐驛 Hutong'] - 84:.2f}: Lengquan's 一百七十步 should be 七十步 (579 li 70 bu)")
-print("  Shuangquan's own 'north to Diwu 60 li 80 bu' against Diwu's 'south to Shuangquan 64 li 80 bu': one of the two is a slip")
+print(f"  Diwu - 64 li 80 bu = {D['第五驛 Diwu (the Fifth post)'] - li(64, 80):.2f}, Diwu - 60 li 80 bu = {D['第五驛 Diwu (the Fifth post)'] - li(60, 80):.2f};"
+      f" the manuscript has Shuangquan at {D['雙泉驛 Shuangquan']:.2f} (四百七十七里一百六十步): its own absolute figure is c. 30 li out")
+print(f"  Diwu + 68 li 40 bu = {D['第五驛 Diwu (the Fifth post)'] + li(68, 40):.2f}; Hutong - 84 li = {D['胡桐驛 Hutong'] - 84:.2f};"
+      f" Lengquan in the manuscript {D['冷泉驛 Lengquan']:.2f}: within 100 bu")
+print("  Shuangquan's 'north to Diwu 60 li 80 bu' and Diwu's 'south to Shuangquan 64 li 80 bu' are both in the manuscript")
 C = dict(D)
-C["雙泉驛 Shuangquan"] = li(446, 260); C["冷泉驛 Lengquan"] = li(579, 70)
+C["雙泉驛 Shuangquan"] = li(446, 260)   # from the Fifth post and its 64 li 80 bu (the 60 li 80 bu reading gives 450 li 260 bu)
+C["冷泉驛 Lengquan"] = li(579, 70)       # from Hutong less 84 li
 C["烏山驛 Wushan"] = C["雙泉驛 Shuangquan"] - li(69, 260)
 C["赤崖驛 Chiya (Yizhou, Rouyuan county border)"] = C["胡桐驛 Hutong"] + 80
 # the road (Stein's stages), points as in route/crossing.py; straight lines; the road runs nearly straight
