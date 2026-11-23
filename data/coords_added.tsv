@@ -33,10 +33,10 @@ id	lat	lon	precision	label	note
 01.04.x1	40.2463	96.2051	site	Suoyang cheng ruins, Guazhou county	Wikipedia (Suoyang City); WHC 1442: 62 km SE of the county seat. Stein's Kua-chou-ch'eng lay c. 40.43, 95.82 (approx.)
 01.04.x2	40.53	96.30	approx	Shule river at Shuangta	approximate point on the river N of Suoyang cheng
 01.04.x3	40.55	96.35	approx	Shuangta-bao (now under the Shuangta reservoir)	approximate: the reservoir; one of three proposed sites
-01.04.x4	40.535	95.60	approx	Xinjing post site N of Liugong poch'eng (Li Zhengyu)	approximate: 31 huali (15.5 km) N of Liugong poch'eng, 4.5 huali N of the Shule (Li 2006/2011 n. [1]); Stein's Baidunzi c. 40.80, 95.60
-01.04.x5	41.2886	95.1844	approx	Daquan, the Shuangquan post (Li Zhengyu)	Nominatim point for Daquan; Li: 12 li NE of Daquan railway station. Stein's Malianjing c. 41.56, 95.30
-01.04.x6	41.73	94.77	approx	c. 30 miles WNW of Malianjing (Stein's estimate)	placed from Stein's map reading, not a known spring
+01.04.x4	40.5570	95.5998	site	Xinjing post site (Han beacon and fort) N of Liugong poch'eng (Li Zhengyu)	Li 2006/2011 n. [1]: grid X16720.2, Y4494.7 (km), read as Gauss–Krüger 6° zone 16 (CM 93°E) and converted on the Krasovsky ellipsoid; datum shift to WGS84 not applied (well under 1 km). Stein's Baidunzi c. 40.80, 95.60
+01.04.x5	41.3267	95.2352	approx	Daquan, the Shuangquan post (Li Zhengyu)	Li n. [9]: 12 li NE of Daquan railway station; placed 6 km NE of the station (Nominatim 41.2886, 95.1844). Stein's Malianjing c. 41.56, 95.30
+01.04.x6	41.47	94.80	approx	Lucaojingzi spring in the Zhaobi shan (Li Zhengyu)	unlocated (not in OSM or the gazetteers searched): Li §(2), a spring in the Zhaobi shan N of the track that runs W from Daquan S of the Zhaodong–Zhaoxi stations to Hongliuhe; 49 km from Daquan on the 1:50,000 map. Point about ±10 km. Stein's estimate c. 41.73, 94.77
 01.04.x7	42.05	94.55	approx	Pei-shan desert between Xingxingxia and the Hami oasis	indicative point only (Kushui–Yandun stretch)
-01.04.x8	42.40	93.91	approx	near Changliushui (Chang-liu-shui), Stein	approximate: on the road c. 35 miles SE of Hami
+01.04.x8	41.4639	94.4511	approx	Dashui, N of Dunhuang (Li Zhengyu)	OSM locality 大水泉？ (node 9327134067, name queried by its mapper); fits Li §(5): 148 km N of Dunhuang (336 li at 0.44 km per li) and W of Hongliuhe on his route. Stein's Changliushui c. 42.40, 93.91
 01.04.x9	42.8174	93.5142	town	Hami (Kumul)	modern town
 01.04.x10	42.8733	90.2774	approx	Pichan (辟展) oasis, Shanshan (study's conjecture)	the easternmost Turfan oasis, 61 km E of Gaochang; no source read equates it with Baili

@@ -524,7 +524,10 @@ posts were ordered on it; Shuangquan was set up "in the Moheyan desert of the Fi
   posts from his surveys (2006/2011): Xinjing 31 huali N of Liugong poch'eng (Tang Changle), Guangxian at Baidunzi,
   Wushan at Hongliuyuan, Shuangquan at Daquan, the Fifth post at Malianjing, Lengquan at Xingxingxia, Hutong at
   Shaquanzi, each with ruins, and several with Tang coins. His coordinates for Chiya (94°23′53″ E, 42°10′01″ N) lie
-  73 km from Xingxingxia, 0.45 km per li for the 164 li, where B predicted c. 75 km.
+  73 km from Xingxingxia, 0.45 km per li for the 164 li, where B predicted c. 75 km. His grid reading for the
+  Xinjing beacon (X16720.2, Y4494.7; Gauss–Krüger zone 16: 40.557 N, 95.600 E) puts it 92 km from Dunhuang in a straight
+  line (0.40 km per li for the 227.7 li, which ran by Changle) and 60 km from Hongliuyuan by Baidunzi (0.40 for the
+  149 li): at the site itself B's first leg runs at the low end of the road's range (B overall 0.44, range 0.40–0.49).
 - **The beacons and the posts.** The posts date from 678–695, after Xuanzang; the document says other posts were moved
   to beacons and named after them (階亭驛…置在階亭烽側，因烽為号), so posts at old beacon sites are a Tang practice. The
   five posts from Xinjing to the Fifth post span 283.5 official li, the Life's five beacons 400 li: if the beacons

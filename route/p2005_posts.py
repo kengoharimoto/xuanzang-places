@@ -57,7 +57,9 @@ C["赤崖驛 Chiya (Yizhou, Rouyuan county border)"] = C["胡桐驛 Hutong"] + 8
 # the road (Stein's stages), points as in route/crossing.py; straight lines; the road runs nearly straight
 P = {"anxi": (40.5176, 95.7812), "hongliuyuan": (41.0646, 95.4211), "daquan": (41.2886, 95.1844), "malianjing": (41.56, 95.30),
      "xingxingxia": (41.7957, 95.1316), "shaquanzi": (41.8854, 94.8054), "yandun": (42.29, 94.0108),
-     "chiya_li": (42 + 10/60 + 1.27/3600, 94 + 23/60 + 53.10/3600)}   # Chiya post as located by Li Zhengyu (2006/2011, n. [14])
+     "chiya_li": (42 + 10/60 + 1.27/3600, 94 + 23/60 + 53.10/3600),   # Chiya post as located by Li Zhengyu (2006/2011, n. [14])
+     "xinjing_li": (40.5570, 95.5998),
+     "baidunzi": (40.8043, 95.5998)}   # Guangxian post: Li's 55 huali (27.5 km) N of Xinjing; Stein's Pei-tan-tzu c. 40.80, 95.60   # Xinjing post, Li's grid X16720.2 Y4494.7 (n. [1]), Gauss-Krueger zone 16 converted (data/coords_added.tsv)
 def km(a, b):
     (a1, o1), (a2, o2) = P[a], P[b]; p1, p2 = map(math.radians, (a1, a2)); dl = math.radians(o2 - o1)
     return 6371 * math.acos(min(1, math.sin(p1) * math.sin(p2) + math.cos(p1) * math.cos(p2) * math.cos(dl)))
@@ -78,7 +80,7 @@ leg("A", L, CH, C[CH] - C[L], km("shaquanzi", "yandun"), "Shaquanzi -> Yandun (i
 # B: the posts placed by P.2005's own distance from Shazhou: Xinjing 27.7 li beyond the Changle post, near the Shule;
 #    this is Li Zhengyu's field identification (Xinjing N of Liugong, Wushan = Hongliuyuan, Shuangquan = Daquan,
 #    the Fifth post = Malianjing, Lengquan = Xingxingxia, Hutong = Shaquanzi, Chiya at his coordinates)
-leg("B: Xinjing near the Shule N of Changle (P.2005's own distances; Tosaki 2000)", X, W, C[W] - C[X], km("anxi", "hongliuyuan"), "An-hsi (Shule crossing) -> Hongliuyuan")
+leg("B: Xinjing near the Shule N of Changle (P.2005's own distances; Tosaki 2000)", X, W, C[W] - C[X], km("xinjing_li", "baidunzi") + km("baidunzi", "hongliuyuan"), "Xinjing as located by Li Zhengyu -> Baidunzi (Guangxian) -> Hongliuyuan")
 leg("B", W, S_, C[S_] - C[W], km("hongliuyuan", "daquan"), "Hongliuyuan -> Daquan")
 leg("B", S_, F, C[F] - C[S_], km("daquan", "malianjing"), "Daquan -> Malianjing")
 leg("B", F, L, C[L] - C[F], km("malianjing", "xingxingxia"), "Malianjing -> Xingxingxia")

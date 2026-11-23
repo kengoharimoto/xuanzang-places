@@ -246,8 +246,10 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
   text (2006/2011 web version) compared too (`route/p2005_editions.tsv`): he emends Shuangquan (七〔四〕, and 420 in
   his note) and supplies 四 in 六十［四］里. Still to do: Ikeda On's edition (1975, Enoki Festschrift; print only) and
   Zheng Binglin's (1989) and Wang Zhongluo's; where Huang Yinzhou et al. (2024) put the Xinjing post (巴州二號古城),
-  against Li's site N of Liugong; coordinates for Li's Xinjing, Lucaojingzi and Dashui (his figures 1–12 are not in
-  the web text).
+  against Li's site N of Liugong. Located 2026-11-24 (`data/coords_added.tsv`): Xinjing from Li's own grid figures
+  (n. [1]), Daquan 6 km NE of the station by his 12 li; Lucaojingzi is not on OSM and stays an estimate (±10 km), and
+  Dashui is an OSM locality "大水泉？" whose name its mapper queried. Li's figures 1–12 (not in the web text) or a survey
+  report would settle the last two.
 - **Suoyang cheng against the 50 li** (`route/README.md` §11): the Tang course of the Shule N of Suoyang cheng; a
   channel nearer than Shuangta would remove the conflict.
 - **Stein's Kua-chou-ch'eng**: its date (Qing ya-men; Stein cites no early finds) and coordinates; the point used is

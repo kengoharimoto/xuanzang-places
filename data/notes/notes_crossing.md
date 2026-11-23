@@ -105,7 +105,8 @@ Yizhou border, set up in 678–696. Between posts they fall on the road's water 
 coordinates put the series where Li found the posts (scheme B), one stage south of Stein's.
 **Assessment.** The post of Xinjing is located, by document, distance and ruin; that it was the first beacon of 629
 rests on Li's equation of beacons and posts. Stein's Baidunzi rests on 5 li to the mile. Li's site is the stronger
-candidate, with Stein's the rival; open, medium.
+candidate, with Stein's the rival; open, medium. The point is Li's grid reading for the beacon (X16720.2, Y4494.7: Gauss–Krüger
+zone 16, 40.557 N, 95.600 E).
 
 ### 01.04.x5 第四烽 (the fourth beacon) — Daquan, the Shuangquan post (Li Zhengyu), or Stein's Malianjing; open
 
@@ -124,7 +125,7 @@ entries give 446–450 li (511 li 40 bu less 64 or 60 li 80 bu): the document's 
 (447, or 420 by his own intervals). On the intervals it lies at Daquan.
 **Assessment.** Daquan is a Tang post site with a beacon and the two springs that give the name, where P.2005's
 distances put the fourth post; that the fourth beacon of 629 stood there is Li's inference. Stein's Malianjing is the
-rival; open, medium.
+rival; open, medium. The point is 6 km NE of Daquan station, by Li's 12 li.
 
 ### 01.04.x6 野馬泉 (Wild Horse Spring) — not found by Xuanzang; Lucaojingzi (Li Zhengyu) or Stein's map guess; open
 
@@ -137,7 +138,8 @@ museum. Zheng Binglin and Cao Hong (2010, not read) discuss it.
 li back east. The *Xingzhuang* has a sandstorm (遇風沙大起，不知泉處), which Li takes to explain the miss: the spring lies
 hidden among the hills and Xuanzang passed S of it. "Yemaquan" is a common desert name (Stein).
 **Assessment.** Li's spring fits the bearing and 100 li from his fourth beacon; Stein's is a map reading from his.
-Unlocated; the point is Stein's estimate. Open, low.
+Lucaojingzi is not on OSM or in the gazetteers searched; the point is an estimate from Li's description, in the Zhaobi
+shan N of the Zhaodong–Hongliuhe stretch (about ±10 km); Stein's estimate lies c. 41.73, 94.77. Open, low.
 
 ### 01.04.x7 莫賀延磧 (the Moheyan desert) — the Pei-shan desert N of Malianjing to the Hami oasis
 
@@ -167,7 +169,9 @@ dried up after the 1960s; about 330 li, three days, from Yiwu.
 **Evidence.** The Life: after four nights and five days without water, about ten li and then a few li more; several
 mu of grass and a pool; a day's rest, two days to Yiwu. The *Xingzhuang* counts three days to Yiwu from the pool, which
 is Li's ground against Stein: Kushui has no water and Changliushui is less than two days from Hami.
-**Assessment.** The days fit both; Li's site has the water and the vegetation, Stein's the road. Open, low.
+**Assessment.** The days fit both; Li's site has the water and the vegetation, Stein's the road. Open, low. Li gives no coordinates;
+the point is an OSM locality named 大水泉？ (its mapper unsure of the name), which matches his 336 li N of Dunhuang (148 km,
+0.44 km per li) and lies W of Hongliuhe as his route requires. Stein's Changliushui lies c. 42.40, 93.91.
 
 ### 01.04.x9 伊吾 (Yiwu) — the Hami oasis
 
