@@ -3,7 +3,7 @@
 The study's sources stop at Ji (1985) for the commentary and at *Indian Archaeology – A Review* 2000–01 for excavation.
 This file tracks the later literature: what has been found, what has been read and coded, and what is still wanted.
 
-- **Bibliography:** `data/literature.tsv`, one row per item (490 rows, 484 distinct items): key, group (A juan 1 and 12; B juan 2–3; C juan 4–7;
+- **Bibliography:** `data/literature.tsv`, one row per item (491 rows, 485 distinct items): key, group (A juan 1 and 12; B juan 2–3; C juan 4–7;
   D juan 8–9; E juan 10–11; X general), the place ids it bears on, citation, access, URL, the local text
   (`data/ref/lit/<group>/<key>.txt`, gitignored), relevance and status. Status: `have` (text in hand), `in study` (already
   used under another name), `oa, not fetched` (free online but blocked for scripts), `wanted` (book or paywall),
@@ -13,7 +13,7 @@ This file tracks the later literature: what has been found, what has been read a
 - **Coding:** `data/LIT_INSTRUCTIONS.md`; coded rows in `data/coded/lit_batch*.tsv` (1 A, 2 C, 3 D, 4 E, 5 B; 6-7 later downloads; 8 Bamiyan,
   9 Errington 2017, 10 A, 11 B/E/X, the downloads of 2026-11-12; 12 A, 13 ANP and Palola, 14 Swat/Gandhāra/Kashmir,
   15 Lumbini and Tilaurakot, 16 Sonkh and Maheth, 17 Āndhradeśa, the Chrome downloads of 2026-11-12; 19 the four
-  articles downloaded from the office on 2026-11-16; 20 the Guazhou–Yiwu desert crossing, 2026-11-23), quotes
+  articles downloaded from the office on 2026-11-16; 20 the Guazhou–Yiwu desert crossing, 2026-11-23; 21 P.2005 in Sun's edition, 2026-11-23), quotes
   checked with `scripts/check_quotes_asr.py`. They appear in `places.tsv` (`lit`, `lit_n`, `lit_evidence`) and on the map
   ("Recent scholarship (since 1985)"), and are folded into the notes as **Recent scholarship.** paragraphs.
 - **IAR 2007–14:** six later volumes of *Indian Archaeology – A Review* (2007–08, 2009–10 to 2013–14, from the ASI

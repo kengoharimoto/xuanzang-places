@@ -239,8 +239,11 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
   the route; the five beacons as P.2005 posts), Zheng Binglin and Cao Hong 2010, Li Bingcheng 2001/2008, Wang Nai'ang
   2020, Huang Yinzhou et al. 2024, Yan Gengwang vol. ii. Their arguments are known only through reviews; when read,
   revisit 01.04.x1–x5.
-- **P.2005 (沙州都督府圖經)**: read the post list and distances directly (the Guazhou–Yizhou posts and the 苦水); test
-  whether the posts fit the Life's beacons at the li of the beacons or at the official li.
+- **P.2005 (沙州都督府圖經)**: read 2026-11-23 in Sun's edition (2017; `lit_batch21.tsv`, `route/p2005_posts.py`,
+  `route/README.md` §11). Still to do: check on the manuscript scan (Gallica refuses scripts; please download the
+  P.2005 images in a browser) Shuangquan's 四百七十七 (the chain requires 四百卌六), Lengquan's 一百七十步 (requires
+  七十步), and the 60 / 64 li between Shuangquan and the Fifth post; compare Ikeda On's and Li Zhengyu's editions; find
+  where Huang Yinzhou et al. (2024) put the Xinjing post (巴州二號古城).
 - **Suoyang cheng against the 50 li** (`route/README.md` §11): the Tang course of the Shule N of Suoyang cheng; a
   channel nearer than Shuangta would remove the conflict.
 - **Stein's Kua-chou-ch'eng**: its date (Qing ya-men; Stein cites no early finds) and coordinates; the point used is

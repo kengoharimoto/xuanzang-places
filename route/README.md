@@ -23,6 +23,7 @@ Two checks on the identifications, using only the texts:
 | `sixi_check.py` → `sixi_apparatus.tsv`, `sixi_route.tsv` | Those Song readings and the route sentences checked against the Sixi edition's scan (§9). |
 | `life_segments.py` → `life_segments.tsv` | The Life's legs (from `variants_*.tsv`), in the same form as `segments.tsv` (§7). |
 | `chains_all.py` → `chain_scores_all.tsv`, `chain_best.tsv` | The same for every juan: each authority's set of sites, and the best-fitting combination of candidates (§6). |
+| `p2005_posts.py` → `p2005_posts.tsv` | The posts of the Fifth Road (Guazhou → Yizhou) in P.2005, Sun's edition (2017): their distances checked against one another and set on the road's water stages under two anchorings (§11). |
 | `crossing.py` → `crossing_legs.tsv` | The desert crossing Guazhou → Yiwu (the Life only, places 01.04.x1–x10): the Life's li and days against Stein's surveyed road (1919), straight lines between the proposed sites, and the Tang official 900 li (§11). |
 | `variants_*.tsv` | Each leg in T2087, T2088 and T2053, plus Mizutani's variant notes. Quotes are verbatim and checked by `check_variants.py`. Instructions are in `VARIANTS_INSTRUCTIONS.md`. |
 
@@ -469,6 +470,7 @@ Xingxingxia is 152 km in a straight line against his 154.5 km by road). `crossin
 | river → fifth beacon (80 + 4 × 100, reported) | 480 li | Su-lo → Xingxingxia, 96 cyclometer miles | 0.32 |
 | fourth beacon → Wild Horse Spring (reported) | 100 li | Stein's estimate, 30 miles WNW | 0.48 |
 | the Moheyan (reported) | 800+ li | Xingxingxia → Hami 193 km (road), → Changliushui 137 km | 0.17–0.24 |
+| Yumen pass → Yiwu, Tang official (*Xin Tangshu* 40: 南去玉門關八百里) | 800 li | Shuangta-bao → Hami 345 km straight | 0.43 |
 | Guazhou → Yiwu, the Life's figures summed | 1,330 li | 226 road miles (364 km) | 0.27 |
 | Guazhou → Yiwu, Tang official (*Yuanhe zhi* 40: 東南取莫賀磧路至瓜州九百里) | 900 li | the same road | 0.40 |
 | Yiwu → Baili (6 days) | — | Hami → Pichan 264 km straight | 44 km a day |
@@ -477,18 +479,48 @@ Xingxingxia is 152 km in a straight line against his 154.5 km by road). `crossin
 - **The beacon figures behave like Xuanzang's own road li.** At 0.32 km per li, the study's road calibration (§1),
   the five beacons 100 li apart fall on the five water stages of the road, and the first on the first. Stein chose
   the stations by the same rate, so the fit is partly circular; but the stages are fixed by water, and the Life puts
-  water at the beacons (唯五烽下有水). At the Tang official li (c. 0.53–0.56 km) the fifth beacon would lie some 255 km
-  out, beyond Xingxingxia and inside the waterless stretch the Life calls the Moheyan.
+  water at the beacons (唯五烽下有水). At the official li of this road (c. 0.45 km, from the posts of P.2005
+  below) the fifth beacon would lie some 216 km out, beyond Xingxingxia, inside the stretch the Life calls the Moheyan.
 - **Guazhou is the conflict.** The texts and a dated walled city put Tang Guazhou at Suoyang cheng (01.04.x1), and
-  the recent literature agrees. From there the river lies 30–36 km N: the Life's 50 li only at 0.6–0.7 km per li.
-  Stein's Kua-chou-ch'eng, a town with no early finds cited, fits at 0.32. Either the 50 li is in a larger
-  (official) li than the beacon figures, though both were told to Xuanzang at Guazhou, or the distance is to
-  another point. The study keeps Suoyang cheng and leaves the conflict open.
-- **The Moheyan's 800 li are long** against any version of the road (0.17–0.24): a reported, probably traditional,
-  figure for the "River of Sand", not a measure.
+  the recent literature agrees. From there the river lies 30–36 km N: the Life's 50 li only at 0.6–0.7 km per li, more
+  than even the official li of this road (c. 0.45) or the nominal Tang li (c. 0.53) allows. Stein's Kua-chou-ch'eng, a
+  town with no early finds cited, fits at 0.32. Either the 50 li is understated, or the distance is to another point
+  (a nearer channel of the Shule in Tang times). The study keeps Suoyang cheng and leaves the conflict open.
+- **The Moheyan's 800 li are the official distance from the pass to Yiwu.** Against the desert beyond the fifth beacon
+  they are far too long (0.17–0.24); but the *Xin Tangshu* gives Yiwu county as 800 li south of the Yumen pass, 0.43
+  km per li from Shuangta-bao. The officer at the fourth beacon gave the whole road's official figure.
 - **The official 900 li** of the *Yuanhe zhi* give 0.40 km per li for the whole road, between Xuanzang's li and the
   nominal Tang li; the Life's own figures summed give 0.27.
 - **The days fit.** Four nights and five days from the fourth beacon to the pool, and two days to Yiwu, match five
   and two road marches (106 and 35 miles) as Stein says; the Life's single night from the first to the fourth beacon
   does not, and Stein supposes two marches lost. Yiwu → Baili in six days is 44 km a day in a straight line if Baili
   is the Pichan oasis.
+
+**P.2005: the posts of the Fifth Road.** The Dunhuang *Shazhou dudufu tujing* (P.2005, c. 700), in Sun Yingying's
+edition and translation (PhD, Washington 2017, pp. 140–143; `data/coded/lit_batch21.tsv`), lists the posts of the
+"Fifth Road" (第五道) from Guazhou to Yizhou with each post's distance from Shazhou and to its neighbours. In 695 ten
+posts were ordered on it; Shuangquan was set up "in the Moheyan desert of the Fifth Road" in 678. `p2005_posts.py`:
+- **The figures check one another,** with 1 li = 300 bu. The Fifth post (511 li 40 bu) less "64 li 80 bu south to
+  Shuangquan" is exactly 446 li 260 bu, so Shuangquan's transcribed 477 li 260 bu is a slip for 446; Hutong (663 li
+  70 bu) less 84 li gives Lengquan 579 li 70 bu, not 170 bu. Shuangquan's "60 li 80 bu north to the Fifth post" and the
+  Fifth post's "64 li 80 bu south to Shuangquan" disagree. Wushan then lies at 377 li, Chiya on the Yizhou border at
+  743 li. The slips could be in the manuscript or the transcription; the scan (Gallica) refuses scripts.
+- **The posts sit on the road's water stages at one scale.** Between posts, 0.45–0.49 km per official li fits every
+  interval (Xinjing → Wushan 149 li, two stages; then 70, 64 and 68 li, one stage each, the stages c. 30 km apart).
+  Because the stages are evenly spaced, the fit does not fix where the series starts: (A) Xinjing at Stein's
+  Pei-tan-tzu and the Fifth post at Xingxingxia (0.42–0.49), or (B) one stage south, Xinjing at the Shule near An-hsi,
+  Wushan at Hongliuyuan, Shuangquan at Daquan, the Fifth post at Malianjing, Lengquan at Xingxingxia (0.44–0.49).
+  P.2005's own distance from Shazhou decides for B: 227.7 li to Xinjing is 104 km at the posts' scale, and Dunhuang →
+  An-hsi is 104 km in a straight line (Tosaki also puts Xinjing just N of Changle). On B the Yizhou border (Chiya)
+  lies c. 75 km beyond Xingxingxia, in the Kushui–Yandun stretch.
+- **The beacons and the posts.** The posts date from 678–695, after Xuanzang; the document says other posts were moved
+  to beacons and named after them (階亭驛…置在階亭烽側，因烽為号), so posts at old beacon sites are a Tang practice. The
+  five posts from Xinjing to the Fifth post span 283.5 official li, the Life's five beacons 400 li: if the beacons
+  stood where the posts were later set (Li Zhengyu 2006, not read), Xuanzang's li is 0.71 of the official, about
+  0.32 km against 0.45, the same rate as on Stein's road. On B the first beacon is at the Shule near An-hsi, and the
+  Life's 80 li from the crossing run from a crossing well east of it, as from Shuangta-bao; Stein's beacons are then one
+  stage too far north. The two readings stay open.
+- **Official and travelled li.** The Tang figures for this road agree on c. 0.40–0.46 km per li (900 li Yizhou →
+  Guazhou; 800 li Yiwu → the pass; the posts), the Life's travelled figures on c. 0.32. The Life's 50 li from Guazhou
+  to the river, told at Guazhou, give 22 km at the official rate, still short of the 30–36 km from Suoyang cheng to
+  Shuangta-bao.

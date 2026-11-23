@@ -51,6 +51,8 @@ leg("Moheyan desert", 800, "莫賀延磧，長八百餘里 (reported)", "Stein: 
 leg("Moheyan desert", 800, "same", "Stein: Hsing-hsing-hsia -> Chang-liu-shui (first verdure; c. 35 miles short of Hami)",
     (218 - 96 - 2 - 35) * MI, "road miles, derived", "Stein 1919 pp. 267, 275, 277")
 leg("Moheyan desert", 800, "same", "Xingxingxia -> Hami", km("xingxingxia", "hami"), "straight line", "points above")
+leg("Yumen pass -> Yiwu (official)", 800, "伊吾…南去玉門關八百里 (Xin Tangshu 40, Yizhou, Yiwu county)", "Shuangta-bao -> Hami",
+    km("shuangta", "hami"), "straight line", "Xin Tangshu 40 (Wikisource); points above")
 # 6. the whole crossing: the Life's sum against the Tang official figure
 life_sum = 50 + 80 + 400 + 800
 leg("Guazhou -> Yiwu (whole)", life_sum, "50 + 80 + 4 × 100 + 800 (the Life's reported and travelled figures summed)",

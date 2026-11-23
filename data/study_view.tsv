@@ -8,8 +8,8 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 01.04.x1	probable	added	40.2463	96.2051	site	Suoyang cheng ruins, Guazhou county	medium	none		Suoyang cheng, Guazhou county (Stein's Kua-chou-ch'eng a rival; the Life's 50 li to the river fit it better)
 01.04.x2	probable	added	40.53	96.3	approx	Shule river at Shuangta	medium	none		Shule river; channel open
 01.04.x3	open	added	40.55	96.35	approx	Shuangta-bao (now under the Shuangta reservoir)	low	alternative	yes	open: Shuangta-bao or the Maquan small city (or Liugong); no ruin known
-01.04.x4	open	added	40.8	95.6	approx	Baidunzi (Pei-tan-tzu), Stein's 1st stage	low	alternative	yes	open: Baidunzi (Stein) or the Xinjing post (Tosaki)
-01.04.x5	open	added	41.56	95.3	approx	Malianjing (Ma-lien-ching-tzu), Stein's 4th stage	low	alternative	yes	open: Malianjing (Stein) or the Shuangquan post (Li Zhengyu)
+01.04.x4	open	added	40.8	95.6	approx	Baidunzi (Pei-tan-tzu), Stein's 1st stage	low	alternative	yes	open: Baidunzi (Stein) or the Xinjing post, which P.2005's distances put at the Shule near An-hsi (Tosaki)
+01.04.x5	open	added	41.56	95.3	approx	Malianjing (Ma-lien-ching-tzu), Stein's 4th stage	low	alternative	yes	open: Malianjing (Stein) or the Shuangquan post (Li Zhengyu), which P.2005's distances put at Daquan
 01.04.x6	open	added	41.73	94.77	approx	c. 30 miles WNW of Malianjing (Stein's estimate)	low	none		unlocated (Stein's map estimate)
 01.04.x7	probable	added	42.05	94.55	approx	Pei-shan desert between Xingxingxia and the Hami oasis	medium	none		the Pei-shan desert between Xingxingxia and the Hami oasis
 01.04.x8	open	added	42.4	93.91	approx	near Changliushui (Chang-liu-shui), Stein	low	none		near Changliushui (approximate)
