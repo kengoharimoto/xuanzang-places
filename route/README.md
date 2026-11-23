@@ -531,8 +531,9 @@ posts were ordered on it; Shuangquan was set up "in the Moheyan desert of the Fi
   Huang Yinzhou et al. (2024) put the Xinjing post instead at Bazhou No. 2 city (40°28′19″ N, 95°28′06″ E; printed
   42°), 14 km NW of Liugong: rows X and Y of `p2005_posts.tsv` set both sites against P.2005. Changle → Xinjing 27.7 li
   is 0.51 km per li to Huang's site, 0.65 to Li's grid point (0.56 by his own 31 huali); Xinjing → Wushan 149 li by
-  Baidunzi is 0.48 from Huang's, 0.40 from Li's. Huang's site sits better in the road's scale (0.45–0.49); the series
-  and scheme B are unchanged either way.
+  Baidunzi is 0.48 from Huang's, 0.40 from Li's. The older placing, the Leidunzi beacon (40°29.787′ N, 95°32.627′ E;
+  row Z), which Huang dates to the Qing from its preservation alone, fits best: 0.44 and 0.45. Leidunzi is S of the
+  Shule and is not Li's beacon. The series and scheme B are unchanged whichever site is taken.
 - **The beacons and the posts.** The posts date from 678–695, after Xuanzang; the document says other posts were moved
   to beacons and named after them (階亭驛…置在階亭烽側，因烽為号), so posts at old beacon sites are a Tang practice. The
   five posts from Xinjing to the Fifth post span 283.5 official li, the Life's five beacons 400 li: if the beacons

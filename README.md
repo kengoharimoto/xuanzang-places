@@ -90,8 +90,8 @@ scale, on their own distances one stage south of Stein's beacons. The five posts
 Life's 400 li for the five beacons. Li Zhengyu's survey of the post sites (2006, revised 2011; read
 in its web text) puts the posts where P.2005's distances do, and the five beacons at the first five posts (Xinjing N
 of Liugong … Daquan, Malianjing); the study leans to his series for the first and fourth beacons (medium) and keeps
-Stein's as the rival. For the first post Huang Yinzhou et al. (2024) have a rival site, Bazhou No. 2 city, 14.6 km SW
-of Li's, which fits P.2005's distances a little better; left open. The post entries of P.2005 were checked on the manuscript scan against Sun's and Li's editions
+Stein's as the rival. The first post's site is disputed: the older Leidunzi beacon and Huang Yinzhou et al.'s (2024)
+Bazhou No. 2 city both fit P.2005's distances better than Li's site; left open. The post entries of P.2005 were checked on the manuscript scan against Sun's and Li's editions
 (`route/p2005_editions.tsv`; Ikeda On's not available). The Life's 50 li from Guazhou to the river fit Stein's site
 but are short for Suoyang cheng even in official li, a conflict left open.
 

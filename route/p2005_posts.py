@@ -61,7 +61,8 @@ P = {"anxi": (40.5176, 95.7812), "hongliuyuan": (41.0646, 95.4211), "daquan": (4
      "xinjing_li": (40.5570, 95.5998),
      "baidunzi": (40.8043, 95.5998),   # Guangxian post: Li's 55 huali (27.5 km) N of Xinjing; Stein's Pei-tan-tzu c. 40.80, 95.60
      "xinjing_huang": (40 + 28/60 + 19/3600, 95 + 28/60 + 6/3600),   # Bazhou No. 2 city, Huang Yinzhou et al. 2024 (printed 42deg: a misprint)
-     "liugong": (40.3951, 95.5996)}   # Liugong poch'eng (Tang Changle), OSM   # Guangxian post: Li's 55 huali (27.5 km) N of Xinjing; Stein's Pei-tan-tzu c. 40.80, 95.60   # Xinjing post, Li's grid X16720.2 Y4494.7 (n. [1]), Gauss-Krueger zone 16 converted (data/coords_added.tsv)
+     "liugong": (40.3951, 95.5996),   # Liugong poch'eng (Tang Changle), OSM
+     "leidunzi": (40 + 29.787/60, 95 + 32.627/60)}   # Leidunzi beacon, the older placing of Xinjing: silkroads.org.cn survey log (= OSM node 13974706548)   # Guangxian post: Li's 55 huali (27.5 km) N of Xinjing; Stein's Pei-tan-tzu c. 40.80, 95.60   # Xinjing post, Li's grid X16720.2 Y4494.7 (n. [1]), Gauss-Krueger zone 16 converted (data/coords_added.tsv)
 def km(a, b):
     (a1, o1), (a2, o2) = P[a], P[b]; p1, p2 = map(math.radians, (a1, a2)); dl = math.radians(o2 - o1)
     return 6371 * math.acos(min(1, math.sin(p1) * math.sin(p2) + math.cos(p1) * math.cos(p2) * math.cos(dl)))
@@ -93,6 +94,8 @@ leg("X: Xinjing at Li Zhengyu's site", CL, X, C[X] - 200, km("liugong", "xinjing
 leg("X", X, W, C[W] - C[X], km("xinjing_li", "baidunzi") + km("baidunzi", "hongliuyuan"), "Li's Xinjing -> Baidunzi -> Hongliuyuan")
 leg("Y: Xinjing at Bazhou No. 2 (Huang 2024)", CL, X, C[X] - 200, km("liugong", "xinjing_huang"), "Liugong -> Bazhou No. 2 city")
 leg("Y", X, W, C[W] - C[X], km("xinjing_huang", "baidunzi") + km("baidunzi", "hongliuyuan"), "Bazhou No. 2 -> Baidunzi -> Hongliuyuan")
+leg("Z: Xinjing at Leidunzi (the older placing)", CL, X, C[X] - 200, km("liugong", "leidunzi"), "Liugong -> Leidunzi")
+leg("Z", X, W, C[W] - C[X], km("leidunzi", "baidunzi") + km("baidunzi", "hongliuyuan"), "Leidunzi -> Baidunzi -> Hongliuyuan")
 w = csv.DictWriter(open("route/p2005_posts.tsv", "w", encoding="utf-8", newline=""), list(rows[0]), delimiter="\t", lineterminator="\n")
 w.writeheader(); w.writerows(rows)
 print("\ncorrected chain (li from Shazhou):", {k.split()[0]: round(v, 2) for k, v in C.items() if v})

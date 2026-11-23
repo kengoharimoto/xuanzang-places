@@ -247,8 +247,10 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
   his note) and supplies 四 in 六十［四］里. Still to do: Ikeda On's edition (1975, Enoki Festschrift; print only) and
   Zheng Binglin's (1989) and Wang Zhongluo's. Huang Yinzhou et al. (2024) read 2026-11-24 (CASS web text,
   `lit_batch23.tsv`): the Xinjing post at Bazhou No. 2 city, 14.6 km SW of Li's site, which fits P.2005's distances a
-  little better; open (01.04.x4). Still to check: whether Li's beacon N of Liugong is the Leidunzi beacon that Huang
-  calls Qing, and Huang's other paper on Bazhou No. 2 as the Han Kunlun zhang.
+  little better; open (01.04.x4). Li's beacon is not Leidunzi (checked 2026-11-24: Leidunzi, 40°29.787′ N,
+  95°32.627′ E, is S of the Shule, 8 km from Li's point N of it); Leidunzi fits P.2005's distances best (route row Z).
+  Still to check: a date for Leidunzi (Huang's Qing rests on preservation only), Li's figure 1 of his beacon, and
+  Huang's other paper on Bazhou No. 2 as the Han Kunlun zhang.
   Located 2026-11-24 (`data/coords_added.tsv`): Xinjing from Li's own grid figures
   (n. [1]), Daquan 6 km NE of the station by his 12 li; Lucaojingzi is not on OSM and stays an estimate (±10 km), and
   Dashui is an OSM locality "大水泉？" whose name its mapper queried. Li's figures 1–12 (not in the web text) or a survey
