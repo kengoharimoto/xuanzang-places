@@ -12,10 +12,10 @@ with Mizutani where Ji is silent, and its map is a visualisation of that standar
 
 **Pages.** [Map](https://claude.ai/artifact/WUH4GFEULK5rZ8oaXw8PpH) · [Findings](https://claude.ai/artifact/2H5yngbhmdj9pKEp5imP7e) · [Bibliography](https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw)
 
-**Against the standard** (`data/standard/compare_*.tsv`, `data/STANDARD_INSTRUCTIONS.md`): 365 of the 490 places have a
-standard identification. For 262 the study agrees, and for 28 it names a more exact site within it; for 75 it departs,
-putting 35 elsewhere and leaving 40 open between the standard's site and another. Among the 148 countries, 121 agree
-or refine. Of the 125 places without a standard identification, mostly minor sites, the study proposes a site for 61.
+**Against the standard** (`data/standard/compare_*.tsv`, `data/STANDARD_INSTRUCTIONS.md`): 366 of the 500 places have a
+standard identification. For 262 the study agrees, and for 28 it names a more exact site within it; for 76 it departs,
+putting 35 elsewhere and leaving 41 open between the standard's site and another. Among the 148 countries, 121 agree
+or refine. Of the 134 places without a standard identification, mostly minor sites, the study proposes a site for 69.
 Kapilavastu is not a departure: Ji already leaves it open between Piprahwa and Tilaurakot. On the map a dark ring
 marks a departure, a light ring a refinement or a site where the standard has none.
 
@@ -30,10 +30,10 @@ Five kinds of evidence were set against him:
 - *Epigraphia Indica* and the *Corpus Inscriptionum Indicarum*;
 - the district gazetteers.
 
-A sixth, added in November 2026, is the scholarship since Ji (1985): 454 items listed, 103 read and coded so far, and
+A sixth, added in November 2026, is the scholarship since Ji (1985): 484 items listed, 116 read and coded so far, and
 *Indian Archaeology – A Review* extended to 2013–14 ("Recent scholarship" below; `data/LITERATURE.md`).
 
-**What they show.** 456 of the 490 places have a note (Mizutani's 419 and 71 added ones). The 34 without a note are
+**What they show.** 466 of the 500 places have a note (Mizutani's 419 and 81 added ones). The 34 without a note are
 minor sites that have no point either. Taking Mizutani's identifications as the starting point (his translation covers every place), the evidence:
 - supports his identification for 100 places, 59 of them with high confidence, many with an inscription or seal
   naming the place;
@@ -41,7 +41,7 @@ minor sites that have no point either. Taking Mizutani's identifications as the 
 - supports a different site, or leaves the place open between his and another, for 71;
 - offers a candidate no standard authority records for 25.
 
-On the map the study's confidence comes out as 104 places secure, 155 probable and 128 open. These are the ratings
+On the map the study's confidence comes out as 104 places secure, 159 probable and 134 open. These are the ratings
 after a quality check of 30 notes and an audit of every "high" rating without site evidence, and a second check of
 27 paragraphs added later (Ji, names, Bactrian, Stein/Drew, Kuwayama: 19 ok, 8 minor, all fixed; `data/notes/qc2_*.tsv`).
 Another 50 minor sites are placed approximately from Xuanzang's own bearing and distance, without an identification
@@ -75,6 +75,17 @@ Another 50 minor sites are placed approximately from Xuanzang's own bearing and 
 The survey reports and the gazetteers do not reach juans 1 and 12 (Central Asia and Afghanistan). For the Afghan
 stretch Foucher's *La vieille route* (1942–47) now fills the gap.
 
+**The desert crossing, Guazhou to Yiwu** (added 2026-11-23; 01.04.x1–x10, `data/notes/notes_crossing.md`, route test
+in `route/README.md` §11). The Xiyu ji starts at Gaochang; the Life tells how Xuanzang slipped out of Guazhou past the
+Yumen pass and the five beacons and nearly died of thirst in the Moheyan before reaching Yiwu (Hami). Stein's "The
+Desert Crossing of Hsüan-tsang" (*Geographical Journal*, 1919), which sets the story against his survey of the
+An-hsi–Hami road, is now read and coded, with the recent Chinese and Japanese work on the Tang Guazhou and the Yumen
+pass (mostly through reviews: the core papers are CNKI-only). Guazhou is put at Suoyang cheng (medium), the Yumen
+pass is open among Shuangta-bao, the Maquan small city and Liugong, and the beacons are open between Stein's road
+stations and the posts of the Dunhuang document P.2005. On Stein's road the beacon figures come out at 0.32 km per
+li, Xuanzang's usual road li (480 li = 96 cyclometer miles to the fifth beacon); the Life's 50 li from Guazhou to the
+river fit Stein's site at that rate but Suoyang cheng only at 0.6–0.7, a conflict left open.
+
 **Every place now also has:**
 - its passage of the Chinese text, with the text's own interlinear notes;
 - an English translation, made by DharmaMitra's API and checked against the Chinese, with Mizutani and Beal as aids;
@@ -100,7 +111,7 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
 
 ## Sources
 
-The study drew on 428 works in 579 volumes, listed in `BIBLIOGRAPHY.html` (built by `scripts/build_bibliography.py`
+The study drew on 438 works in 589 volumes, listed in `BIBLIOGRAPHY.html` (built by `scripts/build_bibliography.py`
 from `data/bibliography.tsv`, `data/literature.tsv`, the gazetteer index and the series files; published at
 https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw). Counted are works read, searched with result, or used; each series once among the works.
 
@@ -147,13 +158,16 @@ https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw). Counted are works read, sear
   Miyamoto 2015 (Kyoto repository).
 - **Stein's survey memoirs:** *An Archaeological Tour in Waziristan and Northern Baluchistan* (MASI 37, 1929) and
   *An Archaeological Tour in Gedrosia* (MASI 43, 1931). They are Internet Archive OCR in `data/ref/stein/`, coded as
-  S001–S020 in `data/coded/ar_batch11.tsv`.
+  S001–S020 in `data/coded/ar_batch11.tsv`. For the desert crossing, "The Desert Crossing of Hsüan-tsang, 630 A.D."
+  (*Geographical Journal* 54, 1919; the archive's text drops most numbers, so the scan was OCR'd with Google Vision,
+  `data/ref/stein/gj1919_stein_vision.txt`) and *Serindia* iii (1921), pp. 1097–1099, coded as S021–S031 in
+  `data/coded/ar_batch13.tsv`.
 - **Baluchistan District Gazetteers** (1906–08) and the *Imperial Gazetteer* Baluchistan volume (1908). These are
   Internet Archive OCR, in `data/ref/baluch/` (gitignored). The identifiers are listed in
   `../yoga-gazetteers/regions/data/selection.tsv` (BAL*). They are coded as B001–B055 in `data/coded/gaz_batch10.tsv`.
 - **Recent scholarship, 1985–2026** (`data/LITERATURE.md`, `data/literature.tsv`, `data/LIT_INSTRUCTIONS.md`). A
-  bibliography of 447 items (456 rows; Li Rongxi 1996 and four others entered twice or more) built region by region in English, Japanese, Chinese and European languages; 104
-  items read and coded (`data/coded/lit_batch1-18.tsv`, 246 relevant rows, quotes checked; Tsuchiya 2010 OCR'd with Google Vision), shown on the map
+  bibliography of 484 items (490 rows; Li Rongxi 1996 and four others entered twice or more) built region by region in English, Japanese, Chinese and European languages; 116
+  items read and coded (`data/coded/lit_batch1-20.tsv`, 274 relevant rows, quotes checked; Tsuchiya 2010 OCR'd with Google Vision), shown on the map
   as "Recent scholarship (since 1985)" and folded into the notes as **Recent scholarship.** paragraphs. Among them:
   Falk 2017 and Davis et al. 2016 (Kapilavastu, Rāmagrāma), Kuwayama's papers of 1985–99 and Miyamoto 2012–18
   (Afghanistan, Tokharistan), Naiki 2015 and 2021 (Chanaka Dheri, Taxila), Dar & Hameed 2018 (Siṃhapura), Verardi 2012
@@ -192,7 +206,11 @@ https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw). Counted are works read, sear
      (09.02.x2), with Deepak Anand's candidates; and, from the Life, Huṣkapura (Ushkur, 03.06.x1) and the Jayendra
      monastery in Srinagar (03.06.x2). The great stūpa by the big village belongs to 09.03.15a. All are low. The
      local DharmaMitra stack was down, so their ten passages were translated by Claude and checked against the
-     Chinese (model column `claude-opus-5-5 (DharmaMitra unavailable)`; the map labels them so).
+     Chinese (model column `claude-opus-5-5 (DharmaMitra unavailable)`; the map labels them so). Ten more
+     (2026-11-23) are the places of the Life's desert crossing, Guazhou to Yiwu (01.04.x1–x10): Guazhou, the Hulu river,
+     the Yumen pass, the first and fourth beacons, the Wild Horse Spring, the Moheyan, the grass and pool, Yiwu and Baili
+     city. Their passages were again translated by Claude (the local stack's embedding gateway was down) and checked
+     against the Chinese with Beal (1911) as an aid.
 2. **Authorities** (`data/coded/auth_*.tsv`).
 3. **Survey, Annual Reports, *Indian Archaeology*, EI/CII.**
    - **Files:** `data/coded/asr_batch*`, `ar_batch*`, `iar_batch*`, `epig_batch*`; indexes in `data/*_hits.tsv`;
@@ -210,6 +228,7 @@ https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw). Counted are works read, sear
    Xuanzang defines as 一日軍行) converted at a set rate: rough and forest legs give far fewer km per li (§10). Along modelled walking routes, walking time fits the li a
    little better than route length (about 19 li per walking hour), but neither explains the forest legs. The
    Gandhāra–Kashmir legs, short against the model, are normal along the real roads of Stein and Drew (0.175–0.30 km per li).
+   On the desert road from Guazhou to Hami, surveyed by Stein, the Life's beacon figures give 0.32 (§11).
 6. **Text and translation** (`data/text/`).
    - **The passages:** T2087 is cut into one passage per place (`anchors_*.tsv`, `scripts/extract_passages.py`;
      country passages open with the arrival sentence).
@@ -237,7 +256,7 @@ https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw). Counted are works read, sear
      Sarvāstivāda 11, Mahāyāna-Sthavira 4, Sthavira 2, Mahāsāṃghika 2, Lokottaravāda 1.
    - **Other traditions, across all places:** Pāśupata 15, Śaiva 11, Jain (mostly Digambara, 露形) 12, Sūrya 2,
      Kāpālika 1.
-8. **Notes** (`data/notes/notes_*.md`, 456 notes). The disputed places came first (312 notes). A second pass
+8. **Notes** (`data/notes/notes_*.md`, 466 notes; the desert crossing in `notes_crossing.md`). The disputed places came first (312 notes). A second pass
    (`notes_untested_*.md`, `data/NOTES_UNTESTED_INSTRUCTIONS.md`) covered the 129 places not yet assessed, with all
    the evidence then available. Each note gives the identifications, then the
    evidence in sections:
@@ -319,9 +338,9 @@ https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw). Counted are works read, sear
      figures shrink as its distances do, and turned into an area at 0.75 of a circle's compactness. From the
      study's point for the capital, every country then grows over land at once, nearest cells first, until it
      reaches that area or 1.6 times its radius; neighbours meet half-way, and the sea stops growth. 130 are drawn:
-     79 at their full area, 51 hemmed in by neighbours, the sea or the cap. Not drawn: 14 with no circuit (the six
+     79 at their full area, 51 hemmed in by neighbours, the sea or the cap. Not drawn: 15 with no circuit (the six
      hearsay countries of SE Asia, Rāmagrāma and Kuśinagara, which are "deserted", Laṅgala's "several thousand li
-     each way", the hearsay Fulin, the Women's country, 稽疆那, Nārikela island, Wakhan) and 4 whose capital has no
+     each way", the hearsay Fulin, the Women's country, 稽疆那, Nārikela island, Wakhan, and Yiwu, a country of the Life only) and 4 whose capital has no
      point. Rivers the text names as a country's border are used (`data/country_borders.tsv`, ten borders of nine
      countries: Chach and Sutrushana on the Syr Darya, Kumidha and Balkh on the Oxus, Gandhāra, Siṃhapura and Ṭakka
      on the Indus, Ṭakka also on the Beas, Śatadru on the Sutlej, Srughna on the Ganges; Natural Earth 1:10m
@@ -531,7 +550,7 @@ These are medium- or high-confidence proposals that move away from Mizutani; how
 - `data/standard/compare_*.tsv`: each place's standard identification (Ji 1985, or Mizutani) and how the study stands to it.
 - `data/literature.tsv`, `data/LITERATURE.md`: the recent-scholarship bibliography, its status and the list of PDFs wanted.
 - `data/places_mizutani.tsv`: the master table.
-- `data/places_added.tsv`: 71 places missing from Mizutani's numbering (ids `.xN`), added from the sources. Mappings
+- `data/places_added.tsv`: 81 places missing from Mizutani's numbering (ids `.xN`), added from the sources. Mappings
   for the coded rows are in `data/coded/new_resolved.tsv`; coordinates are in `data/coords_added.tsv`.
 - `data/names/`: the transcription key, the pilot tests of the original names and the study's proposed forms (method 8a).
 - `data/coords_study.tsv`: coordinates for the study's own proposed sites (the map's "study's proposals" layer).

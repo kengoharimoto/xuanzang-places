@@ -112,6 +112,8 @@ def asr_tag(r):
         f = r["file"].replace(".txt", "")
         return f'{r.get("author","")}, {"AR" if f.startswith("ar") else "Eastern Circle"} {f[2:]}' + (f' p. {r["page"]}' if r.get("page") else "")
     if r.get("file", "").startswith("foucher"): return f'Foucher, La vieille route (1942–47)' + (f' {r["page"]}' if r.get("page") else "")
+    if r.get("file", "").startswith("stein1919"): return 'Stein, "The Desert Crossing of Hsüan-tsang", GJ 54 (1919)' + (f' {r["page"]}' if r.get("page") else "")
+    if r.get("file", "").startswith("serindia3"): return 'Stein, Serindia iii (1921)' + (f' {r["page"].replace("Serindia iii ", "")}' if r.get("page") else "")
     if r.get("file", "").startswith("masi"): return f'{r.get("author","")}, MASI {r["file"][4:6]}' + (f' p. {r["page"]}' if r.get("page") else "")
     v = r.get("file", "").replace(".txt", "").replace("asr", "ASR ").replace("mukherji1901_tarai", "Mukherji 1901")
     return f'{r.get("author","")}, {v}' + (f' p. {r["page"]}' if r.get("page") else "")

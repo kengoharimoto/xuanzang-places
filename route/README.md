@@ -23,6 +23,7 @@ Two checks on the identifications, using only the texts:
 | `sixi_check.py` → `sixi_apparatus.tsv`, `sixi_route.tsv` | Those Song readings and the route sentences checked against the Sixi edition's scan (§9). |
 | `life_segments.py` → `life_segments.tsv` | The Life's legs (from `variants_*.tsv`), in the same form as `segments.tsv` (§7). |
 | `chains_all.py` → `chain_scores_all.tsv`, `chain_best.tsv` | The same for every juan: each authority's set of sites, and the best-fitting combination of candidates (§6). |
+| `crossing.py` → `crossing_legs.tsv` | The desert crossing Guazhou → Yiwu (the Life only, places 01.04.x1–x10): the Life's li and days against Stein's surveyed road (1919), straight lines between the proposed sites, and the Tang official 900 li (§11). |
 | `variants_*.tsv` | Each leg in T2087, T2088 and T2053, plus Mizutani's variant notes. Quotes are verbatim and checked by `check_variants.py`. Instructions are in `VARIANTS_INSTRUCTIONS.md`. |
 
 ## 1. How long was Xuanzang's li?
@@ -451,3 +452,43 @@ distance only slightly, but consistently. Walking time does not explain the infl
 Deccan: there something other than terrain (forest, halts, a different source for the figures) is at work. The
 juan 3 legs, short against the model, are normal along Stein's actual roads (Test 4): there the model, not the li, was
 at fault.
+
+## 11. The desert crossing, Guazhou to Yiwu (the Life only)
+
+The Life (T50:222c–224c) tells the crossing of 629/630 that the Xiyu ji leaves out; the places are 01.04.x1–x10
+(`data/notes/notes_crossing.md`). Stein surveyed the An-hsi–Hami road in 1907 and set the Life against it in "The
+Desert Crossing of Hsüan-tsang, 630 A.D." (*Geographical Journal* 54, 1919, pp. 265–277; *Serindia* iii, 1921,
+pp. 1097–1099, 1141–1149). His miles are cyclometer or map miles on the road, which runs nearly straight (An-hsi →
+Xingxingxia is 152 km in a straight line against his 154.5 km by road). `crossing.py` → `crossing_legs.tsv`:
+
+| Leg | Life | Ground | km per li |
+|---|---|---|---|
+| Guazhou → Hulu river (reported) | 50+ li | Stein's Kua-chou-ch'eng → old Su-lo bed, 10 map miles | 0.32 |
+| | | Suoyang cheng → Shuangta-bao, c. 30 km (Seng 2017) or 36 km straight | 0.60–0.72 |
+| crossing → first beacon (travelled) | 80+ li | old bed → Pei-tan-tzu, 16 map miles | 0.32 |
+| river → fifth beacon (80 + 4 × 100, reported) | 480 li | Su-lo → Xingxingxia, 96 cyclometer miles | 0.32 |
+| fourth beacon → Wild Horse Spring (reported) | 100 li | Stein's estimate, 30 miles WNW | 0.48 |
+| the Moheyan (reported) | 800+ li | Xingxingxia → Hami 193 km (road), → Changliushui 137 km | 0.17–0.24 |
+| Guazhou → Yiwu, the Life's figures summed | 1,330 li | 226 road miles (364 km) | 0.27 |
+| Guazhou → Yiwu, Tang official (*Yuanhe zhi* 40: 東南取莫賀磧路至瓜州九百里) | 900 li | the same road | 0.40 |
+| Yiwu → Baili (6 days) | — | Hami → Pichan 264 km straight | 44 km a day |
+
+**Findings.**
+- **The beacon figures behave like Xuanzang's own road li.** At 0.32 km per li, the study's road calibration (§1),
+  the five beacons 100 li apart fall on the five water stages of the road, and the first on the first. Stein chose
+  the stations by the same rate, so the fit is partly circular; but the stages are fixed by water, and the Life puts
+  water at the beacons (唯五烽下有水). At the Tang official li (c. 0.53–0.56 km) the fifth beacon would lie some 255 km
+  out, beyond Xingxingxia and inside the waterless stretch the Life calls the Moheyan.
+- **Guazhou is the conflict.** The texts and a dated walled city put Tang Guazhou at Suoyang cheng (01.04.x1), and
+  the recent literature agrees. From there the river lies 30–36 km N: the Life's 50 li only at 0.6–0.7 km per li.
+  Stein's Kua-chou-ch'eng, a town with no early finds cited, fits at 0.32. Either the 50 li is in a larger
+  (official) li than the beacon figures, though both were told to Xuanzang at Guazhou, or the distance is to
+  another point. The study keeps Suoyang cheng and leaves the conflict open.
+- **The Moheyan's 800 li are long** against any version of the road (0.17–0.24): a reported, probably traditional,
+  figure for the "River of Sand", not a measure.
+- **The official 900 li** of the *Yuanhe zhi* give 0.40 km per li for the whole road, between Xuanzang's li and the
+  nominal Tang li; the Life's own figures summed give 0.27.
+- **The days fit.** Four nights and five days from the fourth beacon to the pool, and two days to Yiwu, match five
+  and two road marches (106 and 35 miles) as Stein says; the Life's single night from the first to the fourth beacon
+  does not, and Stein supposes two marches lost. Yiwu → Baili in six days is 44 km a day in a straight line if Baili
+  is the Pichan oasis.

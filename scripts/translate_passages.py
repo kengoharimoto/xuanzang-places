@@ -7,12 +7,14 @@ Input: data/text/passages.tsv (id, mode, t_ref, zh). Output (appended, resumable
 (id, en, chunks, model, date). Each passage is split at sentence ends into chunks of <= 320 characters; each call's
 `context` gives the work, the place, a glossary of the master table's names that occur in the chunk (Chinese name =
 original name), and the end of the previous chunk's English, so names and voice stay consistent.
-Endpoint: https://dharmamitra.org/api-search/cat-translate/v1/translate (public; see
+Endpoint: the local stack, http://localhost:3410/cat-translate/v1/translate (the first runs used the public
+https://dharmamitra.org/api-search/cat-translate/v1/translate; see
 /mnt2/kengo/dharmamitra-claude-code-agent/CLAUDE.md). Run one stream at a time: the public endpoint rate-limits (HTTP 429); the script pauses 1.5 s between calls and
 waits a minute after a 429.
 """
-import csv, json, re, sys, time, datetime, urllib.request, urllib.error
-URL = "https://dharmamitra.org/api-search/cat-translate/v1/translate"
+import csv, json, os, re, sys, time, datetime, urllib.request, urllib.error
+# the local DharmaMitra stack by default (DHARMAMITRA_TRANSLATE_URL overrides); the 2026-11-06 runs used the public endpoint
+URL = os.environ.get("DHARMAMITRA_TRANSLATE_URL", "http://localhost:3410/cat-translate/v1/translate")
 STYLE = ("academic register: faithful and complete, plain modern English; translate every clause; keep Xuanzang's "
          "measures (li, paces, feet), numbers and directions exactly as written; give the Sanskrit or original name with "
          "the Chinese in parentheses on first occurrence, e.g. 'the country of Kapiśa (迦畢試國)', then the Sanskrit form; "

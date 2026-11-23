@@ -1,4 +1,5 @@
 id	name_zh	cls	text	circuit_li	dims_li	km_per_li	target_km2	drawn_km2	borders	border_check	note
+01.04.x9	伊吾	probable				0.297					no circuit in the text
 01.05	阿耆尼國	probable	東西六百餘里，南北四百餘里		600 x 400	0.297	16627	16668	四面據山	山: high ground (capital 1051 m + 1000) met in 8 of 16 directions; drainage basin above the gorge (Tiemenguan, the Iron Gate above Korla, where the Konqi leaves the Bosten basin; channel 0.3 cells off; 0.01-degree terrain) 24354 km2	
 01.06	屈支國	probable	東西千餘里，南北六百餘里		1000 x 600	0.297	41568	41613			
 01.07	跋祿迦國	probable	東西六百餘里，南北三百餘里		600 x 300	0.297	12470	12479			

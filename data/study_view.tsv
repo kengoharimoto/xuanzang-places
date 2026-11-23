@@ -5,6 +5,16 @@ id	cls	point_from	lat	lon	precision	label	confidence	change	open_alternative	ide
 01.01d	probable	Mizutani	38.4	77.2	district	Yarkand river (label point near Yarkand)	medium	none		Yarkand river
 01.01e	open	Mizutani	31.067	81.312	site	Mount Kailash, Tibet	low	alternative	yes	cosmological: Mount Kailāsa (Mizutani) or the Pamirs (Ji 1985)
 01.01f	open	Mizutani	34.79	99.46	district	Amne Machin range, Qinghai	low	none		Amne Machin range (upper Yellow River)
+01.04.x1	probable	added	40.2463	96.2051	site	Suoyang cheng ruins, Guazhou county	medium	none		Suoyang cheng, Guazhou county (Stein's Kua-chou-ch'eng a rival; the Life's 50 li to the river fit it better)
+01.04.x2	probable	added	40.53	96.3	approx	Shule river at Shuangta	medium	none		Shule river; channel open
+01.04.x3	open	added	40.55	96.35	approx	Shuangta-bao (now under the Shuangta reservoir)	low	alternative	yes	open: Shuangta-bao or the Maquan small city (or Liugong); no ruin known
+01.04.x4	open	added	40.8	95.6	approx	Baidunzi (Pei-tan-tzu), Stein's 1st stage	low	alternative	yes	open: Baidunzi (Stein) or the Xinjing post (Tosaki)
+01.04.x5	open	added	41.56	95.3	approx	Malianjing (Ma-lien-ching-tzu), Stein's 4th stage	low	alternative	yes	open: Malianjing (Stein) or the Shuangquan post (Li Zhengyu)
+01.04.x6	open	added	41.73	94.77	approx	c. 30 miles WNW of Malianjing (Stein's estimate)	low	none		unlocated (Stein's map estimate)
+01.04.x7	probable	added	42.05	94.55	approx	Pei-shan desert between Xingxingxia and the Hami oasis	medium	none		the Pei-shan desert between Xingxingxia and the Hami oasis
+01.04.x8	open	added	42.4	93.91	approx	near Changliushui (Chang-liu-shui), Stein	low	none		near Changliushui (approximate)
+01.04.x9	probable	added	42.8174	93.5142	town	Hami (Kumul)	medium	none		the Hami oasis
+01.04.x10	open	added	42.8733	90.2774	approx	Pichan (辟展) oasis, Shanshan (study's conjecture)	low	new-candidate		perhaps the Pichan oasis (study's conjecture from the six days and the night ride)
 01.04a	probable	Mizutani	34.7	68.0	district	Range across central Afghanistan (Koh-i-Baba / Hindu Kush junction)	medium	none		Non-snowy ranges between Bamiyan and Kapiśa (Siah-koh)
 01.04b	secure	Mizutani	42.85	89.53	site	Kara-khoja (Gaochang ruins), Turfan, Xinjiang	high	none		Kara-khoja (Turfan oasis)
 01.05	probable	Mizutani	42.06	86.57	district	Karashahr region, Xinjiang	medium	none		Karashahr oasis

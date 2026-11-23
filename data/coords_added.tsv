@@ -30,3 +30,13 @@ id	lat	lon	precision	label	note
 09.03.x6	25.029	85.522	approx	Giriyak hill, E peak	approximate position of the proposed site
 09.03.x7	25.1136	85.4589	approx	Kūl (Anand, candidate)	Anand 2024 (blog) coordinates; fails his own distance and bearing test
 09.03.x8	25.0867	85.5208	approx	mound NW of Shobhāpur (Anand, candidate)	Anand 2024 (blog) coordinates; E, not SE, of Naṇand
+01.04.x1	40.2463	96.2051	site	Suoyang cheng ruins, Guazhou county	Wikipedia (Suoyang City); WHC 1442: 62 km SE of the county seat. Stein's Kua-chou-ch'eng lay c. 40.43, 95.82 (approx.)
+01.04.x2	40.53	96.30	approx	Shule river at Shuangta	approximate point on the river N of Suoyang cheng
+01.04.x3	40.55	96.35	approx	Shuangta-bao (now under the Shuangta reservoir)	approximate: the reservoir; one of three proposed sites
+01.04.x4	40.80	95.60	approx	Baidunzi (Pei-tan-tzu), Stein's 1st stage	approximate: between An-hsi and Hongliuyuan, c. 16 miles beyond the old Su-lo bed (Stein)
+01.04.x5	41.56	95.30	approx	Malianjing (Ma-lien-ching-tzu), Stein's 4th stage	approximate: the Malianjing highway service area
+01.04.x6	41.73	94.77	approx	c. 30 miles WNW of Malianjing (Stein's estimate)	placed from Stein's map reading, not a known spring
+01.04.x7	42.05	94.55	approx	Pei-shan desert between Xingxingxia and the Hami oasis	indicative point only (Kushui–Yandun stretch)
+01.04.x8	42.40	93.91	approx	near Changliushui (Chang-liu-shui), Stein	approximate: on the road c. 35 miles SE of Hami
+01.04.x9	42.8174	93.5142	town	Hami (Kumul)	modern town
+01.04.x10	42.8733	90.2774	approx	Pichan (辟展) oasis, Shanshan (study's conjecture)	the easternmost Turfan oasis, 61 km E of Gaochang; no source read equates it with Baili

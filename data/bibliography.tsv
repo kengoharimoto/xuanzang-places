@@ -24,7 +24,7 @@ survey	Stein, M. Aurel, *Kalhaṇa's Rājataraṅgiṇī: A Chronicle of the Kin
 survey	Stein, M. Aurel, *Memoir on Maps Illustrating the Ancient Geography of Kaśmīr*. Calcutta, 1899 (JASB 68, extra no. 2).	Kashmir; read for the notes.
 survey	Stein, M. Aurel, "Notes on the ancient topography of the Pīr Pantsāl route", *Journal of the Asiatic Society of Bengal* 64.1 (1895).	Kashmir; read for the notes.
 survey	Stein, M. Aurel, *Detailed Report of an Archaeological Tour with the Buner Field Force*. Lahore, 1898.	Buner and Swat.
-survey	Stein, M. Aurel, *Serindia*, 5 vols. Oxford, 1921.	Central Asia.
+survey	Stein, M. Aurel, *Serindia*, 5 vols. Oxford, 1921.	Central Asia; vol. iii pp. 1097–1099, 1141–1149 on the Guazhou–Hami crossing (coded S031).
 survey	Stein, M. Aurel, *Innermost Asia*, 4 vols. Oxford, 1928.	Central Asia and eastern Iran.
 survey	Stein, M. Aurel, *An Archaeological Tour in Waziristan and Northern Baluchistan* (MASI 37). Calcutta, 1929.	Coded.	https://archive.org/details/in.ernet.dli.2015.35549
 survey	Stein, M. Aurel, *An Archaeological Tour in Gedrosia* (MASI 43). Calcutta, 1931.	Coded.	https://archive.org/details/in.ernet.dli.2015.35491
@@ -56,3 +56,5 @@ obs	Review of Peter C. Bisschop, *Early Śaivism and the Skandapurāṇa* (Groni
 data	Mapzen/Tilezen terrain tiles (Terrarium encoding; SRTM, GMTED2010 and other sources), AWS Open Data.	Elevation for the country areas.	https://registry.opendata.aws/terrain-tiles/
 data	Lehner, B. and G. Grill, "Global river hydrography and network routing: baseline data and new approaches to study the world's large river systems", *Hydrological Processes* 27 (2013): 2171–2186 (HydroRIVERS v1.0).	River courses for the country areas and the map.	https://www.hydrosheds.org/products/hydrorivers
 data	Natural Earth, 1:50m countries and 1:10m rivers and lake centrelines.	The base map; named river borders.	https://www.naturalearthdata.com/
+survey	Stein, M. Aurel, "The Desert Crossing of Hsüan-tsang, 630 A.D.", *Geographical Journal* 54.5 (1919), pp. 265–277.	The Guazhou–Hami crossing; Google Vision OCR of the Internet Archive scan; coded S021–S030.	https://archive.org/details/sim_geographical-journal_1919-11_54_5
+text	李吉甫《元和郡縣圖志》卷40 (Siku text, Wikisource).	Tang official distances: Yizhou to Guazhou by the Mohe desert road 900 li; the Yumen pass at Jinchang.	https://zh.wikisource.org/wiki/元和郡縣志_(四庫全書本)/卷40

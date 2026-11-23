@@ -232,3 +232,22 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
   apparatus note but the Sixi print reads 雨; 09.02.03a has no witness for 雨 (no note, Sixi lacks juan 9) and follows
   the idiom only. The Life translations were not checked against Li (his translation of the Life is a separate book).
 
+
+## The desert crossing, Guazhou to Yiwu (2026-11-23)
+
+- **Wanted papers** (CNKI or print; list in `data/LITERATURE.md`, "The desert crossing"): Li Zhengyu 2006 (two papers on
+  the route; the five beacons as P.2005 posts), Zheng Binglin and Cao Hong 2010, Li Bingcheng 2001/2008, Wang Nai'ang
+  2020, Huang Yinzhou et al. 2024, Yan Gengwang vol. ii. Their arguments are known only through reviews; when read,
+  revisit 01.04.x1–x5.
+- **P.2005 (沙州都督府圖經)**: read the post list and distances directly (the Guazhou–Yizhou posts and the 苦水); test
+  whether the posts fit the Life's beacons at the li of the beacons or at the official li.
+- **Suoyang cheng against the 50 li** (`route/README.md` §11): the Tang course of the Shule N of Suoyang cheng; a
+  channel nearer than Shuangta would remove the conflict.
+- **Stein's Kua-chou-ch'eng**: its date (Qing ya-men; Stein cites no early finds) and coordinates; the point used is
+  approximate.
+- **Beacon ruins**: no survey report of Tang beacons at Baidunzi, Hongliuyuan, Daquan, Malianjing or Xingxingxia was
+  found; Cao et al. 2022 (*Land* 11: 1416) dates Hami beacons but refused the script download.
+- **Baili 白力城**: no identification in the sources read; Pichan is the study's conjecture.
+- **Translations** of 01.04.x1–x10 are by Claude (the local DharmaMitra gateway :3411 was down); rerun through
+  `scripts/translate_passages.py` (now pointed at the local stack) when it is back.
+- **Yuanhe zhi** (Siku text on Wikisource) reads 玉門關在縣東二十步; check against the Zhonghua edition.

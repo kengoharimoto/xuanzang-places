@@ -3,7 +3,7 @@
 The study's sources stop at Ji (1985) for the commentary and at *Indian Archaeology – A Review* 2000–01 for excavation.
 This file tracks the later literature: what has been found, what has been read and coded, and what is still wanted.
 
-- **Bibliography:** `data/literature.tsv`, one row per item (456 rows, 447 distinct items): key, group (A juan 1 and 12; B juan 2–3; C juan 4–7;
+- **Bibliography:** `data/literature.tsv`, one row per item (490 rows, 484 distinct items): key, group (A juan 1 and 12; B juan 2–3; C juan 4–7;
   D juan 8–9; E juan 10–11; X general), the place ids it bears on, citation, access, URL, the local text
   (`data/ref/lit/<group>/<key>.txt`, gitignored), relevance and status. Status: `have` (text in hand), `in study` (already
   used under another name), `oa, not fetched` (free online but blocked for scripts), `wanted` (book or paywall),
@@ -13,7 +13,7 @@ This file tracks the later literature: what has been found, what has been read a
 - **Coding:** `data/LIT_INSTRUCTIONS.md`; coded rows in `data/coded/lit_batch*.tsv` (1 A, 2 C, 3 D, 4 E, 5 B; 6-7 later downloads; 8 Bamiyan,
   9 Errington 2017, 10 A, 11 B/E/X, the downloads of 2026-11-12; 12 A, 13 ANP and Palola, 14 Swat/Gandhāra/Kashmir,
   15 Lumbini and Tilaurakot, 16 Sonkh and Maheth, 17 Āndhradeśa, the Chrome downloads of 2026-11-12; 19 the four
-  articles downloaded from the office on 2026-11-16), quotes
+  articles downloaded from the office on 2026-11-16; 20 the Guazhou–Yiwu desert crossing, 2026-11-23), quotes
   checked with `scripts/check_quotes_asr.py`. They appear in `places.tsv` (`lit`, `lit_n`, `lit_evidence`) and on the map
   ("Recent scholarship (since 1985)"), and are folded into the notes as **Recent scholarship.** paragraphs.
 - **IAR 2007–14:** six later volumes of *Indian Archaeology – A Review* (2007–08, 2009–10 to 2013–14, from the ASI
@@ -32,6 +32,13 @@ What the searches could not reach, for a later pass (or a library):
 - **Chinese journals (CNKI):** web search does not index them. Only titles found through footnotes and OpenAlex are
   listed; Karashahr (Shikchin, Boghda-qin), Aksu, Karghalik, the 公主堡 fort, Kashgar's Mor temple and the Tashkurgan
   Stone City have no formal reports in the list.
+- **The desert crossing, Guazhou to Yiwu (added 2026-11-23, `lit_batch20.tsv`, places 01.04.x1–x10):** the core
+  studies are CNKI-only and are known through reviews and footnotes: Li Zhengyu 1997, 2006 (two papers, one also in
+  《玄奘人文學報》 6 on airiti), 2010; Li Bingcheng 1990, 2001, 2005, 2008; Zheng Binglin and Cao Hong 2010; Hui, Cao
+  and Zheng 2010; Wang Nai'ang 2020; Huang Yinzhou et al. 2024 (the Xinjing post); Yan Gengwang, 《唐代交通圖考》 ii
+  (1985). No survey report of beacon ruins on the Baidunzi–Xingxingxia line was found; Cao et al. 2022 (*Land* 11,
+  Hami beacons) refused the script download. Read: Tosaki 2000, 2001; WHC 1442 (6 pages); Seng 2017; Wang Jianjun
+  2026 (Ta'er temple); and three press or review pieces.
 - **Russian, Uzbek and Tajik excavation literature:** Chach/Tashkent, Nujkath, Ispijab, Kesh, Chaghāniyān, Shumān,
   Kobadian, Kumādh; Badakhshan (Rāgh, Kishm, Yamgān, Kurān) and the Wakhan forts.
 - **India:** nothing new was found for Kuśinagara, Kannauj, Kulūta/Jālandhara/Lakhanpur, Viśoka, Vṛji, Mahārāṣṭra's
@@ -115,6 +122,23 @@ Connections volumes (Internet Archive copies). What is left, and why:
 - [medium] `deeg2025_week_interview`: Deeg, Max (interviewed). "'Xuanzang's work has certain bias that calls for careful interpretation': Max Deeg". The Week, 18 July 2025 (cover story) — https://www.theweek.in/theweek/cover/2025/07/18/xuanzangs-work-has-certain-bias-that-calls-for-careful-interpretation-max-deeg.html
 - [medium] `mani2012_rajgir_slides`: Mani, B. R. "Magadha and Mahabharata: Archaeological Indications from Rajgir Area" (conference presentation, uploaded to SlideShare c. 2012) — https://www.slideshare.net/slideshow/magadhaandmahabharataarchaeologicalindicationsfromrajgirareabybrmani/15597057
 - [medium] `pti2024_mahabodhi_satellite`: PTI. "Satellite images suggest architectural wealth beneath Mahabodhi temple in Bodh Gaya: Officials". The Week (wire), 13 July 2024 (BHDS–Cardiff project "Archaeology on the footsteps of the Chinese traveller Xuanzang"; M. B. Rajni, NIAS) — https://www.theweek.in/wire-updates/national/2024/07/13/cal14-bh-mahabodhi-temple-study.html
+
+### The desert crossing, Guazhou to Yiwu (added 2026-11-23; group A)
+
+CNKI or print only; the key is the file name wanted in `data/ref/lit/A/`.
+- [high] `lizhengyu2006_xuanzang_guayi`: 李正宇「玄奘瓜州、伊吾經行考」《敦煌研究》2006.6, pp. 82–91 (the five beacons as P.2005 posts).
+- [high] `lizhengyu2006_hcu`: 李正宇「玄奘瓜州至伊州行程考」《玄奘人文學報》6 (2006), pp. 63–78 (airiti, doi:10.29956/HCHJ.200602.0003).
+- [high] `zhengcao2010_xuanzang_yiwudao`: 鄭炳林、曹紅「唐玄奘西行路線與瓜州伊吾道有關問題考察」《敦煌學輯刊》2010.3, pp. 1–13.
+- [high] `lizhengyu1997_xin_yumen`: 李正宇「新玉門關考」《敦煌研究》1997.3, pp. 1–13.
+- [high] `lizhengyu2010_shuangta`: 李正宇「雙塔堡絕非唐玉門關」《敦煌研究》2010.4, pp. 74–79.
+- [high] `libingcheng2001_tang_yumen`, `libingcheng2008_xin_yumen`: 李并成「唐玉門關究竟在哪裡」(2001), 「新玉門關位置再考」《敦煌研究》2008.4.
+- [high] `libingcheng1990_guazhou`: 李并成, on the Tang Guazhou city sites, 《敦煌學輯刊》1990.3.
+- [high] `wangnaiang2020_tang_yumen`: 王乃昂「唐玉門關地望新探」《中國邊疆史地研究》2020.1.
+- [high] `huang2024_jieting_xinjing`: 黃銀洲 et al.「唐瓜沙間階亭驛、新井驛的確定及其地理意義」《中國歷史地理論叢》39.1 (2024).
+- [high] `yan1985_jiaotong2`: 嚴耕望《唐代交通圖考》ii (1985), the Gua–Yi road.
+- [medium] the rest are in `data/literature.tsv` (group A, place ids 01.04.x*): Hui, Cao and Zheng 2010 (the
+  temple at Guazhou), Wang Beichen 2006, Zhao Jianlong's 2012 Suoyang survey, Shimazaki 1956, Arakawa 2010; online but
+  refused to scripts: Cao et al. 2022 (*Land* 11: 1416, Hami beacons).
 
 ### Books and paywalled articles, high relevance
 

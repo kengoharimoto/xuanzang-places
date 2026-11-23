@@ -5,3 +5,13 @@ id	mode	anchor	end_anchor	note
 04.01.x5	excerpt	從此出那羅僧訶城	林中，逢群賊五十餘人	那羅僧訶城
 04.01.x6	excerpt	明日到礫迦國東境，至一大城	親得師承，說甚明淨。	磔迦國東境大城
 10.02.x1	excerpt	國南界數十由旬有大山林	不得一片，今猶現在。	牧牛人石孔
+01.04.x1	excerpt	乃晝伏夜行，遂至瓜州	沈默經月餘。	瓜州: arrival, and what he was told of the road west (瓠蘆河 50 li N, 玉門關, five beacons 100 li apart, 莫賀延磧)
+01.04.x2	excerpt	或有報云：「從此北行五十餘里有瓠蘆河	深不可渡。	瓠蘆河: 50+ li N of Guazhou, as reported at Guazhou
+01.04.x3	excerpt	三更許到河，遙見玉關	驅馬而過。	玉門關: seen from afar; the crossing 10 li upstream of the pass (cf. 上置玉門關 in 01.04.x1)
+01.04.x4	excerpt	經八十餘里，見第一烽	泣拜而別。	第一烽: 80+ li beyond the crossing; the commandant 王祥
+01.04.x5	excerpt	既去，夜到第四烽	更取水。	第四烽: reached the same night; told to avoid the fifth and go to 野馬泉 100 li off
+01.04.x6	excerpt	時行百餘里，失道，覓野馬泉不得	乃欲東歸還第四烽。	野馬泉: not found after 100+ li; the water bag lost
+01.04.x7	excerpt	從是已去，即莫賀延磧，長八百餘里	雖困不捨。	莫賀延磧 (沙河), 800+ li: the warning, then four nights and five days without water, heading NW
+01.04.x8	excerpt	至第五夜半，忽有涼風觸身	方出流沙到伊吾矣。	the grass and pool: 10 li on, then a few li; a day's rest, two more days to Yiwu
+01.04.x9	excerpt	既至伊吾，止一寺	拜請殷勤。	伊吾: a monastery with three Chinese monks; the king; Gaochang's envoys; over ten days
+01.04.x10	excerpt	於是遂行，涉南磧，經六日，至高昌界白力城	即以其夜鷄鳴時到王城。	白力城: six days across the southern desert from Yiwu, on Gaochang's border; the royal city reached the same night (shares 01.04b)
