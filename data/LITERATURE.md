@@ -13,7 +13,7 @@ This file tracks the later literature: what has been found, what has been read a
 - **Coding:** `data/LIT_INSTRUCTIONS.md`; coded rows in `data/coded/lit_batch*.tsv` (1 A, 2 C, 3 D, 4 E, 5 B; 6-7 later downloads; 8 Bamiyan,
   9 Errington 2017, 10 A, 11 B/E/X, the downloads of 2026-11-12; 12 A, 13 ANP and Palola, 14 Swat/Gandhāra/Kashmir,
   15 Lumbini and Tilaurakot, 16 Sonkh and Maheth, 17 Āndhradeśa, the Chrome downloads of 2026-11-12; 19 the four
-  articles downloaded from the office on 2026-11-16; 20 the Guazhou–Yiwu desert crossing, 2026-11-23; 21 P.2005 in Sun's edition, 2026-11-23), quotes
+  articles downloaded from the office on 2026-11-16; 20 the Guazhou–Yiwu desert crossing, 2026-11-23; 21 P.2005 in Sun's edition, 22 Li Zhengyu's 玄奘瓜州、伊吾經行考 (web text), 2026-11-23), quotes
   checked with `scripts/check_quotes_asr.py`. They appear in `places.tsv` (`lit`, `lit_n`, `lit_evidence`) and on the map
   ("Recent scholarship (since 1985)"), and are folded into the notes as **Recent scholarship.** paragraphs.
 - **IAR 2007–14:** six later volumes of *Indian Archaeology – A Review* (2007–08, 2009–10 to 2013–14, from the ASI
@@ -126,7 +126,6 @@ Connections volumes (Internet Archive copies). What is left, and why:
 ### The desert crossing, Guazhou to Yiwu (added 2026-11-23; group A)
 
 CNKI or print only; the key is the file name wanted in `data/ref/lit/A/`.
-- [high] `lizhengyu2006_xuanzang_guayi`: 李正宇「玄奘瓜州、伊吾經行考」《敦煌研究》2006.6, pp. 82–91 (the five beacons as P.2005 posts).
 - [high] `lizhengyu2006_hcu`: 李正宇「玄奘瓜州至伊州行程考」《玄奘人文學報》6 (2006), pp. 63–78 (airiti, doi:10.29956/HCHJ.200602.0003).
 - [high] `zhengcao2010_xuanzang_yiwudao`: 鄭炳林、曹紅「唐玄奘西行路線與瓜州伊吾道有關問題考察」《敦煌學輯刊》2010.3, pp. 1–13.
 - [high] `lizhengyu1997_xin_yumen`: 李正宇「新玉門關考」《敦煌研究》1997.3, pp. 1–13.

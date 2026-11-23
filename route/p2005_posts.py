@@ -8,8 +8,8 @@ University of Washington, 2017), ch. 5, pp. 140-143, her transcription with the 
 (data/ref/lit/A/sun2017_p2005.txt, gitignored). Distances are from Shazhou (Dunhuang), in li and bu; 1 li = 300 bu.
 Each post also gives the distance to its neighbours, so the figures check one another.
 Checked on the manuscript (Gallica, Pelliot chinois 2005, btv1b8301563c, PDF pp. 10-11; data/ref/p2005/, gitignored):
-Sun's text is right except Shuangquan's bu (MS 一百六十步, Sun 二百六十步) and the Fifth post <-> Lengquan bu (MS 卌步 in
-both entries, Sun 卅步). The figures below are the manuscript's; MS_ONLY marks where it differs from Sun.
+Sun's text is right except Shuangquan's bu (MS 一百六十步, Sun 二百六十步), the Fifth post <-> Lengquan bu (MS 卌步 in
+both entries, Sun 卅步) and Hutong's bu (MS 一百七十步, Sun 七十步). The editions are compared in route/p2005_editions.tsv. The figures below are the manuscript's; MS_ONLY marks where it differs from Sun.
 """
 import csv, math, re
 SUN = "data/ref/lit/A/sun2017_p2005.txt"
@@ -25,7 +25,7 @@ POSTS = [
     ("雙泉驛 Shuangquan", li(477, 160), "在州東北四百七十七里 (MS_ONLY: 一百六十步; Sun 二百六十步)"),
     ("第五驛 Diwu (the Fifth post)", li(511, 40), "在州東北五百一十一里卌步"),
     ("冷泉驛 Lengquan", li(579, 170), "在州東北五百七十九里一百七十步"),
-    ("胡桐驛 Hutong", li(663, 70), "在州東北六百六十三里七十步"),
+    ("胡桐驛 Hutong", li(663, 170), "在州東北六百六十三里 (MS_ONLY: 一百七十步, as Li Zhengyu; Sun 七十步)"),
     ("赤崖驛 Chiya (Yizhou, Rouyuan county border)", None, "北去伊州柔遠縣界赤崖驛八十里 (from Hutong)"),
 ]
 NEIGH = [   # (from, to, li as the manuscript states it, quote)
@@ -46,17 +46,18 @@ D = {p[0]: p[1] for p in POSTS}
 print("internal check (li from Shazhou):")
 print(f"  Diwu - 64 li 80 bu = {D['第五驛 Diwu (the Fifth post)'] - li(64, 80):.2f}, Diwu - 60 li 80 bu = {D['第五驛 Diwu (the Fifth post)'] - li(60, 80):.2f};"
       f" the manuscript has Shuangquan at {D['雙泉驛 Shuangquan']:.2f} (四百七十七里一百六十步): its own absolute figure is c. 30 li out")
-print(f"  Diwu + 68 li 40 bu = {D['第五驛 Diwu (the Fifth post)'] + li(68, 40):.2f}; Hutong - 84 li = {D['胡桐驛 Hutong'] - 84:.2f};"
-      f" Lengquan in the manuscript {D['冷泉驛 Lengquan']:.2f}: within 100 bu")
+print(f"  Diwu + 68 li 40 bu = {D['第五驛 Diwu (the Fifth post)'] + li(68, 40):.2f}; Hutong - 84 li = {D['胡桐驛 Hutong'] - 84:.2f}"
+      f" = Lengquan in the manuscript {D['冷泉驛 Lengquan']:.2f} exactly; the Fifth post is 90 bu off")
 print("  Shuangquan's 'north to Diwu 60 li 80 bu' and Diwu's 'south to Shuangquan 64 li 80 bu' are both in the manuscript")
 C = dict(D)
 C["雙泉驛 Shuangquan"] = li(446, 260)   # from the Fifth post and its 64 li 80 bu (the 60 li 80 bu reading gives 450 li 260 bu)
-C["冷泉驛 Lengquan"] = li(579, 70)       # from Hutong less 84 li
+# Lengquan and Hutong as the manuscript gives them (they agree exactly)
 C["烏山驛 Wushan"] = C["雙泉驛 Shuangquan"] - li(69, 260)
 C["赤崖驛 Chiya (Yizhou, Rouyuan county border)"] = C["胡桐驛 Hutong"] + 80
 # the road (Stein's stages), points as in route/crossing.py; straight lines; the road runs nearly straight
 P = {"anxi": (40.5176, 95.7812), "hongliuyuan": (41.0646, 95.4211), "daquan": (41.2886, 95.1844), "malianjing": (41.56, 95.30),
-     "xingxingxia": (41.7957, 95.1316), "shaquanzi": (41.8854, 94.8054), "yandun": (42.29, 94.0108)}
+     "xingxingxia": (41.7957, 95.1316), "shaquanzi": (41.8854, 94.8054), "yandun": (42.29, 94.0108),
+     "chiya_li": (42 + 10/60 + 1.27/3600, 94 + 23/60 + 53.10/3600)}   # Chiya post as located by Li Zhengyu (2006/2011, n. [14])
 def km(a, b):
     (a1, o1), (a2, o2) = P[a], P[b]; p1, p2 = map(math.radians, (a1, a2)); dl = math.radians(o2 - o1)
     return 6371 * math.acos(min(1, math.sin(p1) * math.sin(p2) + math.cos(p1) * math.cos(p2) * math.cos(dl)))
@@ -74,11 +75,14 @@ leg("A", W, S_, C[S_] - C[W], km("daquan", "malianjing"), "Daquan -> Malianjing"
 leg("A", S_, F, C[F] - C[S_], km("malianjing", "xingxingxia"), "Malianjing -> Xingxingxia")
 leg("A", F, L, C[L] - C[F], km("xingxingxia", "shaquanzi"), "Xingxingxia -> Shaquanzi")
 leg("A", L, CH, C[CH] - C[L], km("shaquanzi", "yandun"), "Shaquanzi -> Yandun (if Chiya, the Yizhou border, is Yandun: a fit, not evidence)")
-# B: the posts placed by P.2005's own distance from Shazhou: Xinjing 27.7 li beyond the Changle post, near the Shule
+# B: the posts placed by P.2005's own distance from Shazhou: Xinjing 27.7 li beyond the Changle post, near the Shule;
+#    this is Li Zhengyu's field identification (Xinjing N of Liugong, Wushan = Hongliuyuan, Shuangquan = Daquan,
+#    the Fifth post = Malianjing, Lengquan = Xingxingxia, Hutong = Shaquanzi, Chiya at his coordinates)
 leg("B: Xinjing near the Shule N of Changle (P.2005's own distances; Tosaki 2000)", X, W, C[W] - C[X], km("anxi", "hongliuyuan"), "An-hsi (Shule crossing) -> Hongliuyuan")
 leg("B", W, S_, C[S_] - C[W], km("hongliuyuan", "daquan"), "Hongliuyuan -> Daquan")
 leg("B", S_, F, C[F] - C[S_], km("daquan", "malianjing"), "Daquan -> Malianjing")
 leg("B", F, L, C[L] - C[F], km("malianjing", "xingxingxia"), "Malianjing -> Xingxingxia")
+leg("B", L, CH, C[CH] - C[L], km("xingxingxia", "chiya_li"), "Xingxingxia -> Chiya as located by Li Zhengyu (94°23'53\"E, 42°10'01\"N)")
 w = csv.DictWriter(open("route/p2005_posts.tsv", "w", encoding="utf-8", newline=""), list(rows[0]), delimiter="\t", lineterminator="\n")
 w.writeheader(); w.writerows(rows)
 print("\ncorrected chain (li from Shazhou):", {k.split()[0]: round(v, 2) for k, v in C.items() if v})

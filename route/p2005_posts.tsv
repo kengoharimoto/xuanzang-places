@@ -2,9 +2,10 @@ scheme	from	to	li	km	km_per_li	ground
 A: Xinjing = Pei-tan-tzu (Stein's first beacon)	新井驛 Xinjing	烏山驛 Wushan	149.33	67.4	0.451	Pei-tan-tzu -> Daquan: Stein's 80 cyclometer miles less the two straight stages after Daquan
 A	烏山驛 Wushan	雙泉驛 Shuangquan	69.87	31.7	0.453	Daquan -> Malianjing
 A	雙泉驛 Shuangquan	第五驛 Diwu (the Fifth post)	64.27	29.7	0.462	Malianjing -> Xingxingxia
-A	第五驛 Diwu (the Fifth post)	冷泉驛 Lengquan	68.1	28.8	0.423	Xingxingxia -> Shaquanzi
+A	第五驛 Diwu (the Fifth post)	冷泉驛 Lengquan	68.43	28.8	0.421	Xingxingxia -> Shaquanzi
 A	冷泉驛 Lengquan	赤崖驛 Chiya (Yizhou, Rouyuan county border)	164.0	79.5	0.485	Shaquanzi -> Yandun (if Chiya, the Yizhou border, is Yandun: a fit, not evidence)
 B: Xinjing near the Shule N of Changle (P.2005's own distances; Tosaki 2000)	新井驛 Xinjing	烏山驛 Wushan	149.33	68.0	0.455	An-hsi (Shule crossing) -> Hongliuyuan
 B	烏山驛 Wushan	雙泉驛 Shuangquan	69.87	31.8	0.456	Hongliuyuan -> Daquan
 B	雙泉驛 Shuangquan	第五驛 Diwu (the Fifth post)	64.27	31.7	0.493	Daquan -> Malianjing
-B	第五驛 Diwu (the Fifth post)	冷泉驛 Lengquan	68.1	29.7	0.436	Malianjing -> Xingxingxia
+B	第五驛 Diwu (the Fifth post)	冷泉驛 Lengquan	68.43	29.7	0.434	Malianjing -> Xingxingxia
+B	冷泉驛 Lengquan	赤崖驛 Chiya (Yizhou, Rouyuan county border)	164.0	73.4	0.447	"Xingxingxia -> Chiya as located by Li Zhengyu (94°23'53""E, 42°10'01""N)"

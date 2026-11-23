@@ -30,7 +30,7 @@ Five kinds of evidence were set against him:
 - *Epigraphia Indica* and the *Corpus Inscriptionum Indicarum*;
 - the district gazetteers.
 
-A sixth, added in November 2026, is the scholarship since Ji (1985): 485 items listed, 117 read and coded so far, and
+A sixth, added in November 2026, is the scholarship since Ji (1985): 485 items listed, 118 read and coded so far, and
 *Indian Archaeology – A Review* extended to 2013–14 ("Recent scholarship" below; `data/LITERATURE.md`).
 
 **What they show.** 466 of the 500 places have a note (Mizutani's 419 and 81 added ones). The 34 without a note are
@@ -41,7 +41,7 @@ minor sites that have no point either. Taking Mizutani's identifications as the 
 - supports a different site, or leaves the place open between his and another, for 71;
 - offers a candidate no standard authority records for 25.
 
-On the map the study's confidence comes out as 104 places secure, 159 probable and 134 open. These are the ratings
+On the map the study's confidence comes out as 104 places secure, 158 probable and 135 open. These are the ratings
 after a quality check of 30 notes and an audit of every "high" rating without site evidence, and a second check of
 27 paragraphs added later (Ji, names, Bactrian, Stein/Drew, Kuwayama: 19 ok, 8 minor, all fixed; `data/notes/qc2_*.tsv`).
 Another 50 minor sites are placed approximately from Xuanzang's own bearing and distance, without an identification
@@ -87,8 +87,12 @@ li, Xuanzang's usual road li (480 li = 96 cyclometer miles to the fifth beacon).
 run at 0.40–0.46: 900 li Yizhou → Guazhou (*Yuanhe zhi*), 800 li Yiwu → the Yumen pass (*Xin Tangshu*; the Life's
 "800 li" of the Moheyan), and the posts of P.2005 (Sun 2017's edition), which fall on the road's water stages at one
 scale, on their own distances one stage south of Stein's beacons. The five posts span 283.5 official li against the
-Life's 400 li for the five beacons. The Life's 50 li from Guazhou to the river fit Stein's site but are short for
-Suoyang cheng even in official li, a conflict left open.
+Life's 400 li for the five beacons. Li Zhengyu's survey of the post sites (2006, revised 2011; read
+in its web text) puts the posts where P.2005's distances do, and the five beacons at the first five posts (Xinjing N
+of Liugong … Daquan, Malianjing); the study leans to his series for the first and fourth beacons (medium) and keeps
+Stein's as the rival. The post entries of P.2005 were checked on the manuscript scan against Sun's and Li's editions
+(`route/p2005_editions.tsv`; Ikeda On's not available). The Life's 50 li from Guazhou to the river fit Stein's site
+but are short for Suoyang cheng even in official li, a conflict left open.
 
 **Every place now also has:**
 - its passage of the Chinese text, with the text's own interlinear notes;
@@ -115,7 +119,7 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
 
 ## Sources
 
-The study drew on 441 works in 592 volumes, listed in `BIBLIOGRAPHY.html` (built by `scripts/build_bibliography.py`
+The study drew on 442 works in 593 volumes, listed in `BIBLIOGRAPHY.html` (built by `scripts/build_bibliography.py`
 from `data/bibliography.tsv`, `data/literature.tsv`, the gazetteer index and the series files; published at
 https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw). Counted are works read, searched with result, or used; each series once among the works.
 
@@ -170,8 +174,8 @@ https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw). Counted are works read, sear
   Internet Archive OCR, in `data/ref/baluch/` (gitignored). The identifiers are listed in
   `../yoga-gazetteers/regions/data/selection.tsv` (BAL*). They are coded as B001–B055 in `data/coded/gaz_batch10.tsv`.
 - **Recent scholarship, 1985–2026** (`data/LITERATURE.md`, `data/literature.tsv`, `data/LIT_INSTRUCTIONS.md`). A
-  bibliography of 485 items (491 rows; Li Rongxi 1996 and four others entered twice or more) built region by region in English, Japanese, Chinese and European languages; 117
-  items read and coded (`data/coded/lit_batch1-21.tsv`, 277 relevant rows, quotes checked; Tsuchiya 2010 OCR'd with Google Vision), shown on the map
+  bibliography of 485 items (491 rows; Li Rongxi 1996 and four others entered twice or more) built region by region in English, Japanese, Chinese and European languages; 118
+  items read and coded (`data/coded/lit_batch1-22.tsv`, 287 relevant rows, quotes checked; Tsuchiya 2010 OCR'd with Google Vision), shown on the map
   as "Recent scholarship (since 1985)" and folded into the notes as **Recent scholarship.** paragraphs. Among them:
   Falk 2017 and Davis et al. 2016 (Kapilavastu, Rāmagrāma), Kuwayama's papers of 1985–99 and Miyamoto 2012–18
   (Afghanistan, Tokharistan), Naiki 2015 and 2021 (Chanaka Dheri, Taxila), Dar & Hameed 2018 (Siṃhapura), Verardi 2012

@@ -242,9 +242,12 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
 - **P.2005 (沙州都督府圖經)**: read 2026-11-23 in Sun's edition (2017; `lit_batch21.tsv`, `route/p2005_posts.py`,
   `route/README.md` §11). Checked on the scan the user downloaded (Gallica
   btv1b8301563c, `data/ref/p2005/`): Shuangquan 四百七十七里一百六十步 is the manuscript's own reading (c. 30 li out
-  against its neighbours), the 60 / 64 li are both in it, and the Fifth post–Lengquan bu are 卌 (Sun 卅). Still to
-  do: compare Ikeda On's and Li Zhengyu's editions (do they emend Shuangquan?); find where Huang Yinzhou et al.
-  (2024) put the Xinjing post (巴州二號古城).
+  against its neighbours), the 60 / 64 li are both in it, and the Fifth post–Lengquan bu are 卌 (Sun 卅). Li Zhengyu's
+  text (2006/2011 web version) compared too (`route/p2005_editions.tsv`): he emends Shuangquan (七〔四〕, and 420 in
+  his note) and supplies 四 in 六十［四］里. Still to do: Ikeda On's edition (1975, Enoki Festschrift; print only) and
+  Zheng Binglin's (1989) and Wang Zhongluo's; where Huang Yinzhou et al. (2024) put the Xinjing post (巴州二號古城),
+  against Li's site N of Liugong; coordinates for Li's Xinjing, Lucaojingzi and Dashui (his figures 1–12 are not in
+  the web text).
 - **Suoyang cheng against the 50 li** (`route/README.md` §11): the Tang course of the Shule N of Suoyang cheng; a
   channel nearer than Shuangta would remove the conflict.
 - **Stein's Kua-chou-ch'eng**: its date (Qing ya-men; Stein cites no early finds) and coordinates; the point used is
