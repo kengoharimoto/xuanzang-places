@@ -17,7 +17,8 @@ own survey of the post sites, puts Guazhou at Suoyang cheng, the pass at the sma
 gou, and the five beacons at the first five posts of P.2005: Xinjing N of Liugong, Baidunzi, Hongliuyuan, Daquan and
 Malianjing, one stage south of Stein's; the Wild Horse Spring at Lucaojingzi and the pool at Dashui N of Dunhuang. P.2005's
 own distances (`route/p2005_posts.py`, scheme B) agree with Li's placing of the posts, and the posts are ruins with
-Tang finds; that the beacons of 629 stood where the posts were set in 678–696 is Li's inference, supported by the
+Tang finds; for the first post only, Huang Yinzhou et al. (2024) have a rival site, Bazhou No. 2 city, 14.6 km SW of
+Li's, which fits P.2005's distances a little better (01.04.x4); that the beacons of 629 stood where the posts were set in 678–696 is Li's inference, supported by the
 Life's water at the beacons and by P.2005's posts moved to beacons and named after them.
 
 **The li on this road.** The Life's figures are of two kinds: what Xuanzang was told (50 li to the river, five
@@ -93,19 +94,32 @@ Guazhou. Open, low; the point is Shuangta-bao.
 Hami road, with a spring. Tosaki (2000, p. 75): the Xinjing post 新井驛 of P.2005 (沙州都督府圖經), 27 li 200 bu N of
 Changle; he reads the *Xingzhuang* (關西百餘里有一烽) as putting it c. 100 li from the pass. Li Zhengyu (2006/2011,
 n. [1]): the Xinjing post, 31 huali (27 li 200 bu) N of Liugong poch'eng (Tang Changle city) and 4.5 huali N of the
-Shule, revising his earlier Shajingzi (2009 book, p. 85); Baidunzi is his second beacon (Guangxian post).
+Shule, revising his earlier Shajingzi (2009 book, p. 85); Baidunzi is his second beacon (Guangxian post). Huang
+Yinzhou et al. (2024, §4): the Xinjing post at Bazhou No. 2 city 巴州二號古城 in the yardang desert W of the county,
+40°28′19″ N, 95°28′06″ E (printed "42°", a misprint: their 14 km from Liugong holds only at 40°), 14 km NW of
+Liugong and c. 14 km ENE of the Gancao post (Xishawo No. 3 city), where the Shazhou road joined the Guazhou road; they
+reject the older placing at the Leidunzi 雷墩子 beacon as a Qing tower, from its good preservation. Huang does not
+discuss Xuanzang, Li's site, or the beacons.
 **Evidence.** The Life: 80+ li beyond the crossing; water W of the beacon; the commandant Wang Xiang (王祥) of
 Dunhuang. Stein's 16 map miles from the old Su-lo bed match the 80 li at 0.32 km per li. Li's site has fort walls,
 an Eastern Han beacon 8 m high, rubbish and sherds; from his crossing E of Maquan it is 40 km in a straight line, "80
 li" by the winding way. Baidunzi too has a beacon (Western Han core, Eastern Han and Qing casings), a fort and springs.
+Huang's site has Han and Tang remains and a beacon 150 m off (OSM); its bearing "NW" of Changle is Yan Gengwang's,
+not P.2005's, which gives only the 27 li 200 bu (Li reads "N"). On P.2005's figures (`route/p2005_posts.py`, rows X
+and Y) Huang's site fits better: Changle → Xinjing 27.7 li is 14 km to Huang's site (0.51 km per li), 15.5 km to Li's
+by his "31 huali" or 18 km by his grid and the OSM point for Liugong (0.56–0.65); and Xinjing → Wushan 149 li by
+Baidunzi is 71 km from Huang's site (0.48, the road's own scale of 0.45–0.49) and 60 km from Li's (0.40). Li's
+well-kept 8 m beacon N of Liugong may be the Leidunzi beacon that Huang dates to the Qing; neither names the other's
+site, and this is not settled.
 **P.2005.** The posts of the Fifth Road (Sun 2017, pp. 140–143, checked on the scan): Xinjing 227 li 200 bu from
 Shazhou, then Guangxian and Wushan (run by Guazhou), Shuangquan, the Fifth post, Lengquan, Hutong and Chiya on the
 Yizhou border, set up in 678–696. Between posts they fall on the road's water stages at one scale (0.45–0.49 km per li,
 `route/p2005_posts.py`); P.2005's own distance from Shazhou (227.7 li = 104 km at that scale) and Li's Chiya
 coordinates put the series where Li found the posts (scheme B), one stage south of Stein's.
-**Assessment.** The post of Xinjing is located, by document, distance and ruin; that it was the first beacon of 629
-rests on Li's equation of beacons and posts. Stein's Baidunzi rests on 5 li to the mile. Li's site is the stronger
-candidate, with Stein's the rival; open, medium. The point is Li's grid reading for the beacon (X16720.2, Y4494.7: Gauss–Krüger
+**Assessment.** The Xinjing post lies just N or NW of Changle, but its site is disputed: Li's beacon N of Liugong or
+Huang's Bazhou No. 2 city, 14.6 km apart; P.2005's distances favour Huang's slightly. That it was the first beacon of
+629 rests on Li's equation of beacons and posts. Stein's Baidunzi rests on 5 li to the mile. The study leans to the
+Xinjing post, with three sites in play (Li's, Huang's, Stein's); the point stays at Li's. Open, medium. The point is Li's grid reading for the beacon (X16720.2, Y4494.7: Gauss–Krüger
 zone 16, 40.557 N, 95.600 E).
 
 ### 01.04.x5 第四烽 (the fourth beacon) — Daquan, the Shuangquan post (Li Zhengyu), or Stein's Malianjing; open

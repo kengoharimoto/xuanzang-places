@@ -35,9 +35,9 @@ What the searches could not reach, for a later pass (or a library):
 - **The desert crossing, Guazhou to Yiwu (added 2026-11-23, `lit_batch20.tsv`, places 01.04.x1–x10):** the core
   studies are CNKI-only and are known through reviews and footnotes: Li Zhengyu 1997, 2006 (two papers, one also in
   《玄奘人文學報》 6 on airiti), 2010; Li Bingcheng 1990, 2001, 2005, 2008; Zheng Binglin and Cao Hong 2010; Hui, Cao
-  and Zheng 2010; Wang Nai'ang 2020; Huang Yinzhou et al. 2024 (the Xinjing post); Yan Gengwang, 《唐代交通圖考》 ii
+  and Zheng 2010; Wang Nai'ang 2020; Yan Gengwang, 《唐代交通圖考》 ii
   (1985). No survey report of beacon ruins on the Baidunzi–Xingxingxia line was found; Cao et al. 2022 (*Land* 11,
-  Hami beacons) refused the script download. Read: Tosaki 2000, 2001; WHC 1442 (6 pages); Seng 2017; Wang Jianjun
+  Hami beacons) refused the script download. Read: Huang Yinzhou et al. 2024 (the Xinjing post, CASS web text); Tosaki 2000, 2001; WHC 1442 (6 pages); Seng 2017; Wang Jianjun
   2026 (Ta'er temple); and three press or review pieces.
 - **Russian, Uzbek and Tajik excavation literature:** Chach/Tashkent, Nujkath, Ispijab, Kesh, Chaghāniyān, Shumān,
   Kobadian, Kumādh; Badakhshan (Rāgh, Kishm, Yamgān, Kurān) and the Wakhan forts.

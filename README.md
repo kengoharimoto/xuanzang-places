@@ -30,7 +30,7 @@ Five kinds of evidence were set against him:
 - *Epigraphia Indica* and the *Corpus Inscriptionum Indicarum*;
 - the district gazetteers.
 
-A sixth, added in November 2026, is the scholarship since Ji (1985): 485 items listed, 118 read and coded so far, and
+A sixth, added in November 2026, is the scholarship since Ji (1985): 485 items listed, 119 read and coded so far, and
 *Indian Archaeology – A Review* extended to 2013–14 ("Recent scholarship" below; `data/LITERATURE.md`).
 
 **What they show.** 466 of the 500 places have a note (Mizutani's 419 and 81 added ones). The 34 without a note are
@@ -90,7 +90,8 @@ scale, on their own distances one stage south of Stein's beacons. The five posts
 Life's 400 li for the five beacons. Li Zhengyu's survey of the post sites (2006, revised 2011; read
 in its web text) puts the posts where P.2005's distances do, and the five beacons at the first five posts (Xinjing N
 of Liugong … Daquan, Malianjing); the study leans to his series for the first and fourth beacons (medium) and keeps
-Stein's as the rival. The post entries of P.2005 were checked on the manuscript scan against Sun's and Li's editions
+Stein's as the rival. For the first post Huang Yinzhou et al. (2024) have a rival site, Bazhou No. 2 city, 14.6 km SW
+of Li's, which fits P.2005's distances a little better; left open. The post entries of P.2005 were checked on the manuscript scan against Sun's and Li's editions
 (`route/p2005_editions.tsv`; Ikeda On's not available). The Life's 50 li from Guazhou to the river fit Stein's site
 but are short for Suoyang cheng even in official li, a conflict left open.
 
@@ -119,7 +120,7 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
 
 ## Sources
 
-The study drew on 442 works in 593 volumes, listed in `BIBLIOGRAPHY.html` (built by `scripts/build_bibliography.py`
+The study drew on 443 works in 594 volumes, listed in `BIBLIOGRAPHY.html` (built by `scripts/build_bibliography.py`
 from `data/bibliography.tsv`, `data/literature.tsv`, the gazetteer index and the series files; published at
 https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw). Counted are works read, searched with result, or used; each series once among the works.
 
@@ -174,8 +175,8 @@ https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw). Counted are works read, sear
   Internet Archive OCR, in `data/ref/baluch/` (gitignored). The identifiers are listed in
   `../yoga-gazetteers/regions/data/selection.tsv` (BAL*). They are coded as B001–B055 in `data/coded/gaz_batch10.tsv`.
 - **Recent scholarship, 1985–2026** (`data/LITERATURE.md`, `data/literature.tsv`, `data/LIT_INSTRUCTIONS.md`). A
-  bibliography of 485 items (491 rows; Li Rongxi 1996 and four others entered twice or more) built region by region in English, Japanese, Chinese and European languages; 118
-  items read and coded (`data/coded/lit_batch1-22.tsv`, 287 relevant rows, quotes checked; Tsuchiya 2010 OCR'd with Google Vision), shown on the map
+  bibliography of 485 items (491 rows; Li Rongxi 1996 and four others entered twice or more) built region by region in English, Japanese, Chinese and European languages; 119
+  items read and coded (`data/coded/lit_batch1-23.tsv`, 291 relevant rows, quotes checked; Tsuchiya 2010 OCR'd with Google Vision), shown on the map
   as "Recent scholarship (since 1985)" and folded into the notes as **Recent scholarship.** paragraphs. Among them:
   Falk 2017 and Davis et al. 2016 (Kapilavastu, Rāmagrāma), Kuwayama's papers of 1985–99 and Miyamoto 2012–18
   (Afghanistan, Tokharistan), Naiki 2015 and 2021 (Chanaka Dheri, Taxila), Dar & Hameed 2018 (Siṃhapura), Verardi 2012

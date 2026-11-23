@@ -237,7 +237,7 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
 
 - **Wanted papers** (CNKI or print; list in `data/LITERATURE.md`, "The desert crossing"): Li Zhengyu 2006 (two papers on
   the route; the five beacons as P.2005 posts), Zheng Binglin and Cao Hong 2010, Li Bingcheng 2001/2008, Wang Nai'ang
-  2020, Huang Yinzhou et al. 2024, Yan Gengwang vol. ii. Their arguments are known only through reviews; when read,
+  2020, Yan Gengwang vol. ii. Their arguments are known only through reviews; when read,
   revisit 01.04.x1–x5.
 - **P.2005 (沙州都督府圖經)**: read 2026-11-23 in Sun's edition (2017; `lit_batch21.tsv`, `route/p2005_posts.py`,
   `route/README.md` §11). Checked on the scan the user downloaded (Gallica
@@ -245,8 +245,11 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
   against its neighbours), the 60 / 64 li are both in it, and the Fifth post–Lengquan bu are 卌 (Sun 卅). Li Zhengyu's
   text (2006/2011 web version) compared too (`route/p2005_editions.tsv`): he emends Shuangquan (七〔四〕, and 420 in
   his note) and supplies 四 in 六十［四］里. Still to do: Ikeda On's edition (1975, Enoki Festschrift; print only) and
-  Zheng Binglin's (1989) and Wang Zhongluo's; where Huang Yinzhou et al. (2024) put the Xinjing post (巴州二號古城),
-  against Li's site N of Liugong. Located 2026-11-24 (`data/coords_added.tsv`): Xinjing from Li's own grid figures
+  Zheng Binglin's (1989) and Wang Zhongluo's. Huang Yinzhou et al. (2024) read 2026-11-24 (CASS web text,
+  `lit_batch23.tsv`): the Xinjing post at Bazhou No. 2 city, 14.6 km SW of Li's site, which fits P.2005's distances a
+  little better; open (01.04.x4). Still to check: whether Li's beacon N of Liugong is the Leidunzi beacon that Huang
+  calls Qing, and Huang's other paper on Bazhou No. 2 as the Han Kunlun zhang.
+  Located 2026-11-24 (`data/coords_added.tsv`): Xinjing from Li's own grid figures
   (n. [1]), Daquan 6 km NE of the station by his 12 li; Lucaojingzi is not on OSM and stays an estimate (±10 km), and
   Dashui is an OSM locality "大水泉？" whose name its mapper queried. Li's figures 1–12 (not in the web text) or a survey
   report would settle the last two.
