@@ -323,7 +323,8 @@ https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw). Counted are works read, sear
 10. **Joined table** (`data/places.tsv`, `scripts/build_places.py`) and **map**
    (`map/xuanzang_places.html`, https://claude.ai/artifact/WUH4GFEULK5rZ8oaXw8PpH).
    - **The map shows the study's view** (`data/study_view.tsv`, `scripts/build_study_view.py`). Each place sits at the
-     study's current site: its own proposed site where it settles on one (`data/coords_study.tsv`), the sources'
+     study's current site: the site it adopts where it settles on one (`data/coords_study.tsv`; nearly always
+     another scholar's proposal, named in the note), the sources'
      point for added places, and Mizutani's point elsewhere. Colour is the study's confidence, taken from the notes'
      assessments (`updates_*.tsv`):
      - **secure:** high confidence;
@@ -413,7 +414,7 @@ Kapilavastu sites). Most add evidence or candidates; these change the picture:
   Kuwayama's Shah Nasr Ghundai to be Masson's Tepe Ashrak and adds Tepe Khwaja Lahori (Mizuno) as a third candidate
   for the Dīpaṅkara stūpa. No rating changed.
 - **Rāmagrāma** (06.03): the brick stūpa S of Parāsi Bazar (Ramgram, Nepal), about 46 km E of Lumbinī at the study's
-  li, is a new candidate (Falk 2017; low); Dharmauli the alternative. The charcoal stūpa (06.03.04) is open between
+  li, is Falk's candidate (2017; low); Dharmauli the alternative. The charcoal stūpa (06.03.04) is open between
   Lauriya-Nandangarh, Rajdhani and Falk's Rampurwa, none fitting every leg.
 - **Gandhāra:** Varuṣapura (02.04.14) drops from high to medium: nothing at Shahbaz Garhi names it, and Errington's
   Shahr-i Bahlol (1993, known only through Khan Khattak 2019's quotation, where it is a premise) is a rival,
@@ -563,7 +564,8 @@ These are medium- or high-confidence proposals that move away from Mizutani; how
 - `data/places_added.tsv`: 81 places missing from Mizutani's numbering (ids `.xN`), added from the sources. Mappings
   for the coded rows are in `data/coded/new_resolved.tsv`; coordinates are in `data/coords_added.tsv`.
 - `data/names/`: the transcription key, the pilot tests of the original names and the study's proposed forms (method 8a).
-- `data/coords_study.tsv`: coordinates for the study's own proposed sites (the map's "study's proposals" layer).
+- `data/coords_study.tsv`: coordinates for the sites the study adopts against the standard, nearly all others'
+  proposals (the map's points for those places; "Mizutani's points" shows his sites beside them).
 - `data/coded/`: coding by source (`mz_juan*`, `auth_*`, `asr_batch*`, `ar_batch*`, `iar_batch*`, `epig_batch*`,
   `gaz_batch*`).
 - `data/notes/`: notes and proposed updates.
