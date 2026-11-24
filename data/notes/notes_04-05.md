@@ -176,8 +176,7 @@ Nagar and the present one at Sultānpur (p. 373). His name for the old capital, 
 and should not be read as that town.
 
 **Assessment.** The country is certain: the surviving name Kulanta and the Chamba plates' Kulūta secure the name
-equation. Jagatsukh is
-a candidate for the capital that none of the authorities records. It rests on dynastic tradition only, against
+equation. Jagatsukh, Atkinson's candidate for the capital, is not in the standard authorities. It rests on dynastic tradition only, against
 the Nagar tradition Mizutani reports.
 
 ### 04.04a 洛護羅國 (Lāhul) — Lahul; the gazetteers repeat it and do not meet Jäschke's objection

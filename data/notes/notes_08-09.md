@@ -563,7 +563,7 @@ where Xuanzang has more than 100 li NE.
 
 **Assessment.** Ayer is the first candidate with remains to match Xuanzang's stone chamber, and it fits the 30 li E to
 Jethian well; the creed panel shows a Buddhist site, not which one. The bearing from Gurpa (N, not NE) does not fit.
-Budhain stays rejected. A new candidate, low confidence.
+Budhain stays rejected. Ayer is Lama's and Anand's candidate, low confidence.
 
 ### 09.02.03 二溫泉 (杖林西南) — Tapoban hot springs
 

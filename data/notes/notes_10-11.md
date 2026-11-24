@@ -597,8 +597,7 @@ Nendra (Chitratola), 15 mi below Cuttack (Waddell (via Watters 1904, Majumdar 19
 
 **Ji Xianlin et al. (1985).** Ji agrees: Puri (Cunningham) or Nendra (Waddell), undecided (p. 816).
 
-**Assessment.** The gazetteers weaken Puri. They add the Prāchī-mouth port near Konarak, a candidate no authority
-records, though it rests on tradition only. Nendra (Waddell) remains the better-argued alternative to Puri.
+**Assessment.** The gazetteers weaken Puri. They add the Prāchī-mouth port near Konarak, a candidate the standard authorities do not record, though it rests on tradition only. Nendra (Waddell) remains the better-argued alternative to Puri.
 
 ### 10.10 恭御陀國 (Koṅgoda) — the Śailodbhava Koṅgoda-maṇḍala, from the Mahānadī into N Ganjam; capital on the Sālimā
 
@@ -769,8 +768,7 @@ Nāgārjuna's monastery transferred from Andhra to a well-known monastery furthe
 Sātavāha(na) had very likely already been linked with Nāgārjuna and with a region further north, Kosala, rather than
 with Andhra. Neither locates the mountain.
 
-**Assessment.** Xuanzang puts Bhramaragiri 300 li SW of the Kosala capital. With Sirpur now secure (10.12), Arang has
-the bearing and a hill-name close to Bhramara (both bhramara and bhṛṅga mean "bee", glossed 黑蜂 in the text; this point
+**Assessment.** Xuanzang puts Bhramaragiri 300 li SW of the Kosala capital. With Sirpur now secure (10.12), Arang, proposed by Mirashi and Pandeya (EI 23), has the bearing and a hill-name close to Bhramara (both bhramara and bhṛṅga mean "bee", glossed 黑蜂 in the text; this point
 is not made in these sources). Śrīparvata at Nāgārjunakoṇḍa has the Nāgārjuna association and the name of Faxian's
 monastery, but lies far to the south, outside Kosala; and if, as Tournier and Deeg suggest (2025), the Nāgārjuna story
 was moved north from Andhra to a known Kosala monastery, the association no longer points to Nāgārjunakoṇḍa. Arang is
@@ -848,7 +846,7 @@ monastery". None of the coded authorities name it.
 the same as the Bhorasaila ... the seat of the activities of the Buddhist logician Dignaga". It adds that "the name
 of the village Delang is considered to be a prakrit variant of the name Dignaga".
 
-**Assessment.** This is a new candidate, but it lies in Oḍra, not in Andhra where Xuanzang puts Dignāga's hill. Its
+**Assessment.** The gazetteer's candidate lies in Oḍra, not in Andhra where Xuanzang puts Dignāga's hill. Its
 only evidence is an etymology. "Bhorasaila" may also echo Bhramaragiri (10.12.05). The question stays open, and the
 Puri claim should be recorded as low confidence.
 
@@ -1019,7 +1017,7 @@ not name the hill or the finds.
 
 **Assessment.** The Bezwada hill presupposes a capital at Bezwada, which the study rejects (10.14). Takakuwa's hill SE
 of Amarāvatī, reported by Ji, is the only candidate consistent with the Dharanikota capital, but it is unnamed and its
-finds are not described. New candidate, low confidence; no map point can be given.
+finds are not described. Takakuwa's candidate, low confidence; no map point can be given.
 
 ### 10.15 珠利耶國 (Coḷa) — the Telugu Coḷa country (Renāṇḍu) of Cuddapah
 
@@ -1887,8 +1885,7 @@ Minicoy". It refers to Marco Polo's male and female islands.
 further west (p. 943). He reports 足立喜六's Siraf on the Persian Gulf as forced, and the search for the island by Ibn
 Baṭṭūṭa and by Portuguese sailors, after Kennedy (JRAS 1904, p. 163).
 
-**Assessment.** Minicoy lies SW of India, not SW of Persia, and the 拂懍 overlordship in the text points west. The
-suggestion is a new candidate in these sources but carries little weight. Mizutani's scepticism stands.
+**Assessment.** Minicoy lies SW of India, not SW of Persia, and the 拂懍 overlordship in the text points west. The suggestion, outside the standard authorities, carries little weight. Mizutani's scepticism stands.
 
 ### 11.21 臂多勢羅國 (Pitaśilā) — near Hyderabad (Sind), uncertain
 

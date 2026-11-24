@@ -224,7 +224,7 @@ Deane's report of a surviving name (03.01.09a).
 **Recent scholarship.** Bibi (2017, p. 67) agrees on Deane's Adinzai valley and reports R. Khan (2014, p. 106), who
 names Andan Dheri and Sapar (Saparuna) as the probable sites of the monastery and its stūpa; no evidence is given.
 **Assessment.** Two field men agree on the valley, but the monastery and its 80-ft stūpa are not identified on the
-ground; Khan's Andan Dheri and Sapar, reported by Bibi without argument, are new candidates. Low confidence; nothing
+ground; Khan's Andan Dheri and Sapar, reported by Bibi without argument, are candidates outside the standard authorities. Low confidence; nothing
 contradicts Mizutani.
 
 ### 03.01.10 上軍王窣堵波 — the Shankardar stūpa; distance and bearing fit exactly; Nawe-kalai (Tucci) the rival

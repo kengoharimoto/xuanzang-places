@@ -721,7 +721,7 @@ into the 7th century; nothing ties it to this legend.
 
 **Assessment.** The stūpa is unlocated. It should lie just east of whichever site is taken as the capital (03.01.01a).
 Tucci's Butkara I, reported by Bibi, is a candidate only if Mingora is the capital, and it lies on the SE side of the
-town rather than 4–5 li E; a new candidate, low.
+town rather than 4–5 li E; Tucci's candidate, low.
 
 ### 03.01.03 阿波邏羅龍泉 — Apalāla's spring: the head of the Swat at Kalam
 
@@ -783,8 +783,7 @@ Great Forest (Mahavana)" at Puruṣapura (p. 149). Either way it bears on the mo
 its site.
 **Assessment.** Stein's Panjkotai has a monument, the bearing and the distance; Kukrai has a stūpa on the way to Ilam
 but is far too close for 200 li; Mahaban rests on the name and is too far (Stein: at least 50 road miles, 300 li).
-Stein's site is now the better supported, though the ruin carries no inscription. Proposed: Panjkotai near Sunigram,
-with Kukrai as the alternative; low to medium, taken as low.
+Stein's site is now the better supported, though the ruin carries no inscription. Stein's Panjkotai near Sunigram is preferred, with Mizuno's Kukrai as the alternative; low to medium, taken as low.
 
 ### 03.01.07 摩愉伽藍 — Gōg-dara (Mizuno) or Sura in the Chumla valley (Cunningham)
 
@@ -835,7 +834,7 @@ stepped stūpas drawn with this jātaka at Shatial and Thalpan differ from the l
 portraits of it.
 
 **Assessment.** Cunningham's placement follows from his Mahaban chain (03.01.06–07), not from a found monument.
-Stein's Girarai and Deane's Surkhavi/Naranji, reported by Bibi, are new candidates resting on their chains in the same
+Stein's Girarai and Deane's Surkhavi/Naranji, reported by Bibi, are candidates resting on their chains in the same
 way; neither is described here as a stūpa answering the text. The stūpa remains unlocated.
 
 ### 03.01.09a 蘇摩大窣堵波 — the Suma stūpa in the Adinzai valley (Deane)
@@ -885,7 +884,7 @@ li).
 
 **Assessment.** The stūpa is unlocated. Deane's monument is doubted by Watters, and Tucci's Shakhorai, reported by
 Bibi, rests on a natural rock read as the "stone stūpa"; its bearing fits, and its distance falls between the two
-capitals' figures. A new candidate, low.
+capitals' figures. Tucci's candidate, low.
 
 ### 03.01.13 觀自在菩薩精舍 — the Avalokiteśvara vihāra: unlocated
 

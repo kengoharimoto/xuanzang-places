@@ -552,7 +552,7 @@ in their account) date the founding of the site between the Mauryan and Gupta pe
 
 **Assessment.** Rampur Deoriya is the only candidate the older survey describes, with a stupa and tank, but Carlleyle
 reached it by measuring 26 miles from Bhuila Dih, which fell (06.02); from Rummindei it lies to the south-west, not
-200 li east. The Parāsi stūpa is new to the study and fits Xuanzang from the secure Lumbinī: about 40 km almost due E,
+200 li east. The Parāsi stūpa, Falk's candidate (2017) after Shrestha's excavation, fits Xuanzang from the secure Lumbinī: about 40 km almost due E,
 where 200-odd li at the study's 0.231 km per li give about 46 km. It is a large brick stūpa, as Xuanzang's is, and
 lies by water, as his stūpa lies by the nāga's pond, and it has monasteries and a water tank beside it, as he has a
 monastery not far from the stūpa (Coningham et al. 2019); but nothing names it, and the pond is not identified.
@@ -1215,7 +1215,7 @@ the Ganges (p. 605), as Mizutani does.
 the Kali Mandir and Gupta and Pala statues. It also admits that the Gandak, Mahi, Sagar and Ganga make only four rivers, and that "this question
 cannot finally settle until new evidence appears".
 
-**Assessment.** The Sonepur area at the Gandak–Ganges confluence is a new, tentative candidate with some early remains. It suits the
+**Assessment.** The Sonepur area at the Gandak–Ganges confluence, the Saran gazetteer's (1960) tentative candidate for Faxian's confluence, has some early remains. It suits the
 geography but is not tied to the stupa.
 
 ### 07.04 弗栗恃國 (Vṛji) — northern Tirhut and Darbhanga
