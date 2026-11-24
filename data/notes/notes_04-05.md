@@ -220,7 +220,8 @@ alternative among the authorities.
 
 **Identifications.** Mizutani: named after the Sutlej, capital Sarhind (uncertain). Cunningham (pp. 166–7, after
 correcting the distance to Bairāt), Beal (p. 178) and Dey: Sarhind. Vivien (p. 336): in the Sarasvati basin,
-near Sirtah west of Thanesar. Watters (p. 300): nothing is known.
+near Sirtah west of Thanesar. Watters (p. 300): nothing is known. Schwartzberg's *Historical Atlas* (1978, plate III.D.2) puts
+Śatadru at Sarhind.
 
 **Gazetteers.** No hits. The survey reports have no passage on it either.
 

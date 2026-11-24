@@ -13,7 +13,11 @@ central. Rivers have moved since the 7th century. The circuits are rounded figur
 **Earlier work.** Setting Xuanzang's circuits against the land is not new. Cunningham (*Ancient Geography*, 1871)
 converts each country's circuit at 6 li to the mile and compares it with the districts it might cover: Udyāna's
 5,000 li fit the Swat drainage by road; Kashmir's 7,000 li fit the extended kingdom from the Indus to the Salt Range,
-not the valley's 300 miles. Kuwayama, Mizutani and others do the same for single countries (Kapiśa below). What this
+not the valley's 300 miles. Kuwayama, Mizutani and others do the same for single countries (Kapiśa below).
+Schwartzberg's *Historical Atlas of South Asia* (1978, plate III.D.2, "South Asia in the age of Puṣyabhūti and
+Cālukyan ascendancy, c. 550–700") names Xuanzang's countries at their capitals, after the standard identifications
+(Śatadru at Sarhind, with Cunningham), and marks some of his dependencies ("Dependents of Kāśmīra", "of Takka", "of
+Sindhu", "of Mālava"), but draws no extents for them; its shading is dynastic. What this
 layer adds is drawing all the countries by one fixed rule, from the juan's li, the borders the text names and the
 drainage, so that the figures can be compared across the text.
 
@@ -174,8 +178,9 @@ Kabul. They differ on its extent:
 - **Kuwayama's thesis (1990):**
   - **Extent:** one long north–south basin from the Hindu Kush, including the Kabul basin (p. 927). This sits uneasily
     with his own southern border for it at the Khair Khana pass (pp. 1262–66).
-  - **Dependencies in 629:** Lampāka, Nagarahāra, Gandhāra and Varṇu.
-  - **Sui and Tang names:** the Sui's 漕國 was Kapiśa. Under the Tang it became the 修鮮都督府 (658/661).
+  - **Dependencies in 629:** Lampāka, Nagarahāra, Gandhāra and Varṇu, from Xuanzang's own 役屬 notes as Kuwayama
+    (1990, pp. 938–40) collects them.
+  - **Sui and Tang names:** the Sui's 漕國 was Kapiśa (Kuwayama 1990, pp. 677–711). Under the Tang it became the 修鮮都督府 (658/661).
 
 How far south the country reached is therefore open. The study's point for the country is 35.00 N, 69.25 E, on the
 Begram–Charikar plain. The study counts Kapiśa as **secure**.

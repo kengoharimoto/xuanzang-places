@@ -113,7 +113,7 @@ and `../yoga-gazetteers/` refer to https://github.com/kengoharimoto/gazetteer-st
 
 ## Sources
 
-The study drew on 445 works in 596 volumes, listed in `BIBLIOGRAPHY.html` (built by `scripts/build_bibliography.py`
+The study drew on 446 works in 597 volumes, listed in `BIBLIOGRAPHY.html` (built by `scripts/build_bibliography.py`
 from `data/bibliography.tsv`, `data/literature.tsv`, the gazetteer index and the series files; published at
 https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw). Counted are works read, searched with result, or used; each series once among the works.
 
@@ -341,7 +341,8 @@ https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw). Counted are works read, sear
    - **Country areas (approximate):** a layer that gives each country an extent from its own circuit figure
      (`scripts/country_areas.py`, `data/country_areas.tsv`, `map/country_areas.json`). Comparing the circuits with
      the land is Cunningham's practice (1871: 6 li to the mile; Kashmir's 7,000 li as the extended kingdom); the
-     layer's part is one fixed rule for all countries. For 134 of the 148 countries
+     layer's part is one fixed rule for all countries. Schwartzberg's *Historical Atlas* (1978, plate III.D.2) names
+     the countries at their capitals and marks some dependencies, but draws no extents. For 134 of the 148 countries
      the text gives a circuit (國周N里; Bāmiyān and Khwārazm give breadth and length instead). The circuit is scaled
      by the straight-line km per li of its juan's route legs (`route/li_regions.tsv`), so the Deccan's inflated
      figures shrink as its distances do, and turned into an area at 0.75 of a circle's compactness. From the
