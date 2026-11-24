@@ -38,7 +38,8 @@ range is 0.12–0.43.
 - **Converted to the road:** roads are commonly 1.2–1.35 times the straight line, which gives about **0.29–0.32 km per
   li travelled**.
 
-That figure is close to Hori Kentoku's 320 m and Cunningham's working "1/6 mile" (0.27 km). It is well short of the
+That figure is close to Hori Kentoku's 320 m, Cunningham's working "1/6 mile" (0.27 km) and Stein's 5 li to the mile
+(0.32 km) on Central Asian roads (GJ 1919, p. 271); the length itself is not new. It is well short of the
 440 m that Mizutani adopts from Mori Shikazō's Tang small li (補注二, pdf 435).
 
 The difference does not mean that 440 m is the wrong length for a Tang li. It means Xuanzang's stated li do not
@@ -278,7 +279,7 @@ figures were scaled, the scheme would show an unusual scale with little scatter.
   - Drāviḍa → Malakūṭa, 3000 li for 366 km.
 
   The Bengal legs north of the Mahānadī fit well.
-- **Conclusion.** The Deccan figures are inflated, unevenly, perhaps because they count roundabout forest routes
+- **Conclusion.** The Deccan figures are inflated (no earlier statement of this was found in the sources read), unevenly, perhaps because they count roundabout forest routes
   (the text's 山林) or derive from days' marches. A uniform regional li does not correct them. Cunningham's sites fit
   the figures better because they were chosen to fit them. The inscription-fixed sites should not be moved on route
   grounds.
