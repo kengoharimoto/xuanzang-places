@@ -281,21 +281,26 @@ https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw). Counted are works read, sear
    - **The pilot test** (`test_nw_a.tsv`, `test_nw_b.tsv`): the 47 asterisked or queried forms of India and the
      North-West, checked against the key and searched for attested forms in the Sanskrit e-text library
      (/mnt2/kengo/E-texts/1_sanskr, through a diacritic-free copy: `scripts/skt_norm.py`, `scripts/skt_search.py`), the
-     inscriptions and Stein's Kashmir material. 24 forms stand; 13 better forms, 4 alternatives and 6 doubtful,
-     among them Tamasāvana, Toyikā, Kheṭa(ka) for 契吒, Mūla-Sāmbapura for 茂羅三部盧, Mahāsāra, Kacaṅgalā, Lāhula and
-     *Palola for Bolor (the Gilgit kings' title; Gilgit becomes an alternative to Baltistan). The key also chooses among the forms Mizutani gives for 12 more places: for 9 he lists
+     inscriptions and Stein's Kashmir material. 24 forms stand; 13 better forms, 4 alternatives and 6 doubtful.
+     Most better forms were proposed before and the key only chooses them: Kheṭa(ka) for 契吒 (Cunningham's Kheda),
+     Mahāsāra (Cunningham, from the Masar inscriptions), *Palola for Bolor (von Hinüber; Gilgit becomes an alternative
+     to Baltistan), Coḷiya (Ji), Kacaṅgalā (the Avadānaśataka's form). Not found in the sources read, and so possibly
+     new: Tamasāvana (MSV, Divyāvadāna), Mūla-Sāmbapura for 茂羅三部盧, Lāhula (Tantrāloka), Sālātura (Bhāmaha),
+     Lambura as a nāga name, and Toyikā for Kāśyapa's town (Faxian's translators may already have it). The key also chooses among the forms Mizutani gives for 12 more places: for 9 he lists
      the fitting form himself, usually first (vakṣu, Goviṣāṇa, Dvārapati, the vernacular Tāmalitti, …), and for 3
      his form does not fit (Uraśā only, Licchava, Lampa).
    - **Afghanistan and Central Asia** (`test_ca_a.tsv`, `test_ca_b.tsv`): the other 45 forms, mostly Iranian, Saka,
      Turkic or Gāndhārī, tested with the key's consonant mapping and searched in the *Ḥudūd al-ʿĀlam* (Minorsky
      1937), Le Strange (1905), Barthold (1928) and Marquart's *Ērānšahr* (1901) (`data/ref/iran/`, gitignored), Ji,
-     Stein and Foucher. 23 stand; 13 better, 4 alternatives, 5 doubtful: Khamdādh (= Khandūd) for 昏馱多, Sutrūšna,
-     Agni for 阿耆尼, Parghar, Andrāb, Xwast (Khost), *War (the base of Warwālīz, Kunduz) for 活, Kurān, Khaṣa for 佉沙;
-     瞢健 is Munjān itself; 鶴悉那 hardly fits Ghazna, and 阿路猱 cannot be aruṇa (Xuanzang's own fanqie gives 猱 nau).
+     Stein and Foucher. 23 stand; 13 better, 4 alternatives, 5 doubtful. The better forms are earlier proposals that
+     the key confirms: Khamdādh (= Khandūd) for 昏馱多 (Minorsky), Sutrūšna (Minorsky, Barthold), Agni for 阿耆尼
+     (Henning, Ji), Parghar, Andrāb, Xwast (Khost), *War (the base of Warwālīz, Kunduz) for 活 and Kurān (Marquart),
+     Khaṣa for 佉沙 (Ji). The key's own verdicts are negative: 鶴悉那 hardly fits Ghazna, and 阿路猱 cannot be aruṇa
+     (Xuanzang's own fanqie gives 猱 nau).
    - **Bactrian** (`bactrian.tsv`): the Afghan names checked against Sims-Williams, *Bactrian Documents from
      Northern Afghanistan* I (2000) and II (2007) (Internet Archive OCR, `data/ref/simswilliams/`, gitignored; the
-     uploads state no licence, the uploader calls them open). 50 places: 10 confirmed, 1 better, 2 no fit. 活 = Warnu (the study's
-     equation), "probably the later Warwaliz (modern Qunduz)" (II p. 242), a city with a Wakhsh cult in a contract of c. 602;
+     uploads state no licence, the uploader calls them open). 50 places: 10 confirmed, 1 better, 2 no fit. 活 = Warnu (Sims-Williams,
+     after Marquart's *War), "probably the later Warwaliz (modern Qunduz)" (II p. 242), a city with a Wakhsh cult in a contract of c. 602;
      紇露悉泯健 = Rōb + Samingān, the court of the khars of Rob in the district of Samingan (docs. N, c. 630, to Q, c. 672);
      覩貨邏 = *Tuxwār (Toxwār-, with the w that Skt. Tukhāra lacks); Tarmid, Waxš, Baxl, Gōzgān, Bamyan, Khwast
      confirmed; Sar-i Pul's Bactrian name Amber does not fit 鋭秣陀. 揭職 is not Gaz but *Garčig, Bactrian γαρσιγο
