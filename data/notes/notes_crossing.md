@@ -111,8 +111,12 @@ beacon node), 12 km NNW of Liugong, by the Han wall and 5.8 km S of the Shule. I
 4.5 huali N of the Shule, and his grid point is 8 km NNE of Leidunzi across the river. On P.2005's figures
 (`route/p2005_posts.py`, rows X, Y, Z), Changle → Xinjing 27.7 li and Xinjing → Wushan 149 li by Baidunzi give 0.44
 and 0.45 km per li at Leidunzi, 0.51 and 0.48 at Huang's site, 0.56–0.65 (15.5 km by Li's "31 huali", 18 km by his
-grid and the OSM point for Liugong) and 0.40 at Li's; the road's own scale is 0.45–0.49. Huang's ground for making
-Leidunzi Qing is only its good preservation; no finds are reported from it.
+grid and the OSM point for Liugong) and 0.40 at Li's; the road's own scale is 0.45–0.49. Leidunzi is late: in 1907 Surveyor Ram Singh found the
+large towers W of An-hsi "of recent origin", and Stein confirms this for "the tower of Lei-tun-tzu", which Ram Singh
+visited (*Serindia* iii p. 1093 and n. 2); in 1914 Stein followed the Han wall W of An-hsi to a large tower "new in
+appearance, but [it] might well have been built round an old one serving as its core" (*Innermost Asia* i p. 369),
+unnamed and perhaps the same. Huang (2024) dates it Qing from its preservation alone. A Han or Tang core is
+possible but unshown; no finds are reported from it.
 **P.2005.** The posts of the Fifth Road (Sun 2017, pp. 140–143, checked on the scan): Xinjing 227 li 200 bu from
 Shazhou, then Guangxian and Wushan (run by Guazhou), Shuangquan, the Fifth post, Lengquan, Hutong and Chiya on the
 Yizhou border, set up in 678–696. Between posts they fall on the road's water stages at one scale (0.45–0.49 km per li,
@@ -120,7 +124,8 @@ Yizhou border, set up in 678–696. Between posts they fall on the road's water 
 coordinates put the series where Li found the posts (scheme B), one stage south of Stein's.
 **Assessment.** The Xinjing post lies 12–18 km N or NW of Changle, but its site is disputed among Leidunzi, Huang's
 Bazhou No. 2 city and Li's beacon N of the Shule, three distinct sites 7–15 km apart. P.2005's distances fit Leidunzi
-best and Li's least; Li's is the only one described with a fort and an Eastern Han beacon. That the post was the first
+best and Li's least, but the Leidunzi tower is recent, by Ram Singh and Stein a century before Huang; Li's is the
+only one described with a fort and an Eastern Han beacon. That the post was the first
 beacon of 629 rests on Li's equation of beacons and posts; Stein's Baidunzi rests on 5 li to the mile. The study leans
 to the Xinjing post, site open; the point stays at Li's. Open, medium. The point is Li's grid reading for the beacon (X16720.2, Y4494.7: Gauss–Krüger
 zone 16, 40.557 N, 95.600 E).
