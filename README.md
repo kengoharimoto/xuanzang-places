@@ -13,9 +13,10 @@ with Mizutani where Ji is silent, and its map is a visualisation of that standar
 **Pages.** [Map](https://claude.ai/artifact/WUH4GFEULK5rZ8oaXw8PpH) · [Findings](https://claude.ai/artifact/2H5yngbhmdj9pKEp5imP7e) · [Bibliography](https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw)
 
 **Against the standard** (`data/standard/compare_*.tsv`, `data/STANDARD_INSTRUCTIONS.md`): 366 of the 500 places have a
-standard identification. For 262 the study agrees, and for 28 it names a more exact site within it; for 76 it departs,
+standard identification. For 262 the study agrees, and for 28 it adopts a more exact site within it that others found; for 76 it departs,
 putting 35 elsewhere and leaving 41 open between the standard's site and another. Among the 148 countries, 121 agree
-or refine. Of the 134 places without a standard identification, mostly minor sites, the study proposes a site for 69.
+or refine. Of the 134 places without a standard identification, mostly minor sites, the study adopts a site for 69, all but
+one (Baili at Pichan, 01.04.x10) proposed by others.
 Kapilavastu is not a departure: Ji already leaves it open between Piprahwa and Tilaurakot. On the map a dark ring
 marks a departure, a light ring a refinement or a site where the standard has none.
 
