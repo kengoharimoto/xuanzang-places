@@ -10,6 +10,13 @@ point for the capital, using only the borders the text names and the lie of the 
 central. Rivers have moved since the 7th century. The circuits are rounded figures. And the scale of the li varies
 (see step 2).
 
+**Earlier work.** Setting Xuanzang's circuits against the land is not new. Cunningham (*Ancient Geography*, 1871)
+converts each country's circuit at 6 li to the mile and compares it with the districts it might cover: Udyāna's
+5,000 li fit the Swat drainage by road; Kashmir's 7,000 li fit the extended kingdom from the Indus to the Salt Range,
+not the valley's 300 miles. Kuwayama, Mizutani and others do the same for single countries (Kapiśa below). What this
+layer adds is drawing all the countries by one fixed rule, from the juan's li, the borders the text names and the
+drainage, so that the figures can be compared across the text.
+
 ## The method, step by step
 
 ### 1. The circuit

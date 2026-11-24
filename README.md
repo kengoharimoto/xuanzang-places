@@ -339,7 +339,9 @@ https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw). Counted are works read, sear
    - **Map filters and layers:** confidence, visit status, religious affiliation, K. Harimoto's notes, rival sites
      with their route fit, Mizutani's points, juan and level.
    - **Country areas (approximate):** a layer that gives each country an extent from its own circuit figure
-     (`scripts/country_areas.py`, `data/country_areas.tsv`, `map/country_areas.json`). For 134 of the 148 countries
+     (`scripts/country_areas.py`, `data/country_areas.tsv`, `map/country_areas.json`). Comparing the circuits with
+     the land is Cunningham's practice (1871: 6 li to the mile; Kashmir's 7,000 li as the extended kingdom); the
+     layer's part is one fixed rule for all countries. For 134 of the 148 countries
      the text gives a circuit (國周N里; Bāmiyān and Khwārazm give breadth and length instead). The circuit is scaled
      by the straight-line km per li of its juan's route legs (`route/li_regions.tsv`), so the Deccan's inflated
      figures shrink as its distances do, and turned into an area at 0.75 of a circle's compactness. From the
@@ -355,7 +357,7 @@ https://claude.ai/artifact/2GjJV6J5toAA6GspFXkJpw). Counted are works read, sear
      more readily towards it. Phrases about the capital (國大都城西臨殑伽河) are not borders and are left out. One
      check fails: Śatadru's "great river" on the west (西臨大河) lies north and north-east of the study's point for
      its capital (Sirhind), which fits the Sanghol alternative no better; it fits a country in the Ropar–Nalagarh tract east of the
-     Sutlej's southward stretch (note on 04.05). Mountains named as borders are used too
+     Sutlej's southward stretch (note on 04.05), where no one in the sources read places Śatadru. Mountains named as borders are used too
      (the same table, 13 rows): a range on one side (Kapiśa's and Lampāka's 北背雪山, Srughna's 北背大山, Khuttal's
      東接葱嶺) is a border at its crest (the highest ground within 60 km past the range's foot): the country may
      take the near slope, nothing beyond; mountains all round (山周四境 for Ferghana,
