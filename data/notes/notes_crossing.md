@@ -115,8 +115,11 @@ grid and the OSM point for Liugong) and 0.40 at Li's; the road's own scale is 0.
 large towers W of An-hsi "of recent origin", and Stein confirms this for "the tower of Lei-tun-tzu", which Ram Singh
 visited (*Serindia* iii p. 1093 and n. 2); in 1914 Stein followed the Han wall W of An-hsi to a large tower "new in
 appearance, but [it] might well have been built round an old one serving as its core" (*Innermost Asia* i p. 369),
-unnamed and perhaps the same. Huang (2024) dates it Qing from its preservation alone. A Han or Tang core is
-possible but unshown; no finds are reported from it.
+unnamed and perhaps the same. Huang (2024) dates it Qing from its preservation alone and saw no sign of an older
+tower cased over, as at Baidunzi. The heritage database's survey log describes a broken section of the tower showing
+loose mixed fill (五花土, 土質酥散), not the rammed courses or reed layers of the Han towers round it, with refuse and
+horse dung on its south side. Nothing published shows an older core; Stein's "might well" is the only suggestion of
+one, and no finds are reported from the tower.
 **P.2005.** The posts of the Fifth Road (Sun 2017, pp. 140–143, checked on the scan): Xinjing 227 li 200 bu from
 Shazhou, then Guangxian and Wushan (run by Guazhou), Shuangquan, the Fifth post, Lengquan, Hutong and Chiya on the
 Yizhou border, set up in 678–696. Between posts they fall on the road's water stages at one scale (0.45–0.49 km per li,

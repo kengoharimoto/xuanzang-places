@@ -47,30 +47,19 @@ after a quality check of 30 notes and an audit of every "high" rating without si
 Another 50 minor sites are placed approximately from Xuanzang's own bearing and distance, without an identification
 (`scripts/place_from_text.py`). 53 have no point.
 
-**Settled by inscriptions or seals found on the site:**
-- Kuśinagara at Kasia: the Haribala plate in the Nirvāṇa stūpa.
-- Śrāvastī and the Jetavana: the Govindachandra plate, and the Bodhisattva inscribed "in the Jetavana of Śrāvastī".
-- Kauśāmbī at Kosam: the Kara, Meohar and pillar inscriptions, and the Ghoṣitārāma excavation.
-- Puṇḍravardhana at Mahasthan: the inscription naming Pudanagara (Puṇḍranagara).
-- Nālandā: the monastery's sealings, and the Bālāditya inscription.
-- Taxila: four inscriptions naming Takṣaśilā.
-- Karṇasuvarṇa and the Raktamṛttikā monastery at Rajbadidanga: the monastery's own sealings.
-- Srughna at Sugh: a sealing reading "Sugha".
-- Ānandapura at Vadnagar.
-- Kanishka's stūpa at Shah-ji-ki-Dheri.
-
-**Moved by the new evidence:**
+**Moved by the new evidence.** None of these is the study's own identification: each rests on others' proposals and
+evidence, which the standard did not take up (the departures, with who proposed each, are tabled in FINDINGS.html):
 - **Kapilavastu** (06.02): open between Piprahwa–Ganwaria and Mizutani's Tilaurakot. The Piprahwa sealings name "the
   community of Kapilavastu monks in the Devaputra vihāra", but Falk (2017) dates them after the Kushans and takes them
   for Faxian's city; the IAR 2012–13 trenches found no habitation at Piprahwa and nothing after the Kushan period at
   Ganwaria. Tilaurakot is now dated as a walled town from the 6th century BCE (Davis et al. 2016), but nothing there
   names it, and Xuanzang's own legs split between the two.
-- **Kanishka's monastery** (02.04.06): the mound beside the stūpa at Shah-ji-ki-Dheri.
-- **Kosala's capital** (10.12): Śrīpura, now Sirpur.
-- **Koṅgoda** (10.10): the Chilka coast, from the Śailodbhava plates.
-- **Mālava** (11.05): central Gujarat, now an open alternative to Malwa (low confidence; Ji's case for Malwa
-  with Dhār and the route figures both weigh against it).
-- **Kukkuṭapāda** (09.01.03): Gurpa, the "Gurupāda" of an inscription.
+- **Kanishka's monastery** (02.04.06): the mound beside the stūpa at Shah-ji-ki-Dheri (Spooner).
+- **Kosala's capital** (10.12): Śrīpura, now Sirpur (Majumdar 1924; Mirashi and Pandeya, from the Somavaṃśī plates).
+- **Koṅgoda** (10.10): the Chilka coast, from the Śailodbhava plates (Kielhorn; Chakravarti).
+- **Mālava** (11.05): central Gujarat (Smith; Majumdar; Bhandarkar; Sircar), now an open alternative to Malwa (low
+  confidence; Ji's case for Malwa with Dhār and the route figures both weigh against it).
+- **Kukkuṭapāda** (09.01.03): Gurpa, the "Gurupāda" of an inscription (Banerji; Chhabra).
 
 The survey reports and the gazetteers do not reach juans 1 and 12 (Central Asia and Afghanistan). For the Afghan
 stretch Foucher's *La vieille route* (1942–47) now fills the gap.

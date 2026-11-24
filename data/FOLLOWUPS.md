@@ -251,7 +251,8 @@ See `data/LITERATURE.md` for the wanted list. Points raised by the coding and fo
   95°32.627′ E, is S of the Shule, 8 km from Li's point N of it); Leidunzi fits P.2005's distances best (route row Z).
   Leidunzi dated 2026-11-24: "of recent origin" (Ram Singh 1907, confirmed by Stein, *Serindia* iii p. 1093 n. 2;
   coded S032), perhaps the new-looking tower on an old core that Stein reached in 1914 (*Innermost Asia* i p. 369,
-  S033). Still to check: whether it has an old core (a section or a survey report), Li's figure 1 of his beacon, and
+  S033). No older core is reported: Huang saw no recasing, and the database's section shows loose mixed fill (checked
+  2026-11-24). Still to check: the Guazhou museum's survey record of Leidunzi, Li's figure 1 of his beacon, and
   Huang's other paper on Bazhou No. 2 as the Han Kunlun zhang.
   Located 2026-11-24 (`data/coords_added.tsv`): Xinjing from Li's own grid figures
   (n. [1]), Daquan 6 km NE of the station by his 12 li; Lucaojingzi is not on OSM and stays an estimate (±10 km), and
