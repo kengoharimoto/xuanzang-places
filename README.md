@@ -41,7 +41,9 @@ minor sites that have no point either. Taking Mizutani's identifications as the 
 - supports a different site, or leaves the place open between his and another, for 71;
 - offers a candidate no standard authority records for 25.
 
-On the map the study's confidence comes out as 104 places secure, 158 probable and 135 open. These are the ratings
+On the map the study's confidence comes out as 104 places secure, 158 probable and 135 open. A rating weighs the
+evidence and claims no discovery: every secure identification was made by others (the Survey, the excavators, the
+epigraphists), and the notes name them. These are the ratings
 after a quality check of 30 notes and an audit of every "high" rating without site evidence, and a second check of
 27 paragraphs added later (Ji, names, Bactrian, Stein/Drew, Kuwayama: 19 ok, 8 minor, all fixed; `data/notes/qc2_*.tsv`).
 Another 50 minor sites are placed approximately from Xuanzang's own bearing and distance, without an identification

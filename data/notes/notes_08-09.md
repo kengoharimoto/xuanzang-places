@@ -221,7 +221,7 @@ Avalokiteśvara by a large tank in the village.
 counts it among the early historic monasteries that grew in the early medieval period, with Pāla sculpture and several
 inscriptions.
 
-**Assessment.** This is the best-founded identification in these notes that Mizutani lacks. The route works without
+**Assessment.** Beglar's identification, adopted by Cunningham, is the best-founded of those Mizutani lacks. The route works without
 emendation, the monastery stands on the hillside as described, and an early Buddhist stūpa was excavated. No
 inscription names Guṇamati.
 

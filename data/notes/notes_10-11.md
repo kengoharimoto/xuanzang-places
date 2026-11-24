@@ -125,7 +125,7 @@ bend of the river (G#16). The 1911 and 1962 volumes repeat the old district gaze
 "appears to have been visited" by Xuanzang (G#166/1848).
 
 **Assessment.** Distance, bearing, an island once in the main stream, and a ruined temple on the summit all fit.
-This fills the gap Mizutani leaves; his Gaggarā pond lay at Campā itself, not 150 li east.
+Cunningham's later identification (ASR XV) fills the gap Mizutani leaves; his Gaggarā pond lay at Campā itself, not 150 li east.
 
 ### 10.03 羯朱嗢祇羅國 (Kajaṅgala) — Rajmahal (Kankjol); the minority sites lack support
 
