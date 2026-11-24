@@ -1027,8 +1027,7 @@ Droṇa's stūpa. Xuanzang goes from the vessel stūpa NE across the Ganges, 140
 140 km NNW of Basarh, N of the Ganges, and fails both the bearing and the crossing.
 
 **Assessment.** Deghwara is eliminated. Bhagwanganj is the only stupa found on Xuanzang's bearing, but it follows from
-Arrah as the Āṭavaka stupa (07.02.03b); Chirand goes with the north-bank route. Bhagwanganj is a candidate no standard
-authority records, at low confidence.
+Arrah as the Āṭavaka stupa (07.02.03b); Chirand goes with the north-bank route. Beglar's Bhagwanganj is a candidate outside the standard authorities, at low confidence.
 
 ### 07.03 吠舍釐國 (Vaiśālī) — Basarh; Bloch's survey, plan and Vaiśālī seals
 

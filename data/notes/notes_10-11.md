@@ -1401,8 +1401,7 @@ specific (data/names/).
 
 **Assessment.** The gazetteers only repeat. The name now favours Kaira: the characters give Kheṭa(ka), the Maitraka
 town that survives as Kheda, and exclude Cutch. The distance, so far the objection to Kaira, depends on where Mālava
-lay: Cunningham needed 1,300 li because he put Mālava at Dhār, but with this study's Mālava in central Gujarat SE of
-the Mahī (11.05), the "three days" NW of all three texts reaches Kheda without emendation (c. 75 km NW of Baroda),
+lay: Cunningham needed 1,300 li because he put Mālava at Dhār, but with Mālava in central Gujarat SE of the Mahī (Smith, Majumdar; 11.05), the "three days" NW of all three texts reaches Kheda without emendation (c. 75 km NW of Baroda),
 while Cutch lies some 375 km to the W; a dependency "with the same customs" as Mālava also suits a neighbour. That
 Mālava is itself low-confidence, and the onward bearing to Valabhī (N, 1,000+ li) fits neither candidate. Kaira is the
 better-supported candidate and Cutch the alternative; low confidence, since nothing on the ground is known.

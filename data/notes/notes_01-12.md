@@ -1460,8 +1460,7 @@ site.
 **Assessment.** The country is the lower Kunduz–Surkhāb plain, as all agree, supported by the name: 活 renders
 *War, the base of Warwālīz (Marquart) and the first syllable of the Bactrian city Warnu (Sims-Williams; see Name).
 Its capital, however, was on the south bank of the Oxus by the Life's own words (都城在河南岸), which Kunduz, 60 km
-inland, does not fit, and the Kyoto test trench at Kunduz found nothing earlier than the 5th century. Proposed: the
-town site N of Qal'a-ye Zāl (Kuwayama 2002, 2020), with Kunduz the alternative. But the route figures favour Kunduz:
+inland, does not fit, and the Kyoto test trench at Kunduz found nothing earlier than the 5th century. Kuwayama's town site N of Qal'a-ye Zāl (2002, 2020) is preferred, with Kunduz the alternative. But the route figures favour Kunduz:
 Khost → 活, 300 li (72 km predicted), is 100 km to Kunduz and 143 km to Qal'a-ye Zāl, and 活 → 瞢健, 東行百餘里 (24 km),
 is 23 km from Kunduz and 69 km from Qal'a-ye Zāl (route/README.md §8). Khesht Tepe, W of Qal'a-ye Zāl, is a second,
 smaller south-bank site (Kuwayama 2020), and the Hyecho link in Kuwayama's chain is contested (de la Vaissière, via
